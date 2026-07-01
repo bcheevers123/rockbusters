@@ -211,12 +211,16 @@ async function loadLeaderboard() {
 let _answerClues = [];
 let _progress = null;
 let _setId = null;
+let _allAnswerSets = null; // All answer sets, fetched only when reveal is clicked (or on restore-on-load)
 
 function renderQuiz(todaySet, answerClues, progress) {
   // Cache for handler use
   _answerClues = answerClues;
   _progress = progress;
   _setId = todaySet.id;
+
+  // If progress already shows revealed, _answerClues will be populated by loadQuiz
+  // Otherwise, on reveal click, handleReveal will fetch and populate _answerClues
 
   // Populate metadata
   setText('quiz-title', todaySet.title);
@@ -256,6 +260,8 @@ function renderQuiz(todaySet, answerClues, progress) {
   if (revealBtn) {
     revealBtn.addEventListener('click', () => handleReveal());
   }
+  // Store reference for disabling after click
+  window._revealBtn = revealBtn;
 
   // If already revealed, show answers
   if (progress.revealed) {
@@ -340,24 +346,51 @@ function handleGuess(clueNumber) {
 }
 
 // ---------------------------------------------------------------------------
-// handleReveal — called on reveal button click
+// handleReveal — called on reveal button click; fetches answers on demand
 // ---------------------------------------------------------------------------
-function handleReveal() {
+async function handleReveal() {
   const progress = _progress;
-  const answerClues = _answerClues;
   const setId = _setId;
 
-  if (!progress || !answerClues) return;
+  if (!progress) return;
+
+  // Fetch answers if not already loaded (deferred load for privacy)
+  if (_answerClues.length === 0) {
+    if (!_allAnswerSets) {
+      // First time: fetch all answer sets
+      try {
+        const aRes = await fetch('data/rockbusters-answers.json');
+        if (!aRes.ok) throw new Error(`Failed to load answer data: HTTP ${aRes.status}`);
+        _allAnswerSets = await aRes.json();
+      } catch (err) {
+        console.error('Failed to fetch answers:', err);
+        return;
+      }
+    }
+
+    // Find the matching answer set for today
+    const answerSet = _allAnswerSets.find(a => a.id === setId);
+    _answerClues = answerSet ? answerSet.clues : [];
+  }
+
+  if (!_answerClues || _answerClues.length === 0) return;
 
   progress.revealed = true;
   saveProgress(setId, progress);
 
   // Get the full set's clues from the rendered data to disable all
-  const allClueNumbers = answerClues.map(ac => ac.number);
+  const allClueNumbers = _answerClues.map(ac => ac.number);
   allClueNumbers.forEach(n => disableClue(n));
 
-  showAnswers(answerClues);
+  showAnswers(_answerClues);
   postReveal(setId); // fire and forget
+
+  // Hide/disable the reveal button to prevent double-fire
+  const revealBtn = document.getElementById('reveal-btn');
+  if (revealBtn) {
+    revealBtn.disabled = true;
+    revealBtn.style.display = 'none';
+  }
 }
 
 // ---------------------------------------------------------------------------
@@ -377,17 +410,22 @@ async function loadQuiz() {
     const todayIndex = getTodaysIndex(enabledSets.length);
     const todaySet = enabledSets[todayIndex];
 
-    // Fetch answer data
-    const aRes = await fetch('data/rockbusters-answers.json');
-    if (!aRes.ok) throw new Error(`Failed to load answer data: HTTP ${aRes.status}`);
-    const allAnswers = await aRes.json();
-
-    // Find matching answer set by id
-    const answerSet = allAnswers.find(a => a.id === todaySet.id);
-    const answerClues = answerSet ? answerSet.clues : [];
-
     // Load progress
     const progress = loadProgress(todaySet.id);
+
+    // Only fetch answers immediately if already revealed (restore-on-load case)
+    let answerClues = [];
+    if (progress.revealed) {
+      const aRes = await fetch('data/rockbusters-answers.json');
+      if (!aRes.ok) throw new Error(`Failed to load answer data: HTTP ${aRes.status}`);
+      const allAnswers = await aRes.json();
+      _allAnswerSets = allAnswers; // Cache for reveal handler
+
+      // Find matching answer set by id
+      const answerSet = allAnswers.find(a => a.id === todaySet.id);
+      answerClues = answerSet ? answerSet.clues : [];
+    }
+    // else: answers will be fetched on demand in handleReveal
 
     // Render
     renderQuiz(todaySet, answerClues, progress);
