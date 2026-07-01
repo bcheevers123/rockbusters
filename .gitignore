@@ -1,0 +1,25 @@
+# Secrets — never commit
+.env
+
+# Database files
+*.db
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Test / tooling caches
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# Build artefacts
+*.egg-info/
+dist/
+build/
+
+# Node (not currently used, kept for future tooling)
+node_modules/
