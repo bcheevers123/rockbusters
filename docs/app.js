@@ -185,16 +185,18 @@ async function loadLeaderboard() {
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const data = await res.json();
 
-    if (!Array.isArray(data) || data.length === 0) {
+    const entries = data.leaderboard ?? [];
+    if (entries.length === 0) {
       list.textContent = 'No scores yet.';
       return;
     }
 
     list.innerHTML = '';
-    data.forEach((entry, idx) => {
+    entries.forEach((entry, idx) => {
       const row = document.createElement('div');
       row.className = 'leaderboard-row';
-      row.textContent = `${idx + 1}. ${entry.display_name || 'Anonymous'} — ${entry.score ?? 0}`;
+      const todayStr = entry.today_points > 0 ? ` (+${entry.today_points} today)` : '';
+      row.textContent = `${idx + 1}. ${entry.display_name || 'Anonymous'} — ${entry.total_points ?? 0}${todayStr}`;
       list.appendChild(row);
     });
   } catch (e) {
@@ -211,7 +213,7 @@ async function loadLeaderboard() {
 let _answerClues = [];
 let _progress = null;
 let _setId = null;
-let _allAnswerSets = null; // All answer sets, fetched only when reveal is clicked (or on restore-on-load)
+let _allAnswerSets = null; // All answer sets, fetched in loadQuiz alongside questions
 
 function renderQuiz(todaySet, answerClues, progress) {
   // Cache for handler use
@@ -346,7 +348,7 @@ function handleGuess(clueNumber) {
 }
 
 // ---------------------------------------------------------------------------
-// handleReveal — called on reveal button click; fetches answers on demand
+// handleReveal — called on reveal button click; answers already loaded by loadQuiz
 // ---------------------------------------------------------------------------
 async function handleReveal() {
   const progress = _progress;
@@ -354,31 +356,13 @@ async function handleReveal() {
 
   if (!progress) return;
 
-  // Fetch answers if not already loaded (deferred load for privacy)
-  if (_answerClues.length === 0) {
-    if (!_allAnswerSets) {
-      // First time: fetch all answer sets
-      try {
-        const aRes = await fetch('data/rockbusters-answers.json');
-        if (!aRes.ok) throw new Error(`Failed to load answer data: HTTP ${aRes.status}`);
-        _allAnswerSets = await aRes.json();
-      } catch (err) {
-        console.error('Failed to fetch answers:', err);
-        return;
-      }
-    }
-
-    // Find the matching answer set for today
-    const answerSet = _allAnswerSets.find(a => a.id === setId);
-    _answerClues = answerSet ? answerSet.clues : [];
-  }
-
+  // Answers are loaded in loadQuiz; _answerClues is always populated
   if (!_answerClues || _answerClues.length === 0) return;
 
   progress.revealed = true;
   saveProgress(setId, progress);
 
-  // Get the full set's clues from the rendered data to disable all
+  // Disable all clue inputs
   const allClueNumbers = _answerClues.map(ac => ac.number);
   allClueNumbers.forEach(n => disableClue(n));
 
@@ -398,10 +382,17 @@ async function handleReveal() {
 // ---------------------------------------------------------------------------
 async function loadQuiz() {
   try {
-    // Fetch the question data
-    const qRes = await fetch('data/rockbusters.json');
+    // Fetch question data and answer data in parallel (answers needed for guess checking)
+    const [qRes, aRes] = await Promise.all([
+      fetch('data/rockbusters.json'),
+      fetch('data/rockbusters-answers.json'),
+    ]);
     if (!qRes.ok) throw new Error(`Failed to load quiz data: HTTP ${qRes.status}`);
+    if (!aRes.ok) throw new Error(`Failed to load answer data: HTTP ${aRes.status}`);
+
     const allSets = await qRes.json();
+    const allAnswers = await aRes.json();
+    _allAnswerSets = allAnswers; // Cache for any future use
 
     // Filter to enabled sets only
     const enabledSets = allSets.filter(s => s.enabled !== false);
@@ -413,19 +404,9 @@ async function loadQuiz() {
     // Load progress
     const progress = loadProgress(todaySet.id);
 
-    // Only fetch answers immediately if already revealed (restore-on-load case)
-    let answerClues = [];
-    if (progress.revealed) {
-      const aRes = await fetch('data/rockbusters-answers.json');
-      if (!aRes.ok) throw new Error(`Failed to load answer data: HTTP ${aRes.status}`);
-      const allAnswers = await aRes.json();
-      _allAnswerSets = allAnswers; // Cache for reveal handler
-
-      // Find matching answer set by id
-      const answerSet = allAnswers.find(a => a.id === todaySet.id);
-      answerClues = answerSet ? answerSet.clues : [];
-    }
-    // else: answers will be fetched on demand in handleReveal
+    // Find matching answer clues for today's set (always available now)
+    const answerSet = allAnswers.find(a => a.id === todaySet.id);
+    const answerClues = answerSet ? answerSet.clues : [];
 
     // Render
     renderQuiz(todaySet, answerClues, progress);
@@ -445,6 +426,10 @@ async function loadQuiz() {
 // initApp — called on DOMContentLoaded
 // ---------------------------------------------------------------------------
 function initApp() {
+  // Wire up leaderboard refresh button
+  const refreshBtn = document.getElementById('leaderboard-refresh-btn');
+  if (refreshBtn) refreshBtn.addEventListener('click', loadLeaderboard);
+
   const displayName = getDisplayName();
 
   if (!displayName) {

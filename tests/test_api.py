@@ -67,6 +67,7 @@ TEST_DISPLAY = "API Tester"
 # depend on execution order and don't interfere with each other.
 USER_409 = "test-user-409"
 USER_400 = "test-user-400"
+USER_REVEAL = "test-user-reveal"
 
 
 def _get_set_id(client: TestClient) -> str:
@@ -138,7 +139,7 @@ def test_reveal_200(client):
     resp = client.post(
         "/api/reveal",
         json={
-            "user_id": TEST_USER_ID,
+            "user_id": USER_REVEAL,
             "display_name": TEST_DISPLAY,
             "set_id": set_id,
         },

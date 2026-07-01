@@ -28,7 +28,7 @@ The frontend reads today's set directly from the JSON files bundled with the sit
 **1. Install Python dependencies**
 
 ```bash
-pip install -r api/requirements.txt
+pip install -r api/requirements-dev.txt
 ```
 
 **2. Create a `.env` file**
