@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: rockbusters-api
+    env: python
+    buildCommand: pip install -r api/requirements.txt
+    startCommand: uvicorn api.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: SQLITE_PATH
+        value: /tmp/rockbusters.db
+      - key: ROCKBUSTERS_BANK_PATH
+        value: data/rockbusters.yaml
+      - key: APP_TIMEZONE
+        value: Europe/London
+      - key: ALLOWED_ORIGINS
+        value: "*"

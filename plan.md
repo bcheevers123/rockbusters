@@ -222,6 +222,23 @@ POST /api/reveal
 
 GET  /api/user-status?user_id=X&set_id=Y
      → {revealed: bool, correct_clues: [1, 3], points_today: int}
+
+GET  /api/today
+     → Today's Rockbuster set (clues only, NO answers or aliases).
+     → Intended for external integrations (future Slack bot, Discord bot, etc.)
+     → Response shape:
+        {
+          set_id: str,
+          title: str,
+          topic: str,
+          intro: str,
+          prize: str,
+          date: str,        ← "1 July 2026"
+          clues: [
+            {number: int, initials: str, clue: str}
+          ]
+        }
+     → 200 always (uses same daily rotation logic as the frontend)
 ```
 
 CORS: allow `ALLOWED_ORIGINS` from config. Default `*` for dev.
