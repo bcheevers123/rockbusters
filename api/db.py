@@ -21,7 +21,7 @@ def init_db(db_path: str) -> None:
         cur.execute(
             """
             CREATE TABLE IF NOT EXISTS schema_version (
-                version INTEGER
+                version INTEGER PRIMARY KEY
             )
             """
         )
@@ -60,10 +60,8 @@ def init_db(db_path: str) -> None:
             """
         )
 
-        # Insert schema_version = 1 only on first run (table is empty).
-        row = cur.execute("SELECT version FROM schema_version").fetchone()
-        if row is None:
-            cur.execute("INSERT INTO schema_version (version) VALUES (1)")
+        # Insert schema_version = 1 only on first run; idempotent on re-runs.
+        cur.execute("INSERT OR IGNORE INTO schema_version (version) VALUES (1)")
 
         conn.commit()
     finally:
