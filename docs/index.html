@@ -1,12 +1,84 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="api-url" content="">
   <title>Rockbusters</title>
-  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <script type="module" src="app.js"></script>
+
+  <!-- Name prompt (shown if no display name in localStorage) -->
+  <section id="name-prompt">
+    <h1>Rockbusters</h1>
+    <p>What's your name?</p>
+    <input type="text" id="name-input" placeholder="Your name" autocomplete="off" maxlength="30">
+    <button id="name-submit-btn">Let's go</button>
+  </section>
+
+  <!-- Main quiz container (hidden until name is set) -->
+  <main id="quiz-container" style="display:none">
+    <header>
+      <h1 id="quiz-title"></h1>
+      <p id="quiz-date"></p>
+      <p id="quiz-intro"></p>
+    </header>
+
+    <section id="clues-section">
+
+      <div class="clue-block" id="clue-block-1">
+        <p class="clue-initials">Initials: <span id="initials-1"></span></p>
+        <p class="clue-text" id="clue-1"></p>
+        <div class="guess-row">
+          <input type="text" id="guess-input-1" placeholder="Your answer" autocomplete="off">
+          <button class="guess-btn" id="guess-btn-1">Guess</button>
+        </div>
+        <p class="result-line" id="result-1"></p>
+      </div>
+
+      <div class="clue-block" id="clue-block-2">
+        <p class="clue-initials">Initials: <span id="initials-2"></span></p>
+        <p class="clue-text" id="clue-2"></p>
+        <div class="guess-row">
+          <input type="text" id="guess-input-2" placeholder="Your answer" autocomplete="off">
+          <button class="guess-btn" id="guess-btn-2">Guess</button>
+        </div>
+        <p class="result-line" id="result-2"></p>
+      </div>
+
+      <div class="clue-block" id="clue-block-3">
+        <p class="clue-initials">Initials: <span id="initials-3"></span></p>
+        <p class="clue-text" id="clue-3"></p>
+        <div class="guess-row">
+          <input type="text" id="guess-input-3" placeholder="Your answer" autocomplete="off">
+          <button class="guess-btn" id="guess-btn-3">Guess</button>
+        </div>
+        <p class="result-line" id="result-3"></p>
+      </div>
+
+    </section>
+
+    <p id="quiz-prize"></p>
+
+    <button id="reveal-btn">Reveal Answers</button>
+
+    <section id="answers-section" style="display:none">
+      <h2>Answers</h2>
+      <p id="answer-line-1"></p>
+      <p id="answer-line-2"></p>
+      <p id="answer-line-3"></p>
+      <p id="answers-warning"></p>
+    </section>
+
+    <section id="leaderboard-section">
+      <h2>Leaderboard</h2>
+      <button id="leaderboard-refresh-btn">Refresh</button>
+      <ol id="leaderboard-list"></ol>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+  <script>document.addEventListener('DOMContentLoaded', window.initApp);</script>
 </body>
 </html>
