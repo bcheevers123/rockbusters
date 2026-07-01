@@ -1,6 +1,6 @@
 """Tests for daily set rotation logic."""
 
-from datetime import date
+from datetime import date, timedelta
 
 import pytest
 
@@ -109,7 +109,7 @@ def test_rotation_wraps_after_bank_length(three_set_bank):
     """After len(bank) days the rotation cycles back to day 0's set."""
     n = len(three_set_bank)  # 3
     day0 = get_set_for_date(three_set_bank, EPOCH)
-    day_n = get_set_for_date(three_set_bank, date(EPOCH.year, EPOCH.month, EPOCH.day + n))
+    day_n = get_set_for_date(three_set_bank, EPOCH + timedelta(days=n))
     assert day0.id == day_n.id
 
 

@@ -1,6 +1,8 @@
 """Tests for database scoring functions using in-memory SQLite."""
 
+import os
 import sqlite3
+import tempfile
 
 import pytest
 
@@ -22,52 +24,19 @@ from api.db import (
 
 @pytest.fixture
 def conn():
-    """Return an open in-memory SQLite connection with all tables created."""
-    init_db(":memory:")
-    # init_db opens and closes its own connection; we open a fresh one here.
-    c = sqlite3.connect(":memory:")
-    # Recreate schema in this connection (init_db works on a separate connection).
-    c.execute(
-        """
-        CREATE TABLE IF NOT EXISTS schema_version (
-            version INTEGER PRIMARY KEY
-        )
-        """
-    )
-    c.execute(
-        """
-        CREATE TABLE IF NOT EXISTS users (
-            user_id      TEXT PRIMARY KEY,
-            display_name TEXT,
-            created_at   TEXT
-        )
-        """
-    )
-    c.execute(
-        """
-        CREATE TABLE IF NOT EXISTS guesses (
-            id           INTEGER PRIMARY KEY AUTOINCREMENT,
-            user_id      TEXT    NOT NULL,
-            set_id       TEXT    NOT NULL,
-            clue_number  INTEGER NOT NULL,
-            is_correct   INTEGER NOT NULL,
-            guessed_at   TEXT    NOT NULL
-        )
-        """
-    )
-    c.execute(
-        """
-        CREATE TABLE IF NOT EXISTS daily_reveals (
-            user_id     TEXT NOT NULL,
-            set_id      TEXT NOT NULL,
-            reveal_date TEXT NOT NULL,
-            PRIMARY KEY (user_id, set_id)
-        )
-        """
-    )
-    c.commit()
+    """Return an open SQLite connection with the schema initialised by init_db.
+
+    Uses a temporary file so that init_db and the connection share the same
+    database state — no DDL duplication required.
+    """
+    with tempfile.NamedTemporaryFile(suffix=".db", delete=False) as f:
+        db_path = f.name
+    init_db(db_path)
+    c = sqlite3.connect(db_path)
+    c.row_factory = sqlite3.Row
     yield c
     c.close()
+    os.unlink(db_path)
 
 
 # ---------------------------------------------------------------------------

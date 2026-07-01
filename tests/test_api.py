@@ -59,10 +59,14 @@ def client():
             del sys.modules[mod_name]
 
 
-# We need a stable set_id and user across multiple tests in sequence.
-# Use module-level state so tests that depend on prior state can share it.
+# Stable user/display for tests that don't need isolated state.
 TEST_USER_ID = "test-user-api"
 TEST_DISPLAY = "API Tester"
+
+# Unique user IDs for tests that set up their own preconditions so they don't
+# depend on execution order and don't interfere with each other.
+USER_409 = "test-user-409"
+USER_400 = "test-user-400"
 
 
 def _get_set_id(client: TestClient) -> str:
@@ -104,13 +108,25 @@ def test_score_first_time_200(client):
 def test_score_second_time_409(client):
     """POST /api/score → 409 when the same clue is submitted twice."""
     set_id = _get_set_id(client)
+    # Precondition: submit the score once first so the second attempt gets 409.
+    first = client.post(
+        "/api/score",
+        json={
+            "user_id": USER_409,
+            "display_name": TEST_DISPLAY,
+            "set_id": set_id,
+            "clue_number": 1,
+        },
+    )
+    assert first.status_code == 200
+    # Second submission of the same clue must be rejected.
     resp = client.post(
         "/api/score",
         json={
-            "user_id": TEST_USER_ID,
+            "user_id": USER_409,
             "display_name": TEST_DISPLAY,
             "set_id": set_id,
-            "clue_number": 1,  # same clue as test_score_first_time_200
+            "clue_number": 1,
         },
     )
     assert resp.status_code == 409
@@ -134,13 +150,24 @@ def test_reveal_200(client):
 def test_score_after_reveal_400(client):
     """POST /api/score after reveal → 400."""
     set_id = _get_set_id(client)
+    # Precondition: reveal first so the subsequent score attempt is rejected.
+    reveal = client.post(
+        "/api/reveal",
+        json={
+            "user_id": USER_400,
+            "display_name": TEST_DISPLAY,
+            "set_id": set_id,
+        },
+    )
+    assert reveal.status_code == 200
+    # Scoring after reveal must be rejected.
     resp = client.post(
         "/api/score",
         json={
-            "user_id": TEST_USER_ID,
+            "user_id": USER_400,
             "display_name": TEST_DISPLAY,
             "set_id": set_id,
-            "clue_number": 2,  # a different clue, but reveal already happened
+            "clue_number": 2,
         },
     )
     assert resp.status_code == 400
