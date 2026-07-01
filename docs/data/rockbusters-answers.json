@@ -10,7 +10,7 @@
           "winegums",
           "wine gum"
         ],
-        "reasoning": "wine gums — gums (in your mouth) + wine (red and white booze)"
+        "reasoning": "gums (teeth live there) plus wine (red and white booze) = wine gums"
       },
       {
         "number": 2,
@@ -19,7 +19,7 @@
           "jelly babies",
           "jelly baby"
         ],
-        "reasoning": "jelly babies — babies (newborns) + jelly (wobbly)"
+        "reasoning": "babies (newborns) plus jelly (wobbly stuff) = jelly babies"
       },
       {
         "number": 3,
@@ -28,7 +28,7 @@
           "love hearts",
           "love heart"
         ],
-        "reasoning": "love hearts — hearts (organ that pumps blood) + love (gone all romantic)"
+        "reasoning": "hearts (organ that pumps blood) plus love (gone all romantic) = love hearts"
       }
     ]
   },
@@ -41,7 +41,7 @@
         "aliases": [
           "paris"
         ],
-        "reasoning": "Paris — Gary's run from Pierre sounds like 'Pair-is' / Gary's paired with Pierre... nah, it's Paris: Pierre rhymes, Gary's run = Gary's 'pairing' away"
+        "reasoning": "pair + is = Paris"
       },
       {
         "number": 2,
@@ -49,7 +49,7 @@
         "aliases": [
           "rome"
         ],
-        "reasoning": "Rome — the Pope roams around the Vatican, which is in Rome. Roam = Rome."
+        "reasoning": "roam sounds like Rome, and the Pope roams around the Vatican which is in Rome"
       },
       {
         "number": 3,
@@ -57,7 +57,7 @@
         "aliases": [
           "vienna"
         ],
-        "reasoning": "Vienna — vines on a violin, vine-y-an... Vienna. Bit of a stretch but that's the whole point."
+        "reasoning": "V + Anna = Vienna"
       }
     ]
   },
@@ -71,7 +71,7 @@
           "grease",
           "the grease"
         ],
-        "reasoning": "Grease — a mechanic greases things, and you grease/prep a surface before painting. Grease."
+        "reasoning": "sounds like Greece, spelled Grease"
       },
       {
         "number": 2,
@@ -79,7 +79,7 @@
         "aliases": [
           "troy"
         ],
-        "reasoning": "Troy — the Trojan horse, city of Troy. Troy."
+        "reasoning": "T + Roy = Troy"
       },
       {
         "number": 3,
@@ -87,7 +87,7 @@
         "aliases": [
           "jaws"
         ],
-        "reasoning": "Jaws — the shark film. Something with big jaws ate him. Jaws."
+        "reasoning": "J + AWS = Jaws"
       }
     ]
   }

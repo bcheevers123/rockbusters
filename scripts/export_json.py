@@ -1,18 +1,19 @@
 """Rockbusters export script — converts the YAML question bank to JSON for the frontend."""
 
 import json
-import os
 import sys
+from pathlib import Path
 
-# Ensure the project root is on the path when running from project root
-sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+# Resolve paths relative to this script so the export works from any working directory
+ROOT = Path(__file__).parent.parent
+sys.path.insert(0, str(ROOT))
 
 from api.content_bank import get_enabled_sets, load_bank
 
-BANK_PATH = "data/rockbusters.yaml"
-OUT_DIR = "docs/data"
-QUESTIONS_PATH = os.path.join(OUT_DIR, "rockbusters.json")
-ANSWERS_PATH = os.path.join(OUT_DIR, "rockbusters-answers.json")
+BANK_PATH = ROOT / "data" / "rockbusters.yaml"
+OUT_DIR = ROOT / "docs" / "data"
+QUESTIONS_PATH = OUT_DIR / "rockbusters.json"
+ANSWERS_PATH = OUT_DIR / "rockbusters-answers.json"
 
 
 def set_to_questions_dict(rb_set) -> dict:
@@ -55,10 +56,10 @@ def set_to_answers_dict(rb_set) -> dict:
 
 
 def main():
-    bank = load_bank(BANK_PATH)
+    bank = load_bank(str(BANK_PATH))
     enabled = get_enabled_sets(bank)
 
-    os.makedirs(OUT_DIR, exist_ok=True)
+    OUT_DIR.mkdir(parents=True, exist_ok=True)
 
     questions = [set_to_questions_dict(s) for s in enabled]
     answers = [set_to_answers_dict(s) for s in enabled]
