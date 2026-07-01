@@ -1,0 +1,105 @@
+- id: sweetbusters-001
+  enabled: true
+  title: Sweetbusters
+  topic: UK sweets
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Right, Sweetbusters. Rockbusters, but UK sweets again."
+  prize: "Email in. Winner gets The Best of The Corrs on MiniDisc."
+  clues:
+    - number: 1
+      initials: W G
+      clue: "Right, that bit in your mouth where the teeth sort of live, it's been on the red and white booze. What's happened there?"
+      answer: Wine Gums
+      aliases:
+        - wine gums
+        - winegums
+        - wine gum
+      reasoning: "wine gums — gums (in your mouth) + wine (red and white booze)"
+    - number: 2
+      initials: J B
+      clue: "Little newborns, right, but they're all wobbly. You wouldn't put one in a pram."
+      answer: Jelly Babies
+      aliases:
+        - jelly babies
+        - jelly baby
+      reasoning: "jelly babies — babies (newborns) + jelly (wobbly)"
+    - number: 3
+      initials: L H
+      clue: "The organ that pumps blood has gone all romantic and that. Bit soppy."
+      answer: Love Hearts
+      aliases:
+        - love hearts
+        - love heart
+      reasoning: "love hearts — hearts (organ that pumps blood) + love (gone all romantic)"
+
+- id: citybusters-001
+  enabled: true
+  title: Citybusters
+  topic: European cities
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Right, Citybusters. Rockbusters but it's all European cities this week."
+  prize: "Email in your answers. Winner gets a Now That's What I Call Music 52 on cassette."
+  clues:
+    - number: 1
+      initials: P
+      clue: "Right, a bloke called Gary has gone and done a runner from a French bloke called Pierre. What's he done there?"
+      answer: Paris
+      aliases:
+        - paris
+      reasoning: "Paris — Gary's run from Pierre sounds like 'Pair-is' / Gary's paired with Pierre... nah, it's Paris: Pierre rhymes, Gary's run = Gary's 'pairing' away"
+    - number: 2
+      initials: R
+      clue: "The Pope's having a bit of a wander round his back garden. Bit chilly for it."
+      answer: Rome
+      aliases:
+        - rome
+      reasoning: "Rome — the Pope roams around the Vatican, which is in Rome. Roam = Rome."
+    - number: 3
+      initials: V
+      clue: "Right, a bloke's gone and put a lot of vines on his instrument but he's not bothered about it. What's that all about?"
+      answer: Vienna
+      aliases:
+        - vienna
+      reasoning: "Vienna — vines on a violin, vine-y-an... Vienna. Bit of a stretch but that's the whole point."
+
+- id: filmbusters-001
+  enabled: true
+  title: Filmbusters
+  topic: Famous films
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Right, Filmbusters. Same as Rockbusters but it's famous films."
+  prize: "Email your answers in. Winner gets a signed photo of someone off Hollyoaks."
+  clues:
+    - number: 1
+      initials: G
+      clue: "Right, a mechanic's gone and rubbed the car down so it'll take the new paint. What's happened there then?"
+      answer: Grease
+      aliases:
+        - grease
+        - the grease
+      reasoning: "Grease — a mechanic greases things, and you grease/prep a surface before painting. Grease."
+    - number: 2
+      initials: T
+      clue: "This bloke from ancient Greece has gone and found a wooden horse on his doorstep. He's not best pleased."
+      answer: Troy
+      aliases:
+        - troy
+      reasoning: "Troy — the Trojan horse, city of Troy. Troy."
+    - number: 3
+      initials: J
+      clue: "Right, some fella's gone and had his lower half eaten off by something in the water. Probably shouldn't have gone swimming there."
+      answer: Jaws
+      aliases:
+        - jaws
+      reasoning: "Jaws — the shark film. Something with big jaws ate him. Jaws."

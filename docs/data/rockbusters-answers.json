@@ -1,0 +1,94 @@
+[
+  {
+    "id": "sweetbusters-001",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Wine Gums",
+        "aliases": [
+          "wine gums",
+          "winegums",
+          "wine gum"
+        ],
+        "reasoning": "wine gums — gums (in your mouth) + wine (red and white booze)"
+      },
+      {
+        "number": 2,
+        "answer": "Jelly Babies",
+        "aliases": [
+          "jelly babies",
+          "jelly baby"
+        ],
+        "reasoning": "jelly babies — babies (newborns) + jelly (wobbly)"
+      },
+      {
+        "number": 3,
+        "answer": "Love Hearts",
+        "aliases": [
+          "love hearts",
+          "love heart"
+        ],
+        "reasoning": "love hearts — hearts (organ that pumps blood) + love (gone all romantic)"
+      }
+    ]
+  },
+  {
+    "id": "citybusters-001",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Paris",
+        "aliases": [
+          "paris"
+        ],
+        "reasoning": "Paris — Gary's run from Pierre sounds like 'Pair-is' / Gary's paired with Pierre... nah, it's Paris: Pierre rhymes, Gary's run = Gary's 'pairing' away"
+      },
+      {
+        "number": 2,
+        "answer": "Rome",
+        "aliases": [
+          "rome"
+        ],
+        "reasoning": "Rome — the Pope roams around the Vatican, which is in Rome. Roam = Rome."
+      },
+      {
+        "number": 3,
+        "answer": "Vienna",
+        "aliases": [
+          "vienna"
+        ],
+        "reasoning": "Vienna — vines on a violin, vine-y-an... Vienna. Bit of a stretch but that's the whole point."
+      }
+    ]
+  },
+  {
+    "id": "filmbusters-001",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Grease",
+        "aliases": [
+          "grease",
+          "the grease"
+        ],
+        "reasoning": "Grease — a mechanic greases things, and you grease/prep a surface before painting. Grease."
+      },
+      {
+        "number": 2,
+        "answer": "Troy",
+        "aliases": [
+          "troy"
+        ],
+        "reasoning": "Troy — the Trojan horse, city of Troy. Troy."
+      },
+      {
+        "number": 3,
+        "answer": "Jaws",
+        "aliases": [
+          "jaws"
+        ],
+        "reasoning": "Jaws — the shark film. Something with big jaws ate him. Jaws."
+      }
+    ]
+  }
+]
