@@ -13,3 +13,7 @@ services:
         value: Europe/London
       - key: ALLOWED_ORIGINS
         value: "*"
+      - key: GOOGLE_SHEETS_ID
+        value: ""
+      - key: GOOGLE_SERVICE_ACCOUNT_JSON
+        value: ""
