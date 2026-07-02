@@ -238,6 +238,18 @@ body {
    Score tracker
 --------------------------------------------------------------------------- */
 
+.countdown {
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--ink-faint);
+  letter-spacing: 0.03em;
+  margin-bottom: 0.35rem;
+}
+
+.countdown-urgent {
+  color: var(--brand);
+}
+
 .score-tracker {
   display: flex;
   align-items: center;

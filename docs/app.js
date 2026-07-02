@@ -608,6 +608,34 @@ function toggleAbout() {
 }
 
 // ---------------------------------------------------------------------------
+// Countdown to midnight GMT
+// ---------------------------------------------------------------------------
+function updateCountdown() {
+  const el = document.getElementById('countdown');
+  if (!el) return;
+
+  const now = new Date();
+  // Midnight tonight in GMT = start of tomorrow UTC
+  const nowUtc = now.getTime() + now.getTimezoneOffset() * 60000; // ms since epoch in UTC
+  const todayUtcMidnight = Math.floor(nowUtc / 86400000) * 86400000;
+  const nextMidnightUtc = todayUtcMidnight + 86400000;
+  const msLeft = nextMidnightUtc - nowUtc;
+
+  const h = Math.floor(msLeft / 3600000);
+  const m = Math.floor((msLeft % 3600000) / 60000);
+  const s = Math.floor((msLeft % 60000) / 1000);
+
+  const pad = n => String(n).padStart(2, '0');
+  el.textContent = `Next Rockbusters in ${pad(h)}:${pad(m)}:${pad(s)}`;
+  el.classList.toggle('countdown-urgent', h === 0 && m < 10);
+}
+
+function startCountdown() {
+  updateCountdown();
+  setInterval(updateCountdown, 1000);
+}
+
+// ---------------------------------------------------------------------------
 // Wire all static buttons once — called once from initApp
 // ---------------------------------------------------------------------------
 function wireQuizButtons() {
@@ -652,6 +680,7 @@ function wireQuizButtons() {
 // ---------------------------------------------------------------------------
 function initApp() {
   wireQuizButtons();
+  startCountdown();
 
   // Hidden trigger: click site title 3x within 3 seconds
   let _tapCount = 0;
