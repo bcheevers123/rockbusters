@@ -250,5 +250,677 @@
         "clue": "There's a massive island in the sea, and someone's gone and written Easter on it. Just Easter. On the whole island."
       }
     ]
+  },
+  {
+    "id": "easterbusters-004",
+    "enabled": true,
+    "title": "Easterbusters",
+    "topic": "easterbusters",
+    "difficulty": "medium",
+    "office_safe": true,
+    "region_relevance": [],
+    "intro": "Easter. Karl's trying to figure out what Maundy Thursday is. He thinks it might be something to do with a bloke called Maundy. Three clues.",
+    "prize": "Email in. Winner gets a printed photo from a disposable camera, framed.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "M T",
+        "clue": "There's this fella called Maundy, right, and it's Thursday. His day. He's claimed Thursday as his own. Walks around owning Thursdays."
+      },
+      {
+        "number": 2,
+        "initials": "P S",
+        "clue": "There's a fella called Paul — well, Palm, but let's say Paul — and he's gone out on a Sunday. Big day out. Palm leaves everywhere."
+      },
+      {
+        "number": 3,
+        "initials": "L S",
+        "clue": "Someone had a supper. The last one they were going to have. They made a meal of it. Literally, they made a meal of it."
+      }
+    ]
+  },
+  {
+    "id": "easterbusters-005",
+    "enabled": true,
+    "title": "Easterbusters",
+    "topic": "easterbusters",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [],
+    "intro": "Easter. Karl says Shrove Tuesday is basically just an excuse to have pancakes, and he's not wrong about that. Three clues.",
+    "prize": "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "S T",
+        "clue": "Someone's gone and shroved. On a Tuesday. Proper shroved. Not sure what shroved means exactly but they've done a thorough job of it."
+      },
+      {
+        "number": 2,
+        "initials": "A W",
+        "clue": "Someone called Ashley — well, Ash — went out on a Wednesday and got a bit ashy. Grey on the forehead. Very Wednesday energy."
+      },
+      {
+        "number": 3,
+        "initials": "L",
+        "clue": "This fella called Len, right, and he's gone and lent something. Not for long though. Forty days. He'll want it back."
+      }
+    ]
+  },
+  {
+    "id": "easterbusters-006",
+    "enabled": true,
+    "title": "Easterbusters",
+    "topic": "easterbusters",
+    "difficulty": "hard",
+    "office_safe": true,
+    "region_relevance": [],
+    "intro": "Easter. Karl's been thinking about resurrection. He says it's basically like when a computer restarts. Three clues.",
+    "prize": "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "R S",
+        "clue": "Something's come back. On a Sunday. It was gone but now it's back. Sunday. Back again. Bit dramatic about the whole thing."
+      },
+      {
+        "number": 2,
+        "initials": "G G",
+        "clue": "There's a garden, and someone called Geth — well, Gethsemane — is in it. Late at night. Just sitting in a garden at night. Very moody."
+      },
+      {
+        "number": 3,
+        "initials": "P P",
+        "clue": "There's this fella called Pontius, right, and he's gone and piloted something. Or pilated. He's washed his hands of the whole thing anyway."
+      }
+    ]
+  },
+  {
+    "id": "easterbusters-007",
+    "enabled": true,
+    "title": "Easterbusters",
+    "topic": "easterbusters",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [],
+    "intro": "Easter. Karl found a cream egg and bit into it before reading the wrapper. He wasn't ready for it. Three clues.",
+    "prize": "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "C C E",
+        "clue": "There's an egg, yeah, and it's gone all creamy inside. Cadbury's done something to it. Put cream in it. An egg with cream. That's the whole thing."
+      },
+      {
+        "number": 2,
+        "initials": "L B",
+        "clue": "There's a bunny made of Lindt. Which is a fancy chocolate. The bunny's got a little bell on. Very posh bunny."
+      },
+      {
+        "number": 3,
+        "initials": "M E",
+        "clue": "These eggs are tiny. Mini. Just little. Someone's made them small on purpose. You eat about forty before you feel anything."
+      }
+    ]
+  },
+  {
+    "id": "easterbusters-008",
+    "enabled": true,
+    "title": "Easterbusters",
+    "topic": "easterbusters",
+    "difficulty": "medium",
+    "office_safe": true,
+    "region_relevance": [],
+    "intro": "Easter. Karl's been on an egg hunt. He found two eggs and one was a real one. He doesn't know which. Three clues.",
+    "prize": "Email in. Winner gets a signed letter from someone off Emmerdale, possibly.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "E E H",
+        "clue": "There's a hunt, right, and it's for eggs. Easter eggs. Hidden about. In the garden. Someone's put them there and now everyone's hunting. Very chaotic."
+      },
+      {
+        "number": 2,
+        "initials": "E P",
+        "clue": "There's a parade, and it's got Easter written all over it. People marching about. Hats. Spring hats. Very paraded."
+      },
+      {
+        "number": 3,
+        "initials": "E R",
+        "clue": "Someone's got an egg, right, and they've rolled it. Down a hill. On purpose. It's an Easter thing. The egg's just going down a hill."
+      }
+    ]
+  },
+  {
+    "id": "easterbusters-009",
+    "enabled": true,
+    "title": "Easterbusters",
+    "topic": "easterbusters",
+    "difficulty": "medium",
+    "office_safe": true,
+    "region_relevance": [],
+    "intro": "Easter. Karl's trying to explain the spring equinox to Ricky. Ricky's not listening. Three clues.",
+    "prize": "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "E S R",
+        "clue": "Someone's got an egg, and they've put it on a spoon, and they're running. The egg's on the spoon and they're racing. Classic situation."
+      },
+      {
+        "number": 2,
+        "initials": "S E",
+        "clue": "It's the spring equinox. Two words. Spring and equinox. Equal night and day. Karl doesn't see why it matters but apparently it does."
+      },
+      {
+        "number": 3,
+        "initials": "L S",
+        "clue": "It's the season, right, and lambs are being born. Just lambing about everywhere. Tiny lambs. Very lamb-intensive period."
+      }
+    ]
+  },
+  {
+    "id": "easterbusters-010",
+    "enabled": true,
+    "title": "Easterbusters",
+    "topic": "easterbusters",
+    "difficulty": "medium",
+    "office_safe": true,
+    "region_relevance": [],
+    "intro": "Easter. Karl says spring chickens are not actually from spring. He's looked into it. Bit misleading. Three clues.",
+    "prize": "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "S C",
+        "clue": "There's a chicken, right, and it's young. Very young. A spring one. Just born in spring. Fresh chicken. Spring chicken."
+      },
+      {
+        "number": 2,
+        "initials": "G S",
+        "clue": "There's a man on a road, yeah, and someone's beaten him up and left him there. And this other fella helps him. Good of him. A good Sam."
+      },
+      {
+        "number": 3,
+        "initials": "P S",
+        "clue": "There's a son, right, and he's gone a bit prodigal. Spent all the money. Came back. Dad was dead chuffed to see him. Made a fuss."
+      }
+    ]
+  },
+  {
+    "id": "easterbusters-011",
+    "enabled": true,
+    "title": "Easterbusters",
+    "topic": "easterbusters",
+    "difficulty": "hard",
+    "office_safe": true,
+    "region_relevance": [],
+    "intro": "Easter. Karl's been thinking about Thomas. He says he'd have been doubtful too. Seems reasonable. Three clues.",
+    "prize": "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "D T",
+        "clue": "There's this fella called Thomas, right, and he's doubting everything. Very doubtful. Won't believe anything without seeing it. Classic Thomas."
+      },
+      {
+        "number": 2,
+        "initials": "V",
+        "clue": "There's a woman called Veronica, and she's done something kind. Wiped someone's face. Just wiped it. With a cloth. Very Veronica thing to do."
+      },
+      {
+        "number": 3,
+        "initials": "B",
+        "clue": "There's a fella called Barabbas, right, and the crowd wanted him freed. Just him. Over everybody else. The whole crowd going 'Barabbas'. Bit odd."
+      }
+    ]
+  },
+  {
+    "id": "easterbusters-012",
+    "enabled": true,
+    "title": "Easterbusters",
+    "topic": "easterbusters",
+    "difficulty": "hard",
+    "office_safe": true,
+    "region_relevance": [],
+    "intro": "Easter. Karl's found out about Simon of Cyrene. He says he was basically just walking past and got roped in. Typical. Three clues.",
+    "prize": "Email in. Winner gets a printed photo from a disposable camera, framed.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "S C",
+        "clue": "There's a fella called Simon, and he's from Cyrene, right, and he's just been walking along, minding his own business, when someone hands him something heavy."
+      },
+      {
+        "number": 2,
+        "initials": "C T",
+        "clue": "Someone's made a crown, yeah, but instead of the nice stuff they've used thorns. Sharp ones. Very thorny crown. Not comfortable."
+      },
+      {
+        "number": 3,
+        "initials": "S C",
+        "clue": "There are stations, right, and they're of the cross. Like stops. Fourteen stops. Like a bus route but more solemn. The cross route."
+      }
+    ]
+  },
+  {
+    "id": "easterbusters-013",
+    "enabled": true,
+    "title": "Easterbusters",
+    "topic": "easterbusters",
+    "difficulty": "medium",
+    "office_safe": true,
+    "region_relevance": [],
+    "intro": "Easter. Karl's reading about Mary Magdalene. He says she sounds like she had a lot on. Three clues.",
+    "prize": "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "M M",
+        "clue": "There's a woman called Mary, and she's gone a bit Magdalene. Very devoted. Up early. First at the tomb. Very committed Mary."
+      },
+      {
+        "number": 2,
+        "initials": "J A",
+        "clue": "There's a fella from Arimathea — that's a place — and his name's Joseph. He's sorted out a tomb. Just had one going spare."
+      },
+      {
+        "number": 3,
+        "initials": "J I",
+        "clue": "There's a fella called Judas, and his surname's Iscariot. He's gone and betrayed someone for thirty pieces of silver. Thirty. Not even a round number."
+      }
+    ]
+  },
+  {
+    "id": "easterbusters-014",
+    "enabled": true,
+    "title": "Easterbusters",
+    "topic": "easterbusters",
+    "difficulty": "medium",
+    "office_safe": true,
+    "region_relevance": [],
+    "intro": "Easter. Karl's trying to find Galilee on a map. He says it's near the sea. That narrows it down. Three clues.",
+    "prize": "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "G",
+        "clue": "There's a place called Galilee, and it's got a sea nearby. The Sea of Galilee. Very sea-ish. Very Galiley."
+      },
+      {
+        "number": 2,
+        "initials": "B",
+        "clue": "There's a town called Bethlehem, right, and someone important was born there. Very famous birthplace. Cards about it every Christmas."
+      },
+      {
+        "number": 3,
+        "initials": "N",
+        "clue": "There's a town called Nazareth, yeah, and it's where a carpenter lived. Quiet town. Carpentry going on. Then things got complicated."
+      }
+    ]
+  },
+  {
+    "id": "easterbusters-015",
+    "enabled": true,
+    "title": "Easterbusters",
+    "topic": "easterbusters",
+    "difficulty": "medium",
+    "office_safe": true,
+    "region_relevance": [],
+    "intro": "Easter. Karl's been reading about Jerusalem. He says it sounds like a lot of drama. He prefers Manchester. Three clues.",
+    "prize": "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "J",
+        "clue": "There's a city called Jerusalem, and a lot of things have happened there. A lot. Karl says it's probably got a good chippy though."
+      },
+      {
+        "number": 2,
+        "initials": "D S",
+        "clue": "There's a sea, right, and it's dead. Very salty. Nothing lives in it. You float in it. Just bob about. A dead sea."
+      },
+      {
+        "number": 3,
+        "initials": "J R",
+        "clue": "There's a river called Jordan, and people got baptised in it. In the actual river. Just standing in a river getting baptised. Jordan river."
+      }
+    ]
+  },
+  {
+    "id": "easterbusters-016",
+    "enabled": true,
+    "title": "Easterbusters",
+    "topic": "easterbusters",
+    "difficulty": "hard",
+    "office_safe": true,
+    "region_relevance": [],
+    "intro": "Easter. Karl's wondering about the Mount of Olives. He says he's never seen an olive tree and doesn't trust them. Three clues.",
+    "prize": "Email in. Winner gets a signed letter from someone off Emmerdale, possibly.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "M O",
+        "clue": "There's a mount — like a hill — and it's covered in olives. Olive trees. The whole mount is very olivey. Mount of Olives. Quite straightforward really."
+      },
+      {
+        "number": 2,
+        "initials": "C",
+        "clue": "There's a cross, right, and someone's put a person on it. Made it into a crucifix. Very cross-shaped. It's got a corpus on it. A crucifix."
+      },
+      {
+        "number": 3,
+        "initials": "H S",
+        "clue": "There's a sepulchre, right, and it's holy. A holy sepulchre. Where they put someone. Very important sepulchre. Churches named after it."
+      }
+    ]
+  },
+  {
+    "id": "easterbusters-017",
+    "enabled": true,
+    "title": "Easterbusters",
+    "topic": "easterbusters",
+    "difficulty": "hard",
+    "office_safe": true,
+    "region_relevance": [],
+    "intro": "Easter. Karl's thinking about Nicodemus. He says it sounds like a medicine. Like something for a cold. Three clues.",
+    "prize": "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "N",
+        "clue": "There's a fella called Nicodemus, right, and he came at night. Secret visit. Very cloak-and-dagger. Just turned up in the dark to ask questions."
+      },
+      {
+        "number": 2,
+        "initials": "G",
+        "clue": "There's a place called Golgotha — the place of the skull they call it — and it's not a nice place. Very skull-themed. Bit grim."
+      },
+      {
+        "number": 3,
+        "initials": "D F",
+        "clue": "There's a field of daffodils, right, and it's just full of them. Yellow everywhere. Daffodil field. Bit overwhelming if you're not ready for it."
+      }
+    ]
+  },
+  {
+    "id": "easterbusters-018",
+    "enabled": true,
+    "title": "Easterbusters",
+    "topic": "easterbusters",
+    "difficulty": "medium",
+    "office_safe": true,
+    "region_relevance": [],
+    "intro": "Easter. Karl's found out about disciples. He says there were twelve and wonders how they all agreed on anything. Three clues.",
+    "prize": "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "D",
+        "clue": "There are twelve of them, and they're disciples. Just following someone about. Very disciple-y. Twelve disciples doing disciple things."
+      },
+      {
+        "number": 2,
+        "initials": "S G",
+        "clue": "There's a sea and it's called Galilee again, but now someone's fishing on it. In a boat. Quite calm. Sea of Galilee."
+      },
+      {
+        "number": 3,
+        "initials": "G",
+        "clue": "There's a garden called Gethsemane — not the one from earlier, well, the same one — and someone's kneeling in it. Very garden-kneely."
+      }
+    ]
+  },
+  {
+    "id": "easterbusters-019",
+    "enabled": true,
+    "title": "Easterbusters",
+    "topic": "easterbusters",
+    "difficulty": "medium",
+    "office_safe": true,
+    "region_relevance": [],
+    "intro": "Easter. Karl says he once knew a bloke called Laz. Lovely fella. Had a bit of a lying-about problem. Three clues.",
+    "prize": "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "L",
+        "clue": "There's this fella, right, and he's had a good laze. A proper lie-about. And then gone a bit russ — gone rusty, like. Just all rusty from the lazing. You'd say it: laze-a-russ."
+      },
+      {
+        "number": 2,
+        "initials": "A",
+        "clue": "There's an alley, right — a back alley — and someone's nipped in there to use the loo. Very casual about it. Done a number one. You'd say it out loud: alley-loo-ya. Alleluia."
+      },
+      {
+        "number": 3,
+        "initials": "W W",
+        "clue": "There's a king, right, and he lives in a wall. A wall-king. And he's decided to go for a stroll. On the water. Not in a boat — on it. Wall-king on water."
+      }
+    ]
+  },
+  {
+    "id": "easterbusters-020",
+    "enabled": true,
+    "title": "Easterbusters",
+    "topic": "easterbusters",
+    "difficulty": "medium",
+    "office_safe": true,
+    "region_relevance": [],
+    "intro": "Easter. Karl's been to a church service and stayed for the whole thing. He says it was very candle-heavy. He lost count after twelve. Three clues.",
+    "prize": "Email in. Winner gets a printed photo from a disposable camera, framed.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "E V",
+        "clue": "It's Easter, right, and there's a vigil on. Someone's staying up all night in a church. Very committed to staying awake. Karl says he'd last about twenty minutes before he was gone."
+      },
+      {
+        "number": 2,
+        "initials": "P C",
+        "clue": "There's a school, right, and someone's walked past it. Didn't go in. Just passed it. Pass-school. And there's a candle burning in the window. Pass-school-candle. Paschal Candle."
+      },
+      {
+        "number": 3,
+        "initials": "F F T",
+        "clue": "There's five thousand people, right, and someone's fed them all. From a packed lunch. Two fish and a few loaves. Five thousand. Karl says he'd want to know the logistics of that."
+      }
+    ]
+  },
+  {
+    "id": "easterbusters-021",
+    "enabled": true,
+    "title": "Easterbusters",
+    "topic": "easterbusters",
+    "difficulty": "hard",
+    "office_safe": true,
+    "region_relevance": [],
+    "intro": "Easter. Karl's been thinking about Pentecost. He says it sounds like a fancy word for a type of coat. Three clues.",
+    "prize": "Email in. Winner gets a signed letter from someone off Emmerdale, possibly.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "E S",
+        "clue": "There's a sun, right, and it's gone east. Headed east. Done a very eastward thing. On a day. East-a-sun-day. Easter Sunday."
+      },
+      {
+        "number": 2,
+        "initials": "R C",
+        "clue": "There's a loaf of bread, right, and it's risen. Done a good rise in the oven. And Karl says the baker's named it after Chris. Risen Chris. Risen Christ."
+      },
+      {
+        "number": 3,
+        "initials": "P",
+        "clue": "There's a pen, right, and the cost of it was outrageous. Just a pen. Pen-tuh-cost. Karl says he got one from a hotel once and that was basically free. Pentecost."
+      }
+    ]
+  },
+  {
+    "id": "christmasbusters-004",
+    "enabled": true,
+    "title": "Christmasbusters",
+    "topic": "christmasbusters",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [],
+    "intro": "It's Christmas. Karl says he doesn't see the point of it but he's still put a tree up. Three clues, all Christmas-themed.",
+    "prize": "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "B C",
+        "clue": "There's a fella — bit of an unusual name, sounds like the noise a microwave makes when it's done — and he's gone and crossed a really busy road on his bike. Got all the way across it."
+      },
+      {
+        "number": 2,
+        "initials": "P",
+        "clue": "There's a frying pan, right, and it's decided to mime something. Just standing in the kitchen doing a mime. Silent. The pan's gone full mime artist. Nobody knows why."
+      },
+      {
+        "number": 3,
+        "initials": "Y L",
+        "clue": "There's a massive great log, and someone keeps saying 'you'll be alright' to it. Just reassuring the log. Talking to it. The log seems fine but they keep saying it anyway."
+      }
+    ]
+  },
+  {
+    "id": "christmasbusters-005",
+    "enabled": true,
+    "title": "Christmasbusters",
+    "topic": "christmasbusters",
+    "difficulty": "medium",
+    "office_safe": true,
+    "region_relevance": [],
+    "intro": "It's Christmas. Karl says he's not doing cards this year. Or last year. Or the year before that. Three clues, all Christmas-themed.",
+    "prize": "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "F T S",
+        "clue": "There's a bloke who's absolutely freezing — properly frosty — and his tea's gone cold, and there's a man standing in the garden made entirely of snow. Just built himself out there. Nobody asked him to."
+      },
+      {
+        "number": 2,
+        "initials": "B D",
+        "clue": "There's a bloke, and he's spent the whole entire day putting things in boxes. Just boxing everything up. All day. A full day of it. He's not stopped once."
+      },
+      {
+        "number": 3,
+        "initials": "T W M",
+        "clue": "There are three fellas — three of them — and they're all very wise. Properly wise, not just a bit. And they've come an enormous distance on camels to give presents to a baby they've never met. Bit forward really."
+      }
+    ]
+  },
+  {
+    "id": "christmasbusters-006",
+    "enabled": true,
+    "title": "Christmasbusters",
+    "topic": "christmasbusters",
+    "difficulty": "medium",
+    "office_safe": true,
+    "region_relevance": [],
+    "intro": "It's Christmas. Karl's read the instructions on the turkey and he's not happy about how long it takes. Three clues, all Christmas-themed.",
+    "prize": "Email in. Winner gets a printed photo from a disposable camera, framed.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "R T R N R",
+        "clue": "There's a rude elf — well, more of a rude-olf, been very rude all morning — and his nose has gone bright red. Glowing. And he's a deer. A rain deer. Goes out in all weathers, this deer."
+      },
+      {
+        "number": 2,
+        "initials": "C P",
+        "clue": "There's a fella called Chris, and it's his big event — his mass, loads of people he's invited — and he's gone and steamed a pudding for it. Put a flame on the top and everything. Very dramatic pudding."
+      },
+      {
+        "number": 3,
+        "initials": "S B",
+        "clue": "There's a massive great sled — horses pulling it, the full setup — and it's absolutely covered in bells. Loads of bells. It's going down the road just belling everything and everyone."
+      }
+    ]
+  },
+  {
+    "id": "christmasbusters-007",
+    "enabled": true,
+    "title": "Christmasbusters",
+    "topic": "christmasbusters",
+    "difficulty": "hard",
+    "office_safe": true,
+    "region_relevance": [],
+    "intro": "It's Christmas. Karl's found a carol sheet and says some of these songs don't make any sense. He's got a point about a few of them. Three clues, all Christmas-themed.",
+    "prize": "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "G K W",
+        "clue": "There's a king, and he's a good one — which is unusual — and he's cut right down on wenches. There are considerably less wenches around him now. Good king. Fewer wenches."
+      },
+      {
+        "number": 2,
+        "initials": "O H N",
+        "clue": "Someone's gone 'Oh!' at a very religious knight. Holy armour, the whole thing. And they've walked into him in the dark. Just 'Oh!' at a holy knight in the corridor at night."
+      },
+      {
+        "number": 3,
+        "initials": "N P",
+        "clue": "There's a lad called Nat, and he's on a drip — hospital thing, an IV — and he's gone all itty-bitty and dramatic about it. Nat-iv-itty. And then his whole class does a play about what happened."
+      }
+    ]
+  },
+  {
+    "id": "christmasbusters-008",
+    "enabled": true,
+    "title": "Christmasbusters",
+    "topic": "christmasbusters",
+    "difficulty": "medium",
+    "office_safe": true,
+    "region_relevance": [],
+    "intro": "It's Christmas. Karl's wrapped all his presents in newspaper because he ran out of paper. He says it adds character. Three clues, all Christmas-themed.",
+    "prize": "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "D T H",
+        "clue": "There's a fella called Dec — you know, off the telly — and he's gone and thumped someone in the corridors. Just absolutely decked them. In the halls. Dec's gone and decked a bloke in the halls."
+      },
+      {
+        "number": 2,
+        "initials": "C R",
+        "clue": "There are some nuts — chest nuts, apparently from someone's chest area — and they've been stuck on a fire. They're roasting away. The chest nuts are having a really good roast."
+      },
+      {
+        "number": 3,
+        "initials": "C",
+        "clue": "There's a woman called Carol, right, and she's brought her mate Ling. Carol and Ling. They've both turned up at the front door at half ten at night and started singing. Bit much."
+      }
+    ]
+  },
+  {
+    "id": "christmasbusters-009",
+    "enabled": true,
+    "title": "Christmasbusters",
+    "topic": "christmasbusters",
+    "difficulty": "hard",
+    "office_safe": true,
+    "region_relevance": [],
+    "intro": "It's Christmas. Karl keeps finding tinsel in his food and he's not sure how it's getting there. Three clues, all Christmas-themed.",
+    "prize": "Email in. Winner gets a printed photo from a disposable camera, framed.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "C S",
+        "clue": "There's a fella called Chris — lot of Chrises at this time of year — and he's massed all his stockings together. Big pile of them. Chris's mass stocking situation. All hung up by the chimney."
+      },
+      {
+        "number": 2,
+        "initials": "B B",
+        "clue": "There's a glass of brandy — lovely drop — and someone's gone and mixed butter into it. Just stirred butter straight into the brandy. That's not normal behaviour. Brandy and butter, combined."
+      },
+      {
+        "number": 3,
+        "initials": "T N",
+        "clue": "There are twelve fellas, and they've all turned up at night. Just appeared, twelve of them, in the dark outside. Twelfth night. Someone needs to tell them Christmas is over and it's time to go home."
+      }
+    ]
   }
 ]

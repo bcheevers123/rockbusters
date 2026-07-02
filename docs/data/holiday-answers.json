@@ -264,5 +264,722 @@
         "reasoning": "Easter + island. Island that got Easter written on it = Easter Island."
       }
     ]
+  },
+  {
+    "id": "easterbusters-004",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Maundy Thursday",
+        "aliases": [
+          "maundy thursday"
+        ],
+        "reasoning": "maundy + Thursday. Maundy owning a Thursday = Maundy Thursday."
+      },
+      {
+        "number": 2,
+        "answer": "Palm Sunday",
+        "aliases": [
+          "palm sunday"
+        ],
+        "reasoning": "palm (Paul-m) + Sunday. Paul's big Sunday out with palm leaves = Palm Sunday."
+      },
+      {
+        "number": 3,
+        "answer": "Last Supper",
+        "aliases": [
+          "last supper",
+          "the last supper"
+        ],
+        "reasoning": "last + supper. Final meal, made a bit of a meal of it = Last Supper."
+      }
+    ]
+  },
+  {
+    "id": "easterbusters-005",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Shrove Tuesday",
+        "aliases": [
+          "shrove tuesday",
+          "pancake tuesday"
+        ],
+        "reasoning": "shrove + Tuesday. Thorough shroving on a Tuesday = Shrove Tuesday."
+      },
+      {
+        "number": 2,
+        "answer": "Ash Wednesday",
+        "aliases": [
+          "ash wednesday"
+        ],
+        "reasoning": "ash (Ashley) + Wednesday. Ashley getting ashy on a Wednesday = Ash Wednesday."
+      },
+      {
+        "number": 3,
+        "answer": "Lent",
+        "aliases": [
+          "lent"
+        ],
+        "reasoning": "lent (Len + t, sounds like lent). Len lending something for forty days = Lent."
+      }
+    ]
+  },
+  {
+    "id": "easterbusters-006",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Resurrection Sunday",
+        "aliases": [
+          "resurrection sunday"
+        ],
+        "reasoning": "resurrection + Sunday. Coming back dramatically on a Sunday = Resurrection Sunday."
+      },
+      {
+        "number": 2,
+        "answer": "Garden of Gethsemane",
+        "aliases": [
+          "garden of gethsemane",
+          "gethsemane"
+        ],
+        "reasoning": "garden + of + Gethsemane (Geth's-a-me-knee = garden). Night garden moody sitting = Garden of Gethsemane."
+      },
+      {
+        "number": 3,
+        "answer": "Pontius Pilate",
+        "aliases": [
+          "pontius pilate",
+          "pilate"
+        ],
+        "reasoning": "Pontius + Pilate (pilot-ey). Fella washing hands and pilating = Pontius Pilate."
+      }
+    ]
+  },
+  {
+    "id": "easterbusters-007",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Cadbury Creme Egg",
+        "aliases": [
+          "cadbury creme egg",
+          "creme egg"
+        ],
+        "reasoning": "Cadbury + creme + egg. Egg with suspicious cream inside = Cadbury Creme Egg."
+      },
+      {
+        "number": 2,
+        "answer": "Lindt Bunny",
+        "aliases": [
+          "lindt bunny"
+        ],
+        "reasoning": "Lindt + bunny. Posh chocolate bunny with a bell = Lindt Bunny."
+      },
+      {
+        "number": 3,
+        "answer": "Mini Eggs",
+        "aliases": [
+          "mini eggs"
+        ],
+        "reasoning": "mini + eggs. Tiny eggs eaten in vast quantities = Mini Eggs."
+      }
+    ]
+  },
+  {
+    "id": "easterbusters-008",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Easter Egg Hunt",
+        "aliases": [
+          "easter egg hunt",
+          "egg hunt"
+        ],
+        "reasoning": "Easter + egg + hunt. Chaotic garden egg-finding situation = Easter Egg Hunt."
+      },
+      {
+        "number": 2,
+        "answer": "Easter Parade",
+        "aliases": [
+          "easter parade"
+        ],
+        "reasoning": "Easter + parade. Marching about in spring hats = Easter Parade."
+      },
+      {
+        "number": 3,
+        "answer": "Egg Rolling",
+        "aliases": [
+          "egg rolling"
+        ],
+        "reasoning": "egg + rolling. Easter tradition of rolling eggs down hills = Egg Rolling."
+      }
+    ]
+  },
+  {
+    "id": "easterbusters-009",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Egg and Spoon Race",
+        "aliases": [
+          "egg and spoon race",
+          "egg and spoon"
+        ],
+        "reasoning": "egg + and + spoon + race. Egg balanced on spoon while running = Egg and Spoon Race."
+      },
+      {
+        "number": 2,
+        "answer": "Spring Equinox",
+        "aliases": [
+          "spring equinox"
+        ],
+        "reasoning": "spring + equinox. Equal day and night in spring = Spring Equinox."
+      },
+      {
+        "number": 3,
+        "answer": "Lambing Season",
+        "aliases": [
+          "lambing season"
+        ],
+        "reasoning": "lambing + season. Period of intense lamb activity = Lambing Season."
+      }
+    ]
+  },
+  {
+    "id": "easterbusters-010",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Spring Chicken",
+        "aliases": [
+          "spring chicken"
+        ],
+        "reasoning": "spring + chicken. Young chicken born in spring = Spring Chicken."
+      },
+      {
+        "number": 2,
+        "answer": "Good Samaritan",
+        "aliases": [
+          "good samaritan"
+        ],
+        "reasoning": "good + Samaritan (Sam-arry-tan). Helpful stranger on a road = Good Samaritan."
+      },
+      {
+        "number": 3,
+        "answer": "Prodigal Son",
+        "aliases": [
+          "prodigal son",
+          "the prodigal son"
+        ],
+        "reasoning": "prodigal + son. Son who spent everything and came back = Prodigal Son."
+      }
+    ]
+  },
+  {
+    "id": "easterbusters-011",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Doubting Thomas",
+        "aliases": [
+          "doubting thomas"
+        ],
+        "reasoning": "doubting + Thomas. Thomas refusing to believe things = Doubting Thomas."
+      },
+      {
+        "number": 2,
+        "answer": "Veronica",
+        "aliases": [
+          "veronica"
+        ],
+        "reasoning": "Veronica. Woman who wiped a face with a cloth = Veronica."
+      },
+      {
+        "number": 3,
+        "answer": "Barabbas",
+        "aliases": [
+          "barabbas"
+        ],
+        "reasoning": "Barabbas. The fella the crowd picked over everyone else = Barabbas."
+      }
+    ]
+  },
+  {
+    "id": "easterbusters-012",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Simon of Cyrene",
+        "aliases": [
+          "simon of cyrene",
+          "simon"
+        ],
+        "reasoning": "Simon + of + Cyrene (sigh-reen). Man minding his business who got handed something = Simon of Cyrene."
+      },
+      {
+        "number": 2,
+        "answer": "Crown of Thorns",
+        "aliases": [
+          "crown of thorns"
+        ],
+        "reasoning": "crown + of + thorns. Uncomfortable thorny headwear = Crown of Thorns."
+      },
+      {
+        "number": 3,
+        "answer": "Stations of the Cross",
+        "aliases": [
+          "stations of the cross"
+        ],
+        "reasoning": "stations + of + the + cross. Fourteen-stop solemn bus route = Stations of the Cross."
+      }
+    ]
+  },
+  {
+    "id": "easterbusters-013",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Mary Magdalene",
+        "aliases": [
+          "mary magdalene",
+          "magdalene"
+        ],
+        "reasoning": "Mary + Magdalene. Very committed Mary up early at the tomb = Mary Magdalene."
+      },
+      {
+        "number": 2,
+        "answer": "Joseph of Arimathea",
+        "aliases": [
+          "joseph of arimathea"
+        ],
+        "reasoning": "Joseph + of + Arimathea. Joseph with a spare tomb from Arimathea = Joseph of Arimathea."
+      },
+      {
+        "number": 3,
+        "answer": "Judas Iscariot",
+        "aliases": [
+          "judas iscariot",
+          "judas"
+        ],
+        "reasoning": "Judas + Iscariot. Betrayal for a non-round number of silver pieces = Judas Iscariot."
+      }
+    ]
+  },
+  {
+    "id": "easterbusters-014",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Galilee",
+        "aliases": [
+          "galilee"
+        ],
+        "reasoning": "Galilee. Place near a sea called Galilee = Galilee."
+      },
+      {
+        "number": 2,
+        "answer": "Bethlehem",
+        "aliases": [
+          "bethlehem"
+        ],
+        "reasoning": "Bethlehem. Famous birthplace with Christmas cards = Bethlehem."
+      },
+      {
+        "number": 3,
+        "answer": "Nazareth",
+        "aliases": [
+          "nazareth"
+        ],
+        "reasoning": "Nazareth. Quiet carpenter town where things got complicated = Nazareth."
+      }
+    ]
+  },
+  {
+    "id": "easterbusters-015",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Jerusalem",
+        "aliases": [
+          "jerusalem"
+        ],
+        "reasoning": "Jerusalem. Very dramatic city, possibly with a chippy = Jerusalem."
+      },
+      {
+        "number": 2,
+        "answer": "Dead Sea",
+        "aliases": [
+          "dead sea"
+        ],
+        "reasoning": "dead + sea. Very salty sea where you just bob about = Dead Sea."
+      },
+      {
+        "number": 3,
+        "answer": "Jordan River",
+        "aliases": [
+          "jordan river",
+          "river jordan"
+        ],
+        "reasoning": "Jordan + river. River where people stood getting baptised = Jordan River."
+      }
+    ]
+  },
+  {
+    "id": "easterbusters-016",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Mount of Olives",
+        "aliases": [
+          "mount of olives"
+        ],
+        "reasoning": "mount + of + olives. Olivey hill = Mount of Olives."
+      },
+      {
+        "number": 2,
+        "answer": "Crucifix",
+        "aliases": [
+          "crucifix"
+        ],
+        "reasoning": "crucifix (croo-suh-fix). Cross with a corpus = Crucifix."
+      },
+      {
+        "number": 3,
+        "answer": "Holy Sepulchre",
+        "aliases": [
+          "holy sepulchre",
+          "church of the holy sepulchre"
+        ],
+        "reasoning": "holy + sepulchre. Very important burial place with churches named after it = Holy Sepulchre."
+      }
+    ]
+  },
+  {
+    "id": "easterbusters-017",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Nicodemus",
+        "aliases": [
+          "nicodemus"
+        ],
+        "reasoning": "Nicodemus. Secret night-time visitor with questions = Nicodemus."
+      },
+      {
+        "number": 2,
+        "answer": "Golgotha",
+        "aliases": [
+          "golgotha"
+        ],
+        "reasoning": "Golgotha. Skull-themed grim place = Golgotha."
+      },
+      {
+        "number": 3,
+        "answer": "Daffodil Field",
+        "aliases": [
+          "daffodil field"
+        ],
+        "reasoning": "daffodil + field. Overwhelming yellow field = Daffodil Field."
+      }
+    ]
+  },
+  {
+    "id": "easterbusters-018",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Disciples",
+        "aliases": [
+          "disciples",
+          "the disciples",
+          "twelve disciples"
+        ],
+        "reasoning": "disciples. Twelve followers being very follower-y = Disciples."
+      },
+      {
+        "number": 2,
+        "answer": "Sea of Galilee",
+        "aliases": [
+          "sea of galilee"
+        ],
+        "reasoning": "sea + of + Galilee. Calm fishing sea = Sea of Galilee."
+      },
+      {
+        "number": 3,
+        "answer": "Gethsemane",
+        "aliases": [
+          "gethsemane",
+          "garden of gethsemane"
+        ],
+        "reasoning": "Gethsemane. Garden with significant kneeling = Gethsemane."
+      }
+    ]
+  },
+  {
+    "id": "easterbusters-019",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Lazarus",
+        "aliases": [
+          "lazarus"
+        ],
+        "reasoning": "laze + a + russ (rusty). Fella who lazed and went rusty = Lazarus."
+      },
+      {
+        "number": 2,
+        "answer": "Alleluia",
+        "aliases": [
+          "alleluia",
+          "hallelujah"
+        ],
+        "reasoning": "alley + loo + ya (spoken aloud). Back-alley toilet situation = Alleluia."
+      },
+      {
+        "number": 3,
+        "answer": "Walking on Water",
+        "aliases": [
+          "walking on water"
+        ],
+        "reasoning": "wall-king (walking) + on + water. Wall-based king strolling on water = Walking on Water."
+      }
+    ]
+  },
+  {
+    "id": "easterbusters-020",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Easter Vigil",
+        "aliases": [
+          "easter vigil"
+        ],
+        "reasoning": "Easter + vigil. All-night church sit-in at Easter = Easter Vigil."
+      },
+      {
+        "number": 2,
+        "answer": "Paschal Candle",
+        "aliases": [
+          "paschal candle"
+        ],
+        "reasoning": "pass + school (paschal, spoken) + candle. Candle outside a school you walked past = Paschal Candle."
+      },
+      {
+        "number": 3,
+        "answer": "Feeding the Five Thousand",
+        "aliases": [
+          "feeding the five thousand"
+        ],
+        "reasoning": "feeding + the + five + thousand. Impossibly efficient packed lunch for a crowd = Feeding the Five Thousand."
+      }
+    ]
+  },
+  {
+    "id": "easterbusters-021",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Easter Sunday",
+        "aliases": [
+          "easter sunday"
+        ],
+        "reasoning": "east + a + sun + day (spoken: east-a-sun-day). Eastward-travelling sun on a day = Easter Sunday."
+      },
+      {
+        "number": 2,
+        "answer": "Risen Christ",
+        "aliases": [
+          "risen christ"
+        ],
+        "reasoning": "risen (bread that's risen) + Christ (Chris-t). Baker's risen loaf named after Chris = Risen Christ."
+      },
+      {
+        "number": 3,
+        "answer": "Pentecost",
+        "aliases": [
+          "pentecost"
+        ],
+        "reasoning": "pen + tuh + cost (spoken: pen-tuh-cost). Expensive pen with a suspicious price = Pentecost."
+      }
+    ]
+  },
+  {
+    "id": "christmasbusters-004",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Bing Crosby",
+        "aliases": [
+          "bing crosby"
+        ],
+        "reasoning": "Bing (microwave done-noise) + crossed + by = Bing Cros-by = Bing Crosby."
+      },
+      {
+        "number": 2,
+        "answer": "Pantomime",
+        "aliases": [
+          "pantomime"
+        ],
+        "reasoning": "pan + to + mime = Pantomime. Pan doing a mime in the kitchen."
+      },
+      {
+        "number": 3,
+        "answer": "Yule Log",
+        "aliases": [
+          "yule log"
+        ],
+        "reasoning": "you'll (yule) + log = Yule Log. Someone verbally reassuring a log."
+      }
+    ]
+  },
+  {
+    "id": "christmasbusters-005",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Frosty the Snowman",
+        "aliases": [
+          "frosty the snowman"
+        ],
+        "reasoning": "frosty + the + snow + man = Frosty the Snowman. Cold tea, man of snow."
+      },
+      {
+        "number": 2,
+        "answer": "Boxing Day",
+        "aliases": [
+          "boxing day"
+        ],
+        "reasoning": "boxing + day = Boxing Day. Full day devoted entirely to boxing things up."
+      },
+      {
+        "number": 3,
+        "answer": "Three Wise Men",
+        "aliases": [
+          "three wise men"
+        ],
+        "reasoning": "three + wise + men = Three Wise Men. Three clever blokes on camels with gifts for a stranger's baby."
+      }
+    ]
+  },
+  {
+    "id": "christmasbusters-006",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Rudolph the Red-Nosed Reindeer",
+        "aliases": [
+          "rudolph the red-nosed reindeer",
+          "rudolph"
+        ],
+        "reasoning": "rude-olf (Rudolph) + the + red-nosed + rain-deer (reindeer). Rude elf-deer with a red nose in the rain."
+      },
+      {
+        "number": 2,
+        "answer": "Christmas Pudding",
+        "aliases": [
+          "christmas pudding"
+        ],
+        "reasoning": "Chris + mas (mass) + pudding = Christmas Pudding. Chris's mass event pudding."
+      },
+      {
+        "number": 3,
+        "answer": "Sleigh Bells",
+        "aliases": [
+          "sleigh bells"
+        ],
+        "reasoning": "sleigh + bells = Sleigh Bells. Large sled entirely covered in bells."
+      }
+    ]
+  },
+  {
+    "id": "christmasbusters-007",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Good King Wenceslas",
+        "aliases": [
+          "good king wenceslas"
+        ],
+        "reasoning": "good + king + wenches + las (less) = Good King Wenceslas. Admirable king with a reduced wench count."
+      },
+      {
+        "number": 2,
+        "answer": "O Holy Night",
+        "aliases": [
+          "o holy night"
+        ],
+        "reasoning": "O (oh!) + holy + night (knight) = O Holy Night. Walking into a devout knight in the dark."
+      },
+      {
+        "number": 3,
+        "answer": "Nativity Play",
+        "aliases": [
+          "nativity play"
+        ],
+        "reasoning": "Nat + IV + ity + play = Nativity Play. Nat on an IV drip, full class play about it."
+      }
+    ]
+  },
+  {
+    "id": "christmasbusters-008",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Deck the Halls",
+        "aliases": [
+          "deck the halls"
+        ],
+        "reasoning": "deck (Dec thumping someone) + the + halls = Deck the Halls. Dec being violent in corridors."
+      },
+      {
+        "number": 2,
+        "answer": "Chestnuts Roasting",
+        "aliases": [
+          "chestnuts roasting",
+          "chestnuts roasting on an open fire"
+        ],
+        "reasoning": "chestnuts + roasting = Chestnuts Roasting. Chest-area nuts getting a good roasting."
+      },
+      {
+        "number": 3,
+        "answer": "Carolling",
+        "aliases": [
+          "carolling",
+          "caroling"
+        ],
+        "reasoning": "Carol + Ling = Carolling. Carol and Ling singing at the door late at night."
+      }
+    ]
+  },
+  {
+    "id": "christmasbusters-009",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Christmas Stocking",
+        "aliases": [
+          "christmas stocking",
+          "christmas stockings"
+        ],
+        "reasoning": "Chris + mas (mass) + stocking = Christmas Stocking. Chris's mass stockings hung by the fire."
+      },
+      {
+        "number": 2,
+        "answer": "Brandy Butter",
+        "aliases": [
+          "brandy butter"
+        ],
+        "reasoning": "brandy + butter = Brandy Butter. Butter inexplicably stirred into brandy."
+      },
+      {
+        "number": 3,
+        "answer": "Twelfth Night",
+        "aliases": [
+          "twelfth night"
+        ],
+        "reasoning": "twelfth + night = Twelfth Night. Twelve blokes showing up after dark when Christmas is done."
+      }
+    ]
   }
 ]

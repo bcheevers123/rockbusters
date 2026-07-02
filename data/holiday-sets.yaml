@@ -227,3 +227,624 @@
     aliases:
     - easter island
     reasoning: "Easter + island. Island that got Easter written on it = Easter Island."
+
+- id: easterbusters-004
+  title: Easterbusters
+  intro: "Easter. Karl's trying to figure out what Maundy Thursday is. He thinks it might be something to do with a bloke called Maundy. Three clues."
+  prize: "Email in. Winner gets a printed photo from a disposable camera, framed."
+  difficulty: medium
+  clues:
+  - initials: M T
+    clue: "There's this fella called Maundy, right, and it's Thursday. His day. He's claimed Thursday as his own. Walks around owning Thursdays."
+    answer: Maundy Thursday
+    aliases:
+    - maundy thursday
+    reasoning: "maundy + Thursday. Maundy owning a Thursday = Maundy Thursday."
+  - initials: P S
+    clue: "There's a fella called Paul — well, Palm, but let's say Paul — and he's gone out on a Sunday. Big day out. Palm leaves everywhere."
+    answer: Palm Sunday
+    aliases:
+    - palm sunday
+    reasoning: "palm (Paul-m) + Sunday. Paul's big Sunday out with palm leaves = Palm Sunday."
+  - initials: L S
+    clue: "Someone had a supper. The last one they were going to have. They made a meal of it. Literally, they made a meal of it."
+    answer: Last Supper
+    aliases:
+    - last supper
+    - the last supper
+    reasoning: "last + supper. Final meal, made a bit of a meal of it = Last Supper."
+
+- id: easterbusters-005
+  title: Easterbusters
+  intro: "Easter. Karl says Shrove Tuesday is basically just an excuse to have pancakes, and he's not wrong about that. Three clues."
+  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists."
+  difficulty: easy
+  clues:
+  - initials: S T
+    clue: "Someone's gone and shroved. On a Tuesday. Proper shroved. Not sure what shroved means exactly but they've done a thorough job of it."
+    answer: Shrove Tuesday
+    aliases:
+    - shrove tuesday
+    - pancake tuesday
+    reasoning: "shrove + Tuesday. Thorough shroving on a Tuesday = Shrove Tuesday."
+  - initials: A W
+    clue: "Someone called Ashley — well, Ash — went out on a Wednesday and got a bit ashy. Grey on the forehead. Very Wednesday energy."
+    answer: Ash Wednesday
+    aliases:
+    - ash wednesday
+    reasoning: "ash (Ashley) + Wednesday. Ashley getting ashy on a Wednesday = Ash Wednesday."
+  - initials: L
+    clue: "This fella called Len, right, and he's gone and lent something. Not for long though. Forty days. He'll want it back."
+    answer: Lent
+    aliases:
+    - lent
+    reasoning: "lent (Len + t, sounds like lent). Len lending something for forty days = Lent."
+
+- id: easterbusters-006
+  title: Easterbusters
+  intro: "Easter. Karl's been thinking about resurrection. He says it's basically like when a computer restarts. Three clues."
+  prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
+  difficulty: hard
+  clues:
+  - initials: R S
+    clue: "Something's come back. On a Sunday. It was gone but now it's back. Sunday. Back again. Bit dramatic about the whole thing."
+    answer: Resurrection Sunday
+    aliases:
+    - resurrection sunday
+    reasoning: "resurrection + Sunday. Coming back dramatically on a Sunday = Resurrection Sunday."
+  - initials: G G
+    clue: "There's a garden, and someone called Geth — well, Gethsemane — is in it. Late at night. Just sitting in a garden at night. Very moody."
+    answer: Garden of Gethsemane
+    aliases:
+    - garden of gethsemane
+    - gethsemane
+    reasoning: "garden + of + Gethsemane (Geth's-a-me-knee = garden). Night garden moody sitting = Garden of Gethsemane."
+  - initials: P P
+    clue: "There's this fella called Pontius, right, and he's gone and piloted something. Or pilated. He's washed his hands of the whole thing anyway."
+    answer: Pontius Pilate
+    aliases:
+    - pontius pilate
+    - pilate
+    reasoning: "Pontius + Pilate (pilot-ey). Fella washing hands and pilating = Pontius Pilate."
+
+- id: easterbusters-007
+  title: Easterbusters
+  intro: "Easter. Karl found a cream egg and bit into it before reading the wrapper. He wasn't ready for it. Three clues."
+  prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
+  difficulty: easy
+  clues:
+  - initials: C C E
+    clue: "There's an egg, yeah, and it's gone all creamy inside. Cadbury's done something to it. Put cream in it. An egg with cream. That's the whole thing."
+    answer: Cadbury Creme Egg
+    aliases:
+    - cadbury creme egg
+    - creme egg
+    reasoning: "Cadbury + creme + egg. Egg with suspicious cream inside = Cadbury Creme Egg."
+  - initials: L B
+    clue: "There's a bunny made of Lindt. Which is a fancy chocolate. The bunny's got a little bell on. Very posh bunny."
+    answer: Lindt Bunny
+    aliases:
+    - lindt bunny
+    reasoning: "Lindt + bunny. Posh chocolate bunny with a bell = Lindt Bunny."
+  - initials: M E
+    clue: "These eggs are tiny. Mini. Just little. Someone's made them small on purpose. You eat about forty before you feel anything."
+    answer: Mini Eggs
+    aliases:
+    - mini eggs
+    reasoning: "mini + eggs. Tiny eggs eaten in vast quantities = Mini Eggs."
+
+- id: easterbusters-008
+  title: Easterbusters
+  intro: "Easter. Karl's been on an egg hunt. He found two eggs and one was a real one. He doesn't know which. Three clues."
+  prize: "Email in. Winner gets a signed letter from someone off Emmerdale, possibly."
+  difficulty: medium
+  clues:
+  - initials: E E H
+    clue: "There's a hunt, right, and it's for eggs. Easter eggs. Hidden about. In the garden. Someone's put them there and now everyone's hunting. Very chaotic."
+    answer: Easter Egg Hunt
+    aliases:
+    - easter egg hunt
+    - egg hunt
+    reasoning: "Easter + egg + hunt. Chaotic garden egg-finding situation = Easter Egg Hunt."
+  - initials: E P
+    clue: "There's a parade, and it's got Easter written all over it. People marching about. Hats. Spring hats. Very paraded."
+    answer: Easter Parade
+    aliases:
+    - easter parade
+    reasoning: "Easter + parade. Marching about in spring hats = Easter Parade."
+  - initials: E R
+    clue: "Someone's got an egg, right, and they've rolled it. Down a hill. On purpose. It's an Easter thing. The egg's just going down a hill."
+    answer: Egg Rolling
+    aliases:
+    - egg rolling
+    reasoning: "egg + rolling. Easter tradition of rolling eggs down hills = Egg Rolling."
+
+- id: easterbusters-009
+  title: Easterbusters
+  intro: "Easter. Karl's trying to explain the spring equinox to Ricky. Ricky's not listening. Three clues."
+  prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
+  difficulty: medium
+  clues:
+  - initials: E S R
+    clue: "Someone's got an egg, and they've put it on a spoon, and they're running. The egg's on the spoon and they're racing. Classic situation."
+    answer: Egg and Spoon Race
+    aliases:
+    - egg and spoon race
+    - egg and spoon
+    reasoning: "egg + and + spoon + race. Egg balanced on spoon while running = Egg and Spoon Race."
+  - initials: S E
+    clue: "It's the spring equinox. Two words. Spring and equinox. Equal night and day. Karl doesn't see why it matters but apparently it does."
+    answer: Spring Equinox
+    aliases:
+    - spring equinox
+    reasoning: "spring + equinox. Equal day and night in spring = Spring Equinox."
+  - initials: L S
+    clue: "It's the season, right, and lambs are being born. Just lambing about everywhere. Tiny lambs. Very lamb-intensive period."
+    answer: Lambing Season
+    aliases:
+    - lambing season
+    reasoning: "lambing + season. Period of intense lamb activity = Lambing Season."
+
+- id: easterbusters-010
+  title: Easterbusters
+  intro: "Easter. Karl says spring chickens are not actually from spring. He's looked into it. Bit misleading. Three clues."
+  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists."
+  difficulty: medium
+  clues:
+  - initials: S C
+    clue: "There's a chicken, right, and it's young. Very young. A spring one. Just born in spring. Fresh chicken. Spring chicken."
+    answer: Spring Chicken
+    aliases:
+    - spring chicken
+    reasoning: "spring + chicken. Young chicken born in spring = Spring Chicken."
+  - initials: G S
+    clue: "There's a man on a road, yeah, and someone's beaten him up and left him there. And this other fella helps him. Good of him. A good Sam."
+    answer: Good Samaritan
+    aliases:
+    - good samaritan
+    reasoning: "good + Samaritan (Sam-arry-tan). Helpful stranger on a road = Good Samaritan."
+  - initials: P S
+    clue: "There's a son, right, and he's gone a bit prodigal. Spent all the money. Came back. Dad was dead chuffed to see him. Made a fuss."
+    answer: Prodigal Son
+    aliases:
+    - prodigal son
+    - the prodigal son
+    reasoning: "prodigal + son. Son who spent everything and came back = Prodigal Son."
+
+- id: easterbusters-011
+  title: Easterbusters
+  intro: "Easter. Karl's been thinking about Thomas. He says he'd have been doubtful too. Seems reasonable. Three clues."
+  prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
+  difficulty: hard
+  clues:
+  - initials: D T
+    clue: "There's this fella called Thomas, right, and he's doubting everything. Very doubtful. Won't believe anything without seeing it. Classic Thomas."
+    answer: Doubting Thomas
+    aliases:
+    - doubting thomas
+    reasoning: "doubting + Thomas. Thomas refusing to believe things = Doubting Thomas."
+  - initials: V
+    clue: "There's a woman called Veronica, and she's done something kind. Wiped someone's face. Just wiped it. With a cloth. Very Veronica thing to do."
+    answer: Veronica
+    aliases:
+    - veronica
+    reasoning: "Veronica. Woman who wiped a face with a cloth = Veronica."
+  - initials: B
+    clue: "There's a fella called Barabbas, right, and the crowd wanted him freed. Just him. Over everybody else. The whole crowd going 'Barabbas'. Bit odd."
+    answer: Barabbas
+    aliases:
+    - barabbas
+    reasoning: "Barabbas. The fella the crowd picked over everyone else = Barabbas."
+
+- id: easterbusters-012
+  title: Easterbusters
+  intro: "Easter. Karl's found out about Simon of Cyrene. He says he was basically just walking past and got roped in. Typical. Three clues."
+  prize: "Email in. Winner gets a printed photo from a disposable camera, framed."
+  difficulty: hard
+  clues:
+  - initials: S C
+    clue: "There's a fella called Simon, and he's from Cyrene, right, and he's just been walking along, minding his own business, when someone hands him something heavy."
+    answer: Simon of Cyrene
+    aliases:
+    - simon of cyrene
+    - simon
+    reasoning: "Simon + of + Cyrene (sigh-reen). Man minding his business who got handed something = Simon of Cyrene."
+  - initials: C T
+    clue: "Someone's made a crown, yeah, but instead of the nice stuff they've used thorns. Sharp ones. Very thorny crown. Not comfortable."
+    answer: Crown of Thorns
+    aliases:
+    - crown of thorns
+    reasoning: "crown + of + thorns. Uncomfortable thorny headwear = Crown of Thorns."
+  - initials: S C
+    clue: "There are stations, right, and they're of the cross. Like stops. Fourteen stops. Like a bus route but more solemn. The cross route."
+    answer: Stations of the Cross
+    aliases:
+    - stations of the cross
+    reasoning: "stations + of + the + cross. Fourteen-stop solemn bus route = Stations of the Cross."
+
+- id: easterbusters-013
+  title: Easterbusters
+  intro: "Easter. Karl's reading about Mary Magdalene. He says she sounds like she had a lot on. Three clues."
+  prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
+  difficulty: medium
+  clues:
+  - initials: M M
+    clue: "There's a woman called Mary, and she's gone a bit Magdalene. Very devoted. Up early. First at the tomb. Very committed Mary."
+    answer: Mary Magdalene
+    aliases:
+    - mary magdalene
+    - magdalene
+    reasoning: "Mary + Magdalene. Very committed Mary up early at the tomb = Mary Magdalene."
+  - initials: J A
+    clue: "There's a fella from Arimathea — that's a place — and his name's Joseph. He's sorted out a tomb. Just had one going spare."
+    answer: Joseph of Arimathea
+    aliases:
+    - joseph of arimathea
+    reasoning: "Joseph + of + Arimathea. Joseph with a spare tomb from Arimathea = Joseph of Arimathea."
+  - initials: J I
+    clue: "There's a fella called Judas, and his surname's Iscariot. He's gone and betrayed someone for thirty pieces of silver. Thirty. Not even a round number."
+    answer: Judas Iscariot
+    aliases:
+    - judas iscariot
+    - judas
+    reasoning: "Judas + Iscariot. Betrayal for a non-round number of silver pieces = Judas Iscariot."
+
+- id: easterbusters-014
+  title: Easterbusters
+  intro: "Easter. Karl's trying to find Galilee on a map. He says it's near the sea. That narrows it down. Three clues."
+  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists."
+  difficulty: medium
+  clues:
+  - initials: G
+    clue: "There's a place called Galilee, and it's got a sea nearby. The Sea of Galilee. Very sea-ish. Very Galiley."
+    answer: Galilee
+    aliases:
+    - galilee
+    reasoning: "Galilee. Place near a sea called Galilee = Galilee."
+  - initials: B
+    clue: "There's a town called Bethlehem, right, and someone important was born there. Very famous birthplace. Cards about it every Christmas."
+    answer: Bethlehem
+    aliases:
+    - bethlehem
+    reasoning: "Bethlehem. Famous birthplace with Christmas cards = Bethlehem."
+  - initials: N
+    clue: "There's a town called Nazareth, yeah, and it's where a carpenter lived. Quiet town. Carpentry going on. Then things got complicated."
+    answer: Nazareth
+    aliases:
+    - nazareth
+    reasoning: "Nazareth. Quiet carpenter town where things got complicated = Nazareth."
+
+- id: easterbusters-015
+  title: Easterbusters
+  intro: "Easter. Karl's been reading about Jerusalem. He says it sounds like a lot of drama. He prefers Manchester. Three clues."
+  prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
+  difficulty: medium
+  clues:
+  - initials: J
+    clue: "There's a city called Jerusalem, and a lot of things have happened there. A lot. Karl says it's probably got a good chippy though."
+    answer: Jerusalem
+    aliases:
+    - jerusalem
+    reasoning: "Jerusalem. Very dramatic city, possibly with a chippy = Jerusalem."
+  - initials: D S
+    clue: "There's a sea, right, and it's dead. Very salty. Nothing lives in it. You float in it. Just bob about. A dead sea."
+    answer: Dead Sea
+    aliases:
+    - dead sea
+    reasoning: "dead + sea. Very salty sea where you just bob about = Dead Sea."
+  - initials: J R
+    clue: "There's a river called Jordan, and people got baptised in it. In the actual river. Just standing in a river getting baptised. Jordan river."
+    answer: Jordan River
+    aliases:
+    - jordan river
+    - river jordan
+    reasoning: "Jordan + river. River where people stood getting baptised = Jordan River."
+
+- id: easterbusters-016
+  title: Easterbusters
+  intro: "Easter. Karl's wondering about the Mount of Olives. He says he's never seen an olive tree and doesn't trust them. Three clues."
+  prize: "Email in. Winner gets a signed letter from someone off Emmerdale, possibly."
+  difficulty: hard
+  clues:
+  - initials: M O
+    clue: "There's a mount — like a hill — and it's covered in olives. Olive trees. The whole mount is very olivey. Mount of Olives. Quite straightforward really."
+    answer: Mount of Olives
+    aliases:
+    - mount of olives
+    reasoning: "mount + of + olives. Olivey hill = Mount of Olives."
+  - initials: C
+    clue: "There's a cross, right, and someone's put a person on it. Made it into a crucifix. Very cross-shaped. It's got a corpus on it. A crucifix."
+    answer: Crucifix
+    aliases:
+    - crucifix
+    reasoning: "crucifix (croo-suh-fix). Cross with a corpus = Crucifix."
+  - initials: H S
+    clue: "There's a sepulchre, right, and it's holy. A holy sepulchre. Where they put someone. Very important sepulchre. Churches named after it."
+    answer: Holy Sepulchre
+    aliases:
+    - holy sepulchre
+    - church of the holy sepulchre
+    reasoning: "holy + sepulchre. Very important burial place with churches named after it = Holy Sepulchre."
+
+- id: easterbusters-017
+  title: Easterbusters
+  intro: "Easter. Karl's thinking about Nicodemus. He says it sounds like a medicine. Like something for a cold. Three clues."
+  prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
+  difficulty: hard
+  clues:
+  - initials: N
+    clue: "There's a fella called Nicodemus, right, and he came at night. Secret visit. Very cloak-and-dagger. Just turned up in the dark to ask questions."
+    answer: Nicodemus
+    aliases:
+    - nicodemus
+    reasoning: "Nicodemus. Secret night-time visitor with questions = Nicodemus."
+  - initials: G
+    clue: "There's a place called Golgotha — the place of the skull they call it — and it's not a nice place. Very skull-themed. Bit grim."
+    answer: Golgotha
+    aliases:
+    - golgotha
+    reasoning: "Golgotha. Skull-themed grim place = Golgotha."
+  - initials: D F
+    clue: "There's a field of daffodils, right, and it's just full of them. Yellow everywhere. Daffodil field. Bit overwhelming if you're not ready for it."
+    answer: Daffodil Field
+    aliases:
+    - daffodil field
+    reasoning: "daffodil + field. Overwhelming yellow field = Daffodil Field."
+
+- id: easterbusters-018
+  title: Easterbusters
+  intro: "Easter. Karl's found out about disciples. He says there were twelve and wonders how they all agreed on anything. Three clues."
+  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists."
+  difficulty: medium
+  clues:
+  - initials: D
+    clue: "There are twelve of them, and they're disciples. Just following someone about. Very disciple-y. Twelve disciples doing disciple things."
+    answer: Disciples
+    aliases:
+    - disciples
+    - the disciples
+    - twelve disciples
+    reasoning: "disciples. Twelve followers being very follower-y = Disciples."
+  - initials: S G
+    clue: "There's a sea and it's called Galilee again, but now someone's fishing on it. In a boat. Quite calm. Sea of Galilee."
+    answer: Sea of Galilee
+    aliases:
+    - sea of galilee
+    reasoning: "sea + of + Galilee. Calm fishing sea = Sea of Galilee."
+  - initials: G
+    clue: "There's a garden called Gethsemane — not the one from earlier, well, the same one — and someone's kneeling in it. Very garden-kneely."
+    answer: Gethsemane
+    aliases:
+    - gethsemane
+    - garden of gethsemane
+    reasoning: "Gethsemane. Garden with significant kneeling = Gethsemane."
+
+- id: easterbusters-019
+  title: Easterbusters
+  intro: "Easter. Karl says he once knew a bloke called Laz. Lovely fella. Had a bit of a lying-about problem. Three clues."
+  prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
+  difficulty: medium
+  clues:
+  - initials: L
+    clue: "There's this fella, right, and he's had a good laze. A proper lie-about. And then gone a bit russ — gone rusty, like. Just all rusty from the lazing. You'd say it: laze-a-russ."
+    answer: Lazarus
+    aliases:
+    - lazarus
+    reasoning: "laze + a + russ (rusty). Fella who lazed and went rusty = Lazarus."
+  - initials: A
+    clue: "There's an alley, right — a back alley — and someone's nipped in there to use the loo. Very casual about it. Done a number one. You'd say it out loud: alley-loo-ya. Alleluia."
+    answer: Alleluia
+    aliases:
+    - alleluia
+    - hallelujah
+    reasoning: "alley + loo + ya (spoken aloud). Back-alley toilet situation = Alleluia."
+  - initials: W W
+    clue: "There's a king, right, and he lives in a wall. A wall-king. And he's decided to go for a stroll. On the water. Not in a boat — on it. Wall-king on water."
+    answer: Walking on Water
+    aliases:
+    - walking on water
+    reasoning: "wall-king (walking) + on + water. Wall-based king strolling on water = Walking on Water."
+
+- id: easterbusters-020
+  title: Easterbusters
+  intro: "Easter. Karl's been to a church service and stayed for the whole thing. He says it was very candle-heavy. He lost count after twelve. Three clues."
+  prize: "Email in. Winner gets a printed photo from a disposable camera, framed."
+  difficulty: medium
+  clues:
+  - initials: E V
+    clue: "It's Easter, right, and there's a vigil on. Someone's staying up all night in a church. Very committed to staying awake. Karl says he'd last about twenty minutes before he was gone."
+    answer: Easter Vigil
+    aliases:
+    - easter vigil
+    reasoning: "Easter + vigil. All-night church sit-in at Easter = Easter Vigil."
+  - initials: P C
+    clue: "There's a school, right, and someone's walked past it. Didn't go in. Just passed it. Pass-school. And there's a candle burning in the window. Pass-school-candle. Paschal Candle."
+    answer: Paschal Candle
+    aliases:
+    - paschal candle
+    reasoning: "pass + school (paschal, spoken) + candle. Candle outside a school you walked past = Paschal Candle."
+  - initials: F F T
+    clue: "There's five thousand people, right, and someone's fed them all. From a packed lunch. Two fish and a few loaves. Five thousand. Karl says he'd want to know the logistics of that."
+    answer: Feeding the Five Thousand
+    aliases:
+    - feeding the five thousand
+    reasoning: "feeding + the + five + thousand. Impossibly efficient packed lunch for a crowd = Feeding the Five Thousand."
+
+- id: easterbusters-021
+  title: Easterbusters
+  intro: "Easter. Karl's been thinking about Pentecost. He says it sounds like a fancy word for a type of coat. Three clues."
+  prize: "Email in. Winner gets a signed letter from someone off Emmerdale, possibly."
+  difficulty: hard
+  clues:
+  - initials: E S
+    clue: "There's a sun, right, and it's gone east. Headed east. Done a very eastward thing. On a day. East-a-sun-day. Easter Sunday."
+    answer: Easter Sunday
+    aliases:
+    - easter sunday
+    reasoning: "east + a + sun + day (spoken: east-a-sun-day). Eastward-travelling sun on a day = Easter Sunday."
+  - initials: R C
+    clue: "There's a loaf of bread, right, and it's risen. Done a good rise in the oven. And Karl says the baker's named it after Chris. Risen Chris. Risen Christ."
+    answer: Risen Christ
+    aliases:
+    - risen christ
+    reasoning: "risen (bread that's risen) + Christ (Chris-t). Baker's risen loaf named after Chris = Risen Christ."
+  - initials: P
+    clue: "There's a pen, right, and the cost of it was outrageous. Just a pen. Pen-tuh-cost. Karl says he got one from a hotel once and that was basically free. Pentecost."
+    answer: Pentecost
+    aliases:
+    - pentecost
+    reasoning: "pen + tuh + cost (spoken: pen-tuh-cost). Expensive pen with a suspicious price = Pentecost."
+
+- id: christmasbusters-004
+  title: Christmasbusters
+  intro: "It's Christmas. Karl says he doesn't see the point of it but he's still put a tree up. Three clues, all Christmas-themed."
+  prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
+  difficulty: easy
+  clues:
+  - initials: B C
+    clue: "There's a fella — bit of an unusual name, sounds like the noise a microwave makes when it's done — and he's gone and crossed a really busy road on his bike. Got all the way across it."
+    answer: Bing Crosby
+    aliases:
+    - bing crosby
+    reasoning: "Bing (microwave done-noise) + crossed + by = Bing Cros-by = Bing Crosby."
+  - initials: P
+    clue: "There's a frying pan, right, and it's decided to mime something. Just standing in the kitchen doing a mime. Silent. The pan's gone full mime artist. Nobody knows why."
+    answer: Pantomime
+    aliases:
+    - pantomime
+    reasoning: "pan + to + mime = Pantomime. Pan doing a mime in the kitchen."
+  - initials: Y L
+    clue: "There's a massive great log, and someone keeps saying 'you'll be alright' to it. Just reassuring the log. Talking to it. The log seems fine but they keep saying it anyway."
+    answer: Yule Log
+    aliases:
+    - yule log
+    reasoning: "you'll (yule) + log = Yule Log. Someone verbally reassuring a log."
+
+- id: christmasbusters-005
+  title: Christmasbusters
+  intro: "It's Christmas. Karl says he's not doing cards this year. Or last year. Or the year before that. Three clues, all Christmas-themed."
+  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists."
+  difficulty: medium
+  clues:
+  - initials: F T S
+    clue: "There's a bloke who's absolutely freezing — properly frosty — and his tea's gone cold, and there's a man standing in the garden made entirely of snow. Just built himself out there. Nobody asked him to."
+    answer: Frosty the Snowman
+    aliases:
+    - frosty the snowman
+    reasoning: "frosty + the + snow + man = Frosty the Snowman. Cold tea, man of snow."
+  - initials: B D
+    clue: "There's a bloke, and he's spent the whole entire day putting things in boxes. Just boxing everything up. All day. A full day of it. He's not stopped once."
+    answer: Boxing Day
+    aliases:
+    - boxing day
+    reasoning: "boxing + day = Boxing Day. Full day devoted entirely to boxing things up."
+  - initials: T W M
+    clue: "There are three fellas — three of them — and they're all very wise. Properly wise, not just a bit. And they've come an enormous distance on camels to give presents to a baby they've never met. Bit forward really."
+    answer: Three Wise Men
+    aliases:
+    - three wise men
+    reasoning: "three + wise + men = Three Wise Men. Three clever blokes on camels with gifts for a stranger's baby."
+
+- id: christmasbusters-006
+  title: Christmasbusters
+  intro: "It's Christmas. Karl's read the instructions on the turkey and he's not happy about how long it takes. Three clues, all Christmas-themed."
+  prize: "Email in. Winner gets a printed photo from a disposable camera, framed."
+  difficulty: medium
+  clues:
+  - initials: R T R N R
+    clue: "There's a rude elf — well, more of a rude-olf, been very rude all morning — and his nose has gone bright red. Glowing. And he's a deer. A rain deer. Goes out in all weathers, this deer."
+    answer: Rudolph the Red-Nosed Reindeer
+    aliases:
+    - rudolph the red-nosed reindeer
+    - rudolph
+    reasoning: "rude-olf (Rudolph) + the + red-nosed + rain-deer (reindeer). Rude elf-deer with a red nose in the rain."
+  - initials: C P
+    clue: "There's a fella called Chris, and it's his big event — his mass, loads of people he's invited — and he's gone and steamed a pudding for it. Put a flame on the top and everything. Very dramatic pudding."
+    answer: Christmas Pudding
+    aliases:
+    - christmas pudding
+    reasoning: "Chris + mas (mass) + pudding = Christmas Pudding. Chris's mass event pudding."
+  - initials: S B
+    clue: "There's a massive great sled — horses pulling it, the full setup — and it's absolutely covered in bells. Loads of bells. It's going down the road just belling everything and everyone."
+    answer: Sleigh Bells
+    aliases:
+    - sleigh bells
+    reasoning: "sleigh + bells = Sleigh Bells. Large sled entirely covered in bells."
+
+- id: christmasbusters-007
+  title: Christmasbusters
+  intro: "It's Christmas. Karl's found a carol sheet and says some of these songs don't make any sense. He's got a point about a few of them. Three clues, all Christmas-themed."
+  prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
+  difficulty: hard
+  clues:
+  - initials: G K W
+    clue: "There's a king, and he's a good one — which is unusual — and he's cut right down on wenches. There are considerably less wenches around him now. Good king. Fewer wenches."
+    answer: Good King Wenceslas
+    aliases:
+    - good king wenceslas
+    reasoning: "good + king + wenches + las (less) = Good King Wenceslas. Admirable king with a reduced wench count."
+  - initials: O H N
+    clue: "Someone's gone 'Oh!' at a very religious knight. Holy armour, the whole thing. And they've walked into him in the dark. Just 'Oh!' at a holy knight in the corridor at night."
+    answer: O Holy Night
+    aliases:
+    - o holy night
+    reasoning: "O (oh!) + holy + night (knight) = O Holy Night. Walking into a devout knight in the dark."
+  - initials: N P
+    clue: "There's a lad called Nat, and he's on a drip — hospital thing, an IV — and he's gone all itty-bitty and dramatic about it. Nat-iv-itty. And then his whole class does a play about what happened."
+    answer: Nativity Play
+    aliases:
+    - nativity play
+    reasoning: "Nat + IV + ity + play = Nativity Play. Nat on an IV drip, full class play about it."
+
+- id: christmasbusters-008
+  title: Christmasbusters
+  intro: "It's Christmas. Karl's wrapped all his presents in newspaper because he ran out of paper. He says it adds character. Three clues, all Christmas-themed."
+  prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
+  difficulty: medium
+  clues:
+  - initials: D T H
+    clue: "There's a fella called Dec — you know, off the telly — and he's gone and thumped someone in the corridors. Just absolutely decked them. In the halls. Dec's gone and decked a bloke in the halls."
+    answer: Deck the Halls
+    aliases:
+    - deck the halls
+    reasoning: "deck (Dec thumping someone) + the + halls = Deck the Halls. Dec being violent in corridors."
+  - initials: C R
+    clue: "There are some nuts — chest nuts, apparently from someone's chest area — and they've been stuck on a fire. They're roasting away. The chest nuts are having a really good roast."
+    answer: Chestnuts Roasting
+    aliases:
+    - chestnuts roasting
+    - chestnuts roasting on an open fire
+    reasoning: "chestnuts + roasting = Chestnuts Roasting. Chest-area nuts getting a good roasting."
+  - initials: C
+    clue: "There's a woman called Carol, right, and she's brought her mate Ling. Carol and Ling. They've both turned up at the front door at half ten at night and started singing. Bit much."
+    answer: Carolling
+    aliases:
+    - carolling
+    - caroling
+    reasoning: "Carol + Ling = Carolling. Carol and Ling singing at the door late at night."
+
+- id: christmasbusters-009
+  title: Christmasbusters
+  intro: "It's Christmas. Karl keeps finding tinsel in his food and he's not sure how it's getting there. Three clues, all Christmas-themed."
+  prize: "Email in. Winner gets a printed photo from a disposable camera, framed."
+  difficulty: hard
+  clues:
+  - initials: C S
+    clue: "There's a fella called Chris — lot of Chrises at this time of year — and he's massed all his stockings together. Big pile of them. Chris's mass stocking situation. All hung up by the chimney."
+    answer: Christmas Stocking
+    aliases:
+    - christmas stocking
+    - christmas stockings
+    reasoning: "Chris + mas (mass) + stocking = Christmas Stocking. Chris's mass stockings hung by the fire."
+  - initials: B B
+    clue: "There's a glass of brandy — lovely drop — and someone's gone and mixed butter into it. Just stirred butter straight into the brandy. That's not normal behaviour. Brandy and butter, combined."
+    answer: Brandy Butter
+    aliases:
+    - brandy butter
+    reasoning: "brandy + butter = Brandy Butter. Butter inexplicably stirred into brandy."
+  - initials: T N
+    clue: "There are twelve fellas, and they've all turned up at night. Just appeared, twelve of them, in the dark outside. Twelfth night. Someone needs to tell them Christmas is over and it's time to go home."
+    answer: Twelfth Night
+    aliases:
+    - twelfth night
+    reasoning: "twelfth + night = Twelfth Night. Twelve blokes showing up after dark when Christmas is done."
