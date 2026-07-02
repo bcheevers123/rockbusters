@@ -3,7 +3,7 @@
 // ---------------------------------------------------------------------------
 // Constants
 // ---------------------------------------------------------------------------
-const EPOCH = new Date(Date.UTC(2026, 0, 1));
+const EPOCH = new Date(Date.UTC(2026, 0, 2));
 const TIMEZONE = 'Europe/London';
 const API_URL_ATTR = 'api-url';
 

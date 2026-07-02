@@ -306,3 +306,33 @@ def user_status(user_id: str = Query(...), set_id: str = Query(...)):
         "correct_clues": correct_clues,
         "points_today": points_today,
     }
+
+
+@app.post("/api/admin/reset-leaderboard")
+def admin_reset_leaderboard(secret: str = Query(...)):
+    """Clear all leaderboard data (guesses, reveals, users) from Sheets and in-memory DB.
+
+    Requires ?secret= matching API_SECRET env var.
+    """
+    if not config.api_secret or secret != config.api_secret:
+        raise HTTPException(status_code=403, detail="Forbidden")
+
+    conn = get_conn()
+    try:
+        with _mem_lock if _mem_conn is not None else contextlib.nullcontext():
+            conn.execute("DELETE FROM guesses")
+            conn.execute("DELETE FROM daily_reveals")
+            conn.execute("DELETE FROM users")
+            conn.commit()
+    finally:
+        _close_conn(conn)
+
+    if _sheets_client:
+        sh = _sheets_client.open_by_key(config.google_sheets_id)
+        for tab_name in ["guesses", "daily_reveals", "users"]:
+            ws = sh.worksheet(tab_name)
+            all_vals = ws.get_all_values()
+            if len(all_vals) > 1:
+                ws.delete_rows(2, len(all_vals))
+
+    return {"ok": True, "message": "Leaderboard reset."}
