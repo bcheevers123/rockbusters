@@ -1,7 +1,9 @@
 """Rockbusters FastAPI application entry point."""
 
 import datetime
+import logging
 import sqlite3
+from datetime import datetime as _dt, timezone
 
 import pytz
 from dotenv import load_dotenv
@@ -24,13 +26,55 @@ from api.db import (
     upsert_user,
 )
 from api.game_service import get_todays_set
+from api import sheets as sheets_module
 
 # ---------------------------------------------------------------------------
 # App startup
 # ---------------------------------------------------------------------------
 
+logger = logging.getLogger(__name__)
+
 config = Config()
-init_db(config.sqlite_path)
+
+# Sheets mode: in-memory SQLite rebuilt from Google Sheets on startup
+_sheets_client = None
+_mem_conn = None
+
+if config.sheets_enabled():
+    _mem_conn = sqlite3.connect(":memory:", check_same_thread=False)
+    _mem_conn.row_factory = sqlite3.Row
+
+    # init_db only accepts a path string, so initialise schema directly on _mem_conn
+    _mem_conn.executescript("""
+        CREATE TABLE IF NOT EXISTS schema_version (version INTEGER PRIMARY KEY);
+        CREATE TABLE IF NOT EXISTS users (
+            user_id TEXT PRIMARY KEY, display_name TEXT, created_at TEXT
+        );
+        CREATE TABLE IF NOT EXISTS guesses (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            user_id TEXT NOT NULL, set_id TEXT NOT NULL,
+            clue_number INTEGER NOT NULL, is_correct INTEGER NOT NULL,
+            guessed_at TEXT NOT NULL
+        );
+        CREATE TABLE IF NOT EXISTS daily_reveals (
+            user_id TEXT NOT NULL, set_id TEXT NOT NULL, reveal_date TEXT NOT NULL,
+            PRIMARY KEY (user_id, set_id)
+        );
+        INSERT OR IGNORE INTO schema_version (version) VALUES (1);
+    """)
+
+    try:
+        _sheets_client = sheets_module.get_sheets_client(config.google_service_account_json)
+        data = sheets_module.load_all(_sheets_client, config.google_sheets_id)
+        sheets_module.replay_into_db(_mem_conn, data)
+        logger.info("Sheets mode: replayed %d users, %d guesses, %d reveals.",
+                    len(data["users"]), len(data["guesses"]), len(data["daily_reveals"]))
+    except Exception as e:
+        logger.error("Sheets startup failed (%s) — starting with empty in-memory db.", e)
+        _sheets_client = None
+else:
+    init_db(config.sqlite_path)
+
 bank = load_bank(config.bank_path)
 
 app = FastAPI(title="Rockbusters API")
@@ -57,10 +101,18 @@ app.add_middleware(
 
 
 def get_conn() -> sqlite3.Connection:
-    """Open a new SQLite connection with Row factory enabled."""
+    """Return the active SQLite connection (in-memory if Sheets mode, file otherwise)."""
+    if _mem_conn is not None:
+        return _mem_conn
     conn = sqlite3.connect(config.sqlite_path)
     conn.row_factory = sqlite3.Row
     return conn
+
+
+def _close_conn(conn: sqlite3.Connection) -> None:
+    """Close conn only if it is not the shared in-memory connection."""
+    if conn is not _mem_conn:
+        conn.close()
 
 
 def format_date_british(d: datetime.date) -> str:
@@ -146,7 +198,7 @@ def leaderboard():
                 }
             )
     finally:
-        conn.close()
+        _close_conn(conn)
 
     return {"leaderboard": result, "set_id": set_id}
 
@@ -169,9 +221,29 @@ def score(req: ScoreRequest):
             raise HTTPException(status_code=409, detail="Clue already scored for this user.")
 
         record_guess(conn, req.user_id, req.set_id, req.clue_number, is_correct=True)
+
+        if _sheets_client:
+            _now = _dt.now(timezone.utc).isoformat()
+            sheets_module.sheets_write_with_retry(
+                sheets_module.upsert_user_row,
+                _sheets_client, config.google_sheets_id,
+                req.user_id, req.display_name, _now,
+            )
+            sheets_module.sheets_write_with_retry(
+                sheets_module.append_guess,
+                _sheets_client, config.google_sheets_id,
+                {
+                    "user_id": req.user_id,
+                    "set_id": req.set_id,
+                    "clue_number": req.clue_number,
+                    "is_correct": 1,
+                    "guessed_at": _now,
+                },
+            )
+
         points_today = get_user_score_today(conn, req.user_id, req.set_id)
     finally:
-        conn.close()
+        _close_conn(conn)
 
     return {"ok": True, "points_today": points_today}
 
@@ -186,8 +258,25 @@ def reveal(req: RevealRequest):
     try:
         upsert_user(conn, req.user_id, req.display_name)
         record_reveal(conn, req.user_id, req.set_id, reveal_date)
+
+        if _sheets_client:
+            _now = _dt.now(timezone.utc).isoformat()
+            sheets_module.sheets_write_with_retry(
+                sheets_module.upsert_user_row,
+                _sheets_client, config.google_sheets_id,
+                req.user_id, req.display_name, _now,
+            )
+            sheets_module.sheets_write_with_retry(
+                sheets_module.append_reveal,
+                _sheets_client, config.google_sheets_id,
+                {
+                    "user_id": req.user_id,
+                    "set_id": req.set_id,
+                    "reveal_date": reveal_date,
+                },
+            )
     finally:
-        conn.close()
+        _close_conn(conn)
 
     return {"ok": True}
 
@@ -211,7 +300,7 @@ def user_status(user_id: str = Query(...), set_id: str = Query(...)):
 
         points_today = get_user_score_today(conn, user_id, set_id)
     finally:
-        conn.close()
+        _close_conn(conn)
 
     return {
         "revealed": revealed,

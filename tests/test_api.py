@@ -206,3 +206,57 @@ def test_user_status_200(client):
     assert "revealed" in body
     assert "correct_clues" in body
     assert "points_today" in body
+
+
+# ---------------------------------------------------------------------------
+# Sheets mode: startup rebuild test (mocked)
+# ---------------------------------------------------------------------------
+
+def test_sheets_mode_leaderboard_uses_replayed_data(tmp_path):
+    """When Sheets env vars are set, startup replays Sheets data into in-memory SQLite.
+    The leaderboard endpoint should return data from the replayed db."""
+    import importlib
+    import sys
+    from unittest.mock import MagicMock, patch
+
+    bank_path = os.path.normpath(
+        os.path.join(os.path.dirname(__file__), "..", "data", "rockbusters.yaml")
+    )
+
+    # Remove cached api modules
+    for mod_name in list(sys.modules.keys()):
+        if mod_name.startswith("api"):
+            del sys.modules[mod_name]
+
+    fake_sheets_data = {
+        "users": [{"user_id": "u99", "display_name": "SheetUser", "created_at": "2026-01-01T00:00:00+00:00"}],
+        "guesses": [
+            {"user_id": "u99", "set_id": "any-set", "clue_number": "1", "is_correct": "1", "guessed_at": "2026-01-01T00:00:00+00:00"},
+            {"user_id": "u99", "set_id": "any-set", "clue_number": "2", "is_correct": "1", "guessed_at": "2026-01-01T00:00:00+00:00"},
+        ],
+        "daily_reveals": [],
+    }
+
+    mock_client = MagicMock()
+
+    os.environ["GOOGLE_SHEETS_ID"] = "FAKE_SHEET_ID"
+    os.environ["GOOGLE_SERVICE_ACCOUNT_JSON"] = '{"type":"service_account"}'
+    os.environ["ROCKBUSTERS_BANK_PATH"] = bank_path
+    # No SQLITE_PATH — should use in-memory
+
+    with patch("api.sheets.get_sheets_client", return_value=mock_client), \
+         patch("api.sheets.load_all", return_value=fake_sheets_data):
+        from api.main import app
+        from fastapi.testclient import TestClient
+        with TestClient(app) as c:
+            resp = c.get("/api/leaderboard")
+            assert resp.status_code == 200
+            names = [e["display_name"] for e in resp.json()["leaderboard"]]
+            assert "SheetUser" in names
+
+    # Cleanup
+    del os.environ["GOOGLE_SHEETS_ID"]
+    del os.environ["GOOGLE_SERVICE_ACCOUNT_JSON"]
+    for mod_name in list(sys.modules.keys()):
+        if mod_name.startswith("api"):
+            del sys.modules[mod_name]
