@@ -229,11 +229,40 @@ function normalize(text) {
 }
 
 // ---------------------------------------------------------------------------
-// Answer checking
+// Answer checking — exact match + fuzzy typo tolerance via Levenshtein
 // ---------------------------------------------------------------------------
+function levenshtein(a, b) {
+  const m = a.length, n = b.length;
+  // Bail early if length difference alone exceeds max tolerance
+  if (Math.abs(m - n) > 2) return 99;
+  const dp = Array.from({ length: m + 1 }, (_, i) => [i]);
+  for (let j = 0; j <= n; j++) dp[0][j] = j;
+  for (let i = 1; i <= m; i++) {
+    for (let j = 1; j <= n; j++) {
+      dp[i][j] = a[i-1] === b[j-1]
+        ? dp[i-1][j-1]
+        : 1 + Math.min(dp[i-1][j], dp[i][j-1], dp[i-1][j-1]);
+    }
+  }
+  return dp[m][n];
+}
+
+function fuzzyThreshold(answer) {
+  const len = answer.replace(/ /g, '').length;
+  if (len <= 4) return 0;  // short words must be exact
+  if (len <= 7) return 1;  // e.g. Ramadan (7) → 1 typo ok
+  return 2;                // longer words allow 2
+}
+
 function checkAnswer(aliases, userInput) {
   const normInput = normalize(userInput);
-  return aliases.some(alias => normalize(alias) === normInput);
+  return aliases.some(alias => {
+    const normAlias = normalize(alias);
+    if (normAlias === normInput) return true;
+    const threshold = fuzzyThreshold(normAlias);
+    if (threshold === 0) return false;
+    return levenshtein(normInput, normAlias) <= threshold;
+  });
 }
 
 // ---------------------------------------------------------------------------
