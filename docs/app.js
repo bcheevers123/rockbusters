@@ -428,6 +428,26 @@ function devResetToToday() {
   loadQuiz();
 }
 
+async function devResetLeaderboard() {
+  const secret = window.prompt('Dev passcode:');
+  if (!secret) return;
+  const apiUrl = getApiUrl();
+  if (!apiUrl) { window.alert('No API URL configured.'); return; }
+  if (!window.confirm('Reset the entire leaderboard? This cannot be undone.')) return;
+  try {
+    const res = await fetch(`${apiUrl}/api/admin/reset-leaderboard?secret=${encodeURIComponent(secret)}`, { method: 'POST' });
+    const data = await res.json();
+    if (res.ok) {
+      window.alert('Leaderboard reset.');
+      loadLeaderboard();
+    } else {
+      window.alert(`Error: ${data.detail || res.status}`);
+    }
+  } catch (e) {
+    window.alert(`Failed: ${e.message}`);
+  }
+}
+
 // ---------------------------------------------------------------------------
 // Quiz state — module-level, read by all handlers
 // ---------------------------------------------------------------------------
@@ -765,11 +785,13 @@ function wireQuizButtons() {
   const devPrev = document.getElementById('dev-prev-btn');
   const devNext = document.getElementById('dev-next-btn');
   const devReset = document.getElementById('dev-reset-btn');
+  const devResetLbBtn = document.getElementById('dev-reset-lb-btn');
   const devLockBtn = document.getElementById('dev-lock-btn');
-  if (devPrev)    devPrev.addEventListener('click', () => devStep(-1));
-  if (devNext)    devNext.addEventListener('click', () => devStep(1));
-  if (devReset)   devReset.addEventListener('click', devResetToToday);
-  if (devLockBtn) devLockBtn.addEventListener('click', devLock);
+  if (devPrev)       devPrev.addEventListener('click', () => devStep(-1));
+  if (devNext)       devNext.addEventListener('click', () => devStep(1));
+  if (devReset)      devReset.addEventListener('click', devResetToToday);
+  if (devResetLbBtn) devResetLbBtn.addEventListener('click', devResetLeaderboard);
+  if (devLockBtn)    devLockBtn.addEventListener('click', devLock);
 }
 
 // ---------------------------------------------------------------------------
