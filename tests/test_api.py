@@ -262,10 +262,10 @@ def test_sheets_mode_leaderboard_uses_replayed_data():
             del sys.modules[mod_name]
 
 
-def test_sheets_mode_score_calls_write_through(tmp_path):
+def test_sheets_mode_score_calls_write_through():
     """In Sheets mode, POST /api/score should call sheets_write_with_retry for upsert and guess."""
     import sys
-    from unittest.mock import MagicMock, patch, call
+    from unittest.mock import MagicMock, patch
 
     bank_path = os.path.normpath(
         os.path.join(os.path.dirname(__file__), "..", "data", "rockbusters.yaml")
@@ -303,6 +303,7 @@ def test_sheets_mode_score_calls_write_through(tmp_path):
 
     del os.environ["GOOGLE_SHEETS_ID"]
     del os.environ["GOOGLE_SERVICE_ACCOUNT_JSON"]
+    del os.environ["ROCKBUSTERS_BANK_PATH"]
     for mod_name in list(sys.modules.keys()):
         if mod_name.startswith("api"):
             del sys.modules[mod_name]
@@ -346,6 +347,40 @@ def test_sheets_mode_reveal_calls_write_through():
 
     del os.environ["GOOGLE_SHEETS_ID"]
     del os.environ["GOOGLE_SERVICE_ACCOUNT_JSON"]
+    del os.environ["ROCKBUSTERS_BANK_PATH"]
+    for mod_name in list(sys.modules.keys()):
+        if mod_name.startswith("api"):
+            del sys.modules[mod_name]
+
+
+def test_sheets_mode_startup_failure_falls_back_to_file_sqlite(tmp_path):
+    """When Sheets startup fails, app falls back to file SQLite and stays up."""
+    import sys
+    from unittest.mock import MagicMock, patch
+
+    bank_path = os.path.normpath(
+        os.path.join(os.path.dirname(__file__), "..", "data", "rockbusters.yaml")
+    )
+    db_path = str(tmp_path / "test.db")
+
+    for mod_name in list(sys.modules.keys()):
+        if mod_name.startswith("api"):
+            del sys.modules[mod_name]
+
+    os.environ["GOOGLE_SHEETS_ID"] = "FAKE_SHEET_ID"
+    os.environ["GOOGLE_SERVICE_ACCOUNT_JSON"] = '{"type":"service_account"}'
+    os.environ["ROCKBUSTERS_BANK_PATH"] = bank_path
+    os.environ["SQLITE_PATH"] = db_path
+
+    with patch("api.sheets.get_sheets_client", side_effect=Exception("credentials invalid")):
+        from api.main import app
+        from fastapi.testclient import TestClient
+        with TestClient(app) as c:
+            resp = c.get("/api/health")
+            assert resp.status_code == 200
+
+    for key in ["GOOGLE_SHEETS_ID", "GOOGLE_SERVICE_ACCOUNT_JSON", "ROCKBUSTERS_BANK_PATH", "SQLITE_PATH"]:
+        os.environ.pop(key, None)
     for mod_name in list(sys.modules.keys()):
         if mod_name.startswith("api"):
             del sys.modules[mod_name]

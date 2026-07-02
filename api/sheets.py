@@ -10,8 +10,7 @@ import gspread
 logger = logging.getLogger(__name__)
 
 _SCOPES = [
-    "https://spreadsheets.google.com/feeds",
-    "https://www.googleapis.com/auth/drive",
+    "https://www.googleapis.com/auth/spreadsheets",
 ]
 
 

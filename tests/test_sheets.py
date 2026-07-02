@@ -3,8 +3,6 @@
 import sqlite3
 from unittest.mock import MagicMock, patch
 
-import pytest
-
 from api import sheets
 
 

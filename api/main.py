@@ -56,8 +56,15 @@ if config.sheets_enabled():
         logger.info("Sheets mode: replayed %d users, %d guesses, %d reveals.",
                     len(data["users"]), len(data["guesses"]), len(data["daily_reveals"]))
     except Exception as e:
-        logger.error("Sheets startup failed (%s) — starting with empty in-memory db.", e)
+        logger.error("Sheets startup failed (%s) — falling back to file SQLite.", e)
+        if _mem_conn is not None:
+            try:
+                _mem_conn.close()
+            except Exception:
+                pass
+        _mem_conn = None
         _sheets_client = None
+        init_db(config.sqlite_path)
 else:
     init_db(config.sqlite_path)
 
@@ -171,18 +178,19 @@ def leaderboard():
 
     conn = get_conn()
     try:
-        rows = get_leaderboard(conn)
-        result = []
-        for rank, row in enumerate(rows, start=1):
-            today_pts = get_user_score_today(conn, row["user_id"], set_id)
-            result.append(
-                {
-                    "rank": rank,
-                    "display_name": row["display_name"],
-                    "total_points": row["total_points"],
-                    "today_points": today_pts,
-                }
-            )
+        with _mem_lock if _mem_conn is not None else contextlib.nullcontext():
+            rows = get_leaderboard(conn)
+            result = []
+            for rank, row in enumerate(rows, start=1):
+                today_pts = get_user_score_today(conn, row["user_id"], set_id)
+                result.append(
+                    {
+                        "rank": rank,
+                        "display_name": row["display_name"],
+                        "total_points": row["total_points"],
+                        "today_points": today_pts,
+                    }
+                )
     finally:
         _close_conn(conn)
 
@@ -276,19 +284,20 @@ def user_status(user_id: str = Query(...), set_id: str = Query(...)):
     """Return a user's status for a given set."""
     conn = get_conn()
     try:
-        revealed = has_revealed(conn, user_id, set_id)
+        with _mem_lock if _mem_conn is not None else contextlib.nullcontext():
+            revealed = has_revealed(conn, user_id, set_id)
 
-        rows = conn.execute(
-            """
-            SELECT clue_number FROM guesses
-            WHERE user_id = ? AND set_id = ? AND is_correct = 1
-            ORDER BY clue_number
-            """,
-            (user_id, set_id),
-        ).fetchall()
-        correct_clues = [row[0] for row in rows]
+            rows = conn.execute(
+                """
+                SELECT clue_number FROM guesses
+                WHERE user_id = ? AND set_id = ? AND is_correct = 1
+                ORDER BY clue_number
+                """,
+                (user_id, set_id),
+            ).fetchall()
+            correct_clues = [row[0] for row in rows]
 
-        points_today = get_user_score_today(conn, user_id, set_id)
+            points_today = get_user_score_today(conn, user_id, set_id)
     finally:
         _close_conn(conn)
 
