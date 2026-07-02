@@ -144,6 +144,16 @@
 
   </main>
 
+  <!-- Dev panel — only shown after passcode auth -->
+  <div id="dev-panel" class="dev-panel" style="display:none" aria-hidden="true">
+    <span class="dev-label">Dev</span>
+    <button id="dev-prev-btn" class="dev-btn">&#8592; Prev</button>
+    <span id="dev-set-info" class="dev-set-info"></span>
+    <button id="dev-next-btn" class="dev-btn">Next &#8594;</button>
+    <button id="dev-reset-btn" class="dev-btn">Today</button>
+    <button id="dev-lock-btn" class="dev-btn dev-btn-danger">Lock</button>
+  </div>
+
   <script src="app.js"></script>
 </body>
 </html>

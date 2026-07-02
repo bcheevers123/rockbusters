@@ -763,6 +763,71 @@ body {
 }
 
 /* ---------------------------------------------------------------------------
+   Dev panel — fixed bottom bar, only visible when dev-unlocked
+--------------------------------------------------------------------------- */
+
+.dev-panel {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #1a1a2e;
+  border-top: 2px solid #e94560;
+  padding: 0.5rem 1rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  z-index: 500;
+  flex-wrap: wrap;
+}
+
+.dev-label {
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #e94560;
+  flex-shrink: 0;
+}
+
+.dev-btn {
+  padding: 0.3rem 0.75rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  background: #16213e;
+  color: #eee;
+  border: 1px solid #444;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background 0.15s;
+  flex-shrink: 0;
+}
+
+.dev-btn:hover {
+  background: #0f3460;
+}
+
+.dev-btn-danger {
+  color: #e94560;
+  border-color: #e94560;
+}
+
+.dev-btn-danger:hover {
+  background: #e94560;
+  color: #fff;
+}
+
+.dev-set-info {
+  flex: 1;
+  font-size: 0.75rem;
+  color: #aaa;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  min-width: 0;
+}
+
+/* ---------------------------------------------------------------------------
    Responsive
 --------------------------------------------------------------------------- */
 

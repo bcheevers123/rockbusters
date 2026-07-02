@@ -45,7 +45,8 @@ function getTodaysIndex(totalSets) {
   const today = getTodayLondon();
   const diffMs = today.getTime() - EPOCH.getTime();
   const diffDays = Math.floor(diffMs / (1000 * 60 * 60 * 24));
-  return ((diffDays % totalSets) + totalSets) % totalSets;
+  const offset = devIsUnlocked() ? devGetOffset() : 0;
+  return (((diffDays + offset) % totalSets) + totalSets) % totalSets;
 }
 
 function formatDateBritish(date) {
@@ -287,6 +288,82 @@ function launchConfetti() {
 }
 
 // ---------------------------------------------------------------------------
+// Dev mode — offset-based set rotation, passcode-gated
+// ---------------------------------------------------------------------------
+
+// SHA-256 of "boiledham" — passcode never stored plaintext anywhere
+const DEV_PASSCODE_HASH = 'b814c48a478fe52433832f44c65538724c1022983c4949ecf8639b7e99ec8fbc';
+const DEV_SESSION_KEY   = 'rockbusters_dev_unlocked';
+const DEV_OFFSET_KEY    = 'rockbusters_dev_offset';
+
+async function sha256hex(str) {
+  const buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(str));
+  return Array.from(new Uint8Array(buf)).map(b => b.toString(16).padStart(2, '0')).join('');
+}
+
+function devIsUnlocked() {
+  return sessionStorage.getItem(DEV_SESSION_KEY) === '1';
+}
+
+function devGetOffset() {
+  return parseInt(localStorage.getItem(DEV_OFFSET_KEY) || '0', 10) || 0;
+}
+
+function devSetOffset(n) {
+  localStorage.setItem(DEV_OFFSET_KEY, String(n));
+}
+
+async function devUnlock() {
+  const raw = window.prompt('Dev passcode:');
+  if (!raw) return;
+  const hash = await sha256hex(raw.trim());
+  if (hash === DEV_PASSCODE_HASH) {
+    sessionStorage.setItem(DEV_SESSION_KEY, '1');
+    devShowPanel();
+    devUpdateInfo();
+  } else {
+    window.alert('Wrong passcode.');
+  }
+}
+
+function devLock() {
+  sessionStorage.removeItem(DEV_SESSION_KEY);
+  const panel = document.getElementById('dev-panel');
+  if (panel) panel.style.display = 'none';
+  document.body.style.paddingBottom = '';
+}
+
+function devShowPanel() {
+  const panel = document.getElementById('dev-panel');
+  if (panel) {
+    panel.style.display = 'flex';
+    document.body.style.paddingBottom = '48px';
+  }
+}
+
+function devUpdateInfo() {
+  const info = document.getElementById('dev-set-info');
+  if (!info) return;
+  const offset = devGetOffset();
+  const label = offset === 0 ? 'offset: 0 (today)' : `offset: ${offset > 0 ? '+' : ''}${offset}`;
+  // Include current set id if quiz is loaded
+  const setLabel = _setId ? `  |  ${_setId}` : '';
+  info.textContent = label + setLabel;
+}
+
+function devStep(delta) {
+  devSetOffset(devGetOffset() + delta);
+  devUpdateInfo();
+  loadQuiz();
+}
+
+function devResetToToday() {
+  devSetOffset(0);
+  devUpdateInfo();
+  loadQuiz();
+}
+
+// ---------------------------------------------------------------------------
 // Quiz state
 // ---------------------------------------------------------------------------
 let _answerClues = [];
@@ -394,6 +471,9 @@ function renderQuiz(todaySet, answerClues, progress) {
     const revBtn = document.getElementById('reveal-btn');
     if (revBtn) { revBtn.disabled = true; revBtn.style.display = 'none'; }
   }
+
+  // Refresh dev info line now that _setId is set
+  if (devIsUnlocked()) devUpdateInfo();
 }
 
 // ---------------------------------------------------------------------------
@@ -514,6 +594,40 @@ function toggleAbout() {
 // initApp
 // ---------------------------------------------------------------------------
 function initApp() {
+  // Dev panel — restore session if already unlocked
+  if (devIsUnlocked()) {
+    devShowPanel();
+    devUpdateInfo();
+  }
+
+  // Dev panel button wiring
+  const devPrev = document.getElementById('dev-prev-btn');
+  const devNext = document.getElementById('dev-next-btn');
+  const devReset = document.getElementById('dev-reset-btn');
+  const devLockBtn = document.getElementById('dev-lock-btn');
+  if (devPrev)    devPrev.addEventListener('click', () => devStep(-1));
+  if (devNext)    devNext.addEventListener('click', () => devStep(1));
+  if (devReset)   devReset.addEventListener('click', devResetToToday);
+  if (devLockBtn) devLockBtn.addEventListener('click', devLock);
+
+  // Hidden trigger: click site title 5 times within 2 seconds
+  let _devTapCount = 0;
+  let _devTapTimer = null;
+  const siteTitle = document.querySelector('.site-title');
+  if (siteTitle) {
+    siteTitle.style.cursor = 'default';
+    siteTitle.addEventListener('click', () => {
+      if (devIsUnlocked()) return;
+      _devTapCount++;
+      clearTimeout(_devTapTimer);
+      _devTapTimer = setTimeout(() => { _devTapCount = 0; }, 2000);
+      if (_devTapCount >= 5) {
+        _devTapCount = 0;
+        devUnlock();
+      }
+    });
+  }
+
   // Help modal wiring
   const helpOpenBtn = document.getElementById('help-open-btn');
   const helpCloseBtn = document.getElementById('help-close-btn');
