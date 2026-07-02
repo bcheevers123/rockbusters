@@ -286,10 +286,11 @@ function launchConfetti() {
 // Dev mode — offset-based set rotation, passcode-gated
 // ---------------------------------------------------------------------------
 
-// SHA-256 of "boiledham" — plaintext never stored in source
-const DEV_PASSCODE_HASH = 'b814c48a478fe52433832f44c65538724c1022983c4949ecf8639b7e99ec8fbc';
-const DEV_SESSION_KEY   = 'rockbusters_dev_unlocked';
-const DEV_OFFSET_KEY    = 'rockbusters_dev_offset';
+// SHA-256 of "monkeynews" — plaintext never stored in source
+const DEV_PASSCODE_HASH = '7cad4eb0e04bd259d1291faa24c9b04a52cb6697ede50931cde44e046019c20d';
+// In-memory only — lost on every navigation or refresh, never persisted
+let _devUnlocked = false;
+const DEV_OFFSET_KEY = 'rockbusters_dev_offset';
 
 async function sha256hex(str) {
   const buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(str));
@@ -297,7 +298,7 @@ async function sha256hex(str) {
 }
 
 function devIsUnlocked() {
-  return sessionStorage.getItem(DEV_SESSION_KEY) === '1';
+  return _devUnlocked;
 }
 
 function devGetOffset() {
@@ -313,7 +314,7 @@ async function devUnlock() {
   if (!raw) return;
   const hash = await sha256hex(raw.trim());
   if (hash === DEV_PASSCODE_HASH) {
-    sessionStorage.setItem(DEV_SESSION_KEY, '1');
+    _devUnlocked = true;
     devShowPanel();
     devUpdateInfo();
   } else {
@@ -322,7 +323,7 @@ async function devUnlock() {
 }
 
 function devLock() {
-  sessionStorage.removeItem(DEV_SESSION_KEY);
+  _devUnlocked = false;
   const panel = document.getElementById('dev-panel');
   if (panel) panel.style.display = 'none';
   document.body.style.paddingBottom = '';
@@ -651,12 +652,6 @@ function wireQuizButtons() {
 // ---------------------------------------------------------------------------
 function initApp() {
   wireQuizButtons();
-
-  // Dev session restore
-  if (devIsUnlocked()) {
-    devShowPanel();
-    devUpdateInfo();
-  }
 
   // Hidden trigger: click site title 3x within 3 seconds
   let _tapCount = 0;
