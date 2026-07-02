@@ -1,11 +1,10 @@
 """Unit tests for api/sheets.py — all gspread calls are mocked."""
 
 import sqlite3
-from unittest.mock import MagicMock, call, patch
+from unittest.mock import MagicMock, patch
 
 import pytest
 
-from api.db import init_db
 from api import sheets
 
 
@@ -27,7 +26,7 @@ def make_sheet_with_records(records):
 # get_sheets_client
 # ---------------------------------------------------------------------------
 
-def test_get_sheets_client_calls_gspread(tmp_path):
+def test_get_sheets_client_calls_gspread():
     creds_json = '{"type": "service_account", "project_id": "x"}'
     with patch("api.sheets.gspread.service_account_from_dict") as mock_sa:
         mock_sa.return_value = MagicMock()
@@ -63,16 +62,22 @@ def test_load_all_returns_three_tabs():
 
 def test_replay_into_db_inserts_users_guesses_reveals():
     conn = sqlite3.connect(":memory:")
-    init_db(conn if False else ":memory:")  # use helper below
-    conn = sqlite3.connect(":memory:")
-    from api.db import init_db as _init
-    _init(":memory:")
-    # Use a fresh connection with init
-    import tempfile, os
-    tmp = tempfile.mktemp(suffix=".db")
-    from api.db import init_db as real_init
-    real_init(tmp)
-    conn = sqlite3.connect(tmp)
+    conn.executescript("""
+        CREATE TABLE IF NOT EXISTS schema_version (version INTEGER PRIMARY KEY);
+        CREATE TABLE IF NOT EXISTS users (
+            user_id TEXT PRIMARY KEY, display_name TEXT, created_at TEXT
+        );
+        CREATE TABLE IF NOT EXISTS guesses (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            user_id TEXT NOT NULL, set_id TEXT NOT NULL,
+            clue_number INTEGER NOT NULL, is_correct INTEGER NOT NULL,
+            guessed_at TEXT NOT NULL
+        );
+        CREATE TABLE IF NOT EXISTS daily_reveals (
+            user_id TEXT NOT NULL, set_id TEXT NOT NULL, reveal_date TEXT NOT NULL,
+            PRIMARY KEY (user_id, set_id)
+        );
+    """)
 
     data = {
         "users": [
@@ -98,7 +103,6 @@ def test_replay_into_db_inserts_users_guesses_reveals():
     assert row[0] == "2026-01-01"
 
     conn.close()
-    os.unlink(tmp)
 
 
 # ---------------------------------------------------------------------------
@@ -182,3 +186,27 @@ def test_upsert_user_row_updates_display_name_when_user_exists():
     # Should update cell B2 (display_name column, row 2)
     ws.update_cell.assert_called_once_with(2, 2, "NewName")
     ws.append_row.assert_not_called()
+
+
+# ---------------------------------------------------------------------------
+# sheets_write_with_retry
+# ---------------------------------------------------------------------------
+
+def test_sheets_write_with_retry_succeeds_first_call():
+    fn = MagicMock()
+    sheets.sheets_write_with_retry(fn, "a", "b")
+    fn.assert_called_once_with("a", "b")
+
+
+def test_sheets_write_with_retry_retries_once_on_failure():
+    fn = MagicMock(side_effect=[Exception("fail"), None])
+    with patch("api.sheets.time.sleep"):
+        sheets.sheets_write_with_retry(fn, "a")
+    assert fn.call_count == 2
+
+
+def test_sheets_write_with_retry_logs_warning_on_double_failure():
+    fn = MagicMock(side_effect=Exception("fail"))
+    with patch("api.sheets.time.sleep"), patch("api.sheets.logger.warning") as mock_warn:
+        sheets.sheets_write_with_retry(fn, "a")  # must not raise
+    assert mock_warn.call_count == 2

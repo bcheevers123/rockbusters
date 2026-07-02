@@ -42,7 +42,7 @@ def replay_into_db(conn: sqlite3.Connection, data: dict) -> None:
     for row in data.get("guesses", []):
         conn.execute(
             """
-            INSERT INTO guesses (user_id, set_id, clue_number, is_correct, guessed_at)
+            INSERT OR IGNORE INTO guesses (user_id, set_id, clue_number, is_correct, guessed_at)
             VALUES (?, ?, ?, ?, ?)
             """,
             (
