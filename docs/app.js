@@ -213,9 +213,7 @@ async function loadLeaderboard() {
 function updateScoreTracker(correctCount) {
   for (let i = 1; i <= 3; i++) {
     const dot = document.getElementById(`score-dot-${i}`);
-    if (dot) {
-      dot.classList.toggle('earned', i <= correctCount);
-    }
+    if (dot) dot.classList.toggle('earned', i <= correctCount);
   }
   const label = document.getElementById('score-label');
   if (label) label.textContent = `${correctCount} / 3`;
@@ -233,10 +231,9 @@ function launchConfetti() {
   canvas.height = window.innerHeight;
 
   const COLOURS = ['#b35a00','#d4860a','#f5a623','#2ecc71','#3498db','#e74c3c','#9b59b6','#f39c12'];
-  const PIECES = 120;
   const particles = [];
 
-  for (let i = 0; i < PIECES; i++) {
+  for (let i = 0; i < 120; i++) {
     particles.push({
       x: Math.random() * canvas.width,
       y: Math.random() * -canvas.height * 0.4,
@@ -258,7 +255,6 @@ function launchConfetti() {
     ctx.clearRect(0, 0, canvas.width, canvas.height);
     elapsed++;
     let any = false;
-
     particles.forEach(p => {
       p.x += p.vx;
       p.y += p.vy;
@@ -275,7 +271,6 @@ function launchConfetti() {
         ctx.restore();
       }
     });
-
     if (any) {
       frame = requestAnimationFrame(draw);
     } else {
@@ -291,7 +286,7 @@ function launchConfetti() {
 // Dev mode — offset-based set rotation, passcode-gated
 // ---------------------------------------------------------------------------
 
-// SHA-256 of "boiledham" — passcode never stored plaintext anywhere
+// SHA-256 of "boiledham" — plaintext never stored in source
 const DEV_PASSCODE_HASH = 'b814c48a478fe52433832f44c65538724c1022983c4949ecf8639b7e99ec8fbc';
 const DEV_SESSION_KEY   = 'rockbusters_dev_unlocked';
 const DEV_OFFSET_KEY    = 'rockbusters_dev_offset';
@@ -337,7 +332,7 @@ function devShowPanel() {
   const panel = document.getElementById('dev-panel');
   if (panel) {
     panel.style.display = 'flex';
-    document.body.style.paddingBottom = '48px';
+    document.body.style.paddingBottom = '52px';
   }
 }
 
@@ -345,26 +340,23 @@ function devUpdateInfo() {
   const info = document.getElementById('dev-set-info');
   if (!info) return;
   const offset = devGetOffset();
-  const label = offset === 0 ? 'offset: 0 (today)' : `offset: ${offset > 0 ? '+' : ''}${offset}`;
-  // Include current set id if quiz is loaded
-  const setLabel = _setId ? `  |  ${_setId}` : '';
-  info.textContent = label + setLabel;
+  const offsetStr = offset === 0 ? 'offset: 0 (today)' : `offset: ${offset > 0 ? '+' : ''}${offset}`;
+  const setStr = _setId ? `  ·  ${_setId}` : '';
+  info.textContent = offsetStr + setStr;
 }
 
 function devStep(delta) {
   devSetOffset(devGetOffset() + delta);
-  devUpdateInfo();
   loadQuiz();
 }
 
 function devResetToToday() {
   devSetOffset(0);
-  devUpdateInfo();
   loadQuiz();
 }
 
 // ---------------------------------------------------------------------------
-// Quiz state
+// Quiz state — module-level, read by all handlers
 // ---------------------------------------------------------------------------
 let _answerClues = [];
 let _progress = null;
@@ -393,8 +385,11 @@ function disableClue(clueNumber) {
   if (btn) btn.disabled = true;
 }
 
-function disableAllClues(clues) {
-  clues.forEach(clue => disableClue(clue.number));
+function enableClue(clueNumber) {
+  const input = document.getElementById(`guess-input-${clueNumber}`);
+  const btn = document.getElementById(`guess-btn-${clueNumber}`);
+  if (input) { input.disabled = false; input.value = ''; }
+  if (btn) btn.disabled = false;
 }
 
 function markClueBlockCorrect(clueNumber) {
@@ -413,6 +408,30 @@ function showAnswers(answerClues) {
   if (warning) warning.textContent = "You've seen the answers — no points for today's set.";
 }
 
+// Reset all mutable quiz UI back to a clean state before re-rendering
+function resetQuizUI() {
+  for (let n = 1; n <= 3; n++) {
+    enableClue(n);
+    setResult(n, '', '');
+    const block = document.getElementById(`clue-block-${n}`);
+    if (block) block.classList.remove('correct');
+    const ansLine = document.getElementById(`answer-line-${n}`);
+    if (ansLine) ansLine.textContent = '';
+  }
+
+  const answersSection = document.getElementById('answers-section');
+  if (answersSection) answersSection.style.display = 'none';
+
+  const warning = document.getElementById('answers-warning');
+  if (warning) warning.textContent = '';
+
+  const revealBtn = document.getElementById('reveal-btn');
+  if (revealBtn) { revealBtn.style.display = ''; revealBtn.disabled = false; }
+
+  const banner = document.getElementById('all-correct-banner');
+  if (banner) banner.style.display = 'none';
+}
+
 function checkAllCorrect() {
   if (_progress && _progress.correct.length === _totalClues && !_progress.revealed) {
     const banner = document.getElementById('all-correct-banner');
@@ -424,60 +443,7 @@ function checkAllCorrect() {
 }
 
 // ---------------------------------------------------------------------------
-// renderQuiz
-// ---------------------------------------------------------------------------
-function renderQuiz(todaySet, answerClues, progress) {
-  _answerClues = answerClues;
-  _progress = progress;
-  _setId = todaySet.id;
-  _totalClues = todaySet.clues.length;
-
-  setText('quiz-title', todaySet.title);
-  setText('quiz-date', formatDateBritish(getTodayLondon()));
-  setText('quiz-intro', todaySet.intro);
-  setText('quiz-prize', todaySet.prize);
-
-  updateScoreTracker(progress.correct.length);
-
-  todaySet.clues.forEach(clue => {
-    const n = clue.number;
-    setText(`clue-${n}`, clue.clue);
-    setText(`initials-${n}`, clue.initials);
-    setText(`result-${n}`, '');
-
-    const btn = document.getElementById(`guess-btn-${n}`);
-    const input = document.getElementById(`guess-input-${n}`);
-    if (btn) btn.addEventListener('click', () => handleGuess(n));
-    if (input) input.addEventListener('keydown', e => { if (e.key === 'Enter') handleGuess(n); });
-
-    if (progress.correct.includes(n)) {
-      setResult(n, 'correct', "Already got that one.");
-      disableClue(n);
-      markClueBlockCorrect(n);
-    }
-  });
-
-  const revealBtn = document.getElementById('reveal-btn');
-  if (revealBtn) revealBtn.addEventListener('click', handleReveal);
-
-  if (progress.correct.length === _totalClues && !progress.revealed) {
-    const banner = document.getElementById('all-correct-banner');
-    if (banner) banner.style.display = '';
-  }
-
-  if (progress.revealed) {
-    showAnswers(answerClues);
-    disableAllClues(todaySet.clues);
-    const revBtn = document.getElementById('reveal-btn');
-    if (revBtn) { revBtn.disabled = true; revBtn.style.display = 'none'; }
-  }
-
-  // Refresh dev info line now that _setId is set
-  if (devIsUnlocked()) devUpdateInfo();
-}
-
-// ---------------------------------------------------------------------------
-// handleGuess
+// handleGuess — reads module-level state; safe to call multiple times
 // ---------------------------------------------------------------------------
 function handleGuess(clueNumber) {
   if (!_progress || !_answerClues) return;
@@ -511,16 +477,17 @@ function handleGuess(clueNumber) {
 }
 
 // ---------------------------------------------------------------------------
-// handleReveal
+// handleReveal — reads module-level state
 // ---------------------------------------------------------------------------
-async function handleReveal() {
+function handleReveal() {
   if (!_progress) return;
   if (!_answerClues || _answerClues.length === 0) return;
+  if (_progress.revealed) return;
 
   _progress.revealed = true;
   saveProgress(_setId, _progress);
 
-  _answerClues.forEach(ac => disableClue(ac.number));
+  for (let n = 1; n <= _totalClues; n++) disableClue(n);
   showAnswers(_answerClues);
   postReveal(_setId);
 
@@ -529,7 +496,56 @@ async function handleReveal() {
 }
 
 // ---------------------------------------------------------------------------
-// loadQuiz
+// renderQuiz — pure content update; does NOT wire event listeners
+// ---------------------------------------------------------------------------
+function renderQuiz(todaySet, answerClues, progress) {
+  // Reset UI to clean state first
+  resetQuizUI();
+
+  // Update module-level state
+  _answerClues = answerClues;
+  _progress = progress;
+  _setId = todaySet.id;
+  _totalClues = todaySet.clues.length;
+
+  // Populate content
+  setText('quiz-title', todaySet.title);
+  setText('quiz-date', formatDateBritish(getTodayLondon()));
+  setText('quiz-intro', todaySet.intro);
+  setText('quiz-prize', todaySet.prize);
+
+  todaySet.clues.forEach(clue => {
+    const n = clue.number;
+    setText(`clue-${n}`, clue.clue);
+    setText(`initials-${n}`, clue.initials);
+  });
+
+  // Restore progress state
+  updateScoreTracker(progress.correct.length);
+
+  progress.correct.forEach(n => {
+    setResult(n, 'correct', "Already got that one.");
+    disableClue(n);
+    markClueBlockCorrect(n);
+  });
+
+  if (progress.correct.length === _totalClues && !progress.revealed) {
+    const banner = document.getElementById('all-correct-banner');
+    if (banner) banner.style.display = '';
+  }
+
+  if (progress.revealed) {
+    showAnswers(answerClues);
+    for (let n = 1; n <= _totalClues; n++) disableClue(n);
+    const revealBtn = document.getElementById('reveal-btn');
+    if (revealBtn) { revealBtn.disabled = true; revealBtn.style.display = 'none'; }
+  }
+
+  if (devIsUnlocked()) devUpdateInfo();
+}
+
+// ---------------------------------------------------------------------------
+// loadQuiz — fetch + render; safe to call repeatedly
 // ---------------------------------------------------------------------------
 async function loadQuiz() {
   try {
@@ -591,16 +607,35 @@ function toggleAbout() {
 }
 
 // ---------------------------------------------------------------------------
-// initApp
+// Wire all static buttons once — called once from initApp
 // ---------------------------------------------------------------------------
-function initApp() {
-  // Dev panel — restore session if already unlocked
-  if (devIsUnlocked()) {
-    devShowPanel();
-    devUpdateInfo();
+function wireQuizButtons() {
+  // Clue guess buttons — handlers read module-level state, safe as permanent listeners
+  for (let n = 1; n <= 3; n++) {
+    const btn = document.getElementById(`guess-btn-${n}`);
+    const input = document.getElementById(`guess-input-${n}`);
+    if (btn) btn.addEventListener('click', () => handleGuess(n));
+    if (input) input.addEventListener('keydown', e => { if (e.key === 'Enter') handleGuess(n); });
   }
 
-  // Dev panel button wiring
+  const revealBtn = document.getElementById('reveal-btn');
+  if (revealBtn) revealBtn.addEventListener('click', handleReveal);
+
+  const helpOpenBtn = document.getElementById('help-open-btn');
+  const helpCloseBtn = document.getElementById('help-close-btn');
+  const helpModal = document.getElementById('help-modal');
+  if (helpOpenBtn) helpOpenBtn.addEventListener('click', openHelp);
+  if (helpCloseBtn) helpCloseBtn.addEventListener('click', closeHelp);
+  if (helpModal) helpModal.addEventListener('click', e => { if (e.target === helpModal) closeHelp(); });
+  document.addEventListener('keydown', e => { if (e.key === 'Escape') closeHelp(); });
+
+  const aboutBtn = document.getElementById('about-toggle-btn');
+  if (aboutBtn) aboutBtn.addEventListener('click', toggleAbout);
+
+  const refreshBtn = document.getElementById('leaderboard-refresh-btn');
+  if (refreshBtn) refreshBtn.addEventListener('click', loadLeaderboard);
+
+  // Dev panel buttons
   const devPrev = document.getElementById('dev-prev-btn');
   const devNext = document.getElementById('dev-next-btn');
   const devReset = document.getElementById('dev-reset-btn');
@@ -609,47 +644,36 @@ function initApp() {
   if (devNext)    devNext.addEventListener('click', () => devStep(1));
   if (devReset)   devReset.addEventListener('click', devResetToToday);
   if (devLockBtn) devLockBtn.addEventListener('click', devLock);
+}
 
-  // Hidden trigger: click site title 5 times within 2 seconds
-  let _devTapCount = 0;
-  let _devTapTimer = null;
+// ---------------------------------------------------------------------------
+// initApp
+// ---------------------------------------------------------------------------
+function initApp() {
+  wireQuizButtons();
+
+  // Dev session restore
+  if (devIsUnlocked()) {
+    devShowPanel();
+    devUpdateInfo();
+  }
+
+  // Hidden trigger: click site title 5x within 2 seconds
+  let _tapCount = 0;
+  let _tapTimer = null;
   const siteTitle = document.querySelector('.site-title');
   if (siteTitle) {
-    siteTitle.style.cursor = 'default';
     siteTitle.addEventListener('click', () => {
       if (devIsUnlocked()) return;
-      _devTapCount++;
-      clearTimeout(_devTapTimer);
-      _devTapTimer = setTimeout(() => { _devTapCount = 0; }, 2000);
-      if (_devTapCount >= 5) {
-        _devTapCount = 0;
+      _tapCount++;
+      clearTimeout(_tapTimer);
+      _tapTimer = setTimeout(() => { _tapCount = 0; }, 2000);
+      if (_tapCount >= 5) {
+        _tapCount = 0;
         devUnlock();
       }
     });
   }
-
-  // Help modal wiring
-  const helpOpenBtn = document.getElementById('help-open-btn');
-  const helpCloseBtn = document.getElementById('help-close-btn');
-  const helpModal = document.getElementById('help-modal');
-  if (helpOpenBtn) helpOpenBtn.addEventListener('click', openHelp);
-  if (helpCloseBtn) helpCloseBtn.addEventListener('click', closeHelp);
-  if (helpModal) {
-    helpModal.addEventListener('click', e => {
-      if (e.target === helpModal) closeHelp();
-    });
-  }
-  document.addEventListener('keydown', e => {
-    if (e.key === 'Escape') closeHelp();
-  });
-
-  // About toggle
-  const aboutBtn = document.getElementById('about-toggle-btn');
-  if (aboutBtn) aboutBtn.addEventListener('click', toggleAbout);
-
-  // Leaderboard refresh
-  const refreshBtn = document.getElementById('leaderboard-refresh-btn');
-  if (refreshBtn) refreshBtn.addEventListener('click', loadLeaderboard);
 
   const displayName = getDisplayName();
 
