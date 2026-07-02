@@ -212,10 +212,9 @@ def test_user_status_200(client):
 # Sheets mode: startup rebuild test (mocked)
 # ---------------------------------------------------------------------------
 
-def test_sheets_mode_leaderboard_uses_replayed_data(tmp_path):
+def test_sheets_mode_leaderboard_uses_replayed_data():
     """When Sheets env vars are set, startup replays Sheets data into in-memory SQLite.
     The leaderboard endpoint should return data from the replayed db."""
-    import importlib
     import sys
     from unittest.mock import MagicMock, patch
 
@@ -255,6 +254,96 @@ def test_sheets_mode_leaderboard_uses_replayed_data(tmp_path):
             assert "SheetUser" in names
 
     # Cleanup
+    del os.environ["GOOGLE_SHEETS_ID"]
+    del os.environ["GOOGLE_SERVICE_ACCOUNT_JSON"]
+    del os.environ["ROCKBUSTERS_BANK_PATH"]
+    for mod_name in list(sys.modules.keys()):
+        if mod_name.startswith("api"):
+            del sys.modules[mod_name]
+
+
+def test_sheets_mode_score_calls_write_through(tmp_path):
+    """In Sheets mode, POST /api/score should call sheets_write_with_retry for upsert and guess."""
+    import sys
+    from unittest.mock import MagicMock, patch, call
+
+    bank_path = os.path.normpath(
+        os.path.join(os.path.dirname(__file__), "..", "data", "rockbusters.yaml")
+    )
+
+    for mod_name in list(sys.modules.keys()):
+        if mod_name.startswith("api"):
+            del sys.modules[mod_name]
+
+    fake_sheets_data = {"users": [], "guesses": [], "daily_reveals": []}
+    mock_client = MagicMock()
+
+    os.environ["GOOGLE_SHEETS_ID"] = "FAKE_SHEET_ID"
+    os.environ["GOOGLE_SERVICE_ACCOUNT_JSON"] = '{"type":"service_account"}'
+    os.environ["ROCKBUSTERS_BANK_PATH"] = bank_path
+
+    with patch("api.sheets.get_sheets_client", return_value=mock_client), \
+         patch("api.sheets.load_all", return_value=fake_sheets_data), \
+         patch("api.sheets.sheets_write_with_retry") as mock_write:
+        from api.main import app
+        from fastapi.testclient import TestClient
+        # get today's set_id first
+        with TestClient(app) as c:
+            today = c.get("/api/today").json()
+            set_id = today["set_id"]
+            clue_number = today["clues"][0]["number"]
+            resp = c.post("/api/score", json={
+                "user_id": "u_wt",
+                "display_name": "WriteThrough",
+                "set_id": set_id,
+                "clue_number": clue_number,
+            })
+            assert resp.status_code == 200
+            assert mock_write.call_count >= 2  # upsert_user + append_guess
+
+    del os.environ["GOOGLE_SHEETS_ID"]
+    del os.environ["GOOGLE_SERVICE_ACCOUNT_JSON"]
+    for mod_name in list(sys.modules.keys()):
+        if mod_name.startswith("api"):
+            del sys.modules[mod_name]
+
+
+def test_sheets_mode_reveal_calls_write_through():
+    """In Sheets mode, POST /api/reveal should call sheets_write_with_retry."""
+    import sys
+    from unittest.mock import MagicMock, patch
+
+    bank_path = os.path.normpath(
+        os.path.join(os.path.dirname(__file__), "..", "data", "rockbusters.yaml")
+    )
+
+    for mod_name in list(sys.modules.keys()):
+        if mod_name.startswith("api"):
+            del sys.modules[mod_name]
+
+    fake_sheets_data = {"users": [], "guesses": [], "daily_reveals": []}
+    mock_client = MagicMock()
+
+    os.environ["GOOGLE_SHEETS_ID"] = "FAKE_SHEET_ID"
+    os.environ["GOOGLE_SERVICE_ACCOUNT_JSON"] = '{"type":"service_account"}'
+    os.environ["ROCKBUSTERS_BANK_PATH"] = bank_path
+
+    with patch("api.sheets.get_sheets_client", return_value=mock_client), \
+         patch("api.sheets.load_all", return_value=fake_sheets_data), \
+         patch("api.sheets.sheets_write_with_retry") as mock_write:
+        from api.main import app
+        from fastapi.testclient import TestClient
+        with TestClient(app) as c:
+            today = c.get("/api/today").json()
+            set_id = today["set_id"]
+            resp = c.post("/api/reveal", json={
+                "user_id": "u_rv",
+                "display_name": "RevealUser",
+                "set_id": set_id,
+            })
+            assert resp.status_code == 200
+            assert mock_write.call_count >= 2  # upsert_user + append_reveal
+
     del os.environ["GOOGLE_SHEETS_ID"]
     del os.environ["GOOGLE_SERVICE_ACCOUNT_JSON"]
     for mod_name in list(sys.modules.keys()):

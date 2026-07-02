@@ -4,6 +4,62 @@ import sqlite3
 from datetime import datetime, timezone
 
 
+def _create_schema(conn: sqlite3.Connection) -> None:
+    """Run the schema DDL on *conn*.
+
+    Uses ``CREATE TABLE IF NOT EXISTS`` throughout so this is safe to call on
+    an existing connection.  Also records ``schema_version = 1`` on first run.
+    """
+    cur = conn.cursor()
+
+    cur.execute(
+        """
+        CREATE TABLE IF NOT EXISTS schema_version (
+            version INTEGER PRIMARY KEY
+        )
+        """
+    )
+
+    cur.execute(
+        """
+        CREATE TABLE IF NOT EXISTS users (
+            user_id      TEXT PRIMARY KEY,
+            display_name TEXT,
+            created_at   TEXT
+        )
+        """
+    )
+
+    cur.execute(
+        """
+        CREATE TABLE IF NOT EXISTS guesses (
+            id           INTEGER PRIMARY KEY AUTOINCREMENT,
+            user_id      TEXT    NOT NULL,
+            set_id       TEXT    NOT NULL,
+            clue_number  INTEGER NOT NULL,
+            is_correct   INTEGER NOT NULL,
+            guessed_at   TEXT    NOT NULL
+        )
+        """
+    )
+
+    cur.execute(
+        """
+        CREATE TABLE IF NOT EXISTS daily_reveals (
+            user_id     TEXT NOT NULL,
+            set_id      TEXT NOT NULL,
+            reveal_date TEXT NOT NULL,
+            PRIMARY KEY (user_id, set_id)
+        )
+        """
+    )
+
+    # Insert schema_version = 1 only on first run; idempotent on re-runs.
+    cur.execute("INSERT OR IGNORE INTO schema_version (version) VALUES (1)")
+
+    conn.commit()
+
+
 def init_db(db_path: str) -> None:
     """Create all application tables in the SQLite database at *db_path*.
 
@@ -17,54 +73,7 @@ def init_db(db_path: str) -> None:
     """
     conn = sqlite3.connect(db_path)
     try:
-        cur = conn.cursor()
-
-        cur.execute(
-            """
-            CREATE TABLE IF NOT EXISTS schema_version (
-                version INTEGER PRIMARY KEY
-            )
-            """
-        )
-
-        cur.execute(
-            """
-            CREATE TABLE IF NOT EXISTS users (
-                user_id      TEXT PRIMARY KEY,
-                display_name TEXT,
-                created_at   TEXT
-            )
-            """
-        )
-
-        cur.execute(
-            """
-            CREATE TABLE IF NOT EXISTS guesses (
-                id           INTEGER PRIMARY KEY AUTOINCREMENT,
-                user_id      TEXT    NOT NULL,
-                set_id       TEXT    NOT NULL,
-                clue_number  INTEGER NOT NULL,
-                is_correct   INTEGER NOT NULL,
-                guessed_at   TEXT    NOT NULL
-            )
-            """
-        )
-
-        cur.execute(
-            """
-            CREATE TABLE IF NOT EXISTS daily_reveals (
-                user_id     TEXT NOT NULL,
-                set_id      TEXT NOT NULL,
-                reveal_date TEXT NOT NULL,
-                PRIMARY KEY (user_id, set_id)
-            )
-            """
-        )
-
-        # Insert schema_version = 1 only on first run; idempotent on re-runs.
-        cur.execute("INSERT OR IGNORE INTO schema_version (version) VALUES (1)")
-
-        conn.commit()
+        _create_schema(conn)
     finally:
         conn.close()
 

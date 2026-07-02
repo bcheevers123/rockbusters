@@ -1,8 +1,10 @@
 """Rockbusters FastAPI application entry point."""
 
+import contextlib
 import datetime
 import logging
 import sqlite3
+import threading
 from datetime import datetime as _dt, timezone
 
 import pytz
@@ -16,6 +18,7 @@ load_dotenv()
 from api.config import Config
 from api.content_bank import load_bank
 from api.db import (
+    _create_schema,
     get_leaderboard,
     get_user_score_today,
     has_correct_guess,
@@ -39,29 +42,12 @@ config = Config()
 # Sheets mode: in-memory SQLite rebuilt from Google Sheets on startup
 _sheets_client = None
 _mem_conn = None
+_mem_lock = threading.Lock()
 
 if config.sheets_enabled():
     _mem_conn = sqlite3.connect(":memory:", check_same_thread=False)
     _mem_conn.row_factory = sqlite3.Row
-
-    # init_db only accepts a path string, so initialise schema directly on _mem_conn
-    _mem_conn.executescript("""
-        CREATE TABLE IF NOT EXISTS schema_version (version INTEGER PRIMARY KEY);
-        CREATE TABLE IF NOT EXISTS users (
-            user_id TEXT PRIMARY KEY, display_name TEXT, created_at TEXT
-        );
-        CREATE TABLE IF NOT EXISTS guesses (
-            id INTEGER PRIMARY KEY AUTOINCREMENT,
-            user_id TEXT NOT NULL, set_id TEXT NOT NULL,
-            clue_number INTEGER NOT NULL, is_correct INTEGER NOT NULL,
-            guessed_at TEXT NOT NULL
-        );
-        CREATE TABLE IF NOT EXISTS daily_reveals (
-            user_id TEXT NOT NULL, set_id TEXT NOT NULL, reveal_date TEXT NOT NULL,
-            PRIMARY KEY (user_id, set_id)
-        );
-        INSERT OR IGNORE INTO schema_version (version) VALUES (1);
-    """)
+    _create_schema(_mem_conn)
 
     try:
         _sheets_client = sheets_module.get_sheets_client(config.google_service_account_json)
@@ -212,15 +198,19 @@ def score(req: ScoreRequest):
     """
     conn = get_conn()
     try:
-        upsert_user(conn, req.user_id, req.display_name)
+        _lock_ctx = _mem_lock if _mem_conn is not None else contextlib.nullcontext()
+        with _lock_ctx:
+            upsert_user(conn, req.user_id, req.display_name)
 
-        if has_revealed(conn, req.user_id, req.set_id):
-            raise HTTPException(status_code=400, detail="User has already revealed answers.")
+            if has_revealed(conn, req.user_id, req.set_id):
+                raise HTTPException(status_code=400, detail="User has already revealed answers.")
 
-        if has_correct_guess(conn, req.user_id, req.set_id, req.clue_number):
-            raise HTTPException(status_code=409, detail="Clue already scored for this user.")
+            if has_correct_guess(conn, req.user_id, req.set_id, req.clue_number):
+                raise HTTPException(status_code=409, detail="Clue already scored for this user.")
 
-        record_guess(conn, req.user_id, req.set_id, req.clue_number, is_correct=True)
+            record_guess(conn, req.user_id, req.set_id, req.clue_number, is_correct=True)
+
+            points_today = get_user_score_today(conn, req.user_id, req.set_id)
 
         if _sheets_client:
             _now = _dt.now(timezone.utc).isoformat()
@@ -240,8 +230,6 @@ def score(req: ScoreRequest):
                     "guessed_at": _now,
                 },
             )
-
-        points_today = get_user_score_today(conn, req.user_id, req.set_id)
     finally:
         _close_conn(conn)
 
@@ -256,8 +244,10 @@ def reveal(req: RevealRequest):
 
     conn = get_conn()
     try:
-        upsert_user(conn, req.user_id, req.display_name)
-        record_reveal(conn, req.user_id, req.set_id, reveal_date)
+        _lock_ctx = _mem_lock if _mem_conn is not None else contextlib.nullcontext()
+        with _lock_ctx:
+            upsert_user(conn, req.user_id, req.display_name)
+            record_reveal(conn, req.user_id, req.set_id, reveal_date)
 
         if _sheets_client:
             _now = _dt.now(timezone.utc).isoformat()
