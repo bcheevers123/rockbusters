@@ -33,3 +33,12 @@ class Config:
     api_secret: str = field(
         default_factory=lambda: os.getenv("API_SECRET", "")
     )
+    google_sheets_id: str = field(
+        default_factory=lambda: os.getenv("GOOGLE_SHEETS_ID", "")
+    )
+    google_service_account_json: str = field(
+        default_factory=lambda: os.getenv("GOOGLE_SERVICE_ACCOUNT_JSON", "")
+    )
+
+    def sheets_enabled(self) -> bool:
+        return bool(self.google_sheets_id and self.google_service_account_json)
