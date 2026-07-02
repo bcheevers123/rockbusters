@@ -658,7 +658,7 @@ function initApp() {
     devUpdateInfo();
   }
 
-  // Hidden trigger: click site title 5x within 2 seconds
+  // Hidden trigger: click site title 3x within 3 seconds
   let _tapCount = 0;
   let _tapTimer = null;
   const siteTitle = document.querySelector('.site-title');
@@ -667,8 +667,9 @@ function initApp() {
       if (devIsUnlocked()) return;
       _tapCount++;
       clearTimeout(_tapTimer);
-      _tapTimer = setTimeout(() => { _tapCount = 0; }, 2000);
-      if (_tapCount >= 5) {
+      _tapTimer = setTimeout(() => { _tapCount = 0; }, 3000);
+      console.log('[dev] tap', _tapCount, '/ 3');
+      if (_tapCount >= 3) {
         _tapCount = 0;
         devUnlock();
       }
@@ -725,6 +726,7 @@ window.loadProgress = loadProgress;
 window.saveProgress = saveProgress;
 window.handleGuess = handleGuess;
 window.handleReveal = handleReveal;
+window.devUnlock = devUnlock;
 
 // ---------------------------------------------------------------------------
 // Boot
