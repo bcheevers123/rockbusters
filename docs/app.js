@@ -1,15 +1,14 @@
-// Rockbusters — main JavaScript entry point for the daily quiz frontend.
+// Rockbusters — daily phonetic quiz frontend
 
 // ---------------------------------------------------------------------------
 // Constants
 // ---------------------------------------------------------------------------
-const EPOCH = new Date(Date.UTC(2026, 0, 1)); // 2026-01-01 UTC
+const EPOCH = new Date(Date.UTC(2026, 0, 1));
 const TIMEZONE = 'Europe/London';
-const API_URL_ATTR = 'api-url'; // meta tag name
+const API_URL_ATTR = 'api-url';
 
 // ---------------------------------------------------------------------------
-// Text normalisation — same rules as Python:
-// lowercase, trim, collapse spaces, remove non-alphanumeric-space characters
+// Text normalisation
 // ---------------------------------------------------------------------------
 function normalize(text) {
   return text
@@ -20,7 +19,7 @@ function normalize(text) {
 }
 
 // ---------------------------------------------------------------------------
-// Answer checking — compare normalised user input against a clue's aliases
+// Answer checking
 // ---------------------------------------------------------------------------
 function checkAnswer(aliases, userInput) {
   const normInput = normalize(userInput);
@@ -30,9 +29,6 @@ function checkAnswer(aliases, userInput) {
 // ---------------------------------------------------------------------------
 // Date helpers
 // ---------------------------------------------------------------------------
-
-// Get today's London date as a plain Date (midnight UTC, but representing the
-// London calendar date — what matters is the y/m/d extracted via Intl).
 function getTodayLondon() {
   const now = new Date();
   const parts = new Intl.DateTimeFormat('en-GB', {
@@ -41,46 +37,36 @@ function getTodayLondon() {
     month: '2-digit',
     day: '2-digit',
   }).formatToParts(now);
-
   const get = type => parseInt(parts.find(p => p.type === type).value, 10);
-  // Return a Date whose UTC midnight represents the London calendar date
   return new Date(Date.UTC(get('year'), get('month') - 1, get('day')));
 }
 
-// Get today's 0-based set index: days since EPOCH (London date) % totalSets
 function getTodaysIndex(totalSets) {
   const today = getTodayLondon();
   const diffMs = today.getTime() - EPOCH.getTime();
   const diffDays = Math.floor(diffMs / (1000 * 60 * 60 * 24));
-  // Handle dates before epoch gracefully (treat as 0)
-  const positiveDiff = ((diffDays % totalSets) + totalSets) % totalSets;
-  return positiveDiff;
+  return ((diffDays % totalSets) + totalSets) % totalSets;
 }
 
-// British long date format: "1 July 2026"
 function formatDateBritish(date) {
   return new Intl.DateTimeFormat('en-GB', {
     day: 'numeric',
     month: 'long',
     year: 'numeric',
-    timeZone: 'UTC', // date is already expressed as UTC midnight for the London day
+    timeZone: 'UTC',
   }).format(date);
 }
 
 // ---------------------------------------------------------------------------
 // localStorage helpers
 // ---------------------------------------------------------------------------
-
 function getUserId() {
   const key = 'rockbusters_user_id';
   let id = localStorage.getItem(key);
   if (!id) {
-    if (typeof crypto !== 'undefined' && crypto.randomUUID) {
-      id = crypto.randomUUID();
-    } else {
-      // Fallback: timestamp + random
-      id = Date.now().toString(36) + '-' + Math.random().toString(36).slice(2);
-    }
+    id = typeof crypto !== 'undefined' && crypto.randomUUID
+      ? crypto.randomUUID()
+      : Date.now().toString(36) + '-' + Math.random().toString(36).slice(2);
     localStorage.setItem(key, id);
   }
   return id;
@@ -94,42 +80,33 @@ function setDisplayName(name) {
   localStorage.setItem('rockbusters_display_name', name);
 }
 
-// Progress state — keyed by set_id
-// Shape: { correct: [1, 3], revealed: false }
 function loadProgress(setId) {
   const key = `rockbusters_progress_${setId}`;
   try {
     const raw = localStorage.getItem(key);
     if (raw) {
       const parsed = JSON.parse(raw);
-      // Ensure shape is valid
       return {
         correct: Array.isArray(parsed.correct) ? parsed.correct : [],
         revealed: Boolean(parsed.revealed),
       };
     }
-  } catch (_) {
-    // Ignore parse errors
-  }
+  } catch (_) {}
   return { correct: [], revealed: false };
 }
 
 function saveProgress(setId, state) {
-  const key = `rockbusters_progress_${setId}`;
-  localStorage.setItem(key, JSON.stringify(state));
+  localStorage.setItem(`rockbusters_progress_${setId}`, JSON.stringify(state));
 }
 
 // ---------------------------------------------------------------------------
-// API URL from meta tag
+// API
 // ---------------------------------------------------------------------------
 function getApiUrl() {
   const meta = document.querySelector(`meta[name="${API_URL_ATTR}"]`);
   return meta ? (meta.getAttribute('content') || '') : '';
 }
 
-// ---------------------------------------------------------------------------
-// API call functions — fire and forget, errors logged only
-// ---------------------------------------------------------------------------
 async function postScore(setId, clueNumber) {
   const apiUrl = getApiUrl();
   if (!apiUrl) return;
@@ -176,18 +153,20 @@ async function loadLeaderboard() {
   if (!list) return;
 
   if (!apiUrl) {
-    list.textContent = 'Leaderboard unavailable.';
+    list.innerHTML = '<p style="font-size:0.88rem;color:#888">Leaderboard unavailable.</p>';
     return;
   }
+
+  list.innerHTML = '<p style="font-size:0.88rem;color:#888">Loading...</p>';
 
   try {
     const res = await fetch(`${apiUrl}/api/leaderboard`);
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const data = await res.json();
-
     const entries = data.leaderboard ?? [];
+
     if (entries.length === 0) {
-      list.textContent = 'No scores yet.';
+      list.innerHTML = '<p style="font-size:0.88rem;color:#888">No scores yet. Be the first.</p>';
       return;
     }
 
@@ -195,83 +174,129 @@ async function loadLeaderboard() {
     entries.forEach((entry, idx) => {
       const row = document.createElement('div');
       row.className = 'leaderboard-row';
-      const todayStr = entry.today_points > 0 ? ` (+${entry.today_points} today)` : '';
-      row.textContent = `${idx + 1}. ${entry.display_name || 'Anonymous'} — ${entry.total_points ?? 0}${todayStr}`;
+
+      const rank = document.createElement('span');
+      rank.className = 'lb-rank';
+      rank.textContent = idx + 1;
+
+      const name = document.createElement('span');
+      name.className = 'lb-name';
+      name.textContent = entry.display_name || 'Anonymous';
+
+      const score = document.createElement('span');
+      score.className = 'lb-score';
+      score.textContent = entry.total_points ?? 0;
+
+      row.appendChild(rank);
+      row.appendChild(name);
+      row.appendChild(score);
+
+      if (entry.today_points > 0) {
+        const today = document.createElement('span');
+        today.className = 'lb-today';
+        today.textContent = `+${entry.today_points} today`;
+        row.appendChild(today);
+      }
+
       list.appendChild(row);
     });
   } catch (e) {
     console.warn('Leaderboard fetch failed:', e);
-    list.textContent = 'Leaderboard unavailable.';
+    list.innerHTML = '<p style="font-size:0.88rem;color:#888">Leaderboard unavailable.</p>';
   }
 }
 
 // ---------------------------------------------------------------------------
-// Quiz rendering and interaction
+// Score tracker UI
 // ---------------------------------------------------------------------------
+function updateScoreTracker(correctCount) {
+  for (let i = 1; i <= 3; i++) {
+    const dot = document.getElementById(`score-dot-${i}`);
+    if (dot) {
+      dot.classList.toggle('earned', i <= correctCount);
+    }
+  }
+  const label = document.getElementById('score-label');
+  if (label) label.textContent = `${correctCount} / 3`;
+}
 
-// Module-level variables set during loadQuiz so handlers can access them
+// ---------------------------------------------------------------------------
+// Confetti
+// ---------------------------------------------------------------------------
+function launchConfetti() {
+  const canvas = document.getElementById('confetti-canvas');
+  if (!canvas) return;
+  const ctx = canvas.getContext('2d');
+
+  canvas.width = window.innerWidth;
+  canvas.height = window.innerHeight;
+
+  const COLOURS = ['#b35a00','#d4860a','#f5a623','#2ecc71','#3498db','#e74c3c','#9b59b6','#f39c12'];
+  const PIECES = 120;
+  const particles = [];
+
+  for (let i = 0; i < PIECES; i++) {
+    particles.push({
+      x: Math.random() * canvas.width,
+      y: Math.random() * -canvas.height * 0.4,
+      w: 6 + Math.random() * 8,
+      h: 3 + Math.random() * 4,
+      colour: COLOURS[Math.floor(Math.random() * COLOURS.length)],
+      rot: Math.random() * Math.PI * 2,
+      rotSpeed: (Math.random() - 0.5) * 0.15,
+      vx: (Math.random() - 0.5) * 3,
+      vy: 2.5 + Math.random() * 3.5,
+      alpha: 1,
+    });
+  }
+
+  let frame;
+  let elapsed = 0;
+
+  function draw() {
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+    elapsed++;
+    let any = false;
+
+    particles.forEach(p => {
+      p.x += p.vx;
+      p.y += p.vy;
+      p.rot += p.rotSpeed;
+      if (elapsed > 80) p.alpha = Math.max(0, p.alpha - 0.012);
+      if (p.y < canvas.height + 20 && p.alpha > 0) {
+        any = true;
+        ctx.save();
+        ctx.globalAlpha = p.alpha;
+        ctx.translate(p.x, p.y);
+        ctx.rotate(p.rot);
+        ctx.fillStyle = p.colour;
+        ctx.fillRect(-p.w / 2, -p.h / 2, p.w, p.h);
+        ctx.restore();
+      }
+    });
+
+    if (any) {
+      frame = requestAnimationFrame(draw);
+    } else {
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+    }
+  }
+
+  if (frame) cancelAnimationFrame(frame);
+  draw();
+}
+
+// ---------------------------------------------------------------------------
+// Quiz state
+// ---------------------------------------------------------------------------
 let _answerClues = [];
 let _progress = null;
 let _setId = null;
-let _allAnswerSets = null; // All answer sets, fetched in loadQuiz alongside questions
+let _totalClues = 3;
 
-function renderQuiz(todaySet, answerClues, progress) {
-  // Cache for handler use
-  _answerClues = answerClues;
-  _progress = progress;
-  _setId = todaySet.id;
-
-  // If progress already shows revealed, _answerClues will be populated by loadQuiz
-  // Otherwise, on reveal click, handleReveal will fetch and populate _answerClues
-
-  // Populate metadata
-  setText('quiz-title', todaySet.title);
-  setText('quiz-date', formatDateBritish(getTodayLondon()));
-  setText('quiz-intro', todaySet.intro);
-  setText('quiz-prize', todaySet.prize);
-
-  // Populate each clue
-  todaySet.clues.forEach(clue => {
-    const n = clue.number;
-    setText(`clue-${n}`, clue.clue);
-    setText(`initials-${n}`, clue.initials);
-    setText(`result-${n}`, '');
-
-    // Wire up guess button and Enter key
-    const btn = document.getElementById(`guess-btn-${n}`);
-    const input = document.getElementById(`guess-input-${n}`);
-
-    if (btn) {
-      btn.addEventListener('click', () => handleGuess(n));
-    }
-    if (input) {
-      input.addEventListener('keydown', (e) => {
-        if (e.key === 'Enter') handleGuess(n);
-      });
-    }
-
-    // Restore state for already-correct clues
-    if (progress.correct.includes(n)) {
-      setResult(n, 'correct', "You've already got that one.");
-      disableClue(n);
-    }
-  });
-
-  // Wire up reveal button
-  const revealBtn = document.getElementById('reveal-btn');
-  if (revealBtn) {
-    revealBtn.addEventListener('click', () => handleReveal());
-  }
-  // Store reference for disabling after click
-  window._revealBtn = revealBtn;
-
-  // If already revealed, show answers
-  if (progress.revealed) {
-    showAnswers(answerClues);
-    disableAllClues(todaySet.clues);
-  }
-}
-
+// ---------------------------------------------------------------------------
+// DOM helpers
+// ---------------------------------------------------------------------------
 function setText(id, value) {
   const el = document.getElementById(id);
   if (el) el.textContent = value;
@@ -295,151 +320,231 @@ function disableAllClues(clues) {
   clues.forEach(clue => disableClue(clue.number));
 }
 
+function markClueBlockCorrect(clueNumber) {
+  const block = document.getElementById(`clue-block-${clueNumber}`);
+  if (block) block.classList.add('correct');
+}
+
 function showAnswers(answerClues) {
   const section = document.getElementById('answers-section');
   if (section) section.style.display = '';
-
   answerClues.forEach(ac => {
     const el = document.getElementById(`answer-line-${ac.number}`);
     if (el) el.textContent = `${ac.answer}: ${ac.reasoning}`;
   });
-
   const warning = document.getElementById('answers-warning');
-  if (warning) {
-    warning.textContent = "You've seen the answers, so you can't score for today's set.";
+  if (warning) warning.textContent = "You've seen the answers — no points for today's set.";
+}
+
+function checkAllCorrect() {
+  if (_progress && _progress.correct.length === _totalClues && !_progress.revealed) {
+    const banner = document.getElementById('all-correct-banner');
+    if (banner && banner.style.display === 'none') {
+      banner.style.display = '';
+      launchConfetti();
+    }
   }
 }
 
 // ---------------------------------------------------------------------------
-// handleGuess — called on button click or Enter
+// renderQuiz
 // ---------------------------------------------------------------------------
-function handleGuess(clueNumber) {
-  const progress = _progress;
-  const answerClues = _answerClues;
-  const setId = _setId;
+function renderQuiz(todaySet, answerClues, progress) {
+  _answerClues = answerClues;
+  _progress = progress;
+  _setId = todaySet.id;
+  _totalClues = todaySet.clues.length;
 
-  if (!progress || !answerClues) return;
+  setText('quiz-title', todaySet.title);
+  setText('quiz-date', formatDateBritish(getTodayLondon()));
+  setText('quiz-intro', todaySet.intro);
+  setText('quiz-prize', todaySet.prize);
 
-  if (progress.revealed) {
-    setResult(clueNumber, 'info', "You've seen the answers, so no more points today.");
-    return;
+  updateScoreTracker(progress.correct.length);
+
+  todaySet.clues.forEach(clue => {
+    const n = clue.number;
+    setText(`clue-${n}`, clue.clue);
+    setText(`initials-${n}`, clue.initials);
+    setText(`result-${n}`, '');
+
+    const btn = document.getElementById(`guess-btn-${n}`);
+    const input = document.getElementById(`guess-input-${n}`);
+    if (btn) btn.addEventListener('click', () => handleGuess(n));
+    if (input) input.addEventListener('keydown', e => { if (e.key === 'Enter') handleGuess(n); });
+
+    if (progress.correct.includes(n)) {
+      setResult(n, 'correct', "Already got that one.");
+      disableClue(n);
+      markClueBlockCorrect(n);
+    }
+  });
+
+  const revealBtn = document.getElementById('reveal-btn');
+  if (revealBtn) revealBtn.addEventListener('click', handleReveal);
+
+  if (progress.correct.length === _totalClues && !progress.revealed) {
+    const banner = document.getElementById('all-correct-banner');
+    if (banner) banner.style.display = '';
   }
 
-  if (progress.correct.includes(clueNumber)) {
-    setResult(clueNumber, 'info', "You've already got that one.");
+  if (progress.revealed) {
+    showAnswers(answerClues);
+    disableAllClues(todaySet.clues);
+    const revBtn = document.getElementById('reveal-btn');
+    if (revBtn) { revBtn.disabled = true; revBtn.style.display = 'none'; }
+  }
+}
+
+// ---------------------------------------------------------------------------
+// handleGuess
+// ---------------------------------------------------------------------------
+function handleGuess(clueNumber) {
+  if (!_progress || !_answerClues) return;
+
+  if (_progress.revealed) {
+    setResult(clueNumber, 'info', "You've seen the answers — no more guesses.");
+    return;
+  }
+  if (_progress.correct.includes(clueNumber)) {
+    setResult(clueNumber, 'info', "Already got that one.");
     return;
   }
 
   const input = document.getElementById(`guess-input-${clueNumber}`);
   const userInput = input ? input.value : '';
-
-  const answerClue = answerClues.find(ac => ac.number === clueNumber);
+  const answerClue = _answerClues.find(ac => ac.number === clueNumber);
   if (!answerClue) return;
 
   if (checkAnswer(answerClue.aliases, userInput)) {
-    progress.correct.push(clueNumber);
-    saveProgress(setId, progress);
+    _progress.correct.push(clueNumber);
+    saveProgress(_setId, _progress);
     setResult(clueNumber, 'correct', 'Correct!');
     disableClue(clueNumber);
-    postScore(setId, clueNumber); // fire and forget
+    markClueBlockCorrect(clueNumber);
+    updateScoreTracker(_progress.correct.length);
+    postScore(_setId, clueNumber);
+    checkAllCorrect();
   } else {
     setResult(clueNumber, 'incorrect', 'Nope. Not having that.');
   }
 }
 
 // ---------------------------------------------------------------------------
-// handleReveal — called on reveal button click; answers already loaded by loadQuiz
+// handleReveal
 // ---------------------------------------------------------------------------
 async function handleReveal() {
-  const progress = _progress;
-  const setId = _setId;
-
-  if (!progress) return;
-
-  // Answers are loaded in loadQuiz; _answerClues is always populated
+  if (!_progress) return;
   if (!_answerClues || _answerClues.length === 0) return;
 
-  progress.revealed = true;
-  saveProgress(setId, progress);
+  _progress.revealed = true;
+  saveProgress(_setId, _progress);
 
-  // Disable all clue inputs
-  const allClueNumbers = _answerClues.map(ac => ac.number);
-  allClueNumbers.forEach(n => disableClue(n));
-
+  _answerClues.forEach(ac => disableClue(ac.number));
   showAnswers(_answerClues);
-  postReveal(setId); // fire and forget
+  postReveal(_setId);
 
-  // Hide/disable the reveal button to prevent double-fire
   const revealBtn = document.getElementById('reveal-btn');
-  if (revealBtn) {
-    revealBtn.disabled = true;
-    revealBtn.style.display = 'none';
-  }
+  if (revealBtn) { revealBtn.disabled = true; revealBtn.style.display = 'none'; }
 }
 
 // ---------------------------------------------------------------------------
-// loadQuiz — fetch data, compute today's set, render
+// loadQuiz
 // ---------------------------------------------------------------------------
 async function loadQuiz() {
   try {
-    // Fetch question data and answer data in parallel (answers needed for guess checking)
     const [qRes, aRes] = await Promise.all([
       fetch('data/rockbusters.json'),
       fetch('data/rockbusters-answers.json'),
     ]);
-    if (!qRes.ok) throw new Error(`Failed to load quiz data: HTTP ${qRes.status}`);
-    if (!aRes.ok) throw new Error(`Failed to load answer data: HTTP ${aRes.status}`);
+    if (!qRes.ok) throw new Error(`Quiz data HTTP ${qRes.status}`);
+    if (!aRes.ok) throw new Error(`Answer data HTTP ${aRes.status}`);
 
     const allSets = await qRes.json();
     const allAnswers = await aRes.json();
-    _allAnswerSets = allAnswers; // Cache for any future use
 
-    // Filter to enabled sets only
     const enabledSets = allSets.filter(s => s.enabled !== false);
     if (enabledSets.length === 0) throw new Error('No enabled sets found.');
 
     const todayIndex = getTodaysIndex(enabledSets.length);
     const todaySet = enabledSets[todayIndex];
-
-    // Load progress
     const progress = loadProgress(todaySet.id);
-
-    // Find matching answer clues for today's set (always available now)
     const answerSet = allAnswers.find(a => a.id === todaySet.id);
     const answerClues = answerSet ? answerSet.clues : [];
 
-    // Render
     renderQuiz(todaySet, answerClues, progress);
-
-    // Load leaderboard (async, non-blocking)
     loadLeaderboard();
   } catch (err) {
     console.error('loadQuiz failed:', err);
     const container = document.getElementById('quiz-container');
     if (container) {
-      container.innerHTML = `<p class="error">Failed to load today's quiz. Please try refreshing the page.</p>`;
+      container.innerHTML = '<p class="error">Failed to load today\'s quiz. Try refreshing.</p>';
     }
   }
 }
 
 // ---------------------------------------------------------------------------
-// initApp — called on DOMContentLoaded
+// Help modal
+// ---------------------------------------------------------------------------
+function openHelp() {
+  const modal = document.getElementById('help-modal');
+  if (modal) modal.style.display = '';
+  document.body.style.overflow = 'hidden';
+}
+
+function closeHelp() {
+  const modal = document.getElementById('help-modal');
+  if (modal) modal.style.display = 'none';
+  document.body.style.overflow = '';
+}
+
+// ---------------------------------------------------------------------------
+// About toggle
+// ---------------------------------------------------------------------------
+function toggleAbout() {
+  const content = document.getElementById('about-content');
+  const btn = document.getElementById('about-toggle-btn');
+  if (!content) return;
+  const visible = content.style.display !== 'none';
+  content.style.display = visible ? 'none' : '';
+  if (btn) btn.textContent = visible ? 'About Rockbusters' : 'Hide';
+}
+
+// ---------------------------------------------------------------------------
+// initApp
 // ---------------------------------------------------------------------------
 function initApp() {
-  // Wire up leaderboard refresh button
+  // Help modal wiring
+  const helpOpenBtn = document.getElementById('help-open-btn');
+  const helpCloseBtn = document.getElementById('help-close-btn');
+  const helpModal = document.getElementById('help-modal');
+  if (helpOpenBtn) helpOpenBtn.addEventListener('click', openHelp);
+  if (helpCloseBtn) helpCloseBtn.addEventListener('click', closeHelp);
+  if (helpModal) {
+    helpModal.addEventListener('click', e => {
+      if (e.target === helpModal) closeHelp();
+    });
+  }
+  document.addEventListener('keydown', e => {
+    if (e.key === 'Escape') closeHelp();
+  });
+
+  // About toggle
+  const aboutBtn = document.getElementById('about-toggle-btn');
+  if (aboutBtn) aboutBtn.addEventListener('click', toggleAbout);
+
+  // Leaderboard refresh
   const refreshBtn = document.getElementById('leaderboard-refresh-btn');
   if (refreshBtn) refreshBtn.addEventListener('click', loadLeaderboard);
 
   const displayName = getDisplayName();
 
   if (!displayName) {
-    // Show name prompt, hide quiz
     const namePrompt = document.getElementById('name-prompt');
     const quizContainer = document.getElementById('quiz-container');
     if (namePrompt) namePrompt.style.display = '';
     if (quizContainer) quizContainer.style.display = 'none';
 
-    // Wire up name submit button
     const submitBtn = document.getElementById('name-submit-btn');
     const nameInput = document.getElementById('name-input');
 
@@ -454,13 +559,8 @@ function initApp() {
     };
 
     if (submitBtn) submitBtn.addEventListener('click', submitName);
-    if (nameInput) {
-      nameInput.addEventListener('keydown', (e) => {
-        if (e.key === 'Enter') submitName();
-      });
-    }
+    if (nameInput) nameInput.addEventListener('keydown', e => { if (e.key === 'Enter') submitName(); });
   } else {
-    // Name already set — go straight to quiz
     const namePrompt = document.getElementById('name-prompt');
     const quizContainer = document.getElementById('quiz-container');
     if (namePrompt) namePrompt.style.display = 'none';
@@ -470,7 +570,7 @@ function initApp() {
 }
 
 // ---------------------------------------------------------------------------
-// Expose to global scope for use by inline HTML handlers (no bundler)
+// Expose to global scope (no bundler)
 // ---------------------------------------------------------------------------
 window.initApp = initApp;
 window.loadQuiz = loadQuiz;
@@ -489,11 +589,10 @@ window.handleGuess = handleGuess;
 window.handleReveal = handleReveal;
 
 // ---------------------------------------------------------------------------
-// Auto-initialise when the DOM is ready
+// Boot
 // ---------------------------------------------------------------------------
 if (document.readyState === 'loading') {
   document.addEventListener('DOMContentLoaded', initApp);
 } else {
-  // Already parsed (e.g. script deferred or at end of body)
   initApp();
 }

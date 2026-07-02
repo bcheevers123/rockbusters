@@ -1,120 +1,270 @@
-/* Rockbusters — stylesheet for the daily quiz frontend. */
-
-/* ---------------------------------------------------------------------------
-   Reset & base
---------------------------------------------------------------------------- */
+/* Rockbusters stylesheet */
 
 *, *::before, *::after {
   box-sizing: border-box;
 }
 
+/* ---------------------------------------------------------------------------
+   Tokens
+--------------------------------------------------------------------------- */
+
+:root {
+  --bg:         #f5f0e8;
+  --surface:    #ffffff;
+  --surface-alt:#faf7f2;
+  --border:     #ddd5c0;
+  --border-soft:#e8e1d4;
+  --ink:        #1a1a1a;
+  --ink-mid:    #444444;
+  --ink-faint:  #888888;
+  --brand:      #b35a00;
+  --brand-dark: #7a3d00;
+  --brand-pale: #fff4e8;
+  --success:    #1e6b1e;
+  --success-bg: #edfaed;
+  --fail:       #b30000;
+  --fail-bg:    #fff0f0;
+  --accent:     #d4860a;
+  --radius:     8px;
+  --shadow:     0 2px 8px rgba(0,0,0,0.08);
+}
+
+/* ---------------------------------------------------------------------------
+   Base
+--------------------------------------------------------------------------- */
+
 body {
   margin: 0;
-  padding: 1rem;
-  background: #f9f5ee;
-  color: #1a1a1a;
+  padding: 0;
+  background: var(--bg);
+  color: var(--ink);
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
   font-size: 1rem;
   line-height: 1.6;
 }
 
 /* ---------------------------------------------------------------------------
-   Layout — centered container
+   Confetti canvas — full screen overlay
 --------------------------------------------------------------------------- */
 
-#name-prompt,
-#quiz-container {
-  max-width: 680px;
-  margin: 0 auto;
-  padding: 1.5rem 1rem;
+#confetti-canvas {
+  position: fixed;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: 999;
 }
 
 /* ---------------------------------------------------------------------------
-   Name prompt
+   Name prompt — centred card
 --------------------------------------------------------------------------- */
 
 #name-prompt {
+  min-height: 100dvh;
   display: flex;
-  flex-direction: column;
   align-items: center;
   justify-content: center;
-  min-height: 60vh;
+  padding: 2rem 1rem;
+}
+
+.name-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  box-shadow: var(--shadow);
+  padding: 2.5rem 2rem 2rem;
+  max-width: 380px;
+  width: 100%;
   text-align: center;
+  display: flex;
+  flex-direction: column;
   gap: 0.75rem;
 }
 
-#name-prompt h1 {
-  font-size: 2.2rem;
-  font-weight: 700;
-  letter-spacing: -0.5px;
-  margin: 0 0 0.25rem;
-  color: #1a1a1a;
+.name-card-label {
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--brand);
+  margin: 0;
 }
 
-#name-prompt p {
-  font-size: 1.1rem;
+.name-card-title {
+  font-size: 2.8rem;
+  font-weight: 800;
+  letter-spacing: -1px;
   margin: 0;
-  color: #444;
+  color: var(--ink);
+  line-height: 1;
+}
+
+.name-card-sub {
+  font-size: 0.95rem;
+  color: var(--ink-mid);
+  margin: 0 0 0.5rem;
 }
 
 #name-input {
   width: 100%;
-  max-width: 320px;
-  padding: 0.6rem 0.9rem;
+  padding: 0.65rem 0.9rem;
   font-size: 1rem;
-  border: 2px solid #c8bfad;
-  border-radius: 6px;
-  background: #fff;
-  color: #1a1a1a;
+  border: 2px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--surface-alt);
+  color: var(--ink);
   outline: none;
-  transition: border-color 0.2s;
+  transition: border-color 0.18s;
+  text-align: center;
 }
 
 #name-input:focus {
-  border-color: #8b7355;
+  border-color: var(--brand);
+  background: #fff;
 }
 
 #name-submit-btn {
-  padding: 0.6rem 1.6rem;
+  padding: 0.7rem 1.6rem;
   font-size: 1rem;
-  font-weight: 600;
-  background: #4a3728;
+  font-weight: 700;
+  background: var(--brand);
   color: #fff;
   border: none;
-  border-radius: 6px;
+  border-radius: var(--radius);
   cursor: pointer;
-  transition: background 0.2s;
+  letter-spacing: 0.02em;
+  transition: background 0.18s, transform 0.1s;
 }
 
 #name-submit-btn:hover {
-  background: #2e2219;
+  background: var(--brand-dark);
+}
+
+#name-submit-btn:active {
+  transform: scale(0.97);
 }
 
 /* ---------------------------------------------------------------------------
-   Quiz header
+   Quiz layout
 --------------------------------------------------------------------------- */
 
-#quiz-container header {
+#quiz-container {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 1.25rem 1rem 3rem;
+}
+
+/* ---------------------------------------------------------------------------
+   Header
+--------------------------------------------------------------------------- */
+
+.quiz-header {
   margin-bottom: 1.5rem;
+  padding-bottom: 1.25rem;
+  border-bottom: 2px solid var(--border);
 }
 
-#quiz-title {
-  font-size: 1.8rem;
-  font-weight: 700;
+.header-row {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.header-left {
+  min-width: 0;
+}
+
+.site-title {
+  font-size: 2rem;
+  font-weight: 800;
+  letter-spacing: -0.5px;
   margin: 0 0 0.15rem;
-  color: #1a1a1a;
+  color: var(--ink);
+  line-height: 1.1;
 }
 
-#quiz-date {
-  font-size: 0.9rem;
-  color: #777;
-  margin: 0 0 0.5rem;
+.header-meta {
+  font-size: 0.82rem;
+  color: var(--ink-faint);
 }
 
-#quiz-intro {
+.quiz-theme-label {
+  font-weight: 600;
+  color: var(--brand);
+}
+
+.header-sep {
+  color: var(--border);
+}
+
+.quiz-date-label {
+  color: var(--ink-faint);
+}
+
+.help-btn {
+  flex-shrink: 0;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  border: 2px solid var(--border);
+  background: var(--surface);
+  color: var(--ink-mid);
   font-size: 1rem;
-  color: #333;
-  margin: 0;
+  font-weight: 700;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: border-color 0.18s, color 0.18s;
+  line-height: 1;
+}
+
+.help-btn:hover {
+  border-color: var(--brand);
+  color: var(--brand);
+}
+
+.quiz-intro {
+  font-size: 1rem;
+  color: var(--ink-mid);
+  margin: 0 0 0.75rem;
+  font-style: italic;
+}
+
+/* ---------------------------------------------------------------------------
+   Score tracker
+--------------------------------------------------------------------------- */
+
+.score-tracker {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  margin-top: 0.25rem;
+}
+
+.score-dot {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  border: 2px solid var(--border);
+  background: var(--surface);
+  transition: background 0.2s, border-color 0.2s;
+  display: inline-block;
+}
+
+.score-dot.earned {
+  background: var(--brand);
+  border-color: var(--brand);
+}
+
+.score-label {
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--ink-faint);
+  margin-left: 0.2rem;
 }
 
 /* ---------------------------------------------------------------------------
@@ -124,36 +274,64 @@ body {
 #clues-section {
   display: flex;
   flex-direction: column;
-  gap: 1rem;
+  gap: 0.85rem;
   margin-bottom: 1.25rem;
 }
 
 .clue-block {
-  background: #fff;
-  border: 1px solid #ddd5c4;
-  border-radius: 8px;
-  padding: 1rem 1.1rem;
-  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.06);
+  background: var(--surface);
+  border: 1px solid var(--border-soft);
+  border-radius: var(--radius);
+  padding: 1rem 1.1rem 0.9rem;
+  box-shadow: var(--shadow);
+  transition: border-color 0.2s;
 }
 
-.clue-initials {
-  font-size: 0.85rem;
-  font-weight: 600;
-  color: #8b7355;
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
-  margin: 0 0 0.35rem;
+.clue-block.correct {
+  border-color: var(--success);
+  background: var(--success-bg);
+}
+
+.clue-header {
+  display: flex;
+  align-items: baseline;
+  gap: 0.6rem;
+  margin-bottom: 0.4rem;
+}
+
+.clue-num {
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: var(--brand);
+  background: var(--brand-pale);
+  border-radius: 4px;
+  padding: 0 0.4rem;
+  line-height: 1.6;
+  flex-shrink: 0;
+}
+
+.clue-initials-wrap {
+  font-size: 0.82rem;
+  color: var(--ink-faint);
+  letter-spacing: 0.02em;
+}
+
+.clue-initials-wrap strong {
+  color: var(--ink);
+  font-weight: 700;
+  letter-spacing: 0.06em;
 }
 
 .clue-text {
   font-size: 1rem;
-  color: #1a1a1a;
+  color: var(--ink);
   margin: 0 0 0.75rem;
   font-style: italic;
+  line-height: 1.55;
 }
 
 /* ---------------------------------------------------------------------------
-   Guess row — input + button side by side
+   Guess row
 --------------------------------------------------------------------------- */
 
 .guess-row {
@@ -166,17 +344,17 @@ body {
   flex: 1;
   padding: 0.5rem 0.75rem;
   font-size: 0.95rem;
-  border: 1.5px solid #c8bfad;
-  border-radius: 5px;
-  background: #faf8f4;
-  color: #1a1a1a;
+  border: 1.5px solid var(--border);
+  border-radius: 6px;
+  background: var(--surface-alt);
+  color: var(--ink);
   outline: none;
-  transition: border-color 0.2s;
+  transition: border-color 0.18s, background 0.18s;
   min-width: 0;
 }
 
 .guess-row input[type="text"]:focus {
-  border-color: #8b7355;
+  border-color: var(--brand);
   background: #fff;
 }
 
@@ -188,24 +366,29 @@ body {
 
 .guess-btn {
   padding: 0.5rem 1.1rem;
-  font-size: 0.95rem;
-  font-weight: 600;
-  background: #4a3728;
+  font-size: 0.9rem;
+  font-weight: 700;
+  background: var(--brand);
   color: #fff;
   border: none;
-  border-radius: 5px;
+  border-radius: 6px;
   cursor: pointer;
   white-space: nowrap;
-  transition: background 0.2s;
   flex-shrink: 0;
+  transition: background 0.18s, transform 0.1s;
+  letter-spacing: 0.02em;
 }
 
 .guess-btn:hover:not(:disabled) {
-  background: #2e2219;
+  background: var(--brand-dark);
+}
+
+.guess-btn:active:not(:disabled) {
+  transform: scale(0.96);
 }
 
 .guess-btn:disabled {
-  background: #b0a898;
+  background: #c8bfad;
   cursor: not-allowed;
 }
 
@@ -215,61 +398,92 @@ body {
 
 .result-line,
 .result {
-  font-size: 0.9rem;
+  font-size: 0.88rem;
   min-height: 1.3em;
-  margin: 0.45rem 0 0;
-  font-weight: 500;
+  margin: 0.4rem 0 0;
+  font-weight: 600;
 }
 
 .result.correct {
-  color: #2d6a2d;
+  color: var(--success);
 }
 
 .result.incorrect {
-  color: #c0392b;
+  color: var(--fail);
 }
 
 .result.info {
-  color: #777;
+  color: var(--ink-faint);
+  font-weight: 400;
   font-style: italic;
+}
+
+/* ---------------------------------------------------------------------------
+   All-correct banner
+--------------------------------------------------------------------------- */
+
+.all-correct-banner {
+  background: linear-gradient(135deg, #fff8e0, #fff3d0);
+  border: 2px solid var(--accent);
+  border-radius: var(--radius);
+  padding: 0.9rem 1.2rem;
+  margin: 0.5rem 0 1rem;
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--brand-dark);
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  animation: bannerIn 0.4s ease-out;
+}
+
+.all-correct-icon {
+  font-size: 1.2rem;
+  flex-shrink: 0;
+}
+
+@keyframes bannerIn {
+  from { opacity: 0; transform: translateY(-6px); }
+  to   { opacity: 1; transform: translateY(0); }
 }
 
 /* ---------------------------------------------------------------------------
    Prize line
 --------------------------------------------------------------------------- */
 
-#quiz-prize {
-  font-size: 0.95rem;
-  color: #666;
-  font-weight: 400;
-  margin: 0.5rem 0 1.25rem;
+.quiz-prize {
+  font-size: 0.9rem;
+  color: var(--ink-faint);
+  font-style: italic;
+  margin: 0.25rem 0 1.25rem;
 }
 
 /* ---------------------------------------------------------------------------
    Reveal button
 --------------------------------------------------------------------------- */
 
-#reveal-btn {
+.reveal-btn {
   display: inline-block;
   padding: 0.6rem 1.4rem;
-  font-size: 0.95rem;
-  font-weight: 600;
-  background: #fff;
-  color: #c0392b;
-  border: 2px solid #c0392b;
-  border-radius: 6px;
+  font-size: 0.9rem;
+  font-weight: 700;
+  background: transparent;
+  color: var(--fail);
+  border: 2px solid var(--fail);
+  border-radius: var(--radius);
   cursor: pointer;
   margin-bottom: 1.5rem;
-  transition: background 0.2s, color 0.2s;
+  letter-spacing: 0.01em;
+  transition: background 0.18s, color 0.18s;
 }
 
-#reveal-btn:hover:not(:disabled) {
-  background: #c0392b;
+.reveal-btn:hover:not(:disabled) {
+  background: var(--fail);
   color: #fff;
 }
 
-#reveal-btn:disabled {
-  opacity: 0.4;
+.reveal-btn:disabled {
+  opacity: 0.35;
   cursor: not-allowed;
 }
 
@@ -278,30 +492,33 @@ body {
 --------------------------------------------------------------------------- */
 
 #answers-section {
-  background: #fff8f0;
-  border: 1px solid #e8d8c0;
-  border-radius: 8px;
+  background: var(--brand-pale);
+  border: 1px solid #f0d9b8;
+  border-radius: var(--radius);
   padding: 1rem 1.1rem;
   margin-bottom: 1.5rem;
 }
 
 #answers-section h2 {
-  font-size: 1.1rem;
+  font-size: 1rem;
   font-weight: 700;
   margin: 0 0 0.6rem;
-  color: #1a1a1a;
+  color: var(--ink);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
 }
 
 #answers-section p {
-  font-size: 0.95rem;
-  margin: 0.25rem 0;
-  color: #333;
+  font-size: 0.92rem;
+  margin: 0.3rem 0;
+  color: var(--ink-mid);
+  line-height: 1.5;
 }
 
 #answers-warning {
   margin-top: 0.75rem;
-  font-size: 0.85rem;
-  color: #c0392b;
+  font-size: 0.82rem;
+  color: var(--fail);
   font-style: italic;
 }
 
@@ -310,51 +527,139 @@ body {
 --------------------------------------------------------------------------- */
 
 #leaderboard-section {
-  margin-top: 1rem;
-  border-top: 1px solid #ddd5c4;
-  padding-top: 1rem;
+  margin-top: 1.5rem;
+  border-top: 1px solid var(--border);
+  padding-top: 1.25rem;
 }
 
-#leaderboard-section h2 {
-  font-size: 1.1rem;
+.leaderboard-header {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 0.75rem;
+}
+
+.leaderboard-header h2 {
+  font-size: 1rem;
   font-weight: 700;
-  margin: 0 0 0.6rem;
-  color: #1a1a1a;
-  display: inline-block;
-  margin-right: 0.75rem;
+  margin: 0;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--ink);
 }
 
 #leaderboard-refresh-btn {
-  font-size: 0.85rem;
-  padding: 0.25rem 0.75rem;
-  background: #fff;
-  color: #4a3728;
-  border: 1.5px solid #c8bfad;
+  font-size: 0.8rem;
+  padding: 0.2rem 0.65rem;
+  background: var(--surface);
+  color: var(--ink-mid);
+  border: 1.5px solid var(--border);
   border-radius: 4px;
   cursor: pointer;
-  vertical-align: middle;
-  transition: background 0.2s;
+  transition: background 0.15s;
 }
 
 #leaderboard-refresh-btn:hover {
-  background: #ede8df;
+  background: var(--surface-alt);
 }
 
 #leaderboard-list {
-  list-style: none;
-  padding: 0;
-  margin: 0.5rem 0 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
 }
 
 .leaderboard-row {
-  padding: 0.35rem 0;
-  font-size: 0.95rem;
-  color: #333;
-  border-bottom: 1px solid #ede8df;
+  display: flex;
+  align-items: center;
+  padding: 0.45rem 0;
+  font-size: 0.9rem;
+  color: var(--ink-mid);
+  border-bottom: 1px solid var(--border-soft);
+  gap: 0.5rem;
 }
 
 .leaderboard-row:last-child {
   border-bottom: none;
+}
+
+.lb-rank {
+  font-weight: 700;
+  color: var(--brand);
+  min-width: 1.5em;
+  text-align: right;
+}
+
+.lb-name {
+  flex: 1;
+  font-weight: 500;
+  color: var(--ink);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.lb-score {
+  font-weight: 700;
+  color: var(--ink);
+}
+
+.lb-today {
+  font-size: 0.78rem;
+  color: var(--brand);
+  font-weight: 600;
+}
+
+/* ---------------------------------------------------------------------------
+   Footer / About
+--------------------------------------------------------------------------- */
+
+.quiz-footer {
+  margin-top: 2rem;
+  border-top: 1px solid var(--border-soft);
+  padding-top: 1rem;
+  text-align: center;
+}
+
+.footer-note {
+  font-size: 0.82rem;
+  color: var(--ink-faint);
+  margin: 0 0 0.75rem;
+}
+
+.about-toggle-btn {
+  background: none;
+  border: none;
+  color: var(--ink-faint);
+  font-size: 0.82rem;
+  text-decoration: underline;
+  cursor: pointer;
+  padding: 0;
+  transition: color 0.15s;
+}
+
+.about-toggle-btn:hover {
+  color: var(--brand);
+}
+
+.about-content {
+  margin-top: 0.75rem;
+  text-align: left;
+  background: var(--surface);
+  border: 1px solid var(--border-soft);
+  border-radius: var(--radius);
+  padding: 0.9rem 1.1rem;
+  font-size: 0.88rem;
+  color: var(--ink-mid);
+  line-height: 1.6;
+}
+
+.about-content p {
+  margin: 0 0 0.5rem;
+}
+
+.about-content p:last-child {
+  margin: 0;
 }
 
 /* ---------------------------------------------------------------------------
@@ -362,25 +667,116 @@ body {
 --------------------------------------------------------------------------- */
 
 .error {
-  color: #c0392b;
+  color: var(--fail);
   font-weight: 500;
   padding: 1rem;
-  background: #fff0ee;
+  background: var(--fail-bg);
   border: 1px solid #f5c6c0;
-  border-radius: 6px;
+  border-radius: var(--radius);
 }
 
 /* ---------------------------------------------------------------------------
-   Responsive — mobile: stack guess input and button vertically
+   Modal
+--------------------------------------------------------------------------- */
+
+.modal-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.45);
+  z-index: 200;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+}
+
+.modal-box {
+  background: var(--surface);
+  border-radius: 12px;
+  padding: 1.75rem 1.5rem;
+  max-width: 460px;
+  width: 100%;
+  position: relative;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.2);
+  max-height: 90vh;
+  overflow-y: auto;
+}
+
+.modal-close {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  background: none;
+  border: none;
+  font-size: 1.1rem;
+  color: var(--ink-faint);
+  cursor: pointer;
+  padding: 0.25rem;
+  line-height: 1;
+  transition: color 0.15s;
+}
+
+.modal-close:hover {
+  color: var(--ink);
+}
+
+.modal-box h2 {
+  font-size: 1.3rem;
+  font-weight: 800;
+  margin: 0 0 0.75rem;
+  color: var(--ink);
+}
+
+.modal-box p {
+  font-size: 0.92rem;
+  color: var(--ink-mid);
+  margin: 0 0 0.65rem;
+  line-height: 1.6;
+}
+
+.help-example {
+  background: var(--brand-pale);
+  border-left: 3px solid var(--brand);
+  border-radius: 4px;
+  padding: 0.75rem 1rem;
+  margin: 0.75rem 0;
+}
+
+.help-example-clue {
+  font-style: italic;
+  color: var(--ink);
+  font-size: 0.9rem;
+  margin: 0 0 0.35rem !important;
+}
+
+.help-example-answer {
+  font-size: 0.85rem;
+  margin: 0 0 0.25rem !important;
+  color: var(--ink) !important;
+}
+
+.help-example-split {
+  font-size: 0.82rem;
+  color: var(--brand) !important;
+  font-weight: 600;
+  margin: 0 !important;
+}
+
+/* ---------------------------------------------------------------------------
+   Responsive
 --------------------------------------------------------------------------- */
 
 @media (max-width: 480px) {
   body {
-    padding: 0.75rem;
+    padding: 0;
   }
 
-  #quiz-title {
-    font-size: 1.4rem;
+  #quiz-container {
+    padding: 1rem 0.875rem 3rem;
+  }
+
+  .site-title {
+    font-size: 1.6rem;
   }
 
   .guess-row {
@@ -392,8 +788,16 @@ body {
     width: 100%;
   }
 
-  #reveal-btn {
+  .reveal-btn {
     width: 100%;
     text-align: center;
+  }
+
+  .name-card {
+    padding: 2rem 1.25rem 1.5rem;
+  }
+
+  .name-card-title {
+    font-size: 2.2rem;
   }
 }
