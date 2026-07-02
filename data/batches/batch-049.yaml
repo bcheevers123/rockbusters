@@ -1,0 +1,110 @@
+- id: musicalbusters-001
+  enabled: true
+  title: Musicalbusters
+  topic: West End and Broadway musical shows
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Right, Musicalbusters. Three famous musicals hidden in these phonetic clues. Say them out loud and you'll get there."
+  prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
+  clues:
+    - number: 1
+      initials: L M
+      clue: "There's a woman just lying flat on the ground, and all around her it's absolutely terrible. Really miserable. Not a nice scene."
+      answer: Les Miserables
+      aliases:
+        - les miserables
+        - les mis
+      reasoning: "lay (lying flat on the ground) + miz-er-ah-bl (miserable, a state of total wretchedness) = lay-miz-er-abl = Les Miserables. Say it: lay + miserable."
+
+    - number: 2
+      initials: H
+      clue: "There's a pig joint in a tin, it's not well, and there's a heavy lump of metal on top of it. All in a row. No idea what's going on there."
+      answer: Hamilton
+      aliases:
+        - hamilton
+      reasoning: "ham (pig in a tin) + ill (not well, poorly) + ton (a heavy unit of weight, a lump of metal) = ham-ill-ton = Hamilton. Three sounds: ham + ill + ton."
+
+    - number: 3
+      initials: C
+      clue: "There's a very timid sort of car and it's just driven off. Won't come back. Bit embarrassed about something."
+      answer: Chicago
+      aliases:
+        - chicago
+      reasoning: "shy (timid, embarrassed) + car (an automobile) + go (to drive off, to leave) = shy-car-go = Chicago. Say it out loud: shy-car-go = Chicago."
+
+- id: musicalbusters-002
+  enabled: true
+  title: Musicalbusters
+  topic: West End and Broadway musical shows
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Musicalbusters two. Three more famous shows. All about the sounds. Off you go."
+  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that doesn't exist anymore."
+  clues:
+    - number: 1
+      initials: W
+      clue: "There's a candle - not a big one - and next to it there's some sort of small creature. A kid, maybe. Both of them a bit dodgy."
+      answer: Wicked
+      aliases:
+        - wicked
+      reasoning: "wick (the bit of a candle that burns) + id (Freudian term for the dodgy impulsive bit of your brain, or just a kid said fast) = wick-id = Wicked. Wick + id."
+
+    - number: 2
+      initials: M S
+      clue: "A woman's just walked out on someone - a proper flounce off - and then she's let out a big long sigh and vanished. Gone. Just like that."
+      answer: Miss Saigon
+      aliases:
+        - miss saigon
+      reasoning: "miss (to walk out, or a woman who's left) + sigh (a long exhaled breath, a deep sigh) + gone (vanished, departed) = miss-sigh-gone = Miss Saigon. Three sounds: miss + sigh + gone."
+
+    - number: 3
+      initials: S T
+      clue: "Someone's been sweeping the floor - going at it properly with the broom - and they've somehow managed to hit their knee. And then there's a bloke called Todd at the end of it."
+      answer: Sweeney Todd
+      aliases:
+        - sweeney todd
+        - sweeney
+      reasoning: "sweep (to brush the floor) + knee (the joint in your leg) + Todd (a man's name) = sweep-knee-Todd said quickly = Sweeney Todd. Sweep + nee + Todd."
+
+- id: musicalbusters-003
+  enabled: true
+  title: Musicalbusters
+  topic: West End and Broadway musical shows
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Three more for Musicalbusters. All big West End or Broadway shows. You know the drill."
+  prize: "Email in. Winner gets a Blockbuster loyalty card and a mini bottle of shampoo from a Premier Inn."
+  clues:
+    - number: 1
+      initials: M M
+      clue: "There's a woman - your mum, sort of - and she keeps saying this thing. Over and over. The same sound. Coming out with it repeatedly."
+      answer: Mamma Mia
+      aliases:
+        - mamma mia
+        - mama mia
+      reasoning: "mamma (mum, mother figure) + mia (sounds like 'me-ah', something said repeatedly as an exclamation) = Mamma Mia. Mam-ma + mee-ah said together."
+
+    - number: 2
+      initials: C
+      clue: "Right, there's a saucepan. And someone's arrived. And they seem quite pleased about both of those things. That's the gist of it."
+      answer: Company
+      aliases:
+        - company
+      reasoning: "come (to arrive, to turn up) + pan (a saucepan, a cooking vessel) + ee (a cheerful sound of satisfaction) = come-pan-ee = Company. Come + pan + ee."
+
+    - number: 3
+      initials: J C S
+      clue: "A mate of yours is alarmed - and his name's very holy-sounding - and he's been polishing something till it shines. Made it sparkle. He's very pleased."
+      answer: Jesus Christ Superstar
+      aliases:
+        - jesus christ superstar
+      reasoning: "Gee-sus (an exclamation + the name, Jesus) + Kry-st (Christ, from the name) + super (brilliant, great) + star (a shining sparkly thing) = Jesus Christ Superstar. Gee-sus + cry-st + super + star."

@@ -1,0 +1,719 @@
+- id: mythbusters-001
+  enabled: true
+  title: Mythbusters
+  topic: figures from mythology, folklore, and legend
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Right, Mythbusters. Three legendary figures hiding in these phonetic clues. Say them out loud."
+  prize: "Email in. Winner gets a Shrek on DVD and a keyring from a service station."
+  clues:
+    - number: 1
+      initials: H
+      clue: "There's a woman - she belongs to someone, right - and she's standing in a queue holding a long-term tenancy agreement. Just standing there. In the queue."
+      answer: Hercules
+      aliases:
+        - hercules
+      reasoning: "her (belonging to a woman) + cue (a queue, a line to stand in) + lease (a long-term tenancy agreement) = her-cue-lease = Hercules. Her + queue + lees."
+
+    - number: 2
+      initials: P
+      clue: "A lad called Percy has only gone and rung someone up on his mobile. Just rang them. That's all he did."
+      answer: Persephone
+      aliases:
+        - persephone
+      reasoning: "Percy (a man's name) + phone (to ring someone on a mobile) = Percy-phone = Persephone. Percy + fone."
+
+    - number: 3
+      initials: P
+      clue: "Right, someone's standing there in a really elegant pose - very graceful - and there's a bloke called Don watching. Just Don. Standing there watching."
+      answer: Poseidon
+      aliases:
+        - poseidon
+      reasoning: "pose (an elegant standing position) + I (the letter I / eye) + don (a man's name, Don) = pose-I-don = Poseidon."
+
+- id: mythbusters-002
+  enabled: true
+  title: Mythbusters
+  topic: figures from mythology, folklore, and legend
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Mythbusters two. Three more legends in here. Phonetic clues - it's all in what they sound like."
+  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that doesn't exist anymore."
+  clues:
+    - number: 1
+      initials: A
+      clue: "Someone's done a murder - an actual killing - and then everything just got very easy. Very relaxed after that. Bit suspicious."
+      answer: Achilles
+      aliases:
+        - achilles
+      reasoning: "a (just the letter sound) + kill (to do a murder) + ease (to become relaxed and easy) = a-kill-ease = Achilles. A + kill + ease."
+
+    - number: 2
+      initials: H
+      clue: "This fella, right - he's had a proper banquet. A big feast. And now he's just sitting there. Still at the table. Just him."
+      answer: Hephaestus
+      aliases:
+        - hephaestus
+      reasoning: "he (this fella, a man) + feast (a big banquet) + us (just us, still there) = he-feast-us = Hephaestus. He + feast + us."
+
+    - number: 3
+      initials: M
+      clue: "Right, there's a woman called Marian and she's not with her bloke anymore. She's on her own now. Bit of a mystery how it happened."
+      answer: Maid Marian
+      aliases:
+        - maid marian
+      reasoning: "maid (a woman, or made - past tense of make) + Marian (a woman's name) = Maid Marian. Made + Marry + an."
+
+- id: mythbusters-003
+  enabled: true
+  title: Mythbusters
+  topic: figures from mythology, folklore, and legend
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Three in. Mythbusters three. All legendary figures. Say the clues out loud and listen."
+  prize: "Email in. Winner gets a Blockbuster loyalty card and a laminated bookmark from WHSmith."
+  clues:
+    - number: 1
+      initials: O
+      clue: "This fella is a bit peculiar. A bit strange, really. And he's a bit dizzy - you know, not quite all there. And then there's this other bloke as well. All of that."
+      answer: Odysseus
+      aliases:
+        - odysseus
+      reasoning: "odd (peculiar, strange) + is (just the word is) + ee (a sound) + us (another bloke, us) = odd-is-ee-us = Odysseus. Odd + dizzy + us said loosely."
+
+    - number: 2
+      initials: P
+      clue: "There's a small pan - one of the little ones - and someone's left a door open, and then there's a vowel at the end. Put it together."
+      answer: Pandora
+      aliases:
+        - pandora
+      reasoning: "pan (a small cooking pan) + door (an open door) + a (a vowel) = pan-door-a = Pandora. Pan + door + a."
+
+    - number: 3
+      initials: B
+      clue: "Right, there's a big insect - the black and yellow one that makes honey - and it's done an oh, and then there's a wolf. All three of them. Together."
+      answer: Beowulf
+      aliases:
+        - beowulf
+      reasoning: "bee (a honey-making insect) + oh (the sound oh) + wolf (a wolf) = bee-oh-wolf = Beowulf. Bee + oh + wolf."
+
+- id: mythbusters-004
+  enabled: true
+  title: Mythbusters
+  topic: figures from mythology, folklore, and legend
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Mythbusters four. Legendary figures from myth and folklore. All phonetic. Off you go."
+  prize: "Email in. Winner gets a printed photo from a disposable camera, framed, and a tube of Pringles."
+  clues:
+    - number: 1
+      initials: D
+      clue: "Something's gone and died - just dropped dead - and then it landed on some frozen water and made a kind of sus sound at the end. Bit dramatic."
+      answer: Dionysus
+      aliases:
+        - dionysus
+      reasoning: "die (to die, drop dead) + on (on top of) + ice (frozen water) + us (a sound at the end) = die-on-ice-us = Dionysus. Die + on + I + sus."
+
+    - number: 2
+      initials: I
+      clue: "Right, I personally am very concerned about you. I genuinely care. That's all. Just me caring about you. That's it."
+      answer: Icarus
+      aliases:
+        - icarus
+      reasoning: "I (me, myself) + care (to be concerned about someone) + us (you and me) = I-care-us = Icarus. I + care + us."
+
+    - number: 3
+      initials: L
+      clue: "There's a knight - a proper knight - and he's carrying a long pointy weapon, and he's got loads of it. Got a lot on. A lot to deal with."
+      answer: Lancelot
+      aliases:
+        - lancelot
+      reasoning: "lance (a long pointy weapon used by knights) + a (the word a) + lot (a large amount, loads of it) = lance-a-lot = Lancelot. Lance + a + lot."
+
+- id: mythbusters-005
+  enabled: true
+  title: Mythbusters
+  topic: figures from mythology, folklore, and legend
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Mythbusters five. Same rules. Legendary figures, phonetic clues. Have a listen."
+  prize: "Email in. Winner gets a signed letter from someone off Watercolour Challenge, possibly."
+  clues:
+    - number: 1
+      initials: P
+      clue: "There's a fella who's very much in favour of something. He's on the team, sort of. And there's a woman called Ethel right next to him. And then these two other people as well."
+      answer: Prometheus
+      aliases:
+        - prometheus
+      reasoning: "pro (in favour of, on the side of) + me (myself) + thee (an old word for you) + us (us lot) = pro-me-thee-us = Prometheus. Pro + me + thee + us."
+
+    - number: 2
+      initials: P
+      clue: "Right, there's a peg - one of the ones you hang washing out with - and then there's a donkey at the end. You know what I mean. The back end of a donkey."
+      answer: Pegasus
+      aliases:
+        - pegasus
+      reasoning: "peg (a clothes peg) + ass (a donkey, the back end) + us (just us) = peg-ass-us = Pegasus. Peg + ass + us."
+
+    - number: 3
+      initials: M
+      clue: "Someone keeps saying that a small freshwater fish belongs to them. It's mine, he says. Mine. And then there's a massive stone cliff at the end."
+      answer: Minotaur
+      aliases:
+        - minotaur
+      reasoning: "minnow (a small freshwater fish) + tor (a rocky peak or cliff, like Dartmoor tors) = minnow-tor = Minotaur. Minn-oh + tor."
+
+- id: mythbusters-006
+  enabled: true
+  title: Mythbusters
+  topic: figures from mythology, folklore, and legend
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Six in. Mythbusters six. Three more legendary figures hiding in these clues. Say them out loud."
+  prize: "Email in. Winner gets a DVD of Titanic and a mug from a company that doesn't exist anymore."
+  clues:
+    - number: 1
+      initials: A
+      clue: "Someone's got a big Afro hairstyle - proper rounded, like a bush - and they've gone and dyed something. Colours everywhere. Then there's a cup of tea."
+      answer: Aphrodite
+      aliases:
+        - aphrodite
+      reasoning: "Afro (a big rounded hairstyle) + dye (to colour something) + tea (a cup of tea) = Afro-dye-tea = Aphrodite. Afro + dye + tee."
+
+    - number: 2
+      initials: N
+      clue: "Someone's having a proper good look at themselves. Just staring. Won't stop. There's a kind of gnawing feeling and then a sis at the end. Whatever that means."
+      answer: Narcissus
+      aliases:
+        - narcissus
+      reasoning: "gnaw (a gnawing, chewing sound) + sis (a sister-sound, or just sis) + us = gnaw-sis-us = Narcissus. Nar + sis + sus."
+
+    - number: 3
+      initials: T
+      clue: "Right, a bloke called Theo - or just Thee, the old fashioned way of saying you - he can see something. He sees it. And there's another one of us there."
+      answer: Theseus
+      aliases:
+        - theseus
+      reasoning: "thee (an old word for you, like Theo) + see (to see something) + us (another person) = thee-see-us = Theseus. Thee + see + us."
+
+- id: mythbusters-007
+  enabled: true
+  title: Mythbusters
+  topic: figures from mythology, folklore, and legend
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Mythbusters seven. All figures from myth and legend. Phonetic clues, say them out loud."
+  prize: "Email in. Winner gets a Now 58 cassette and a complimentary hotel shower cap."
+  clues:
+    - number: 1
+      initials: P
+      clue: "There's a handbag - a little purse - and she's easy to get on with. Very relaxed. And there are two of them together. That's what's happening."
+      answer: Perseus
+      aliases:
+        - perseus
+      reasoning: "purse (a small handbag) + ee (a sound, easy) + us (two of them) = purse-ee-us = Perseus. Purse + ee + us."
+
+    - number: 2
+      initials: M
+      clue: "A woman keeps saying it belongs to her. That thing over there - she says it's hers. She's doing it, she says. And there's a snooze involved somehow."
+      answer: Medusa
+      aliases:
+        - medusa
+      reasoning: "me (belonging to me, mine) + do (doing something) + snooze + a... actually: me + dooze (like doze/snooze said funny) + a = me-dooze-a = Medusa. Me + do + sa."
+
+    - number: 3
+      initials: R H
+      clue: "Some thieving is going on in a forest. Just blatant robbery. And whoever's doing it has got a very good hat on."
+      answer: Robin Hood
+      aliases:
+        - robin hood
+      reasoning: "robbing (committing robbery, thieving) + hood (a type of hat, or a forest like Robin Hood's forest) = robbing-hood = Robin Hood."
+
+- id: mythbusters-008
+  enabled: true
+  title: Mythbusters
+  topic: figures from mythology, folklore, and legend
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Eight in. Mythbusters eight. Three more in here. Phonetic puzzle - listen for the sounds."
+  prize: "Email in. Winner gets an Encyclopaedia Britannica volume 14 and a key from a hotel room that's been checked out of."
+  clues:
+    - number: 1
+      initials: J
+      clue: "Right, there's a bird - a blue one, the one that looks a bit bossy - and it's got a son. A little bird son. That's all this is."
+      answer: Jason
+      aliases:
+        - jason
+      reasoning: "jay (a blue bossy bird) + son (a male child) = jay-son = Jason. Jay + son."
+
+    - number: 2
+      initials: G
+      clue: "Some guinea pigs - the fluffy ones - are heading somewhere at speed. They've gone and veered off. Swerved. Nobody knows why."
+      answer: Guinevere
+      aliases:
+        - guinevere
+      reasoning: "guinea (a guinea pig) + veer (to swerve or change direction) = guinea-veer = Guinevere. Guinea + veer."
+
+    - number: 3
+      initials: K A
+      clue: "There's a king - a proper regal one - and he's got a skill. A particular talent. It's art. He's good at art. The king who does art."
+      answer: King Arthur
+      aliases:
+        - king arthur
+      reasoning: "king (a monarch) + art (a creative skill, painting) + her (belonging to a woman, the 'ur' sound) = king-art-her = King Arthur. King + art + er."
+
+- id: mythbusters-009
+  enabled: true
+  title: Mythbusters
+  topic: figures from mythology, folklore, and legend
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Nine in now. Mythbusters nine. Three more legendary figures. You know the drill."
+  prize: "Email in. Winner gets a Woolworths gift voucher, no longer redeemable, and a biscuit tin."
+  clues:
+    - number: 1
+      initials: C
+      clue: "Someone let out a really big sigh - a massive one - and then something fell over with a clop sound. Like a hoof hitting the floor. Odd."
+      answer: Cyclops
+      aliases:
+        - cyclops
+      reasoning: "sigh (a big exhaled breath) + clops (the sound of hooves clopping) = sigh-clops = Cyclops. Sigh + clops."
+
+    - number: 2
+      initials: C
+      clue: "Right, someone posted something off - sent it away - and at the end there's this '-or' sound. Like they sent it somewhere foreign. That's it."
+      answer: Centaur
+      aliases:
+        - centaur
+      reasoning: "scent (a smell, or sent - past tense of send) + or (a sound at the end) = sent-or = Centaur. Scent + or."
+
+    - number: 3
+      initials: M
+      clue: "Right, Merlin - the wizard - he's got himself inside something. He went in somewhere and now he's stuck in it. Just Merlin, in a thing."
+      answer: Merlin
+      aliases:
+        - merlin
+      reasoning: "Merl (a type of blackbird, or the name) + in (inside something) = Merl-in = Merlin. Merl + in."
+
+- id: mythbusters-010
+  enabled: true
+  title: Mythbusters
+  topic: figures from mythology, folklore, and legend
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Halfway there. Mythbusters ten. All legendary figures in the answers. Phonetic clues."
+  prize: "Email in. Winner gets a printed calendar from 2009 and a small jar of artisan chutney."
+  clues:
+    - number: 1
+      initials: H
+      clue: "She belongs to someone, right - she's theirs - and they're standing in a line waiting. And at the end there's some kind of rental arrangement. Long lease."
+      answer: Hercules
+      aliases:
+        - hercules
+      reasoning: "her (belonging to her, she's theirs) + cue (a queue, a line of people waiting) + lease (a rental arrangement) = her-cue-lease = Hercules."
+
+    - number: 2
+      initials: P
+      clue: "Percy - that bloke Percy - he's only gone and called someone. On the phone. Rang them up. Just Percy, phoning away."
+      answer: Persephone
+      aliases:
+        - persephone
+      reasoning: "Percy (the name Percy) + phone (to make a phone call) = Percy-phone = Persephone."
+
+    - number: 3
+      initials: F T
+      clue: "A monk - a religious brother, a friar type - he's gone and had a big tuck-in. A proper feed. Done a real tuck. That's monks for you."
+      answer: Friar Tuck
+      aliases:
+        - friar tuck
+      reasoning: "friar (a religious brother, a monk) + tuck (a big eat, to tuck into food) = friar-tuck = Friar Tuck. Fry + a + tuck."
+
+- id: mythbusters-011
+  enabled: true
+  title: Mythbusters
+  topic: figures from mythology, folklore, and legend
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Right, Mythbusters eleven. Three more. All myths and legends. Say the clues out loud."
+  prize: "Email in. Winner gets a signed photo of a Blue Peter presenter from 2002, condition unknown."
+  clues:
+    - number: 1
+      initials: H
+      clue: "This fella had a massive dinner. A genuine feast. Loads of food. And now he's just sitting there with us. That's all he did - ate - and now he's here."
+      answer: Hephaestus
+      aliases:
+        - hephaestus
+      reasoning: "he (this fella, a man) + feast (a massive dinner, loads of food) + us (sitting with us) = he-feast-us = Hephaestus."
+
+    - number: 2
+      initials: A
+      clue: "Someone's done in a person - a murder, like - and then everything became really simple after that. Easy, it was. Very straightforward."
+      answer: Achilles
+      aliases:
+        - achilles
+      reasoning: "a (just the sound a) + kill (a murder) + ease (to become easy and simple) = a-kill-ease = Achilles."
+
+    - number: 3
+      initials: W S
+      clue: "There's a fella - call him Will - and he's got a mark on him. A proper scar. And someone's given him permission to have it. They let him keep the scar."
+      answer: Will Scarlet
+      aliases:
+        - will scarlet
+      reasoning: "will (a man's name, Will) + scar (a mark on skin) + let (to give permission, to allow) = will-scar-let = Will Scarlet."
+
+- id: mythbusters-012
+  enabled: true
+  title: Mythbusters
+  topic: figures from mythology, folklore, and legend
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Mythbusters twelve. Bit of a tricky one this. All legendary figures. Phonetic clues - say them out loud."
+  prize: "Email in. Winner gets a DVD copy of Notting Hill and a commemorative spoon."
+  clues:
+    - number: 1
+      initials: O
+      clue: "Right, this bloke is peculiar. Properly odd. And he's a bit light-headed, going round in circles, dizzy like. And then there's an us at the end."
+      answer: Odysseus
+      aliases:
+        - odysseus
+      reasoning: "odd (peculiar, strange) + is (the word is) + ee (a sound) + us (us at the end) = odd-is-ee-us = Odysseus."
+
+    - number: 2
+      initials: P
+      clue: "There's a little saucepan - a proper small one - and a door's been left open. And then there's just an 'a' at the end. That's the whole thing."
+      answer: Pandora
+      aliases:
+        - pandora
+      reasoning: "pan (a small saucepan) + door (a door left open) + a (a vowel) = pan-door-a = Pandora."
+
+    - number: 3
+      initials: L J
+      clue: "There's a small boy - not a big one, a little one - and he's gone to spend a penny. Nipped off to the toilet. Quick as you like."
+      answer: Little John
+      aliases:
+        - little john
+      reasoning: "little (small, not big) + john (slang for toilet, going to spend a penny) = little-john = Little John."
+
+- id: mythbusters-013
+  enabled: true
+  title: Mythbusters
+  topic: figures from mythology, folklore, and legend
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Mythbusters thirteen. Unlucky for some. Three more hidden in these phonetic clues."
+  prize: "Email in. Winner gets a Now That's What I Call Music 61 CD and a selection of hotel toiletries."
+  clues:
+    - number: 1
+      initials: D
+      clue: "Something croaked - died, just dropped - and it landed on a frozen pond. And at the end there's this sound, like a wasp buzzing. Sus."
+      answer: Dionysus
+      aliases:
+        - dionysus
+      reasoning: "die (to croak, to drop dead) + on (landed on) + ice (a frozen pond) + us (a buzzing sus sound) = die-on-ice-us = Dionysus."
+
+    - number: 2
+      initials: P
+      clue: "Right, there's a peg - like a clothes peg, the wooden sort - and there's a donkey, the back end of one, and then there's another us. Two of us."
+      answer: Pegasus
+      aliases:
+        - pegasus
+      reasoning: "peg (a clothes peg) + ass (a donkey) + us (us lot) = peg-ass-us = Pegasus."
+
+    - number: 3
+      initials: M
+      clue: "A small fish - a little one from the river - and then there's a tor. Like Haytor. One of those rocky lumps on Dartmoor."
+      answer: Minotaur
+      aliases:
+        - minotaur
+      reasoning: "minnow (a small river fish) + tor (a rocky outcrop like on Dartmoor) = minnow-tor = Minotaur."
+
+- id: mythbusters-014
+  enabled: true
+  title: Mythbusters
+  topic: figures from mythology, folklore, and legend
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Fourteen in. Mythbusters fourteen. Same deal - legendary figures, phonetic clues. Have a go."
+  prize: "Email in. Winner gets a Littlewoods catalogue from 2001 and a complimentary pen from a dental surgery."
+  clues:
+    - number: 1
+      initials: P
+      clue: "There's a man striking a pose - you know, standing there looking elegant - and there's this letter I, and then a bloke called Don. All of them at once."
+      answer: Poseidon
+      aliases:
+        - poseidon
+      reasoning: "pose (to strike a pose) + I (the letter I) + don (a man called Don) = pose-I-don = Poseidon."
+
+    - number: 2
+      initials: B
+      clue: "A bee - just a regular honey bee - goes ooh, and then there's a wolf standing there. All three of them. Bee, ooh, wolf. Say it quickly."
+      answer: Beowulf
+      aliases:
+        - beowulf
+      reasoning: "bee (a honey bee) + oh (the sound ooh/oh) + wolf (a wolf) = bee-oh-wolf = Beowulf."
+
+    - number: 3
+      initials: M
+      clue: "A blackbird - one of those merle-type ones - has got himself stuck inside something. He went in and can't get out. Silly bird."
+      answer: Merlin
+      aliases:
+        - merlin
+      reasoning: "merl (a merle, a type of blackbird) + in (inside something, stuck in it) = merl-in = Merlin."
+
+- id: mythbusters-015
+  enabled: true
+  title: Mythbusters
+  topic: figures from mythology, folklore, and legend
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Mythbusters fifteen. Five to go. Three legendary figures in every clue. Off you go."
+  prize: "Email in. Winner gets a copy of Mr Bean on VHS and a loyalty card for a shop that closed down."
+  clues:
+    - number: 1
+      initials: P
+      clue: "Right, I care. I genuinely care about you. Just me, caring. That's the whole clue. I care about all of us."
+      answer: Icarus
+      aliases:
+        - icarus
+      reasoning: "I (me, the first person) + care (to genuinely care about someone) + us (all of us) = I-care-us = Icarus."
+
+    - number: 2
+      initials: P
+      clue: "Someone's definitely for it - they're pro the whole thing - and then it's me, and then it's you in the old fashioned way, and then it's all of us."
+      answer: Prometheus
+      aliases:
+        - prometheus
+      reasoning: "pro (in favour of) + me (myself) + thee (old word for you) + us (all of us) = pro-me-thee-us = Prometheus."
+
+    - number: 3
+      initials: N
+      clue: "There's a gnawing sensation - like something's chewing away at you - and then it's your sister, and then it's another us at the end. Three bits."
+      answer: Narcissus
+      aliases:
+        - narcissus
+      reasoning: "gnaw (a gnawing/chewing feeling, sounds like 'nar') + sis (your sister) + us = gnaw-sis-us = Narcissus."
+
+- id: mythbusters-016
+  enabled: true
+  title: Mythbusters
+  topic: figures from mythology, folklore, and legend
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Right, Mythbusters sixteen. Four to go. Three more legendary clues. You know what to do."
+  prize: "Email in. Winner gets an OK magazine from 2004 and a novelty rubber."
+  clues:
+    - number: 1
+      initials: G
+      clue: "Some guinea pigs have had a proper swerve. Just veered off suddenly. Nobody told them to. They just went and veered. Guinea pigs."
+      answer: Guinevere
+      aliases:
+        - guinevere
+      reasoning: "guinea (a guinea pig, the fluffy pet) + veer (to swerve off suddenly) = guinea-veer = Guinevere."
+
+    - number: 2
+      initials: T
+      clue: "It's an old-fashioned way of saying you - thee, like a vicar would say - and someone can see something. They see it. And then there's us again."
+      answer: Theseus
+      aliases:
+        - theseus
+      reasoning: "thee (old word for you) + see (to see something) + us (us lot) = thee-see-us = Theseus."
+
+    - number: 3
+      initials: P
+      clue: "There's a little handbag - a purse - and everything's going nicely, it's all easy, and then there's two of us at the end. Very relaxed."
+      answer: Perseus
+      aliases:
+        - perseus
+      reasoning: "purse (a little handbag) + ee (easy, a gentle sound) + us (two of us) = purse-ee-us = Perseus."
+
+- id: mythbusters-017
+  enabled: true
+  title: Mythbusters
+  topic: figures from mythology, folklore, and legend
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Nearly there. Mythbusters seventeen. Three more legendary figures. Say the clues out loud."
+  prize: "Email in. Winner gets a commemorative tin from a Royal event and a selection of mixed nuts."
+  clues:
+    - number: 1
+      initials: A
+      clue: "Right, someone's got a big Afro. Massive hair. And they've dyed it something mad. And then there's a cup of tea. That's it. Afro, dye, tea."
+      answer: Aphrodite
+      aliases:
+        - aphrodite
+      reasoning: "Afro (a big round hairstyle) + dye (to colour hair) + tea (a cup of tea, a 'tee' sound) = Afro-dye-tea = Aphrodite."
+
+    - number: 2
+      initials: L
+      clue: "There's a knight with a long pointy weapon - a lance - and he's got a lot on. A lot of stuff. An awful lot. The knight with the lance and the lot."
+      answer: Lancelot
+      aliases:
+        - lancelot
+      reasoning: "lance (a long pointed weapon for jousting) + a + lot (a large amount, loads) = lance-a-lot = Lancelot."
+
+    - number: 3
+      initials: R H
+      clue: "Someone's out there stealing things left, right, and centre - robbing everything in sight - and they've got this fantastic hood on. Great hood."
+      answer: Robin Hood
+      aliases:
+        - robin hood
+      reasoning: "robbing (stealing, committing robbery, sounds like Robin) + hood (a garment worn on the head) = robbing-hood = Robin Hood."
+
+- id: mythbusters-018
+  enabled: true
+  title: Mythbusters
+  topic: figures from mythology, folklore, and legend
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Mythbusters eighteen. Two after this. All myths and legends. Phonetic clues - have a listen."
+  prize: "Email in. Winner gets a DVD boxset with the disc for series 3 missing and a Starbucks loyalty card."
+  clues:
+    - number: 1
+      initials: J
+      clue: "A jay bird - the blue one, a bit aggressive with the other birds - has had a son. A baby jay. A son. That's it."
+      answer: Jason
+      aliases:
+        - jason
+      reasoning: "jay (a blue aggressive garden bird) + son (a baby boy, a son) = jay-son = Jason."
+
+    - number: 2
+      initials: M M
+      clue: "She was made - like they made her, past tense - and her name's Marian. Mary's little sister type of name. Marian. They made her."
+      answer: Maid Marian
+      aliases:
+        - maid marian
+      reasoning: "maid (sounds like made, past tense of make) + Marian (a woman's name, Mary + an) = Maid Marian."
+
+    - number: 3
+      initials: K A
+      clue: "Right, there's a king - a regal, proper king - and he's been doing some paintings. Very artistic king. And there's a woman's sound at the end."
+      answer: King Arthur
+      aliases:
+        - king arthur
+      reasoning: "king (a monarch) + art (paintings, creative work) + her (a woman's possessive, the 'er' sound) = king-art-her = King Arthur."
+
+- id: mythbusters-019
+  enabled: true
+  title: Mythbusters
+  topic: figures from mythology, folklore, and legend
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Penultimate one. Mythbusters nineteen. Three more in here. Nearly done."
+  prize: "Email in. Winner gets a copy of Calendar Girls on DVD and a miniature bar of hotel soap."
+  clues:
+    - number: 1
+      initials: C
+      clue: "That long sigh you let out - a proper big one - and something coming along making a clopping noise like hooves. All happening at once."
+      answer: Cyclops
+      aliases:
+        - cyclops
+      reasoning: "sigh (a long exhaled breath) + clops (the clopping sound of hooves on a hard surface) = sigh-clops = Cyclops."
+
+    - number: 2
+      initials: C
+      clue: "Something got sent off - posted, dispatched - and at the end there's this 'or' sound. Like it was sent abroad. Gone. Or."
+      answer: Centaur
+      aliases:
+        - centaur
+      reasoning: "sent (dispatched, posted off) + or (a sound at the end, like 'or') = sent-or = Centaur. Scent + or."
+
+    - number: 3
+      initials: F T
+      clue: "A religious brother - a monk in a brown robe - he's had a right good tuck-in. Tucked away loads of food. That's what he did. Tucked in."
+      answer: Friar Tuck
+      aliases:
+        - friar tuck
+      reasoning: "friar (a religious monk in brown robes) + tuck (to tuck into food, a big eat) = friar-tuck = Friar Tuck."
+
+- id: mythbusters-020
+  enabled: true
+  title: Mythbusters
+  topic: figures from mythology, folklore, and legend
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Last one. Mythbusters twenty. Final set. Three more legendary figures to finish it off. You've been brilliant."
+  prize: "Email in. Winner gets a Woolworths pick-and-mix bag, unavailable since 2008, and a Tate membership that may or may not be valid."
+  clues:
+    - number: 1
+      initials: W S
+      clue: "There's a bloke - his name is Will - and he's got a scar on him. And someone's given him permission to have that scar. Said he can keep it. Alright Will, you can keep it."
+      answer: Will Scarlet
+      aliases:
+        - will scarlet
+      reasoning: "will (the name Will) + scar (a mark on skin from a wound) + let (to allow or permit) = will-scar-let = Will Scarlet."
+
+    - number: 2
+      initials: L J
+      clue: "Right, there's a small lad - not a big one, definitely little - and he's nipped off to the loo. Gone to the john. Just a little fella, off to the toilet."
+      answer: Little John
+      aliases:
+        - little john
+      reasoning: "little (small, not big) + john (slang for the toilet, the loo) = little-john = Little John."
+
+    - number: 3
+      initials: M
+      clue: "Someone's put a spell on a merle - one of those blackbirds - and now it's inside something. Trapped inside. That's what the wizard did. Put it in."
+      answer: Merlin
+      aliases:
+        - merlin
+      reasoning: "merl (a merle, a type of blackbird) + in (inside, trapped within) = merl-in = Merlin."

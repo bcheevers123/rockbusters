@@ -1,0 +1,679 @@
+- id: crimebusters-001
+  enabled: true
+  title: Crimebusters
+  topic: famous criminals, heists, gangsters, and crime cases
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Right, Crimebusters. Rockbusters but it's all famous criminals and gangsters. Say the clues out loud - the answer's hiding in the sounds."
+  prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
+  clues:
+    - number: 1
+      initials: J T R
+      clue: "A fella called Jack's turned up. He's grabbed something - one of those things at the back of a jumper. Gone and yanked it right off. Bit much."
+      answer: Jack the Ripper
+      aliases:
+        - jack the ripper
+      reasoning: "Jack + the + ripper (one who rips) = Jack the Ripper"
+    - number: 2
+      initials: A C
+      clue: "There's a bloke wearing a hat with the number one on it. Just one hat. That's his whole thing."
+      answer: Al Capone
+      aliases:
+        - al capone
+      reasoning: "Al + cap (hat) + one = Al Capone"
+    - number: 3
+      initials: N K
+      clue: "This young lad's got a bit of an odour about him. Smells a bit, like the bins. Nobody's saying anything though."
+      answer: Ned Kelly
+      aliases:
+        - ned kelly
+      reasoning: "Ned + Kelly (smelly without the sm, rhymes with smelly) = Ned Kelly"
+
+- id: crimebusters-002
+  enabled: true
+  title: Crimebusters
+  topic: famous criminals, heists, gangsters, and crime cases
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Three more Crimebusters clues. All phonetic. The answer's in the sound, not the spelling. Have a go."
+  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that doesn't exist anymore."
+  clues:
+    - number: 1
+      initials: B E
+      clue: "There's a bus, right, and at the back someone's parcelled everything up neatly. Like little packages in those hospital corridors. All tidy."
+      answer: Buster Edwards
+      aliases:
+        - buster edwards
+      reasoning: "Buster (one who busts, or 'bus-ter') + Edwards (Ed + wards, like hospital wards) = Buster Edwards"
+    - number: 2
+      initials: J J
+      clue: "Someone's had a go at turning fruit into a preserve but they've made a right mess. Sticky everywhere. Plural of the stuff."
+      answer: Jesse James
+      aliases:
+        - jesse james
+      reasoning: "Jesse (Jess + E, sounds like 'jess-ee') + James (jams + silent e, sounds like 'jaymz') = Jesse James"
+    - number: 3
+      initials: E C
+      clue: "There's a bloke, a proper ordinary bloke - a chap - and he's got a little O after his name. That's it. El Chap-O."
+      answer: El Chapo
+      aliases:
+        - el chapo
+      reasoning: "El (Spanish 'the') + Chap (ordinary bloke) + O = El Chapo"
+
+- id: crimebusters-003
+  enabled: true
+  title: Crimebusters
+  topic: famous criminals, heists, gangsters, and crime cases
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Crimebusters. Three phonetic clues, all famous names from the criminal world. You know what to do."
+  prize: "Email in. Winner gets a Blockbuster Video loyalty card and a pen that's nearly run out."
+  clues:
+    - number: 1
+      initials: R B
+      clue: "Some fella called Ron is doing a big speech. He's bigging himself up something rotten. Giving it loads."
+      answer: Ronnie Biggs
+      aliases:
+        - ronnie biggs
+      reasoning: "Ronnie (Ron + ee) + Biggs (bigs up = to big up, biggs sounds like 'bigs') = Ronnie Biggs"
+    - number: 2
+      initials: B R
+      clue: "There's a fella called Bruce and he's going round wrapping everything up. Like he's got shares in tin foil. Everything's getting wrapped."
+      answer: Bruce Reynolds
+      aliases:
+        - bruce reynolds
+      reasoning: "Bruce + Reynolds (Reynolds Wrap is a tin foil brand, sounds like 'ren-olds') = Bruce Reynolds"
+    - number: 3
+      initials: L L
+      clue: "You've had a bit of good fortune - lucky you - and now you're outside the toilet block making quite a scene. Bit of a to-do."
+      answer: Lucky Luciano
+      aliases:
+        - lucky luciano
+      reasoning: "Lucky + loo (British toilet) + she + ano... Lucky + Luciano (loo-chee-ah-no, sounds like 'lucky loo-see-ah-no') = Lucky Luciano"
+
+- id: crimebusters-004
+  enabled: true
+  title: Crimebusters
+  topic: famous criminals, heists, gangsters, and crime cases
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Right, it's Crimebusters again. Three more. Say them out loud, trust the sounds."
+  prize: "Email in. Winner gets a Woolworths gift voucher and some pick and mix that's gone a bit hard."
+  clues:
+    - number: 1
+      initials: H S
+      clue: "There's a bloke on a boat and he's the only person on it. Just him. One man, one vessel. He runs the whole thing."
+      answer: Harold Shipman
+      aliases:
+        - harold shipman
+      reasoning: "Harold + Ship + man (the ship's only man) = Harold Shipman"
+    - number: 2
+      initials: B A C
+      clue: "She's quite attractive - bonny looking lass - and he's from the Clyde area. They're a pair."
+      answer: Bonnie and Clyde
+      aliases:
+        - bonnie and clyde
+      reasoning: "Bonnie (bonny = pretty/attractive) + and + Clyde (River Clyde, Clydeside) = Bonnie and Clyde"
+    - number: 3
+      initials: J D
+      clue: "There's a herb - the one that goes in pickles - and someone's had a go at pronouncing a German name with it. Dill-inger."
+      answer: John Dillinger
+      aliases:
+        - john dillinger
+      reasoning: "John + Dill (the herb) + inger (sounds like a name suffix) = John Dillinger"
+
+- id: crimebusters-005
+  enabled: true
+  title: Crimebusters
+  topic: famous criminals, heists, gangsters, and crime cases
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Crimebusters five. Still going. Three phonetic riddles - the answer's a famous criminal name. Say it out loud."
+  prize: "Email in. Winner gets a NOW TV voucher for a channel that's been merged into something else."
+  clues:
+    - number: 1
+      initials: R K
+      clue: "A fella called Ron is jogging and making a sort of noise. Like a wailing sound while he runs. Not ideal."
+      answer: Ronnie Kray
+      aliases:
+        - ronnie kray
+      reasoning: "Ronnie (running + ee, Ron-ee) + Kray (sounds like 'cray', as in crayon, or like a wailing 'kreyyy') = Ronnie Kray"
+    - number: 2
+      initials: P E
+      clue: "There's a bar - just a regular bar - and it's trying to escape from something. It's legged it. Gone off on its own."
+      answer: Pablo Escobar
+      aliases:
+        - pablo escobar
+      reasoning: "Pablo + Esco (escape without the pe) + bar = Pablo Escobar"
+    - number: 3
+      initials: D N
+      clue: "In the local pub there's nothing on the scoreboard - absolute zero - and the old fella behind the counter has an opinion about it. Worth nothing, he reckons."
+      answer: Dennis Nilsen
+      aliases:
+        - dennis nilsen
+      reasoning: "Dennis + Nil (zero/nothing) + sen (old half-penny, or like 'cents') = Dennis Nilsen"
+
+- id: crimebusters-006
+  enabled: true
+  title: Crimebusters
+  topic: famous criminals, heists, gangsters, and crime cases
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Right then. Six sets in. Three more Crimebusters. You know what to do - say the clues out loud."
+  prize: "Email in. Winner gets a Friends box set on VHS and a pen with a hotel name on it."
+  clues:
+    - number: 1
+      initials: R K
+      clue: "There's a fella called Reg and he's got a bit of an energy about him. Like he's had too much coffee. All edgy and wired."
+      answer: Reggie Kray
+      aliases:
+        - reggie kray
+      reasoning: "Reggie (Reg + ee, sounds like 'reg-ee') + Kray (sounds like 'cray', a bit edgy/crazy) = Reggie Kray"
+    - number: 2
+      initials: W B
+      clue: "This person's gone very pale - completely white, like a sheet - and they've come out the other side looking a bit swollen. Bit puffy round the edges."
+      answer: Whitey Bulger
+      aliases:
+        - whitey bulger
+      reasoning: "Whitey (white + ee, pale/white) + Bulger (bulge + er, swollen/puffy) = Whitey Bulger"
+    - number: 3
+      initials: C G
+      clue: "There's a fella called Carl who's sat at a card table and he keeps saying no. Every hand - no. Won't commit."
+      answer: Carlo Gambino
+      aliases:
+        - carlo gambino
+      reasoning: "Carlo (Carl + o) + Gamb (gamble without the le) + ino (een-o, sounds like 'een-o') = Carlo Gambino"
+
+- id: crimebusters-007
+  enabled: true
+  title: Crimebusters
+  topic: famous criminals, heists, gangsters, and crime cases
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Crimebusters seven. Still phonetic. The sounds tell you the answer - spelling's got nothing to do with it."
+  prize: "Email in. Winner gets a car boot sale VHS of The Full Monty and a stress ball shaped like a world."
+  clues:
+    - number: 1
+      initials: I B
+      clue: "There's a lad called Ian and he's making that noise a donkey makes. Just standing there going at it. Hee-haw and that."
+      answer: Ian Brady
+      aliases:
+        - ian brady
+      reasoning: "Ian + Brady (bray = the sound a donkey makes, bray + dee = brady) = Ian Brady"
+    - number: 2
+      initials: R E
+      clue: "A young woman called Ruth has turned up and she's apparently from some place. Like she's associated with somewhere. Very much of that area."
+      answer: Ruth Ellis
+      aliases:
+        - ruth ellis
+      reasoning: "Ruth + Ellis (El + is, sounds like 'el-is' or 'a lass') = Ruth Ellis"
+    - number: 3
+      initials: B T K
+      clue: "A young goat's been having a go at something - proper trying - and this particular little fella's from the Billy family. He's the youngster."
+      answer: Billy the Kid
+      aliases:
+        - billy the kid
+      reasoning: "Billy (billy goat) + the + Kid (a young goat is called a kid) = Billy the Kid"
+
+- id: crimebusters-008
+  enabled: true
+  title: Crimebusters
+  topic: famous criminals, heists, gangsters, and crime cases
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Eight sets of Crimebusters. Three more phonetic riddles. Famous names - sounds are everything."
+  prize: "Email in. Winner gets a Netscape Navigator install disc and a foam finger from a sports event."
+  clues:
+    - number: 1
+      initials: J C
+      clue: "There's a fella called John and he's sat having a cup of tea with someone called Chris. Very civilised. Bit odd though."
+      answer: John Christie
+      aliases:
+        - john christie
+      reasoning: "John + Christie (Chris + tea = Christi, sounds like 'chris-tee') = John Christie"
+    - number: 2
+      initials: P S
+      clue: "There's a tower - like a lighthouse or something - made entirely of soot. All black and grimy. Stood on a cliff."
+      answer: Peter Sutcliffe
+      aliases:
+        - peter sutcliffe
+      reasoning: "Peter + Sut (soot, all black and grimy) + cliffe (cliff, a rock face) = Peter Sutcliffe"
+    - number: 3
+      initials: D N
+      clue: "There's a fella called Donald who's somehow given birth to a son. Just turned up with one. 'This is my son,' he says. Right."
+      answer: Donald Neilson
+      aliases:
+        - donald neilson
+      reasoning: "Donald + Neil + son (Donald's son, Neil's son = Neilson) = Donald Neilson"
+
+- id: crimebusters-009
+  enabled: true
+  title: Crimebusters
+  topic: famous criminals, heists, gangsters, and crime cases
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Crimebusters nine. Three more phonetic clues. All famous criminals. Have a go."
+  prize: "Email in. Winner gets a copy of Ocean's Eleven on DVD and a bookmark shaped like a handcuff."
+  clues:
+    - number: 1
+      initials: J T R
+      clue: "A bloke called Jack's come along and gone and torn something - a label or a tag - clean off. Just ripped it. Didn't need to do that."
+      answer: Jack the Ripper
+      aliases:
+        - jack the ripper
+      reasoning: "Jack + the + ripper (one who rips tags/labels off things) = Jack the Ripper"
+    - number: 2
+      initials: L L
+      clue: "You've had a bit of fortune smile on you and now you're having a lie-down somewhere - a bit like a chaise longue situation - making announcements."
+      answer: Lucky Luciano
+      aliases:
+        - lucky luciano
+      reasoning: "Lucky + Luciano (loo-chee-ah-no, sounds like 'loo see AH no') = Lucky Luciano"
+    - number: 3
+      initials: N K
+      clue: "This fella's got a name that rhymes with something unpleasant and he's from Australia. Which explains a lot."
+      answer: Ned Kelly
+      aliases:
+        - ned kelly
+      reasoning: "Ned + Kelly (rhymes with smelly, belly, jelly - a good Australian rhyming name) = Ned Kelly"
+
+- id: crimebusters-010
+  enabled: true
+  title: Crimebusters
+  topic: famous criminals, heists, gangsters, and crime cases
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Set ten. We're halfway through Crimebusters. Three more. Say them out loud - that's the trick."
+  prize: "Email in. Winner gets a loyalty card for a sandwich chain that's shut down and a free pen."
+  clues:
+    - number: 1
+      initials: A C
+      clue: "There's one bloke and he's wearing a cap. Just the one cap. One cap, one bloke. He's very proud of it."
+      answer: Al Capone
+      aliases:
+        - al capone
+      reasoning: "Al + cap (a hat) + one (the number 1) = Al Capone"
+    - number: 2
+      initials: B A C
+      clue: "There's a right pretty lass - bonny girl, you'd say - and she's paired up with a fella from the west of Scotland. A proper pair, them two."
+      answer: Bonnie and Clyde
+      aliases:
+        - bonnie and clyde
+      reasoning: "Bonnie (pretty/bonny) + and + Clyde (Clydeside, west Scotland) = Bonnie and Clyde"
+    - number: 3
+      initials: E C
+      clue: "There's a regular ordinary sort of bloke - call him a chap - and someone's given him a little round letter to carry about with him. O."
+      answer: El Chapo
+      aliases:
+        - el chapo
+      reasoning: "El + Chap (ordinary bloke) + O (the letter) = El Chapo"
+
+- id: crimebusters-011
+  enabled: true
+  title: Crimebusters
+  topic: famous criminals, heists, gangsters, and crime cases
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Crimebusters eleven. Three more phonetic riddles. You're listening for the sound, not reading for the spelling."
+  prize: "Email in. Winner gets a Radio Times from a week nobody can remember and a novelty magnet."
+  clues:
+    - number: 1
+      initials: H S
+      clue: "There's a fella who's taken charge of the whole vessel. It's his boat now. He's the man on the ship - not sharing with anyone."
+      answer: Harold Shipman
+      aliases:
+        - harold shipman
+      reasoning: "Harold + Ship (boat/vessel) + man (the person in charge) = Harold Shipman"
+    - number: 2
+      initials: P E
+      clue: "There's a pub - a proper bar - and it's done a runner. Legged it right out of the neighbourhood. The whole bar, just gone."
+      answer: Pablo Escobar
+      aliases:
+        - pablo escobar
+      reasoning: "Pablo + Esco (escape, done a runner) + bar (pub/bar) = Pablo Escobar"
+    - number: 3
+      initials: R B
+      clue: "Big Ron's giving a speech and he will not stop going on about himself. Bigging himself up. On and on."
+      answer: Ronnie Biggs
+      aliases:
+        - ronnie biggs
+      reasoning: "Ronnie (Ron + ee) + Biggs (bigs himself up) = Ronnie Biggs"
+
+- id: crimebusters-012
+  enabled: true
+  title: Crimebusters
+  topic: famous criminals, heists, gangsters, and crime cases
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Right, twelve sets in. Three more Crimebusters phonetic clues. You know the drill."
+  prize: "Email in. Winner gets a Millennium Dome snow globe and a promotional biro from a defunct airline."
+  clues:
+    - number: 1
+      initials: B E
+      clue: "Right, there's a bus - proper double decker - and at the very end of the route, everything's been put in the hospital wings. Tidy as you like."
+      answer: Buster Edwards
+      aliases:
+        - buster edwards
+      reasoning: "Buster (bus + ter) + Edwards (Ed + wards, like NHS wards) = Buster Edwards"
+    - number: 2
+      initials: W B
+      clue: "This person's absolutely alabaster white and they've been eating too much. Bit rotund. All puffed out."
+      answer: Whitey Bulger
+      aliases:
+        - whitey bulger
+      reasoning: "Whitey (white + y, pale as anything) + Bulger (bulge + r, swollen/puffed out) = Whitey Bulger"
+    - number: 3
+      initials: J D
+      clue: "A pickle herb and a bloke with a name that sounds like it's been sat in vinegar too long. Dill, the herb. Inger, the suffix."
+      answer: John Dillinger
+      aliases:
+        - john dillinger
+      reasoning: "John + Dill (herb used in pickling) + inger (name ending) = John Dillinger"
+
+- id: crimebusters-013
+  enabled: true
+  title: Crimebusters
+  topic: famous criminals, heists, gangsters, and crime cases
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Crimebusters thirteen. Three more. The answer's always a famous criminal name. Say the clue out loud."
+  prize: "Email in. Winner gets a fridge magnet of somewhere in Europe and a mug that says 'World's Okayest Something'."
+  clues:
+    - number: 1
+      initials: J C
+      clue: "John's gone round to someone called Chris's house and they're having a brew. A proper cup of tea. Bit of a sit down."
+      answer: John Christie
+      aliases:
+        - john christie
+      reasoning: "John + Chris + tea (Christie sounds like Chris + tea) = John Christie"
+    - number: 2
+      initials: C G
+      clue: "Carl's at the casino and every single hand - every single one - he's refusing. Gamble? No. Gamble? No. He'll not do it."
+      answer: Carlo Gambino
+      aliases:
+        - carlo gambino
+      reasoning: "Carlo (Carl + o) + Gamb (from gamble) + ino (ee-no) = Carlo Gambino"
+    - number: 3
+      initials: I B
+      clue: "Ian's stood in a field making that noise. You know the one. Hee-haw. Just going at it. The donkey noise."
+      answer: Ian Brady
+      aliases:
+        - ian brady
+      reasoning: "Ian + Bray (hee-haw, the noise a donkey makes) + dee = Ian Brady"
+
+- id: crimebusters-014
+  enabled: true
+  title: Crimebusters
+  topic: famous criminals, heists, gangsters, and crime cases
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Set fourteen. Crimebusters rolling on. Three phonetic clues. Answer's always a famous name."
+  prize: "Email in. Winner gets a charity shop copy of Titanic on two VHS tapes and a stress ball."
+  clues:
+    - number: 1
+      initials: B T K
+      clue: "There's a young goat - they call them kids, goats do - and his name is Billy. He's the young one of the group."
+      answer: Billy the Kid
+      aliases:
+        - billy the kid
+      reasoning: "Billy (a male goat) + the + Kid (a young goat) = Billy the Kid"
+    - number: 2
+      initials: R E
+      clue: "Ruth has shown up. Ruth. And she's Ellis. So she's Ruth Ellis. She's from somewhere. Associated with a place."
+      answer: Ruth Ellis
+      aliases:
+        - ruth ellis
+      reasoning: "Ruth + Ellis (El + is, sounds like 'ellis') = Ruth Ellis"
+    - number: 3
+      initials: D N
+      clue: "Donald's got a son he's decided to call Neil. So now there's a Neil who's Donald's son. Neilson. That happened."
+      answer: Donald Neilson
+      aliases:
+        - donald neilson
+      reasoning: "Donald + Neil + son (Neil's son, Donald Neilson) = Donald Neilson"
+
+- id: crimebusters-015
+  enabled: true
+  title: Crimebusters
+  topic: famous criminals, heists, gangsters, and crime cases
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Fifteen sets in. Three more Crimebusters. Phonetic riddles, famous names. Off you go."
+  prize: "Email in. Winner gets a Costa loyalty card with two stamps on it and a novelty pen from a trade show."
+  clues:
+    - number: 1
+      initials: P S
+      clue: "There's a big rocky face - a cliff - and someone's gone and covered it in chimney soot. All black and grimy up there."
+      answer: Peter Sutcliffe
+      aliases:
+        - peter sutcliffe
+      reasoning: "Peter + Sut (soot = chimney residue) + cliffe (cliff, rocky face) = Peter Sutcliffe"
+    - number: 2
+      initials: R K
+      clue: "Reg has turned up and he's all worked up. Buzzing about. Too much energy. Like he's had twelve espressos."
+      answer: Reggie Kray
+      aliases:
+        - reggie kray
+      reasoning: "Reggie (Reg + ee) + Kray (sounds like 'cray-zee' without the zee) = Reggie Kray"
+    - number: 3
+      initials: J J
+      clue: "There's jam everywhere. Loads of it. Someone's gone mad with the jam and it's all in plural. Jams. Multiple jam situations."
+      answer: Jesse James
+      aliases:
+        - jesse james
+      reasoning: "Jesse (Jess + ee) + James (jams with an extra e on the end, sounds like 'jaymz') = Jesse James"
+
+- id: crimebusters-016
+  enabled: true
+  title: Crimebusters
+  topic: famous criminals, heists, gangsters, and crime cases
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Crimebusters sixteen. Three more phonetic clues. Famous criminals. The sounds tell you who it is."
+  prize: "Email in. Winner gets a pack of Celebrations with all the Bounties left in it and a pen lid."
+  clues:
+    - number: 1
+      initials: B R
+      clue: "There's a fella called Bruce and he's gone round the whole street putting tin foil on everything. Like Reynolds Wrap. Everything's wrapped up."
+      answer: Bruce Reynolds
+      aliases:
+        - bruce reynolds
+      reasoning: "Bruce + Reynolds (Reynolds Wrap, the tin foil brand) = Bruce Reynolds"
+    - number: 2
+      initials: R K
+      clue: "Ron's gone for a run - like a jog - and while he's jogging he's making a sort of wailing, shrieking noise. Just Ron, jogging, wailing."
+      answer: Ronnie Kray
+      aliases:
+        - ronnie kray
+      reasoning: "Ronnie (Ron + ee, like running) + Kray (kray-zee, wild/wailing) = Ronnie Kray"
+    - number: 3
+      initials: D N
+      clue: "Den is at the scoreboard and it says nil. Nothing. Zero. Den's staring at nil. There's nothing there, Den."
+      answer: Dennis Nilsen
+      aliases:
+        - dennis nilsen
+      reasoning: "Dennis (Den + is) + Nil (zero/nothing) + sen (old penny suffix) = Dennis Nilsen"
+
+- id: crimebusters-017
+  enabled: true
+  title: Crimebusters
+  topic: famous criminals, heists, gangsters, and crime cases
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Set seventeen of Crimebusters. Three more. Same deal - phonetic riddles, famous criminal names."
+  prize: "Email in. Winner gets a Just Eat voucher for a restaurant that's shut and a branded tote bag."
+  clues:
+    - number: 1
+      initials: A C
+      clue: "One bloke. He's got a cap on. That's his whole look. Cap, one bloke. Al's his name and the cap is very much part of him."
+      answer: Al Capone
+      aliases:
+        - al capone
+      reasoning: "Al + cap (hat/cap) + one (number 1) = Al Capone"
+    - number: 2
+      initials: L L
+      clue: "Fortune's smiled on this person. They're lucky. And now they're parading around outside the public toilets making a right scene."
+      answer: Lucky Luciano
+      aliases:
+        - lucky luciano
+      reasoning: "Lucky + Luciano (loo + chee + ah + no, 'loo-see-ah-no') = Lucky Luciano"
+    - number: 3
+      initials: C G
+      clue: "Carl's at the table with the cards and the chips and he will not gamble. Card after card - no. He'll sit there but he won't play."
+      answer: Carlo Gambino
+      aliases:
+        - carlo gambino
+      reasoning: "Carlo (Carl + o) + Gamb (gamble root) + ino = Carlo Gambino"
+
+- id: crimebusters-018
+  enabled: true
+  title: Crimebusters
+  topic: famous criminals, heists, gangsters, and crime cases
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Eighteen. Nearly there with Crimebusters. Three more phonetic clues."
+  prize: "Email in. Winner gets a photocopied tourist map of somewhere and a key ring with no keys on it."
+  clues:
+    - number: 1
+      initials: H S
+      clue: "Harry - well, Harold - has got himself a boat and he's the only one on it. Solo voyage. One man, his ship, nothing else."
+      answer: Harold Shipman
+      aliases:
+        - harold shipman
+      reasoning: "Harold + Ship (boat) + man (single person on it) = Harold Shipman"
+    - number: 2
+      initials: P E
+      clue: "Pablo's got a regular pub - nothing fancy - and it's done one. Escaped. The whole bar's legged it out of town."
+      answer: Pablo Escobar
+      aliases:
+        - pablo escobar
+      reasoning: "Pablo + Esco (escape/legged it) + bar (pub) = Pablo Escobar"
+    - number: 3
+      initials: W B
+      clue: "This person's gone extremely white - not just pale, proper white - and they've come over all swollen. Puffy. Like a white balloon."
+      answer: Whitey Bulger
+      aliases:
+        - whitey bulger
+      reasoning: "Whitey (white + ee) + Bulger (bulge + r) = Whitey Bulger"
+
+- id: crimebusters-019
+  enabled: true
+  title: Crimebusters
+  topic: famous criminals, heists, gangsters, and crime cases
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Set nineteen. One more after this. Three phonetic clues - famous names hidden in the sounds."
+  prize: "Email in. Winner gets a copy of Big Brother series three on DVD and a promotional highlighter."
+  clues:
+    - number: 1
+      initials: J T R
+      clue: "Jack's turned up again and he's gone at something - a poster, a receipt, some bit of paper - and ripped it. He's ripped the thing."
+      answer: Jack the Ripper
+      aliases:
+        - jack the ripper
+      reasoning: "Jack + the + Ripper (the one doing the ripping) = Jack the Ripper"
+    - number: 2
+      initials: B T K
+      clue: "Young Billy - he's the youngster of the group - and he's from that goat family. The kid. The young goat. That's Billy."
+      answer: Billy the Kid
+      aliases:
+        - billy the kid
+      reasoning: "Billy (male goat name) + the + Kid (young goat = kid) = Billy the Kid"
+    - number: 3
+      initials: B A C
+      clue: "There's a bonny lass - really pretty girl - and she's with a lad from Clydebank. That area. They come as a pair."
+      answer: Bonnie and Clyde
+      aliases:
+        - bonnie and clyde
+      reasoning: "Bonnie (bonny = attractive) + and + Clyde (River Clyde area, Scotland) = Bonnie and Clyde"
+
+- id: crimebusters-020
+  enabled: true
+  title: Crimebusters
+  topic: famous criminals, heists, gangsters, and crime cases
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Last set. Crimebusters twenty. Three phonetic clues to finish. Give it a go."
+  prize: "Email in. Winner gets a signed photo of someone from a mid-2000s reality show and a biro."
+  clues:
+    - number: 1
+      initials: I B
+      clue: "There's Ian. And he's braying. Just stood there in a field doing the full donkey. Hee-haw. Ian's braying."
+      answer: Ian Brady
+      aliases:
+        - ian brady
+      reasoning: "Ian + Brady (bray + dee, bray = donkey noise) = Ian Brady"
+    - number: 2
+      initials: J J
+      clue: "A lass called Jess is very keen. Enthusiastic. And she's making those plural sticky fruit preserves. Jams. Jess and jams together."
+      answer: Jesse James
+      aliases:
+        - jesse james
+      reasoning: "Jesse (Jess + ee) + James (jams + silent e, 'jaymz') = Jesse James"
+    - number: 3
+      initials: B R
+      clue: "It's Bruce. He's been round again with the tin foil and now everything in the house is wrapped up. Everything. Classic Reynolds Wrap situation."
+      answer: Bruce Reynolds
+      aliases:
+        - bruce reynolds
+      reasoning: "Bruce + Reynolds (Reynolds Wrap = tin foil brand, 'ren-olds') = Bruce Reynolds"

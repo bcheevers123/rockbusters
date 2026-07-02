@@ -1,0 +1,700 @@
+- id: phrasebusters-001
+  enabled: true
+  title: Phrasebusters
+  topic: common English idioms and everyday phrases
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Right, Phrasebusters. It's Rockbusters but the answers are all well-known phrases and idioms. Say the clues out loud - the phrase is hiding in the sounds."
+  prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
+  clues:
+    - number: 1
+      initials: B T B
+      clue: "There's a cow out in the field - a proper bull - and someone's had a go at it. Given it a nibble. That's all."
+      answer: Bite the Bullet
+      aliases:
+        - bite the bullet
+      reasoning: "bite (had a nibble) + the + bull (cow in field) + it = Bite the Bullet"
+    - number: 2
+      initials: S T B
+      clue: "Someone's been a bit clumsy with their legumes. Tipped them all over the floor. Complete mess."
+      answer: Spill the Beans
+      aliases:
+        - spill the beans
+      reasoning: "spill (tipped over, clumsy) + the + beans (legumes) = Spill the Beans"
+    - number: 3
+      initials: H T S
+      clue: "Right, there's a fella and he's lamped a potato sack. Just gone straight for it. Proper whack."
+      answer: Hit the Sack
+      aliases:
+        - hit the sack
+      reasoning: "hit (lamped/whacked) + the + sack (potato sack) = Hit the Sack"
+
+- id: phrasebusters-002
+  enabled: true
+  title: Phrasebusters
+  topic: common English idioms and everyday phrases
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Phrasebusters two. Three more well-known phrases hiding in these clues. Have a think."
+  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that doesn't exist anymore."
+  clues:
+    - number: 1
+      initials: K T B
+      clue: "Someone's given a good kick to a metal container. Just booted it down the road. Bit pointless but there you go."
+      answer: Kick the Bucket
+      aliases:
+        - kick the bucket
+      reasoning: "kick (booted it) + the + buck (sounds like 'buck', part of bucket) + it = Kick the Bucket"
+    - number: 2
+      initials: B T I
+      clue: "Right, the brakes on a car - for stopping it - have gone and frozen solid. You're not stopping now."
+      answer: Break the Ice
+      aliases:
+        - break the ice
+      reasoning: "brake (brakes on a car) + the + ice (frozen solid) = Break the Ice"
+    - number: 3
+      initials: J T G
+      clue: "Someone's jumped right over a weapon. Leapt clean over it. Not sure why."
+      answer: Jump the Gun
+      aliases:
+        - jump the gun
+      reasoning: "jump (leapt clean over) + the + gun (weapon) = Jump the Gun"
+
+- id: phrasebusters-003
+  enabled: true
+  title: Phrasebusters
+  topic: common English idioms and everyday phrases
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Three more phrases. Phrasebusters. You know the drill - say the clue out loud and hear where it lands."
+  prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
+  clues:
+    - number: 1
+      initials: U T W
+      clue: "There's some stuff going on underneath the forecast. A bit below all that rain and cloud. Bit damp under there."
+      answer: Under the Weather
+      aliases:
+        - under the weather
+      reasoning: "under (underneath/below) + the + weather (forecast, rain and cloud) = Under the Weather"
+    - number: 2
+      initials: P O C
+      clue: "Right, there's a tranquil feeling - all calm and that - and it's coming straight from a baked dessert. Very serene for a pudding."
+      answer: Piece of Cake
+      aliases:
+        - piece of cake
+      reasoning: "peace (tranquil feeling, calm) sounds like piece + of + cake (baked dessert) = Piece of Cake"
+    - number: 3
+      initials: T F
+      clue: "Some little winged insects have got clocks on them. Just buzzing about, very aware of the hour."
+      answer: Time Flies
+      aliases:
+        - time flies
+      reasoning: "time (clocks, aware of the hour) + flies (little winged insects buzzing about) = Time Flies"
+
+- id: phrasebusters-004
+  enabled: true
+  title: Phrasebusters
+  topic: common English idioms and everyday phrases
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Phrasebusters four. All everyday English phrases. The answer's in the sounds, not the spelling."
+  prize: "Email in. Winner gets a printed photo from a disposable camera, framed."
+  clues:
+    - number: 1
+      initials: H T N
+      clue: "Right, someone's taken a proper swing at a pointy bit of ironmongery. Really gone for it. Straight on target."
+      answer: Hit the Nail
+      aliases:
+        - hit the nail
+        - hit the nail on the head
+      reasoning: "hit (taken a swing at) + the + nail (pointy bit of ironmongery) = Hit the Nail"
+    - number: 2
+      initials: M T B
+      clue: "A woman called Miss has completely failed to catch a vessel. Stood on the dock watching it go. Gutted."
+      answer: Miss the Boat
+      aliases:
+        - miss the boat
+      reasoning: "miss (failed to catch, or a woman called Miss) + the + boat (vessel at the dock) = Miss the Boat"
+    - number: 3
+      initials: N P N G
+      clue: "Right, there's nothing hurting - completely fine - but also absolutely nothing coming in. Flat broke and feeling great."
+      answer: No Pain No Gain
+      aliases:
+        - no pain no gain
+      reasoning: "no pain (nothing hurting, completely fine) + no gain (nothing coming in, flat broke) = No Pain No Gain"
+
+- id: phrasebusters-005
+  enabled: true
+  title: Phrasebusters
+  topic: common English idioms and everyday phrases
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Five sets in. Phrasebusters five. All common English phrases and idioms. Off you go."
+  prize: "Email in. Winner gets a DVD copy of The Full Monty and some Value biscuits."
+  clues:
+    - number: 1
+      initials: O I A B M
+      clue: "Something happens just once - on a single occasion - and it involves a sphere up in space that's gone a very unusual colour. Once. That's it."
+      answer: Once in a Blue Moon
+      aliases:
+        - once in a blue moon
+      reasoning: "once (just the one time) + in + a + blue (unusual colour) + moon (sphere in space) = Once in a Blue Moon"
+    - number: 2
+      initials: P S L
+      clue: "Right, there's a fella having a tug at someone's lower limb. Just grabbing it and pulling. Bit odd."
+      answer: Pull Someone's Leg
+      aliases:
+        - pull someone's leg
+        - pulling someone's leg
+      reasoning: "pull (having a tug at) + someone's + leg (lower limb) = Pull Someone's Leg"
+    - number: 3
+      initials: S O T F
+      clue: "Someone's parked themselves on a boundary marker. Can't decide which side to get down on. Just sat there on it."
+      answer: Sit on the Fence
+      aliases:
+        - sit on the fence
+        - sitting on the fence
+      reasoning: "sit (parked themselves) + on + the + fence (boundary marker) = Sit on the Fence"
+
+- id: phrasebusters-006
+  enabled: true
+  title: Phrasebusters
+  topic: common English idioms and everyday phrases
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Phrasebusters six. Right. Three more phrases in these clues. Say them out loud."
+  prize: "Email in. Winner gets a Woolworths gift card, no longer redeemable."
+  clues:
+    - number: 1
+      initials: B A T B
+      clue: "Someone's going around a shrub. Not through it - round it. Keeps circling the thing. Won't just get on with it."
+      answer: Beat Around the Bush
+      aliases:
+        - beat around the bush
+        - beating around the bush
+      reasoning: "beat (going round, circling) + around + the + bush (shrub) = Beat Around the Bush"
+    - number: 2
+      initials: L T C O T B
+      clue: "Right, permission's been given for a feline to escape from a holdall. It's out now. Can't get it back in."
+      answer: Let the Cat Out of the Bag
+      aliases:
+        - let the cat out of the bag
+      reasoning: "let (permission given) + the + cat (feline) + out of + the + bag (holdall) = Let the Cat Out of the Bag"
+    - number: 3
+      initials: T B S I B W
+      clue: "There's a round thing - for kicking - and it's inside a rectangular space used for sport. Over to someone else now."
+      answer: The Ball is in Your Court
+      aliases:
+        - the ball is in your court
+        - ball is in your court
+      reasoning: "the ball (round thing for kicking) + is in + your + court (rectangular space for sport) = The Ball is in Your Court"
+
+- id: phrasebusters-007
+  enabled: true
+  title: Phrasebusters
+  topic: common English idioms and everyday phrases
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Seven sets. Phrasebusters. Common phrases and idioms, all phonetically hidden."
+  prize: "Email in. Winner gets an OK magazine from 2003 and a novelty pen."
+  clues:
+    - number: 1
+      initials: C A A A L
+      clue: "Right, the price of this thing was someone's entire upper limb and also one of their lower limbs. Very expensive. Left them in a state."
+      answer: Cost an Arm and a Leg
+      aliases:
+        - cost an arm and a leg
+        - costs an arm and a leg
+      reasoning: "cost (the price) + an + arm (upper limb) + and + a + leg (lower limb) = Cost an Arm and a Leg"
+    - number: 2
+      initials: B T B
+      clue: "There's a cow in a field and someone's had a proper chomp at it. Bit brave, that."
+      answer: Bite the Bullet
+      aliases:
+        - bite the bullet
+      reasoning: "bite (a chomp) + the + bull (cow in the field) + it = Bite the Bullet"
+    - number: 3
+      initials: T B O B W
+      clue: "Right, this is the greatest thing from two different places. Not one, not the other - the very finest from each. Can't complain."
+      answer: The Best of Both Worlds
+      aliases:
+        - the best of both worlds
+        - best of both worlds
+      reasoning: "the best (greatest thing) + of + both (two different) + worlds (places) = The Best of Both Worlds"
+
+- id: phrasebusters-008
+  enabled: true
+  title: Phrasebusters
+  topic: common English idioms and everyday phrases
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Phrasebusters eight. Still going. Three more phrases. You're doing well, probably."
+  prize: "Email in. Winner gets a signed letter from someone off Emmerdale, possibly."
+  clues:
+    - number: 1
+      initials: H T S
+      clue: "Someone's smashed their fist into some rough fabric. Gone for it proper. That's what happened."
+      answer: Hit the Sack
+      aliases:
+        - hit the sack
+      reasoning: "hit (smashed their fist into) + the + sack (rough fabric) = Hit the Sack"
+    - number: 2
+      initials: J T G
+      clue: "There's a person doing a big leap over a firearm. Cleared it completely. Not sure what the point was."
+      answer: Jump the Gun
+      aliases:
+        - jump the gun
+      reasoning: "jump (big leap over) + the + gun (firearm) = Jump the Gun"
+    - number: 3
+      initials: K T B
+      clue: "Right, someone's given a big boot to a metal pail. Sent it flying down the road. Just gone for it."
+      answer: Kick the Bucket
+      aliases:
+        - kick the bucket
+      reasoning: "kick (given a big boot to) + the + buck (sounds like the start of bucket) + it = Kick the Bucket"
+
+- id: phrasebusters-009
+  enabled: true
+  title: Phrasebusters
+  topic: common English idioms and everyday phrases
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Nine sets in now. Phrasebusters. Three more everyday phrases hidden in these phonetic clues."
+  prize: "Email in. Winner gets a Shrek 2 DVD and a keyring from a motorway services."
+  clues:
+    - number: 1
+      initials: B T I
+      clue: "The thing you use to stop a vehicle - the pedal on the left - has come into contact with something frozen. Slippery situation."
+      answer: Break the Ice
+      aliases:
+        - break the ice
+      reasoning: "brake (stop a vehicle, pedal) + the + ice (frozen thing) = Break the Ice"
+    - number: 2
+      initials: U T W
+      clue: "There's something directly below a forecast from the Met Office. Whatever it is, it's stuck under all that."
+      answer: Under the Weather
+      aliases:
+        - under the weather
+      reasoning: "under (directly below) + the + weather (forecast from the Met Office) = Under the Weather"
+    - number: 3
+      initials: S T B
+      clue: "Someone's dropped a load of legumes. Didn't mean to. They've gone everywhere now."
+      answer: Spill the Beans
+      aliases:
+        - spill the beans
+      reasoning: "spill (dropped, didn't mean to) + the + beans (legumes) = Spill the Beans"
+
+- id: phrasebusters-010
+  enabled: true
+  title: Phrasebusters
+  topic: common English idioms and everyday phrases
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Ten sets in. Halfway through Phrasebusters. Three more idioms hiding in the sounds."
+  prize: "Email in. Winner gets a mini Toblerone and a phone charger that doesn't quite fit anything."
+  clues:
+    - number: 1
+      initials: P O C
+      clue: "Right, it's very serene in here - total calm - and it smells of something baked. That's all that's going on."
+      answer: Piece of Cake
+      aliases:
+        - piece of cake
+      reasoning: "peace (very serene, total calm) sounds like piece + of + cake (something baked) = Piece of Cake"
+    - number: 2
+      initials: T F
+      clue: "Some winged insects have come into possession of a calendar. Very organised, as flies go."
+      answer: Time Flies
+      aliases:
+        - time flies
+      reasoning: "time (calendar, organised) + flies (winged insects) = Time Flies"
+    - number: 3
+      initials: N P N G
+      clue: "There's nothing causing discomfort anywhere and also nothing being earned. A bit of a wash, really."
+      answer: No Pain No Gain
+      aliases:
+        - no pain no gain
+      reasoning: "no pain (nothing causing discomfort) + no gain (nothing being earned) = No Pain No Gain"
+
+- id: phrasebusters-011
+  enabled: true
+  title: Phrasebusters
+  topic: common English idioms and everyday phrases
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Phrasebusters eleven. All phrases and idioms. The sounds tell you the answer."
+  prize: "Email in. Winner gets a stack of hotel key cards and a complimentary shower cap."
+  clues:
+    - number: 1
+      initials: O I A B M
+      clue: "Right, it only happens on a single occasion. That one time involves something round in space that's gone blue. Just the once."
+      answer: Once in a Blue Moon
+      aliases:
+        - once in a blue moon
+      reasoning: "once (only the one time) + in + a + blue (gone blue) + moon (round thing in space) = Once in a Blue Moon"
+    - number: 2
+      initials: L T C O T B
+      clue: "Someone's opened up a holdall and a cat has legged it out. Completely out now. That's done it."
+      answer: Let the Cat Out of the Bag
+      aliases:
+        - let the cat out of the bag
+      reasoning: "let (allowed/opened up) + the + cat (feline) + out of + the + bag (holdall) = Let the Cat Out of the Bag"
+    - number: 3
+      initials: P S L
+      clue: "There's a fella grabbing hold of someone's ankle and giving it a good yank. Just having a go at it."
+      answer: Pull Someone's Leg
+      aliases:
+        - pull someone's leg
+        - pulling someone's leg
+      reasoning: "pull (grabbing and yanking) + someone's + leg (ankle area) = Pull Someone's Leg"
+
+- id: phrasebusters-012
+  enabled: true
+  title: Phrasebusters
+  topic: common English idioms and everyday phrases
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Right. Phrasebusters twelve. Three more. Same as always - say it out loud and hear what it is."
+  prize: "Email in. Winner gets a copy of Bridget Jones Diary on VHS and a box of Roses."
+  clues:
+    - number: 1
+      initials: H T N
+      clue: "Someone's taken a swing at a small pointy thing you hammer into wood. Gone straight for it."
+      answer: Hit the Nail
+      aliases:
+        - hit the nail
+        - hit the nail on the head
+      reasoning: "hit (taken a swing at) + the + nail (small pointy thing you hammer) = Hit the Nail"
+    - number: 2
+      initials: M T B
+      clue: "A woman's completely failed to board a vessel. It's gone without her. She's still on the harbour. Gutted."
+      answer: Miss the Boat
+      aliases:
+        - miss the boat
+      reasoning: "miss (failed to board, or a woman) + the + boat (vessel) = Miss the Boat"
+    - number: 3
+      initials: S O T F
+      clue: "Right, someone's settled themselves on top of a garden barrier. Can't decide which way to go. Just sitting there."
+      answer: Sit on the Fence
+      aliases:
+        - sit on the fence
+        - sitting on the fence
+      reasoning: "sit (settled on top) + on + the + fence (garden barrier) = Sit on the Fence"
+
+- id: phrasebusters-013
+  enabled: true
+  title: Phrasebusters
+  topic: common English idioms and everyday phrases
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Phrasebusters thirteen. Unlucky for some. Three more phrases. Go on then."
+  prize: "Email in. Winner gets an Encyclopaedia Britannica volume 7 and a travel pillow."
+  clues:
+    - number: 1
+      initials: B A T B
+      clue: "Someone's doing laps around a hedge. Keeps going round it. Won't just come to the point."
+      answer: Beat Around the Bush
+      aliases:
+        - beat around the bush
+        - beating around the bush
+      reasoning: "beat (doing laps, going round) + around + the + bush (hedge) = Beat Around the Bush"
+    - number: 2
+      initials: T B S I B W
+      clue: "There's a spherical object for kicking about, and it's landed inside a sporting enclosure. Your turn now, apparently."
+      answer: The Ball is in Your Court
+      aliases:
+        - the ball is in your court
+        - ball is in your court
+      reasoning: "the ball (spherical kicking object) + is in + your + court (sporting enclosure) = The Ball is in Your Court"
+    - number: 3
+      initials: C A A A L
+      clue: "Right, the bill for something came to the total value of an upper limb plus a lower limb. Expensive doesn't cover it."
+      answer: Cost an Arm and a Leg
+      aliases:
+        - cost an arm and a leg
+        - costs an arm and a leg
+      reasoning: "cost (the bill) + an + arm (upper limb) + and + a + leg (lower limb) = Cost an Arm and a Leg"
+
+- id: phrasebusters-014
+  enabled: true
+  title: Phrasebusters
+  topic: common English idioms and everyday phrases
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Fourteen in. Phrasebusters. Still going. Three more idioms in these clues."
+  prize: "Email in. Winner gets a Littlewoods catalogue from 2001 and some Haribo."
+  clues:
+    - number: 1
+      initials: T B O B W
+      clue: "Right, imagine the finest things from two different planets. You've got all of that. Can't ask for more than that."
+      answer: The Best of Both Worlds
+      aliases:
+        - the best of both worlds
+        - best of both worlds
+      reasoning: "the best (finest things) + of + both (two different) + worlds (planets) = The Best of Both Worlds"
+    - number: 2
+      initials: B T B
+      clue: "There's a person and they've taken a bite out of a bull. Just gone straight in. Didn't hesitate."
+      answer: Bite the Bullet
+      aliases:
+        - bite the bullet
+      reasoning: "bite (taken a bite) + the + bull (bull) + it = Bite the Bullet"
+    - number: 3
+      initials: B T I
+      clue: "Something that slows vehicles down has encountered a frozen surface. Not ideal conditions for stopping."
+      answer: Break the Ice
+      aliases:
+        - break the ice
+      reasoning: "brake (slows vehicles down) + the + ice (frozen surface) = Break the Ice"
+
+- id: phrasebusters-015
+  enabled: true
+  title: Phrasebusters
+  topic: common English idioms and everyday phrases
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Phrasebusters fifteen. Nearly there. Three more well-known phrases."
+  prize: "Email in. Winner gets a fondue set still in the box and a selection of instant coffees."
+  clues:
+    - number: 1
+      initials: S T B
+      clue: "Right, someone's been quite careless with their pulse. Tipped them right out. All over the floor."
+      answer: Spill the Beans
+      aliases:
+        - spill the beans
+      reasoning: "spill (tipped out, careless) + the + beans (pulse/legumes) = Spill the Beans"
+    - number: 2
+      initials: K T B
+      clue: "There's a fella who's just launched his foot at a pail. Good solid connection. The bucket's gone flying."
+      answer: Kick the Bucket
+      aliases:
+        - kick the bucket
+      reasoning: "kick (launched his foot at) + the + buck (start of bucket) + it = Kick the Bucket"
+    - number: 3
+      initials: H T S
+      clue: "Someone has punched a bag - one of them big rough ones for carrying potatoes. Straight into it."
+      answer: Hit the Sack
+      aliases:
+        - hit the sack
+      reasoning: "hit (punched) + the + sack (big rough bag) = Hit the Sack"
+
+- id: phrasebusters-016
+  enabled: true
+  title: Phrasebusters
+  topic: common English idioms and everyday phrases
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Four to go. Phrasebusters sixteen. Three more everyday idioms."
+  prize: "Email in. Winner gets a commemorative tin from the Queen's Jubilee and some chocolate fingers."
+  clues:
+    - number: 1
+      initials: U T W
+      clue: "Something's going on beneath a set of atmospheric conditions. Right underneath all that drizzle."
+      answer: Under the Weather
+      aliases:
+        - under the weather
+      reasoning: "under (beneath) + the + weather (atmospheric conditions, drizzle) = Under the Weather"
+    - number: 2
+      initials: J T G
+      clue: "Right, someone's done a big jump right over a pistol. Just cleared it. Don't know the reason."
+      answer: Jump the Gun
+      aliases:
+        - jump the gun
+      reasoning: "jump (big jump over) + the + gun (pistol) = Jump the Gun"
+    - number: 3
+      initials: P O C
+      clue: "There's a lovely stillness - all at peace - and somehow a dessert is involved in it. A baked one."
+      answer: Piece of Cake
+      aliases:
+        - piece of cake
+      reasoning: "peace (lovely stillness) sounds like piece + of + cake (baked dessert) = Piece of Cake"
+
+- id: phrasebusters-017
+  enabled: true
+  title: Phrasebusters
+  topic: common English idioms and everyday phrases
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Three more sets after this. Phrasebusters seventeen. All everyday phrases in these phonetic clues."
+  prize: "Email in. Winner gets a signed photo of someone off Hollyoaks, possibly."
+  clues:
+    - number: 1
+      initials: M T B
+      clue: "There's a woman - possibly called Miss - who's failed to get on a ship. It's left the harbour. She's watching it go."
+      answer: Miss the Boat
+      aliases:
+        - miss the boat
+      reasoning: "miss (failed, or a woman called Miss) + the + boat (ship) = Miss the Boat"
+    - number: 2
+      initials: O I A B M
+      clue: "Right, it only happens on one occasion - just once - and it's a heavenly body that's gone a funny shade of blue."
+      answer: Once in a Blue Moon
+      aliases:
+        - once in a blue moon
+      reasoning: "once (one occasion) + in + a + blue (funny shade of blue) + moon (heavenly body) = Once in a Blue Moon"
+    - number: 3
+      initials: N P N G
+      clue: "Nothing's causing any discomfort. Nothing's coming in either. Two lots of nothing, really."
+      answer: No Pain No Gain
+      aliases:
+        - no pain no gain
+      reasoning: "no pain (nothing causing discomfort) + no gain (nothing coming in) = No Pain No Gain"
+
+- id: phrasebusters-018
+  enabled: true
+  title: Phrasebusters
+  topic: common English idioms and everyday phrases
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Phrasebusters eighteen. Nearly done. Still all everyday idioms and phrases."
+  prize: "Email in. Winner gets a copy of Harry Potter on audio cassette, read by Stephen Fry, missing tape four."
+  clues:
+    - number: 1
+      initials: L T C O T B
+      clue: "Right, a feline's been let loose from a holdall. Someone's gone and opened it up and now it's out. That's the end of that secret."
+      answer: Let the Cat Out of the Bag
+      aliases:
+        - let the cat out of the bag
+      reasoning: "let (let loose) + the + cat (feline) + out of + the + bag (holdall) = Let the Cat Out of the Bag"
+    - number: 2
+      initials: B A T B
+      clue: "Someone keeps circling a shrub. Just going round and round it. Won't deal with what's in front of them."
+      answer: Beat Around the Bush
+      aliases:
+        - beat around the bush
+        - beating around the bush
+      reasoning: "beat (circling, going around) + around + the + bush (shrub) = Beat Around the Bush"
+    - number: 3
+      initials: T B S I B W
+      clue: "There's a sphere - the kind you kick - and it's landed inside an enclosed sporting area. Up to you now."
+      answer: The Ball is in Your Court
+      aliases:
+        - the ball is in your court
+        - ball is in your court
+      reasoning: "the ball (sphere you kick) + is in + your + court (enclosed sporting area) = The Ball is in Your Court"
+
+- id: phrasebusters-019
+  enabled: true
+  title: Phrasebusters
+  topic: common English idioms and everyday phrases
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Penultimate Phrasebusters. Number nineteen. Three more phrases in these clues. Nearly there."
+  prize: "Email in. Winner gets a DVD copy of Calendar Girls and a travel mug."
+  clues:
+    - number: 1
+      initials: S O T F
+      clue: "Right, someone's sat themselves on top of a wooden boundary thing. Perched there. Won't commit to either side."
+      answer: Sit on the Fence
+      aliases:
+        - sit on the fence
+        - sitting on the fence
+      reasoning: "sit (perched) + on + the + fence (wooden boundary thing) = Sit on the Fence"
+    - number: 2
+      initials: P S L
+      clue: "Someone's taken hold of a lower limb and given it a tug. Not sure what they're after."
+      answer: Pull Someone's Leg
+      aliases:
+        - pull someone's leg
+        - pulling someone's leg
+      reasoning: "pull (taken hold and given a tug) + someone's + leg (lower limb) = Pull Someone's Leg"
+    - number: 3
+      initials: C A A A L
+      clue: "The price of it was literally a complete arm plus a complete leg. Whoever bought it isn't in great shape now."
+      answer: Cost an Arm and a Leg
+      aliases:
+        - cost an arm and a leg
+        - costs an arm and a leg
+      reasoning: "cost (the price) + an + arm (complete arm) + and + a + leg (complete leg) = Cost an Arm and a Leg"
+
+- id: phrasebusters-020
+  enabled: true
+  title: Phrasebusters
+  topic: common English idioms and everyday phrases
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Last one. Phrasebusters twenty. Final three phrases. Go out on a high."
+  prize: "Email in. Winner gets a Woolworths pick-and-mix bag, unavailable since 2008."
+  clues:
+    - number: 1
+      initials: T B O B W
+      clue: "Right, the absolute premium from two separate worlds. The pinnacle of each. Can't do better than that."
+      answer: The Best of Both Worlds
+      aliases:
+        - the best of both worlds
+        - best of both worlds
+      reasoning: "the best (absolute premium) + of + both (two separate) + worlds (worlds) = The Best of Both Worlds"
+    - number: 2
+      initials: H T N
+      clue: "Someone's given a good whack to a pointy metal spike. Clean hit. Right on it."
+      answer: Hit the Nail
+      aliases:
+        - hit the nail
+        - hit the nail on the head
+      reasoning: "hit (given a whack to) + the + nail (pointy metal spike) = Hit the Nail"
+    - number: 3
+      initials: T F
+      clue: "Some little buzzing things with wings have got themselves a watch each. Very time-conscious for insects."
+      answer: Time Flies
+      aliases:
+        - time flies
+      reasoning: "time (watch, time-conscious) + flies (little buzzing things with wings) = Time Flies"

@@ -1,0 +1,705 @@
+- id: ukplacesbusters-001
+  enabled: true
+  title: Ukplacesbusters
+  topic: British town and village names with funny or unusual pronunciations
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Right, Ukplacesbusters. Three British place names hiding in these clues. Say them out loud and see what you get."
+  prize: "Email in. Winner gets a laminated map of the UK from a motorway service station and a bumper sticker that says 'I Love Swindon'."
+  clues:
+    - number: 1
+      initials: W
+      clue: "This fella got out of bed this morning, had a good stretch, and just carried on. Still going. Bit much really."
+      answer: Woking
+      aliases:
+        - woking
+      reasoning: "woke (woke up) + ing (still doing it, the -ing suffix of ongoing action) = Woking. Woke-ing."
+
+    - number: 2
+      initials: H
+      clue: "There's a big animal, a proper heavy one, and someone's put a load of meat on it. On its back. Just sat there."
+      answer: Horsham
+      aliases:
+        - horsham
+      reasoning: "horse (big animal) + ham (cured meat) = Horsham. Horse-ham."
+
+    - number: 3
+      initials: M
+      clue: "A woman who cleans the big house. And she's stood on a large flat rock. Don't ask why, that's just what she's doing."
+      answer: Maidstone
+      aliases:
+        - maidstone
+      reasoning: "maid (domestic worker) + stone (large flat rock) = Maidstone. Maid-stone."
+
+- id: ukplacesbusters-002
+  enabled: true
+  title: Ukplacesbusters
+  topic: British town and village names with funny or unusual pronunciations
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Ukplacesbusters. Three famous British places in phonetic disguise. You'll know them when you say them."
+  prize: "Email in. Winner gets a Frosties mug and a booklet of coupons for a shop that closed in 2003."
+  clues:
+    - number: 1
+      initials: F
+      clue: "All the local people gathered together, right, and they've found this really nice sound someone made. A lovely tone. Everyone's impressed."
+      answer: Folkestone
+      aliases:
+        - folkestone
+      reasoning: "folks (the local people, everyone) + tone (a nice sound) = Folkestone. Folks-tone."
+
+    - number: 2
+      initials: W
+      clue: "This person's sharp as anything. Very clever. And they've just parked up, nice and steady, in the barn next to the horse."
+      answer: Whitstable
+      aliases:
+        - whitstable
+      reasoning: "wits (mental sharpness, being clever) + stable (barn where the horse lives) = Whitstable. Wits-table... actually wits + stable. Whit-stable."
+
+    - number: 3
+      initials: C
+      clue: "This big bird, a crow or something, has been moving about on its belly. Dragging itself along. No idea what happened to it."
+      answer: Crawley
+      aliases:
+        - crawley
+      reasoning: "crawl (to drag yourself along on your belly, like a crow shuffling about) + ee (the -ley sound) = Crawley. Crawl-ee."
+
+- id: ukplacesbusters-003
+  enabled: true
+  title: Ukplacesbusters
+  topic: British town and village names with funny or unusual pronunciations
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Ukplacesbusters time. Three British place names in there somewhere. Have a think, say them out loud."
+  prize: "Email in. Winner gets a set of AOL trial discs and a novelty pen shaped like the Eiffel Tower."
+  clues:
+    - number: 1
+      initials: S
+      clue: "There's a bloke called Steve and he's getting on a bit now. Not old old, but you know. A certain number of years."
+      answer: Stevenage
+      aliases:
+        - stevenage
+      reasoning: "Steve (a bloke called Steve) + an + age (he's a certain age now) = Stevenage. Steve-an-age."
+
+    - number: 2
+      initials: G
+      clue: "Someone's gone and covered everything in gold. All shiny. And now they're wading across a shallow bit of a river."
+      answer: Guildford
+      aliases:
+        - guildford
+      reasoning: "gilded (covered in gold, all shiny) sounds like guild + ford (a shallow crossing in a river) = Guildford. Guild-ford."
+
+    - number: 3
+      initials: W
+      clue: "This bloke reckons he deserves something. He's entitled to it. He's been at it for a while now and he wants recognition."
+      answer: Worthing
+      aliases:
+        - worthing
+      reasoning: "worth (deserving of, entitled to) + ing (ongoing, still at it) = Worthing. Worth-ing."
+
+- id: ukplacesbusters-004
+  enabled: true
+  title: Ukplacesbusters
+  topic: British town and village names with funny or unusual pronunciations
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Right then. Ukplacesbusters. These are all real places in Britain. They just sound like something else. That's the game."
+  prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station on the M6."
+  clues:
+    - number: 1
+      initials: W
+      clue: "There's a wolf. And it's made a mistake. And now it's sat in a small village that sounds a bit damp."
+      answer: Wolverhampton
+      aliases:
+        - wolverhampton
+      reasoning: "wolf + er (hesitation, made a mistake) + hamp + ton (a small settlement, common in English place names) = Wolverhampton. Wolf-er-hamp-ton."
+
+    - number: 2
+      initials: L
+      clue: "There's a ditch full of water. And it's been going on long enough to know better. Like it's got a bit of history to it."
+      answer: Letchworth
+      aliases:
+        - letchworth
+      reasoning: "letch (a watery ditch or marshy area, and also a verb meaning to hanker) + worth (deserving of, or an old word for enclosure) = Letchworth. Letch-worth."
+
+    - number: 3
+      initials: T
+      clue: "Someone's weighing things up. A whole ton of it. And it goes over the water on a big crossing."
+      answer: Tonbridge
+      aliases:
+        - tonbridge
+      reasoning: "ton (a unit of weight, a lot of it) + bridge (a crossing over water) = Tonbridge. Ton-bridge."
+
+- id: ukplacesbusters-005
+  enabled: true
+  title: Ukplacesbusters
+  topic: British town and village names with funny or unusual pronunciations
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Ukplacesbusters. All British place names. They sound ridiculous when you break them down, which is the whole point."
+  prize: "Email in. Winner gets a Woolworths gift voucher, which is now completely useless, and a stress ball shaped like a globe."
+  clues:
+    - number: 1
+      initials: S
+      clue: "There are seven of them. All trees. Just standing there in a field. Seven of them. That's the whole thing."
+      answer: Sevenoaks
+      aliases:
+        - sevenoaks
+      reasoning: "seven (the number seven) + oaks (oak trees) = Sevenoaks. Seven-oaks. Literally seven oak trees."
+
+    - number: 2
+      initials: F
+      clue: "Someone's done someone a favour. And then turned out to be a right fake about the whole thing. Pretending they meant it."
+      answer: Faversham
+      aliases:
+        - faversham
+      reasoning: "favour (doing someone a good turn) + sham (a fake, a pretence) = Faversham. Favour-sham."
+
+    - number: 3
+      initials: B
+      clue: "This person is basing everything on something. Their whole argument. And they keep poking at the fire to keep it going."
+      answer: Basingstoke
+      aliases:
+        - basingstoke
+      reasoning: "basing (building your argument on a foundation) + stoke (to stoke a fire, keep it going) = Basingstoke. Basing-stoke."
+
+- id: ukplacesbusters-006
+  enabled: true
+  title: Ukplacesbusters
+  topic: British town and village names with funny or unusual pronunciations
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Ukplacesbusters. Three places in the UK that sound completely different to how they look on paper. Say them out loud."
+  prize: "Email in. Winner gets an MP3 player that holds forty-seven songs and a charger that doesn't fit anything anymore."
+  clues:
+    - number: 1
+      initials: M K
+      clue: "Someone's put a small grinding wheel in a barrel. A mill, like, but a tiny one. And they've dropped it in. In a barrel. What's that about?"
+      answer: Milton Keynes
+      aliases:
+        - milton keynes
+      reasoning: "milt (a small mill or grinder) + on (inside, dropped into) + keens (sounds like keens, like a barrel shape, or keen as in sharp) = Milton Keynes. Mill-ton-keens."
+
+    - number: 2
+      initials: C
+      clue: "There's a rooster. A proper one. And it lives in a place that used to be a Roman fortress back in the day."
+      answer: Chichester
+      aliases:
+        - chichester
+      reasoning: "chich (sounds like chick, a young bird, rooster-adjacent) + ester / chester (a place ending from the Latin castrum, a Roman fort) = Chichester. Chich-ester."
+
+    - number: 3
+      initials: H
+      clue: "Someone is in a real rush. Absolutely flying. Can't stop. And they've been stung. Multiple times. By a load of them."
+      answer: Hastings
+      aliases:
+        - hastings
+      reasoning: "haste (to be in a rush, to hurry) + ings (multiple stings from wasps or bees) = Hastings. Haste-ings. Hast-ings."
+
+- id: ukplacesbusters-007
+  enabled: true
+  title: Ukplacesbusters
+  topic: British town and village names with funny or unusual pronunciations
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Right, Ukplacesbusters. These are all real places in England. They just sound a bit odd when you say them properly."
+  prize: "Email in. Winner gets a signed photo of someone from a show that got cancelled and a tub of travel sweets."
+  clues:
+    - number: 1
+      initials: E
+      clue: "Over on the east side of things. And someone's just been born over there. A new arrival. Big news locally."
+      answer: Eastbourne
+      aliases:
+        - eastbourne
+      reasoning: "east (the eastern direction) + bourne (born, a new arrival) = Eastbourne. East-bourne."
+
+    - number: 2
+      initials: T W
+      clue: "There's a whole ton of stuff. And it goes over water on a big structure. And at the bottom there are loads of natural springs coming up."
+      answer: Tunbridge Wells
+      aliases:
+        - tunbridge wells
+      reasoning: "ton (a unit of weight, loads of stuff) + bridge (crossing over water) + wells (natural springs, water coming up from the ground) = Tunbridge Wells. Ton-bridge-wells."
+
+    - number: 3
+      initials: W G C
+      clue: "This person's doing really well. They're winning, frankly. And they've got a lovely plot of green with flowers and veg in it. And it's a whole place, like a proper community."
+      answer: Welwyn Garden City
+      aliases:
+        - welwyn garden city
+      reasoning: "well + win (doing well, coming out on top) + garden (a lovely outdoor growing space) + city (a proper settlement, a community) = Welwyn Garden City. Well-win-garden-city."
+
+- id: ukplacesbusters-008
+  enabled: true
+  title: Ukplacesbusters
+  topic: British town and village names with funny or unusual pronunciations
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Ukplacesbusters. All English place names. Some of them sound completely daft. That's what makes it fun."
+  prize: "Email in. Winner gets a Blockbuster Video membership card and a lint roller that's run out of sheets."
+  clues:
+    - number: 1
+      initials: W M
+      clue: "You're out west somewhere. Everything's going brilliantly. And there's a massive horse. Just standing there, looking impressive."
+      answer: Weston-super-Mare
+      aliases:
+        - weston super mare
+        - weston-super-mare
+      reasoning: "west + on (out west, you're on the western side) + super (everything's going brilliantly, it's super) + mare (a female horse, a big impressive one) = Weston-super-Mare. West-on-super-mare."
+
+    - number: 2
+      initials: H H
+      clue: "There's a bit of fabric, the edge of it, just a little one. And someone's made a small clearing in the woods near an old farmhouse."
+      answer: Hemel Hempstead
+      aliases:
+        - hemel hempstead
+      reasoning: "hem (the edge of fabric) + el (a small one, a little) + hemp (a plant, associated with rope and fabric) + stead (an old word for a farmstead or homestead) = Hemel Hempstead. Hem-el-hemp-stead."
+
+    - number: 3
+      initials: W
+      clue: "This person has been roused from their sleep. Had a proper awakening. And now they're still at it, going on about it."
+      answer: Woking
+      aliases:
+        - woking
+      reasoning: "woke (awakened, roused from sleep) + ing (still going, ongoing) = Woking. Woke-ing."
+
+- id: ukplacesbusters-009
+  enabled: true
+  title: Ukplacesbusters
+  topic: British town and village names with funny or unusual pronunciations
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Ukplacesbusters. Real British places, phonetic clues. Say each one out loud and the town name should pop into your head."
+  prize: "Email in. Winner gets a novelty alarm clock shaped like a brain and a loyalty card for a sandwich shop that's now a Pret."
+  clues:
+    - number: 1
+      initials: S T
+      clue: "Someone's poking a fire. Really giving it some. And they're doing it on top of something, and there's a river below them."
+      answer: Stoke-on-Trent
+      aliases:
+        - stoke on trent
+        - stoke-on-trent
+      reasoning: "stoke (to tend a fire, to poke it and keep it going) + on (on top of, above) + Trent (the river Trent) = Stoke-on-Trent. Stoke-on-Trent."
+
+    - number: 2
+      initials: B R
+      clue: "There's a big muddy patch out back. Like a proper swamp. And whoever's running the show there has given themselves a royal-sounding title."
+      answer: Bognor Regis
+      aliases:
+        - bognor regis
+      reasoning: "bog (a muddy swamp or marsh) + nor (a negating word, not quite) + regis (Latin for of the king, a royal suffix) = Bognor Regis. Bog-nor-regis."
+
+    - number: 3
+      initials: F
+      clue: "All the people from round here have got together. They've found a great big lump of rock and they won't stop going on about it."
+      answer: Folkestone
+      aliases:
+        - folkestone
+      reasoning: "folks (all the local people, everyone from round here) + tone / stone (a great big lump of rock) = Folkestone. Folks-tone."
+
+- id: ukplacesbusters-010
+  enabled: true
+  title: Ukplacesbusters
+  topic: British town and village names with funny or unusual pronunciations
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Ukplacesbusters. Famous British places, but you have to work them out from the sounds. Don't overthink it."
+  prize: "Email in. Winner gets a tin of Quality Street with only the ones nobody wants left in it and a biro shaped like a golf club."
+  clues:
+    - number: 1
+      initials: L S
+      clue: "There's someone who keeps going on about things. Really leaning into it. Won't drop it. And at the end of it all there's a spa day waiting."
+      answer: Leamington Spa
+      aliases:
+        - leamington spa
+        - royal leamington spa
+      reasoning: "leaming (sounds like leaning + ing, really going on about something) + ton (a unit, a lot of it) + spa (a spa day, a wellness treat at the end) = Leamington Spa. Leam-ing-ton-spa."
+
+    - number: 2
+      initials: M
+      clue: "A young woman who works in the house. And she's standing on a rock. Just there. On a rock."
+      answer: Maidstone
+      aliases:
+        - maidstone
+      reasoning: "maid (a young woman, a domestic worker) + stone (a rock, standing on it) = Maidstone. Maid-stone."
+
+    - number: 3
+      initials: C
+      clue: "This crow, right, it's been pulling itself along on its belly. Through the mud. And it looks exhausted."
+      answer: Crawley
+      aliases:
+        - crawley
+      reasoning: "crawl (to drag yourself along on your front) + ee (the -ley ending, a meadow or clearing) = Crawley. Crawl-ee."
+
+- id: ukplacesbusters-011
+  enabled: true
+  title: Ukplacesbusters
+  topic: British town and village names with funny or unusual pronunciations
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Ukplacesbusters. Three British place names in there. You'll get them once you say the clues out loud properly."
+  prize: "Email in. Winner gets a magazine from 2002 that was left in a dentist's waiting room and a broken pedometer."
+  clues:
+    - number: 1
+      initials: H
+      clue: "A big horse. And on its back there's a load of cured pork. Just piled on. Someone's done this on purpose."
+      answer: Horsham
+      aliases:
+        - horsham
+      reasoning: "horse (a large equine animal) + ham (cured pork, the meat) = Horsham. Horse-ham."
+
+    - number: 2
+      initials: S
+      clue: "There's a bloke, Steve his name is. And he's not getting any younger. Reached a point in his life, you know. An age."
+      answer: Stevenage
+      aliases:
+        - stevenage
+      reasoning: "Steve (a bloke called Steve) + an + age (he's at an age now, a certain point in life) = Stevenage. Steve-an-age."
+
+    - number: 3
+      initials: S
+      clue: "Someone counted them up. There are seven of them. All the same type of tree. Just the seven. Standing in a field."
+      answer: Sevenoaks
+      aliases:
+        - sevenoaks
+      reasoning: "seven (the number, someone counted) + oaks (oak trees, all the same type) = Sevenoaks. Seven-oaks."
+
+- id: ukplacesbusters-012
+  enabled: true
+  title: Ukplacesbusters
+  topic: British town and village names with funny or unusual pronunciations
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Right then. Ukplacesbusters. All real places in England. They just sound like something else entirely when you say them out loud."
+  prize: "Email in. Winner gets a hotel miniature shampoo collection and a free screensaver download on floppy disk."
+  clues:
+    - number: 1
+      initials: G
+      clue: "Everything's been covered in gold. The whole lot. Lovely and shiny. And to get out of there you have to wade through a shallow river."
+      answer: Guildford
+      aliases:
+        - guildford
+      reasoning: "gilded (covered in gold, made all shiny) sounds like guild + ford (a shallow river crossing) = Guildford. Guild-ford."
+
+    - number: 2
+      initials: W
+      clue: "This person has earned it. They've put the time in and they deserve something for it. And they're still at it, by the way."
+      answer: Worthing
+      aliases:
+        - worthing
+      reasoning: "worth (deserving of, having earned something) + ing (still going, ongoing effort) = Worthing. Worth-ing."
+
+    - number: 3
+      initials: B
+      clue: "Someone's made their case. They're building everything on this one idea. And they're keeping the fire going to prove the point."
+      answer: Basingstoke
+      aliases:
+        - basingstoke
+      reasoning: "basing (building an argument on a foundation) + stoke (to stoke a fire, keep it burning) = Basingstoke. Basing-stoke."
+
+- id: ukplacesbusters-013
+  enabled: true
+  title: Ukplacesbusters
+  topic: British town and village names with funny or unusual pronunciations
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Ukplacesbusters. Say these out loud. The place names are hiding in the sounds. All of them real places in the UK."
+  prize: "Email in. Winner gets a Nectar card with four points on it and a branded pen from a company that got bought out."
+  clues:
+    - number: 1
+      initials: T
+      clue: "A very heavy load. A whole unit of weight. And it's going across a bridge. That's all there is to it."
+      answer: Tonbridge
+      aliases:
+        - tonbridge
+      reasoning: "ton (a unit of weight, a heavy load) + bridge (a crossing, going over water) = Tonbridge. Ton-bridge."
+
+    - number: 2
+      initials: F
+      clue: "Someone did someone a favour. Genuinely helpful. But the whole thing turned out to be a performance. Not real at all."
+      answer: Faversham
+      aliases:
+        - faversham
+      reasoning: "favour (a good deed, being helpful) + sham (a fake, a pretence, not real) = Faversham. Favour-sham."
+
+    - number: 3
+      initials: M K
+      clue: "There's a small mill, a grinding wheel sort of thing. Someone's dropped it in. And there's a river or something it's gone into. And whoever runs the place is keen on it."
+      answer: Milton Keynes
+      aliases:
+        - milton keynes
+      reasoning: "mill + ton (a mill, and a ton weight) + keens (sounds like keen, enthusiastic) = Milton Keynes. Mill-ton-keens."
+
+- id: ukplacesbusters-014
+  enabled: true
+  title: Ukplacesbusters
+  topic: British town and village names with funny or unusual pronunciations
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Ukplacesbusters. Three English place names. They're in the sounds, not the spellings. Say them out loud."
+  prize: "Email in. Winner gets a Big Brother series three DVD box set and a novelty rubber duck from a gift shop."
+  clues:
+    - number: 1
+      initials: C
+      clue: "There's a young bird. A chick. And it's ended up somewhere that the Romans used to use as a fort."
+      answer: Chichester
+      aliases:
+        - chichester
+      reasoning: "chich (sounds like chick, a young bird) + ester / chester (from the Latin castrum, a Roman fort settlement) = Chichester. Chich-ester."
+
+    - number: 2
+      initials: H
+      clue: "Someone is rushing. Really moving fast. And on the way they've been stung. Several times. Not a good day."
+      answer: Hastings
+      aliases:
+        - hastings
+      reasoning: "haste (rushing, moving fast) + ings (multiple stings, been stung more than once) = Hastings. Haste-ings."
+
+    - number: 3
+      initials: W
+      clue: "There's a wolf. And it hesitates for a moment. Makes a mistake. And it ends up in a damp little settlement."
+      answer: Wolverhampton
+      aliases:
+        - wolverhampton
+      reasoning: "wolf + er (to err, to hesitate) + hamp (a damp place, damp sound to it) + ton (a small settlement, common English suffix) = Wolverhampton. Wolf-er-hamp-ton."
+
+- id: ukplacesbusters-015
+  enabled: true
+  title: Ukplacesbusters
+  topic: British town and village names with funny or unusual pronunciations
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Ukplacesbusters. All real British places. Broken down into sounds so they mean something completely different. Say them out loud."
+  prize: "Email in. Winner gets a portable CD player with a scratched lid and a birthday card from a brand that only sells in petrol stations."
+  clues:
+    - number: 1
+      initials: L
+      clue: "There's a marshy ditch. Bit boggy. And the person who lives nearby reckons it's worth something. Has value."
+      answer: Letchworth
+      aliases:
+        - letchworth
+      reasoning: "letch (a marshy ditch or watery ground) + worth (of value, deserving of something) = Letchworth. Letch-worth."
+
+    - number: 2
+      initials: E
+      clue: "Everything's happening on the eastern side. And someone over there has just had a baby. Big event."
+      answer: Eastbourne
+      aliases:
+        - eastbourne
+      reasoning: "east (the eastern direction, the eastern side) + bourne (born, a birth, a new arrival) = Eastbourne. East-bourne."
+
+    - number: 3
+      initials: W
+      clue: "Someone is sharp. Got their wits about them. And they've got their horse tucked up safely in the barn."
+      answer: Whitstable
+      aliases:
+        - whitstable
+      reasoning: "wits (mental sharpness, having your wits about you) + stable (where the horse sleeps, a barn) = Whitstable. Wits-table... Whit-stable."
+
+- id: ukplacesbusters-016
+  enabled: true
+  title: Ukplacesbusters
+  topic: British town and village names with funny or unusual pronunciations
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Right, Ukplacesbusters. These are British place names. They sound like something completely different when you break them into bits."
+  prize: "Email in. Winner gets a travel kettle that trips the fuse and a free trial of a streaming service that doesn't stream anything good."
+  clues:
+    - number: 1
+      initials: W G C
+      clue: "This person is doing well, genuinely winning at life. They've got a nice bit of garden out the back. And it's a whole city. Proper one."
+      answer: Welwyn Garden City
+      aliases:
+        - welwyn garden city
+      reasoning: "well + win (doing well and winning) + garden (the outdoor space) + city (a proper place, not just a village) = Welwyn Garden City. Well-win-garden-city."
+
+    - number: 2
+      initials: T W
+      clue: "A very large amount of stuff. Over a bridge. And at the far end, water bubbling up out of the ground naturally."
+      answer: Tunbridge Wells
+      aliases:
+        - tunbridge wells
+      reasoning: "ton (a large unit, a massive amount) + bridge (crossing over water) + wells (natural springs, water from the ground) = Tunbridge Wells. Ton-bridge-wells."
+
+    - number: 3
+      initials: S T
+      clue: "Someone's really going at the fire. Keeping it well stoked. And they're perched on something, with a river running underneath."
+      answer: Stoke-on-Trent
+      aliases:
+        - stoke on trent
+        - stoke-on-trent
+      reasoning: "stoke (to feed and maintain a fire) + on (perched on top of something) + Trent (the river Trent in the Midlands) = Stoke-on-Trent. Stoke-on-Trent."
+
+- id: ukplacesbusters-017
+  enabled: true
+  title: Ukplacesbusters
+  topic: British town and village names with funny or unusual pronunciations
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Ukplacesbusters. Three well-known British places hiding in phonetic clues. They all sound normal once you say them out loud."
+  prize: "Email in. Winner gets a box of Celebrations with all the Bounties still in it and a promotional ruler from a stationery brand."
+  clues:
+    - number: 1
+      initials: W M
+      clue: "You've headed out west. Things are going brilliantly, better than expected. And there's a big female horse in the field."
+      answer: Weston-super-Mare
+      aliases:
+        - weston super mare
+        - weston-super-mare
+      reasoning: "west + on (out west, you're on the western side) + super (brilliant, better than expected) + mare (a female horse) = Weston-super-Mare. West-on-super-mare."
+
+    - number: 2
+      initials: H H
+      clue: "There's the very edge of a bit of fabric. Just a small one. And someone nearby is growing rope plants on an old bit of land."
+      answer: Hemel Hempstead
+      aliases:
+        - hemel hempstead
+      reasoning: "hem (the edge of fabric) + el (a small one) + hemp (the rope plant) + stead (an old farmstead, a plot of land) = Hemel Hempstead. Hem-el-hemp-stead."
+
+    - number: 3
+      initials: B R
+      clue: "There's a massive swamp out the back. Proper boggy. And whoever's in charge has given the place a very posh, royal-sounding name."
+      answer: Bognor Regis
+      aliases:
+        - bognor regis
+      reasoning: "bog (a swamp or marshy area) + nor (not quite, a bit off) + regis (Latin for royal, of the king) = Bognor Regis. Bog-nor-regis."
+
+- id: ukplacesbusters-018
+  enabled: true
+  title: Ukplacesbusters
+  topic: British town and village names with funny or unusual pronunciations
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Ukplacesbusters. All British place names. The sounds are doing the work here, not the spellings."
+  prize: "Email in. Winner gets a box set of a show that was cancelled after one series and a branded water bottle that leaks."
+  clues:
+    - number: 1
+      initials: L S
+      clue: "Someone's really leaning into something. They're committed to it, absolutely going on about it. And at the end of a long week there's a spa waiting."
+      answer: Leamington Spa
+      aliases:
+        - leamington spa
+        - royal leamington spa
+      reasoning: "leam + ing + ton (leaming, like leaning and going on about it, with a ton of it) + spa (a relaxing spa at the end) = Leamington Spa. Leam-ing-ton-spa."
+
+    - number: 2
+      initials: W
+      clue: "Woke up this morning. Properly awake now. And just kept going from there."
+      answer: Woking
+      aliases:
+        - woking
+      reasoning: "woke (past tense of wake, woke up) + ing (still going, the ongoing suffix) = Woking. Woke-ing."
+
+    - number: 3
+      initials: F
+      clue: "All the people round here got together and found a really lovely deep sound. A note. Appreciated it a lot."
+      answer: Folkestone
+      aliases:
+        - folkestone
+      reasoning: "folks (the local people, everyone round here) + tone (a lovely deep sound, a musical note) = Folkestone. Folks-tone."
+
+- id: ukplacesbusters-019
+  enabled: true
+  title: Ukplacesbusters
+  topic: British town and village names with funny or unusual pronunciations
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Ukplacesbusters. These are all genuine places in England. They just sound a bit funny when you break them down properly."
+  prize: "Email in. Winner gets a Tamagotchi with a nearly dead battery and a sticker book from a service station."
+  clues:
+    - number: 1
+      initials: H
+      clue: "Big animal. Four legs. And someone's gone and put a load of cured meat on its back. Why would you do that."
+      answer: Horsham
+      aliases:
+        - horsham
+      reasoning: "horse (large four-legged animal) + ham (cured meat) = Horsham. Horse-ham."
+
+    - number: 2
+      initials: M
+      clue: "There's a young woman who works in a big house. Cleaning and that. And she's chosen to stand on a large rock. Her decision."
+      answer: Maidstone
+      aliases:
+        - maidstone
+      reasoning: "maid (a young domestic worker in a big house) + stone (a large rock she's standing on) = Maidstone. Maid-stone."
+
+    - number: 3
+      initials: S
+      clue: "Bloke's name is Steve. He's been around a while. Got older. Not ancient, but a fair few years on him now."
+      answer: Stevenage
+      aliases:
+        - stevenage
+      reasoning: "Steve (a man named Steve) + an + age (he's reached an age, been around a fair while) = Stevenage. Steve-an-age."
+
+- id: ukplacesbusters-020
+  enabled: true
+  title: Ukplacesbusters
+  topic: British town and village names with funny or unusual pronunciations
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Last one. Ukplacesbusters. Three British places. The sounds tell you everything. Just say them out loud."
+  prize: "Email in. Winner gets a DVD of a film nobody remembers and a loyalty stamp card for a coffee shop that became a vape shop."
+  clues:
+    - number: 1
+      initials: S
+      clue: "Seven of them. All oak trees. Just the seven, standing there. That's it. That's the whole thing."
+      answer: Sevenoaks
+      aliases:
+        - sevenoaks
+      reasoning: "seven (the number seven) + oaks (oak trees, seven of them) = Sevenoaks. Seven-oaks."
+
+    - number: 2
+      initials: G
+      clue: "The whole place has been dipped in gold. Shining away. And there's a shallow bit of the river you have to wade through to get in."
+      answer: Guildford
+      aliases:
+        - guildford
+      reasoning: "gilded (dipped in gold, all shiny) sounds like guild + ford (a shallow river crossing you wade through) = Guildford. Guild-ford."
+
+    - number: 3
+      initials: T
+      clue: "A ton of stuff going across a bridge. Heavy load. That's your lot."
+      answer: Tonbridge
+      aliases:
+        - tonbridge
+      reasoning: "ton (a unit of weight, a heavy load) + bridge (a crossing, a structure over water) = Tonbridge. Ton-bridge."

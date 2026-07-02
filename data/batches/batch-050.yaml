@@ -1,0 +1,107 @@
+- id: cocktailbusters-001
+  enabled: true
+  title: Cocktailbusters
+  topic: classic cocktail names
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Right, Cocktailbusters. Three classic cocktails hiding in these phonetic clues. Say them out loud and you'll hear the answer."
+  prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
+  clues:
+    - number: 1
+      initials: M
+      clue: "There's a bloke called Mo, right, and he's absolutely roasting. Proper sweating. And then he just goes oh. That's it. Mo. Heat. Oh."
+      answer: Mojito
+      aliases:
+        - mojito
+      reasoning: "Mo (a bloke's name, short for Mohammed or Maurice) + heat (really hot, roasting) + oh (just the sound) = Mo-heat-oh = Mojito. Say it: mo-heat-o."
+
+    - number: 2
+      initials: C
+      clue: "Someone's clearing a floor with a bucket and they've got the thing attached to a stick - you know the thing - and it's a bit lit up, and there's a man. All happening at the same time."
+      answer: Cosmopolitan
+      aliases:
+        - cosmopolitan
+      reasoning: "cos (because, the word cos) + mop (the floor-cleaning implement on a stick) + o (just the sound) + lit (illuminated, glowing) + an (a man, or just the word an) = cos-mop-o-lit-an = Cosmopolitan."
+
+    - number: 3
+      initials: H W B
+      clue: "Right, there's a fella called Harvey and he's only gone and headbutted a partition. Straight into it. What's he done that for?"
+      answer: Harvey Wallbanger
+      aliases:
+        - harvey wallbanger
+      reasoning: "Harvey (a man's name) + wall (a partition, a dividing structure) + bang (to hit something hard, a headbutt) + er (the suffix, someone who does the action) = Harvey-Wall-bang-er = Harvey Wallbanger."
+
+- id: cocktailbusters-002
+  enabled: true
+  title: Cocktailbusters
+  topic: classic cocktail names
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Cocktailbusters two. Three more cocktails hiding in the sounds. Have a listen and see if you can work them out."
+  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that doesn't exist anymore."
+  clues:
+    - number: 1
+      initials: S S
+      clue: "There's a city-state at the bottom of Malaysia, and a bloke there has hurt his arm. Got it in a bandage. Going on about it."
+      answer: Singapore Sling
+      aliases:
+        - singapore sling
+      reasoning: "Singapore (the city-state at the tip of the Malay peninsula) + sling (a bandage support for an injured arm) = Singapore Sling. Say it: Singapore-Sling."
+
+    - number: 2
+      initials: T S
+      clue: "She's trying to do her fella in - proper plotting - but every morning the great ball of fire comes up over the horizon and ruins her plans. Every single day."
+      answer: Tequila Sunrise
+      aliases:
+        - tequila sunrise
+      reasoning: "te-kill-a (to kill her, sounds like tequila said fast: te-kill-a) + sunrise (the sun coming up over the horizon in the morning) = Tequila Sunrise. Say it out loud: te-kill-a sun-rise."
+
+    - number: 3
+      initials: N
+      clue: "Right, this woman's been given a bit of a put-down - someone's having a go at her - and then she rows somewhere, and then she lands on her knee. All in one afternoon."
+      answer: Negroni
+      aliases:
+        - negroni
+      reasoning: "neg (to neg someone, give a backhanded compliment or put-down) + row (to argue, or to row a boat) + knee (the joint in the middle of your leg) = neg-row-nee = Negroni."
+
+- id: cocktailbusters-003
+  enabled: true
+  title: Cocktailbusters
+  topic: classic cocktail names
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Three more in Cocktailbusters three. All classic cocktails. Phonetic clues as usual. Off you go."
+  prize: "Email in. Winner gets a Blockbuster loyalty card and a laminated photo from a works Christmas do."
+  clues:
+    - number: 1
+      initials: M
+      clue: "Someone's mum has got a large freshwater fish. A long bony one. And then she just starts eating. Can't stop."
+      answer: Margarita
+      aliases:
+        - margarita
+      reasoning: "ma (mum, your mother) + gar (a long bony freshwater fish, a gar) + eat (to consume food, eating) + a (just the word a) = ma-gar-eat-a = Margarita. Say it: ma-gar-eat-a."
+
+    - number: 2
+      initials: E M
+      clue: "Right, there's a very fast non-stop train - the express - and it's just pressed something. Left a mark. And then there's a very small bloke. Very tiny indeed."
+      answer: Espresso Martini
+      aliases:
+        - espresso martini
+      reasoning: "es-press (the express presses something, es-press-o sounds like espresso) + oh (the sound) + mar (the prefix) + teeny (very very small) = espresso-mar-teeny = Espresso Martini."
+
+    - number: 3
+      initials: A S
+      clue: "There's a large primate - a big one - and it's gone and rolled itself into a ball. Just lying there in a roll. And there's a fizzing sound as well."
+      answer: Aperol Spritz
+      aliases:
+        - aperol spritz
+      reasoning: "ape (a large primate, like a gorilla or chimp) + er (the sound) + ol (just the end sound) + spritz (a fizzing spray of liquid) = ape-er-ol-spritz = Aperol Spritz. Say it: ape-er-ol spritz."
