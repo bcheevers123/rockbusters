@@ -1,0 +1,108 @@
+- id: religionbusters-001
+  enabled: true
+  title: Religionbusters
+  topic: Religious festivals and figures
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - Global
+  intro: "Right, Religionbusters. All religions, all corners of the world. Phonetic clues - say them out loud or you've got no chance."
+  prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
+  clues:
+    - number: 1
+      initials: R
+      clue: "A male sheep's gone and done something. Just sort of... committed to it. Had a proper go. That's all."
+      answer: Ramadan
+      aliases:
+        - ramadan
+      reasoning: "ram (a male sheep) + a + dan (a name, sounds like 'done' with a slight accent) = Ramadan"
+    - number: 2
+      initials: D
+      clue: "There's a bloke everyone thinks is a bit of an idiot and he's gone and died. Bit sad really."
+      answer: Diwali
+      aliases:
+        - diwali
+        - deepavali
+      reasoning: "die (to die, passed on) + wally (a British term for an idiot) = Diwali"
+    - number: 3
+      initials: P
+      clue: "Someone's priced up a writing instrument. Put a label on it. Not cheap either."
+      answer: Pentecost
+      aliases:
+        - pentecost
+      reasoning: "pen (a writing instrument) + the + cost (the price of it) = Pentecost"
+
+- id: religionbusters-002
+  enabled: true
+  title: Religionbusters
+  topic: Religious festivals and figures
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - Global
+  intro: "Religionbusters two. Three more from world religions. Phonetic riddles, the answer's in the sounds somewhere."
+  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists."
+  clues:
+    - number: 1
+      initials: H
+      clue: "Right, a woman called Hannah's got herself a little vehicle. Not sure why she needs one but there it is."
+      answer: Hanukkah
+      aliases:
+        - hanukkah
+        - chanukah
+        - hannukah
+      reasoning: "Hannah (a woman's name) + car (a vehicle) - drop the r sound = Han-uh-kah = Hanukkah"
+    - number: 2
+      initials: Y K
+      clue: "Someone's having a yawn over a smoked fish. Bit rude. The fish hasn't done anything wrong."
+      answer: Yom Kippur
+      aliases:
+        - yom kippur
+      reasoning: "yom (sounds like 'yawn' said quickly) + kipper (a smoked fish) + sounds like 'ur' at the end = Yom Kippur"
+    - number: 3
+      initials: V
+      clue: "There's a V-shape and someone's put their bag on it. Bit of an odd place to leave a bag."
+      answer: Vesak
+      aliases:
+        - vesak
+        - wesak
+        - buddha day
+      reasoning: "vee (the letter V, a V-shape) + sack (a bag) = Vesak"
+
+- id: religionbusters-003
+  enabled: true
+  title: Religionbusters
+  topic: Religious festivals and figures
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - Global
+  intro: "Last of the Religionbusters. Three more world religion answers. Say the clues out loud or you'll be there all day."
+  prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
+  clues:
+    - number: 1
+      initials: B
+      clue: "Someone jumped out at a fella and he just sort of... stared back. Nothing. Like it was obvious."
+      answer: Buddha
+      aliases:
+        - buddha
+        - gautama buddha
+        - siddhartha gautama
+      reasoning: "boo (jumping out to scare someone) + duh (the sound you make when something is obvious) = Buddha"
+    - number: 2
+      initials: G N
+      clue: "Right, a wise teacher said no to something. Quite firmly. Had the knack of it as well."
+      answer: Guru Nanak
+      aliases:
+        - guru nanak
+        - nanak
+      reasoning: "guru (a wise teacher) + nah (saying no firmly) + nack (sounds like 'knack', a skill) = Guru Nanak"
+    - number: 3
+      initials: E A F
+      clue: "There's a bloke called Al and someone's been watching him. Following him about. And this Al, right, he's in quite good shape."
+      answer: Eid al-Fitr
+      aliases:
+        - eid al-fitr
+        - eid
+        - eid ul-fitr
+      reasoning: "eyed (watched, followed about) + al (the name Al) + fitter (in good shape, a fitness person) = Eid al-Fitr"

@@ -1,0 +1,229 @@
+- id: christmasbusters-001
+  title: Christmasbusters
+  intro: "It's Christmas. Karl's bought everyone the same present. He won't say what it is. Three clues, all Christmas-themed."
+  prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
+  difficulty: easy
+  clues:
+  - initials: M P
+    clue: "There's a mint — like the place they make coins — and it's gone all crumbly. Like a pie. A little crumbly pie."
+    answer: Mince Pie
+    aliases:
+    - mince pie
+    - mince pies
+    reasoning: "mince (mint's = sounds like mince) + pie = Mince Pie. Mint gone crumbly and piefied."
+  - initials: M T
+    clue: "This woman called Miss Ellie — she's got toes. Not unusual. But she's gone and lost her toes somewhere. They've just gone."
+    answer: Mistletoe
+    aliases:
+    - mistletoe
+    reasoning: "Miss + Ellie + toe = Mistletoe. Spoken aloud: Miss-ellie-toe."
+  - initials: F L
+    clue: "There's a fairy, right, and she's feeling a bit light-headed. A bit dizzy. She's not well."
+    answer: Fairy Light
+    aliases:
+    - fairy light
+    - fairy lights
+    reasoning: "fairy + light = Fairy Light. Fairy feeling light-headed."
+
+- id: christmasbusters-002
+  title: Christmasbusters
+  intro: "It's Christmas. Karl's bought everyone the same present. Three clues, all Christmas-themed."
+  prize: "Email in. Winner gets an AOL trial disc and a travel mug from a company that no longer exists."
+  difficulty: medium
+  clues:
+  - initials: C C
+    clue: "There's a Christmas thing and it goes bang. But before it goes bang, someone's had a crack at it. A good old crack."
+    answer: Christmas Cracker
+    aliases:
+    - christmas cracker
+    reasoning: "Christmas + cracker (crack + er). Crack at something = cracker."
+  - initials: S N
+    clue: "It's really quiet, yeah, but also there's a knight. A knight in armour. Very quiet knight. Not making a sound."
+    answer: Silent Night
+    aliases:
+    - silent night
+    reasoning: "silent + night (knight = night). Quiet knight = silent night."
+  - initials: J B
+    clue: "Someone called Jim — or Jingle, but let's say Jim — he's gone and bought some bells. Just bells. Loads of them."
+    answer: Jingle Bells
+    aliases:
+    - jingle bells
+    reasoning: "jingle (sounds like Jim'll/jingle) + bells. Jim buying bells = jingle bells."
+
+- id: christmasbusters-003
+  title: Christmasbusters
+  intro: "It's Christmas. Karl's bought everyone the same present. He says it's practical. Three clues, all Christmas-themed."
+  prize: "Email in. Winner gets a Woolworths gift token that definitely still works and a tube of Pringles."
+  difficulty: hard
+  clues:
+  - initials: E N
+    clue: "An egg has gone. It's nogged off. It's just not there anymore. Completely nogged."
+    answer: Eggnog
+    aliases:
+    - eggnog
+    reasoning: "egg + nog (nogged = went away, i.e. nog). Egg + nog = Eggnog."
+  - initials: T
+    clue: "This man called Tim, right, he's got himself all tangled up in something sparkly. Thin sparkly stuff. Wrapped right round him."
+    answer: Tinsel
+    aliases:
+    - tinsel
+    reasoning: "tin (Tim sounds like tin) + sel (sell/sel). Tinsel = tin + sel. Tim wrapped in tinsel."
+  - initials: A C
+    clue: "This fella named Advent, he's gone and added a calendar to his wall. Just put it up. Stuck it there. Every day there's a little door."
+    answer: Advent Calendar
+    aliases:
+    - advent calendar
+    reasoning: "advent + calendar. Advent (the fella) + calendar (on the wall). Advent Calendar."
+
+- id: halloweenbusters-001
+  title: Halloweenbusters
+  intro: "Halloween. Karl saw a ghost. He says it was a woman in a white coat. Probably a doctor. Three clues."
+  prize: "Email in. Winner gets a copy of Scary Movie on VHS and a novelty pen in the shape of a pumpkin."
+  difficulty: easy
+  clues:
+  - initials: F
+    clue: "There's a doctor called Frank, and he hasn't been well. He's been very stein-y. You know — rocky, uneven. Not right."
+    answer: Frankenstein
+    aliases:
+    - frankenstein
+    reasoning: "Frank + en + stein (stony/rocky). Frank being stein-y = Frankenstein."
+  - initials: W
+    clue: "There's a wolf, right, and he's gone a bit furry. Even more than usual. And he's howling at a big round moon. Bit much."
+    answer: Werewolf
+    aliases:
+    - werewolf
+    reasoning: "were (where/were) + wolf. Wolf being extra wolf-like = werewolf."
+  - initials: B C
+    clue: "There's a big black cat, and she's gone and brewed something. In a big pot. Stirring it. Looks terrible. Bit bubbly."
+    answer: Black Cat
+    aliases:
+    - black cat
+    reasoning: "black + cat. Cat that's black brewing things = black cat."
+
+- id: halloweenbusters-002
+  title: Halloweenbusters
+  intro: "Halloween. Karl saw a ghost. He says it knocked his bin over. Three clues, all spooky."
+  prize: "Email in. Winner gets an AOL trial disc and a glow-in-the-dark rubber spider."
+  difficulty: medium
+  clues:
+  - initials: C D
+    clue: "There's a fella called Count, yeah, and he's gone and dragged something. Dragged it along. All dramatic about it."
+    answer: Count Dracula
+    aliases:
+    - count dracula
+    - dracula
+    reasoning: "Count + Dracula (drag + u + la). Count dragging something = Count Dracula."
+  - initials: H H
+    clue: "Someone's haunted a house. Just gone in there and haunted it. And now the house is a bit rattly."
+    answer: Haunted House
+    aliases:
+    - haunted house
+    reasoning: "haunted + house. House that got haunted = Haunted House."
+  - initials: P C
+    clue: "There's a big orange vegetable and someone's had a good carve at it. Done a face on it. Bit threatening the face."
+    answer: Pumpkin Carving
+    aliases:
+    - pumpkin carving
+    reasoning: "pumpkin + carving. Orange thing carved up = Pumpkin Carving."
+
+- id: halloweenbusters-003
+  title: Halloweenbusters
+  intro: "Halloween. Karl says he's not scared of anything except those hands that come up out of the ground. Three clues."
+  prize: "Email in. Winner gets a DVD of The Sixth Sense and a free keyring from a petrol station forecourt."
+  difficulty: hard
+  clues:
+  - initials: O B
+    clue: "There's a board — a flat bit of wood — and someone's gone and said wee-jah on it. Just said it. Out loud. Very odd thing to say to a bit of wood."
+    answer: Ouija Board
+    aliases:
+    - ouija board
+    reasoning: "ouija (sounds like wee-jah) + board. Saying wee-jah to wood = Ouija Board."
+  - initials: N
+    clue: "There's a fella called Nos, and he's gone a bit ratty. Like a rat. Bit pointed in the face."
+    answer: Nosferatu
+    aliases:
+    - nosferatu
+    reasoning: "nos + fer + atu (ferret + two = feratu). Nos being ratty = Nosferatu."
+  - initials: C L
+    clue: "There's a coffin, right, and someone's left the lid on. Just left it. It's got a lid. Most things have got lids but not usually coffins."
+    answer: Coffin Lid
+    aliases:
+    - coffin lid
+    reasoning: "coffin + lid. Coffin with its lid on = Coffin Lid."
+
+- id: easterbusters-001
+  title: Easterbusters
+  intro: "Easter. Karl found an egg in a hedge. Probably a real one, but also three clues."
+  prize: "Email in. Winner gets a Cadbury's Easter egg and a keyring in the shape of a chick."
+  difficulty: easy
+  clues:
+  - initials: H C B
+    clue: "There's a bun, right, and it's got a cross on it. A hot cross on it. Warm and crossy."
+    answer: Hot Cross Bun
+    aliases:
+    - hot cross bun
+    - hot cross buns
+    reasoning: "hot + cross + bun. Warm bun with a cross = Hot Cross Bun."
+  - initials: G F
+    clue: "This fella's had a good Friday. A really good one. Best Friday he's had in ages. Which is a bit much to say about a Friday."
+    answer: Good Friday
+    aliases:
+    - good friday
+    reasoning: "good + Friday. Best Friday ever = Good Friday."
+  - initials: C B
+    clue: "There's a bunny, and someone's gone and covered it in chocolate. Top to bottom. All chocolatey. The bunny's not best pleased."
+    answer: Chocolate Bunny
+    aliases:
+    - chocolate bunny
+    reasoning: "chocolate + bunny. Bunny covered in chocolate = Chocolate Bunny."
+
+- id: easterbusters-002
+  title: Easterbusters
+  intro: "Easter. Karl found an egg in a hedge. He says it might be a dinosaur egg. Three clues, all Easter-themed."
+  prize: "Email in. Winner gets a copy of Chicken Run on DVD and a complimentary hotel shower gel."
+  difficulty: medium
+  clues:
+  - initials: E B
+    clue: "There's a bonnet — a big flowery hat — and it's got Easter written all over it. Someone's worn it out. In public."
+    answer: Easter Bonnet
+    aliases:
+    - easter bonnet
+    reasoning: "Easter + bonnet. Flowery hat worn at Easter = Easter Bonnet."
+  - initials: P R
+    clue: "There's a rabbit called Pete, right, and he's gone and done something. Just... Pete being rabbity. In a garden. Getting into things."
+    answer: Peter Rabbit
+    aliases:
+    - peter rabbit
+    reasoning: "Peter + rabbit. Pete being a rabbit in someone's garden = Peter Rabbit."
+  - initials: D
+    clue: "There's a big yellow flower, and it's gone and daffed all over everything. Just daffodilling about. Yellow everywhere."
+    answer: Daffodil
+    aliases:
+    - daffodil
+    - daffodils
+    reasoning: "daff + o + dil (daffodil). Yellow flower daffing about = Daffodil."
+
+- id: easterbusters-003
+  title: Easterbusters
+  intro: "Easter. Karl found an egg in a hedge. He says it was warm. He's keeping an eye on it. Three clues."
+  prize: "Email in. Winner gets a Cadbury Creme Egg selection box and a mug from a company that no longer exists."
+  difficulty: hard
+  clues:
+  - initials: S C
+    clue: "There's a cake called Simon — or Simnel, but let's say Simon — and he's been in the oven. He's done. Bit fruity inside."
+    answer: Simnel Cake
+    aliases:
+    - simnel cake
+    reasoning: "simnel (Simon-el) + cake. Simon-el cake from the oven = Simnel Cake."
+  - initials: P L
+    clue: "There's a lamb, right, and it's gone a bit paschal. Very religious. Not just any lamb. A paschal one. Whatever that means."
+    answer: Paschal Lamb
+    aliases:
+    - paschal lamb
+    reasoning: "paschal + lamb. Religious lamb doing Easter things = Paschal Lamb."
+  - initials: E I
+    clue: "There's a massive island in the sea, and someone's gone and written Easter on it. Just Easter. On the whole island."
+    answer: Easter Island
+    aliases:
+    - easter island
+    reasoning: "Easter + island. Island that got Easter written on it = Easter Island."

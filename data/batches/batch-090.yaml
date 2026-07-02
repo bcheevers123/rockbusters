@@ -1,0 +1,110 @@
+- id: presidentbusters-001
+  enabled: true
+  title: Presidentbusters
+  topic: US presidents
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - Global
+  intro: "Right, Presidentbusters. It's US presidents hidden in these phonetic clues. Say them out loud. The answer's in there somewhere."
+  prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
+  clues:
+    - number: 1
+      initials: B O
+      clue: "Right, there's a fella and his back is completely bare. No shirt on. And he's saying something. Just calling out. That's it."
+      answer: Barack Obama
+      aliases:
+        - barack obama
+        - obama
+      reasoning: "bare (no shirt, bare back) + ack (sound) = Barack, and oh (calling out) + bam (a sound) + a = Obama. Bare-ack Oh-bam-a = Barack Obama"
+    - number: 2
+      initials: R R
+      clue: "Some fella's come round again. Had a good rest and now he's back. Refreshed. Done it twice, mind."
+      answer: Ronald Reagan
+      aliases:
+        - ronald reagan
+        - reagan
+      reasoning: "ron (a name) + ald (sound) = Ronald, and ray (beam of light) + gan (sound) = Reagan. Ron-ald Ray-gan = Ronald Reagan"
+    - number: 3
+      initials: A L
+      clue: "A fella called Abe has gone and got himself a bit of a shrine. People are visiting it. It's quite big. Bit of a monument."
+      answer: Abraham Lincoln
+      aliases:
+        - abraham lincoln
+        - lincoln
+      reasoning: "Abra (sounds like 'a-bra') + ham (the meat) = Abraham, and link (a connection) + on (continuing) = Lincoln. Ay-bra-ham Link-on = Abraham Lincoln"
+
+- id: presidentbusters-002
+  enabled: true
+  title: Presidentbusters
+  topic: US presidents
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - Global
+  intro: "Presidentbusters two. Three more American presidents hiding in phonetic clues. Have a go. It's not as hard as running a country."
+  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists."
+  clues:
+    - number: 1
+      initials: T R
+      clue: "Right, there's a little hut at the end of your garden. It's gone and sorted out all the tubes and pipes in there. Bit of an overachiever."
+      answer: Theodore Roosevelt
+      aliases:
+        - theodore roosevelt
+        - roosevelt
+        - teddy roosevelt
+      reasoning: "thee (you, as in 'thee') + oh (an exclamation) + door (an entrance) = Theodore, and rose (the flower) + uh + velt (sounds like 'felt') = Roosevelt. Thee-oh-door Roze-uh-velt = Theodore Roosevelt"
+    - number: 2
+      initials: D E
+      clue: "Someone's had a bit of a wobble right in the middle of their workout. Light went out. Didn't finish the set."
+      answer: Dwight Eisenhower
+      aliases:
+        - dwight eisenhower
+        - eisenhower
+      reasoning: "dwight (sounds like 'dw-ight', the name) + eye (the organ you see with) + zen (peaceful, meditation) + how (a question) + er (hesitation) = Eisenhower. Dwight Eye-zen-how-er = Dwight Eisenhower"
+    - number: 3
+      initials: J C
+      clue: "That bloke from Nazareth's gone and got himself a little vehicle. Nothing fancy. Just rolling about."
+      answer: Jimmy Carter
+      aliases:
+        - jimmy carter
+        - carter
+      reasoning: "jimmy (a name, also a tool for prying things open) + cart (a small vehicle) + er = Carter. Jim-ee Cart-er = Jimmy Carter"
+
+- id: presidentbusters-003
+  enabled: true
+  title: Presidentbusters
+  topic: US presidents
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - Global
+  intro: "Last set of Presidentbusters. Three more leaders of the free world hidden in phonetic clues. Say them out loud, it all makes sense."
+  prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
+  clues:
+    - number: 1
+      initials: R N
+      clue: "Right, someone's been listening in on something. Had their ear pressed up against it. Very sneaky. Rich fella too."
+      answer: Richard Nixon
+      aliases:
+        - richard nixon
+        - nixon
+      reasoning: "rich (wealthy) + ard (sound) = Richard, and nix (to cancel/forbid) + on (continuing) = Nixon. Rich-ard Nix-on = Richard Nixon"
+    - number: 2
+      initials: W W
+      clue: "A fella's gone to a forest and he's absolutely certain about something. Won't hear otherwise. Confident in the woods."
+      answer: Woodrow Wilson
+      aliases:
+        - woodrow wilson
+        - wilson
+        - woodrow
+      reasoning: "wood (the forest, trees) + row (an argument, or a line) = Woodrow, and will (to be determined/certain) + son (a male child) = Wilson. Wood-row Will-son = Woodrow Wilson"
+    - number: 3
+      initials: F R
+      clue: "That thing they do at christenings - with the water and the name - and then someone's done a relay. Passed the baton on."
+      answer: Franklin Roosevelt
+      aliases:
+        - franklin roosevelt
+        - franklin d roosevelt
+        - fdr
+      reasoning: "frank (honest, or the name) + lin (sound) = Franklin, and rose (the flower) + uh + velt (sounds like 'felt') = Roosevelt. Frank-lin Roze-uh-velt = Franklin Roosevelt"

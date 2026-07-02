@@ -1,0 +1,105 @@
+- id: pastabusters-001
+  enabled: true
+  title: Pastabusters
+  topic: pasta names
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - Global
+  intro: "Right, Pastabusters. It's Rockbusters but all the answers are types of pasta. Say the clues out loud — the pasta name is hiding in the sounds somewhere."
+  prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
+  clues:
+    - number: 1
+      initials: T
+      clue: "A man called Tag has just been told off in a very long, drawn-out way. Someone's literally laid into him. And then a woman called Ellie turned up at the end. Don't know why."
+      answer: Tagliatelle
+      aliases:
+        - tagliatelle
+      reasoning: "tag (a label, or to tag someone) + lia (sounds like 'lear', or 'lia', a name) + tell (to tell someone off) + e (a sound at the end) = Tag-lia-tell-e = Tagliatelle"
+    - number: 2
+      initials: F
+      clue: "A bloke who's been away on a business trip has flown back wearing a bow tie. Seems overdressed for the airport. Very flappy about it."
+      answer: Farfalle
+      aliases:
+        - farfalle
+        - farfalle pasta
+        - bow tie pasta
+      reasoning: "far (far away, a distance) + fall (to fall, or autumn) + e (a sound) = Far-fall-e = Farfalle. Farfalle means butterflies in Italian, which look like bow ties."
+    - number: 3
+      initials: L
+      clue: "A man called Ling has only gone and spoken in a very long, flat, drawn-out way. Like he's reading from a very thin script. Edge to edge."
+      answer: Linguine
+      aliases:
+        - linguine
+        - linguini
+      reasoning: "lingu (sounds like 'lingua', a tongue, or speech) + een (a long drawn-out sound) + e = Lingu-een-e = Linguine. Linguine means little tongues in Italian."
+
+- id: pastabusters-002
+  enabled: true
+  title: Pastabusters
+  topic: pasta names
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - Global
+  intro: "Pastabusters two. More pasta hiding in phonetic clues. These are the harder ones so take your time. Say them out loud."
+  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists."
+  clues:
+    - number: 1
+      initials: R
+      clue: "A bloke called Rig has turned up to an Italian restaurant and demanded to know who's in charge. Very serious about it. Kept asking. Toni was the answer, apparently."
+      answer: Rigatoni
+      aliases:
+        - rigatoni
+      reasoning: "rig (to rig something, or the name Rig) + a (the article) + toni (sounds like 'Tony' or 'Toni', a name) = Rig-a-toni = Rigatoni"
+    - number: 2
+      initials: G
+      clue: "Someone in Italy has knocked on the door — very quietly, like they're not sure they should be there — and then sat down without being asked. Nobody's said anything. There's potato involved."
+      answer: Gnocchi
+      aliases:
+        - gnocchi
+      reasoning: "g (silent, like a quiet knock) + noc (sounds like 'knock', a tap on the door) + chi (sounds like 'key', or 'ki') = Gnocchi. The G is silent, so it sounds like 'nyok-ee'."
+    - number: 3
+      initials: P
+      clue: "A man with very large ears has been working in a field. He's done a good job and now someone's offering him a pen. As a reward. For the ears situation."
+      answer: Penne
+      aliases:
+        - penne
+        - penne pasta
+      reasoning: "pen (a writing pen, or a pen for animals) + ne (sounds like 'nay', or just the ending) = Pen-ne = Penne. Penne means quills in Italian."
+
+- id: pastabusters-003
+  enabled: true
+  title: Pastabusters
+  topic: pasta names
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - Global
+  intro: "Pastabusters three. Last of the pasta lot. Three more Italian shapes hiding in the phonetics. You're doing well."
+  prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
+  clues:
+    - number: 1
+      initials: O
+      clue: "Right. A small ear has turned up and it's been asked to do something in a hurry. The ear agreed. It's a very compliant ear, all things considered."
+      answer: Orecchiette
+      aliases:
+        - orecchiette
+      reasoning: "orec (sounds like 'oh-reck', as in a wreck, or 'aurec') + chiette (sounds like 'kyet', or 'key-et-ay') = O-rec-kyet-tay = Orecchiette. Orecchiette means little ears in Italian."
+    - number: 2
+      initials: C
+      clue: "A large shell has decided to go for a walk in southern Italy. Very slow progress. Keeps stopping to look at things. Got there eventually though."
+      answer: Conchiglie
+      aliases:
+        - conchiglie
+        - conchiglie pasta
+        - shell pasta
+      reasoning: "con (with, or the prefix) + chig (sounds like 'chig', a small creature) + lie (sounds like 'lee', or to lie down) = Con-chig-lee = Conchiglie. Conchiglie means shells in Italian."
+    - number: 3
+      initials: F
+      clue: "A fella called Fuse has only gone and twisted himself into a spiral trying to work out where he left his keys. Very confused. Going round and round about it."
+      answer: Fusilli
+      aliases:
+        - fusilli
+        - fusilli pasta
+      reasoning: "fuse (a fuse, or to fuse things together, or the name Fuse) + ill (not well, poorly) + i (a short sound at the end) = Fuse-ill-i = Fusilli. Fusilli means little spindles in Italian."

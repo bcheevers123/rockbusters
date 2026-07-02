@@ -1,0 +1,99 @@
+- id: dancebusters-001
+  enabled: true
+  title: Dancebusters
+  topic: Dance styles
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - Global
+  intro: "Right, Dancebusters. It's all dance styles in the answers. Say the clues out loud - the moves are hidden in the sounds."
+  prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
+  clues:
+    - number: 1
+      initials: F
+      clue: "That animal with the bushy tail - the one that gets into the bins - has gone for a little jog. Not a sprint. Just a relaxed trot."
+      answer: Foxtrot
+      aliases:
+        - foxtrot
+      reasoning: "fox (the bushy-tailed bin raider) + trot (a relaxed jog) = Foxtrot"
+    - number: 2
+      initials: Q
+      clue: "Right, someone's moving very fast - but it's one foot at a time. Not rushing exactly, just not hanging about. Each foot landing in turn."
+      answer: Quickstep
+      aliases:
+        - quickstep
+      reasoning: "quick (moving fast, not hanging about) + step (one foot at a time) = Quickstep"
+    - number: 3
+      initials: W
+      clue: "There's a fella called Walt, right, and he's wandering about the place. Not lost. Just sort of... drifting from room to room."
+      answer: Waltz
+      aliases:
+        - waltz
+      reasoning: "Walt's (a fella called Walt, possessive) sounds like 'Waltz' = Waltz"
+
+- id: dancebusters-002
+  enabled: true
+  title: Dancebusters
+  topic: Dance styles
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - Global
+  intro: "Dancebusters two. Three more dance styles hiding in these phonetic clues. Have a think."
+  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists."
+  clues:
+    - number: 1
+      initials: T
+      clue: "Someone's been sat in the sun for a bit too long and now they need to get moving. Got a bit of colour. Time to leave."
+      answer: Tango
+      aliases:
+        - tango
+      reasoning: "tan (going brown in the sun) + go (time to leave, get moving) = Tango"
+    - number: 2
+      initials: S
+      clue: "There's a bloke called Sam and he's doing an impression of a sheep. Not a great one. Very short. Just the one noise."
+      answer: Samba
+      aliases:
+        - samba
+      reasoning: "Sam (a bloke called Sam) + ba (the noise a sheep makes) = Samba"
+    - number: 3
+      initials: B
+      clue: "Right, someone at the cricket's doing the thing where they send the ball down the pitch. Nice and round, the arm. Doing it properly."
+      answer: Bolero
+      aliases:
+        - bolero
+      reasoning: "bowl (the action of bowling in cricket, round arm action) + er (someone who does it) + o = Bolero"
+
+- id: dancebusters-003
+  enabled: true
+  title: Dancebusters
+  topic: Dance styles
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - Global
+  intro: "Three more dance styles. Dancebusters three. All phonetic, all hidden in the clues."
+  prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
+  clues:
+    - number: 1
+      initials: F
+      clue: "There's a fire - proper burning thing - and it's gone and set up a limited company. Filed the paperwork and everything. Trading now."
+      answer: Flamenco
+      aliases:
+        - flamenco
+      reasoning: "flame (a fire, proper burning thing) + en + co (short for company, like Ltd Co) = Flamenco"
+    - number: 2
+      initials: C C
+      clue: "Right, you know when you're in a cafe and someone keeps asking for another brew. Said it twice now. Very insistent about the tea."
+      answer: Cha Cha
+      aliases:
+        - cha cha
+        - cha-cha
+      reasoning: "cha (informal word for tea, used in some parts) said twice = Cha Cha"
+    - number: 3
+      initials: B
+      clue: "Someone's decided to put a stop to their nan coming round. Official notice. She's not allowed over on Tuesdays anymore."
+      answer: Bhangra
+      aliases:
+        - bhangra
+      reasoning: "ban (putting a stop to something officially) + gran (informal word for grandmother/nan) = Bhangra"

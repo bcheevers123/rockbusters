@@ -1,0 +1,99 @@
+- id: languagebusters-001
+  enabled: true
+  title: Languagebusters
+  topic: languages spoken around the world
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - Global
+  intro: "Right, Languagebusters. All languages from around the world hidden in phonetic clues. Say them out loud — the answer's somewhere in the sounds. Nothing to do with spelling, that's your first mistake if you're writing things down."
+  prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
+  clues:
+    - number: 1
+      initials: M
+      clue: "A fella — just a regular man — has gone and dried himself out completely. Like a piece of fruit left in a greenhouse. He's a man, but he's also somehow a rind now. Don't ask."
+      answer: Mandarin
+      aliases:
+        - mandarin
+      reasoning: "man (a bloke, just a man) + duh (that pause you make when you're figuring something out) + rin (sounds like 'rind', as in the skin of a lemon) = Man-duh-rin = Mandarin"
+    - number: 2
+      initials: A
+      clue: "Someone's had a go at Africa but they've only managed half of it. They've been very insistent about bringing cans. Loads of cans. Nobody asked for the cans but here we are."
+      answer: Afrikaans
+      aliases:
+        - afrikaans
+      reasoning: "af (sounds like 'aff', half off, or the start of Africa) + ri (sounds like 'ree', a quick filler) + kaans (sounds like 'cans', tins of things) = Af-ri-kaans = Afrikaans"
+    - number: 3
+      initials: S
+      clue: "A bloke called Lee has gone and sworn about something. Not massively, just a light swear. He's a bit soggy as well, not sure why. Lee's had a difficult morning."
+      answer: Swahili
+      aliases:
+        - swahili
+      reasoning: "swa (sounds like 'swore', past tense of swear, but cut short) + hee (sounds like 'he') + li (sounds like 'Lee', a name, quite common) = Swa-hee-li = Swahili"
+
+- id: languagebusters-002
+  enabled: true
+  title: Languagebusters
+  topic: languages spoken around the world
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - Global
+  intro: "Languagebusters two. More languages. All phonetic, all in the sounds. Don't think about it too much — that's when it goes wrong. Just say the clue out loud and let your brain have a go."
+  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists."
+  clues:
+    - number: 1
+      initials: M
+      clue: "A woman called Molly has set her alarm. Very firm about it. Gets up every morning, no arguments. Alarm's gone off, Molly's up. That's the whole story, it's not a long one."
+      answer: Malayalam
+      aliases:
+        - malayalam
+      reasoning: "mal (sounds like 'Mal' or 'Molly' shortened) + a (just the letter a, a pause) + yalam (sounds like 'yalarm', as in 'her alarm') = Mal-a-yalam = Malayalam"
+    - number: 2
+      initials: Q
+      clue: "Someone's bought a small sailing boat and immediately a baby's started crying nearby. The two things are completely unrelated but they've happened at the same time. The boat's called a ketch. The baby's not pleased."
+      answer: Quechua
+      aliases:
+        - quechua
+        - quecha
+      reasoning: "ketch (a type of two-masted sailing boat) + wah (the sound a baby makes when it's not happy) = Ketch-wah = Quechua"
+    - number: 3
+      initials: C
+      clue: "A cat has got itself a plot of land. Not a big plot — just enough for the cat. The land's got a Welsh bloke's name on the deeds for some reason. The cat doesn't seem bothered."
+      answer: Catalan
+      aliases:
+        - catalan
+      reasoning: "cat (a furry animal, sits on things) + a (just a, the article) + lan (sounds like 'Lan', a Welsh-ish short name, or 'land' with the d gone quiet) = Cat-a-lan = Catalan"
+
+- id: languagebusters-003
+  enabled: true
+  title: Languagebusters
+  topic: languages spoken around the world
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - Global
+  intro: "Last set. Languagebusters three. Still all languages. Still all phonetic. You've made it this far so presumably you've got the hang of it. Say it out loud, that's all you need to do."
+  prize: "Email in. Winner gets a printed photo from a disposable camera, framed."
+  clues:
+    - number: 1
+      initials: T
+      clue: "A girl — a proper gal — has got herself a log. Big heavy log. Nobody knows where she got it from or what she plans to do with it. She's very committed to the log."
+      answer: Tagalog
+      aliases:
+        - tagalog
+      reasoning: "ta (sounds like 'the', sort of, or a filler) + gal (a girl, a woman, a female person) + og (sounds like 'og', as in a log without the l, or just 'og' like a caveman) = Ta-gal-og = Tagalog"
+    - number: 2
+      initials: E
+      clue: "Someone's gone spare and had a proper rant about something. Like a full-on, going-for-it rant. And at the end of it they've just gone oh. That's it. Rant done. Oh."
+      answer: Esperanto
+      aliases:
+        - esperanto
+      reasoning: "es (sounds like 'S' or 'spare' shortened) + per (sounds like 'per', as in per unit) + rant (a proper going-on about something) + oh (the noise you make at the end of a rant when you've run out of things to say) = Es-per-rant-oh = Esperanto"
+    - number: 3
+      initials: P
+      clue: "Someone's made a joke — not a great one, a real groaner — and then immediately given someone a jab. Like a vaccination jab, not a punch. The jab comes right after the pun. Very efficient."
+      answer: Punjabi
+      aliases:
+        - punjabi
+      reasoning: "pun (a wordplay joke, usually quite bad) + jab (a quick injection or a short sharp poke) + ee (sounds like 'ee', a short exclamation, northern) = Pun-jab-ee = Punjabi"

@@ -1,0 +1,101 @@
+- id: winebusters-001
+  enabled: true
+  title: Winebusters
+  topic: wine varieties from around the world
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - Global
+  intro: "Right, Winebusters. All grape varieties hiding in phonetic clues. Say them out loud — the sounds'll get you there. Nothing to do with spelling. It never is."
+  prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
+  clues:
+    - number: 1
+      initials: C
+      clue: "A woman called Sharon has gone to France and someone there has done her a favour. She's not entirely sure what the favour was but she's saying thank you anyway. There's a vineyard involved."
+      answer: Chardonnay
+      aliases:
+        - chardonnay
+      reasoning: "char (sounds like 'sha', a sound of gratitude in French-ish) + don (sounds like 'don', to give or a gift) + nay (sounds like 'nay', no, or a refusal, which is ironic given how much people drink it) = Char-don-nay = Chardonnay"
+    - number: 2
+      initials: S B
+      clue: "A bloke is looking over a fence at someone else's field. Very blank expression. Bit nosy. The field is white and he's just gone, yeah, that's that then."
+      answer: Sauvignon Blanc
+      aliases:
+        - sauvignon blanc
+        - sauvignon
+      reasoning: "sauvi (sounds like 'savvy', to understand) + gnon (sounds like 'nyon', a French-ish town sound) + blanc (sounds like 'blank', empty, nothing there) = Sauvi-gnon Blanc = Sauvignon Blanc"
+    - number: 3
+      initials: P G
+      clue: "A small bloke called Pete has gone grey. Just overnight. Bit of a shock. He's standing in Italy looking quite confused about the whole thing."
+      answer: Pinot Grigio
+      aliases:
+        - pinot grigio
+        - pinot gris
+      reasoning: "pin (sounds like 'pin', small, sharp) + ot (sounds like 'ot', short, clipped) + grig (sounds like 'grey', going grey) + io (sounds like 'ee-oh', a surprised noise at the end) = Pin-ot Grig-io = Pinot Grigio"
+
+- id: winebusters-002
+  enabled: true
+  title: Winebusters
+  topic: wine varieties from around the world
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - Global
+  intro: "Winebusters two. More grape varieties. All phonetic, say them out loud. Don't try and spell them — that's not the point. Ready? Go on then."
+  prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
+  clues:
+    - number: 1
+      initials: G
+      clue: "A woman in Germany has got the worries. Proper worries. And she's been wearing a hat with flowers on it to deal with the situation. She's a trainer, of sorts. It's a lot going on."
+      answer: Gewurztraminer
+      aliases:
+        - gewurztraminer
+        - gewürztraminer
+      reasoning: "ge (sounds like 'geh', a German noise of mild concern) + wurz (sounds like 'wurts', worries or worsted) + tram (sounds like 'tram', a vehicle, or traminer, a trainer on a tram) + iner (sounds like 'iner', a trainer suffix) = Ge-wurz-tram-iner = Gewurztraminer"
+    - number: 2
+      initials: T
+      clue: "A little fella has gone to Spain and tripped over something. Just gone right over. He's a bit embarrassed. He's been lying there for a while and nobody's helped him up."
+      answer: Tempranillo
+      aliases:
+        - tempranillo
+      reasoning: "temp (sounds like 'temp', temporary, not permanent, just passing through) + ran (sounds like 'ran', he ran and fell) + illo (sounds like 'illo', a Spanish diminutive, little) = Temp-ran-illo = Tempranillo"
+    - number: 3
+      initials: N
+      clue: "Someone in northern Italy has seen a cloud and gone, no, I'm not having that. Very foggy up there. They've named something after the weather because they ran out of other ideas."
+      answer: Nebbiolo
+      aliases:
+        - nebbiolo
+      reasoning: "nebb (sounds like 'neb', a beak or a nosy snout) + iolo (sounds like 'ee-oh-lo', a little noise at the end, or 'nebbia' meaning fog in Italian) = Nebb-iolo = Nebbiolo"
+
+- id: winebusters-003
+  enabled: true
+  title: Winebusters
+  topic: wine varieties from around the world
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - Global
+  intro: "Last lot. Winebusters three. All grape varieties again. The sounds are what matter, not the letters. Give each one a go out loud before you give up."
+  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists."
+  clues:
+    - number: 1
+      initials: V
+      clue: "A bloke in the south of France has spotted something from a distance and gone, oi, there's a knee over there. He's pointing at it. Nobody else can see a knee. He seems very sure about it."
+      answer: Viognier
+      aliases:
+        - viognier
+      reasoning: "vio (sounds like 'vee-oh', a sighting noise) + gn (sounds like 'ny', the French nasal sound) + ier (sounds like 'ee-ay', or just 'knee-ay') = Vio-gnier = Viognier"
+    - number: 2
+      initials: S
+      clue: "A bloke called Gio has had a bit of blood. Nothing serious. He's in Tuscany, very calm about the whole thing. Someone's written it down and named a grape after the incident."
+      answer: Sangiovese
+      aliases:
+        - sangiovese
+      reasoning: "san (sounds like 'san', holy or blood of) + gio (sounds like 'jo', a name, or Gio, short for Giovanni) + vese (sounds like 'veeze', or 'veh-zeh', ending with an Italian flourish) = San-gio-vese = Sangiovese"
+    - number: 3
+      initials: A
+      clue: "A woman in southern Italy has had a proper struggle. Really been through it. She's come out the other side and she's standing there going, well, that was horrible. She looks like she needs a sit down."
+      answer: Aglianico
+      aliases:
+        - aglianico
+      reasoning: "agli (sounds like 'al-ye', garlic in Italian, or just a suffering noise) + an (sounds like 'an', the article) + ico (sounds like 'ee-ko', a small Italian suffix indicating something regional and intense) = Agli-an-ico = Aglianico"

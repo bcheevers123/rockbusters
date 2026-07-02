@@ -1,0 +1,98 @@
+- id: planetbusters-001
+  enabled: true
+  title: Planetbusters
+  topic: Planets, moons, constellations
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - Global
+  intro: "Right, Planetbusters. It's all space stuff - planets, moons, constellations. The answer's hiding in the sounds, not the spelling. Say them out loud."
+  prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
+  clues:
+    - number: 1
+      initials: M
+      clue: "That horse has been to the doctor and she's gone and sorted him right out. All fixed up now."
+      answer: Mercury
+      aliases:
+        - mercury
+      reasoning: "mare (a horse) + cure (fix at the doctor's) + he = mer-cure-he = Mercury"
+    - number: 2
+      initials: O
+      clue: "When she's being difficult about who should carry the shopping, I just end up taking it myself. Every time."
+      answer: Orion
+      aliases:
+        - orion
+      reasoning: "or (a choice) + I (me) + on (carrying on, taking it on) = or-I-on = Orion"
+    - number: 3
+      initials: T
+      clue: "That fella's gone and knotted his beige one. Just sat there, done it up all neat. No reason."
+      answer: Titan
+      aliases:
+        - titan
+      reasoning: "tie (to knot something) + tan (a beige/brownish colour) = tie-tan = Titan"
+
+- id: planetbusters-002
+  enabled: true
+  title: Planetbusters
+  topic: Planets, moons, constellations
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - Global
+  intro: "Planetbusters two. Three more space answers hidden in these phonetic clues. Have a proper think."
+  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists."
+  clues:
+    - number: 1
+      initials: S
+      clue: "Right, that vase you keep a dead person's ashes in - it's just been sat there doing nothing all afternoon. Not moved."
+      answer: Saturn
+      aliases:
+        - saturn
+      reasoning: "sat (past tense of sit, just been sitting there) + urn (the vase for ashes) = sat-urn = Saturn"
+    - number: 2
+      initials: A
+      clue: "There's a gran who's been in a bit of drama. Not a full play, just a bit of a scene. She handled it, mind."
+      answer: Andromeda
+      aliases:
+        - andromeda
+      reasoning: "an (a, one) + drama (a scene, a bit of theatre) + da (gran, nana) = an-drama-da = Andromeda"
+    - number: 3
+      initials: G
+      clue: "That sport where they go at it with the curved sticks - the one on ice - well, he decided to have a go at it. Just got on with it."
+      answer: Ganymede
+      aliases:
+        - ganymede
+      reasoning: "game (a sport) + he'd (he had decided to) = game-he'd = Ganymede"
+
+- id: planetbusters-003
+  enabled: true
+  title: Planetbusters
+  topic: Planets, moons, constellations
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - Global
+  intro: "Last three. Planetbusters three. Still all space answers - planets, moons, star patterns. The sounds are what matter here."
+  prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
+  clues:
+    - number: 1
+      initials: N
+      clue: "That bit of thread that's all worn out and gone a bit loose - the melody coming off it isn't great either. Bit frayed around the edges."
+      answer: Neptune
+      aliases:
+        - neptune
+      reasoning: "nep (a fibre knot in thread, something worn and frayed) + tune (a melody) = nep-tune = Neptune"
+    - number: 2
+      initials: C
+      clue: "Right, that fella in the library - the one who stamps the books and that - he's had a bit of a look and come back with a result. Found what he was after."
+      answer: Cassiopeia
+      aliases:
+        - cassiopeia
+      reasoning: "cas (a librarian-type, like a cataloguer) + see (to look) + oh (a result, a reaction) + pier (a structure, sounds like 'pier') + a = cas-see-oh-peer-a = Cassiopeia"
+    - number: 3
+      initials: C
+      clue: "Someone's ringing through and it turns out it's a foot that's answering. Bit of a surprise, that."
+      answer: Callisto
+      aliases:
+        - callisto
+      reasoning: "call (a phone ring) + is (it is) + toe (a foot digit) = call-is-toe = Callisto"

@@ -1,0 +1,99 @@
+- id: biologybusters-001
+  enabled: true
+  title: Biologybusters
+  topic: biology terms
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - Global
+  intro: "Right, Biologybusters. It's all biology — the sort of thing you'd have had to memorise in school and then immediately forgot. Say the clues out loud. The answer's somewhere in the sounds."
+  prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
+  clues:
+    - number: 1
+      initials: M
+      clue: "My toe is in a state. It's got a condition — something wrong with it — and it's been going on for a while. My toe. Con-dry-a."
+      answer: Mitochondria
+      aliases:
+        - mitochondria
+      reasoning: "my (belonging to me) + toe (the digit on your foot) + con (a swindle, or a prefix meaning with) + dry (not wet) + a (the article) = My-toe-con-dry-a = Mitochondria"
+    - number: 2
+      initials: C
+      clue: "A fella called Chris has gone to a place in Rome where they vote. He's in there now. Voting away. Very civic-minded."
+      answer: Chromosome
+      aliases:
+        - chromosome
+      reasoning: "chro (sounds like 'crow', a black bird, or Chris-oh) + mo (sounds like 'mo', a moment) + some (sounds like 'some', a quantity, or Rome backwards-ish) = Chro-mo-some = Chromosome. Or: Crow-mo-some — a crow taking a moment in Rome."
+    - number: 3
+      initials: A
+      clue: "A fella called Adren has lined up at the starting blocks. The gun goes off. He's gone. He's absolutely legged it. Very fast man."
+      answer: Adrenaline
+      aliases:
+        - adrenaline
+        - adrenalin
+      reasoning: "adren (sounds like 'adren', the name, or a-dren) + a (the article) + line (a line, like a starting line) = Adren-a-line = Adrenaline"
+
+- id: biologybusters-002
+  enabled: true
+  title: Biologybusters
+  topic: biology terms
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - Global
+  intro: "Biologybusters two. More body parts and biological whatnots hidden in phonetic clues. Say them out loud or you'll get nowhere."
+  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists."
+  clues:
+    - number: 1
+      initials: P
+      clue: "A fella called Pan has gone and made a meal out of something but it's turned into a right old drama. Everyone's a bit tense. Pan. Creas. Not a word you hear much."
+      answer: Pancreas
+      aliases:
+        - pancreas
+      reasoning: "pan (a cooking pan, or the name Pan) + cre (sounds like 'kree', or 'cree', a rushing sound) + as (the word 'as') = Pan-cre-as = Pancreas"
+    - number: 2
+      initials: C
+      clue: "A part of your brain — a little one at the back — sounds like it could be a small Italian biscuit. Sort of a cerebell-type situation. Hard to spell. Easy to damage."
+      answer: Cerebellum
+      aliases:
+        - cerebellum
+      reasoning: "cere (sounds like 'seer', someone who sees, or 'sara') + bell (a bell, the ringing thing) + um (the hesitation sound) = Cere-bell-um = Cerebellum"
+    - number: 3
+      initials: H
+      clue: "A hippo has gone to a university campus. Very keen. Very large. Enrolled in something. The campus is called Campus. Hippo. Campus."
+      answer: Hippocampus
+      aliases:
+        - hippocampus
+      reasoning: "hippo (a large semi-aquatic mammal) + campus (a university grounds) = Hippo-campus = Hippocampus"
+
+- id: biologybusters-003
+  enabled: true
+  title: Biologybusters
+  topic: biology terms
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - Global
+  intro: "Three in. Biologybusters three. All biology. All hidden in the phonetics. Last one of this batch so concentrate."
+  prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
+  clues:
+    - number: 1
+      initials: S
+      clue: "A fella called Sear has gone to a town called Tone-in. Very small place. Not on many maps. He seems happy there. Something to do with mood."
+      answer: Serotonin
+      aliases:
+        - serotonin
+      reasoning: "sero (sounds like 'seer-oh', or zero with an S) + tone (a sound, or a musical note) + in (inside, within) = Sero-tone-in = Serotonin"
+    - number: 2
+      initials: T
+      clue: "A man called Tess has got a stone — a proper big one — and he's carrying it around. Tess. Tos. Ter. One. Bit of a mouthful."
+      answer: Testosterone
+      aliases:
+        - testosterone
+      reasoning: "test (sounds like 'tess-t', or a test, an exam) + os (sounds like 'oz', a small amount) + ter (sounds like 'ter', a hesitation) + one (the number one) = Test-os-ter-one = Testosterone"
+    - number: 3
+      initials: P
+      clue: "A photo has been taken by someone called Syn — unusual name — and it's come out all green. Syn. Thesis. Something about light and plants."
+      answer: Photosynthesis
+      aliases:
+        - photosynthesis
+      reasoning: "photo (a photograph, light) + syn (sounds like 'sin', or the name Syn) + thesis (a long piece of academic writing) = Photo-syn-thesis = Photosynthesis"

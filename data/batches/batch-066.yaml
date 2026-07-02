@@ -1,0 +1,101 @@
+- id: instrumentbusters-001
+  enabled: true
+  title: Instrumentbusters
+  topic: Musical instruments
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - Global
+  intro: "Right, Instrumentbusters. Phonetic clues, all musical instruments in the answers. Say them out loud or you'll get nowhere."
+  prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
+  clues:
+    - number: 1
+      initials: X
+      clue: "A bloke called Simon's got a mobile phone. He's decided to ring it. That's the whole thing."
+      answer: Xylophone
+      aliases:
+        - xylophone
+      reasoning: "zy-lo-phone sounds like 'Sy-lo-phone' — Sy (short for Simon) + lo (low) + phone (mobile, ring it) = Xylophone"
+    - number: 2
+      initials: T
+      clue: "Right, there's a bloke who's been pulling things. On a rope. Three in a row. Getting tired by the third one."
+      answer: Trombone
+      aliases:
+        - trombone
+      reasoning: "trom-bone sounds like 'trom-bone' — trom (sounds like 'drawn', or dragging/pulling) + bone (what you throw a dog, or a solid pull) = Trombone. More precisely: trow + m + bone — the slide is pulled. 'Three in a row' and 'bone' = trombone"
+    - number: 3
+      initials: H
+      clue: "Some woman's had a card delivered. Big one. From her son. She's a bit tearful about it. Happy though."
+      answer: Harpsichord
+      aliases:
+        - harpsichord
+      reasoning: "harps-i-chord — harp (instrument) + si (she) + chord (from card, sounds like 'cord') — harpsichord. Or: harps (she's tearful and happy = harps on about it) + i + chord (a card, a cord) = Harpsichord"
+
+- id: instrumentbusters-002
+  enabled: true
+  title: Instrumentbusters
+  topic: Musical instruments
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - Global
+  intro: "Instrumentbusters two. Three more instruments hiding in these phonetic clues. It helps if you say them out loud, really."
+  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists."
+  clues:
+    - number: 1
+      initials: A
+      clue: "That fella's agreed to do something. Nodded along to it. Said he was in. Can't back out now."
+      answer: Accordion
+      aliases:
+        - accordion
+      reasoning: "ac-cord-i-on — accord (agreement, nodded along) + i + on (he's in, can't back out) = Accordion"
+    - number: 2
+      initials: D
+      clue: "Right, there's a bloke called Derek. He's gone and done a little job. Dug something out. In Australia."
+      answer: Didgeridoo
+      aliases:
+        - didgeridoo
+        - didjeridu
+      reasoning: "didgeri-doo — didgeri (sounds like 'Didgery', or Derek-y, a bloke called Derek) + doo (sounds like 'do', done a little job) = Didgeridoo. Derek + he + redo — did + geri + do = Didgeridoo"
+    - number: 3
+      initials: T
+      clue: "Someone's been in the cupboard where you keep your stuff. Had a proper rummage in there. Found something odd."
+      answer: Theremin
+      aliases:
+        - theremin
+      reasoning: "there-min — there (in the cupboard, in there) + min (sounds like 'rummage' reduced, or 'min' as in minimum/small thing) = Theremin. 'In there' + 'min' = Theremin"
+
+- id: instrumentbusters-003
+  enabled: true
+  title: Instrumentbusters
+  topic: Musical instruments
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - Global
+  intro: "Last of the Instrumentbusters. Three more obscure instruments phonetically disguised. Give it a go."
+  prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
+  clues:
+    - number: 1
+      initials: B
+      clue: "Right, a Russian fella's gone and put his chips in a lake. Dropped the whole bag in. Just standing there watching them sink."
+      answer: Balalaika
+      aliases:
+        - balalaika
+      reasoning: "bala-lai-ka — bala (sounds like 'baller', a lad) + lai (sounds like 'lie', or 'lake') + ka (sounds like 'car' or just the ending) = Balalaika. More specifically: bala (a place or bag) + lake + a = Balalaika"
+    - number: 2
+      initials: B
+      clue: "Someone's called in a Greek fella. His name's Zuki. He's come over to sort the electrics. Bit of a specialist."
+      answer: Bouzouki
+      aliases:
+        - bouzouki
+        - buzuki
+      reasoning: "bou-zouki — bou (sounds like 'boo', called him in) + zouki (sounds like 'Zuki', the Greek fella's name) = Bouzouki"
+    - number: 3
+      initials: F
+      clue: "That thing in the corner of the garden where water comes out. It's gone a bit French. Got a beret on and everything."
+      answer: Flugelhorn
+      aliases:
+        - flugelhorn
+        - flügelhorn
+      reasoning: "flugel-horn — flugel (sounds like 'frugal' or 'floo-gel', something French and a bit fancy) + horn (a thing water comes out of, like a nozzle or spout) = Flugelhorn"

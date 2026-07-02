@@ -1,0 +1,254 @@
+[
+  {
+    "id": "christmasbusters-001",
+    "enabled": true,
+    "title": "Christmasbusters",
+    "topic": "christmasbusters",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [],
+    "intro": "It's Christmas. Karl's bought everyone the same present. He won't say what it is. Three clues, all Christmas-themed.",
+    "prize": "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "M P",
+        "clue": "There's a mint — like the place they make coins — and it's gone all crumbly. Like a pie. A little crumbly pie."
+      },
+      {
+        "number": 2,
+        "initials": "M T",
+        "clue": "This woman called Miss Ellie — she's got toes. Not unusual. But she's gone and lost her toes somewhere. They've just gone."
+      },
+      {
+        "number": 3,
+        "initials": "F L",
+        "clue": "There's a fairy, right, and she's feeling a bit light-headed. A bit dizzy. She's not well."
+      }
+    ]
+  },
+  {
+    "id": "christmasbusters-002",
+    "enabled": true,
+    "title": "Christmasbusters",
+    "topic": "christmasbusters",
+    "difficulty": "medium",
+    "office_safe": true,
+    "region_relevance": [],
+    "intro": "It's Christmas. Karl's bought everyone the same present. Three clues, all Christmas-themed.",
+    "prize": "Email in. Winner gets an AOL trial disc and a travel mug from a company that no longer exists.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "C C",
+        "clue": "There's a Christmas thing and it goes bang. But before it goes bang, someone's had a crack at it. A good old crack."
+      },
+      {
+        "number": 2,
+        "initials": "S N",
+        "clue": "It's really quiet, yeah, but also there's a knight. A knight in armour. Very quiet knight. Not making a sound."
+      },
+      {
+        "number": 3,
+        "initials": "J B",
+        "clue": "Someone called Jim — or Jingle, but let's say Jim — he's gone and bought some bells. Just bells. Loads of them."
+      }
+    ]
+  },
+  {
+    "id": "christmasbusters-003",
+    "enabled": true,
+    "title": "Christmasbusters",
+    "topic": "christmasbusters",
+    "difficulty": "hard",
+    "office_safe": true,
+    "region_relevance": [],
+    "intro": "It's Christmas. Karl's bought everyone the same present. He says it's practical. Three clues, all Christmas-themed.",
+    "prize": "Email in. Winner gets a Woolworths gift token that definitely still works and a tube of Pringles.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "E N",
+        "clue": "An egg has gone. It's nogged off. It's just not there anymore. Completely nogged."
+      },
+      {
+        "number": 2,
+        "initials": "T",
+        "clue": "This man called Tim, right, he's got himself all tangled up in something sparkly. Thin sparkly stuff. Wrapped right round him."
+      },
+      {
+        "number": 3,
+        "initials": "A C",
+        "clue": "This fella named Advent, he's gone and added a calendar to his wall. Just put it up. Stuck it there. Every day there's a little door."
+      }
+    ]
+  },
+  {
+    "id": "halloweenbusters-001",
+    "enabled": true,
+    "title": "Halloweenbusters",
+    "topic": "halloweenbusters",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [],
+    "intro": "Halloween. Karl saw a ghost. He says it was a woman in a white coat. Probably a doctor. Three clues.",
+    "prize": "Email in. Winner gets a copy of Scary Movie on VHS and a novelty pen in the shape of a pumpkin.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "F",
+        "clue": "There's a doctor called Frank, and he hasn't been well. He's been very stein-y. You know — rocky, uneven. Not right."
+      },
+      {
+        "number": 2,
+        "initials": "W",
+        "clue": "There's a wolf, right, and he's gone a bit furry. Even more than usual. And he's howling at a big round moon. Bit much."
+      },
+      {
+        "number": 3,
+        "initials": "B C",
+        "clue": "There's a big black cat, and she's gone and brewed something. In a big pot. Stirring it. Looks terrible. Bit bubbly."
+      }
+    ]
+  },
+  {
+    "id": "halloweenbusters-002",
+    "enabled": true,
+    "title": "Halloweenbusters",
+    "topic": "halloweenbusters",
+    "difficulty": "medium",
+    "office_safe": true,
+    "region_relevance": [],
+    "intro": "Halloween. Karl saw a ghost. He says it knocked his bin over. Three clues, all spooky.",
+    "prize": "Email in. Winner gets an AOL trial disc and a glow-in-the-dark rubber spider.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "C D",
+        "clue": "There's a fella called Count, yeah, and he's gone and dragged something. Dragged it along. All dramatic about it."
+      },
+      {
+        "number": 2,
+        "initials": "H H",
+        "clue": "Someone's haunted a house. Just gone in there and haunted it. And now the house is a bit rattly."
+      },
+      {
+        "number": 3,
+        "initials": "P C",
+        "clue": "There's a big orange vegetable and someone's had a good carve at it. Done a face on it. Bit threatening the face."
+      }
+    ]
+  },
+  {
+    "id": "halloweenbusters-003",
+    "enabled": true,
+    "title": "Halloweenbusters",
+    "topic": "halloweenbusters",
+    "difficulty": "hard",
+    "office_safe": true,
+    "region_relevance": [],
+    "intro": "Halloween. Karl says he's not scared of anything except those hands that come up out of the ground. Three clues.",
+    "prize": "Email in. Winner gets a DVD of The Sixth Sense and a free keyring from a petrol station forecourt.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "O B",
+        "clue": "There's a board — a flat bit of wood — and someone's gone and said wee-jah on it. Just said it. Out loud. Very odd thing to say to a bit of wood."
+      },
+      {
+        "number": 2,
+        "initials": "N",
+        "clue": "There's a fella called Nos, and he's gone a bit ratty. Like a rat. Bit pointed in the face."
+      },
+      {
+        "number": 3,
+        "initials": "C L",
+        "clue": "There's a coffin, right, and someone's left the lid on. Just left it. It's got a lid. Most things have got lids but not usually coffins."
+      }
+    ]
+  },
+  {
+    "id": "easterbusters-001",
+    "enabled": true,
+    "title": "Easterbusters",
+    "topic": "easterbusters",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [],
+    "intro": "Easter. Karl found an egg in a hedge. Probably a real one, but also three clues.",
+    "prize": "Email in. Winner gets a Cadbury's Easter egg and a keyring in the shape of a chick.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "H C B",
+        "clue": "There's a bun, right, and it's got a cross on it. A hot cross on it. Warm and crossy."
+      },
+      {
+        "number": 2,
+        "initials": "G F",
+        "clue": "This fella's had a good Friday. A really good one. Best Friday he's had in ages. Which is a bit much to say about a Friday."
+      },
+      {
+        "number": 3,
+        "initials": "C B",
+        "clue": "There's a bunny, and someone's gone and covered it in chocolate. Top to bottom. All chocolatey. The bunny's not best pleased."
+      }
+    ]
+  },
+  {
+    "id": "easterbusters-002",
+    "enabled": true,
+    "title": "Easterbusters",
+    "topic": "easterbusters",
+    "difficulty": "medium",
+    "office_safe": true,
+    "region_relevance": [],
+    "intro": "Easter. Karl found an egg in a hedge. He says it might be a dinosaur egg. Three clues, all Easter-themed.",
+    "prize": "Email in. Winner gets a copy of Chicken Run on DVD and a complimentary hotel shower gel.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "E B",
+        "clue": "There's a bonnet — a big flowery hat — and it's got Easter written all over it. Someone's worn it out. In public."
+      },
+      {
+        "number": 2,
+        "initials": "P R",
+        "clue": "There's a rabbit called Pete, right, and he's gone and done something. Just... Pete being rabbity. In a garden. Getting into things."
+      },
+      {
+        "number": 3,
+        "initials": "D",
+        "clue": "There's a big yellow flower, and it's gone and daffed all over everything. Just daffodilling about. Yellow everywhere."
+      }
+    ]
+  },
+  {
+    "id": "easterbusters-003",
+    "enabled": true,
+    "title": "Easterbusters",
+    "topic": "easterbusters",
+    "difficulty": "hard",
+    "office_safe": true,
+    "region_relevance": [],
+    "intro": "Easter. Karl found an egg in a hedge. He says it was warm. He's keeping an eye on it. Three clues.",
+    "prize": "Email in. Winner gets a Cadbury Creme Egg selection box and a mug from a company that no longer exists.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "S C",
+        "clue": "There's a cake called Simon — or Simnel, but let's say Simon — and he's been in the oven. He's done. Bit fruity inside."
+      },
+      {
+        "number": 2,
+        "initials": "P L",
+        "clue": "There's a lamb, right, and it's gone a bit paschal. Very religious. Not just any lamb. A paschal one. Whatever that means."
+      },
+      {
+        "number": 3,
+        "initials": "E I",
+        "clue": "There's a massive island in the sea, and someone's gone and written Easter on it. Just Easter. On the whole island."
+      }
+    ]
+  }
+]

@@ -1,0 +1,98 @@
+- id: gembusters-001
+  enabled: true
+  title: Gembusters
+  topic: gemstones
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - Global
+  intro: "Right, Gembusters. All gemstones hiding in phonetic clues. Say them out loud — it's the sounds you're after, not the spelling. The spelling on some of these is mental anyway."
+  prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
+  clues:
+    - number: 1
+      initials: A
+      clue: "A bloke called Matt has gone and done something to the west side of something. Quite aggressive about it. He's done it in the middle of a historical drama and no one seems bothered."
+      answer: Amethyst
+      aliases:
+        - amethyst
+      reasoning: "am (I am, just existing) + eth (sounds like 'eth', an old letter, or a name) + ist (sounds like 'ist', as in you're doing something) = Am-eth-ist = Amethyst. Say it: am-eth-ist."
+    - number: 2
+      initials: T
+      clue: "Someone has bought a turban and decided it needs a bit of a wash. They've given it a proper rinse. It's come out a bit greenish. Nobody's surprised."
+      answer: Turquoise
+      aliases:
+        - turquoise
+      reasoning: "turk (sounds like 'Turk', someone from Turkey) + waz (sounds like 'was', past tense) = Turk-waz = Turquoise. Say it aloud: tur-kwoyz."
+    - number: 3
+      initials: C
+      clue: "A bloke called Carl has found a lion who's in a bit of a state. The lion is making a noise like it needs something. Carl's keeping his distance. Wisely."
+      answer: Carnelian
+      aliases:
+        - carnelian
+      reasoning: "car (a vehicle, driving about) + neel (sounds like 'Neil', a name, or to kneel) + ian (a name, very common, very Ian) = Car-neel-ian = Carnelian. Say it: car-neel-ee-un."
+
+- id: gembusters-002
+  enabled: true
+  title: Gembusters
+  topic: gemstones
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - Global
+  intro: "Gembusters two. More precious stones, all hiding in the sounds of the clues. Say them out loud, don't read them silently. That's where people go wrong."
+  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists."
+  clues:
+    - number: 1
+      initials: A
+      clue: "A marine has come up from the sea and there's been some argument about whether the water was actually a marine thing or just a general water thing. The marine seems annoyed."
+      answer: Aquamarine
+      aliases:
+        - aquamarine
+      reasoning: "aqua (water, like the colour blue-green) + marine (from the sea, a soldier of the ocean) = Aqua-marine = Aquamarine. Straightforward one, this."
+    - number: 2
+      initials: P
+      clue: "Pete has had a dot. Just the one dot. Stuck it on something. He's quite pleased with it. Small, round, very green. Pete's done his bit."
+      answer: Peridot
+      aliases:
+        - peridot
+      reasoning: "peri (sounds like 'Perry', a name, or peri as in around) + dot (a small round mark, very simple) = Peri-dot = Peridot. Say it: peh-ree-dot."
+    - number: 3
+      initials: T
+      clue: "There's a tan being done in a country. The whole country is getting a tan, very systematically. Someone's timing it. The tan is coming out quite nice actually."
+      answer: Tanzanite
+      aliases:
+        - tanzanite
+      reasoning: "Tan (a colour, or a suntan) + zan (sounds like 'Zan', a name, or part of Tanzania) + ite (sounds like 'ight', or 'night') = Tan-zan-ite = Tanzanite. Say it: tan-zuh-nite."
+
+- id: gembusters-003
+  enabled: true
+  title: Gembusters
+  topic: gemstones
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - Global
+  intro: "Last set of Gembusters. Three clues, all gemstones. These are the tricky ones. Say each one aloud a few times. The answer's in there, just being a bit coy about it."
+  prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
+  clues:
+    - number: 1
+      initials: A
+      clue: "Alex has gone somewhere quite far and he's been writing. Writing and writing. He's done it in a proper hurry. Everyone's asking what he's written and he's saying it's all quite light."
+      answer: Alexandrite
+      aliases:
+        - alexandrite
+      reasoning: "Alex (a very common name, reliable) + and (joining word, very busy) + rite (sounds like 'right', or a ritual) = Alex-and-rite = Alexandrite. Say it: al-ex-an-drite."
+    - number: 2
+      initials: M
+      clue: "There's a moon and it's doing something with a stone. Very slowly. Taking its time. The moon's not in a rush. The stone seems fine with this. Both of them just getting on with it."
+      answer: Moonstone
+      aliases:
+        - moonstone
+      reasoning: "moon (the big round thing up there at night) + stone (a rock, just sitting there) = Moon-stone = Moonstone. Clear as anything once you say it."
+    - number: 3
+      initials: M
+      clue: "A green woman called Mal has decided to hit something quite hard. She's done it methodically. The thing she's hit has gone a bit stripy. Nobody's sure why she did it."
+      answer: Malachite
+      aliases:
+        - malachite
+      reasoning: "mal (sounds like 'Mal', a name, or bad in Spanish) + a (the article, just floating there) + kite (a thing you fly, or a bird) = Mal-a-kite = Malachite. Say it: mal-uh-kite."

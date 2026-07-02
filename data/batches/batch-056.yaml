@@ -1,0 +1,717 @@
+- id: brandbusters-001
+  enabled: true
+  title: Brandbusters
+  topic: famous global brand names and company names
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Right, Brandbusters. Rockbusters but it's all famous brand names. Say the clues out loud - the answer's in the sounds somewhere."
+  prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
+  clues:
+    - number: 1
+      initials: S B
+      clue: "A celestial body has gone and collected a load of male deer money. Just piled it all up. No reason given."
+      answer: Starbucks
+      aliases:
+        - starbucks
+      reasoning: "star (a celestial body) + bucks (male deer, or informal for money) = Star-bucks = Starbucks"
+    - number: 2
+      initials: V
+      clue: "There's a fella. And he's going round and round. Just rotating. Continuously. Won't stop."
+      answer: Volvo
+      aliases:
+        - volvo
+      reasoning: "vol (sounds like 'revolve' clipped) + vo (the spinning continues) = Vol-vo = Volvo. Or: revolvo minus re = volvo."
+    - number: 3
+      initials: I
+      clue: "This fella called Ike has had a bit of a look at something. Proper inspection. Had a good gander."
+      answer: Ikea
+      aliases:
+        - ikea
+      reasoning: "I (the letter, or Ike informal) + key (a look, as in 'key-a') + a = I-key-a = Ikea"
+
+- id: brandbusters-002
+  enabled: true
+  title: Brandbusters
+  topic: famous global brand names and company names
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Brandbusters two. Three more famous brands hiding in these phonetic clues. Have a go."
+  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists."
+  clues:
+    - number: 1
+      initials: A
+      clue: "Right, someone's done a bit of arithmetic with some form of identification. Added it all up. The ID is in there."
+      answer: Adidas
+      aliases:
+        - adidas
+      reasoning: "add (to do arithmetic) + id (identification) + as = Add-id-as = Adidas"
+    - number: 2
+      initials: P
+      clue: "A fella called Pep has gone and had a little sit down. Just parked himself. Very casual about it."
+      answer: Pepsi
+      aliases:
+        - pepsi
+      reasoning: "pep (a fella called Pep, or energy/pep) + si (a little sit, clipped) = Pep-si = Pepsi"
+    - number: 3
+      initials: P
+      clue: "Some circular things and they're all mingling at a party. Right social little discs. Making themselves at home in a tube."
+      answer: Pringles
+      aliases:
+        - pringles
+      reasoning: "pring (sounds like 'spring', circular things that spring about) + les (the French diminutive, little ones) = Pring-les = Pringles"
+
+- id: brandbusters-003
+  enabled: true
+  title: Brandbusters
+  topic: famous global brand names and company names
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Three in. Brandbusters three. All global brands in these phonetic clues. Say them out loud."
+  prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
+  clues:
+    - number: 1
+      initials: L
+      clue: "A fella's gone. Just departed. Left everything behind. All his stuff is still there, he's just gone."
+      answer: Lego
+      aliases:
+        - lego
+      reasoning: "let (to let go, or 'he let') + go (to depart, to leave) = Let-go = Lego. Or simply: leg (a limb) + o = Lego."
+    - number: 2
+      initials: N
+      clue: "Right, there's a fella who won't have any of it. Not on your life. Absolutely refuses. Nokia."
+      answer: Nokia
+      aliases:
+        - nokia
+      reasoning: "no (an absolute refusal) + key (a little key, the sound) + a = No-key-a = Nokia"
+    - number: 3
+      initials: N
+      clue: "Someone's saying no very quickly and then talking about an icon. Some sort of symbol. Won't stop going on about it."
+      answer: Nikon
+      aliases:
+        - nikon
+      reasoning: "ni (sounds like 'knee' clipped, or the start of 'no') + con (sounds like 'icon' without the i) = Ni-kon = Nikon"
+
+- id: brandbusters-004
+  enabled: true
+  title: Brandbusters
+  topic: famous global brand names and company names
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Brandbusters four. Three more. All well-known brands, all hiding in the sounds. Off you go."
+  prize: "Email in. Winner gets a printed photo from a disposable camera, framed."
+  clues:
+    - number: 1
+      initials: S
+      clue: "A bloke called Sko has turned up at the door. Just standing there. Bit of a scene."
+      answer: Skoda
+      aliases:
+        - skoda
+      reasoning: "sko (a name, like Sko) + da (sounds like 'da', as in there he is) = Sko-da = Skoda"
+    - number: 2
+      initials: H D
+      clue: "A pig has only gone and shoved something into a container of sauce. The whole thing. In the daz. Whatever daz is."
+      answer: Häagen-Dazs
+      aliases:
+        - haagen-dazs
+        - haagen dazs
+        - häagen-dazs
+      reasoning: "hog (a pig) + in (inside) + daz (a cleaning product, or daz as in dazzle) = Hog-in-daz = Häagen-Dazs"
+    - number: 3
+      initials: R
+      clue: "Right, there's a stream and it's only gone and written something in a book. Like, the river has documented itself. Signed off on it."
+      answer: Reebok
+      aliases:
+        - reebok
+      reasoning: "ree (sounds like a stream, or a reed by the water) + bok (sounds like 'book') = Ree-bok = Reebok"
+
+- id: brandbusters-005
+  enabled: true
+  title: Brandbusters
+  topic: famous global brand names and company names
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Five in. Brandbusters five. Three more global brand names in phonetic clues. You know the drill."
+  prize: "Email in. Winner gets a signed letter from someone off Emmerdale, possibly."
+  clues:
+    - number: 1
+      initials: E
+      clue: "There's a fella called Ev and he's only gone and banned something. Just banned it outright. Won't allow it."
+      answer: Evian
+      aliases:
+        - evian
+      reasoning: "ev (a name, short for Evan, sounds like Ev) + ian (a fella called Ian, or just the name ending) = Ev-ian = Evian"
+    - number: 2
+      initials: J
+      clue: "An Italian fella called Jack has gone a bit buzzy. Like, vibrating. Sort of fizzing about the place."
+      answer: Jacuzzi
+      aliases:
+        - jacuzzi
+      reasoning: "jack (a fella called Jack) + oo (the vibrating sound) + zi (sounds like 'zee' or a buzzing noise) = Jack-oo-zi = Jacuzzi"
+    - number: 3
+      initials: L
+      clue: "Right, someone's only gone and put a cost on something. A price tag. In a French manner. Gave it a cost."
+      answer: Lacoste
+      aliases:
+        - lacoste
+      reasoning: "la (French article, in a French manner) + cost (a price, what something costs) + e = La-cost-e = Lacoste"
+
+- id: brandbusters-006
+  enabled: true
+  title: Brandbusters
+  topic: famous global brand names and company names
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Six in. Brandbusters six. Three more brand names hiding in these phonetic clues. Say them out loud."
+  prize: "Email in. Winner gets a DVD of Titanic and a promotional pen from a mortgage company."
+  clues:
+    - number: 1
+      initials: B
+      clue: "There's a group of people and they've all been given a nice amount of something. Lots of it. Generous distribution. Good haul all round."
+      answer: Benetton
+      aliases:
+        - benetton
+        - united colors of benetton
+      reasoning: "bene (well, or benefit, good stuff) + ton (a large amount, a ton of something) = Bene-ton = Benetton"
+    - number: 2
+      initials: H
+      clue: "A fella's doing a bit of hover-craft manoeuvring and he's going over something. Just passed right over it."
+      answer: Hoover
+      aliases:
+        - hoover
+      reasoning: "hoo (sounds like 'who', or the hover sound) + ver (over, passed over something) = Hoo-ver = Hoover"
+    - number: 3
+      initials: T
+      clue: "Right, two people have been placed inside some containers. Just the two of them. In there with the lid on. Bit snug."
+      answer: Tupperware
+      aliases:
+        - tupperware
+      reasoning: "tupper (sounds like 'two per', two people per container) + ware (containers, crockery) = Tupper-ware = Tupperware"
+
+- id: brandbusters-007
+  enabled: true
+  title: Brandbusters
+  topic: famous global brand names and company names
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Brandbusters seven. Three more global brands phonetically hidden. Have a listen."
+  prize: "Email in. Winner gets a copy of Mr Bean on VHS and a loyalty card for a shop that closed down."
+  clues:
+    - number: 1
+      initials: D
+      clue: "There's been some lasting and persistent activity happening. It's gone on for a while. Very enduring. Quite the stamina on it."
+      answer: Durex
+      aliases:
+        - durex
+      reasoning: "dure (sounds like 'endure', lasting) + ex (something that's done it before, experienced) = Dur-ex = Durex"
+    - number: 2
+      initials: S
+      clue: "Someone's selling something at a market stall and they've put tape on the price labels. The stuff you use to stick paper. Clear tape."
+      answer: Sellotape
+      aliases:
+        - sellotape
+        - sello tape
+      reasoning: "sell (to sell something at market) + o (the connector sound) + tape (sticky clear tape) = Sell-o-tape = Sellotape"
+    - number: 3
+      initials: V
+      clue: "A fella wearing velvet is going full speed. All the way. Not stopping. Pedal to the metal on the velvet."
+      answer: Velcro
+      aliases:
+        - velcro
+      reasoning: "vel (sounds like 'velvet') + cro (sounds like 'crow', or 'go' with a cr) = Vel-cro = Velcro"
+
+- id: brandbusters-008
+  enabled: true
+  title: Brandbusters
+  topic: famous global brand names and company names
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Eight in. Brandbusters eight. Same deal - big brand names hiding in the sounds."
+  prize: "Email in. Winner gets an Encyclopaedia Britannica volume 14 and a hotel key that no longer works."
+  clues:
+    - number: 1
+      initials: M
+      clue: "Right, a small French bloke has only gone and made a book about tyres. Wrote the whole thing. Very comprehensive."
+      answer: Michelin
+      aliases:
+        - michelin
+        - michelin tyres
+      reasoning: "miche (sounds like 'mish', a small French bread or diminutive) + lin (sounds like 'lin', a name, or 'lean') = Miche-lin = Michelin"
+    - number: 2
+      initials: M
+      clue: "Someone at the market has gone and borrowed a load of women. Not sure why. Just borrowed them. A load of them."
+      answer: Marlboro
+      aliases:
+        - marlboro
+        - marlborough
+      reasoning: "marl (clay soil, or the sound) + bor (sounds like 'bore', or 'borrow' clipped) + o (the end) = Marl-bor-o = Marlboro"
+    - number: 3
+      initials: B
+      clue: "There's a fella at the back of a queue and he's gone all wobbly and smooth. Very liquidy now. Nice."
+      answer: Baileys
+      aliases:
+        - baileys
+        - baileys irish cream
+      reasoning: "bail (to bail out, or a fella called Bailey) + eys (the plural, like Bailey's things) = Bail-eys = Baileys"
+
+- id: brandbusters-009
+  enabled: true
+  title: Brandbusters
+  topic: famous global brand names and company names
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Brandbusters nine. Three more. All global brands, all phonetic. Say them out loud and you'll hear it."
+  prize: "Email in. Winner gets a Shrek 2 DVD and a keyring from a motorway services."
+  clues:
+    - number: 1
+      initials: C
+      clue: "Right, someone's put a load of oil in a container and then rolled it off to the left. That's what's happened. Off to the left it went."
+      answer: Castrol
+      aliases:
+        - castrol
+        - castrol gtx
+      reasoning: "cast (to throw or roll something) + rol (sounds like 'roll', rolling off to the left) = Cast-rol = Castrol"
+    - number: 2
+      initials: P
+      clue: "There's a fella called Pear and he's gone to Italy and got a bit wriggly. Quite animated. Pear but Italian and wriggling."
+      answer: Pirelli
+      aliases:
+        - pirelli
+      reasoning: "pir (sounds like 'peer' or 'pear') + elli (Italian name ending, sounds like 'elly', wriggly) = Pir-elli = Pirelli"
+    - number: 3
+      initials: C
+      clue: "Someone's been doing a load of camping and now they're looking a bit rosy. All that fresh air. Bit flushed in the camp."
+      answer: Campari
+      aliases:
+        - campari
+      reasoning: "camp (camping, or a campsite) + ari (sounds like 'airy', or a person called Ari) = Camp-ari = Campari"
+
+- id: brandbusters-010
+  enabled: true
+  title: Brandbusters
+  topic: famous global brand names and company names
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Halfway. Brandbusters ten. Three more big brand names. You've been doing alright so far."
+  prize: "Email in. Winner gets a mini Toblerone and a phone charger that doesn't quite fit anything."
+  clues:
+    - number: 1
+      initials: M
+      clue: "Right, a fella called Martin's only gone and put his knee down on something. Just knelt on it. On his knee. There."
+      answer: Martini
+      aliases:
+        - martini
+      reasoning: "mar (sounds like 'mar', or the start of Martin) + tin (a container, or a tin) + i (the sound) = Mar-tin-i = Martini"
+    - number: 2
+      initials: L
+      clue: "There's a lamb - small woolly one - and it's gone and hired itself a really big powerful engine. For some reason."
+      answer: Lamborghini
+      aliases:
+        - lamborghini
+        - lambo
+      reasoning: "lamb (a young sheep, woolly) + or (or, a choice) + ghin (sounds like 'gin', the spirit) + i = Lamb-or-ghin-i = Lamborghini"
+    - number: 3
+      initials: S B
+      clue: "A massive ball of burning gas in the sky has gone and collected payment for something. Quite a lot of it. In bucks."
+      answer: Starbucks
+      aliases:
+        - starbucks
+      reasoning: "star (a burning ball of gas in space) + bucks (payment, or a large amount) = Star-bucks = Starbucks"
+
+- id: brandbusters-011
+  enabled: true
+  title: Brandbusters
+  topic: famous global brand names and company names
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Right then, Brandbusters eleven. Three more brand names in these phonetic clues. Have a go."
+  prize: "Email in. Winner gets a signed photo of a Blue Peter presenter from 2002, condition unknown."
+  clues:
+    - number: 1
+      initials: A
+      clue: "Someone's totted up some identification numbers. Done the sums on them. Added the IDs together like you would."
+      answer: Adidas
+      aliases:
+        - adidas
+      reasoning: "add (to tot up, to do sums) + id (identification) + as (like 'as you would') = Add-id-as = Adidas"
+    - number: 2
+      initials: N
+      clue: "Right, there's a fella saying no and then going on about a musical instrument. A lute or something. Won't stop."
+      answer: Nokia
+      aliases:
+        - nokia
+      reasoning: "no (a refusal) + key (a lute key, or the key of a musical instrument) + a = No-key-a = Nokia"
+    - number: 3
+      initials: P
+      clue: "Some little circular flat things - not the pasta - they've all got together. Had a gathering in a tube. Very orderly."
+      answer: Pringles
+      aliases:
+        - pringles
+      reasoning: "pring (sounds like 'spring', round things springing together) + les (the gathering, or 'les' as in the French for 'the') = Pring-les = Pringles"
+
+- id: brandbusters-012
+  enabled: true
+  title: Brandbusters
+  topic: famous global brand names and company names
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Brandbusters twelve. Bit of a mix in here. All big brand names, all phonetic."
+  prize: "Email in. Winner gets a DVD copy of Notting Hill and a commemorative spoon."
+  clues:
+    - number: 1
+      initials: L
+      clue: "A bloke's had both his legs go. Just departed. Wandered off without him. And he's meant to be going somewhere."
+      answer: Lego
+      aliases:
+        - lego
+      reasoning: "leg (a limb, one of the legs) + o (the sound of mild surprise) = Leg-o = Lego"
+    - number: 2
+      initials: V
+      clue: "There's a container of something and it's gone round. Done a full revolution. Back where it started."
+      answer: Volvo
+      aliases:
+        - volvo
+      reasoning: "vol (volume, or 'revolve' shortened) + vo (going round again) = Vol-vo = Volvo"
+    - number: 3
+      initials: H D
+      clue: "A large farmyard animal has only gone and pushed something into a bucket of that washing powder. The white stuff. Into the daz."
+      answer: Häagen-Dazs
+      aliases:
+        - haagen-dazs
+        - haagen dazs
+        - häagen-dazs
+      reasoning: "hog (a large farmyard pig) + in (inside, pushed into) + daz (the washing powder brand) = Hog-in-daz = Häagen-Dazs"
+
+- id: brandbusters-013
+  enabled: true
+  title: Brandbusters
+  topic: famous global brand names and company names
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Brandbusters thirteen. Unlucky for some but these are well-known brands. Three phonetic clues."
+  prize: "Email in. Winner gets a Now That's What I Call Music 61 CD and some hotel toiletries."
+  clues:
+    - number: 1
+      initials: R
+      clue: "A plant - one of those reedy things from the riverbank - has produced some literature. Written a book. Quite a feat."
+      answer: Reebok
+      aliases:
+        - reebok
+      reasoning: "ree (a reed, a plant from the riverbank) + bok (sounds like 'book', a piece of literature) = Ree-bok = Reebok"
+    - number: 2
+      initials: E
+      clue: "A bloke called Ev is talking about someone called Ian. Won't stop mentioning him. Ev and Ian this, Ev and Ian that."
+      answer: Evian
+      aliases:
+        - evian
+      reasoning: "ev (a person called Ev, short for Evan) + ian (a person called Ian) = Ev-ian = Evian"
+    - number: 3
+      initials: J
+      clue: "Right, there's a fella from Italy called Giacomo and he's got himself in a right buzzy situation. All vibrating. Water going everywhere."
+      answer: Jacuzzi
+      aliases:
+        - jacuzzi
+      reasoning: "jack (a fella, like Giacomo = Jack) + oo (the buzzing vibration sound) + zi (the Italian ending) = Jack-oo-zi = Jacuzzi"
+
+- id: brandbusters-014
+  enabled: true
+  title: Brandbusters
+  topic: famous global brand names and company names
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Fourteen in. Brandbusters fourteen. Three more big brands in the sounds. Have a listen."
+  prize: "Email in. Winner gets a Littlewoods catalogue from 2001 and a complimentary pen from a dental surgery."
+  clues:
+    - number: 1
+      initials: T
+      clue: "Two people have been placed inside some containers. Very snug. Lids on. They seem alright about it."
+      answer: Tupperware
+      aliases:
+        - tupperware
+      reasoning: "tupper (sounds like 'two per', two people in each) + ware (vessels, containers) = Tupper-ware = Tupperware"
+    - number: 2
+      initials: S
+      clue: "Someone's gone to the market and used tape to stick down all the price labels. Used the transparent sticky stuff. All of them."
+      answer: Sellotape
+      aliases:
+        - sellotape
+        - sello tape
+      reasoning: "sell (selling at market) + o (the connector) + tape (the transparent adhesive stuff) = Sell-o-tape = Sellotape"
+    - number: 3
+      initials: H
+      clue: "A bloke's doing something with a hover machine over a surface. Just passing over it. Hover and over. That's the thing."
+      answer: Hoover
+      aliases:
+        - hoover
+      reasoning: "hoo (the sound of the hover machine) + ver (over, passing over a surface) = Hoo-ver = Hoover"
+
+- id: brandbusters-015
+  enabled: true
+  title: Brandbusters
+  topic: famous global brand names and company names
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Brandbusters fifteen. Five to go. Three more brands in phonetic clues. You know what to do."
+  prize: "Email in. Winner gets a copy of Calendar Girls on DVD and a miniature bar of hotel soap."
+  clues:
+    - number: 1
+      initials: M
+      clue: "A very small French fella has gone and written the definitive guide to something. Very thorough. Small bloke, big book."
+      answer: Michelin
+      aliases:
+        - michelin
+        - michelin tyres
+      reasoning: "miche (a small French thing, sounds like 'mish') + lin (sounds like 'lean' or a French name ending) = Miche-lin = Michelin"
+    - number: 2
+      initials: C
+      clue: "Someone's thrown a cylinder of oil down a lane. Just bowled it off. It went quite far actually."
+      answer: Castrol
+      aliases:
+        - castrol
+        - castrol gtx
+      reasoning: "cast (to throw, to bowl something) + rol (sounds like 'roll', the rolling motion) = Cast-rol = Castrol"
+    - number: 3
+      initials: P
+      clue: "There's a long pointed thing - like a spike - and it's gone and got itself round someone's wrist. Italian. Very round."
+      answer: Pirelli
+      aliases:
+        - pirelli
+      reasoning: "pir (sounds like 'pier', a long pointed structure) + elli (sounds like 'elly', winding round) = Pir-elli = Pirelli"
+
+- id: brandbusters-016
+  enabled: true
+  title: Brandbusters
+  topic: famous global brand names and company names
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Right, Brandbusters sixteen. Four to go after this. Three more brand names hiding in the sounds."
+  prize: "Email in. Winner gets an OK magazine from 2004 and a novelty rubber."
+  clues:
+    - number: 1
+      initials: C
+      clue: "Some people have been out camping in the fresh air. Come back all rosy-cheeked and cheerful. Bit of a ree at the campsite."
+      answer: Campari
+      aliases:
+        - campari
+      reasoning: "camp (a campsite, camping in the fresh air) + ari (sounds like 'airy', or a cheerful person called Ari) = Camp-ari = Campari"
+    - number: 2
+      initials: M
+      clue: "A fella called Martin has gone and put himself in a very small metal container. On his own. In the tin. Just him."
+      answer: Martini
+      aliases:
+        - martini
+      reasoning: "mar (the start of Martin) + tin (a small metal container) + i (just him, himself) = Mar-tin-i = Martini"
+    - number: 3
+      initials: L
+      clue: "Right, a young sheep has borrowed a very powerful car. No licence, nothing. Just gone off in it. A big engine on that lamb."
+      answer: Lamborghini
+      aliases:
+        - lamborghini
+        - lambo
+      reasoning: "lamb (a young sheep) + or (or, alternatively) + ghini (sounds like 'Gini' or 'jinny', an Italian name ending) = Lamb-or-ghini = Lamborghini"
+
+- id: brandbusters-017
+  enabled: true
+  title: Brandbusters
+  topic: famous global brand names and company names
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Nearly there. Brandbusters seventeen. Three more phonetic brand clues. Say them out loud."
+  prize: "Email in. Winner gets a commemorative tin from a Royal event and a selection of mixed nuts."
+  clues:
+    - number: 1
+      initials: B
+      clue: "There's a crowd at the Bailey and they've all gone a bit smooth and creamy. Very liquidy now. Flowing about."
+      answer: Baileys
+      aliases:
+        - baileys
+        - baileys irish cream
+      reasoning: "bail (the Bailey, like Old Bailey) + eys (they, them, or the crowd of 'eys') = Bail-eys = Baileys"
+    - number: 2
+      initials: V
+      clue: "A bloke in velvet is moving extremely quickly. Full pelt. The velvet's a blur."
+      answer: Velcro
+      aliases:
+        - velcro
+      reasoning: "vel (sounds like 'velvet' clipped) + cro (sounds like 'crow', fast-moving black bird) = Vel-cro = Velcro"
+    - number: 3
+      initials: D
+      clue: "Something's lasted a very long time. Very durable. The experience of it has a certain history to it."
+      answer: Durex
+      aliases:
+        - durex
+      reasoning: "dure (to endure, to last a long time) + ex (former, someone with experience) = Dur-ex = Durex"
+
+- id: brandbusters-018
+  enabled: true
+  title: Brandbusters
+  topic: famous global brand names and company names
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Brandbusters eighteen. Two after this. All global brands. All phonetic. You've come this far."
+  prize: "Email in. Winner gets a DVD boxset with the disc for series 3 missing and a Starbucks loyalty card."
+  clues:
+    - number: 1
+      initials: I
+      clue: "There's a bloke called Ike. He's had a proper look at something. Examined it thoroughly. Had a real gander. Ike's done his research."
+      answer: Ikea
+      aliases:
+        - ikea
+      reasoning: "I (the letter I, or Ike) + key (a thorough look, or the key to something) + a = I-key-a = Ikea"
+    - number: 2
+      initials: S
+      clue: "A bloke called Sko has only gone and knocked on someone's door. Turned up unannounced. There he is at the door."
+      answer: Skoda
+      aliases:
+        - skoda
+      reasoning: "sko (a person called Sko) + da (sounds like 'da', there he is) = Sko-da = Skoda"
+    - number: 3
+      initials: L
+      clue: "A bloke's put a price tag on something in France. Very deliberately. Gave it a cost, right there in France."
+      answer: Lacoste
+      aliases:
+        - lacoste
+      reasoning: "la (French for 'the') + cost (a price, what something costs) + e = La-cost-e = Lacoste"
+
+- id: brandbusters-019
+  enabled: true
+  title: Brandbusters
+  topic: famous global brand names and company names
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Penultimate one. Brandbusters nineteen. Three more phonetic brand clues. Nearly done now."
+  prize: "Email in. Winner gets a copy of Calendar Girls on DVD and a miniature bar of hotel soap."
+  clues:
+    - number: 1
+      initials: B
+      clue: "Right, a bunch of people have all received a generous allocation. A good helping of something. A ton of benefit. All of them."
+      answer: Benetton
+      aliases:
+        - benetton
+        - united colors of benetton
+      reasoning: "bene (benefit, good allocation) + ton (a large amount, a ton of it) = Bene-ton = Benetton"
+    - number: 2
+      initials: M
+      clue: "Someone's borrowed a load of women - quite a few of them - from a place with clay in the ground. Near the marl."
+      answer: Marlboro
+      aliases:
+        - marlboro
+        - marlborough
+      reasoning: "marl (clay-rich soil) + bor (sounds like 'borrow', borrowed) + o = Marl-bor-o = Marlboro"
+    - number: 3
+      initials: N
+      clue: "Someone's saying no to everything and then going on about this famous symbol they keep seeing. Keeps pointing at the icon."
+      answer: Nikon
+      aliases:
+        - nikon
+      reasoning: "ni (sounds like 'knee' or the start of 'no') + kon (sounds like 'con' or 'icon' clipped) = Ni-kon = Nikon"
+
+- id: brandbusters-020
+  enabled: true
+  title: Brandbusters
+  topic: famous global brand names and company names
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Last one. Brandbusters twenty. Final round of global brand names. Go out on a high."
+  prize: "Email in. Winner gets a Woolworths pick-and-mix bag, unavailable since 2008, and a commemorative mug from a business that went under."
+  clues:
+    - number: 1
+      initials: P
+      clue: "A fella called Pep's had a little rest. Very quick. Sat himself down and had a sit. Very casual about the whole thing."
+      answer: Pepsi
+      aliases:
+        - pepsi
+      reasoning: "pep (a person with pep, or the name Pep) + si (sounds like 'see', or 'si' meaning yes in Italian, a quick sit) = Pep-si = Pepsi"
+    - number: 2
+      initials: A
+      clue: "Right, a fella's done the maths on some ID. Added up the numbers on it. Totted them all up. The identification's been calculated."
+      answer: Adidas
+      aliases:
+        - adidas
+      reasoning: "add (to add up, to do maths) + id (identification, ID) + as (just like that) = Add-id-as = Adidas"
+    - number: 3
+      initials: S B
+      clue: "There's a massive glowing thing up in the sky and it's gone and collected quite a sum in cash. Deer money, mainly."
+      answer: Starbucks
+      aliases:
+        - starbucks
+      reasoning: "star (a massive glowing thing in the sky) + bucks (deer, or cash, a sum of money) = Star-bucks = Starbucks"

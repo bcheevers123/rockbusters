@@ -1,0 +1,106 @@
+- id: disasterbusters-001
+  enabled: true
+  title: Disasterbusters
+  topic: disasters
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - Global
+  intro: "Right, Disasterbusters. All famous disasters hiding in the sounds of these clues. Don't look at the spelling. Say them out loud and the sounds'll do it. Some dark history in here but we're keeping it respectful. Mostly."
+  prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
+  clues:
+    - number: 1
+      initials: P
+      clue: "A bloke called Pom has gone on holiday to Italy. He's found a lovely little cafe near a ruin. He's ordered something he can't pronounce. The waiter's not impressed but he's brought it out anyway."
+      answer: Pompeii
+      aliases:
+        - pompeii
+      reasoning: "Pom (sounds like 'Pom', a nickname for a British person, or just the name Pom) + pay (sounds like 'pay', what you do at a cafe when the waiter's brought your thing) = Pom-pay = Pompeii"
+    - number: 2
+      initials: K
+      clue: "There's a volcano somewhere warm. A cracker has gone off and woken everyone up on a nearby island. They're not best pleased. The noise went right across the sea. People on the next island heard it and thought it was a kettle."
+      answer: Krakatoa
+      aliases:
+        - krakatoa
+        - krakatau
+      reasoning: "crack (sounds like 'crack', a loud bang, a fissure in rock) + a (just the letter, one of those) + toe (the smallest digit, end of the foot) + a (again, just the one) = Crack-a-toe-a = Krakatoa"
+    - number: 3
+      initials: H
+      clue: "A fella called Hiro has been to a shima — that's a Japanese island — and he's asked someone what it means. They've told him it means island. He's written it down and come back and shown everyone but nobody cares."
+      answer: Hiroshima
+      aliases:
+        - hiroshima
+      reasoning: "Hiro (sounds like 'hero', someone who does something brave, or just the name Hiro) + shima (sounds like 'she-ma', or 'shima', meaning island in Japanese) = Hero-shima = Hiroshima"
+
+- id: disasterbusters-002
+  enabled: true
+  title: Disasterbusters
+  topic: disasters
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - Global
+  intro: "Disasterbusters two. More disasters from around the world. All hidden in the sounds. Say each clue out loud and you'll hear the answer in there. Some of these are quite well known. Some of them are known for all the wrong reasons."
+  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists."
+  clues:
+    - number: 1
+      initials: C
+      clue: "A woman called Cheryl has gone to a place in the Ukraine. She's had a good look round. She's bought a postcard. She's not been able to post it because the post office has been shut for about forty years."
+      answer: Chernobyl
+      aliases:
+        - chernobyl
+        - chornobyl
+      reasoning: "Cher (sounds like 'Cher', the singer, or just someone called Cher) + no (the word for refusing something) + bill (sounds like 'byl', or 'bill', what you get from a post office you can no longer use) = Cher-no-byl = Chernobyl"
+    - number: 2
+      initials: T
+      clue: "A big lad called Titus has been on a boat. He said it was unsinkable. His mate Ian said that was tempting fate. Titus said it'd be fine. It wasn't fine."
+      answer: Titanic
+      aliases:
+        - titanic
+        - rms titanic
+      reasoning: "Tye (sounds like 'Tie', something you wear round your neck, or the start of Titus) + tan (sounds like 'tan', going brown in the sun, or a colour) + ic (sounds like 'ick', that noise you make when something's gone wrong) = Tie-tan-ic = Titanic"
+    - number: 3
+      initials: C
+      clue: "A fella called Colin has gone on a trip to South America. Not on a plane. In a rocket. Everyone watching said it'd go fine. Colin said it'd go fine. It didn't go fine. There's a river named after the place he was heading."
+      answer: Columbia
+      aliases:
+        - columbia
+        - sts columbia
+        - space shuttle columbia
+      reasoning: "Col (sounds like 'Col', short for Colin, or a mountain pass) + um (that pause, the noise before bad news) + bee (the insect, buzzy little thing) + a (just the one letter, the first one) = Col-um-bee-a = Columbia"
+
+- id: disasterbusters-003
+  enabled: true
+  title: Disasterbusters
+  topic: disasters
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - Global
+  intro: "Last one. Disasterbusters three. More catastrophic events of varying sizes hiding in the sounds. Some of these are harder. Don't overthink it. Just say it out loud. Right."
+  prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
+  clues:
+    - number: 1
+      initials: V
+      clue: "A Roman woman called Vera went to see a doctor called Zeus about her knees. He had a look and said he wasn't sure what was going on with them. She asked if he'd seen anything like it before. He said he hadn't. The knees were very sus."
+      answer: Vesuvius
+      aliases:
+        - vesuvius
+        - mount vesuvius
+      reasoning: "Vez (sounds like 'Vez', short for Vera in some dialects, rhymes with fez) + you (sounds like 'you', the person being addressed) + vee (sounds like 'V', the letter, or 'vi') + us (me and you, us lot) = Vez-you-vee-us = Vesuvius"
+    - number: 2
+      initials: F
+      clue: "A bloke called Fuku has gone over to an island called Shima. He's found a really nice spot. He told someone back home he was at a shima near a power station. They said that sounds dodgy. It was a bit dodgy, as it turned out."
+      answer: Fukushima
+      aliases:
+        - fukushima
+        - fukushima daiichi
+      reasoning: "Fuku (sounds like 'foo-koo', or just Fuku, the name) + shima (sounds like 'she-ma', island in Japanese) = Foo-koo-shima = Fukushima"
+    - number: 3
+      initials: C
+      clue: "There's a bloke called Len who works on an oil rig. It's deep out there. Very deep. He's got some water in his boots. More water than you'd want really. He's saying something about the horizon but he can't see it anymore."
+      answer: Deepwater Horizon
+      aliases:
+        - deepwater horizon
+        - bp deepwater horizon
+      reasoning: "deep (what the water is when you can't touch the bottom) + water (the stuff that gets in your boots) + horizon (the line where the sea meets the sky, the thing Len can't see) = Deep-water-horizon = Deepwater Horizon"

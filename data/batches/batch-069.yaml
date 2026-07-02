@@ -1,0 +1,100 @@
+- id: currencybusters-001
+  enabled: true
+  title: Currencybusters
+  topic: currency names from around the world
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - Global
+  intro: "Right. Currencybusters. All the answers are names of currencies from around the world. Say the clues out loud — the sounds add up to something you'd hand over at a foreign bureau de change."
+  prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
+  clues:
+    - number: 1
+      initials: Z
+      clue: "Someone's put a very small amount of tea into a narrow opening and it just about fitted. Slot. Tea. In it went."
+      answer: Zloty
+      aliases:
+        - zloty
+      reasoning: "slot (to slot something in, a narrow opening) + ee (a high-pitched sound, like 'tea' shortened) = Slot-ee = Zloty. Polish currency."
+    - number: 2
+      initials: R
+      clue: "A kangaroo has gone to the facilities. Urgently. The sound it made when it got there said it all."
+      answer: Rupiah
+      aliases:
+        - rupiah
+      reasoning: "roo (a kangaroo, informal) + pee (to use the toilet) + ah (the sound of relief) = Roo-pee-ah = Rupiah. Indonesian currency."
+    - number: 3
+      initials: D
+      clue: "A large stag has moved to a small village in west London that's got a funny old name. Very specific postcode."
+      answer: Dirham
+      aliases:
+        - dirham
+      reasoning: "deer (a stag, a large woodland animal) + ham (Ham, a district in Richmond, west London) = Deer-ham = Dirham. Currency of UAE and Morocco."
+
+- id: currencybusters-002
+  enabled: true
+  title: Currencybusters
+  topic: currency names from around the world
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - Global
+  intro: "Currencybusters two. More old and current currencies from around the world hiding in phonetic clues. Say them out loud or you'll get nowhere."
+  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists."
+  clues:
+    - number: 1
+      initials: D
+      clue: "Someone's mum has been grabbed and forcibly pulled along a corridor. She's not happy about it and she's made that very clear."
+      answer: Drachma
+      aliases:
+        - drachma
+      reasoning: "drag (to pull someone forcibly) + ma (mum, mother) = Drag-ma = Drachma. Ancient Greek and former modern Greek currency."
+    - number: 2
+      initials: K
+      clue: "A large black bird has turned up at a Scandinavian door and said something dismissive. Just one syllable. Then it left."
+      answer: Krona
+      aliases:
+        - krona
+        - krone
+      reasoning: "crow (a large black bird) + na (a dismissive sound, like 'nah', short for no) = Crow-na = Krona. Swedish and other Scandinavian currencies."
+    - number: 3
+      initials: F
+      clue: "Water's been moving through a pipe somewhere and someone's left a piece of jewellery right in the middle of it. Not ideal plumbing."
+      answer: Florin
+      aliases:
+        - florin
+      reasoning: "flow (water moving through something) + ring (a piece of jewellery, a circular band) = Flow-ring = Florin. Old Dutch and British coin."
+
+- id: currencybusters-003
+  enabled: true
+  title: Currencybusters
+  topic: currency names from around the world
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - Global
+  intro: "Three in. Currencybusters three. All foreign currency names. None of them are the pound. Say these out loud and see if the money adds up."
+  prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
+  clues:
+    - number: 1
+      initials: G
+      clue: "A fish has got breathing equipment fitted on its side and someone from Bavaria has pointed at it going 'der'. Like they're explaining something obvious."
+      answer: Guilder
+      aliases:
+        - guilder
+      reasoning: "gill (the breathing part on a fish's side) + der (a German pointing sound, like 'der, obviously') = Gill-der = Guilder. Old Dutch currency."
+    - number: 2
+      initials: P
+      clue: "A small animal — a cat or a dog, something like that — has said something out loud and then thanked you for listening. Very polite."
+      answer: Peseta
+      aliases:
+        - peseta
+      reasoning: "pet (a small domestic animal) + say (to say something out loud) + ta (thanks, cheers) = Pet-say-ta = Peseta. Former Spanish currency."
+    - number: 3
+      initials: L
+      clue: "A person who makes things up — can't help themselves, just says whatever suits them — has gone and done it again. No surprise there."
+      answer: Lira
+      aliases:
+        - lira
+        - lire
+      reasoning: "liar (someone who tells untruths) + a (the article, just the 'a' at the end) = Liar-a = Lira. Currency of Turkey and formerly Italy."

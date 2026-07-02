@@ -1,0 +1,268 @@
+[
+  {
+    "id": "christmasbusters-001",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Mince Pie",
+        "aliases": [
+          "mince pie",
+          "mince pies"
+        ],
+        "reasoning": "mince (mint's = sounds like mince) + pie = Mince Pie. Mint gone crumbly and piefied."
+      },
+      {
+        "number": 2,
+        "answer": "Mistletoe",
+        "aliases": [
+          "mistletoe"
+        ],
+        "reasoning": "Miss + Ellie + toe = Mistletoe. Spoken aloud: Miss-ellie-toe."
+      },
+      {
+        "number": 3,
+        "answer": "Fairy Light",
+        "aliases": [
+          "fairy light",
+          "fairy lights"
+        ],
+        "reasoning": "fairy + light = Fairy Light. Fairy feeling light-headed."
+      }
+    ]
+  },
+  {
+    "id": "christmasbusters-002",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Christmas Cracker",
+        "aliases": [
+          "christmas cracker"
+        ],
+        "reasoning": "Christmas + cracker (crack + er). Crack at something = cracker."
+      },
+      {
+        "number": 2,
+        "answer": "Silent Night",
+        "aliases": [
+          "silent night"
+        ],
+        "reasoning": "silent + night (knight = night). Quiet knight = silent night."
+      },
+      {
+        "number": 3,
+        "answer": "Jingle Bells",
+        "aliases": [
+          "jingle bells"
+        ],
+        "reasoning": "jingle (sounds like Jim'll/jingle) + bells. Jim buying bells = jingle bells."
+      }
+    ]
+  },
+  {
+    "id": "christmasbusters-003",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Eggnog",
+        "aliases": [
+          "eggnog"
+        ],
+        "reasoning": "egg + nog (nogged = went away, i.e. nog). Egg + nog = Eggnog."
+      },
+      {
+        "number": 2,
+        "answer": "Tinsel",
+        "aliases": [
+          "tinsel"
+        ],
+        "reasoning": "tin (Tim sounds like tin) + sel (sell/sel). Tinsel = tin + sel. Tim wrapped in tinsel."
+      },
+      {
+        "number": 3,
+        "answer": "Advent Calendar",
+        "aliases": [
+          "advent calendar"
+        ],
+        "reasoning": "advent + calendar. Advent (the fella) + calendar (on the wall). Advent Calendar."
+      }
+    ]
+  },
+  {
+    "id": "halloweenbusters-001",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Frankenstein",
+        "aliases": [
+          "frankenstein"
+        ],
+        "reasoning": "Frank + en + stein (stony/rocky). Frank being stein-y = Frankenstein."
+      },
+      {
+        "number": 2,
+        "answer": "Werewolf",
+        "aliases": [
+          "werewolf"
+        ],
+        "reasoning": "were (where/were) + wolf. Wolf being extra wolf-like = werewolf."
+      },
+      {
+        "number": 3,
+        "answer": "Black Cat",
+        "aliases": [
+          "black cat"
+        ],
+        "reasoning": "black + cat. Cat that's black brewing things = black cat."
+      }
+    ]
+  },
+  {
+    "id": "halloweenbusters-002",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Count Dracula",
+        "aliases": [
+          "count dracula",
+          "dracula"
+        ],
+        "reasoning": "Count + Dracula (drag + u + la). Count dragging something = Count Dracula."
+      },
+      {
+        "number": 2,
+        "answer": "Haunted House",
+        "aliases": [
+          "haunted house"
+        ],
+        "reasoning": "haunted + house. House that got haunted = Haunted House."
+      },
+      {
+        "number": 3,
+        "answer": "Pumpkin Carving",
+        "aliases": [
+          "pumpkin carving"
+        ],
+        "reasoning": "pumpkin + carving. Orange thing carved up = Pumpkin Carving."
+      }
+    ]
+  },
+  {
+    "id": "halloweenbusters-003",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Ouija Board",
+        "aliases": [
+          "ouija board"
+        ],
+        "reasoning": "ouija (sounds like wee-jah) + board. Saying wee-jah to wood = Ouija Board."
+      },
+      {
+        "number": 2,
+        "answer": "Nosferatu",
+        "aliases": [
+          "nosferatu"
+        ],
+        "reasoning": "nos + fer + atu (ferret + two = feratu). Nos being ratty = Nosferatu."
+      },
+      {
+        "number": 3,
+        "answer": "Coffin Lid",
+        "aliases": [
+          "coffin lid"
+        ],
+        "reasoning": "coffin + lid. Coffin with its lid on = Coffin Lid."
+      }
+    ]
+  },
+  {
+    "id": "easterbusters-001",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Hot Cross Bun",
+        "aliases": [
+          "hot cross bun",
+          "hot cross buns"
+        ],
+        "reasoning": "hot + cross + bun. Warm bun with a cross = Hot Cross Bun."
+      },
+      {
+        "number": 2,
+        "answer": "Good Friday",
+        "aliases": [
+          "good friday"
+        ],
+        "reasoning": "good + Friday. Best Friday ever = Good Friday."
+      },
+      {
+        "number": 3,
+        "answer": "Chocolate Bunny",
+        "aliases": [
+          "chocolate bunny"
+        ],
+        "reasoning": "chocolate + bunny. Bunny covered in chocolate = Chocolate Bunny."
+      }
+    ]
+  },
+  {
+    "id": "easterbusters-002",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Easter Bonnet",
+        "aliases": [
+          "easter bonnet"
+        ],
+        "reasoning": "Easter + bonnet. Flowery hat worn at Easter = Easter Bonnet."
+      },
+      {
+        "number": 2,
+        "answer": "Peter Rabbit",
+        "aliases": [
+          "peter rabbit"
+        ],
+        "reasoning": "Peter + rabbit. Pete being a rabbit in someone's garden = Peter Rabbit."
+      },
+      {
+        "number": 3,
+        "answer": "Daffodil",
+        "aliases": [
+          "daffodil",
+          "daffodils"
+        ],
+        "reasoning": "daff + o + dil (daffodil). Yellow flower daffing about = Daffodil."
+      }
+    ]
+  },
+  {
+    "id": "easterbusters-003",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Simnel Cake",
+        "aliases": [
+          "simnel cake"
+        ],
+        "reasoning": "simnel (Simon-el) + cake. Simon-el cake from the oven = Simnel Cake."
+      },
+      {
+        "number": 2,
+        "answer": "Paschal Lamb",
+        "aliases": [
+          "paschal lamb"
+        ],
+        "reasoning": "paschal + lamb. Religious lamb doing Easter things = Paschal Lamb."
+      },
+      {
+        "number": 3,
+        "answer": "Easter Island",
+        "aliases": [
+          "easter island"
+        ],
+        "reasoning": "Easter + island. Island that got Easter written on it = Easter Island."
+      }
+    ]
+  }
+]

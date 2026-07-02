@@ -1,0 +1,103 @@
+- id: anatomybusters-001
+  enabled: true
+  title: Anatomybusters
+  topic: Body parts
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - Global
+  intro: "Right, Anatomybusters. It's all body parts. Proper ones, not the obvious ones. Say the clues out loud - the answer's in the sounds somewhere."
+  prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
+  clues:
+    - number: 1
+      initials: C
+      clue: "There's a woman called Sarah and she's gone and rung the bell at him. Just stood there and rang it. Didn't say anything. Bell him, Sarah."
+      answer: Cerebellum
+      aliases:
+        - cerebellum
+      reasoning: "Sarah + bell + um = cer-a-bell-um = Cerebellum. Say it: Sarah-bell-um."
+    - number: 2
+      initials: C
+      clue: "Someone's made a small vehicle entirely out of clay. Just sat there on the table. Bit of an odd project but there you go."
+      answer: Clavicle
+      aliases:
+        - clavicle
+      reasoning: "clay + vehicle = clay-vih-kul = Clavicle. Say it fast: clay-vick-ul."
+    - number: 3
+      initials: D
+      clue: "Right, they've gone and dyed a picture frame. Whole thing. Didn't need doing but someone's gone ahead and done it anyway."
+      answer: Diaphragm
+      aliases:
+        - diaphragm
+      reasoning: "dye + a + frame = dye-a-fram = Diaphragm. Say it out loud."
+
+- id: anatomybusters-002
+  enabled: true
+  title: Anatomybusters
+  topic: Body parts
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - Global
+  intro: "Anatomybusters two. Still body parts, still phonetic. These are the ones they make you learn at school and then you immediately forget."
+  prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
+  clues:
+    - number: 1
+      initials: P
+      clue: "She fell over, and well, blimey. Just went down. Said something like 'oh, jeez' on the way. Bit of a tumble."
+      answer: Phalanges
+      aliases:
+        - phalanges
+        - phalanx
+      reasoning: "fuh + lan + jeez = fuh-LAN-jeez = Phalanges. As in: she fell, and jeez."
+    - number: 2
+      initials: M
+      clue: "He bumped into a mate outside the car park. Just stood there chatting. His mate owns a car, that's sort of the whole story."
+      answer: Metacarpal
+      aliases:
+        - metacarpal
+        - metacarpals
+      reasoning: "met + a + car + pal = met-a-car-pal = Metacarpal. Phonetically spot on."
+    - number: 3
+      initials: M
+      clue: "He ran into a woman called Sal who works in road maintenance. She was covered in tar. Just standing there."
+      answer: Metatarsal
+      aliases:
+        - metatarsal
+        - metatarsals
+      reasoning: "met + a + tar + sal = met-a-tar-sal = Metatarsal. Met a tar, Sal."
+
+- id: anatomybusters-003
+  enabled: true
+  title: Anatomybusters
+  topic: Body parts
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - Global
+  intro: "Three. Last set of Anatomybusters. More body parts you'd only know if you'd revised properly. Which I hadn't."
+  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists."
+  clues:
+    - number: 1
+      initials: T
+      clue: "Right, the trapeze act. It was us up there. On the wire. We were the ones doing it. Bit unexpected, really."
+      answer: Trapezius
+      aliases:
+        - trapezius
+      reasoning: "trapeze + us = tra-PEE-zee-us = Trapezius. The trapeze, it's us."
+    - number: 2
+      initials: Q
+      clue: "Someone's gone into the school courtyard - the square one with the benches - and they're doing something involving rye bread and it's all gone a bit off. Smells."
+      answer: Quadriceps
+      aliases:
+        - quadriceps
+        - quads
+      reasoning: "quad + rye + seps (septic) = KWOD-rih-seps = Quadriceps. The quad, the rye, something gone off."
+    - number: 3
+      initials: H
+      clue: "Someone's tied a piece of string round a ham. Don't know why. Just looped it round and left it there. That's all that happened."
+      answer: Hamstring
+      aliases:
+        - hamstring
+        - hamstrings
+      reasoning: "ham + string = ham-string = Hamstring. String tied round a ham. Simple as that."

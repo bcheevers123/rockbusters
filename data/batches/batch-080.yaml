@@ -1,0 +1,101 @@
+- id: treebusters-001
+  enabled: true
+  title: Treebusters
+  topic: Trees
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - Global
+  intro: "Right, Treebusters. All the answers are trees. Phonetic clues, so say them out loud. The tree's hiding in the sounds somewhere."
+  prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
+  clues:
+    - number: 1
+      initials: S
+      clue: "Someone's had a big sigh and then gone back for extra helpings. Really wanted more of it. Can't help themselves."
+      answer: Sycamore
+      aliases:
+        - sycamore
+      reasoning: "sigh (a big exhale) + ca + more (wanting extra helpings) = sigh-ca-more = Sycamore"
+    - number: 2
+      initials: M
+      clue: "There's a fella who's wandered into a small cluster of trees. Just standing in there. In the shade, looking about."
+      answer: Mangrove
+      aliases:
+        - mangrove
+      reasoning: "man (a fella) + grove (a small cluster of trees) = man-grove = Mangrove"
+    - number: 3
+      initials: H C
+      clue: "That large animal - the one that pulls the carriage - it's got a big barrel of a chest and it's gone a bit crackers. Not sure what's got into it."
+      answer: Horse Chestnut
+      aliases:
+        - horse chestnut
+        - horse-chestnut
+      reasoning: "horse (the large animal that pulls carriages) + chest (a barrel-shaped torso) + nut (gone crackers/crazy) = Horse Chestnut"
+
+- id: treebusters-002
+  enabled: true
+  title: Treebusters
+  topic: Trees
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - Global
+  intro: "Treebusters two. Still all trees. Still phonetic. Some of these are a bit involved so take your time with them."
+  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists."
+  clues:
+    - number: 1
+      initials: E
+      clue: "You've gone and called out to us. Shouted over. But there's a lip involved and it's all got a bit fussy from there."
+      answer: Eucalyptus
+      aliases:
+        - eucalyptus
+      reasoning: "you (addressing us directly) + ca + lip (the thing on your face) + tus (sounds like 'tuss', a fuss) = you-ca-lip-tus = Eucalyptus"
+    - number: 2
+      initials: B
+      clue: "Right, there's a bay window - like on an old Victorian house - and someone's said oh, and then called their mate bab. All in one breath."
+      answer: Baobab
+      aliases:
+        - baobab
+      reasoning: "bay (a bay window) + oh (an exclamation) + bab (a term of endearment, like calling someone bab) = bay-oh-bab = Baobab"
+    - number: 3
+      initials: W W
+      clue: "Someone's been having a right cry about it. Really upset. And they're going to do it. They will. They're going to do it. Oh."
+      answer: Weeping Willow
+      aliases:
+        - weeping willow
+        - weeping-willow
+      reasoning: "weeping (having a good cry) + will (they're going to do it) + ow (an exclamation of resignation, sounds like 'oh') = weeping-will-ow = Weeping Willow"
+
+- id: treebusters-003
+  enabled: true
+  title: Treebusters
+  topic: Trees
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - Global
+  intro: "Last Treebusters. Three more trees in these phonetic clues. If you've got this far you're probably a bit of a nature person."
+  prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
+  clues:
+    - number: 1
+      initials: M
+      clue: "There's a magazine - a glossy one - and it's saying no, and then someone's telling a lie. All happening at once, which is a lot."
+      answer: Magnolia
+      aliases:
+        - magnolia
+      reasoning: "mag (a glossy magazine) + no (a refusal) + lia (sounds like 'liar', someone telling a lie) = mag-no-lia = Magnolia"
+    - number: 2
+      initials: D F
+      clue: "Right, there's a bloke called Doug and he's found himself a young Scottish lass and she's wearing a fur coat. Don't know where they met."
+      answer: Douglas Fir
+      aliases:
+        - douglas fir
+      reasoning: "Doug (a bloke's name) + las (sounds like 'lass', a young Scottish woman) + fur (a fur coat) = Doug-las-fur = Douglas Fir"
+    - number: 3
+      initials: M P
+      clue: "One of those primates - the smaller ones, not gorillas - has gone and bought itself a jigsaw. Proper stumped by it."
+      answer: Monkey Puzzle
+      aliases:
+        - monkey puzzle
+        - monkey-puzzle
+      reasoning: "monkey (a primate, not a gorilla) + puzzle (a jigsaw, something that stumps you) = monkey-puzzle = Monkey Puzzle"

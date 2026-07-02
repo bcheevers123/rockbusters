@@ -49,6 +49,78 @@ function getTodaysIndex(totalSets) {
   return (((diffDays + offset) % totalSets) + totalSets) % totalSets;
 }
 
+// ---------------------------------------------------------------------------
+// Holiday detection — returns null or { holiday, setPrefix, theme }
+// ---------------------------------------------------------------------------
+function getEasterSunday(year) {
+  // Computus algorithm
+  const a = year % 19;
+  const b = Math.floor(year / 100);
+  const c = year % 100;
+  const d = Math.floor(b / 4);
+  const e = b % 4;
+  const f = Math.floor((b + 8) / 25);
+  const g = Math.floor((b - f + 1) / 3);
+  const h = (19 * a + b - d - g + 15) % 30;
+  const i = Math.floor(c / 4);
+  const k = c % 4;
+  const l = (32 + 2 * e + 2 * i - h - k) % 7;
+  const m = Math.floor((a + 11 * h + 22 * l) / 451);
+  const month = Math.floor((h + l - 7 * m + 114) / 31); // 1-based
+  const day = ((h + l - 7 * m + 114) % 31) + 1;
+  return new Date(Date.UTC(year, month - 1, day));
+}
+
+function getHolidayForDate(date) {
+  const m = date.getUTCMonth() + 1; // 1-based
+  const d = date.getUTCDate();
+  const y = date.getUTCFullYear();
+
+  // Christmas: Dec 23–25
+  if (m === 12 && d >= 23 && d <= 25) {
+    return { holiday: 'christmas', setPrefix: 'christmasbusters', theme: 'christmas' };
+  }
+
+  // Halloween: Oct 31
+  if (m === 10 && d === 31) {
+    return { holiday: 'halloween', setPrefix: 'halloweenbusters', theme: 'halloween' };
+  }
+
+  // Easter: Easter Sunday ±3 days
+  const easter = getEasterSunday(y);
+  const diffDays = Math.round((date.getTime() - easter.getTime()) / 86400000);
+  if (Math.abs(diffDays) <= 3) {
+    return { holiday: 'easter', setPrefix: 'easterbusters', theme: 'easter' };
+  }
+
+  return null;
+}
+
+// ---------------------------------------------------------------------------
+// Holiday theming — apply/remove CSS classes and decorations on <body>
+// ---------------------------------------------------------------------------
+function applyHolidayTheme(holiday) {
+  document.body.classList.remove('theme-christmas', 'theme-halloween', 'theme-easter');
+  const existing = document.getElementById('holiday-decoration');
+  if (existing) existing.remove();
+
+  if (!holiday) return;
+
+  document.body.classList.add('theme-' + holiday);
+
+  const deco = document.createElement('div');
+  deco.id = 'holiday-decoration';
+  deco.className = 'holiday-decoration holiday-decoration-' + holiday;
+
+  const DECOS = {
+    christmas: '&#10052; &#127876; &#10052; &#127876; &#10052; &#127876; &#10052;',
+    halloween: '&#127809; &#128122; &#127809; &#128122; &#127809; &#128122; &#127809;',
+    easter:    '&#128592; &#127857; &#128592; &#127857; &#128592; &#127857; &#128592;',
+  };
+  deco.innerHTML = DECOS[holiday] || '';
+  document.body.insertBefore(deco, document.body.firstChild);
+}
+
 function formatDateBritish(date) {
   return new Intl.DateTimeFormat('en-GB', {
     day: 'numeric',
@@ -550,25 +622,50 @@ function renderQuiz(todaySet, answerClues, progress) {
 // ---------------------------------------------------------------------------
 async function loadQuiz() {
   try {
-    const [qRes, aRes] = await Promise.all([
-      fetch('data/rockbusters.json'),
-      fetch('data/rockbusters-answers.json'),
-    ]);
+    const today = getTodayLondon();
+    const holiday = getHolidayForDate(today);
+
+    // Apply or remove holiday theming
+    applyHolidayTheme(holiday ? holiday.holiday : null);
+
+    // Fetch holiday sets if needed, else regular sets
+    const fetchPaths = ['data/rockbusters.json', 'data/rockbusters-answers.json'];
+    if (holiday) {
+      fetchPaths.push('data/holiday-sets.json', 'data/holiday-answers.json');
+    }
+
+    const [qRes, aRes, hqRes, haRes] = await Promise.all(fetchPaths.map(p => fetch(p)));
     if (!qRes.ok) throw new Error(`Quiz data HTTP ${qRes.status}`);
     if (!aRes.ok) throw new Error(`Answer data HTTP ${aRes.status}`);
 
-    const allSets = await qRes.json();
     const allAnswers = await aRes.json();
 
-    const enabledSets = allSets.filter(s => s.enabled !== false);
-    if (enabledSets.length === 0) throw new Error('No enabled sets found.');
+    let todaySet, answerClues;
 
-    const todayIndex = getTodaysIndex(enabledSets.length);
-    const todaySet = enabledSets[todayIndex];
+    if (holiday && hqRes && hqRes.ok && haRes && haRes.ok) {
+      const holidaySets = await hqRes.json();
+      const holidayAnswers = await haRes.json();
+      const matchingSets = holidaySets.filter(s => s.id.startsWith(holiday.setPrefix));
+      if (matchingSets.length > 0) {
+        const idx = getTodaysIndex(matchingSets.length);
+        todaySet = matchingSets[idx];
+        const answerSet = holidayAnswers.find(a => a.id === todaySet.id);
+        answerClues = answerSet ? answerSet.clues : [];
+      }
+    }
+
+    // Fallback to regular rotation if no holiday set found
+    if (!todaySet) {
+      const allSets = await qRes.json();
+      const enabledSets = allSets.filter(s => s.enabled !== false);
+      if (enabledSets.length === 0) throw new Error('No enabled sets found.');
+      const todayIndex = getTodaysIndex(enabledSets.length);
+      todaySet = enabledSets[todayIndex];
+      const answerSet = allAnswers.find(a => a.id === todaySet.id);
+      answerClues = answerSet ? answerSet.clues : [];
+    }
+
     const progress = loadProgress(todaySet.id);
-    const answerSet = allAnswers.find(a => a.id === todaySet.id);
-    const answerClues = answerSet ? answerSet.clues : [];
-
     renderQuiz(todaySet, answerClues, progress);
     loadLeaderboard();
   } catch (err) {

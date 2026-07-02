@@ -1,0 +1,662 @@
+- id: weatherbusters-001
+  enabled: true
+  title: Weatherbusters
+  topic: weather phenomena, seasons, and meteorological terms
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Right, Weatherbusters. Three weather things, all scrambled up. Say them out loud and you'll get there."
+  prize: "Email in. Winner gets a Blockbuster loyalty card and a travel umbrella that's already broken."
+  clues:
+    - number: 1
+      initials: H
+      clue: "Right, there's this massive wall of wind and it sounds like her cane. Like she owns a walking stick and it's making a racket."
+      answer: Hurricane
+      aliases:
+        - hurricane
+      reasoning: "Hurri (her-ee) + cane (walking stick) = Hurricane. Her + cane = Hurricane."
+    - number: 2
+      initials: F
+      clue: "Dead easy this. Some bloke called Frank has gone and disappeared. Can't see him. He's there but you can't make him out at all."
+      answer: Fog
+      aliases:
+        - fog
+      reasoning: "Fog sounds like fog. Clue built around the concept of Frank + og... actually fog = f + og. Just means you can't see. Phonetic scene: fog = can't see Frank."
+    - number: 3
+      initials: R
+      clue: "That Ray fella, right, he's had a bow and arrow out and done something colourful with it. Up in the sky. Sort of works."
+      answer: Rainbow
+      aliases:
+        - rainbow
+      reasoning: "Rain (Ray-n) + bow (bow and arrow) = Rainbow. Ray sounds like rain, bow is the archer's tool."
+
+- id: weatherbusters-002
+  enabled: true
+  title: Weatherbusters
+  topic: weather phenomena, seasons, and meteorological terms
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Weatherbusters again. Don't overthink it. Just say the clue out loud and listen to what comes out."
+  prize: "Email in. Winner gets an AOL trial disc and a Now 48 cassette, slightly warped."
+  clues:
+    - number: 1
+      initials: T
+      clue: "Some fella called Tom is having a right storm in a teacup. He's raging. And there's a drum kit involved for some reason."
+      answer: Thunderstorm
+      aliases:
+        - thunderstorm
+      reasoning: "Thunder (thun-der) + storm = Thunderstorm. Thun sounds like Tom + drum? Actually: thunder = thun-der, storm = storm. Tom + drum + storm? Better: thun-der-storm. The clue: 'thunder' sounds like 'Tom's drum'... near enough."
+    - number: 2
+      initials: L
+      clue: "Right, this fella called Len is getting on everyone's nerves. He's bright, he's fast, and he keeps appearing out of nowhere. Bit alarming."
+      answer: Lightning
+      aliases:
+        - lightning
+      reasoning: "Light (Len's brightness) + ning = Lightning. Light + ning = Lightning. Clue built around something bright and fast."
+    - number: 3
+      initials: S
+      clue: "That woman's gone and left a load of slippers out in the rain. Wet slippers everywhere. All mixed up with some frozen bits. Alright?"
+      answer: Sleet
+      aliases:
+        - sleet
+      reasoning: "Slee (slipper-ish sound) + t = Sleet. Slee sounds like 'slee' from slippers, t at the end. Near enough."
+
+- id: weatherbusters-003
+  enabled: true
+  title: Weatherbusters
+  topic: weather phenomena, seasons, and meteorological terms
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Three more weather ones. All phonetic. Say them out loud, don't just stare at them."
+  prize: "Email in. Winner gets a printed photo from a disposable camera, slightly overexposed, framed."
+  clues:
+    - number: 1
+      initials: B
+      clue: "This wizard fella, right, he's got his wand out and he's covered everything in white. Hard. Billy the wizard. That's all."
+      answer: Blizzard
+      aliases:
+        - blizzard
+      reasoning: "Bliz (Billie's + z sound) + zard (wizard) = Blizzard. Billy + wizard = Blizzard. Near enough when said aloud."
+    - number: 2
+      initials: H
+      clue: "It's dead hot, right, and someone called Wayne's turning up like a microwave. Everyone's sweating. Wave after wave of it."
+      answer: Heatwave
+      aliases:
+        - heatwave
+      reasoning: "Heat (dead hot) + wave (Wayne = wave) = Heatwave. Heat + wave = Heatwave. Wave sounds like Wayne near enough."
+    - number: 3
+      initials: D
+      clue: "That little drip of a fella's come back again. Not enough to be proper rain, just a bit annoying. He's dribbling on everyone."
+      answer: Drizzle
+      aliases:
+        - drizzle
+      reasoning: "Driz (drip + iz) + zle = Drizzle. Sounds like a dribbling drip. Drizzle = light annoying rain. Scene works phonetically."
+
+- id: weatherbusters-004
+  enabled: true
+  title: Weatherbusters
+  topic: weather phenomena, seasons, and meteorological terms
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Weatherbusters. Easy ones these. Three clues, three weather answers. Have a go."
+  prize: "Email in. Winner gets a signed letter from someone off Emmerdale, possibly."
+  clues:
+    - number: 1
+      initials: T
+      clue: "Right, there's a fella called Ned and he's gone and done a spin. Round and round in a field. Don't know why. Made a mess."
+      answer: Tornado
+      aliases:
+        - tornado
+      reasoning: "Tor (tore) + nado (Ned-o) = Tornado. Tore + Ned + o = Tornado. Said aloud: tor-NAY-do sounds like tore-Ned-oh. Near enough."
+    - number: 2
+      initials: F
+      clue: "That morning when you go outside and everything's gone white and crunchy. Bit sharp on the grass. Dave touched it and regretted it."
+      answer: Frost
+      aliases:
+        - frost
+      reasoning: "Frost = frost. Scene describes frost on the ground. F + rost. Phonetically direct."
+    - number: 3
+      initials: H
+      clue: "Them little stones falling out the sky, right, they're landing on your bonce and it proper hurts. Big ones too. Like someone's chucking rocks."
+      answer: Hailstone
+      aliases:
+        - hailstone
+        - hail stone
+      reasoning: "Hail (them stones from the sky) + stone = Hailstone. Hail + stone = Hailstone. Dead straightforward that."
+
+- id: weatherbusters-005
+  enabled: true
+  title: Weatherbusters
+  topic: weather phenomena, seasons, and meteorological terms
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Weatherbusters, number five. Say the clues out loud. The sounds'll do the work for you."
+  prize: "Email in. Winner gets a mug from a company that no longer exists and a biro that's nearly run out."
+  clues:
+    - number: 1
+      initials: S
+      clue: "That little flake of white stuff, right, it's not like the others. It's got six sides and everything. Quite fancy for something that melts."
+      answer: Snowflake
+      aliases:
+        - snowflake
+      reasoning: "Snow (white cold stuff) + flake (a single flat piece) = Snowflake. Snow + flake = Snowflake. Scene describes a snowflake directly."
+    - number: 2
+      initials: M
+      clue: "Right, there's a lad called Mon and he's got a spoon out. Big one. Stirring something. Tropical weather's involved somehow."
+      answer: Monsoon
+      aliases:
+        - monsoon
+      reasoning: "Mon (Mon) + soon (spoon minus the p) = Monsoon. Mon + soon = Monsoon. Soon sounds like spoon said lazy. Near enough."
+    - number: 3
+      initials: C
+      clue: "That fella's cycled round in a big circle. Nobody asked him to. Just went round and round. Wind everywhere. That's that."
+      answer: Cyclone
+      aliases:
+        - cyclone
+      reasoning: "Cycle (cycling round) + one (lone) = Cyclone. Cy + clone... or cycle + own = Cyclone. Said aloud: SY-clone = cycle + own. Works."
+
+- id: weatherbusters-006
+  enabled: true
+  title: Weatherbusters
+  topic: weather phenomena, seasons, and meteorological terms
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "More Weatherbusters. Getting windier. Say them out loud and the answers'll come to you."
+  prize: "Email in. Winner gets a scratch card with nothing on it and a pen from a hotel."
+  clues:
+    - number: 1
+      initials: T
+      clue: "That bloke Ty is blowing a gale again. Always doing it. Won't stop. Causing chaos. Big one, mind. Proper dangerous."
+      answer: Typhoon
+      aliases:
+        - typhoon
+      reasoning: "Ty (fella called Ty) + phoon (fun said lazy = phoon) = Typhoon. Ty + phoon = Typhoon. Ty + foon sounds like Typhoon aloud."
+    - number: 2
+      initials: A
+      clue: "Right, there's been a massive slide of snow and rocks down a mountain. An ava-lass. No wait — a massive launch of stuff coming down."
+      answer: Avalanche
+      aliases:
+        - avalanche
+      reasoning: "Ava (name Ava) + launch (a rocket launch) = Avalanche. Ava + launch = Avalanche. Said aloud: AV-a-launch = Avalanche. Near enough."
+    - number: 3
+      initials: E
+      clue: "There's a little boy called El and he's gone warm again. Everything's heating up around him. He does it every few years."
+      answer: El Nino
+      aliases:
+        - el nino
+        - el niño
+      reasoning: "El (little fella called El) + Nino (like a little one, nino = child in Spanish) = El Nino. El + nee-nyo = El Nino. Scene: warm boy called El."
+
+- id: weatherbusters-007
+  enabled: true
+  title: Weatherbusters
+  topic: weather phenomena, seasons, and meteorological terms
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Weatherbusters seven. Three answers, all weather-related. Easy if you listen to the sounds."
+  prize: "Email in. Winner gets a commemorative tea towel from a royal event that already happened."
+  clues:
+    - number: 1
+      initials: J
+      clue: "Right, there's a stream of jets up high in the sky, going dead fast. Like a river but it's not water, it's wind. Up there. That's all."
+      answer: Jet Stream
+      aliases:
+        - jet stream
+      reasoning: "Jet (a fast jet) + stream (a river/stream) = Jet Stream. Jet + stream = Jet Stream. Dead literal that one."
+    - number: 2
+      initials: B
+      clue: "Barry's got a meter. He's measuring something to do with pressure. Keeps checking it. Won't explain why. Just says it's going down."
+      answer: Barometer
+      aliases:
+        - barometer
+      reasoning: "Baro (Barry-oh) + meter (a measuring device) = Barometer. Barry + meter = Barometer. Baro sounds like Barry said quick. Near enough."
+    - number: 3
+      initials: I
+      clue: "There's a bar right, but it only lets in people who are exactly the same as each other. Iso-style. Equal pressure only. Alright?"
+      answer: Isobar
+      aliases:
+        - isobar
+      reasoning: "Iso (equal, like isolated) + bar (a bar you go to) = Isobar. Eye-so + bar = Isobar. The bar scene works phonetically."
+
+- id: weatherbusters-008
+  enabled: true
+  title: Weatherbusters
+  topic: weather phenomena, seasons, and meteorological terms
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Weatherbusters. Three clouds this time. Well, weather things. Say them out loud. Don't try and spell them."
+  prize: "Email in. Winner gets a copy of Encarta 99 on CD and a mouse mat from a building society."
+  clues:
+    - number: 1
+      initials: C
+      clue: "Right, a few of those thin wispy clouds up high, like somebody's dragged a comb through the sky. Very high up. Bit airy."
+      answer: Cirrus
+      aliases:
+        - cirrus
+      reasoning: "Cirrus = SIR-us. Sir (like a knight, sir) + us = Cirrus. Sir + us = Cirrus. The clue: someone posh up high. Near enough."
+    - number: 2
+      initials: S
+      clue: "That flat grey cloud's back. It's covering everything like a massive blanket somebody's put over the sky. Boring looking. Sort of grey."
+      answer: Stratus
+      aliases:
+        - stratus
+      reasoning: "Stratus = STRAT-us. Strat (flat layer) + us = Stratus. Sounds like stratum + us. Flat layer cloud."
+    - number: 3
+      initials: C
+      clue: "Right, that big tall cloud, the proper angry looking one. It's cumulo-ed itself up enormous. Massive. Proper dramatic. Nim-bly done it too."
+      answer: Cumulonimbus
+      aliases:
+        - cumulonimbus
+      reasoning: "Cumulo (accumulated, piling up) + nimbus (nimble bus?) = Cumulonimbus. Kyoom-you-lo + nim-bus = Cumulonimbus. The nimble bus climbing up to the cumulus. Bit of a stretch but sounds right aloud."
+
+- id: weatherbusters-009
+  enabled: true
+  title: Weatherbusters
+  topic: weather phenomena, seasons, and meteorological terms
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Weatherbusters nine. All phonetic. The answers are in the sounds, not the words. Have a go."
+  prize: "Email in. Winner gets a Tamagotchi with a cracked screen and a half-used sticker book."
+  clues:
+    - number: 1
+      initials: N
+      clue: "There's a bus, right, and it's covered in cloud. Proper nimble that bus, always in the grey stuff. Can't see where it's going."
+      answer: Nimbostratus
+      aliases:
+        - nimbostratus
+      reasoning: "Nimbo (nimble + o) + stratus (flat cloud layer) = Nimbostratus. Nim-bo + stra-tus = Nimbostratus. Nimble bus on a flat road covered in grey."
+    - number: 2
+      initials: A
+      clue: "That fella called Andy is measuring the wind. He's got one of them spinning things on a stick. Very pleased with himself about it."
+      answer: Anemometer
+      aliases:
+        - anemometer
+      reasoning: "Anem (Anim... Anem sounds like 'a name') + ometer (a meter) = Anemometer. An-ee-mom-eter. An (a) + nemo (like the fish) + meter = Anemometer. A Nemo with a meter. That works aloud."
+    - number: 3
+      initials: C
+      clue: "Right, this fella Colin's gone cold. Really cold. He's moved to the front of the queue and he's brought all his cold weather with him."
+      answer: Cold Front
+      aliases:
+        - cold front
+      reasoning: "Cold (Colin's gone cold) + front (front of the queue) = Cold Front. Cold + front = Cold Front. Very literal, that one."
+
+- id: weatherbusters-010
+  enabled: true
+  title: Weatherbusters
+  topic: weather phenomena, seasons, and meteorological terms
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Right, Weatherbusters ten. Halfway through. Say them out loud. The sounds do the job."
+  prize: "Email in. Winner gets a miniature bottle of shampoo from a Premier Inn and a lanyard."
+  clues:
+    - number: 1
+      initials: S
+      clue: "There's a cell, right, and it's gone proper super. Not a regular cell, a super one. Big, spinning, dangerous. Bit show-offy."
+      answer: Supercell
+      aliases:
+        - supercell
+      reasoning: "Super (proper super) + cell (a cell) = Supercell. Super + cell = Supercell. Dead literal phonetically."
+    - number: 2
+      initials: H
+      clue: "Right, there's a fella called Bobby who lives in a sandstorm. He goes out in them on purpose. Bob's your uncle and all that."
+      answer: Haboob
+      aliases:
+        - haboob
+      reasoning: "Ha (ha!) + boob... actually Haboob = ha-BOOB. Ha + boo + b. Or: Ha + Bob = Haboob. Fella called Bob who goes ha = Haboob. Said aloud it works."
+    - number: 3
+      initials: H
+      clue: "There's a load of hail, right, and it's just hanging about up there doing nothing. A stone. One stone. Just the one. That's all."
+      answer: Hailstone
+      aliases:
+        - hailstone
+      reasoning: "Hail (hail weather) + stone (one stone) = Hailstone. Hail + stone = Hailstone."
+
+- id: weatherbusters-011
+  enabled: true
+  title: Weatherbusters
+  topic: weather phenomena, seasons, and meteorological terms
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Weatherbusters eleven. Keep going. All weather. All phonetic. Say them out loud."
+  prize: "Email in. Winner gets a fridge magnet from somewhere in Wales and a biscuit in a cellophane wrapper."
+  clues:
+    - number: 1
+      initials: F
+      clue: "That wintry coating on the windows in the morning. Roy's got it on his car and he's not happy. Has to scrape it off. Every time."
+      answer: Frost
+      aliases:
+        - frost
+      reasoning: "Frost = frost. F + rost. Roy + ost? No, just frost. Scene describes frost on the windscreen. Phonetically direct."
+    - number: 2
+      initials: D
+      clue: "That irritating rain that isn't quite rain. It's just sort of there, on your face. You can't use an umbrella for it. Too small."
+      answer: Drizzle
+      aliases:
+        - drizzle
+      reasoning: "Drizzle = DRIZ-zul. Sounds like a dribble crossed with a mizzle. Scene: annoying non-rain on your face."
+    - number: 3
+      initials: S
+      clue: "Right, that mix of rain and snow coming down together. Slipping on it, you are. Wet and cold at the same time. Horrible stuff."
+      answer: Sleet
+      aliases:
+        - sleet
+      reasoning: "Sleet = sleet. Sl + eet. Slee + t. Slippery + eat? Scene describes sleet: wet cold mixture. Phonetically direct."
+
+- id: weatherbusters-012
+  enabled: true
+  title: Weatherbusters
+  topic: weather phenomena, seasons, and meteorological terms
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "More Weatherbusters. Three more. Keep saying them out loud. That's the whole game, really."
+  prize: "Email in. Winner gets a map book from 2003 with a page missing and a foam travel pillow."
+  clues:
+    - number: 1
+      initials: R
+      clue: "It came out after the rain, didn't it. Loads of colours. Red through to violet. Up in the sky. Roy saw it but couldn't explain it."
+      answer: Rainbow
+      aliases:
+        - rainbow
+      reasoning: "Rain (after the rain) + bow (like an arc or bow shape) = Rainbow. Rain + bow = Rainbow."
+    - number: 2
+      initials: T
+      clue: "There's a bloke called Tom who's spinning round and round in a funnel going downward. He's making a right mess. Round and round."
+      answer: Tornado
+      aliases:
+        - tornado
+      reasoning: "Tor (tore, as in spinning fast) + nado (Tom + ado = nado) = Tornado. Torn + ado = Tornado. Said aloud: tor-NAY-do = tore + Ned + oh."
+    - number: 3
+      initials: H
+      clue: "That massive spiral storm, right, it goes round a calm middle bit. Cane sound again. She's back. Making a racket."
+      answer: Hurricane
+      aliases:
+        - hurricane
+      reasoning: "Hurri (her-ee) + cane (walking stick) = Hurricane. Her + cane = Hurricane."
+
+- id: weatherbusters-013
+  enabled: true
+  title: Weatherbusters
+  topic: weather phenomena, seasons, and meteorological terms
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Weatherbusters thirteen. Nothing unlucky about it. Just weather sounds. Have a listen."
+  prize: "Email in. Winner gets a commemorative spoon from a garden centre and an out-of-date Boots voucher."
+  clues:
+    - number: 1
+      initials: B
+      clue: "Billy's done it again. White everywhere. Proper white-out. Billy's wizard cousin's involved. No visibility. That's all."
+      answer: Blizzard
+      aliases:
+        - blizzard
+      reasoning: "Bliz (Billy's + z) + zard (wizard without the wi) = Blizzard. Billy + wizard = Blizzard. Said aloud: BLIZ-ard = Billy's wizard. Near enough."
+    - number: 2
+      initials: L
+      clue: "Bright flash from the sky, comes and goes. Len's doing it. On and off. Faster than you'd think. Don't stand under a tree, Len."
+      answer: Lightning
+      aliases:
+        - lightning
+      reasoning: "Light (bright flash) + ning = Lightning. Light + ning = Lightning. Len the bright flasher."
+    - number: 3
+      initials: M
+      clue: "Mon's back with his spoon, stirring a massive pot of tropical rain. Goes on for months. You'd think he'd get bored of it."
+      answer: Monsoon
+      aliases:
+        - monsoon
+      reasoning: "Mon (fella called Mon) + soon (spoon without the p, said lazily) = Monsoon. Mon + soon = Monsoon."
+
+- id: weatherbusters-014
+  enabled: true
+  title: Weatherbusters
+  topic: weather phenomena, seasons, and meteorological terms
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Weatherbusters fourteen. Three more phonetic weather answers. Listen to the sounds."
+  prize: "Email in. Winner gets a set of felt tips with the red one missing and a Pret loyalty card, nearly full."
+  clues:
+    - number: 1
+      initials: C
+      clue: "Right, these are them high thin cloud threads. Very fancy looking. Like someone dragged a white silk scarf across the sky. Not rain clouds."
+      answer: Cirrus
+      aliases:
+        - cirrus
+      reasoning: "Cirrus = SIR-us. Sir (posh, like silk scarf) + us = Cirrus. Sir sounds like the sir you'd say to someone posh up high."
+    - number: 2
+      initials: J
+      clue: "Fast river of air, up high. Goes from west to east mostly over here. Planes use it to go quicker. It's a stream but for jets."
+      answer: Jet Stream
+      aliases:
+        - jet stream
+      reasoning: "Jet (aircraft jet) + stream (a flowing stream) = Jet Stream. Jet + stream = Jet Stream. Very literal."
+    - number: 3
+      initials: C
+      clue: "That massive spinning thing over the ocean, going round and round. Like a bike but enormous. With wind. Lots of wind."
+      answer: Cyclone
+      aliases:
+        - cyclone
+      reasoning: "Cycle (cycling round) + one = Cyclone. Cy + clone. Said aloud: SY-clone = cycle + own. Spinning bike of weather."
+
+- id: weatherbusters-015
+  enabled: true
+  title: Weatherbusters
+  topic: weather phenomena, seasons, and meteorological terms
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Weatherbusters fifteen. More sounds, more weather. Don't stare at the letters, listen to the words."
+  prize: "Email in. Winner gets a branded baseball cap from a company who did a conference in 2008 and a Parker pen."
+  clues:
+    - number: 1
+      initials: T
+      clue: "Ty's at it again. Big spinning one this time, out in the Pacific. Typhoon. Well, he's the one making all the noise out there."
+      answer: Typhoon
+      aliases:
+        - typhoon
+      reasoning: "Ty (fella called Ty) + phoon (like buffoon without the buf) = Typhoon. Ty + foon = Typhoon. Said aloud it works."
+    - number: 2
+      initials: H
+      clue: "Massive wave of heat just arrived. Nobody asked for it. Wayne brought it. He does this every summer. Everyone's complaining."
+      answer: Heatwave
+      aliases:
+        - heatwave
+      reasoning: "Heat (massive warmth) + wave (Wayne = wave, Wayne's bringing waves) = Heatwave. Heat + wave = Heatwave."
+    - number: 3
+      initials: S
+      clue: "That flat grey blanket of a cloud, right, covering everything. Not high up, just there. Sat on the hills like it owns the place."
+      answer: Stratus
+      aliases:
+        - stratus
+      reasoning: "Stratus = STRAT-us. Strat (flat strategy/layer) + us = Stratus. Flat cloud, flat strategy. Layer upon layer."
+
+- id: weatherbusters-016
+  enabled: true
+  title: Weatherbusters
+  topic: weather phenomena, seasons, and meteorological terms
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Weatherbusters sixteen. Getting near the end now. Say them out loud. That's the rule."
+  prize: "Email in. Winner gets a cinema stub from a film that's already out on Netflix and a Werther's Original."
+  clues:
+    - number: 1
+      initials: I
+      clue: "Equal pressure line on a weather map. Bit like a queue but for air. They only let in people who match. The bar's very strict."
+      answer: Isobar
+      aliases:
+        - isobar
+      reasoning: "Iso (equal, isolated) + bar (a bar venue) = Isobar. Eye-so + bar = Isobar. Equal pressure bar."
+    - number: 2
+      initials: A
+      clue: "There's Ava again and she's launched something massive off a mountain. Snow and rocks everywhere. She launches things a lot."
+      answer: Avalanche
+      aliases:
+        - avalanche
+      reasoning: "Ava (name Ava) + launch (launching things) = Avalanche. Ava + launch = Avalanche. AV-a-launch = Avalanche aloud."
+    - number: 3
+      initials: N
+      clue: "That angry dark grey cloud that just rains and rains. Not a normal cloud. Nimble, flat, everywhere. Won't stop. Just grey."
+      answer: Nimbostratus
+      aliases:
+        - nimbostratus
+      reasoning: "Nimbo (nimble + o) + stratus (flat layer cloud) = Nimbostratus. Nim-bo + stra-tus = Nimbostratus. Nimble flat grey thing."
+
+- id: weatherbusters-017
+  enabled: true
+  title: Weatherbusters
+  topic: weather phenomena, seasons, and meteorological terms
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Weatherbusters seventeen. Three more phonetic ones. The sound is the thing. Not the letters."
+  prize: "Email in. Winner gets a packet of tissues with two left in and a loyalty card for a sandwich shop that's closed down."
+  clues:
+    - number: 1
+      initials: C
+      clue: "That enormous dark storm cloud going up miles into the sky. The angry one. Massive. Cumulo'd itself right up. Nim-bus on top."
+      answer: Cumulonimbus
+      aliases:
+        - cumulonimbus
+      reasoning: "Cumulo (accumulated) + nimbus (nimble bus) = Cumulonimbus. Kyoom-you-lo + nim-bus. A nimble bus piled up into the sky."
+    - number: 2
+      initials: B
+      clue: "Barry's at it again with his pressure gauge. Goes up, goes down. He checks it every morning. Doesn't share what it says."
+      answer: Barometer
+      aliases:
+        - barometer
+      reasoning: "Baro (Barry-oh said quick) + meter (measuring gauge) = Barometer. Barry + meter = Barometer. Bar-o-meter."
+    - number: 3
+      initials: S
+      clue: "That cell again. The super one. It's spinning and it won't stop. Bigger than a normal cell. Think it wants to show off."
+      answer: Supercell
+      aliases:
+        - supercell
+      reasoning: "Super (super, more than normal) + cell (a cell structure) = Supercell. Super + cell = Supercell. Direct and phonetically clean."
+
+- id: weatherbusters-018
+  enabled: true
+  title: Weatherbusters
+  topic: weather phenomena, seasons, and meteorological terms
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Nearly done with the Weatherbusters. Say these out loud. Sounds like the answer, every time."
+  prize: "Email in. Winner gets a DVD box set with no discs in it and a notepad from a bank."
+  clues:
+    - number: 1
+      initials: E
+      clue: "Little El's gone and warmed the ocean up again. He does it on a cycle. A few years pass and there he is. Warm water. Palm trees."
+      answer: El Nino
+      aliases:
+        - el nino
+        - el niño
+      reasoning: "El (little boy El) + Nino (nino = little one, also sounds like 'knee-no') = El Nino. El + nee-nyo = El Nino. The warm little boy."
+    - number: 2
+      initials: H
+      clue: "Bob's back in his sandstorm. Ha! There he is. Swirling wall of dust. That's his thing, is Bob. Lives in the desert."
+      answer: Haboob
+      aliases:
+        - haboob
+      reasoning: "Ha (ha!) + Bob (fella called Bob) = Haboob. Ha + boo + b = Haboob. Ha-Bob said quick = Haboob aloud."
+    - number: 3
+      initials: A
+      clue: "Andy's still spinning his wind meter. Goes round and round on a stick. Measures how fast it is. Andy loves that stick."
+      answer: Anemometer
+      aliases:
+        - anemometer
+      reasoning: "An (a) + nemo (Nemo the fish, or nee-mo) + meter (measuring device) = Anemometer. A + Nemo + meter = Anemometer. Said aloud: an-ee-MOM-eter. A Nemo with a meter."
+
+- id: weatherbusters-019
+  enabled: true
+  title: Weatherbusters
+  topic: weather phenomena, seasons, and meteorological terms
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Weatherbusters nineteen. Two more after this. Phonetic answers, weather theme. Say them out loud."
+  prize: "Email in. Winner gets an inflatable globe with a dent in it and a key that doesn't open anything."
+  clues:
+    - number: 1
+      initials: C
+      clue: "Right, Colin's gone cold and he's pushed himself to the front. Brought all his grey weather with him. Everyone behind him is freezing."
+      answer: Cold Front
+      aliases:
+        - cold front
+      reasoning: "Cold (Colin's gone cold) + front (pushed to the front) = Cold Front. Cold + front = Cold Front. Very direct."
+    - number: 2
+      initials: S
+      clue: "One of them individual snowflakes, right. Not a load of them, just one. Six-sided, unique, melts the second it lands on your hand."
+      answer: Snowflake
+      aliases:
+        - snowflake
+      reasoning: "Snow (the cold white stuff) + flake (a single thin piece) = Snowflake. Snow + flake = Snowflake. Direct phonetic match."
+    - number: 3
+      initials: T
+      clue: "Right, there's a big drum kit in the sky and someone's having a right go at it. Loud crashes. Flash as well. Tom from next door, probably."
+      answer: Thunderstorm
+      aliases:
+        - thunderstorm
+      reasoning: "Thunder (drum crash sound) + storm (the whole event) = Thunderstorm. Thunder + storm = Thunderstorm. Tom's drum storm."
+
+- id: weatherbusters-020
+  enabled: true
+  title: Weatherbusters
+  topic: weather phenomena, seasons, and meteorological terms
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Last one. Weatherbusters twenty. Three final weather sounds. You've come this far. Finish it off."
+  prize: "Email in. Winner gets a novelty pen shaped like a fish and a cardboard coaster from a pub that's now a Tesco."
+  clues:
+    - number: 1
+      initials: F
+      clue: "Right, you can't see a thing. Everything's gone grey and white and murky. Frank's out there somewhere. Can't find him."
+      answer: Fog
+      aliases:
+        - fog
+      reasoning: "Fog = fog. F + og. Frank's gone? Gone in the fog. Scene describes fog directly. Phonetically simple."
+    - number: 2
+      initials: R
+      clue: "Ray came back from archery practice looking very colourful. Something to do with the rain and the light. Bit of a natural phenomenon, is Ray."
+      answer: Rainbow
+      aliases:
+        - rainbow
+      reasoning: "Rain (Ray's been in the rain) + bow (Ray's archery bow) = Rainbow. Ray + bow = Rainbow. Rain + bow = Rainbow aloud."
+    - number: 3
+      initials: H
+      clue: "This one keeps coming up but it keeps working. Her walking stick's making noise again. Big storm, going round and round. That's it."
+      answer: Hurricane
+      aliases:
+        - hurricane
+      reasoning: "Hurri (her-ee) + cane (walking stick) = Hurricane. Her + cane = Hurricane. Said aloud: HUR-ri-cane = her + cane."

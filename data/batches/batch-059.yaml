@@ -1,0 +1,105 @@
+- id: cyberbusters-001
+  enabled: true
+  title: Cyberbusters
+  topic: cybersecurity terms
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - Global
+  intro: "Right, Cyberbusters. Same rules as always — say the clues out loud and the answer's hiding in the sounds somewhere. All cybersecurity this time."
+  prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
+  clues:
+    - number: 1
+      initials: P
+      clue: "A fish has taken up a hobby. Not swimming — something else. A leisure activity. It's casting a line, which is ironic, but that's what it's doing."
+      answer: Phishing
+      aliases:
+        - phishing
+      reasoning: "fish (a fish, an aquatic creature) + ing (doing a hobby, present participle) = Fish-ing = Phishing"
+    - number: 2
+      initials: R
+      clue: "A bloke has done a quick sprint, then stopped to do a bit of arithmetic, then put on a coat. All three things. In that order. Nobody knows why."
+      answer: Ransomware
+      aliases:
+        - ransomware
+      reasoning: "ran (sprinted, past tense of run) + som (sounds like 'sum', a piece of arithmetic) + ware (something you wear, or software) = Ran-som-ware = Ransomware"
+    - number: 3
+      initials: F W
+      clue: "There's been a bit of a blaze and it's hit a load of bricks. The bricks are fine. They're not bothered. The fire is out now."
+      answer: Firewall
+      aliases:
+        - firewall
+      reasoning: "fire (a blaze, flames) + wall (a structure made of bricks) = Fire-wall = Firewall"
+
+- id: cyberbusters-002
+  enabled: true
+  title: Cyberbusters
+  topic: cybersecurity terms
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - Global
+  intro: "Cyberbusters two. All things internet security. Say these out loud — the sounds are what matter, not the spelling."
+  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists."
+  clues:
+    - number: 1
+      initials: M
+      clue: "Something has viciously attacked a bloke who was just stood there in his best outfit. Completely unprovoked. He's still wearing it, to be fair."
+      answer: Malware
+      aliases:
+        - malware
+      reasoning: "maul (to attack, sounds like 'mal') + ware (something worn, or software) = Maul-ware = Malware"
+    - number: 2
+      initials: D W
+      clue: "A spider has gone somewhere it really shouldn't. Very dim in there. It's not coming back out and it won't say what it found."
+      answer: Dark Web
+      aliases:
+        - dark web
+        - the dark web
+      reasoning: "dark (very dim, no light) + web (a spider's web, also the internet) = Dark Web"
+    - number: 3
+      initials: T F
+      clue: "A pair of things — just two of them — have been to a factory and come out having multiplied. There were two going in and considerably more coming out."
+      answer: Two Factor
+      aliases:
+        - two factor
+        - two factor authentication
+        - 2fa
+      reasoning: "two (a pair, the number 2) + factor (something that multiplies, or a factory operative) = Two-Factor"
+
+- id: cyberbusters-003
+  enabled: true
+  title: Cyberbusters
+  topic: cybersecurity terms
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - Global
+  intro: "Three. Cyberbusters three. Last of this batch. All cybersecurity. The answers are hiding in what the clues sound like."
+  prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
+  clues:
+    - number: 1
+      initials: T H
+      clue: "A bloke called John — definitely from Troy, he's been very clear about that — has turned up on a horse. He won't say what's inside it."
+      answer: Trojan Horse
+      aliases:
+        - trojan horse
+        - trojan
+      reasoning: "Trojan (someone from Troy, adjective for the city of Troy) + horse (a large four-legged animal, also what they famously hid inside) = Trojan Horse"
+    - number: 2
+      initials: Z D
+      clue: "Nothing has happened today. Absolutely nothing. Someone's kept a record of it. Full log. Completely empty."
+      answer: Zero Day
+      aliases:
+        - zero day
+        - zero-day
+        - 0day
+      reasoning: "zero (nothing, the number 0, empty) + day (a 24-hour period, today) = Zero Day"
+    - number: 3
+      initials: S I
+      clue: "A film came out — a sequel to a previous one — and it went straight to the doctor for a jab. Didn't even wait for the reviews."
+      answer: SQL Injection
+      aliases:
+        - sql injection
+        - sequel injection
+      reasoning: "SQL (pronounced 'sequel', a follow-up film) + injection (a jab, a shot given by a doctor) = Sequel-Injection = SQL Injection"

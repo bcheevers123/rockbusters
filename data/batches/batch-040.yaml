@@ -1,0 +1,708 @@
+- id: gamebusters-001
+  enabled: true
+  title: Gamebusters
+  topic: video games, board games, and gaming franchises
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Right, Gamebusters. Three answers, all from the world of games. Could be a video game, could be a board game. Say it out loud."
+  prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
+  clues:
+    - number: 1
+      initials: M
+      clue: "Me mate's gone and built a house out of rocks. Just dug them up himself. Didn't buy them from anywhere. Bit impressive really."
+      answer: Minecraft
+      aliases:
+        - minecraft
+      reasoning: "mine (dug them up himself, like mining) + craft (building a house, crafting) = Minecraft. Spoken together: mine-craft."
+    - number: 2
+      initials: S
+      clue: "That bloke Rab, right, he's had a bit of a wobble. Just sort of… toppled over. Near enough."
+      answer: Scrabble
+      aliases:
+        - scrabble
+      reasoning: "Scrabble sounds like: scrab-ble. Rab scrambled, had a scramble = Scrabble. Rab + scramble = scrabble."
+    - number: 3
+      initials: R
+      clue: "Bit of a gamble this one. You've got your armies, right, and it all comes down to whether you fancy your chances. That's the whole idea."
+      answer: Risk
+      aliases:
+        - risk
+      reasoning: "Risk = the concept of taking a gamble, sending armies into battle, it's literally called Risk because it's all about risk."
+
+- id: gamebusters-002
+  enabled: true
+  title: Gamebusters
+  topic: video games, board games, and gaming franchises
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Gamebusters is back. Three more gaming answers. Phonetic clues. Listen carefully, not look carefully."
+  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists."
+  clues:
+    - number: 1
+      initials: F
+      clue: "Right, a pretty strong nighttime. Really quite dark out. Then bang — someone goes and shoots a small piece of metal through it."
+      answer: Fortnite
+      aliases:
+        - fortnite
+      reasoning: "fort (strong, fortified) + night (nighttime, dark) = Fortnite. Sounds like: fort-night."
+    - number: 2
+      initials: M
+      clue: "Me nan's gone all worried. Reckons she's getting too posh. Don't know why. She just is."
+      answer: Monopoly
+      aliases:
+        - monopoly
+      reasoning: "mono (one, solo) + poly sounds like poly, but phonetically: moan-OP-oly. Better split: moan + opolly. Nan's moaning and she's on her own = mono + poly. Near enough."
+    - number: 3
+      initials: T
+      clue: "Four-sided shapes falling from the sky. All different. You've got to fit them together quick before it all goes wrong. Bit stressful."
+      answer: Tetris
+      aliases:
+        - tetris
+      reasoning: "Tetris = tetra (four-sided shapes, Greek for four) + ris. The shapes are tetrominoes. Say it out loud: TET-ris."
+
+- id: gamebusters-003
+  enabled: true
+  title: Gamebusters
+  topic: video games, board games, and gaming franchises
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Three more this week. All games. Some you'll know from the telly, some from the living room floor. Say them out loud, alright?"
+  prize: "Email in. Winner gets a printed photo from a disposable camera, framed."
+  clues:
+    - number: 1
+      initials: PM
+      clue: "There's a fella eating dots in a dark corridor. Just going around munching. Everyone's chasing him. Odd way to spend an evening."
+      answer: Pac-Man
+      aliases:
+        - pac-man
+        - pac man
+        - pacman
+      reasoning: "Pac sounds like pack (to pack something, or a pack of things) + Man = a man. Pack-Man. A man who packs things away — like dots. Pac-Man."
+    - number: 2
+      initials: C
+      clue: "Some fella in the study with a candlestick. Bit suspicious. Nobody's saying who did it but it was probably him."
+      answer: Cluedo
+      aliases:
+        - cluedo
+        - clue
+      reasoning: "Cluedo = clue + do. Sounds like clue-doh. You're looking for clues about who done it. Clue + doh = Cluedo."
+    - number: 3
+      initials: CF
+      clue: "Right, you've got this grid. Four in a row. First one to get there wins. Connect them up."
+      answer: Connect Four
+      aliases:
+        - connect four
+        - connect 4
+      reasoning: "Connect (join together) + Four (the number four) = Connect Four. You connect four pieces. Literal but it works phonetically: con-NECT four."
+
+- id: gamebusters-004
+  enabled: true
+  title: Gamebusters
+  topic: video games, board games, and gaming franchises
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Gamebusters. Right. This week it's all about games. Some on a screen, some on a table. Give it a go."
+  prize: "Email in. Winner gets a signed letter from someone off Emmerdale, possibly."
+  clues:
+    - number: 1
+      initials: DK
+      clue: "There's a large primate. Big fella. And he's not just any primate — he's acting up. Causing a proper scene."
+      answer: Donkey Kong
+      aliases:
+        - donkey kong
+      reasoning: "Donkey (a donkey, the animal — but here sounds like a stubborn silly thing) + Kong (a kong, big ape) = Donkey Kong. Don-key Kong. A donkey + Kong the ape."
+    - number: 2
+      initials: TP
+      clue: "It's a test, right. But it's not just any test — it covers everything. History, science, sport, the lot. And there's a wheel involved for some reason."
+      answer: Trivial Pursuit
+      aliases:
+        - trivial pursuit
+      reasoning: "Trivial (trivial, small, unimportant things) + Pursuit (chasing after something) = Trivial Pursuit. Triv-ial pur-suit. Chasing after trivial knowledge."
+    - number: 3
+      initials: Z
+      clue: "That princess hasn't half gone off somewhere. Nobody can find her. Bloke's been looking for ages. Getting on a bit now."
+      answer: Zelda
+      aliases:
+        - zelda
+        - the legend of zelda
+      reasoning: "Zelda = zel-da. Sounds like: sell-da, or zeld-a. The name Zelda, said out loud: ZELL-da."
+
+- id: gamebusters-005
+  enabled: true
+  title: Gamebusters
+  topic: video games, board games, and gaming franchises
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Gamebusters. Five down, fifteen to go. Three clues, all games. No spelling, just saying. Right?"
+  prize: "Email in. Winner gets an old strategy guide for a game nobody plays anymore."
+  clues:
+    - number: 1
+      initials: SM
+      clue: "There's this plumber, right. Bit stocky. He's gone and got himself a brother. A super brother, apparently."
+      answer: Super Mario
+      aliases:
+        - super mario
+        - super mario bros
+      reasoning: "Super (super, excellent, above normal) + Mario (the name Mario, Italian fella) = Super Mario. Soo-per Mah-ree-oh."
+    - number: 2
+      initials: P
+      clue: "You've got these little creatures. Hundreds of them. And everyone's out there catching them. Apparently you gotta catch all of them."
+      answer: Pokemon
+      aliases:
+        - pokemon
+        - pokémon
+      reasoning: "Poke (to poke something, prod it) + mon (mon, like morning shortened, or just mon) = Pokemon. Poh-kee-mon. Pocket monsters, pocket + monster = poke + mon."
+    - number: 3
+      initials: S
+      clue: "That bloke, right, he's built a whole town. Bit by bit. Houses, roads, the lot. Started from scratch he did."
+      answer: Scrabble
+      aliases:
+        - scrabble
+      reasoning: "Scrabble sounds like scramble or scratch-built. Scrab + ble. Someone who scrabbies about building things = Scrabble."
+
+- id: gamebusters-006
+  enabled: true
+  title: Gamebusters
+  topic: video games, board games, and gaming franchises
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Right, Gamebusters. Six in. Nearly a third of the way. Three more phonetic gaming clues. Say them out loud."
+  prize: "Email in. Winner gets a demo disc from an old PlayStation magazine."
+  clues:
+    - number: 1
+      initials: SH
+      clue: "There's this speedy little fella. Blue, very quick. And he's got spikes on him. Lives on a planet or something."
+      answer: Sonic the Hedgehog
+      aliases:
+        - sonic the hedgehog
+        - sonic
+      reasoning: "Sonic (sonic, like sound, very fast) + the (the) + Hedgehog (a hedgehog, spiky animal) = Sonic the Hedgehog. Son-ik the hedge-hog."
+    - number: 2
+      initials: GTA
+      clue: "Some fella's gone and pinched a car. Just walked up and taken it. Very casually. Broad daylight and all."
+      answer: Grand Theft Auto
+      aliases:
+        - grand theft auto
+        - gta
+      reasoning: "Grand (grand, big, impressive) + Theft (theft, stealing) + Auto (auto, a car, automobile) = Grand Theft Auto. Grand theft of a motor vehicle."
+    - number: 3
+      initials: BK
+      clue: "Right, there's a fella called Jim — no wait, it's Banjo. And he's got a bear mate. And they're both off on some sort of adventure."
+      answer: Banjo-Kazooie
+      aliases:
+        - banjo-kazooie
+        - banjo kazooie
+      reasoning: "Banjo (the instrument, a banjo) + Kazooie (kazoo + ie, like a kazoo player) = Banjo-Kazooie. Ban-joe Kaz-oo-ee."
+
+- id: gamebusters-007
+  enabled: true
+  title: Gamebusters
+  topic: video games, board games, and gaming franchises
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Gamebusters, week seven. Getting there. Three clues, all phonetic, all games. That's the deal."
+  prize: "Email in. Winner gets a copy of FIFA on a console that's two generations old."
+  clues:
+    - number: 1
+      initials: TR
+      clue: "She's been robbing old places for years. Tombs, mainly. Old ones. Bit dodgy legally but nobody seems to mind."
+      answer: Tomb Raider
+      aliases:
+        - tomb raider
+      reasoning: "Tomb (tomb, an old burial place) + Raider (a raider, someone who raids things) = Tomb Raider. Toom Ray-der."
+    - number: 2
+      initials: COD
+      clue: "Right, it's a job. A very serious one. And they're all shouting down microphones at each other. Teenagers, mainly."
+      answer: Call of Duty
+      aliases:
+        - call of duty
+      reasoning: "Call (a call, like a phone call or a summons) + of (of) + Duty (duty, your job, your obligation) = Call of Duty. When duty calls, you answer."
+    - number: 3
+      initials: MK
+      clue: "There's a fight going on. Very dramatic. Someone's finishing it off in a particularly brutal fashion. Don't really want to watch but can't look away."
+      answer: Mortal Kombat
+      aliases:
+        - mortal kombat
+        - mortal combat
+      reasoning: "Mortal (mortal, relating to death, deadly) + Kombat (combat, fighting, with a K because it's edgy) = Mortal Kombat. Mor-tal Kom-bat."
+
+- id: gamebusters-008
+  enabled: true
+  title: Gamebusters
+  topic: video games, board games, and gaming franchises
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Eight down. Gamebusters rolls on. Three clues, three gaming answers. Have a think."
+  prize: "Email in. Winner gets a cheat code book from 1998 and a stress ball shaped like a controller."
+  clues:
+    - number: 1
+      initials: RE
+      clue: "Someone's moved back into a house they left. Very spooky house. Full of all sorts. You wouldn't catch me going back there."
+      answer: Resident Evil
+      aliases:
+        - resident evil
+      reasoning: "Resident (a resident, someone who lives somewhere, a re-sider) + Evil (evil, bad, wicked) = Resident Evil. Rez-i-dent Ee-vil."
+    - number: 2
+      initials: SF
+      clue: "Two blokes in a lane. One of them's throwing punches, the other one's kicking. Someone shouts the bloke's name before it kicks off."
+      answer: Street Fighter
+      aliases:
+        - street fighter
+      reasoning: "Street (a street, a road) + Fighter (a fighter, someone who fights) = Street Fighter. A fighter on a street. Street-Fight-er."
+    - number: 3
+      initials: M
+      clue: "Everyone owns it. It always causes arguments at Christmas. Someone always storms off before they get to Mayfair."
+      answer: Monopoly
+      aliases:
+        - monopoly
+      reasoning: "Mono (one, single, solo) + poly (many, but also Polly, a name) = Monopoly. Mon-op-oly. One person ends up owning everything."
+
+- id: gamebusters-009
+  enabled: true
+  title: Gamebusters
+  topic: video games, board games, and gaming franchises
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Right, Gamebusters. Nearly halfway. You know the drill — phonetic clues, gaming answers, say it out loud."
+  prize: "Email in. Winner gets a limited-edition lanyard from a gaming convention nobody's heard of."
+  clues:
+    - number: 1
+      initials: CB
+      clue: "There's a bandicoot. Bit of a crash, really. Just sort of barrels through everything. Doesn't seem to stop. Bit exhausting to watch."
+      answer: Crash Bandicoot
+      aliases:
+        - crash bandicoot
+      reasoning: "Crash (a crash, a collision, also the character's name) + Bandicoot (a bandicoot, the small marsupial animal) = Crash Bandicoot. Crash Ban-di-coot."
+    - number: 2
+      initials: GE
+      clue: "James Bond, right, but it's not actually James Bond. It's a game about him. On that Nintendo thing. At your mate's house round 1997."
+      answer: Goldeneye
+      aliases:
+        - goldeneye
+        - goldeneye 007
+      reasoning: "Golden (golden, made of gold, like the word golden) + Eye (an eye, the thing you see with) = Goldeneye. Gold-en-eye."
+    - number: 3
+      initials: S
+      clue: "That little purple fella. Breathes fire. Very small dragon but acts like a big one. Sort of works if you squint."
+      answer: Spyro
+      aliases:
+        - spyro
+        - spyro the dragon
+      reasoning: "Spyro = spy + ro. Sounds like: SPY-ro. A spy called Ro, or someone who spies + ro at the end. Spy + row = Spyro."
+
+- id: gamebusters-010
+  enabled: true
+  title: Gamebusters
+  topic: video games, board games, and gaming franchises
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Halfway there with Gamebusters. Ten sets in. Three clues this week, all gaming. Let's crack on."
+  prize: "Email in. Winner gets a memory card for a console you no longer own."
+  clues:
+    - number: 1
+      initials: F
+      clue: "Right, there's a big competition. World one. Football, basically. Everyone's in it. England probably go out on penalties."
+      answer: FIFA
+      aliases:
+        - fifa
+      reasoning: "FIFA = fee-fah. Phonetically: fee + fah. Like fee-fi-fo-fum but just the first two. FIFA — the football governing body, also the game."
+    - number: 2
+      initials: T
+      clue: "These blocks keep falling. You can't stop them. They just come down. One after another. And you've got to sort it out."
+      answer: Tetris
+      aliases:
+        - tetris
+      reasoning: "Tetris = TET-ris. Tetra means four. Four-sided shapes, tet + ris. Say it: TET-riss."
+    - number: 3
+      initials: R
+      clue: "World domination, basically. You've got your troops, you've got a map, and you think you know what you're doing. You don't."
+      answer: Risk
+      aliases:
+        - risk
+      reasoning: "Risk = RISK. One syllable. To take a risk, to gamble on world domination. The game is literally named after the concept."
+
+- id: gamebusters-011
+  enabled: true
+  title: Gamebusters
+  topic: video games, board games, and gaming franchises
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Gamebusters eleven. Keep going. Three phonetic clues, all games. Have a go."
+  prize: "Email in. Winner gets a branded pen from a games publisher that got bought out years ago."
+  clues:
+    - number: 1
+      initials: M
+      clue: "Right, you're digging around. Underground mainly. Looking for stuff. And then you build things out of it. That's basically it."
+      answer: Minecraft
+      aliases:
+        - minecraft
+      reasoning: "Mine (to mine, dig underground) + Craft (to craft, to build things) = Minecraft. Mine-craft. You mine stuff and craft it into things."
+    - number: 2
+      initials: Z
+      clue: "She keeps getting taken. Every time. You'd think they'd have sorted the security by now. It's become a bit of a pattern."
+      answer: Zelda
+      aliases:
+        - zelda
+        - the legend of zelda
+      reasoning: "Zelda = ZELL-da. The princess who keeps getting captured. The name Zelda said out loud: ZELL-da."
+    - number: 3
+      initials: CB
+      clue: "That fella went at full speed into a crate. Just ran straight into it. Sort of his thing."
+      answer: Crash Bandicoot
+      aliases:
+        - crash bandicoot
+      reasoning: "Crash (to crash into something) + Bandicoot (a bandicoot, small marsupial) = Crash Bandicoot."
+
+- id: gamebusters-012
+  enabled: true
+  title: Gamebusters
+  topic: video games, board games, and gaming franchises
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Gamebusters twelve. Still going. Three clues, three answers, all from games. Off you go."
+  prize: "Email in. Winner gets a power adapter for a console that definitely still works."
+  clues:
+    - number: 1
+      initials: SM
+      clue: "He's a plumber but he's not plumbing. He's jumping on things. Mushrooms mainly. Red ones with spots."
+      answer: Super Mario
+      aliases:
+        - super mario
+        - super mario bros
+      reasoning: "Super (very, excellent, above and beyond) + Mario (the name Mario) = Super Mario. Soo-per Mah-ree-oh."
+    - number: 2
+      initials: TP
+      clue: "It's all the little stuff, right. None of it matters really. But there's points for knowing it. That's the deal."
+      answer: Trivial Pursuit
+      aliases:
+        - trivial pursuit
+      reasoning: "Trivial (trivial, unimportant, small matters) + Pursuit (the act of chasing after something) = Trivial Pursuit. Triv-ee-ul Pur-soot."
+    - number: 3
+      initials: P
+      clue: "Hundreds of little creatures. All different. And this kid won't stop until he's caught every single one. Obsessive really."
+      answer: Pokemon
+      aliases:
+        - pokemon
+        - pokémon
+      reasoning: "Poke (to poke) + mon (a shortened form of monster, or mon as in moniker) = Pokemon. Poh-kee-mon. Pocket monster."
+
+- id: gamebusters-013
+  enabled: true
+  title: Gamebusters
+  topic: video games, board games, and gaming franchises
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Thirteen. Lucky or not, I don't know. Three gaming clues. Phonetics only. Say them out loud and see what you get."
+  prize: "Email in. Winner gets a console carrying case from 2003 and a half-eaten packet of those gamer snacks."
+  clues:
+    - number: 1
+      initials: DK
+      clue: "Right, there's a massive ape. And he's got a tie on. Doesn't know why he's wearing it. Still wearing it though."
+      answer: Donkey Kong
+      aliases:
+        - donkey kong
+      reasoning: "Donkey (like a donkey, the stubborn animal, also used to mean silly) + Kong (King Kong, a great ape) = Donkey Kong. Don-key Kong."
+    - number: 2
+      initials: GTA
+      clue: "Some bloke's nicked a vehicle. Just grabbed it and driven off. The city is enormous and he's not going to stop any time soon."
+      answer: Grand Theft Auto
+      aliases:
+        - grand theft auto
+        - gta
+      reasoning: "Grand (grand, great, big) + Theft (theft, the crime of stealing) + Auto (auto, a car) = Grand Theft Auto."
+    - number: 3
+      initials: S
+      clue: "You've got letters. All of them jumbled up. And you've got to make words out of them on a board before the other person does. Quite tense."
+      answer: Scrabble
+      aliases:
+        - scrabble
+      reasoning: "Scrabble = SCRAB-ul. To scrabble around for something, to scramble. Scrabble — scrambling for letters to make words."
+
+- id: gamebusters-014
+  enabled: true
+  title: Gamebusters
+  topic: video games, board games, and gaming franchises
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Gamebusters fourteen. Three clues. All games. You know what to do by now."
+  prize: "Email in. Winner gets a foam sword from a gaming expo and a complimentary energy drink, warm."
+  clues:
+    - number: 1
+      initials: TR
+      clue: "She's off again. Into another ruin. Probably shouldn't be in there but that's never stopped her."
+      answer: Tomb Raider
+      aliases:
+        - tomb raider
+      reasoning: "Tomb (a tomb, a burial chamber) + Raider (one who raids, plunders ancient sites) = Tomb Raider. Tomb-Ray-der."
+    - number: 2
+      initials: MK
+      clue: "Two fighters. And it's not pretty. Very loud. Someone shouts something dramatic at the end of it all."
+      answer: Mortal Kombat
+      aliases:
+        - mortal kombat
+        - mortal combat
+      reasoning: "Mortal (mortal, able to die, deadly) + Kombat (combat, but with a K) = Mortal Kombat. Mor-tul Kom-bat."
+    - number: 3
+      initials: BK
+      clue: "Right, there's a bear with a bird in his backpack. They're best mates. Off on some sort of musical adventure. Bit mad."
+      answer: Banjo-Kazooie
+      aliases:
+        - banjo-kazooie
+        - banjo kazooie
+      reasoning: "Banjo (the musical instrument, a banjo) + Kazooie (like a kazoo, that buzzing instrument, + ie) = Banjo-Kazooie. Ban-joh Kaz-oo-ee."
+
+- id: gamebusters-015
+  enabled: true
+  title: Gamebusters
+  topic: video games, board games, and gaming franchises
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Fifteen in. Gamebusters. Three phonetic gaming clues. Have a listen, not a look."
+  prize: "Email in. Winner gets a novelty USB shaped like a game controller and a scratch card, probably a loser."
+  clues:
+    - number: 1
+      initials: F
+      clue: "It's a nighttime. Two weeks of it. And someone's built a massive fort during it. Right in the middle of a field."
+      answer: Fortnite
+      aliases:
+        - fortnite
+      reasoning: "Fort (a fort, a fortification, a structure for defense) + Night (nighttime) = Fortnite. Fort-night, like fortnight, two weeks. Fort + Night."
+    - number: 2
+      initials: RE
+      clue: "Someone's living in a place full of horrible things. You wouldn't want to stay. But they do live there. It's their actual home."
+      answer: Resident Evil
+      aliases:
+        - resident evil
+      reasoning: "Resident (a resident, a person who lives somewhere permanently) + Evil (evil, wicked, bad) = Resident Evil. Rez-id-ent Ee-vil."
+    - number: 3
+      initials: GE
+      clue: "This eye, right, it's made of gold. Just sitting there. Very shiny. Very suspicious looking."
+      answer: Goldeneye
+      aliases:
+        - goldeneye
+        - goldeneye 007
+      reasoning: "Golden (made of gold, the colour and material) + Eye (an eye, the organ of sight) = Goldeneye. Gold-en-eye."
+
+- id: gamebusters-016
+  enabled: true
+  title: Gamebusters
+  topic: video games, board games, and gaming franchises
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Right, Gamebusters sixteen. Three clues left this round. Gaming answers, phonetic style. Off you go."
+  prize: "Email in. Winner gets a Game Boy Colour in a colour they didn't want and a manual for a different game."
+  clues:
+    - number: 1
+      initials: SF
+      clue: "There's this lad on a road, right. He's fighting everybody who walks past. Just standing there throwing punches. Nobody's told him to stop."
+      answer: Street Fighter
+      aliases:
+        - street fighter
+      reasoning: "Street (a street, a road, a pavement) + Fighter (a fighter, someone who fights) = Street Fighter. Street-Fight-er."
+    - number: 2
+      initials: COD
+      clue: "There's a duty. And it's calling you. You've got no choice. You've been called up and that's that."
+      answer: Call of Duty
+      aliases:
+        - call of duty
+      reasoning: "Call (a call, summons) + of (of) + Duty (duty, obligation, your job) = Call of Duty. Duty is calling. Call-of-Doo-tee."
+    - number: 3
+      initials: PM
+      clue: "That fella's eating his way through a maze. Just chomping. Going around corners, eating stuff. Something's chasing him but he's not bothered."
+      answer: Pac-Man
+      aliases:
+        - pac-man
+        - pac man
+        - pacman
+      reasoning: "Pac sounds like pack or chomp — packing food away + Man (a man) = Pac-Man. Pack-Man. A man who packs things into his mouth."
+
+- id: gamebusters-017
+  enabled: true
+  title: Gamebusters
+  topic: video games, board games, and gaming franchises
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Gamebusters seventeen. Nearly done now. Three more phonetic gaming clues. Last stretch."
+  prize: "Email in. Winner gets a retro gaming magazine from 2001 and a spare joystick with a sticky button."
+  clues:
+    - number: 1
+      initials: SH
+      clue: "He goes very fast. Very very fast. Blue, small, spiky. Runs through loops. Does it in seconds."
+      answer: Sonic the Hedgehog
+      aliases:
+        - sonic the hedgehog
+        - sonic
+      reasoning: "Sonic (sonic speed, the speed of sound, sonic boom) + the (the) + Hedgehog (a hedgehog, small spiky mammal) = Sonic the Hedgehog."
+    - number: 2
+      initials: C
+      clue: "Right, there's a clue somewhere. In this big house. About who did it and how and with what. You've got to find it."
+      answer: Cluedo
+      aliases:
+        - cluedo
+        - clue
+      reasoning: "Clue (a clue, a hint, evidence) + do (do, as in doh, as in what you do) = Cluedo. Clue-doh. You follow the clues, doh!"
+    - number: 3
+      initials: M
+      clue: "Someone's bought all the property. Every single bit. You owe them rent just for walking past. Bit unfair but it's the rules."
+      answer: Monopoly
+      aliases:
+        - monopoly
+      reasoning: "Monopoly = a monopoly, owning everything, one company controlling everything. Mon-op-oh-lee. Said out loud."
+
+- id: gamebusters-018
+  enabled: true
+  title: Gamebusters
+  topic: video games, board games, and gaming franchises
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Eighteen. Gamebusters. Two sets to go after this. Three clues, all gaming. Final push."
+  prize: "Email in. Winner gets a keyring shaped like a game token and a complimentary bookmark from a shop that's closed."
+  clues:
+    - number: 1
+      initials: S
+      clue: "He breathes fire. He's small for a dragon. Purple. Quite sprightly. Probably shouldn't underestimate him."
+      answer: Spyro
+      aliases:
+        - spyro
+        - spyro the dragon
+      reasoning: "Spyro = SPY-ro. Spy (someone who spies, goes undercover) + ro (the sound at the end, like row) = Spyro. Sounds like: spy-row."
+    - number: 2
+      initials: CF
+      clue: "Four in a row. That's all you need. Drop your piece in. Wait for the other person. Then do it again. That's the game."
+      answer: Connect Four
+      aliases:
+        - connect four
+        - connect 4
+      reasoning: "Connect (to connect, to join things together) + Four (the number four) = Connect Four. Con-NECT Four. Join four in a row."
+    - number: 3
+      initials: M
+      clue: "Right, me mate's been digging and he found something useful. Then he built a shelter out of it. First night's the dangerous one, apparently."
+      answer: Minecraft
+      aliases:
+        - minecraft
+      reasoning: "Mine (to mine, dig underground for resources) + Craft (to craft, to make or build things) = Minecraft. Mine-craft."
+
+- id: gamebusters-019
+  enabled: true
+  title: Gamebusters
+  topic: video games, board games, and gaming franchises
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Gamebusters nineteen. One more after this. Three clues, gaming theme. Nearly there."
+  prize: "Email in. Winner gets a signed receipt from a gaming shop that's now a Greggs."
+  clues:
+    - number: 1
+      initials: TP
+      clue: "You're answering questions about nothing important. Geography, art, sport. Worthless information, basically. But you want to win, so you learn it anyway."
+      answer: Trivial Pursuit
+      aliases:
+        - trivial pursuit
+      reasoning: "Trivial (trivial, unimportant, inconsequential) + Pursuit (pursuit, the chasing of something) = Trivial Pursuit. Triv-ee-ul Pur-suit."
+    - number: 2
+      initials: DK
+      clue: "Big ape. Bananas. And he's throwing barrels at someone. Very cross about something. Never found out what."
+      answer: Donkey Kong
+      aliases:
+        - donkey kong
+      reasoning: "Donkey (donkey, stubborn animal, also a term for a silly person) + Kong (Kong, massive ape reference) = Donkey Kong. Don-key Kong."
+    - number: 3
+      initials: R
+      clue: "The world's there. On the map. And you've got your little plastic soldiers. And everyone thinks they've got a plan. They haven't."
+      answer: Risk
+      aliases:
+        - risk
+      reasoning: "Risk = risk, the concept of danger and chance. One syllable. The game is called Risk because you take risks with your armies."
+
+- id: gamebusters-020
+  enabled: true
+  title: Gamebusters
+  topic: video games, board games, and gaming franchises
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Last one. Gamebusters twenty. Three final clues. Gaming answers. Go out on a high."
+  prize: "Email in. Winner gets a commemorative certificate saying they completed all twenty Gamebusters sets, printed on normal paper."
+  clues:
+    - number: 1
+      initials: P
+      clue: "Right, some fella called Ash went off on a journey and he's been catching things ever since. Small things. In little balls. Hasn't come back yet."
+      answer: Pokemon
+      aliases:
+        - pokemon
+        - pokémon
+      reasoning: "Poke (to poke, to prod something with a stick) + mon (mon, from monster, or just mon) = Pokemon. Poh-kee-mon. Pocket + Monster = Pokemon."
+    - number: 2
+      initials: BK
+      clue: "There's a bear. He plays a stringed instrument. And his mate makes a different noise altogether. They're on a mission, these two."
+      answer: Banjo-Kazooie
+      aliases:
+        - banjo-kazooie
+        - banjo kazooie
+      reasoning: "Banjo (a banjo, the stringed instrument, twangy) + Kazooie (a kazoo + ie suffix, buzzing instrument) = Banjo-Kazooie. Ban-joh Kaz-oo-ee."
+    - number: 3
+      initials: GE
+      clue: "Bond film. On a Nintendo. At your mate's house in 1997. Four-player. Someone always picks Oddjob. That person knows what they're doing."
+      answer: Goldeneye
+      aliases:
+        - goldeneye
+        - goldeneye 007
+      reasoning: "Golden (golden, the colour and quality of gold) + Eye (an eye, the visual organ) = Goldeneye. Gold-en-eye. The golden eye, like a spy's keen golden gaze."

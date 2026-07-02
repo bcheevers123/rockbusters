@@ -1,0 +1,101 @@
+- id: extremeweatherbusters-001
+  enabled: true
+  title: Extremeweatherbusters
+  topic: extreme weather events
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - Global
+  intro: "Right, Extremeweatherbusters. All extreme weather events hiding in the sounds of these clues. Say them out loud — don't try and work it out on paper, that won't help. It's about what it sounds like, not what it looks like."
+  prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
+  clues:
+    - number: 1
+      initials: H
+      clue: "A bloke called Rick has gone and hurt his shin — again. Third time this week. His nan is not impressed. She's sent him a card but she's not coming round."
+      answer: Hurricane
+      aliases:
+        - hurricane
+      reasoning: "hurri (sounds like 'hurry', to rush, or 'her-ree') + cane (sounds like 'cane', a walking stick or sugarcane) = Hurri-cane = Hurricane"
+    - number: 2
+      initials: T
+      clue: "A fella called Al has gone shopping for a birthday. He's come back with something that spins. He's not sure who it's for but it was on offer and it looked good."
+      answer: Tornado
+      aliases:
+        - tornado
+      reasoning: "tor (sounds like 'tore', past tense of tear) + nay (sounds like 'nay', a refusal) + do (sounds like 'do', to do something) = Tor-nay-do = Tornado"
+    - number: 3
+      initials: B
+      clue: "A woman called Liz has gone somewhere very cold and she's had a bit of a dizzy spell. She's fine but she sat down in the snow for a bit. Everyone was quite concerned."
+      answer: Blizzard
+      aliases:
+        - blizzard
+      reasoning: "bliz (sounds like 'bliss', pure happiness, just without the s) + ard (sounds like 'ard', northern English for hard, or just 'ard') = Bliz-ard = Blizzard"
+
+- id: extremeweatherbusters-002
+  enabled: true
+  title: Extremeweatherbusters
+  topic: extreme weather events
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - Global
+  intro: "Extremeweatherbusters two. More extreme weather in the sounds. You need to say these out loud and let your brain figure it out. Your brain knows the answer already, it just needs a minute."
+  prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
+  clues:
+    - number: 1
+      initials: T
+      clue: "A bloke from Thailand is flying a kite on top of a massive wave. The kite looks like a phone. It's not a phone, it's a kite. He seems very calm about the situation."
+      answer: Typhoon
+      aliases:
+        - typhoon
+      reasoning: "ty (sounds like 'tie', to tie something up) + phoon (sounds like 'foon', or 'phone' said quickly without the e) = Ty-phoon = Typhoon"
+    - number: 2
+      initials: T
+      clue: "Someone has been in a wave and it's gone right over them. Their mate Sue is at the shore looking a bit worried. She's got a towel but it won't be enough."
+      answer: Tsunami
+      aliases:
+        - tsunami
+      reasoning: "tsu (sounds like 'soo', as in Sue, a name) + nami (sounds like 'nah-me', or 'nammy', like a nan figure) = Soo-nami = Tsunami"
+    - number: 3
+      initials: M
+      clue: "A lad called Marvin has gone to visit his son, just turned up on a Wednesday. Very wet outside. Marvin's brought biscuits. The son wasn't expecting him but he's alright about it."
+      answer: Monsoon
+      aliases:
+        - monsoon
+      reasoning: "mon (sounds like 'mon', as in Monday, or 'mon' meaning my in some languages) + soon (sounds like 'soon', not long now) = Mon-soon = Monsoon"
+
+- id: extremeweatherbusters-003
+  enabled: true
+  title: Extremeweatherbusters
+  topic: extreme weather events
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - Global
+  intro: "Last set. Extremeweatherbusters three. Same deal — extreme weather, phonetic clues, say them out loud. If you're reading them silently and expecting that to work, it won't. You have been warned."
+  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists."
+  clues:
+    - number: 1
+      initials: H
+      clue: "A woman has gone on holiday somewhere really warm and she's bought some sort of hat — one of them ones that keeps nothing out. Her neck is bright red. She knew it would happen."
+      answer: Heatwave
+      aliases:
+        - heatwave
+        - heat wave
+      reasoning: "heat (sounds like 'heat', warmth) + wave (sounds like 'wave', a gesture or an ocean wave) = Heat-wave = Heatwave"
+    - number: 2
+      initials: WW
+      clue: "A gust of wind has come round a corner and gone absolutely mad — spinning about, picking things up, acting like it owns the place. A woman's hat has gone. She's not happy about the hat."
+      answer: Whirlwind
+      aliases:
+        - whirlwind
+        - whirl wind
+      reasoning: "whirl (sounds like 'whirl', to spin rapidly) + wind (sounds like 'wind', moving air) = Whirl-wind = Whirlwind"
+    - number: 3
+      initials: TS
+      clue: "A fella called Thun is in a drum kit shop. He's asking about something that rumbles. He keeps doing an impression of the sound he wants. The shop assistant thinks he wants a bass drum but he doesn't."
+      answer: Thunderstorm
+      aliases:
+        - thunderstorm
+        - thunder storm
+      reasoning: "thun (sounds like 'thun', as in Thun, a Swiss city, or thunder without the 'der') + der (sounds like 'der', a confused filler) + storm (sounds like 'storm', bad weather) = Thun-der-storm = Thunderstorm"

@@ -1,0 +1,110 @@
+- id: chickenbusters-001
+  enabled: true
+  title: Chickenbusters
+  topic: Chicken dishes
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - Global
+  intro: "Right, Chickenbusters. All the answers are chicken dishes from around the world. Say the clues out loud — the dish is hiding in there somewhere."
+  prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
+  clues:
+    - number: 1
+      initials: C T M
+      clue: "Someone's had a bit of a mishap with their instrument — the stringed one, not a piano — and now there's a mask of it. All red and saucy looking."
+      answer: Chicken Tikka Masala
+      aliases:
+        - chicken tikka masala
+        - tikka masala
+      reasoning: "chicken (the bird) + tikka (sounds like 'tick-a', a small mark or instrument pick) + masala (sounds like 'mask-ala', a mask situation) = Chicken Tikka Masala"
+    - number: 2
+      initials: C K
+      clue: "That place in Ukraine — capital city and that — it's gone and had a bird move in. Very buttery situation apparently."
+      answer: Chicken Kiev
+      aliases:
+        - chicken kiev
+        - kiev
+      reasoning: "chicken (the bird) + Kiev (the capital of Ukraine, sounds like 'key-ev') = Chicken Kiev"
+    - number: 3
+      initials: C K
+      clue: "There's a bloke called Norman who runs a corner shop. Very calm fella. Never stressed. Does a lovely curry."
+      answer: Chicken Korma
+      aliases:
+        - chicken korma
+        - korma
+      reasoning: "chicken (the bird) + korma (sounds like 'calm-a', very calm situation, Norman's demeanour) = Chicken Korma"
+
+- id: chickenbusters-002
+  enabled: true
+  title: Chickenbusters
+  topic: Chicken dishes
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - Global
+  intro: "Three more chicken dishes from around the world. All phonetic, all hiding in these clues. Have a go."
+  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists."
+  clues:
+    - number: 1
+      initials: C P
+      clue: "Right, there's a fella called Parma — Italian bloke, bit cheesy — and he's had a bit of a wobble. Slight accident. Now he's covered in tomato."
+      answer: Chicken Parmigiana
+      aliases:
+        - chicken parmigiana
+        - chicken parmesan
+        - parmigiana
+      reasoning: "chicken (the bird) + Parma (Italian city) + giana (sounds like 'gi-ana', like a name, or 'jan-a') = Chicken Parmigiana"
+    - number: 2
+      initials: C C S
+      clue: "Someone's gone to see a bloke — very important Roman general type — and they're sitting there in a field. Bit of a salad situation. Light lunch."
+      answer: Chicken Caesar Salad
+      aliases:
+        - chicken caesar salad
+        - caesar salad
+      reasoning: "chicken (the bird) + Caesar (the Roman bloke) + salad (the field/green leaves situation) = Chicken Caesar Salad"
+    - number: 3
+      initials: C K
+      clue: "That thing you do when something falls — a little cat — bit of a tumble down the stairs. Very Japanese about it all."
+      answer: Chicken Katsu
+      aliases:
+        - chicken katsu
+        - katsu
+        - chicken katsu curry
+      reasoning: "chicken (the bird) + katsu (sounds like 'cat-su', a cat doing something, or 'cats-who') = Chicken Katsu"
+
+- id: chickenbusters-003
+  enabled: true
+  title: Chickenbusters
+  topic: Chicken dishes
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - Global
+  intro: "Last three. Chickenbusters three. Chicken dishes from across the globe, all phonetically disguised. You know what to do."
+  prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
+  clues:
+    - number: 1
+      initials: C A V
+      clue: "Right, there's a bloke called Vinnie and he's had a bit of wine — the red stuff, French and that. Quite a lot of wine actually. In a pot."
+      answer: Coq au Vin
+      aliases:
+        - coq au vin
+        - coq-au-vin
+      reasoning: "coq (sounds like 'cock', the male bird) + au (sounds like 'oh') + vin (sounds like 'van' or 'vin', wine in French) = Coq au Vin"
+    - number: 2
+      initials: C S
+      clue: "There's a fella on a stick — sort of impaled on a skewer — and he's been marinated in something. Very calm about the whole thing. Indonesian sort of vibe."
+      answer: Chicken Satay
+      aliases:
+        - chicken satay
+        - satay
+        - chicken sate
+      reasoning: "chicken (the bird) + satay (sounds like 'sat-ay', someone sat on a stick, or 'sat-eh') = Chicken Satay"
+    - number: 3
+      initials: C S
+      clue: "Right, someone's wrapping things up — a proper wrap situation — in the Middle East somewhere. Rotating slowly. Shaving bits off."
+      answer: Chicken Shawarma
+      aliases:
+        - chicken shawarma
+        - shawarma
+      reasoning: "chicken (the bird) + shawarma (sounds like 'shaw-warm-a', someone called Shaw who's warm, or shawl-warmer) = Chicken Shawarma"

@@ -1,0 +1,711 @@
+- id: pubbusters-001
+  enabled: true
+  title: Pubbusters
+  topic: British pub names, pub culture, and classic pub games
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Right, Pubbusters. Three clues, all pub-related. Say them out loud and you'll get there."
+  prize: "Email in. Winner gets a damp beer mat and a branded pen from a brewery that went under."
+  clues:
+    - number: 1
+      initials: T R L
+      clue: "Right, this big cat's gone and painted itself a deep shade of crimson. Just standing there, very red, very proud of itself."
+      answer: The Red Lion
+      aliases:
+        - the red lion
+        - red lion
+      reasoning: "The (the) + Red (a deep crimson colour) + Lion (a big cat, a lion) = The Red Lion"
+    - number: 2
+      initials: T C
+      clue: "Someone's plonked a royal headpiece right in the middle of the village. Just there on the pavement. No one's moved it."
+      answer: The Crown
+      aliases:
+        - the crown
+        - crown
+      reasoning: "The (the) + Crown (a royal headpiece, worn by kings and queens) = The Crown"
+    - number: 3
+      initials: T P
+      clue: "There's a massive farming tool lying in a field and it's completely motionless. Just a big old plough. Not going anywhere."
+      answer: The Plough
+      aliases:
+        - the plough
+        - plough
+      reasoning: "The (the) + Plough (a big farming tool for turning soil) = The Plough"
+
+- id: pubbusters-002
+  enabled: true
+  title: Pubbusters
+  topic: British pub names, pub culture, and classic pub games
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Pubbusters is back. Three more. All sound-based, pub-themed. Off you go."
+  prize: "Email in. Winner gets a half-empty bag of pork scratchings and a cocktail stirrer with a plastic flamingo on it."
+  clues:
+    - number: 1
+      initials: T K H
+      clue: "Alright, there's a monarch, right, and they've only gone and lost their bonce. Not their actual head, just the bit at the top of their statue. Someone's nicked it."
+      answer: The Kings Head
+      aliases:
+        - the kings head
+        - kings head
+      reasoning: "The (the) + Kings (a monarch, a king) + Head (the bonce, the top bit, the head) = The Kings Head"
+    - number: 2
+      initials: T W H
+      clue: "Some pure white deer is just standing there in a field looking very noble. White as snow. Very elegant. A hart, they call it."
+      answer: The White Hart
+      aliases:
+        - the white hart
+        - white hart
+      reasoning: "The (the) + White (pure white, white as snow) + Hart (a male deer, a hart — sounds like heart) = The White Hart"
+    - number: 3
+      initials: T B S
+      clue: "Right, a big dark-feathered bird's just glided across the lake. Jet black. Very graceful. Showing off a bit."
+      answer: The Black Swan
+      aliases:
+        - the black swan
+        - black swan
+      reasoning: "The (the) + Black (jet black, dark-feathered) + Swan (a big graceful waterbird, a swan) = The Black Swan"
+
+- id: pubbusters-003
+  enabled: true
+  title: Pubbusters
+  topic: British pub names, pub culture, and classic pub games
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Three pub-themed phonetic clues. Say each one out loud. The answer's in the sounds."
+  prize: "Email in. Winner gets a pub quiz answer sheet from 2003 and a warm can of something fizzy."
+  clues:
+    - number: 1
+      initials: T R O
+      clue: "That great big tree in the churchyard — the massive one, hundreds of years old — it's got some sort of royal connection. Very distinguished."
+      answer: The Royal Oak
+      aliases:
+        - the royal oak
+        - royal oak
+      reasoning: "The (the) + Royal (royal connection, very distinguished) + Oak (the great big old tree, an oak tree) = The Royal Oak"
+    - number: 2
+      initials: T F A H
+      clue: "There's a sly-looking animal and a dog, and they've both turned up to the same house party. A bit awkward really. They're both just stood there."
+      answer: The Fox and Hound
+      aliases:
+        - the fox and hound
+        - fox and hound
+      reasoning: "The (the) + Fox (a sly animal, a fox) + and (and) + Hound (a hunting dog, a hound) = The Fox and Hound"
+    - number: 3
+      initials: T S I
+      clue: "There's a vessel, right, and it's gone and parked itself in a little harbour. Bit of a snug fit. Nice spot though. Got a view of the water."
+      answer: The Ship Inn
+      aliases:
+        - the ship inn
+        - ship inn
+      reasoning: "The (the) + Ship (a sea vessel, parked in the harbour) + Inn (an inn, a little place to stay — sounds like 'in') = The Ship Inn"
+
+- id: pubbusters-004
+  enabled: true
+  title: Pubbusters
+  topic: British pub names, pub culture, and classic pub games
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Pubbusters four. Three phonetic pub clues. You know the drill. Say it out loud."
+  prize: "Email in. Winner gets a box of pub quiz question cards from 1998 and a sticky beer pump clip."
+  clues:
+    - number: 1
+      initials: T B
+      clue: "Right, there's a church tower and someone's ringing the thing that hangs inside it. Big metal thing. It's going like mad. Very loud."
+      answer: The Bell
+      aliases:
+        - the bell
+        - bell
+      reasoning: "The (the) + Bell (the big metal thing inside a church tower that gets rung) = The Bell"
+    - number: 2
+      initials: T A
+      clue: "Someone's dropped a big heavy metal hook thing into the harbour. Keeps the boat in place. There it is, just sitting on the quayside."
+      answer: The Anchor
+      aliases:
+        - the anchor
+        - anchor
+      reasoning: "The (the) + Anchor (the big metal hook that keeps a boat in place in a harbour) = The Anchor"
+    - number: 3
+      initials: T C A H
+      clue: "There's a carriage, right, pulled by several large animals, and the whole lot of them have rocked up outside a building. Horses stood there patiently. Big coach job."
+      answer: The Coach and Horses
+      aliases:
+        - the coach and horses
+        - coach and horses
+      reasoning: "The (the) + Coach (a horse-drawn carriage) + and (and) + Horses (the animals pulling it, the horses) = The Coach and Horses"
+
+- id: pubbusters-005
+  enabled: true
+  title: Pubbusters
+  topic: British pub names, pub culture, and classic pub games
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Alright, Pubbusters five. Phonetic clues, pub answers. Don't overthink it."
+  prize: "Email in. Winner gets a slightly sticky drinks menu and a novelty bottle opener shaped like a guitar."
+  clues:
+    - number: 1
+      initials: T G
+      clue: "A fast thin dog's done a runner. No one knows where it's gone. Was here a minute ago. Very quick animal."
+      answer: The Greyhound
+      aliases:
+        - the greyhound
+        - greyhound
+      reasoning: "The (the) + Greyhound (a fast thin dog, used for racing — a greyhound) = The Greyhound"
+    - number: 2
+      initials: T L A F
+      clue: "There's a young sheep, right, and it's gone and attached itself to a banner. Little thing just clinging to a flag. Bit odd."
+      answer: The Lamb and Flag
+      aliases:
+        - the lamb and flag
+        - lamb and flag
+      reasoning: "The (the) + Lamb (a young sheep, a lamb) + and (and) + Flag (a banner, a flag it's clinging to) = The Lamb and Flag"
+    - number: 3
+      initials: T N H
+      clue: "Some horse has gone and found itself a head. Attached it. Now it's walking around very pleased with itself. Didn't have one before."
+      answer: The Nags Head
+      aliases:
+        - the nags head
+        - nags head
+      reasoning: "The (the) + Nags (old horses, nags) + Head (a head, the top part of something) = The Nags Head"
+
+- id: pubbusters-006
+  enabled: true
+  title: Pubbusters
+  topic: British pub names, pub culture, and classic pub games
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Six sets in. Pubbusters. Three phonetic clues, all about British pubs. Say them aloud."
+  prize: "Email in. Winner gets a branded pint glass with a chip in the rim and a book of pub games from a charity shop."
+  clues:
+    - number: 1
+      initials: T H A H
+      clue: "Right, there's a rabbit and a dog and they've turned up at the same field. Together. No one planned it. They're just both there, getting on with it."
+      answer: The Hare and Hound
+      aliases:
+        - the hare and hound
+        - hare and hound
+      reasoning: "The (the) + Hare (a rabbit-like animal, a hare) + and (and) + Hound (a hunting dog, a hound) = The Hare and Hound"
+    - number: 2
+      initials: T R S
+      clue: "That great big star in the sky's only gone and started climbing out of the horizon. Just appearing now. Coming up slowly. Morning, that is."
+      answer: The Rising Sun
+      aliases:
+        - the rising sun
+        - rising sun
+      reasoning: "The (the) + Rising (climbing, appearing, coming up) + Sun (the great big star, the sun) = The Rising Sun"
+    - number: 3
+      initials: T W
+      clue: "There's a bunch of grain stalks all bundled together at the top into a sort of big circular arrangement. Very agricultural. Very satisfying."
+      answer: The Wheatsheaf
+      aliases:
+        - the wheatsheaf
+        - wheatsheaf
+      reasoning: "The (the) + Wheatsheaf (a bundle of wheat stalks tied together — wheat sheaf) = The Wheatsheaf"
+
+- id: pubbusters-007
+  enabled: true
+  title: Pubbusters
+  topic: British pub names, pub culture, and classic pub games
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Pubbusters seven. Three more pub-name clues. It's all in the sounds. Have a go."
+  prize: "Email in. Winner gets a laminated copy of the pub's Wi-Fi password and a spare chip found under the bar."
+  clues:
+    - number: 1
+      initials: T C
+      clue: "There's a board covered in little squares, some black, some white, all alternating. Like a pattern. Used for a game, possibly."
+      answer: The Chequers
+      aliases:
+        - the chequers
+        - chequers
+      reasoning: "The (the) + Chequers (the black and white checked pattern, like on a draughts board — chequers) = The Chequers"
+    - number: 2
+      initials: T R
+      clue: "Right, there's a big iron track going through the middle of a field and something heavy and fast has just gone down it at speed. Steam and everything."
+      answer: The Railway
+      aliases:
+        - the railway
+        - railway
+      reasoning: "The (the) + Railway (a big iron track, trains going down it at speed) = The Railway"
+    - number: 3
+      initials: T V
+      clue: "Some fella has put his name down to help out. Not been asked. Just decided he's going to pitch in. Very willing. Very keen."
+      answer: The Volunteer
+      aliases:
+        - the volunteer
+        - volunteer
+      reasoning: "The (the) + Volunteer (someone who's put their name down to help without being asked — a volunteer) = The Volunteer"
+
+- id: pubbusters-008
+  enabled: true
+  title: Pubbusters
+  topic: British pub names, pub culture, and classic pub games
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Right. Pubbusters eight. Phonetic clues, pub games this time. Say them out loud and see what happens."
+  prize: "Email in. Winner gets a set of blunt darts and a scoreboard with someone else's initials already on it."
+  clues:
+    - number: 1
+      initials: D
+      clue: "These little sharp-tipped things, right, you throw them at a circular board on the wall. Very popular in pubs. Everyone thinks they're better at it than they are."
+      answer: Darts
+      aliases:
+        - darts
+      reasoning: "Darts (sharp-tipped things you throw at a circular board — darts) = Darts"
+    - number: 2
+      initials: S H
+      clue: "Someone's taken half a penny — an old coin, mind — and they're pushing it along a wooden board with the heel of their hand. Not throwing it. Shoving it. Gently."
+      answer: Shove Halfpenny
+      aliases:
+        - shove halfpenny
+        - shove ha'penny
+      reasoning: "Shove (pushing with the heel of your hand, shoving) + Halfpenny (an old small coin, a ha'penny) = Shove Halfpenny"
+    - number: 3
+      initials: S
+      clue: "Right, there are these nine little wooden pins all lined up, and someone's rolling a ball at them to knock them over. Classic stuff. Very old game."
+      answer: Skittles
+      aliases:
+        - skittles
+      reasoning: "Skittles (nine wooden pins you knock over with a ball — skittles, classic pub game) = Skittles"
+
+- id: pubbusters-009
+  enabled: true
+  title: Pubbusters
+  topic: British pub names, pub culture, and classic pub games
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Pubbusters nine. Three clues. All British pubs and pub life. Work it out by sound."
+  prize: "Email in. Winner gets a dog-eared copy of CAMRA's Good Beer Guide and a commemorative coaster."
+  clues:
+    - number: 1
+      initials: T R L
+      clue: "There's a colour — the bright one, like a fire engine — and there's a big cat wandering about. The big cat is that colour. Very striking."
+      answer: The Red Lion
+      aliases:
+        - the red lion
+        - red lion
+      reasoning: "The (the) + Red (fire engine colour, bright red) + Lion (a big cat, a lion) = The Red Lion"
+    - number: 2
+      initials: L O
+      clue: "Someone's called last orders. That's it, the bar's shutting. Everyone finishing their pints. Classic British pub moment."
+      answer: Last Orders
+      aliases:
+        - last orders
+      reasoning: "Last (final, the last ones) + Orders (what you call at the bar — last orders) = Last Orders"
+    - number: 3
+      initials: L G
+      clue: "Right, that woman landlady at the pub — the one in charge — she runs the place with an iron fist. Got a name for her. She's the guv'nor."
+      answer: Landlady
+      aliases:
+        - landlady
+      reasoning: "Land (the land, the place) + lady (a woman) = Landlady — the woman who runs the pub"
+
+- id: pubbusters-010
+  enabled: true
+  title: Pubbusters
+  topic: British pub names, pub culture, and classic pub games
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Pubbusters ten. Halfway through. Three phonetic pub clues. Near enough, that's all."
+  prize: "Email in. Winner gets a bar towel with a lager logo on it and a packet of dry roasted peanuts from 2007."
+  clues:
+    - number: 1
+      initials: T B
+      clue: "Someone's been given a tab at the bar. Just writing down what they owe. Running up quite a list. The landlord is watching."
+      answer: The Tab
+      aliases:
+        - the tab
+        - tab
+      reasoning: "The (the) + Tab (the running list of what you owe at the bar — a tab) = The Tab"
+    - number: 2
+      initials: P Q
+      clue: "Right, there's a night — usually a Tuesday — where everyone sits in teams and a bloke with a microphone asks questions. Some people take it too seriously."
+      answer: Pub Quiz
+      aliases:
+        - pub quiz
+      reasoning: "Pub (a pub, the place you go for a drink) + Quiz (questions, a knowledge test) = Pub Quiz"
+    - number: 3
+      initials: R
+      clue: "It's your turn to go up and get everyone's drinks in. You'll need to know what everyone's having. The whole table's looking at you."
+      answer: Round
+      aliases:
+        - round
+        - a round
+      reasoning: "Round (buying a round at the pub — your round means you buy drinks for everyone) = Round"
+
+- id: pubbusters-011
+  enabled: true
+  title: Pubbusters
+  topic: British pub names, pub culture, and classic pub games
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Eleven sets in. Pubbusters. Phonetic clues, all pub-themed. Say them out loud."
+  prize: "Email in. Winner gets a slightly squashed packet of cheese and onion and a pub mat with a racing horse on it."
+  clues:
+    - number: 1
+      initials: T C A H
+      clue: "There's a big vehicle for carrying people, pulled by horses, and both the horses and the vehicle have rocked up together. They're a package deal."
+      answer: The Coach and Horses
+      aliases:
+        - the coach and horses
+        - coach and horses
+      reasoning: "The (the) + Coach (a big passenger vehicle, a coach) + and (and) + Horses (the animals out front pulling it) = The Coach and Horses"
+    - number: 2
+      initials: B G
+      clue: "Right, the garden's lovely but the gates at the front are made of something precious. Very shiny. Very fancy for a pub."
+      answer: Beer Garden
+      aliases:
+        - beer garden
+      reasoning: "Beer (the drink you have at a pub) + Garden (a garden, like the one out the back of the pub) = Beer Garden"
+    - number: 3
+      initials: O M
+      clue: "It's nearly two o'clock and the landlord's telling everyone it's time to go. Standard. Happens every day."
+      answer: Opening and closing time
+      aliases:
+        - opening time
+        - closing time
+      reasoning: "Opening (when the pub opens) + closing (when they throw you out) + time (the time) = classic pub concept"
+
+- id: pubbusters-012
+  enabled: true
+  title: Pubbusters
+  topic: British pub names, pub culture, and classic pub games
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Pubbusters twelve. Three clues. Pub names and pub stuff. You know the drill."
+  prize: "Email in. Winner gets a branded beer glass and a bus timetable from a village nobody's heard of."
+  clues:
+    - number: 1
+      initials: T W H
+      clue: "There's a very pale animal — a deer, male one — standing very still in a clearing. White as a sheet. Very noble."
+      answer: The White Hart
+      aliases:
+        - the white hart
+        - white hart
+      reasoning: "The (the) + White (pale, white as a sheet) + Hart (a male deer, a hart) = The White Hart"
+    - number: 2
+      initials: T B S
+      clue: "This huge dark bird is gliding across a lake very smoothly. All black. Bit unexpected for a swan. You don't see that every day."
+      answer: The Black Swan
+      aliases:
+        - the black swan
+        - black swan
+      reasoning: "The (the) + Black (dark, all black — unusual) + Swan (the gliding waterbird) = The Black Swan"
+    - number: 3
+      initials: T C
+      clue: "There's this lot of cricketers, right, and they've gone and named a pub after themselves. Very pleased about it. They're in the bar celebrating."
+      answer: The Cricketers
+      aliases:
+        - the cricketers
+        - cricketers
+      reasoning: "The (the) + Cricketers (people who play cricket — cricketers) = The Cricketers"
+
+- id: pubbusters-013
+  enabled: true
+  title: Pubbusters
+  topic: British pub names, pub culture, and classic pub games
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Pubbusters thirteen. Three more phonetic pub clues. Work it out by the sound of it."
+  prize: "Email in. Winner gets a pack of playing cards with one card missing and a used betting slip."
+  clues:
+    - number: 1
+      initials: T R O
+      clue: "There's a big old tree — the sort that acorns fall off — and it's somehow connected to royalty. Maybe a king hid in it once. That sort of thing."
+      answer: The Royal Oak
+      aliases:
+        - the royal oak
+        - royal oak
+      reasoning: "The (the) + Royal (connected to royalty, a king) + Oak (a big old tree, acorns, an oak) = The Royal Oak"
+    - number: 2
+      initials: T W
+      clue: "There's this tall cylindrical thing in the middle of a field and it's turning round slowly in the breeze. Very rural. Very relaxing."
+      answer: The Windmill
+      aliases:
+        - the windmill
+        - windmill
+      reasoning: "The (the) + Windmill (a tall cylindrical structure with turning sails, found in the countryside) = The Windmill"
+    - number: 3
+      initials: T S
+      clue: "Right, a very old church nearby has given its name to the pub. Very common in English villages. The church is older than the pub. Obviously."
+      answer: The Steeple
+      aliases:
+        - the steeple
+        - steeple
+      reasoning: "The (the) + Steeple (the pointy bit on top of a church — a steeple, very common pub name in English villages) = The Steeple"
+
+- id: pubbusters-014
+  enabled: true
+  title: Pubbusters
+  topic: British pub names, pub culture, and classic pub games
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Right then, Pubbusters fourteen. Phonetic clues, British pub theme. Say them out loud."
+  prize: "Email in. Winner gets a raffle ticket stub and a copy of the pub's weekly specials menu, laminated."
+  clues:
+    - number: 1
+      initials: T F A H
+      clue: "A cunning orange animal and a big dog that chases things have both ended up at the same address. No one planned it. They're eyeing each other up."
+      answer: The Fox and Hound
+      aliases:
+        - the fox and hound
+        - fox and hound
+      reasoning: "The (the) + Fox (cunning orange animal) + and (and) + Hound (a big chasing dog, a hound) = The Fox and Hound"
+    - number: 2
+      initials: T G
+      clue: "There's a thin, very fast dog — the kind they race — just standing outside. Very sleek. Very aloof. Bit intimidating for such a slender animal."
+      answer: The Greyhound
+      aliases:
+        - the greyhound
+        - greyhound
+      reasoning: "The (the) + Greyhound (a thin, fast racing dog — a greyhound) = The Greyhound"
+    - number: 3
+      initials: B P
+      clue: "Right, there's a hand-pump on the bar and you pull it toward you and a pint of real ale comes out. That's the whole thing. Classic."
+      answer: Beer Pump
+      aliases:
+        - beer pump
+        - hand pump
+      reasoning: "Beer (the drink) + Pump (the hand-pump at the bar you pull to pour real ale) = Beer Pump"
+
+- id: pubbusters-015
+  enabled: true
+  title: Pubbusters
+  topic: British pub names, pub culture, and classic pub games
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Pubbusters fifteen. Nearly there. Three phonetic clues. All pub names and pub culture."
+  prize: "Email in. Winner gets a half-used book of matches and a drip tray, cleaned and everything."
+  clues:
+    - number: 1
+      initials: T P
+      clue: "There's a big wooden thing with a blade on the front and a horse is dragging it through a muddy field turning over the soil. Very traditional. Very satisfying."
+      answer: The Plough
+      aliases:
+        - the plough
+        - plough
+      reasoning: "The (the) + Plough (the farming implement dragged by a horse to turn soil — a plough) = The Plough"
+    - number: 2
+      initials: T B
+      clue: "A large metal thing is ringing. The sort that hangs in a tower. Very loud, very clear. Sunday morning sort of sound."
+      answer: The Bell
+      aliases:
+        - the bell
+        - bell
+      reasoning: "The (the) + Bell (a large metal ringing thing that hangs in a tower — a bell) = The Bell"
+    - number: 3
+      initials: S P
+      clue: "Someone has pushed a very small old coin along a smooth wooden board. Not thrown it. Shoved it with their hand. Very gently. Very precise."
+      answer: Shove Halfpenny
+      aliases:
+        - shove halfpenny
+        - shove ha'penny
+      reasoning: "Shove (pushing/shoving it with the hand) + Halfpenny (a small old coin worth half a penny) = Shove Halfpenny"
+
+- id: pubbusters-016
+  enabled: true
+  title: Pubbusters
+  topic: British pub names, pub culture, and classic pub games
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Pubbusters sixteen. Phonetic clues. Pub life and pub names. Same rules. Off you go."
+  prize: "Email in. Winner gets a vintage Tetley's ashtray and a slightly warm bottle of brown ale."
+  clues:
+    - number: 1
+      initials: T A
+      clue: "There's a heavy metal device on a rope, and they've dropped it off the side of a boat to keep it in one spot. Just hanging there underwater. Doing its job."
+      answer: The Anchor
+      aliases:
+        - the anchor
+        - anchor
+      reasoning: "The (the) + Anchor (heavy metal thing dropped from a boat to keep it in place — an anchor) = The Anchor"
+    - number: 2
+      initials: T N H
+      clue: "A load of old worn-out horses have a sign hanging outside their address. The sign's got their heads on it. They seem unbothered."
+      answer: The Nags Head
+      aliases:
+        - the nags head
+        - nags head
+      reasoning: "The (the) + Nags (old worn-out horses, nags) + Head (the head, what's on the sign) = The Nags Head"
+    - number: 3
+      initials: T C
+      clue: "Right, there's a checked pattern on the floor of a pub. Black and white squares all over. Very distinctive. You know the place instantly."
+      answer: The Chequers
+      aliases:
+        - the chequers
+        - chequers
+      reasoning: "The (the) + Chequers (a checked black and white pattern — chequers, very common pub name) = The Chequers"
+
+- id: pubbusters-017
+  enabled: true
+  title: Pubbusters
+  topic: British pub names, pub culture, and classic pub games
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Pubbusters seventeen. Three clues. Phonetic, pub-themed, say them aloud. That's all."
+  prize: "Email in. Winner gets a foam finger from a charity fun run and a packet of salted peanuts, open."
+  clues:
+    - number: 1
+      initials: T R
+      clue: "There's a big iron track out the back of the village and enormous vehicles go thundering along it. Steam-powered ones in the old days."
+      answer: The Railway
+      aliases:
+        - the railway
+        - railway
+      reasoning: "The (the) + Railway (iron tracks, trains running along them — a railway) = The Railway"
+    - number: 2
+      initials: T H A H
+      clue: "A long-eared fast animal and a dog that chases it have both ended up in the same place. Neither one looks happy about the situation."
+      answer: The Hare and Hound
+      aliases:
+        - the hare and hound
+        - hare and hound
+      reasoning: "The (the) + Hare (a long-eared fast animal, like a rabbit but faster) + and (and) + Hound (a chasing dog, a hound) = The Hare and Hound"
+    - number: 3
+      initials: T W
+      clue: "Loads of stalks of grain have all been gathered up and tied together at the top. Big bundle. Very agricultural. You'd see it in a field at harvest."
+      answer: The Wheatsheaf
+      aliases:
+        - the wheatsheaf
+        - wheatsheaf
+      reasoning: "The (the) + Wheatsheaf (a bundle of wheat stalks tied together, a wheat sheaf) = The Wheatsheaf"
+
+- id: pubbusters-018
+  enabled: true
+  title: Pubbusters
+  topic: British pub names, pub culture, and classic pub games
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Pubbusters eighteen. Nearly done. Three more phonetic clues. Pub names and games."
+  prize: "Email in. Winner gets a dartboard with no numbers on the outside ring and a 20p piece."
+  clues:
+    - number: 1
+      initials: D
+      clue: "Right, these pointy little things — feathered at one end, sharp at the other — you hurl them at a circular target on the wall. Everyone's played this. Usually badly."
+      answer: Darts
+      aliases:
+        - darts
+      reasoning: "Darts (pointy things with feathered flights that you throw at a round board — darts) = Darts"
+    - number: 2
+      initials: T L A F
+      clue: "There's a small woolly animal and a big flag. They've both got a name above the pub door. The sheep's the star of the sign though."
+      answer: The Lamb and Flag
+      aliases:
+        - the lamb and flag
+        - lamb and flag
+      reasoning: "The (the) + Lamb (a small woolly young sheep, a lamb) + and (and) + Flag (a flag, a banner) = The Lamb and Flag"
+    - number: 3
+      initials: T V
+      clue: "That bloke's stepped forward without being asked. Said he'd help. Very willing. Very civic-minded. Nobody made him."
+      answer: The Volunteer
+      aliases:
+        - the volunteer
+        - volunteer
+      reasoning: "The (the) + Volunteer (someone who steps forward to help without being asked — a volunteer) = The Volunteer"
+
+- id: pubbusters-019
+  enabled: true
+  title: Pubbusters
+  topic: British pub names, pub culture, and classic pub games
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Pubbusters nineteen. Penultimate set. Three phonetic clues. Pub-themed. Say them aloud."
+  prize: "Email in. Winner gets a loyalty stamp card with eight of ten stamps and a novelty cocktail umbrella."
+  clues:
+    - number: 1
+      initials: T S I
+      clue: "A big vessel is docked in a small harbour and it's staying there for the night. Got a sign on the wall nearby. Very nautical."
+      answer: The Ship Inn
+      aliases:
+        - the ship inn
+        - ship inn
+      reasoning: "The (the) + Ship (a big sea vessel docked in a harbour) + Inn (an inn, a place to stay the night) = The Ship Inn"
+    - number: 2
+      initials: T R S
+      clue: "That enormous glowing thing in the sky is hauling itself up over the horizon. Coming up slowly. Orange at first. Beautiful really."
+      answer: The Rising Sun
+      aliases:
+        - the rising sun
+        - rising sun
+      reasoning: "The (the) + Rising (hauling itself up, coming up over the horizon) + Sun (the enormous glowing thing in the sky — the sun) = The Rising Sun"
+    - number: 3
+      initials: S
+      clue: "Nine wooden pins arranged in a diamond shape, and you roll a ball down a lane to knock them all flying. Very old game. Very satisfying sound when you get them all."
+      answer: Skittles
+      aliases:
+        - skittles
+      reasoning: "Skittles (nine wooden pins in a lane, knocked over with a ball — skittles, an ancient British pub game) = Skittles"
+
+- id: pubbusters-020
+  enabled: true
+  title: Pubbusters
+  topic: British pub names, pub culture, and classic pub games
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Final Pubbusters. Set twenty. Three last phonetic pub clues. Off you go. That's all."
+  prize: "Email in. Winner gets a vintage pub sign reproduction and a can of bitter, warm, from the back of a cupboard."
+  clues:
+    - number: 1
+      initials: T C
+      clue: "There's a royal hat — the sort a king or queen wears — just sitting in the middle of a village square. Very regal. No one's moved it."
+      answer: The Crown
+      aliases:
+        - the crown
+        - crown
+      reasoning: "The (the) + Crown (a royal hat, worn by kings and queens — a crown) = The Crown"
+    - number: 2
+      initials: T K H
+      clue: "There's a monarch and they've only gone and had the top portion of their effigy removed. The head bit. Gone. Just the body left on the sign."
+      answer: The Kings Head
+      aliases:
+        - the kings head
+        - kings head
+      reasoning: "The (the) + Kings (a monarch, a king) + Head (the top bit, the head on the sign) = The Kings Head"
+    - number: 3
+      initials: S H
+      clue: "Someone's taken an ancient coin — only worth half a penny mind — and they're giving it a gentle push along a flat wooden surface. That's the whole game. It works."
+      answer: Shove Halfpenny
+      aliases:
+        - shove halfpenny
+        - shove ha'penny
+      reasoning: "Shove (a gentle push along a flat surface) + Halfpenny (an old coin worth half a penny, a ha'penny) = Shove Halfpenny"

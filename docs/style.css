@@ -840,6 +840,70 @@ body {
 }
 
 /* ---------------------------------------------------------------------------
+   Holiday theming
+--------------------------------------------------------------------------- */
+
+.holiday-decoration {
+  text-align: center;
+  font-size: 1.3rem;
+  padding: 0.4rem 1rem;
+  letter-spacing: 0.3em;
+  user-select: none;
+  pointer-events: none;
+}
+
+/* Christmas — red/green */
+body.theme-christmas {
+  --brand:      #c0392b;
+  --brand-dark: #922b21;
+  --brand-pale: #fdf2f2;
+  --bg:         #f9f0f0;
+  --accent:     #27ae60;
+}
+
+.holiday-decoration-christmas {
+  background: linear-gradient(90deg, #c0392b 0%, #27ae60 50%, #c0392b 100%);
+  color: #fff;
+}
+
+/* Halloween — orange/purple */
+body.theme-halloween {
+  --brand:      #e67e22;
+  --brand-dark: #ca6f1e;
+  --brand-pale: #fef5e7;
+  --bg:         #1a0a2e;
+  --surface:    #2d1b4e;
+  --surface-alt:#3a2460;
+  --border:     #4a3070;
+  --border-soft:#3a2460;
+  --ink:        #f0e6ff;
+  --ink-mid:    #c9b8e8;
+  --ink-faint:  #9a85c0;
+  --success:    #27ae60;
+  --fail:       #e74c3c;
+  --accent:     #e67e22;
+}
+
+.holiday-decoration-halloween {
+  background: linear-gradient(90deg, #1a0a2e, #4a2080, #1a0a2e);
+  color: #e67e22;
+}
+
+/* Easter — pastel */
+body.theme-easter {
+  --brand:      #8e44ad;
+  --brand-dark: #6c3483;
+  --brand-pale: #f9f0ff;
+  --bg:         #f5fff0;
+  --accent:     #f39c12;
+}
+
+.holiday-decoration-easter {
+  background: linear-gradient(90deg, #f9f0ff, #fffde7, #f0fff4, #f9f0ff);
+  color: #8e44ad;
+}
+
+/* ---------------------------------------------------------------------------
    Responsive
 --------------------------------------------------------------------------- */
 

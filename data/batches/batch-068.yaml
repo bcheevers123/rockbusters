@@ -1,0 +1,99 @@
+- id: islandbusters-001
+  enabled: true
+  title: Islandbusters
+  topic: island names — islands from around the world
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - Global
+  intro: "Right then, Islandbusters. Rockbusters but all the answers are islands. Real ones, from around the world. Say the clues out loud — the name's hiding in the sounds somewhere."
+  prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
+  clues:
+    - number: 1
+      initials: M
+      clue: "A car that runs on gas has completely lost the plot. Absolute state of it. Driving around an African island causing bother."
+      answer: Madagascar
+      aliases:
+        - madagascar
+      reasoning: "mad (lost the plot, gone mad) + a (the article) + gas (fuel, what the car runs on) + car (the vehicle) = Mad-a-gas-car = Madagascar"
+    - number: 2
+      initials: B
+      clue: "A fella's knee is absolutely fed up. Just bored to death. Gone oh about the whole thing. Tropical island situation."
+      answer: Borneo
+      aliases:
+        - borneo
+      reasoning: "bore (to bore someone, to be dull) + knee (part of the leg) + oh (a sound of mild realisation) = Bore-knee-oh = Borneo"
+    - number: 3
+      initials: S
+      clue: "A woman called Sue has taken her mum to court while they were both on a tram somewhere exotic. The mum's not pleased."
+      answer: Sumatra
+      aliases:
+        - sumatra
+      reasoning: "sue (to take legal action, or the name Sue) + ma (mum, mother) + tra (sounds like 'tram' without the m, or 'tra' as in tra-la-la) = Sue-ma-tra = Sumatra"
+
+- id: islandbusters-002
+  enabled: true
+  title: Islandbusters
+  topic: island names — islands from around the world
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - Global
+  intro: "Islandbusters two. Three more islands from around the world. All hiding in phonetic clues. Say them out loud and have a think."
+  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists."
+  clues:
+    - number: 1
+      initials: M
+      clue: "We all want a bit more of something but it's making us feel a bit poorly. There's a group of us involved and we're all in the same boat. Indian Ocean."
+      answer: Mauritius
+      aliases:
+        - mauritius
+      reasoning: "more (wanting more of something) + ish (sort of, or making you feel ish, a bit poorly) + us (a group of people, us lot) = More-ish-us = Mauritius"
+    - number: 2
+      initials: S
+      clue: "A woman is standing by the sea saying the word for a hard outer casing of a sea creature over and over. Just repeating it. Calmly. Indian Ocean again."
+      answer: Seychelles
+      aliases:
+        - seychelles
+        - the seychelles
+      reasoning: "say (to say something out loud) + shells (the hard casings of sea creatures) = Say-shells = Seychelles"
+    - number: 3
+      initials: Z
+      clue: "There's a pub — a proper one — and someone with a very unusual name has opened it. Zanzi, they're called. Not sure where that's from. East Africa somewhere."
+      answer: Zanzibar
+      aliases:
+        - zanzibar
+      reasoning: "zanzi (sounds like 'zan-zee', an exotic-sounding name) + bar (a pub, a place for drinks) = Zanzi-bar = Zanzibar"
+
+- id: islandbusters-003
+  enabled: true
+  title: Islandbusters
+  topic: island names — islands from around the world
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - Global
+  intro: "Three and last. Islandbusters three. More islands from around the world. You know the drill — say them out loud and the name pops out."
+  prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
+  clues:
+    - number: 1
+      initials: M
+      clue: "A woman called Martina is in a queue for something. She's very particular. She wants it, but she wants it unique. Caribbean island."
+      answer: Martinique
+      aliases:
+        - martinique
+      reasoning: "martin (sounds like 'Martina' shortened, or just Martin, a name) + ique (sounds like 'eek', a noise of alarm, or 'unique' without the yoo) = Martin-ique = Martinique"
+    - number: 2
+      initials: H
+      clue: "Right, something belongs to someone — his, it's his — and there's a small frying pan involved, and a woman called Viola who's dropped the V. Caribbean island, shared between two countries."
+      answer: Hispaniola
+      aliases:
+        - hispaniola
+      reasoning: "his (belonging to him, possessive) + pan (a frying pan) + iola (sounds like 'iola', or Viola without the V) = His-pan-iola = Hispaniola"
+    - number: 3
+      initials: S
+      clue: "A group of people are describing a stretch of land as being free. They keep saying it's free. And there's a crow flying about making that ka sound. South Asia."
+      answer: Sri Lanka
+      aliases:
+        - sri lanka
+      reasoning: "sri (sounds like 'shree' or 'free' with a soft sh) + lan (land, a stretch of ground) + ka (the sound a crow makes, or just 'ka') = Sri-lan-ka = Sri Lanka"

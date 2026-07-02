@@ -1,0 +1,666 @@
+- id: royalbusters-001
+  enabled: true
+  title: Royalbusters
+  topic: British royals and monarchy history
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Right, Royalbusters. Three royals, all scrambled up. Say them out loud, they're in there somewhere."
+  prize: "Email in. Winner gets a commemorative mug from a royal wedding that wasn't theirs."
+  clues:
+    - number: 1
+      initials: Q V
+      clue: "That woman who rules over everything, she's got a cold virus. Say it quick."
+      answer: Queen Victoria
+      aliases:
+        - queen victoria
+      reasoning: "Queen = Kween, Victoria = Vic-TOR-ia. Queen sounds like 'keen' with a qu. Victoria sounds like 'victor-ia' — the scene is a queen with a victory, a win. Queen Victoria. Near enough."
+    - number: 2
+      initials: K H
+      clue: "Right, this bloke's a king and he's got eight of something. Eight legs, eight hats, eight wives — doesn't matter. Eight."
+      answer: King Henry VIII
+      aliases:
+        - king henry viii
+        - king henry the eighth
+      reasoning: "King Henry VIII. King = King. Henry = Hen-ree. VIII = the eighth. Henry sounds like 'hen' + 'ree'. So a king with a hen called Ree who's done this eight times. Bit weird but say it out loud."
+    - number: 3
+      initials: A B
+      clue: "Ann's gone and started bowling. She's rolling the ball down the lane. That's all."
+      answer: Anne Boleyn
+      aliases:
+        - anne boleyn
+      reasoning: "Anne Boleyn. Anne = Ann. Boleyn = Bowl-in. Ann + bowling = Anne Boleyn. She's literally ann-bowl-in. Say it out loud."
+
+- id: royalbusters-002
+  enabled: true
+  title: Royalbusters
+  topic: British royals and monarchy history
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Royalbusters time. Three famous faces from the palace, all hidden in a bit of nonsense. Off you go."
+  prize: "Email in. Winner gets a Blockbuster loyalty card and a tin of biscuits with a royal crest on it."
+  clues:
+    - number: 1
+      initials: P W
+      clue: "Right, there's this fella called Will, and he's leaning on a fence post. Just standing there. Sort of makes sense."
+      answer: Prince William
+      aliases:
+        - prince william
+      reasoning: "Prince William. Prince = Prints (press/print). William = Will-yam. Prince sounds like 'prints'. Prints + Will + yam. Bit of a stretch. Better: Prince = Prin-ce, William = Will-ee-um. A printing press... no. Prince William — Prince sounds like 'prance' without the a. Actually: Prin-ce Will-iam = a fella called Will who is leaning like a post — a PRINCE of posts. Say it out loud, it works."
+    - number: 2
+      initials: P H
+      clue: "Some fella called Harry, right, and he's doing archery near the palace gates. Bit random."
+      answer: Prince Harry
+      aliases:
+        - prince harry
+      reasoning: "Prince Harry. Prince = Prints/Prance. Harry = Hairy/Harr-ee. Prince Harry — Prin-ce Harr-ee. A prince who's hairy. Or: prints + harry. He's printed and he's harrying someone. Say it out loud: Prince Harry. Near enough."
+    - number: 3
+      initials: W S
+      clue: "Some woman called Wallis, she's got a bit of a lisp. Says everything sounds simpler than it is."
+      answer: Wallis Simpson
+      aliases:
+        - wallis simpson
+      reasoning: "Wallis Simpson. Wallis = Wall-is. Simpson = Simp-son. Wall-is Simp-son. There's a wall, it is simple, it's a son. Wall-is-Simp-son. Say it out loud: Wallis Simpson. Works."
+
+- id: royalbusters-003
+  enabled: true
+  title: Royalbusters
+  topic: British royals and monarchy history
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Royalbusters. Got three for you. They're all from the history books, sort of. Say them out loud and it'll click."
+  prize: "Email in. Winner gets an AOL trial disc and a souvenir spoon from a heritage site gift shop."
+  clues:
+    - number: 1
+      initials: K G
+      clue: "Right, there's a king, and he's guarding something. He's George, and he's standing at the gate. That's him."
+      answer: King George
+      aliases:
+        - king george
+      reasoning: "King George. King = King. George = Jor-j. King George — sounds like 'kin-George'. A king called George, who sounds like he's gorging on something. King George. Easy one this."
+    - number: 2
+      initials: P A
+      clue: "This fella's an Albert, and he's working in a print shop. Makes sense when you say it."
+      answer: Prince Albert
+      aliases:
+        - prince albert
+      reasoning: "Prince Albert. Prince = Prints. Albert = Al-bert. Prints-Al-bert. He's printing things and his name's Albert. A print-Albert. Prince Albert. Say it out loud."
+    - number: 3
+      initials: Q C
+      clue: "There's a queen, right, and she's filming herself. Camera on, she's a cam-ill-a. Bit odd."
+      answer: Queen Camilla
+      aliases:
+        - queen camilla
+      reasoning: "Queen Camilla. Queen = Kween. Camilla = Cam-ill-a. Cam (camera) + ill + a. She's got a camera and she's feeling a bit poorly. Cam-ill-a. Queen Camilla. Near enough."
+
+- id: royalbusters-004
+  enabled: true
+  title: Royalbusters
+  topic: British royals and monarchy history
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Right, Royalbusters. Three of them this week, all hidden in a silly little description. Shout them out."
+  prize: "Email in. Winner gets a Now 52 cassette and a commemorative plate, slightly chipped."
+  clues:
+    - number: 1
+      initials: Q E
+      clue: "She rules, right, and she's doing it with fizzy electricity. Buzz of power. That's her."
+      answer: Queen Elizabeth
+      aliases:
+        - queen elizabeth
+      reasoning: "Queen Elizabeth. Queen = Kween. Elizabeth = Ee-liz-a-beth. Ee-liz — as in electric lizard — a-beth. A queen who's an electric lizard called Beth. Queen Elizabeth. Say it out loud."
+    - number: 2
+      initials: P P
+      clue: "This royal fella, he's got two of the same name. Phillip Phillip. Or rather, he's printing something spicy. Say it quick."
+      answer: Prince Philip
+      aliases:
+        - prince philip
+      reasoning: "Prince Philip. Prince = Prints. Philip = Fill-up. Prints-Fill-up. He's printing something and filling it up. A print-fill-up. Prince Philip. Near enough."
+    - number: 3
+      initials: K C
+      clue: "The king's got a big hat and he's in charge of everything. He's Charles. Right, that's him. King Charles."
+      answer: King Charles
+      aliases:
+        - king charles
+      reasoning: "King Charles. King = King. Charles = Char-lz. King Charles — sounds like 'kin-charlz'. A king called Charles who's charring things. Bit weird but it works."
+
+- id: royalbusters-005
+  enabled: true
+  title: Royalbusters
+  topic: British royals and monarchy history
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Royalbusters. Say these out loud, don't think too hard, the answers are in the sounds. Right."
+  prize: "Email in. Winner gets a Shrek on DVD and a mini sewing kit from a hotel they stayed in once."
+  clues:
+    - number: 1
+      initials: P A
+      clue: "This princess, she's been running around doing things all day, and she's Ann, and she's a bit annoyed about it. That's her."
+      answer: Princess Anne
+      aliases:
+        - princess anne
+      reasoning: "Princess Anne. Princess = Prin-cess. Anne = Ann. Prin-cess-Ann. A princess called Ann who's been running around. Say it out loud: Princess Anne. Easy one this."
+    - number: 2
+      initials: P B
+      clue: "Right, there's a princess, and she's got a really lovely beat going. Bee-a-trice. She's keeping the rhythm. Sort of works."
+      answer: Princess Beatrice
+      aliases:
+        - princess beatrice
+      reasoning: "Princess Beatrice. Princess = Prin-cess. Beatrice = Bee-a-triss. Bee (insect) + a + triss (trice, as in a short time). A princess who's a bee doing something in a trice. Princess Beatrice. Say it out loud."
+    - number: 3
+      initials: P E
+      clue: "This princess is called Eugenie, and when you say it out loud it sounds like you're asking if something belongs to you. Yours, is it?"
+      answer: Princess Eugenie
+      aliases:
+        - princess eugenie
+      reasoning: "Princess Eugenie. Princess = Prin-cess. Eugenie = You-jean-ee. You + jean + ee. It's yours, it's a pair of jeans, and it's got an ee sound. A princess whose name sounds like 'you-jeans'. Princess Eugenie. Near enough."
+
+- id: royalbusters-006
+  enabled: true
+  title: Royalbusters
+  topic: British royals and monarchy history
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Right. Royalbusters. Three more for you. All hidden in sounds. Don't look for spelling, just listen."
+  prize: "Email in. Winner gets a signed letter from someone off Heartbeat, possibly."
+  clues:
+    - number: 1
+      initials: P A
+      clue: "This royal fella, he's a prince, and he went for a wander and drew something. And he drew it."
+      answer: Prince Andrew
+      aliases:
+        - prince andrew
+      reasoning: "Prince Andrew. Prince = Prints. Andrew = An-drew. Prints-An-drew. He's printing and drawing. A print-an-drew. Prince Andrew. Say it out loud."
+    - number: 2
+      initials: P E
+      clue: "Right, there's a prince, and he lives at the edge of everything. The edge, the ward of something big. Prince Ed-ward."
+      answer: Prince Edward
+      aliases:
+        - prince edward
+      reasoning: "Prince Edward. Prince = Prints. Edward = Ed-word. Ed + word. Someone called Ed's got a word. Or: Ed-ward, like a ward in a hospital run by Ed. Prince Edward. Near enough."
+    - number: 3
+      initials: Z T
+      clue: "Some woman called Zara, she's all tangled up and annoyed about it. Proper tindall-ing with the knot."
+      answer: Zara Tindall
+      aliases:
+        - zara tindall
+      reasoning: "Zara Tindall. Zara = Zar-a. Tindall = Tin-dall. Tin + doll. She's got a tin and a doll. Or Tindall sounds like 'tindle' — tinder/kindle. Zara = the clothes shop. A Zara shop with a tinder problem. Zara Tindall. Say it out loud."
+
+- id: royalbusters-007
+  enabled: true
+  title: Royalbusters
+  topic: British royals and monarchy history
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Royalbusters time. These ones are a bit trickier. Say each clue out loud and you'll hear the royal in there."
+  prize: "Email in. Winner gets an original Tamagotchi with no batteries and a leaflet about the Millennium Dome."
+  clues:
+    - number: 1
+      initials: M M
+      clue: "Right, this woman's megan-ing around in a market. Megan's at the market. Say it fast."
+      answer: Meghan Markle
+      aliases:
+        - meghan markle
+      reasoning: "Meghan Markle. Meghan = Meg-an. Markle = Mar-kul. Meg-an-Mar-kul. Megan at the market, but the market's a bit awkward about it. Meghan Markle. Say it out loud."
+    - number: 2
+      initials: P P
+      clue: "Some fella called Peter, right, and he's ringing something. Filling up the bells. Peter — fill — ups."
+      answer: Peter Phillips
+      aliases:
+        - peter phillips
+      reasoning: "Peter Phillips. Peter = Pee-ter. Phillips = Fill-ips. Fill-ips. Peter who fills things up. Peter Fill-ups. Peter Phillips. Near enough."
+    - number: 3
+      initials: L L
+      clue: "There's a lady, right, and she's got a big long wee. Lou-eeze. Ladylike about it though."
+      answer: Lady Louise
+      aliases:
+        - lady louise
+      reasoning: "Lady Louise. Lady = Lay-dee. Louise = Lou-eeze. Lay-dee-Lou-eeze. A lady who's easing something out. Lady Louise. Say it out loud."
+
+- id: royalbusters-008
+  enabled: true
+  title: Royalbusters
+  topic: British royals and monarchy history
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Right, Royalbusters. Got three more hidden in here. They sound like royals when you say them out."
+  prize: "Email in. Winner gets a printed photo from a disposable camera, slightly out of focus, framed."
+  clues:
+    - number: 1
+      initials: C A
+      clue: "This woman's from Aragon, which is near Spain. She's a Catherine, and she's arrived from a long way off. That's her."
+      answer: Catherine of Aragon
+      aliases:
+        - catherine of aragon
+      reasoning: "Catherine of Aragon. Catherine = Kath-rin. Of = ov. Aragon = Arr-a-gon. Kath-rin-of-Arr-a-gon. A Catherine who's gone off somewhere. Catherine of Aragon. Say it out loud."
+    - number: 2
+      initials: K E
+      clue: "This king, he's the eighth one, and he walked away from the job. He was Edward, and he quit."
+      answer: King Edward VIII
+      aliases:
+        - king edward viii
+        - king edward the eighth
+      reasoning: "King Edward VIII. King = King. Edward = Ed-word. VIII = the-eighth. Ed-word-the-eighth. A king called Ed who has a word and does it eighth. King Edward VIII. Near enough."
+    - number: 3
+      initials: P C
+      clue: "There's a princess, and she's got a ring on. She's a Cath, and she's all sorted. That's her, Kate."
+      answer: Princess Catherine
+      aliases:
+        - princess catherine
+        - princess kate
+      reasoning: "Princess Catherine. Princess = Prin-cess. Catherine = Kath-rin. Prin-cess-Kath-rin. A princess called Kath who's running things. Princess Catherine. Say it out loud."
+
+- id: royalbusters-009
+  enabled: true
+  title: Royalbusters
+  topic: British royals and monarchy history
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Royalbusters. Three more. All from the monarchy, all hidden in a bit of Karl-style nonsense."
+  prize: "Email in. Winner gets a BHS gift voucher that expired in 2016 and a packet of boiled sweets."
+  clues:
+    - number: 1
+      initials: Q V
+      clue: "That woman who won everything. She's victorious, and she ruled the lot. Queen of winning."
+      answer: Queen Victoria
+      aliases:
+        - queen victoria
+      reasoning: "Queen Victoria. Queen = Kween. Victoria = Vik-tor-ee-a. Victor + ia. She's the queen who victoried. Queen Victoria. Easy one this."
+    - number: 2
+      initials: P A
+      clue: "Right, there's a prince, and he's got an enormous bright lamp. Brilliant lamp. Prin-lamp. Nah, he's AL-bright. Prince Al-bert."
+      answer: Prince Albert
+      aliases:
+        - prince albert
+      reasoning: "Prince Albert. Prince = Prints. Albert = Al-bert. Al + bert. Someone called Al has a bert — a Bert is a name. Al-bert. Prints-Al-bert. Say it out loud: Prince Albert. Near enough."
+    - number: 3
+      initials: K H
+      clue: "This king, he's called Henry, and he's done it eight times. Just kept going. Eight."
+      answer: King Henry VIII
+      aliases:
+        - king henry viii
+        - king henry the eighth
+      reasoning: "King Henry VIII. King + Henry + the Eighth. Hen-ree the Eighth. A king who has a hen called Ree who's done this eighth time. King Henry VIII. Say it out loud."
+
+- id: royalbusters-010
+  enabled: true
+  title: Royalbusters
+  topic: British royals and monarchy history
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Right. Ten in. Royalbusters continuing. Three clues, three royals, all in the sounds. Have a go."
+  prize: "Email in. Winner gets a copy of Grease on VHS, slightly wobbly picture, and a royal wedding tea towel."
+  clues:
+    - number: 1
+      initials: P W
+      clue: "Some bloke called Will, right, he's doing his prints. Ink everywhere. Will-yam's at the printing press."
+      answer: Prince William
+      aliases:
+        - prince william
+      reasoning: "Prince William. Prince = Prints. William = Will-yam. Prints + Will-yam. A printing press run by a bloke called William. Prince William. Say it out loud."
+    - number: 2
+      initials: A B
+      clue: "She's called Ann, and she's gone bowling. Just rolled it down the lane, Ann has. Ann-bowl-in."
+      answer: Anne Boleyn
+      aliases:
+        - anne boleyn
+      reasoning: "Anne Boleyn. Anne = Ann. Boleyn = Bowl-in. Ann + bowling. She's Ann and she's bowl-in. Anne Boleyn. Say it out loud."
+    - number: 3
+      initials: W S
+      clue: "There's a wall, and it's simple. Wall is simple. Doesn't need explaining really. Wall-is-Simp-son."
+      answer: Wallis Simpson
+      aliases:
+        - wallis simpson
+      reasoning: "Wallis Simpson. Wallis = Wall-is. Simpson = Simp-son. Wall + is + simple + son. There's a wall, it is simple, and there's a son. Wallis Simpson. Near enough."
+
+- id: royalbusters-011
+  enabled: true
+  title: Royalbusters
+  topic: British royals and monarchy history
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Royalbusters again. Right, three more royals scrambled up in a bit of nonsense. Say them out loud."
+  prize: "Email in. Winner gets a Nokia 3310 with a cracked screen and a mug from a motorway services."
+  clues:
+    - number: 1
+      initials: Q E
+      clue: "She's a queen, right, and she's electric and she's Beth. Elec-Beth. Bit of a shock when you see her."
+      answer: Queen Elizabeth
+      aliases:
+        - queen elizabeth
+      reasoning: "Queen Elizabeth. Queen = Kween. Elizabeth = Ee-liz-a-beth. Electric + Beth. She's electric and she's a Beth. Queen Elizabeth. Say it out loud."
+    - number: 2
+      initials: P A
+      clue: "This princess, she does a lot. She's Ann, and she's been at it all morning. That sort of energy."
+      answer: Princess Anne
+      aliases:
+        - princess anne
+      reasoning: "Princess Anne. Princess = Prin-cess. Anne = Ann. Prin-cess Ann. A princess called Ann who's been running about. Princess Anne. Easy one this."
+    - number: 3
+      initials: P E
+      clue: "Right, this princess. Her name sounds like you're asking if something belongs to you. Your jeans, are they? You-jean-ee."
+      answer: Princess Eugenie
+      aliases:
+        - princess eugenie
+      reasoning: "Princess Eugenie. Eugenie = You-jean-ee. You + jean + ee. It's yours, it's jeans, and it ends in ee. Princess Eugenie. Near enough."
+
+- id: royalbusters-012
+  enabled: true
+  title: Royalbusters
+  topic: British royals and monarchy history
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Right, Royalbusters. Halfway through, keep going. Three clues, all sounds, all royals."
+  prize: "Email in. Winner gets a Woolworths pick-and-mix bag, imaginary, and a laminated certificate of participation."
+  clues:
+    - number: 1
+      initials: K G
+      clue: "He's a king, and he's absolutely gorging on his dinner. Jaw going like mad. King George."
+      answer: King George
+      aliases:
+        - king george
+      reasoning: "King George. King = King. George = Jaw-j. Jaw + j. He's a king with a working jaw. Georged his dinner. King George. Say it out loud."
+    - number: 2
+      initials: P H
+      clue: "Some prince, right, and he's Harry. Bit hairy about it, if you know what I mean. Running around, hairy."
+      answer: Prince Harry
+      aliases:
+        - prince harry
+      reasoning: "Prince Harry. Prince = Prints. Harry = Hairy. Prin-ts + Hairy. A printer who's hairy. Prince Harry. Near enough."
+    - number: 3
+      initials: M M
+      clue: "She's called Megan, and she's at the market, being Megan at the market. Megan-market. Say it quick."
+      answer: Meghan Markle
+      aliases:
+        - meghan markle
+      reasoning: "Meghan Markle. Meghan = Meg-an. Markle = Mar-kul. Megan at the market, sort of. Meg-an-Mar-kul. Meghan Markle. Say it out loud."
+
+- id: royalbusters-013
+  enabled: true
+  title: Royalbusters
+  topic: British royals and monarchy history
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Royalbusters, number thirteen. Three more. They're in there, hidden in sounds. Off you go."
+  prize: "Email in. Winner gets a signed postcard from a holiday resort in Tenerife, left behind in a guest book."
+  clues:
+    - number: 1
+      initials: P P
+      clue: "Right, this royal fella. His name sounds like he's filling something up, twice. Fill + up. Philip. Or: a prince who prints and fills up. That's him."
+      answer: Prince Philip
+      aliases:
+        - prince philip
+      reasoning: "Prince Philip. Prince = Prints. Philip = Fill-up. Prints + Fill-up. He's printing and filling. Prince Philip. Say it out loud."
+    - number: 2
+      initials: P A
+      clue: "There's a prince, and he went off on his own. He drew something, or he just went and drew. Prince an-drew."
+      answer: Prince Andrew
+      aliases:
+        - prince andrew
+      reasoning: "Prince Andrew. Prince = Prints. Andrew = An-drew. An + drew. He's done a drawing. Prince Andrew. Near enough."
+    - number: 3
+      initials: Z T
+      clue: "She's called Zara, like the shop, and she's got a tin of something. Tin-doll? Tindall. Zara tin-doll."
+      answer: Zara Tindall
+      aliases:
+        - zara tindall
+      reasoning: "Zara Tindall. Zara = Zar-a. Tindall = Tin-doll. Tin + doll. A Zara with a tin doll. Zara Tindall. Say it out loud."
+
+- id: royalbusters-014
+  enabled: true
+  title: Royalbusters
+  topic: British royals and monarchy history
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Right, Royalbusters. Fourteen in. Still going. Three royals, all in the sounds. Have at it."
+  prize: "Email in. Winner gets a copy of The Da Vinci Code hardback and a tin of Quality Street, mostly the purple ones."
+  clues:
+    - number: 1
+      initials: P C
+      clue: "There's a princess, and she's a Cath. Running things, sorted, got a ring on. That's her. Princess Cath-rin."
+      answer: Princess Catherine
+      aliases:
+        - princess catherine
+        - princess kate
+      reasoning: "Princess Catherine. Princess = Prin-cess. Catherine = Kath-rin. Prin-cess + Kath-rin. A princess called Kath. Princess Catherine. Easy one this."
+    - number: 2
+      initials: Q C
+      clue: "She's a queen with a camera. Cam-illa. Filming everything. Queen Cam-ill-a."
+      answer: Queen Camilla
+      aliases:
+        - queen camilla
+      reasoning: "Queen Camilla. Queen = Kween. Camilla = Cam-ill-a. Camera + ill + a. She's got a cam and she's a bit ill. Queen Camilla. Say it out loud."
+    - number: 3
+      initials: K C
+      clue: "He's the king, right, and he's charring things on the barbecue. Char-les. King of the char."
+      answer: King Charles
+      aliases:
+        - king charles
+      reasoning: "King Charles. King = King. Charles = Char-lz. Char + lz. He's charring. King Charles. Near enough."
+
+- id: royalbusters-015
+  enabled: true
+  title: Royalbusters
+  topic: British royals and monarchy history
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Right. Royalbusters. Three more for you this week. All royals, all hidden in silly sounds. Go on then."
+  prize: "Email in. Winner gets an early iPod with a flat battery and a novelty pen from a museum gift shop."
+  clues:
+    - number: 1
+      initials: L L
+      clue: "There's a lady, and she's easing herself into the room very quietly. Lou-eeze. Very ladylike about it."
+      answer: Lady Louise
+      aliases:
+        - lady louise
+      reasoning: "Lady Louise. Lady = Lay-dee. Louise = Lou-eeze. Lay-dee + Lou-eeze. A lady who's easing in. Lady Louise. Say it out loud."
+    - number: 2
+      initials: P P
+      clue: "This fella's called Peter, and he fills things up for a living. Fills and fills. Peter Fill-ups."
+      answer: Peter Phillips
+      aliases:
+        - peter phillips
+      reasoning: "Peter Phillips. Peter = Pee-ter. Phillips = Fill-ups. Fill + ups. He fills things up. Peter Phillips. Near enough."
+    - number: 3
+      initials: C A
+      clue: "She's a Catherine, and she's gone off somewhere — Aragon. A long way gone. Catherine-of-gone."
+      answer: Catherine of Aragon
+      aliases:
+        - catherine of aragon
+      reasoning: "Catherine of Aragon. Catherine = Kath-rin. Of = of. Aragon = Arr-a-gon. A-gone. She's gone. Catherine of Aragon. Say it out loud."
+
+- id: royalbusters-016
+  enabled: true
+  title: Royalbusters
+  topic: British royals and monarchy history
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Royalbusters, sixteen in. These are sounds, not spelling. Say them out loud and the royal'll appear."
+  prize: "Email in. Winner gets a Millionaire's Shortbread from a closing-down bakery and a free trial for a video rental service."
+  clues:
+    - number: 1
+      initials: P B
+      clue: "Right, there's a princess, and a bee's done something really quickly. Bee-a-trice, done in a trice."
+      answer: Princess Beatrice
+      aliases:
+        - princess beatrice
+      reasoning: "Princess Beatrice. Princess = Prin-cess. Beatrice = Bee-a-triss. Bee + a + trice. A bee who's done it in a trice. Princess Beatrice. Say it out loud."
+    - number: 2
+      initials: K E
+      clue: "He's a king, and it's the eighth time he's been Edward. Or rather, he's King Ed-word the eighth."
+      answer: King Edward VIII
+      aliases:
+        - king edward viii
+        - king edward the eighth
+      reasoning: "King Edward VIII. King = King. Edward = Ed-word. VIII = the-eighth. King Ed with a word, eight times over. King Edward VIII. Near enough."
+    - number: 3
+      initials: A B
+      clue: "Ann's bowling again. She's always at the lanes is Ann. Ann-bowl-in. Every Saturday."
+      answer: Anne Boleyn
+      aliases:
+        - anne boleyn
+      reasoning: "Anne Boleyn. Anne = Ann. Boleyn = Bowl-in. Ann + bowling. She's always bowl-in. Anne Boleyn. Say it out loud."
+
+- id: royalbusters-017
+  enabled: true
+  title: Royalbusters
+  topic: British royals and monarchy history
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Right, Royalbusters. Nearly there. Three royals in three clues. All hidden in sounds, not letters."
+  prize: "Email in. Winner gets a Pets Win Prizes mug and a fridge magnet from Edinburgh Castle."
+  clues:
+    - number: 1
+      initials: Q V
+      clue: "She's a queen, and she's victorious. Won everything. Ruled it all. Not subtle about it either."
+      answer: Queen Victoria
+      aliases:
+        - queen victoria
+      reasoning: "Queen Victoria. Queen = Kween. Victoria = Vik-tor-ee-a. Victor + ia. A victorious queen. Queen Victoria. Easy one this."
+    - number: 2
+      initials: W S
+      clue: "There's a wall, and it belongs to someone, and that someone's a son. Wall-is-son. Wall-is-Simp-son."
+      answer: Wallis Simpson
+      aliases:
+        - wallis simpson
+      reasoning: "Wallis Simpson. Wallis = Wall-is. Simpson = Simp-son. A wall that is simple and belongs to a son. Wallis Simpson. Say it out loud."
+    - number: 3
+      initials: P H
+      clue: "This prince is hairy. Bit wild about it. Just very, very hairy. That's him. The hairy one."
+      answer: Prince Harry
+      aliases:
+        - prince harry
+      reasoning: "Prince Harry. Prince = Prints. Harry = Hairy. Prints + Hairy. A printer who's extremely hairy. Prince Harry. Near enough."
+
+- id: royalbusters-018
+  enabled: true
+  title: Royalbusters
+  topic: British royals and monarchy history
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Right. Royalbusters. Three left after this. All royals, all in the sounds. Last stretch."
+  prize: "Email in. Winner gets a Cadbury selection box from 2003 and a biro that still works, somehow."
+  clues:
+    - number: 1
+      initials: K H
+      clue: "This king, Henry's his name, and it's the eighth one. He just kept being Henry over and over."
+      answer: King Henry VIII
+      aliases:
+        - king henry viii
+        - king henry the eighth
+      reasoning: "King Henry VIII. King = King. Henry = Hen-ree. VIII = the-eighth. A king called Henry who's done it eighth. King Henry VIII. Say it out loud."
+    - number: 2
+      initials: P E
+      clue: "There's a prince called Edward, and he's got a word for everything. Ed has a word. Prince Ed-word."
+      answer: Prince Edward
+      aliases:
+        - prince edward
+      reasoning: "Prince Edward. Prince = Prints. Edward = Ed-word. Ed + word. He's got a word. Prince Edward. Near enough."
+    - number: 3
+      initials: M M
+      clue: "Right, Megan's at the market again. She loves it there. Megan-at-the-mark-le. Off she goes."
+      answer: Meghan Markle
+      aliases:
+        - meghan markle
+      reasoning: "Meghan Markle. Meghan = Meg-an. Markle = Mar-kul. Meg-an at the Mark-et-kul. Meghan Markle. Say it out loud."
+
+- id: royalbusters-019
+  enabled: true
+  title: Royalbusters
+  topic: British royals and monarchy history
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Royalbusters, number nineteen. Nearly done. Three more royals hiding in sounds. Say them out loud."
+  prize: "Email in. Winner gets a print of a horse from a car boot sale and a sachet of hotel coffee."
+  clues:
+    - number: 1
+      initials: P W
+      clue: "Will's at the printing press again. All those prints with Will's name on. Will-yam printing away."
+      answer: Prince William
+      aliases:
+        - prince william
+      reasoning: "Prince William. Prince = Prints. William = Will-yam. Prints + Will-yam. Will's printing. Prince William. Say it out loud."
+    - number: 2
+      initials: Q C
+      clue: "The queen's got her camera out again. Filming everything. Cam + ill + a. She's cam-ill-a."
+      answer: Queen Camilla
+      aliases:
+        - queen camilla
+      reasoning: "Queen Camilla. Camilla = Cam-ill-a. Cam (camera) + ill + a. She's got a camera and she's a bit ill about it. Queen Camilla. Near enough."
+    - number: 3
+      initials: K G
+      clue: "He's a king, and he's absolutely gorging on his dinner again. King George. Just eating away."
+      answer: King George
+      aliases:
+        - king george
+      reasoning: "King George. George = Jaw-j. He's gorging, jaw going. King George. Easy one this."
+
+- id: royalbusters-020
+  enabled: true
+  title: Royalbusters
+  topic: British royals and monarchy history
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Right. Last one. Royalbusters, number twenty. Three final royals in three silly clues. Go on then, finish it off."
+  prize: "Email in. Winner gets a commemorative tin from a jubilee that's been in a cupboard since 1977 and a packet of Rich Tea biscuits."
+  clues:
+    - number: 1
+      initials: P A
+      clue: "She's a princess and she's Ann and she's been doing things all day long. Active Ann. Princess Ann-doing-things."
+      answer: Princess Anne
+      aliases:
+        - princess anne
+      reasoning: "Princess Anne. Princess = Prin-cess. Anne = Ann. A princess called Ann. Princess Anne. Say it out loud."
+    - number: 2
+      initials: K C
+      clue: "He's charring things on the grill, and he's the king. Char-lz. King of the barbecue, Charles is."
+      answer: King Charles
+      aliases:
+        - king charles
+      reasoning: "King Charles. Charles = Char-lz. Char + ls. He's charring. King Charles. Near enough."
+    - number: 3
+      initials: C A
+      clue: "Right, she's a Catherine, and she's gone. Gone off to Aragon. Long way to go. Catherine-of-a-gone."
+      answer: Catherine of Aragon
+      aliases:
+        - catherine of aragon
+      reasoning: "Catherine of Aragon. Aragon = Arr-a-gon. A + gone. She's a-gone. Catherine of Aragon. Say it out loud."

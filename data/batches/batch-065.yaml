@@ -1,0 +1,103 @@
+- id: spicebusters-001
+  enabled: true
+  title: Spicebusters
+  topic: spice names
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - Global
+  intro: "Right, Spicebusters. All spice names hiding in these phonetic clues. Say them out loud and you'll hear it. Might take a second."
+  prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
+  clues:
+    - number: 1
+      initials: C
+      clue: "There's a playing card on the table and someone's mum has come in to collect it. She's not in a rush. Just there for the card."
+      answer: Cardamom
+      aliases:
+        - cardamom
+        - cardamon
+      reasoning: "card (a playing card) + a (the article) + mom/mum (someone's mother) = Card-a-mom = Cardamom"
+    - number: 2
+      initials: S
+      clue: "A fella called Ron has had a very safe journey. Come through it all absolutely fine. Nothing happened to him. He's safe, Ron is."
+      answer: Saffron
+      aliases:
+        - saffron
+      reasoning: "saff (sounds like safe without the e, or safe said quickly) + ron (the name Ron) = Saff-ron = Saffron"
+    - number: 3
+      initials: G
+      clue: "Right, there's a girl who's gone a bit angular somehow. She's all elbows and angles. And then another girl has turned up to look at her."
+      answer: Galangal
+      aliases:
+        - galangal
+      reasoning: "gal (informal for a girl) + ang (angular, all angles) + gal (another girl turning up) = Gal-ang-gal = Galangal"
+
+- id: spicebusters-002
+  enabled: true
+  title: Spicebusters
+  topic: spice names
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - Global
+  intro: "Spicebusters two. Three more spices hiding in here somewhere. All phonetic. You'll kick yourself when you get it."
+  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists."
+  clues:
+    - number: 1
+      initials: T
+      clue: "It's someone's go next - their turn - and a man called Rick has only gone and merged into something. Just blended himself in."
+      answer: Turmeric
+      aliases:
+        - turmeric
+      reasoning: "tur (sounds like turn, it's their turn) + mer (sounds like merge, blended in) + ick/rick (the name Rick, or just the sound) = Tur-mer-ic = Turmeric"
+    - number: 2
+      initials: A
+      clue: "A donkey has fetched something - gone and got it - and there's a woman called Ida waiting for it at the other end. The donkey's done the fetch. Ida's just standing there."
+      answer: Asafoetida
+      aliases:
+        - asafoetida
+        - asafetida
+      reasoning: "ass (a donkey) + a (the article) + foet (sounds like fetched, past tense of fetch, clipped) + ida (the woman's name Ida) = Ass-a-foet-ida = Asafoetida"
+    - number: 3
+      initials: L G
+      clue: "There's a lemon. It's on the grass. That's it. Someone's just left a lemon on the grass and walked off. Nobody's explained why."
+      answer: Lemongrass
+      aliases:
+        - lemongrass
+        - lemon grass
+      reasoning: "lemon (the yellow citrus fruit) + grass (the green stuff on the ground) = Lemon-grass = Lemongrass"
+
+- id: spicebusters-003
+  enabled: true
+  title: Spicebusters
+  topic: spice names
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - Global
+  intro: "Three in now. Spicebusters three. All hard spice names in phonetic clues. Last one of the batch, make it count."
+  prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
+  clues:
+    - number: 1
+      initials: F
+      clue: "Right, there's a boggy bit of marshland. And you're standing in it. And you're Greek. That's the whole picture. Just you, in a fen, being Greek."
+      answer: Fenugreek
+      aliases:
+        - fenugreek
+      reasoning: "fen (a boggy marshy area) + you (the person standing in it) + greek (of Greek origin or nationality) = Fen-you-greek = Fenugreek"
+    - number: 2
+      initials: S A
+      clue: "A large celestial object - one of the ones in the sky at night - has landed on a portion of frozen water. Just sitting on the ice. A star, on ice."
+      answer: Star Anise
+      aliases:
+        - star anise
+        - staranise
+      reasoning: "star (a celestial object, a bright thing in the sky) + an (the article) + ice (frozen water) = Star-an-ice = Star Anise"
+    - number: 3
+      initials: S P
+      clue: "Something's been put in a smoker - properly smoked, like a kipper - and when it comes out the other end it absolutely reeks. And there's a small child watching. Just going 'a' at it."
+      answer: Smoked Paprika
+      aliases:
+        - smoked paprika
+        - paprika
+      reasoning: "smoked (put through a smoker, like a kipper) + pap (soft food, or a gentle informal word) + reek (to smell strongly) + a (a small sound, a child's noise) = Smoked-pap-reek-a = Smoked Paprika"
