@@ -1,0 +1,699 @@
+- id: tvbusters-021
+  enabled: true
+  title: TVbusters
+  topic: popular US TV shows
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Right, TVbusters. Rockbusters but it's all popular American telly."
+  prize: "Email in. Winner gets a DVD box set with a cracked case and a free AOL trial disc."
+  clues:
+    - number: 1
+      initials: F
+      clue: "Someone's been cooking the leftover ends of things. Bits that got trimmed off, all sizzling in the pan. That's your lot."
+      answer: Friends
+      aliases:
+        - friends
+      reasoning: "fry (cooking) + ends (leftover bits) = fry-ends = Friends"
+    - number: 2
+      initials: Y
+      clue: "Right, there's a rock, and it's gone a sort of yellow colour. Don't know why. It just has."
+      answer: Yellowstone
+      aliases:
+        - yellowstone
+        - yellow stone
+      reasoning: "yellow (gone yellow) + stone (a rock) = Yellowstone"
+    - number: 3
+      initials: O
+      clue: "That wizard from Dorothy's film, yeah, he's gone and built himself a boat. Got all the animals in it and everything."
+      answer: Ozark
+      aliases:
+        - ozark
+      reasoning: "Oz (wizard of Oz) + ark (Noah's boat) = Ozark"
+
+- id: tvbusters-022
+  enabled: true
+  title: TVbusters
+  topic: popular US TV shows
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "TVbusters is back. Three clues, all American shows. Off you go."
+  prize: "Email in. Winner gets a Blockbuster loyalty card with three stamps on it and a pen that doesn't work."
+  clues:
+    - number: 1
+      initials: T S
+      clue: "The dopey bloke, right, he's only gone and had kids. And they're all lads. Bit of a handful."
+      answer: The Simpsons
+      aliases:
+        - the simpsons
+        - simpsons
+      reasoning: "the + simp (dopey bloke) + sons (his male children) = The Simpsons"
+    - number: 2
+      initials: H
+      clue: "Your house, yeah, but also all the territory round it. The land it's sitting on. That's where you live."
+      answer: Homeland
+      aliases:
+        - homeland
+        - home land
+      reasoning: "home (your house) + land (territory) = Homeland"
+    - number: 3
+      initials: S
+      clue: "Right, the chimney sweep's been through and left a load of black residue everywhere. It's all over the carpet."
+      answer: Suits
+      aliases:
+        - suits
+      reasoning: "soots (chimney residue, sounds like suits) = Suits"
+
+- id: tvbusters-023
+  enabled: true
+  title: TVbusters
+  topic: popular US TV shows
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Here we go, TVbusters. Three American shows, done phonetically. Don't overthink it."
+  prize: "Email in. Winner gets a printed disposable camera photo, framed, of someone's nan at a barbecue."
+  clues:
+    - number: 1
+      initials: S
+      clue: "There's a notice board, right, only instead of cork or whatever, they've made it out of felt. Like the stuff on a snooker table. Odd choice."
+      answer: Seinfeld
+      aliases:
+        - seinfeld
+      reasoning: "sign (notice board) + felt (fabric material) = Seinfeld"
+    - number: 2
+      initials: B B
+      clue: "That donkey's doing its impression of the king, and it's absolutely terrible. Worst impression you've ever heard."
+      answer: Breaking Bad
+      aliases:
+        - breaking bad
+      reasoning: "braying (donkey noise) + bad (terrible) = Breaking Bad"
+    - number: 3
+      initials: F
+      clue: "The jumper's coming undone, right here, in this very spot. The wool's just unravelling. Say it out loud."
+      answer: Frasier
+      aliases:
+        - frasier
+      reasoning: "frays (unravelling fabric) + here (in this spot) = frays-here = Frasier"
+
+- id: tvbusters-024
+  enabled: true
+  title: TVbusters
+  topic: popular US TV shows
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "TVbusters. All American shows this week. Three clues, three answers. You know the drill."
+  prize: "Email in. Winner gets a Now 48 cassette and a keyring from a service station on the M6."
+  clues:
+    - number: 1
+      initials: G A
+      clue: "The whole herd's out there munching the grass, yeah, but at the same time someone's pointing at the skeleton diagram and explaining all the parts. Multitasking."
+      answer: Greys Anatomy
+      aliases:
+        - greys anatomy
+        - grey's anatomy
+      reasoning: "graze (animals eating grass) + anatomy (studying the body) = Grey's Anatomy"
+    - number: 2
+      initials: T W
+      clue: "There's a person, right, and they will not stop asking why about everything. Every single thing. That's the whi-er, that is."
+      answer: The Wire
+      aliases:
+        - the wire
+        - wire
+      reasoning: "the + whi-er (one who asks why, sounds like wire) = The Wire"
+    - number: 3
+      initials: S
+      clue: "A meeting, yeah, but the purpose of it is just to be absolutely rubbish at things. A dedicated session for being terrible. Every week."
+      answer: Succession
+      aliases:
+        - succession
+      reasoning: "suck (to be terrible) + session (a meeting) = suck-session = Succession"
+
+- id: tvbusters-025
+  enabled: true
+  title: TVbusters
+  topic: popular US TV shows
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Alright, TVbusters time. Three American telly shows, all done phonetically. Easy one to kick off."
+  prize: "Email in. Winner gets a Shrek 2 DVD in the wrong case and a sample sachet of something from a magazine."
+  clues:
+    - number: 1
+      initials: G O T
+      clue: "Right, it's a competition, but instead of running or jumping, everything just gets lobbed. Someone throws something, someone else throws something back. That's the game."
+      answer: Game of Thrones
+      aliases:
+        - game of thrones
+      reasoning: "game (competition) + of + throwns (things that have been thrown, sounds like thrones) = Game of Thrones"
+    - number: 2
+      initials: T B
+      clue: "That's actual blood, that. Not the fake stuff they use in films. Genuine, real, proper blood. Verified."
+      answer: True Blood
+      aliases:
+        - true blood
+      reasoning: "true (genuine, real) + blood (actual blood) = True Blood"
+    - number: 3
+      initials: P B
+      clue: "Someone's installed the braking mechanism on the building where criminals are kept. The whole place has just... stopped."
+      answer: Prison Break
+      aliases:
+        - prison break
+      reasoning: "prison (building for criminals) + brake (stopping mechanism, sounds like break) = Prison Break"
+
+- id: tvbusters-026
+  enabled: true
+  title: TVbusters
+  topic: popular US TV shows
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "TVbusters is on. Three shows, all from across the pond. Get your thinking cap on."
+  prize: "Email in. Winner gets a mug from a company that no longer exists, filled with boiled sweets."
+  clues:
+    - number: 1
+      initials: M M
+      clue: "Loads of blokes, right, and they are all absolutely fuming. Every single one of them. Just furious fellers, the lot of them."
+      answer: Mad Men
+      aliases:
+        - mad men
+      reasoning: "mad (furious/angry) + men (blokes) = Mad Men"
+    - number: 2
+      initials: S
+      clue: "They've put it through the scanning machine, and the result has come back incredibly dull. Boring scan, that."
+      answer: Scandal
+      aliases:
+        - scandal
+      reasoning: "scan (put through a machine) + dull (boring result) = scan-dull = Scandal"
+    - number: 3
+      initials: H
+      clue: "The arguments, right, they're happening in this exact spot. Right here. Very heated rows, here of all places."
+      answer: Heroes
+      aliases:
+        - heroes
+      reasoning: "here (in this spot) + rows (arguments, pronounced 'roze') = here-rows = Heroes"
+
+- id: tvbusters-027
+  enabled: true
+  title: TVbusters
+  topic: popular US TV shows
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Three more American shows for you. TVbusters. Say the clues out loud, that's the trick."
+  prize: "Email in. Winner gets an unopened CD single from 2003 and a biro with someone else's company name on it."
+  clues:
+    - number: 1
+      initials: A
+      clue: "There's one of them sheltered bits on the side of a hill, you know, where the wind doesn't get you, and it belongs to all of us. Communal shelter, that."
+      answer: Alias
+      aliases:
+        - alias
+      reasoning: "a + lee (sheltered side of a hill) + us (belonging to everyone) = a-lee-us = Alias"
+    - number: 2
+      initials: D
+      clue: "Right, that big wall that holds all the water back, it's been there absolutely ages. Since before anyone can remember."
+      answer: Damages
+      aliases:
+        - damages
+      reasoning: "dam (wall holding water) + ages (a very long time) = dam-ages = Damages"
+    - number: 3
+      initials: T S
+      clue: "Therefore, right, you need to pray. But you do it through your nose. Don't ask me why, that's just how it works. Through the nose."
+      answer: The Sopranos
+      aliases:
+        - the sopranos
+        - sopranos
+      reasoning: "the + so (therefore) + pray (to pray) + nos (nose, via nose) = The Sopranos"
+
+- id: tvbusters-028
+  enabled: true
+  title: TVbusters
+  topic: popular US TV shows
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Right, TVbusters. Three clues, all American shows. One of these is a long one. Good luck."
+  prize: "Email in. Winner gets a Value pack of bourbon biscuits and a DVD copy of Hitch."
+  clues:
+    - number: 1
+      initials: T A
+      clue: "The tins, right, they're dead cheerful. Really happy little tins, all of them. Just full of joy, them tins."
+      answer: The Americans
+      aliases:
+        - the americans
+        - americans
+      reasoning: "the + a-merry (cheerful, merry) + cans (tins) = The Americans"
+    - number: 2
+      initials: S T
+      clue: "These things here, yeah, they're more strained than your average strained things. Proper tense, these ones. Straineder, if you will."
+      answer: Stranger Things
+      aliases:
+        - stranger things
+      reasoning: "strain-ger (more strained, comparative, sounds like stranger) + things = Stranger Things"
+    - number: 3
+      initials: S A T C
+      clue: "A couple of seconds, right, and then there's this place where absolutely loads of people live all crammed in together. Very busy place. Busy seconds."
+      answer: Sex and the City
+      aliases:
+        - sex and the city
+      reasoning: "secs (seconds, sounds like sex) + and + the + city (busy place) = Sex and the City"
+
+- id: tvbusters-029
+  enabled: true
+  title: TVbusters
+  topic: popular US TV shows
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "TVbusters is back with three more American shows. One of them's got five initials. Don't panic."
+  prize: "Email in. Winner gets a signed photo from someone off a game show, possibly."
+  clues:
+    - number: 1
+      initials: H I M Y M
+      clue: "The eyeball, right, it bumped into your mum. Just introduced itself, shook hands, the whole thing. The eyeball met your mum. Right."
+      answer: How I Met Your Mother
+      aliases:
+        - how i met your mother
+      reasoning: "how + I (eyeball) + met (introduced itself to) + your + mother (mum) = How I Met Your Mother"
+    - number: 2
+      initials: W A G
+      clue: "That lad Will, yeah, he keeps going out into the field and eating the grass. Just nibbling away like a sheep. Won't stop."
+      answer: Will and Grace
+      aliases:
+        - will and grace
+      reasoning: "Will (the lad) + and + graze (eating grass like a sheep, sounds like grace) = Will and Grace"
+    - number: 3
+      initials: T B
+      clue: "Someone's written a list, right, and it's come out all black. The whole list, dark as anything. Very dark list."
+      answer: The Blacklist
+      aliases:
+        - the blacklist
+        - blacklist
+      reasoning: "the + black (dark colour) + list (written list) = The Blacklist"
+
+- id: tvbusters-030
+  enabled: true
+  title: TVbusters
+  topic: popular US TV shows
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "TVbusters. All American telly. Three clues to kick off your morning. Say them out loud."
+  prize: "Email in. Winner gets a promotional pen torch that stopped working and a Werther's Original."
+  clues:
+    - number: 1
+      initials: W C
+      clue: "The bit of the shirt right around the neck, yeah, it's gone completely white. Brilliant white, that collar. Proper bleached."
+      answer: White Collar
+      aliases:
+        - white collar
+      reasoning: "white (brilliant white) + collar (neck of a shirt) = White Collar"
+    - number: 2
+      initials: B N
+      clue: "You've received a letter, right, and it says you're on fire. Just that. You're on fire, it says. What do you do with that letter?"
+      answer: Burn Notice
+      aliases:
+        - burn notice
+      reasoning: "burn (on fire) + notice (a letter/notification) = Burn Notice"
+    - number: 3
+      initials: B C S
+      clue: "Look, your best bet here is to get on the phone to this fella called Saul. He'll sort the whole thing out. Better just call him."
+      answer: Better Call Saul
+      aliases:
+        - better call saul
+      reasoning: "better (your best bet) + call (phone) + Saul (the fella's name) = Better Call Saul"
+
+- id: tvbusters-031
+  enabled: true
+  title: TVbusters
+  topic: popular US TV shows
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Right then, TVbusters. Three American shows done phonetically. Off we go."
+  prize: "Email in. Winner gets a Now That's What I Call Music 54 on cassette and a loyalty card for a closed coffee shop."
+  clues:
+    - number: 1
+      initials: T M
+      clue: "Out of everyone there, this person is the most mental. The absolute top of the mental rankings. The one who has gone furthest round the bend."
+      answer: The Mentalist
+      aliases:
+        - the mentalist
+        - mentalist
+      reasoning: "the + mental (gone a bit round the bend) + ist (the most, suffix) = The Mentalist"
+    - number: 2
+      initials: S F U
+      clue: "Right, you've gone down six whole feet. That's well below the surface, that is. Properly underground. Not coming back up from that."
+      answer: Six Feet Under
+      aliases:
+        - six feet under
+      reasoning: "six (the number) + feet (measurement) + under (below the surface) = Six Feet Under"
+    - number: 3
+      initials: F
+      clue: "A fire that can fly. Small, glowing, up in the air. It's a flying fire. Off it goes."
+      answer: Firefly
+      aliases:
+        - firefly
+        - fire fly
+      reasoning: "fire (flame) + fly (to fly through the air) = Firefly"
+
+- id: tvbusters-032
+  enabled: true
+  title: TVbusters
+  topic: popular US TV shows
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "TVbusters is on. Three more American shows for you this week. Have a good think."
+  prize: "Email in. Winner gets a copy of Monopoly with two pieces missing and a Fruit Pastilles ice lolly."
+  clues:
+    - number: 1
+      initials: E
+      clue: "You're on tour, right, but everyone on the tour bus is absolutely ancient. Really old bunch. In the tour bus, aged. That's them."
+      answer: Entourage
+      aliases:
+        - entourage
+      reasoning: "en (in) + tour (on the road) + age (ancient/old) = en-tour-age = Entourage"
+    - number: 2
+      initials: B
+      clue: "There's a queue, right, but instead of people it's just blood. A queue made entirely of blood. Single file."
+      answer: Bloodline
+      aliases:
+        - bloodline
+        - blood line
+      reasoning: "blood (liquid in the queue) + line (the queue itself) = Bloodline"
+    - number: 3
+      initials: T O
+      clue: "The thing that's switched off, right, it just is. It's off. That's all. The off thing. It is."
+      answer: The Office
+      aliases:
+        - the office
+        - office
+      reasoning: "the + off (switched off) + is (it is) = the-off-is = The Office"
+
+- id: tvbusters-033
+  enabled: true
+  title: TVbusters
+  topic: popular US TV shows
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Three more for you. TVbusters. All American shows, all done phonetically. Take your time."
+  prize: "Email in. Winner gets a ceramic mug with a chip in it and a selection of biscuits nobody chose."
+  clues:
+    - number: 1
+      initials: G G
+      clue: "That young woman, right, she will not stop talking about everyone. Goes on and on. You know exactly the type."
+      answer: Gossip Girl
+      aliases:
+        - gossip girl
+      reasoning: "gossip (talking about everyone) + girl (young woman) = Gossip Girl"
+    - number: 2
+      initials: O T H
+      clue: "Right, there's a hill, yeah, and on it there is exactly one tree. Just the one. Singular tree on a hill. That's it."
+      answer: One Tree Hill
+      aliases:
+        - one tree hill
+      reasoning: "one (exactly one) + tree (the tree) + hill (the hill) = One Tree Hill"
+    - number: 3
+      initials: V M
+      clue: "That woman Veronica, she's only gone and moved to the red planet. Just up and left. Gone to Mars, has Veronica."
+      answer: Veronica Mars
+      aliases:
+        - veronica mars
+      reasoning: "Veronica (the name) + Mars (the red planet) = Veronica Mars"
+
+- id: tvbusters-034
+  enabled: true
+  title: TVbusters
+  topic: popular US TV shows
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "TVbusters. American shows only. Three clues, all phonetic. Don't think too hard."
+  prize: "Email in. Winner gets a printed map of a city you don't live in and a complimentary mint."
+  clues:
+    - number: 1
+      initials: U B
+      clue: "That woman Betty, everyone keeps telling her she doesn't look her best at the moment. Bit harsh, really."
+      answer: Ugly Betty
+      aliases:
+        - ugly betty
+      reasoning: "ugly (not looking her best) + Betty (the woman's name) = Ugly Betty"
+    - number: 2
+      initials: P D
+      clue: "Someone's going round the garden, right, and they're shoving all the little white flowers. Just pushing daisies everywhere. Having a right go at them."
+      answer: Pushing Daisies
+      aliases:
+        - pushing daisies
+      reasoning: "pushing (shoving) + daisies (the little white flowers) = Pushing Daisies"
+    - number: 3
+      initials: A D
+      clue: "The plans for the new building, right, they've been nicked by the police. Taken away. The development has been arrested."
+      answer: Arrested Development
+      aliases:
+        - arrested development
+      reasoning: "arrested (stopped by police) + development (building plans) = Arrested Development"
+
+- id: tvbusters-035
+  enabled: true
+  title: TVbusters
+  topic: popular US TV shows
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Here's your TVbusters for the day. Three American shows, all phonetic. Say them out loud, that's the key."
+  prize: "Email in. Winner gets a box of slightly off-brand cereal and a free trial of something nobody remembers signing up for."
+  clues:
+    - number: 1
+      initials: C Y E
+      clue: "Right, the stone edge of the road, yeah, and your own personal excitement about things. Both of them together. That's your answer."
+      answer: Curb Your Enthusiasm
+      aliases:
+        - curb your enthusiasm
+      reasoning: "curb (stone edge of road) + your (belonging to you) + enthusiasm (excitement) = Curb Your Enthusiasm"
+    - number: 2
+      initials: P
+      clue: "The hood on a jacket, right, but it belongs to someone's mum or dad. That's their hood, that. The parent's hood."
+      answer: Parenthood
+      aliases:
+        - parenthood
+        - parent hood
+      reasoning: "parent (mum or dad) + hood (the bit on the jacket) = Parenthood"
+    - number: 3
+      initials: T T
+      clue: "Absolute fear, that. Proper, genuine dread. The fear itself. Nothing but the fear."
+      answer: The Terror
+      aliases:
+        - the terror
+        - terror
+      reasoning: "the + terror (absolute fear and dread) = The Terror"
+
+- id: tvbusters-036
+  enabled: true
+  title: TVbusters
+  topic: popular US TV shows
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "TVbusters is back. Three American shows done phonetically. One of these should be dead easy."
+  prize: "Email in. Winner gets a DVD of Notting Hill and an envelope of photographs from a Boots photo counter."
+  clues:
+    - number: 1
+      initials: R D
+      clue: "A beam of sunlight, right, and it's donated a van to someone. The ray of sun has given away a vehicle. Generous, that ray."
+      answer: Ray Donovan
+      aliases:
+        - ray donovan
+      reasoning: "ray (beam of light) + don (donated, gave) + o + van (a vehicle) = Ray Donovan"
+    - number: 2
+      initials: J
+      clue: "It's only right, isn't it. Completely fair. If it was done, that's just. That's how it should be. Just-ified, like."
+      answer: Justified
+      aliases:
+        - justified
+      reasoning: "just (fair, right) + if + I'd (I had) = just-if-I'd = Justified"
+    - number: 3
+      initials: M
+      clue: "He's hunting, right, but instead of a gun or a bow, he's using his brain. Pure thoughts. Hunting with his mind. That's his thing."
+      answer: Mindhunter
+      aliases:
+        - mindhunter
+        - mind hunter
+      reasoning: "mind (the brain, thoughts) + hunter (one who hunts) = Mindhunter"
+
+- id: tvbusters-037
+  enabled: true
+  title: TVbusters
+  topic: popular US TV shows
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Right then. TVbusters. All American shows. Three clues. Away you go."
+  prize: "Email in. Winner gets a Best of Celine Dion CD and a stationery set from a boot fair."
+  clues:
+    - number: 1
+      initials: R M
+      clue: "Somebody get me out of here. I need pulling out of this situation sharpish. Come and rescue me, please. Someone."
+      answer: Rescue Me
+      aliases:
+        - rescue me
+      reasoning: "rescue (save/pull out) + me (the person asking) = Rescue Me"
+    - number: 2
+      initials: F
+      clue: "That decorative bit of hair hanging down at the front, right, the bit that goes across your forehead. That's what you're looking for."
+      answer: Fringe
+      aliases:
+        - fringe
+      reasoning: "fringe (the bit of hair over the forehead, or decorative edge) = Fringe"
+    - number: 3
+      initials: T B
+      clue: "Right, it's the lads. Just the lads. All of them. The boys, that's who it is. Nothing more to add."
+      answer: The Boys
+      aliases:
+        - the boys
+        - boys
+      reasoning: "the + boys (the lads) = The Boys"
+
+- id: tvbusters-038
+  enabled: true
+  title: TVbusters
+  topic: popular US TV shows
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "TVbusters. Three phonetic clues, all American telly. Have a good go at this lot."
+  prize: "Email in. Winner gets a corporate stress ball in a shape it no longer holds and a packet of travel tissues."
+  clues:
+    - number: 1
+      initials: A E
+      clue: "The head monk, right, he's only gone back to do his first year of school. Sitting in a tiny chair and everything. Learning his letters."
+      answer: Abbott Elementary
+      aliases:
+        - abbott elementary
+      reasoning: "Abbott (the head of a monastery) + elementary (first school, very basic) = Abbott Elementary"
+    - number: 2
+      initials: W T
+      clue: "That brilliant moment when you've won something, right. When it all comes good. The winning moment. That's it."
+      answer: Winning Time
+      aliases:
+        - winning time
+      reasoning: "winning (when you've won) + time (the moment) = Winning Time"
+    - number: 3
+      initials: C
+      clue: "There's a mountain pass, right, and it's switched on. It's active. The gap in the mountains is on, and it ends very happily."
+      answer: Colony
+      aliases:
+        - colony
+      reasoning: "col (mountain pass) + on (switched on) + ee (happy ending sound) = col-on-ee = Colony"
+
+- id: tvbusters-039
+  enabled: true
+  title: TVbusters
+  topic: popular US TV shows
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Nearly there with TVbusters. Two more sets after this one. Three clues, all American shows."
+  prize: "Email in. Winner gets a fridge magnet from somewhere nobody's been and a used stamp from the Queen."
+  clues:
+    - number: 1
+      initials: T R
+      clue: "It's been sent back, right. Gone back to where it came from. The whole thing, returned. Came back."
+      answer: The Returned
+      aliases:
+        - the returned
+        - returned
+      reasoning: "the + returned (sent back, came back) = The Returned"
+    - number: 2
+      initials: T S
+      clue: "The thing you hold up to protect yourself in a fight, yeah, the flat thing that stops the arrows. That's the one."
+      answer: The Shield
+      aliases:
+        - the shield
+        - shield
+      reasoning: "the + shield (protective flat thing held in battle) = The Shield"
+    - number: 3
+      initials: B
+      clue: "Loads and loads of money. We're talking an absolutely absurd amount of it. Billions of the stuff. More than you could ever spend."
+      answer: Billions
+      aliases:
+        - billions
+      reasoning: "billions (an enormous amount of money) = Billions"
+
+- id: tvbusters-040
+  enabled: true
+  title: TVbusters
+  topic: popular US TV shows
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Last one of the TVbusters batch. Three clues, three American shows. Finish strong."
+  prize: "Email in. Winner gets a Caffe Nero loyalty card with seven stamps and a foam seat cushion."
+  clues:
+    - number: 1
+      initials: B
+      clue: "Right, all them calcium things that hold your body up. Your skeleton. Just the bones. All of them. That's the answer."
+      answer: Bones
+      aliases:
+        - bones
+      reasoning: "bones (the skeleton, calcium things) = Bones"
+    - number: 2
+      initials: S
+      clue: "The bit of land that's further down. Below the line, you know. The territory that ended up at the bottom. South of wherever you are."
+      answer: Southland
+      aliases:
+        - southland
+        - south land
+      reasoning: "south (further down, below) + land (territory) = Southland"
+    - number: 3
+      initials: T G F
+      clue: "A scrap, right, but everyone agrees afterwards it was a decent one. A good scrap. Fair result, good fight. The good fight, that was."
+      answer: The Good Fight
+      aliases:
+        - the good fight
+        - good fight
+      reasoning: "the + good (decent, fair) + fight (a scrap) = The Good Fight"

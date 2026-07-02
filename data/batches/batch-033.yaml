@@ -1,0 +1,686 @@
+- id: filmbusters-041
+  enabled: true
+  title: Filmbusters
+  topic: British comedy films and cult classics
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Right, Filmbusters. British comedy films and cult classics. Should be easy enough if you've left the house in the last thirty years."
+  prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
+  clues:
+    - number: 1
+      initials: S O T D
+      clue: "That fella Sean's gone and shorn something off the top of his head. Completely bald now. Bit drastic."
+      answer: Shaun of the Dead
+      aliases:
+        - shaun of the dead
+      reasoning: "Shaun (Sean/shorn sounds like Shaun) + of the + Dead (bald, gone, dead on top) = Shaun of the Dead"
+    - number: 2
+      initials: H F
+      clue: "Someone's warmed up a load of fluffy stuff. Not sure why. But it's warm and soft."
+      answer: Hot Fuzz
+      aliases:
+        - hot fuzz
+      reasoning: "Hot (warmed up) + Fuzz (fluffy stuff) = Hot Fuzz"
+    - number: 3
+      initials: T W E
+      clue: "The whole world has gone to sleep. Every single bit of it. That's the end of that then."
+      answer: The Worlds End
+      aliases:
+        - the worlds end
+        - the world's end
+      reasoning: "The World's End (the whole world has ended, gone to sleep) = The Worlds End"
+
+- id: filmbusters-042
+  enabled: true
+  title: Filmbusters
+  topic: British comedy films and cult classics
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Filmbusters. Cult classics this time. Don't overthink it, just say the clues out loud."
+  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists."
+  clues:
+    - number: 1
+      initials: M P A T H G
+      clue: "Right, there's this bloke called Monte, and he's a Python, and he's written something down on a holy cup. Alright?"
+      answer: Monty Python and the Holy Grail
+      aliases:
+        - monty python and the holy grail
+      reasoning: "Monty Python (Monte + Python) + and the + Holy Grail (something written on a holy cup) = Monty Python and the Holy Grail"
+    - number: 2
+      initials: L O B
+      clue: "That woman's given birth, right, and the baby's name is Brian. She's relieved."
+      answer: Life of Brian
+      aliases:
+        - life of brian
+        - monty python's life of brian
+      reasoning: "Life (given birth) + of + Brian (baby's name) = Life of Brian"
+    - number: 3
+      initials: W A I
+      clue: "Bloke's standing in a field with a small wiry shrub, and he says 'that's me, that is.' Bit odd."
+      answer: Withnail and I
+      aliases:
+        - withnail and i
+      reasoning: "With + Nail (wiry shrub, nail) + and I (that's me) = Withnail and I"
+
+- id: filmbusters-043
+  enabled: true
+  title: Filmbusters
+  topic: British comedy films and cult classics
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Here we go then. Filmbusters. British romcoms and all that. Say it out loud, it'll come to you."
+  prize: "Email in. Winner gets a DVD copy of Notting Hill and a keyring from a service station."
+  clues:
+    - number: 1
+      initials: F W A A F
+      clue: "Right, there's four separate occasions where you're dressed up for a party, and one very sad occasion. Mixed bag really."
+      answer: Four Weddings and a Funeral
+      aliases:
+        - four weddings and a funeral
+      reasoning: "Four Weddings (four occasions, dressed up) + and a + Funeral (one sad occasion) = Four Weddings and a Funeral"
+    - number: 2
+      initials: N H
+      clue: "That place in London, the famous one with the market and that. You know the one. Up on the hill."
+      answer: Notting Hill
+      aliases:
+        - notting hill
+      reasoning: "Notting (knotting, noting, the area) + Hill (up on the hill) = Notting Hill"
+    - number: 3
+      initials: A A B
+      clue: "There's a fella, right, and he's got something to do with a child, sort of in the region of having one nearby. Near enough."
+      answer: About a Boy
+      aliases:
+        - about a boy
+      reasoning: "About (in the region of, sort of) + a + Boy (child) = About a Boy"
+
+- id: filmbusters-044
+  enabled: true
+  title: Filmbusters
+  topic: British comedy films and cult classics
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Filmbusters. More romcoms. You'll have seen these. Everyone's seen these."
+  prize: "Email in. Winner gets a printed photo from a disposable camera, framed, and a Wispa."
+  clues:
+    - number: 1
+      initials: L A
+      clue: "There's loads of it. Tonnes of the stuff. Actually, it's everywhere. That's all."
+      answer: Love Actually
+      aliases:
+        - love actually
+      reasoning: "Love (loads of it, everywhere) + Actually (that's all, literally, actually) = Love Actually"
+    - number: 2
+      initials: B J D
+      clue: "A bridge made of Jones has written something personal in a small book. Don't ask."
+      answer: Bridget Jones's Diary
+      aliases:
+        - bridget jones's diary
+        - bridget jones diary
+      reasoning: "Bridge + t (bridget) + Jones (a bridge made of Jones) + Diary (small personal book) = Bridget Jones's Diary"
+    - number: 3
+      initials: B I L B
+      clue: "That lad's trying to bend the ball like a famous footballer. He's been at it ages. Having a go."
+      answer: Bend It Like Beckham
+      aliases:
+        - bend it like beckham
+      reasoning: "Bend It (bending the ball) + Like + Beckham (famous footballer) = Bend It Like Beckham"
+
+- id: filmbusters-045
+  enabled: true
+  title: Filmbusters
+  topic: British comedy films and cult classics
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Alright, Filmbusters. Northern drama, this one. Proper films. Get your thinking cap on."
+  prize: "Email in. Winner gets a copy of Billy Elliot on VHS and some Rich Tea biscuits."
+  clues:
+    - number: 1
+      initials: B E
+      clue: "Right, there's a lad called Bill, and he's gone all small. Like, tiny. Elliott-sized, if you will."
+      answer: Billy Elliot
+      aliases:
+        - billy elliot
+      reasoning: "Billy (Bill, lad called Bill, gone small = Billy) + Elliot (Elliott-sized) = Billy Elliot"
+    - number: 2
+      initials: C G
+      clue: "Some ladies have taken all their clothes off for a calendar. It's for charity. You know, the one with the jam."
+      answer: Calendar Girls
+      aliases:
+        - calendar girls
+      reasoning: "Calendar (calendar, ladies took clothes off for one) + Girls (ladies) = Calendar Girls"
+    - number: 3
+      initials: B O
+      clue: "There's a load of brass, right, but it's gone all quiet. Like it's been told off."
+      answer: Brassed Off
+      aliases:
+        - brassed off
+      reasoning: "Brassed (brass, load of it) + Off (gone quiet, been told off) = Brassed Off"
+
+- id: filmbusters-046
+  enabled: true
+  title: Filmbusters
+  topic: British comedy films and cult classics
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Filmbusters. One of the classics this time. You'll know it. Everyone's seen it at Christmas."
+  prize: "Email in. Winner gets a DVD copy of The Full Monty and some Value biscuits."
+  clues:
+    - number: 1
+      initials: T F M
+      clue: "Right, they've taken everything off. Everything. The whole lot. Nothing left. Not even a bit."
+      answer: The Full Monty
+      aliases:
+        - the full monty
+      reasoning: "The Full (the whole lot, everything) + Monty (Monty, the bloke) = The Full Monty"
+    - number: 2
+      initials: E I E
+      clue: "The sun comes up over there, right, but it's gone back again. Now it's in the middle somewhere."
+      answer: East Is East
+      aliases:
+        - east is east
+      reasoning: "East (sun comes up over there) + Is (it's) + East (it's gone back, same thing again) = East Is East"
+    - number: 3
+      initials: T
+      clue: "A lad's jumped on a train, right, and he's going somewhere fast. Mark, his name is. He looks rough."
+      answer: Trainspotting
+      aliases:
+        - trainspotting
+      reasoning: "Train (jumped on a train) + Spotting (going somewhere, watching things) = Trainspotting"
+
+- id: filmbusters-047
+  enabled: true
+  title: Filmbusters
+  topic: British comedy films and cult classics
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Filmbusters. Guy Ritchie films this lot. Sort of. Cockney geezers and that. Say it out loud."
+  prize: "Email in. Winner gets a Snatch VHS and a bag of loose change from someone's car."
+  clues:
+    - number: 1
+      initials: L S A T S B
+      clue: "There's a padlock on something you fasten things shut with, and two guns that are letting off a lot of smoke. Bit chaotic."
+      answer: Lock Stock and Two Smoking Barrels
+      aliases:
+        - lock stock and two smoking barrels
+      reasoning: "Lock (padlock) + Stock (something you fasten) + and Two + Smoking (letting off smoke) + Barrels (gun barrels) = Lock Stock and Two Smoking Barrels"
+    - number: 2
+      initials: S
+      clue: "Someone's grabbed something they shouldn't have and legged it. Quick. Gone."
+      answer: Snatch
+      aliases:
+        - snatch
+      reasoning: "Snatch (grabbed something and legged it) = Snatch"
+    - number: 3
+      initials: H F
+      clue: "The heating's been cranked right up, and there's all this soft wispy stuff floating about. Warm but odd."
+      answer: Hot Fuzz
+      aliases:
+        - hot fuzz
+      reasoning: "Hot (heating cranked up) + Fuzz (soft wispy stuff floating) = Hot Fuzz"
+
+- id: filmbusters-048
+  enabled: true
+  title: Filmbusters
+  topic: British comedy films and cult classics
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Right then, Filmbusters. Phonetic film clues. Some of these are very silly. That's the point."
+  prize: "Email in. Winner gets a signed photo of someone from a 90s sitcom, possibly."
+  clues:
+    - number: 1
+      initials: S O T D
+      clue: "There's this fella called Sean, and he's gone all pale and shuffling about. Not great. Someone call someone."
+      answer: Shaun of the Dead
+      aliases:
+        - shaun of the dead
+      reasoning: "Shaun (fella called Sean) + of the + Dead (pale, shuffling about, not great) = Shaun of the Dead"
+    - number: 2
+      initials: W A I
+      clue: "There's a little nail sitting next to a bloke, and the bloke's saying that's his mate. The nail is. Right."
+      answer: Withnail and I
+      aliases:
+        - withnail and i
+      reasoning: "With (sitting with) + Nail (a little nail) + and I (the bloke's saying that's his mate, I) = Withnail and I"
+    - number: 3
+      initials: T W E
+      clue: "Everything's stopped. The whole lot. Final pint's been poured. That's it. No more."
+      answer: The Worlds End
+      aliases:
+        - the worlds end
+        - the world's end
+      reasoning: "The World's End (everything stopped, final pint, no more) = The Worlds End"
+
+- id: filmbusters-049
+  enabled: true
+  title: Filmbusters
+  topic: British comedy films and cult classics
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Filmbusters. Bit of a mixed bag today. Phonetics required. Don't panic."
+  prize: "Email in. Winner gets a Now That's What I Call Music 47 cassette and a Pot Noodle."
+  clues:
+    - number: 1
+      initials: M P A T H G
+      clue: "Some fella called Monte keeps a massive snake, and together they've found a sacred drinking vessel. They're made up."
+      answer: Monty Python and the Holy Grail
+      aliases:
+        - monty python and the holy grail
+      reasoning: "Monty (Monte) + Python (massive snake) + and the + Holy Grail (sacred drinking vessel) = Monty Python and the Holy Grail"
+    - number: 2
+      initials: L O B
+      clue: "That bloke Brian's whole existence is being discussed. Someone's drawn a chart about it."
+      answer: Life of Brian
+      aliases:
+        - life of brian
+      reasoning: "Life (whole existence, chart of life) + of + Brian (bloke called Brian) = Life of Brian"
+    - number: 3
+      initials: B J D
+      clue: "There's a walkway over some water, and a fella called Jones keeps a journal on it. Damp paper, probably."
+      answer: Bridget Jones's Diary
+      aliases:
+        - bridget jones's diary
+        - bridget jones diary
+      reasoning: "Bridge (walkway over water) + t (phonetic link) + Jones (fella called Jones) + Diary (journal) = Bridget Jones's Diary"
+
+- id: filmbusters-050
+  enabled: true
+  title: Filmbusters
+  topic: British comedy films and cult classics
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Alright. Filmbusters. Half the answers rhyme with something. Or sound like something. Just say them out loud."
+  prize: "Email in. Winner gets a Cabury Roses tin and a free pen from a bank that's shut down."
+  clues:
+    - number: 1
+      initials: F W A A F
+      clue: "You've been to a big posh party four times. Good times. Then there's a sad day. Balance, I suppose."
+      answer: Four Weddings and a Funeral
+      aliases:
+        - four weddings and a funeral
+      reasoning: "Four Weddings (big posh party, four times) + and a + Funeral (the sad day) = Four Weddings and a Funeral"
+    - number: 2
+      initials: B E
+      clue: "That small kid called William wants to do ballet. His dad's not sure. Up north somewhere."
+      answer: Billy Elliot
+      aliases:
+        - billy elliot
+      reasoning: "Billy (William, small kid, Billy) + Elliot (Elliot, the surname) = Billy Elliot"
+    - number: 3
+      initials: B I L B
+      clue: "Someone's curving a football and comparing themselves to a famous England player. Big shoes to fill."
+      answer: Bend It Like Beckham
+      aliases:
+        - bend it like beckham
+      reasoning: "Bend It (curving a football) + Like + Beckham (famous England player) = Bend It Like Beckham"
+
+- id: filmbusters-051
+  enabled: true
+  title: Filmbusters
+  topic: British comedy films and cult classics
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Filmbusters. These are all proper British films. Say the clue out loud, picture the scene, get the film."
+  prize: "Email in. Winner gets a copy of Trainspotting on DVD and a Greggs sausage roll voucher."
+  clues:
+    - number: 1
+      initials: T
+      clue: "Lad's writing down numbers of trains on a piece of paper. Doesn't look well. Pale as anything."
+      answer: Trainspotting
+      aliases:
+        - trainspotting
+      reasoning: "Train (trains) + Spotting (writing down numbers, spotting) = Trainspotting"
+    - number: 2
+      initials: E I E
+      clue: "The sun goes up in that direction, right. Then someone says it does. Then they both agree it does. Sorted."
+      answer: East Is East
+      aliases:
+        - east is east
+      reasoning: "East (that direction, where sun rises) + Is + East (they all agree, same word again) = East Is East"
+    - number: 3
+      initials: C G
+      clue: "Right, there's twelve months of the year, and each one has a woman in it. For a good cause, mind."
+      answer: Calendar Girls
+      aliases:
+        - calendar girls
+      reasoning: "Calendar (twelve months, the thing on the wall) + Girls (women) = Calendar Girls"
+
+- id: filmbusters-052
+  enabled: true
+  title: Filmbusters
+  topic: British comedy films and cult classics
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Filmbusters. All cult classics. Right, crack on."
+  prize: "Email in. Winner gets a Blockbuster Video card, still valid probably."
+  clues:
+    - number: 1
+      initials: S
+      clue: "Someone's grabbed hold of a diamond and done a runner. Very fast. Didn't hang about."
+      answer: Snatch
+      aliases:
+        - snatch
+      reasoning: "Snatch (grabbed something valuable and ran) = Snatch"
+    - number: 2
+      initials: L S A T S B
+      clue: "There's a thing you lock, then a thing you use to store stuff, and two guns giving off a lot of smoke. All in one go."
+      answer: Lock Stock and Two Smoking Barrels
+      aliases:
+        - lock stock and two smoking barrels
+      reasoning: "Lock (thing you lock) + Stock (store stuff) + and Two Smoking Barrels (guns giving off smoke) = Lock Stock and Two Smoking Barrels"
+    - number: 3
+      initials: H F
+      clue: "Someone's put a load of linty stuff on a radiator. It's toasty in there now. Bit dusty though."
+      answer: Hot Fuzz
+      aliases:
+        - hot fuzz
+      reasoning: "Hot (toasty, radiator) + Fuzz (linty stuff, fluff) = Hot Fuzz"
+
+- id: filmbusters-053
+  enabled: true
+  title: Filmbusters
+  topic: British comedy films and cult classics
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Right. Filmbusters. These all sound like something. That's the idea. Off you go."
+  prize: "Email in. Winner gets a bag of mixed pick and mix from a Woolworths that's closed."
+  clues:
+    - number: 1
+      initials: N H
+      clue: "There's a famous market, right, and it's up a bit. On a rise. Fruit and veg and that."
+      answer: Notting Hill
+      aliases:
+        - notting hill
+      reasoning: "Notting (knotting, the area, Notting) + Hill (up a bit, on a rise) = Notting Hill"
+    - number: 2
+      initials: A A B
+      clue: "Someone's sort of in the vicinity of a small male child. Not sure why. Just near one."
+      answer: About a Boy
+      aliases:
+        - about a boy
+      reasoning: "About (in the vicinity of, sort of near) + a + Boy (small male child) = About a Boy"
+    - number: 3
+      initials: L A
+      clue: "There's loads of it going round. You can't move for it. It's completely everywhere. That's all."
+      answer: Love Actually
+      aliases:
+        - love actually
+      reasoning: "Love (loads of it, everywhere) + Actually (actually, really, that's all) = Love Actually"
+
+- id: filmbusters-054
+  enabled: true
+  title: Filmbusters
+  topic: British comedy films and cult classics
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Filmbusters. Phonetic puzzles. Some are daft. Most are daft. All are films you've probably seen."
+  prize: "Email in. Winner gets a copy of Four Weddings on VHS and some supermarket own-brand crisps."
+  clues:
+    - number: 1
+      initials: B O
+      clue: "All the trumpets and tubas and that have gone a bit funny. Like they've had a shock. Bit sulky."
+      answer: Brassed Off
+      aliases:
+        - brassed off
+      reasoning: "Brassed (brass instruments, trumpets, tubas) + Off (gone funny, had a shock, off) = Brassed Off"
+    - number: 2
+      initials: T F M
+      clue: "They haven't left a single thing on. Whole outfit's gone. Not even socks. Everything. Completely."
+      answer: The Full Monty
+      aliases:
+        - the full monty
+      reasoning: "The Full (not a single thing, whole lot) + Monty (the Monty, the full works) = The Full Monty"
+    - number: 3
+      initials: E I E
+      clue: "Right, somewhere where the sun rises - it turns out it is, in fact, exactly that. Both of them agreeing."
+      answer: East Is East
+      aliases:
+        - east is east
+      reasoning: "East (where sun rises) + Is + East (it is exactly that, same word) = East Is East"
+
+- id: filmbusters-055
+  enabled: true
+  title: Filmbusters
+  topic: British comedy films and cult classics
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Filmbusters. Say the clues out loud. That's the whole game. Here we go."
+  prize: "Email in. Winner gets an Odeon loyalty card from 2003 and a half-used book of stamps."
+  clues:
+    - number: 1
+      initials: S O T D
+      clue: "Right, there's this bloke called Sean, and he's shuffling towards you very slowly with his arms out. Bit concerning."
+      answer: Shaun of the Dead
+      aliases:
+        - shaun of the dead
+      reasoning: "Shaun (bloke called Sean, sounds like Shaun) + of the + Dead (shuffling slowly, arms out, zombie) = Shaun of the Dead"
+    - number: 2
+      initials: T W E
+      clue: "Massive pub crawl, and they've hit the last one on the list. That's your lot. No more after this."
+      answer: The Worlds End
+      aliases:
+        - the worlds end
+        - the world's end
+      reasoning: "The World's End (the last pub on the crawl, no more after this) = The Worlds End"
+    - number: 3
+      initials: H F
+      clue: "They've cranked the temperature right up in the evidence room. All that fluffy stuff's getting very warm."
+      answer: Hot Fuzz
+      aliases:
+        - hot fuzz
+      reasoning: "Hot (temperature cranked up) + Fuzz (fluffy stuff, also police slang) = Hot Fuzz"
+
+- id: filmbusters-056
+  enabled: true
+  title: Filmbusters
+  topic: British comedy films and cult classics
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Alright, Filmbusters. British films, phonetic clues. Easy enough if you've ever watched telly."
+  prize: "Email in. Winner gets a promotional pen from a car dealership and some Quality Street."
+  clues:
+    - number: 1
+      initials: M P A T H G
+      clue: "There's this bloke Monte who's got a large reptile, and they've both gone looking for something sacred to drink out of."
+      answer: Monty Python and the Holy Grail
+      aliases:
+        - monty python and the holy grail
+      reasoning: "Monty Python (Monte + large reptile) + and the Holy Grail (something sacred to drink out of) = Monty Python and the Holy Grail"
+    - number: 2
+      initials: W A I
+      clue: "There's something sharp sticking out of a wooden plank, and a bloke standing next to it claiming ownership. That's mine, that is."
+      answer: Withnail and I
+      aliases:
+        - withnail and i
+      reasoning: "With (in the plank) + Nail (something sharp sticking out) + and I (bloke claiming it's his) = Withnail and I"
+    - number: 3
+      initials: L O B
+      clue: "Brian's whole journey from start to finish is being talked about at length. They've made a film of it apparently."
+      answer: Life of Brian
+      aliases:
+        - life of brian
+      reasoning: "Life (journey from start to finish) + of + Brian (fella called Brian) = Life of Brian"
+
+- id: filmbusters-057
+  enabled: true
+  title: Filmbusters
+  topic: British comedy films and cult classics
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Filmbusters. Right. Northern grit and romcoms. Say the clues out loud. Don't think too hard."
+  prize: "Email in. Winner gets a Waterstones gift card from 2008, might still work."
+  clues:
+    - number: 1
+      initials: B I L B
+      clue: "Someone's swerving a ball around a corner and going 'that's how the famous one does it.' Really having a go."
+      answer: Bend It Like Beckham
+      aliases:
+        - bend it like beckham
+      reasoning: "Bend It (swerving a ball) + Like + Beckham (the famous footballer) = Bend It Like Beckham"
+    - number: 2
+      initials: B O
+      clue: "The whole brass band's gone a bit funny. They're not happy. Someone's said something."
+      answer: Brassed Off
+      aliases:
+        - brassed off
+      reasoning: "Brassed (brass band) + Off (gone funny, not happy) = Brassed Off"
+    - number: 3
+      initials: C G
+      clue: "There's a year's worth of months, and in each picture there's ladies. For the Women's Institute. You know."
+      answer: Calendar Girls
+      aliases:
+        - calendar girls
+      reasoning: "Calendar (year's worth of months, thing on the wall) + Girls (ladies) = Calendar Girls"
+
+- id: filmbusters-058
+  enabled: true
+  title: Filmbusters
+  topic: British comedy films and cult classics
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Filmbusters. Last stretch now. British cult classics. You've seen these. Well, you should have."
+  prize: "Email in. Winner gets a Laser Quest wristband and a half-eaten tube of Pringles."
+  clues:
+    - number: 1
+      initials: T
+      clue: "Some bloke's in Edinburgh scribbling down the serial numbers of trains. He's also got a habit. Not good."
+      answer: Trainspotting
+      aliases:
+        - trainspotting
+      reasoning: "Train (trains, Edinburgh) + Spotting (scribbling down numbers, spotting) = Trainspotting"
+    - number: 2
+      initials: L A
+      clue: "It's genuinely, honestly, truly everywhere. All of it. The whole amount. You can't deny it."
+      answer: Love Actually
+      aliases:
+        - love actually
+      reasoning: "Love (genuinely everywhere, all of it) + Actually (honestly, truly, actually) = Love Actually"
+    - number: 3
+      initials: B J D
+      clue: "There's a footbridge over a canal, and on it a man called Jones is writing everything down in a little book. Getting damp."
+      answer: Bridget Jones's Diary
+      aliases:
+        - bridget jones's diary
+        - bridget jones diary
+      reasoning: "Bridge (footbridge over canal) + t + Jones (man called Jones) + Diary (little book, writing everything down) = Bridget Jones's Diary"
+
+- id: filmbusters-059
+  enabled: true
+  title: Filmbusters
+  topic: British comedy films and cult classics
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Right, Filmbusters. Nearly there. More British films. Some funny, some a bit grim, all worth watching."
+  prize: "Email in. Winner gets a copy of East Is East on DVD and a Tunnock's Caramel Wafer."
+  clues:
+    - number: 1
+      initials: E I E
+      clue: "Right, there's a direction. And it's confirmed as being that direction. Twice. Yep. That one. Sorted."
+      answer: East Is East
+      aliases:
+        - east is east
+      reasoning: "East (a direction) + Is (confirmed) + East (that direction, twice) = East Is East"
+    - number: 2
+      initials: N H
+      clue: "That borough in west London with the big market. It's on a bit of a slope. Hugh Grant lives there in the film."
+      answer: Notting Hill
+      aliases:
+        - notting hill
+      reasoning: "Notting (Notting, that borough) + Hill (on a slope) = Notting Hill"
+    - number: 3
+      initials: A A B
+      clue: "Someone's in the general area of a young lad. Sort of, roughly, in that region. Near enough."
+      answer: About a Boy
+      aliases:
+        - about a boy
+      reasoning: "About (in the general area of, roughly) + a + Boy (young lad) = About a Boy"
+
+- id: filmbusters-060
+  enabled: true
+  title: Filmbusters
+  topic: British comedy films and cult classics
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Final Filmbusters. That's your lot. British comedy and cult classics. Have a last crack at it."
+  prize: "Email in. Winner gets a framed TV guide from a week in 1999 and a Werther's Original."
+  clues:
+    - number: 1
+      initials: S
+      clue: "Someone's grabbed something quickly and gone. Very quick. Didn't see it happen. It's gone."
+      answer: Snatch
+      aliases:
+        - snatch
+      reasoning: "Snatch (grabbed quickly and gone) = Snatch"
+    - number: 2
+      initials: L S A T S B
+      clue: "There's a padlock, then a load of supplies, and at the end two firearms are putting out a cloud of smoke. Bit much."
+      answer: Lock Stock and Two Smoking Barrels
+      aliases:
+        - lock stock and two smoking barrels
+      reasoning: "Lock (padlock) + Stock (supplies) + and Two Smoking Barrels (two firearms, cloud of smoke) = Lock Stock and Two Smoking Barrels"
+    - number: 3
+      initials: T F M
+      clue: "Right, they've done the whole lot. Every last stitch. Nothing left whatsoever. Completely and utterly everything. That's the full works."
+      answer: The Full Monty
+      aliases:
+        - the full monty
+      reasoning: "The Full (every last bit, whole lot) + Monty (Monty, the full works) = The Full Monty"

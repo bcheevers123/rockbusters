@@ -1,0 +1,699 @@
+- id: citybusters-021
+  enabled: true
+  title: Citybusters
+  topic: major cities outside Europe
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Right, Citybusters. Three cities hidden in these phonetic clues. Say them out loud."
+  prize: "Email in. Winner gets a printed-out MapQuest route to somewhere and a stress ball from a bank."
+  clues:
+    - number: 1
+      initials: D
+      clue: "Right, you need to go and purchase something. Just... go and buy it. That's all."
+      answer: Dubai
+      aliases:
+        - dubai
+      reasoning: "do + buy = Dubai"
+    - number: 2
+      initials: M
+      clue: "Your mother's at the shops again. Gone to get something, hasn't she. Off she goes."
+      answer: Mumbai
+      aliases:
+        - mumbai
+      reasoning: "mum + buy = Mumbai"
+    - number: 3
+      initials: S
+      clue: "That fella Sid's gone and hurt his leg joint. Limping about. Poor Sid."
+      answer: Sydney
+      aliases:
+        - sydney
+      reasoning: "Sid + knee = Sydney"
+
+- id: citybusters-022
+  enabled: true
+  title: Citybusters
+  topic: major cities outside Europe
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Citybusters. Three big cities somewhere in these clues. Don't overthink it."
+  prize: "Email in. Winner gets a Blockbuster loyalty card with two points on it and a pencil."
+  clues:
+    - number: 1
+      initials: S
+      clue: "There's a woman doing karaoke, right, and she's skint. Absolutely no money. Just singing away, penniless."
+      answer: Singapore
+      aliases:
+        - singapore
+      reasoning: "sing + a + poor = Singapore"
+    - number: 2
+      initials: B
+      clue: "That water inlet over there, it's making a noise. Like a little jingle. Bit odd."
+      answer: Beijing
+      aliases:
+        - beijing
+      reasoning: "bay + jing(le) = Beijing"
+    - number: 3
+      initials: S
+      clue: "She can't do it. Refuses. And on top of that she's gone up really high. Sort of works."
+      answer: Shanghai
+      aliases:
+        - shanghai
+      reasoning: "shan't + high = Shanghai"
+
+- id: citybusters-023
+  enabled: true
+  title: Citybusters
+  topic: major cities outside Europe
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Here we go, Citybusters. Three cities, three phonetic clues. Easy when you hear them."
+  prize: "Email in. Winner gets a copy of Shrek on VHS and a packet of Rich Tea biscuits, slightly open."
+  clues:
+    - number: 1
+      initials: T
+      clue: "Right, there's a foot digit, then a thing for opening doors, then a noise of surprise. Toe, key, oh. That's it."
+      answer: Tokyo
+      aliases:
+        - tokyo
+      reasoning: "toe + key + oh = Tokyo"
+    - number: 2
+      initials: M
+      clue: "A woman called Mel has been born. Arrived in the world, has Mel. There she is."
+      answer: Melbourne
+      aliases:
+        - melbourne
+      reasoning: "Mel + born = Melbourne"
+    - number: 3
+      initials: C
+      clue: "The woman's got a vehicle and she needs to leave. She's got her car and she's going. Right now."
+      answer: Chicago
+      aliases:
+        - chicago
+      reasoning: "she + car + go = Chicago"
+
+- id: citybusters-024
+  enabled: true
+  title: Citybusters
+  topic: major cities outside Europe
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Citybusters time. All big cities, all hidden in the sounds. Have a go."
+  prize: "Email in. Winner gets an AOL trial disc with ninety days free and a biro from a conference."
+  clues:
+    - number: 1
+      initials: S
+      clue: "That man's lost his body. Just a soul left. Floating about. Just the soul."
+      answer: Seoul
+      aliases:
+        - seoul
+      reasoning: "soul = Seoul (sounds identical)"
+    - number: 2
+      initials: I
+      clue: "Right, is the brown thing a male bovine? That is the question. Is it? Is it a tan bull? Nobody knows."
+      answer: Istanbul
+      aliases:
+        - istanbul
+      reasoning: "is + tan + bull = Istanbul"
+    - number: 3
+      initials: N
+      clue: "Some insect at night doing a row. Making a right racket, it is. Nagging away."
+      answer: Nairobi
+      aliases:
+        - nairobi
+      reasoning: "night + row + bee = Nairobi"
+
+- id: citybusters-025
+  enabled: true
+  title: Citybusters
+  topic: major cities outside Europe
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Right, Citybusters. These are big cities round the world. See if you can hear them."
+  prize: "Email in. Winner gets a laminated photo of a celebrity they can't quite place and some Value crisps."
+  clues:
+    - number: 1
+      initials: T
+      clue: "There's been a loud noise and then there's a male chicken standing there looking confused. Bang. Rooster. That's your lot."
+      answer: Bangkok
+      aliases:
+        - bangkok
+      reasoning: "bang + cock (rooster) = Bangkok"
+    - number: 2
+      initials: C
+      clue: "Someone called Kay is doing a row out on the water. Rowing away, is Kay. Off she goes."
+      answer: Cairo
+      aliases:
+        - cairo
+      reasoning: "Kay + row = Cairo"
+    - number: 3
+      initials: H K
+      clue: "Someone's been respectful - said hon to someone - and then a big gorilla's turned up. Bit of a situation."
+      answer: Hong Kong
+      aliases:
+        - hong kong
+      reasoning: "hon (term of endearment, sounds like Hong) + Kong (the gorilla) = Hong Kong"
+
+- id: citybusters-026
+  enabled: true
+  title: Citybusters
+  topic: major cities outside Europe
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Citybusters. Three more cities, three more phonetic clues. You know how this works."
+  prize: "Email in. Winner gets a Now 58 CD and a key ring shaped like a foreign country."
+  clues:
+    - number: 1
+      initials: T
+      clue: "Something's been ripped apart, yeah, and it's landed right on top of the number two. Tore it right onto the two. Odd."
+      answer: Toronto
+      aliases:
+        - toronto
+      reasoning: "tore + on + to (two) = Toronto"
+    - number: 2
+      initials: N Y
+      clue: "There's a fresh thing, just arrived, and it's standing next to a county in northern England. Lovely. Very new."
+      answer: New York
+      aliases:
+        - new york
+      reasoning: "new + York (county in England) = New York"
+    - number: 3
+      initials: L A
+      clue: "Something's been dropped - a loss - then there's a holy man, then some wobbly stuff you make sweets from. Near enough."
+      answer: Los Angeles
+      aliases:
+        - los angeles
+      reasoning: "loss + an + jelly + ease = Los Angeles"
+
+- id: citybusters-027
+  enabled: true
+  title: Citybusters
+  topic: major cities outside Europe
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Here's Citybusters. Say each clue out loud. The city's hiding in the sound."
+  prize: "Email in. Winner gets a Frosties bowl from a petrol station and a scratched lottery ticket."
+  clues:
+    - number: 1
+      initials: M C
+      clue: "A bloke called Mex has got a female feline, right, and they've both gone to the town. Off they've gone."
+      answer: Mexico City
+      aliases:
+        - mexico city
+      reasoning: "Mex + e + co (cat in Spanish, near enough) + city... actually Mex + ico + city = Mexico City"
+    - number: 2
+      initials: M
+      clue: "That's my pal. My mate. My amigo. Sort of."
+      answer: Miami
+      aliases:
+        - miami
+      reasoning: "my + ami (French for friend) = Miami"
+    - number: 3
+      initials: L V
+      clue: "There's a young Scottish woman, and she's being a bit unclear about something. Vague. She's being vague. That's us, isn't it."
+      answer: Las Vegas
+      aliases:
+        - las vegas
+      reasoning: "lass + vague + us = Las Vegas"
+
+- id: citybusters-028
+  enabled: true
+  title: Citybusters
+  topic: major cities outside Europe
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Citybusters. All cities outside Europe. Phonetic clues. Off you go."
+  prize: "Email in. Winner gets a travel-size shampoo from a hotel and a DVD of Bridget Jones's Diary."
+  clues:
+    - number: 1
+      initials: S F
+      clue: "Right, there's some gritty stuff on a bloke called Fran, and he's got a sister nearby as well. Sandy Fran with his sis. That's it."
+      answer: San Francisco
+      aliases:
+        - san francisco
+      reasoning: "sand + Fran + sis + co = San Francisco"
+    - number: 2
+      initials: B A
+      clue: "Some good-looking lads, right, they've got areas. Bone-us areas. Handsome fellers with their bits."
+      answer: Buenos Aires
+      aliases:
+        - buenos aires
+      reasoning: "bonus (Buenos sounds like) + airs (Aires sounds like) = Buenos Aires"
+    - number: 3
+      initials: C T
+      clue: "A superhero's headwear has rolled into a small settlement. Batman's cape just tumbled into the village. Bit dramatic."
+      answer: Cape Town
+      aliases:
+        - cape town
+      reasoning: "cape + town = Cape Town"
+
+- id: citybusters-029
+  enabled: true
+  title: Citybusters
+  topic: major cities outside Europe
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Alright, Citybusters. Three clues, three cities. Say them out loud and you'll get there."
+  prize: "Email in. Winner gets a copy of The Full Monty on DVD and a tub of value chocolate spread."
+  clues:
+    - number: 1
+      initials: R D J
+      clue: "Ree's gone and done something - said oh - then some bloke called Jan came in, with an aye and a row. Very busy scene, this."
+      answer: Rio de Janeiro
+      aliases:
+        - rio de janeiro
+      reasoning: "Ree + oh + de + Jan + aye + ro = Rio de Janeiro"
+    - number: 2
+      initials: J
+      clue: "A woman called Jo's greeting someone called Han, and they're in a building, and it's quite cold in there. Bit of a burg."
+      answer: Johannesburg
+      aliases:
+        - johannesburg
+      reasoning: "Jo + han + nes + burg = Johannesburg"
+    - number: 3
+      initials: N
+      clue: "Closest city in Africa to the equator that... no wait. There's a fella called Rob, and he's been stung by something in the night. There he is."
+      answer: Nairobi
+      aliases:
+        - nairobi
+      reasoning: "nigh (night) + row + bee = Nairobi"
+
+- id: citybusters-030
+  enabled: true
+  title: Citybusters
+  topic: major cities outside Europe
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Right, another round of Citybusters. These cities are big ones. You'll know them."
+  prize: "Email in. Winner gets a signed letter from someone who was briefly on a reality show, possibly."
+  clues:
+    - number: 1
+      initials: D
+      clue: "You've been told to go and pay for something. Just go and buy it. Do it now. Don't hang about."
+      answer: Dubai
+      aliases:
+        - dubai
+      reasoning: "do + buy = Dubai"
+    - number: 2
+      initials: S
+      clue: "Sid, right, he's only gone and done his knee in. Twisted it or something. Poor Sid."
+      answer: Sydney
+      aliases:
+        - sydney
+      reasoning: "Sid + knee = Sydney"
+    - number: 3
+      initials: T
+      clue: "Someone ripped something, put it on a surface, and then the number two was there as well. On top of two. Tore-on-two."
+      answer: Toronto
+      aliases:
+        - toronto
+      reasoning: "tore + on + two = Toronto"
+
+- id: citybusters-031
+  enabled: true
+  title: Citybusters
+  topic: major cities outside Europe
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Citybusters. More big cities, more phonetic nonsense. Have a listen."
+  prize: "Email in. Winner gets a Woolworths gift card from a drawer somewhere and a bit of bubble wrap."
+  clues:
+    - number: 1
+      initials: M
+      clue: "Your mum's decided she's going shopping. She's off to buy something. Classic mum behaviour."
+      answer: Mumbai
+      aliases:
+        - mumbai
+      reasoning: "mum + buy = Mumbai"
+    - number: 2
+      initials: M
+      clue: "There's a woman called Mel, and she's only just arrived. Been born recently, has Mel."
+      answer: Melbourne
+      aliases:
+        - melbourne
+      reasoning: "Mel + born = Melbourne"
+    - number: 3
+      initials: S
+      clue: "She sang the whole song, and by the end she had no money left at all. Completely skint from singing."
+      answer: Singapore
+      aliases:
+        - singapore
+      reasoning: "sing + a + poor = Singapore"
+
+- id: citybusters-032
+  enabled: true
+  title: Citybusters
+  topic: major cities outside Europe
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Here's Citybusters again. Four continents represented in this lot. Get stuck in."
+  prize: "Email in. Winner gets a promotional pen from a company that went under in 2003 and a fridge magnet."
+  clues:
+    - number: 1
+      initials: B
+      clue: "The inlet's doing that thing again - jingling. A musical bay. Lovely, that."
+      answer: Beijing
+      aliases:
+        - beijing
+      reasoning: "bay + jing(ling) = Beijing"
+    - number: 2
+      initials: S
+      clue: "The spirit's left the building. Just a soul floating about. No body, just soul."
+      answer: Seoul
+      aliases:
+        - seoul
+      reasoning: "soul = Seoul"
+    - number: 3
+      initials: T
+      clue: "Right, your foot digit. Now a thing for opening locks. Now a noise like you've just remembered something. Toe. Key. Oh. That's it."
+      answer: Tokyo
+      aliases:
+        - tokyo
+      reasoning: "toe + key + oh = Tokyo"
+
+- id: citybusters-033
+  enabled: true
+  title: Citybusters
+  topic: major cities outside Europe
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Citybusters. Say the clues out loud. Don't read them, say them."
+  prize: "Email in. Winner gets a HMV gift voucher from 2008 and a torch that needs new batteries."
+  clues:
+    - number: 1
+      initials: I
+      clue: "Right, is that brownish animal over there definitely a male bovine? Is it? Is it a tan bull? Very important question."
+      answer: Istanbul
+      aliases:
+        - istanbul
+      reasoning: "is + tan + bull = Istanbul"
+    - number: 2
+      initials: C
+      clue: "There's been an explosion, and now a male chicken is just standing there in the middle of it all. Bang. Rooster. Right in the middle."
+      answer: Bangkok
+      aliases:
+        - bangkok
+      reasoning: "bang + cock (rooster) = Bangkok"
+    - number: 3
+      initials: C
+      clue: "The woman's grabbed the keys and she's leaving. She's taking her car and she is absolutely going. Now."
+      answer: Chicago
+      aliases:
+        - chicago
+      reasoning: "she + car + go = Chicago"
+
+- id: citybusters-034
+  enabled: true
+  title: Citybusters
+  topic: major cities outside Europe
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Alright, Citybusters. World cities, phonetic clues. You know what to do."
+  prize: "Email in. Winner gets a Curly Wurly and a World Cup sticker they already had twice."
+  clues:
+    - number: 1
+      initials: N Y
+      clue: "Brand new thing, just unwrapped, standing right next to an English county in the north. Very fresh, very Yorkshire."
+      answer: New York
+      aliases:
+        - new york
+      reasoning: "new + York = New York"
+    - number: 2
+      initials: M
+      clue: "That is literally my mate. That's my amigo, that is. My friend. Ami."
+      answer: Miami
+      aliases:
+        - miami
+      reasoning: "my + ami (friend) = Miami"
+    - number: 3
+      initials: L V
+      clue: "A young Scottish woman is giving a really unclear answer. Vague, she is. Not committing to anything, that lass."
+      answer: Las Vegas
+      aliases:
+        - las vegas
+      reasoning: "lass + vague + us = Las Vegas"
+
+- id: citybusters-035
+  enabled: true
+  title: Citybusters
+  topic: major cities outside Europe
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Citybusters. Big cities, phonetic clues. Three of them. Have a go."
+  prize: "Email in. Winner gets a copy of Titanic on VHS (both tapes) and a bag of pick and mix, mostly the ones no one wants."
+  clues:
+    - number: 1
+      initials: C
+      clue: "A bloke called Kay is out on the water, rowing. Just rowing away, is Kay. Off in his little boat."
+      answer: Cairo
+      aliases:
+        - cairo
+      reasoning: "Kay + row = Cairo"
+    - number: 2
+      initials: H K
+      clue: "Someone's called their mate hon, yeah, and then this massive ape has shown up out of nowhere. Just appeared."
+      answer: Hong Kong
+      aliases:
+        - hong kong
+      reasoning: "hon + Kong (giant ape) = Hong Kong"
+    - number: 3
+      initials: C T
+      clue: "A superhero's cloak has landed in a village. Right in the middle of the village. Bit much."
+      answer: Cape Town
+      aliases:
+        - cape town
+      reasoning: "cape + town = Cape Town"
+
+- id: citybusters-036
+  enabled: true
+  title: Citybusters
+  topic: major cities outside Europe
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Here's Citybusters. Some of the biggest cities in the world hidden in these clues. Easy when you know it."
+  prize: "Email in. Winner gets a printed receipt from a cash machine and a copy of FHM from 2001."
+  clues:
+    - number: 1
+      initials: S F
+      clue: "This bloke Fran, he's covered in sand. And his sister's just arrived. Sandy Fran, and his sis. There they are."
+      answer: San Francisco
+      aliases:
+        - san francisco
+      reasoning: "sand + Fran + sis + co = San Francisco"
+    - number: 2
+      initials: L A
+      clue: "There's been a loss, right. Then some kind of holy man. Then loads of wobbly transparent stuff you eat at parties. And it's all a bit easy. Loss. An. Jellies."
+      answer: Los Angeles
+      aliases:
+        - los angeles
+      reasoning: "loss + an + jelly + ease = Los Angeles"
+    - number: 3
+      initials: J
+      clue: "Jo's said hello to Han, they're inside a building together, and it's chilly. A cold burg. Jo, Han, burg."
+      answer: Johannesburg
+      aliases:
+        - johannesburg
+      reasoning: "Jo + han + nes + burg = Johannesburg"
+
+- id: citybusters-037
+  enabled: true
+  title: Citybusters
+  topic: major cities outside Europe
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Right, last few Citybusters now. Three more cities hidden in the sounds."
+  prize: "Email in. Winner gets a miniature bottle of shampoo, two sachets of hotel coffee, and a pen."
+  clues:
+    - number: 1
+      initials: R D J
+      clue: "There's Ree, going oh. Then Jan's come in and said aye. And someone's doing a row in the background. Ree. Oh. Jan. Aye. Row. Near enough."
+      answer: Rio de Janeiro
+      aliases:
+        - rio de janeiro
+      reasoning: "Ree + oh + de + Jan + aye + row = Rio de Janeiro"
+    - number: 2
+      initials: B A
+      clue: "Some good-looking fellas have got sections. Bonus sections. Handsome lads with their bonus bits. Sort of works."
+      answer: Buenos Aires
+      aliases:
+        - buenos aires
+      reasoning: "Buenos (bone-us) + Aires (airs) = Buenos Aires"
+    - number: 3
+      initials: M C
+      clue: "There's a bloke called Mex, he's got an eagle and he's gone to the town. Mex. Eagle. Town. Mexico. Sort of."
+      answer: Mexico City
+      aliases:
+        - mexico city
+      reasoning: "Mex + ico + city = Mexico City"
+
+- id: citybusters-038
+  enabled: true
+  title: Citybusters
+  topic: major cities outside Europe
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Citybusters. Four clues left after this. You're nearly there."
+  prize: "Email in. Winner gets a Tamagotchi with a dead battery and an empty Pringles tube."
+  clues:
+    - number: 1
+      initials: S
+      clue: "She absolutely will not do it. Refuses. Flat out. And she's gone really high up. Shan't. High. That's it."
+      answer: Shanghai
+      aliases:
+        - shanghai
+      reasoning: "shan't + high = Shanghai"
+    - number: 2
+      initials: N
+      clue: "Nighttime insect having a row. Buzzing away and arguing. All night long. That's your city."
+      answer: Nairobi
+      aliases:
+        - nairobi
+      reasoning: "nigh (near to night) + row + bee = Nairobi"
+    - number: 3
+      initials: J
+      clue: "Jo and Han are both in a very cold building together. A burg. Cold as anything. There they are, Jo and Han."
+      answer: Johannesburg
+      aliases:
+        - johannesburg
+      reasoning: "Jo + han + nes + burg = Johannesburg"
+
+- id: citybusters-039
+  enabled: true
+  title: Citybusters
+  topic: major cities outside Europe
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Nearly there. Citybusters, penultimate round. Three more big cities."
+  prize: "Email in. Winner gets a loyalty card for a sandwich chain that closed down and some travel sweets."
+  clues:
+    - number: 1
+      initials: T
+      clue: "Right, foot digit. Lock opener. Noise of realisation. Three things. Say them together. Toe. Key. Oh."
+      answer: Tokyo
+      aliases:
+        - tokyo
+      reasoning: "toe + key + oh = Tokyo"
+    - number: 2
+      initials: M
+      clue: "That woman called Mel, she's only gone and been born. Just arrived, has Mel. Welcome to the world."
+      answer: Melbourne
+      aliases:
+        - melbourne
+      reasoning: "Mel + born = Melbourne"
+    - number: 3
+      initials: I
+      clue: "Is that animal a tanned bull? Genuinely asking. Is. It. A. Tan. Bull. Answer the question."
+      answer: Istanbul
+      aliases:
+        - istanbul
+      reasoning: "is + tan + bull = Istanbul"
+
+- id: citybusters-040
+  enabled: true
+  title: Citybusters
+  topic: major cities outside Europe
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Final Citybusters. Last three cities of the round. Finish strong."
+  prize: "Email in. Winner gets a DVD of Mamma Mia, a novelty rubber, and a thumbs up from the intern."
+  clues:
+    - number: 1
+      initials: S
+      clue: "The spirit of a person, all floaty and ghostlike. No body at all. Just the soul. That's a city, that is."
+      answer: Seoul
+      aliases:
+        - seoul
+      reasoning: "soul = Seoul (sounds identical)"
+    - number: 2
+      initials: C
+      clue: "A superhero's flowing cloak landed in a market town. Wafted right down into the village. Bit theatrical."
+      answer: Cape Town
+      aliases:
+        - cape town
+      reasoning: "cape + town = Cape Town"
+    - number: 3
+      initials: S
+      clue: "Sid twisted his knee. Don't know how. Just came in limping, did Sid. That's all."
+      answer: Sydney
+      aliases:
+        - sydney
+      reasoning: "Sid + knee = Sydney"

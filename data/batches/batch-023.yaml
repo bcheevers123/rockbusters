@@ -1,0 +1,706 @@
+- id: nostalgiabusters-001
+  enabled: true
+  title: Nostalgiabusters
+  topic: 1980s and 1990s nostalgia gadgets tech and pop culture
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Nostalgiabusters. All answers are things from the eighties and nineties. Say the clues out loud - that's the whole game."
+  prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
+  clues:
+    - number: 1
+      initials: T
+      clue: "Right, that little digital pet thing - Tim's gone and got one, and now he won't stop feeding it. Cost him about a tenner from Woolies."
+      answer: Tamagotchi
+      aliases:
+        - tamagotchi
+      reasoning: "tam (Tim-ish sound) + a + got + chi = ta-ma-got-chi = Tamagotchi"
+    - number: 2
+      initials: G B
+      clue: "Some lad's gone and hired a lad called Boy to come and play on his handheld console. The hire cost him a fortune."
+      answer: Game Boy
+      aliases:
+        - game boy
+        - gameboy
+      reasoning: "game (hired, as in game for hire) + Boy (lad called Boy) = Game Boy"
+    - number: 3
+      initials: W
+      clue: "That bloke who walks everywhere, right, he's got a little man with him. They're just wandering about together."
+      answer: Walkman
+      aliases:
+        - walkman
+        - sony walkman
+      reasoning: "walk (walks everywhere) + man (little man with him) = Walkman"
+
+- id: nostalgiabusters-002
+  enabled: true
+  title: Nostalgiabusters
+  topic: 1980s and 1990s nostalgia gadgets tech and pop culture
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "More Nostalgiabusters. Think eighties, think nineties, think things your mum threw away that are now worth something."
+  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists."
+  clues:
+    - number: 1
+      initials: V H S
+      clue: "That vehicle's really quite tall, and it's parked near a man called Steve. Don't ask."
+      answer: VHS
+      aliases:
+        - vhs
+        - vhs tape
+      reasoning: "V (very) + H (high) + S (Steve) = V-H-S, spoken as letters = VHS"
+    - number: 2
+      initials: M D
+      clue: "There's a tiny little disc, right, and it's claiming to be the minimum amount required. Bit full of itself."
+      answer: MiniDisc
+      aliases:
+        - minidisc
+        - mini disc
+      reasoning: "mini (minimum, tiny) + disc (disc) = MiniDisc"
+    - number: 3
+      initials: F D
+      clue: "That bit of ground, it's gone all soft and bendy. You wouldn't want to plant anything in it."
+      answer: Floppy Disk
+      aliases:
+        - floppy disk
+        - floppy disc
+      reasoning: "floppy (soft and bendy, like ground that's gone wrong) + disk (bit of ground = disc of earth) = Floppy Disk"
+
+- id: nostalgiabusters-003
+  enabled: true
+  title: Nostalgiabusters
+  topic: 1980s and 1990s nostalgia gadgets tech and pop culture
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Nostalgiabusters is back. Gadgets, telly, music - all from back when things were simpler. Or at least louder."
+  prize: "Email in. Winner gets a Blockbuster loyalty card and a printed photo from a disposable camera, framed."
+  clues:
+    - number: 1
+      initials: T
+      clue: "Right, that telephone's got letters written all over it. Just letters everywhere. On the telly and that."
+      answer: Teletext
+      aliases:
+        - teletext
+      reasoning: "tele (telephone, telly) + text (letters, writing) = Teletext"
+    - number: 2
+      initials: C
+      clue: "The BBC's got something to say, and it's done it by writing it on the screen in big yellow squares. See it now?"
+      answer: Ceefax
+      aliases:
+        - ceefax
+      reasoning: "see (BBC = see the beeb) + fax (fax, as in send information) = Ceefax. Say it: see-fax."
+    - number: 3
+      initials: D U I
+      clue: "The phone's ringing in your ear but no one's picked it up yet. You're just sitting there. Waiting. That's the whole experience really."
+      answer: Dial Up Internet
+      aliases:
+        - dial up internet
+        - dial-up internet
+        - dial up
+      reasoning: "dial up (phone dialling sound) + internet (net, the whole thing) = Dial Up Internet"
+
+- id: nostalgiabusters-004
+  enabled: true
+  title: Nostalgiabusters
+  topic: 1980s and 1990s nostalgia gadgets tech and pop culture
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Alright, Nostalgiabusters. Back again with more things from the past. Some of these you'll get straight away."
+  prize: "Email in. Winner gets a DVD copy of The Full Monty and some Value biscuits."
+  clues:
+    - number: 1
+      initials: A O L
+      clue: "A lad's said something, right, and it was an order, and then he just went off and did his laundry. That's his whole day."
+      answer: AOL
+      aliases:
+        - aol
+        - america online
+      reasoning: "A (a) + O (order) + L (laundry) = A-O-L, spoken as three letters = AOL"
+    - number: 2
+      initials: N
+      clue: "Someone's landed their little fishing net right on top of a piece of music. It's just sitting there on the stave."
+      answer: Napster
+      aliases:
+        - napster
+      reasoning: "nap (a little sleep, net-like dropping down) + ster (sounds like a star, music note) = Napster. Say it: nap-ster."
+    - number: 3
+      initials: I C Q
+      clue: "That lad Ian's checking something out, then he's putting it in a line. Just queuing things up all day."
+      answer: ICQ
+      aliases:
+        - icq
+        - i seek you
+      reasoning: "I (Ian, I) + C (checking, see) + Q (queue) = I-C-Q, sounds like I seek you = ICQ"
+
+- id: nostalgiabusters-005
+  enabled: true
+  title: Nostalgiabusters
+  topic: 1980s and 1990s nostalgia gadgets tech and pop culture
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Nostalgiabusters. If you were born after the year two thousand, this round is gonna be hard. Sorry about that."
+  prize: "Email in. Winner gets a signed letter from someone off Emmerdale, possibly."
+  clues:
+    - number: 1
+      initials: N
+      clue: "Right, there's a fishing net, and it's gone and attached itself to a cape. Just hanging off the end of it."
+      answer: Netscape
+      aliases:
+        - netscape
+        - netscape navigator
+      reasoning: "net (fishing net) + scape (cape, landscape, escape) = Netscape"
+    - number: 2
+      initials: F R
+      clue: "That group of mates - you know the ones - they've all gone and had a reunion. Together again and that."
+      answer: Friends Reunited
+      aliases:
+        - friends reunited
+      reasoning: "friends (group of mates) + reunited (reunion, together again) = Friends Reunited"
+    - number: 3
+      initials: M S
+      clue: "There's loads of empty room up there. Miles and miles of it. And someone's put a face on it."
+      answer: MySpace
+      aliases:
+        - myspace
+        - my space
+      reasoning: "my (someone's own) + space (empty room, miles of it) = MySpace"
+
+- id: nostalgiabusters-006
+  enabled: true
+  title: Nostalgiabusters
+  topic: 1980s and 1990s nostalgia gadgets tech and pop culture
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Here's Nostalgiabusters. All phonetic clues, all answers from the golden age of technology that mostly didn't work."
+  prize: "Email in. Winner gets a Now That's What I Call Music cassette and a fridge magnet of a place you've never been."
+  clues:
+    - number: 1
+      initials: B
+      clue: "There's a fella called Bob, and he's been drinking. He's a bit wobbly. Bob + O. That's the one."
+      answer: Bebo
+      aliases:
+        - bebo
+      reasoning: "be (Bee, Bob-ish sound) + bo (wobbly, bo as in boo) = Bebo. Say it: bee-bo."
+    - number: 2
+      initials: K
+      clue: "Some kind of car, right, and it's got two of them. There's a car called Ka, and there's another one next to it."
+      answer: Kazaa
+      aliases:
+        - kazaa
+      reasoning: "ka (car make, Ka) + zaa (another sound like that) = Kazaa. Say it: kuh-zaa."
+    - number: 3
+      initials: E
+      clue: "That place where they keep all the knowledge - it's massive, like a whole building full of information. And someone's put it on a CD."
+      answer: Encarta
+      aliases:
+        - encarta
+        - microsoft encarta
+      reasoning: "en (in, inside) + carta (carte, card, map) = Encarta. The whole world on a disc."
+
+- id: nostalgiabusters-007
+  enabled: true
+  title: Nostalgiabusters
+  topic: 1980s and 1990s nostalgia gadgets tech and pop culture
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Nostalgiabusters. Consoles, cassettes, corner shops that sold both. You know the era."
+  prize: "Email in. Winner gets a Sega game with no instructions and a bag of cola bottles."
+  clues:
+    - number: 1
+      initials: S M D
+      clue: "Right, there's a large vehicle driving itself around, and it's doing it very impressively indeed. Massive thing it is."
+      answer: Sega Mega Drive
+      aliases:
+        - sega mega drive
+        - megadrive
+        - mega drive
+      reasoning: "Sega (say-ga, a brand) + mega (massive, huge) + drive (driving itself around) = Sega Mega Drive"
+    - number: 2
+      initials: S N
+      clue: "That fella's brilliant at games. He's better than everyone else. Super, you might say. And there's nothing wrong with him."
+      answer: Super Nintendo
+      aliases:
+        - super nintendo
+        - snes
+        - super nes
+      reasoning: "super (brilliant, better than everyone) + Nintendo (nin-ten-do, ten things to do) = Super Nintendo"
+    - number: 3
+      initials: G B
+      clue: "Someone's hired a child to come and play on a tiny screen in the back of a car. That's about the size of it."
+      answer: Game Boy
+      aliases:
+        - game boy
+        - gameboy
+      reasoning: "game (hired for the game) + boy (a child, a lad) = Game Boy"
+
+- id: nostalgiabusters-008
+  enabled: true
+  title: Nostalgiabusters
+  topic: 1980s and 1990s nostalgia gadgets tech and pop culture
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "It's Nostalgiabusters. Say each clue out loud and the answer should sort of fall out. Near enough."
+  prize: "Email in. Winner gets a copy of Riverdance on VHS and a half-eaten tube of Smarties."
+  clues:
+    - number: 1
+      initials: W
+      clue: "There's loads of wool, right, and it's worth something. Quite a lot. That's all it is."
+      answer: Woolworths
+      aliases:
+        - woolworths
+        - woolies
+      reasoning: "wool (wool, loads of it) + worths (worth something, worths) = Woolworths"
+    - number: 2
+      initials: B V
+      clue: "Right, you're stopping at a vid. Just stopping it where it is. And your mate's blocking the screen."
+      answer: Blockbuster Video
+      aliases:
+        - blockbuster video
+        - blockbuster
+      reasoning: "block (blocking, stopping) + buster (buster, as in burst) + video (vid, the film) = Blockbuster Video"
+    - number: 3
+      initials: H M V
+      clue: "That bloke in the hat's got loads of music. He's a musical fella, him. Very musical."
+      answer: HMV
+      aliases:
+        - hmv
+        - his masters voice
+      reasoning: "H (his) + M (master's) + V (voice) = H-M-V = HMV. The dog with the gramophone."
+
+- id: nostalgiabusters-009
+  enabled: true
+  title: Nostalgiabusters
+  topic: 1980s and 1990s nostalgia gadgets tech and pop culture
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Nostalgiabusters. Three clues, three answers, all from back when the internet cost money by the minute."
+  prize: "Email in. Winner gets an unopened pack of Pogs and a laminator that doesn't work."
+  clues:
+    - number: 1
+      initials: N T W I C M
+      clue: "Right, that's not something you'd call music - it just sort of is what it is. And what it is, is music. That's the name of it."
+      answer: Now Thats What I Call Music
+      aliases:
+        - now thats what i call music
+        - now that's what i call music
+        - now
+      reasoning: "now (now) + that's (that is) + what (what) + I (I) + call (call) + music (music) = Now That's What I Call Music"
+    - number: 2
+      initials: W
+      clue: "It's a place you go. Lots of wool. Lots of pick and mix. That's your Saturday sorted."
+      answer: Woolworths
+      aliases:
+        - woolworths
+        - woolies
+      reasoning: "wool (wool) + worths (worth the visit) = Woolworths. Saturday morning institution."
+    - number: 3
+      initials: C
+      clue: "The BBC's telling you what's on and what time, and it's doing it in a little box in the corner. You're pressing the numbers on your remote."
+      answer: Ceefax
+      aliases:
+        - ceefax
+      reasoning: "see (BBC, see it) + fax (fax, information sent through) = Ceefax"
+
+- id: nostalgiabusters-010
+  enabled: true
+  title: Nostalgiabusters
+  topic: 1980s and 1990s nostalgia gadgets tech and pop culture
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Nostalgiabusters. Clues are phonetic. The answers are things that used to be everywhere and now they're mostly gone."
+  prize: "Email in. Winner gets a zip-up pencil case from WH Smith and a Chupa Chup from the bottom of a drawer."
+  clues:
+    - number: 1
+      initials: W
+      clue: "That man's doing some exercise. Walking about and listening to something. Quite pleased with himself."
+      answer: Walkman
+      aliases:
+        - walkman
+        - sony walkman
+      reasoning: "walk (walking, exercise) + man (man, fella) = Walkman"
+    - number: 2
+      initials: T
+      clue: "It's on the telly, right. Words and that. Numbers for the pages. Press four hundred for sport."
+      answer: Teletext
+      aliases:
+        - teletext
+      reasoning: "tele (telly, television) + text (words, text on the screen) = Teletext"
+    - number: 3
+      initials: V H S
+      clue: "Someone's recorded Coronation Street on a big black thing. It's in a drawer somewhere."
+      answer: VHS
+      aliases:
+        - vhs
+        - vhs tape
+      reasoning: "V (very) + H (heavy) + S (slab) = VHS. Big black cassette. Drawer full of them."
+
+- id: nostalgiabusters-011
+  enabled: true
+  title: Nostalgiabusters
+  topic: 1980s and 1990s nostalgia gadgets tech and pop culture
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Alright, Nostalgiabusters time. Phonetic clues about things from the eighties and nineties. Don't overthink it."
+  prize: "Email in. Winner gets a Game Boy game with no cartridge slot cover and some Quality Street."
+  clues:
+    - number: 1
+      initials: M D
+      clue: "It's a small thing, disc-shaped, and it's the minimum. As in it's the least amount you could possibly have. In disc form."
+      answer: MiniDisc
+      aliases:
+        - minidisc
+        - mini disc
+      reasoning: "mini (minimum, smallest amount) + disc (disc-shaped thing) = MiniDisc"
+    - number: 2
+      initials: N
+      clue: "There's a man called Nap, and he's got a star. He's feeling very pleased about it."
+      answer: Napster
+      aliases:
+        - napster
+      reasoning: "nap (a man called Nap, like Napoleon but shorter) + star (a star, shining thing) = Napster"
+    - number: 3
+      initials: I C Q
+      clue: "Right, I can see there's a queue. Long one. I'm looking at it. That's all."
+      answer: ICQ
+      aliases:
+        - icq
+        - i seek you
+      reasoning: "I (I) + see (c, looking at) + queue (Q, a line) = I-C-Q = ICQ, sounds like I seek you"
+
+- id: nostalgiabusters-012
+  enabled: true
+  title: Nostalgiabusters
+  topic: 1980s and 1990s nostalgia gadgets tech and pop culture
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Nostalgiabusters. Three clues, three answers, all from the decade when everything beeped and most of it broke."
+  prize: "Email in. Winner gets a Tiger Electronics handheld game and a Fruit Winder."
+  clues:
+    - number: 1
+      initials: F R
+      clue: "Your old school mates - you've found them again on a website. Bit awkward but there they are."
+      answer: Friends Reunited
+      aliases:
+        - friends reunited
+      reasoning: "friends (old school mates) + reunited (found again, together again) = Friends Reunited"
+    - number: 2
+      initials: A O L
+      clue: "A fella ordered something from a catalogue, then put his washing on. That's his evening sorted."
+      answer: AOL
+      aliases:
+        - aol
+        - america online
+      reasoning: "A (a fella) + O (ordered) + L (laundry, washing) = A-O-L = AOL"
+    - number: 3
+      initials: N
+      clue: "That web browser, right. It's like a net you put over a cape to keep stuff in. Sort of."
+      answer: Netscape
+      aliases:
+        - netscape
+        - netscape navigator
+      reasoning: "net (net, like a web) + scape (cape, headland, landscape) = Netscape"
+
+- id: nostalgiabusters-013
+  enabled: true
+  title: Nostalgiabusters
+  topic: 1980s and 1990s nostalgia gadgets tech and pop culture
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Nostalgiabusters is on. Answers are all from the nineties. Some of these things were incredible at the time."
+  prize: "Email in. Winner gets a CD wallet with half the CDs missing and a Kinder Bueno from last Christmas."
+  clues:
+    - number: 1
+      initials: E
+      clue: "It's a map, right. Like a big map of everything that ever happened. And someone's handed it to you on a shiny disc."
+      answer: Encarta
+      aliases:
+        - encarta
+        - microsoft encarta
+      reasoning: "en (in, inside) + carta (carta, like a chart, a map) = Encarta. An encyclopaedia on disc."
+    - number: 2
+      initials: K
+      clue: "That little car - the Ford Ka - there's two of them. Parked next to each other. Double Ka."
+      answer: Kazaa
+      aliases:
+        - kazaa
+      reasoning: "ka (the Ford Ka, a car) + zaa (another one, sounds the same) = Kazaa. Say it: kuh-zaa."
+    - number: 3
+      initials: B
+      clue: "There's a bee, and it's doing something. It's gone and made a social network profile. Bit ahead of its time."
+      answer: Bebo
+      aliases:
+        - bebo
+      reasoning: "be (bee, the insect) + bo (boh, like a sound) = Bebo. Say it: bee-bo."
+
+- id: nostalgiabusters-014
+  enabled: true
+  title: Nostalgiabusters
+  topic: 1980s and 1990s nostalgia gadgets tech and pop culture
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Here's Nostalgiabusters. Say the clues out loud, hear the answer. That's the whole thing."
+  prize: "Email in. Winner gets a portable CD player that skips when you breathe near it, and a sherbet dip."
+  clues:
+    - number: 1
+      initials: S M D
+      clue: "Right, there's a big, powerful car doing a lap. A mega lap. Somebody's watching it do laps. Big laps."
+      answer: Sega Mega Drive
+      aliases:
+        - sega mega drive
+        - megadrive
+        - mega drive
+      reasoning: "say-ga (Sega) + mega (massive, powerful) + drive (a lap, driving round) = Sega Mega Drive"
+    - number: 2
+      initials: G B
+      clue: "Some lad's applied for a job in entertainment. He's a game fella, up for anything. Name of Boy."
+      answer: Game Boy
+      aliases:
+        - game boy
+        - gameboy
+      reasoning: "game (game, entertainment, up for it) + boy (a lad, Boy as a name) = Game Boy"
+    - number: 3
+      initials: S N
+      clue: "That fella's excellent. Better than everyone. A super, one might say. And he's doing ten things at once."
+      answer: Super Nintendo
+      aliases:
+        - super nintendo
+        - snes
+      reasoning: "super (excellent, better than rest) + nin-ten-do (ten things to do) = Super Nintendo"
+
+- id: nostalgiabusters-015
+  enabled: true
+  title: Nostalgiabusters
+  topic: 1980s and 1990s nostalgia gadgets tech and pop culture
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Nostalgiabusters. Phonetic clues about things from before everything was in your pocket."
+  prize: "Email in. Winner gets a copy of Tomb Raider on PlayStation and a travel-sized tube of Pringles."
+  clues:
+    - number: 1
+      initials: T
+      clue: "Right, that little creature needs feeding again. Third time this morning. Tim's going mad over it."
+      answer: Tamagotchi
+      aliases:
+        - tamagotchi
+      reasoning: "ta (Tim-ish, short sound) + ma (ma, mother figure) + got (got it, obtained) + chi (chee, the thing itself) = Tamagotchi"
+    - number: 2
+      initials: D U I
+      clue: "The phone line's busy. You're waiting. It's making that noise. The screeching one. You know the one."
+      answer: Dial Up Internet
+      aliases:
+        - dial up internet
+        - dial-up internet
+      reasoning: "dial up (dialling the phone, making the screeching connection noise) + internet (the net, the whole thing) = Dial Up Internet"
+    - number: 3
+      initials: F D
+      clue: "That circular bit of ground, right, it's gone all limp and bendy. Useless now. Can't store anything in it."
+      answer: Floppy Disk
+      aliases:
+        - floppy disk
+        - floppy disc
+      reasoning: "floppy (limp, bendy, gone all wrong) + disk (disc, circular flat thing) = Floppy Disk"
+
+- id: nostalgiabusters-016
+  enabled: true
+  title: Nostalgiabusters
+  topic: 1980s and 1990s nostalgia gadgets tech and pop culture
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Nostalgiabusters again. These are all things that felt like the future at the time. They were not always the future."
+  prize: "Email in. Winner gets a Tamagotchi with a flat battery and a pack of Starburst from 1998, probably."
+  clues:
+    - number: 1
+      initials: M S
+      clue: "There's loads of room up there. And it belongs to someone. Their room, their space, their profile picture."
+      answer: MySpace
+      aliases:
+        - myspace
+        - my space
+      reasoning: "my (belongs to someone, their own) + space (room, loads of it up there) = MySpace"
+    - number: 2
+      initials: W
+      clue: "The wool is priceless. Worth a fortune, that wool. It's got its own shop on the high street."
+      answer: Woolworths
+      aliases:
+        - woolworths
+        - woolies
+      reasoning: "wool (the wool, the fibre) + worths (worth a fortune, worth something) = Woolworths"
+    - number: 3
+      initials: H M V
+      clue: "Some posh fella owns that sound. Belongs to him. Very much his, that voice."
+      answer: HMV
+      aliases:
+        - hmv
+        - his masters voice
+      reasoning: "H (his) + M (master's) + V (voice) = HMV. His Master's Voice."
+
+- id: nostalgiabusters-017
+  enabled: true
+  title: Nostalgiabusters
+  topic: 1980s and 1990s nostalgia gadgets tech and pop culture
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Nostalgiabusters. Right. Three clues. All phonetic. All from the time when you had to rewind things before returning them."
+  prize: "Email in. Winner gets a blockbuster video receipt and a cup of Bovril."
+  clues:
+    - number: 1
+      initials: B V
+      clue: "That lad who breaks things for a living, he's hired a camera to follow him around. He's blocking the shot a bit."
+      answer: Blockbuster Video
+      aliases:
+        - blockbuster video
+        - blockbuster
+      reasoning: "block (blocking the shot, stopping something) + buster (a lad who busts, breaks things) + video (camera, film, video) = Blockbuster Video"
+    - number: 2
+      initials: N T W I C M
+      clue: "Someone's describing a noise. What is it? It's music, that's what it is. That's what they'd call it."
+      answer: Now Thats What I Call Music
+      aliases:
+        - now thats what i call music
+        - now that's what i call music
+        - now
+      reasoning: "now (now, right now) + that's (that is it) + what (what is it) + I (I) + call (would call) + music (music, the thing) = Now That's What I Call Music"
+    - number: 3
+      initials: C
+      clue: "The news is coming through the television. No presenter. Just pages of text. Press one hundred and one."
+      answer: Ceefax
+      aliases:
+        - ceefax
+      reasoning: "see (you see it, ceefax = see-fax) + fax (information transmitted like a fax) = Ceefax"
+
+- id: nostalgiabusters-018
+  enabled: true
+  title: Nostalgiabusters
+  topic: 1980s and 1990s nostalgia gadgets tech and pop culture
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Nostalgiabusters. Phonetic riddles about the gadgets and websites of yesteryear. Away you go."
+  prize: "Email in. Winner gets a Beanie Baby in mint condition and a BT calling card with no credit left."
+  clues:
+    - number: 1
+      initials: N
+      clue: "That web you're fishing with, it's got itself stuck on a cliff edge. Just hanging off the coast."
+      answer: Netscape
+      aliases:
+        - netscape
+        - netscape navigator
+      reasoning: "net (fishing net, web) + scape (cliff, coastal landscape, escape) = Netscape"
+    - number: 2
+      initials: W
+      clue: "He just walks everywhere, that fella. Miles and miles. And he's got a little man in his ear while he does it."
+      answer: Walkman
+      aliases:
+        - walkman
+        - sony walkman
+      reasoning: "walk (walks everywhere, on foot) + man (the little man in his ear, also just a man) = Walkman"
+    - number: 3
+      initials: E
+      clue: "That big reference book they used to have in schools - the one with everything in it - someone's gone and made it electronic. It's on a disc now."
+      answer: Encarta
+      aliases:
+        - encarta
+        - microsoft encarta
+      reasoning: "en (in, inside, electronic) + carta (chart, map, like an encyclopaedia entry) = Encarta"
+
+- id: nostalgiabusters-019
+  enabled: true
+  title: Nostalgiabusters
+  topic: 1980s and 1990s nostalgia gadgets tech and pop culture
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Last few Nostalgiabusters. Think nineties. Think beige computers and screeching modems."
+  prize: "Email in. Winner gets a fax of a birthday card and a bag of ready salted from a multi-pack."
+  clues:
+    - number: 1
+      initials: T
+      clue: "Right, there's a little digital animal and it needs feeding. It's beeping again. Just feed it and be done with it."
+      answer: Tamagotchi
+      aliases:
+        - tamagotchi
+      reasoning: "tama (sounds like timer, the thing that beeps) + gotchi (gotcha, you got it) = Tamagotchi"
+    - number: 2
+      initials: F R
+      clue: "You've tracked down everyone you went to school with. They're all there. Old friends, reunited on a website."
+      answer: Friends Reunited
+      aliases:
+        - friends reunited
+      reasoning: "friends (everyone from school, old mates) + reunited (tracked down, found again, together) = Friends Reunited"
+    - number: 3
+      initials: K
+      clue: "There's a small car and another small car next to it. Two little Ka's, parked up, sharing music files."
+      answer: Kazaa
+      aliases:
+        - kazaa
+      reasoning: "ka (Ford Ka, a small car) + zaa (another one, same sound again) = Kazaa"
+
+- id: nostalgiabusters-020
+  enabled: true
+  title: Nostalgiabusters
+  topic: 1980s and 1990s nostalgia gadgets tech and pop culture
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Final Nostalgiabusters of the session. Three more phonetic clues about things from the era of dial-up and Woolies. Off you go."
+  prize: "Email in. Winner gets an Encarta CD and a laminated certificate saying they won Nostalgiabusters."
+  clues:
+    - number: 1
+      initials: M D
+      clue: "It's the smallest disc you've ever seen. And it's standing there going - I am the minimum viable disc. Right."
+      answer: MiniDisc
+      aliases:
+        - minidisc
+        - mini disc
+      reasoning: "mini (smallest, minimum) + disc (disc, circular thing) = MiniDisc"
+    - number: 2
+      initials: B
+      clue: "Right, there's a bee. It's made a social profile. Added some photos. Listed its interests as flowers and that."
+      answer: Bebo
+      aliases:
+        - bebo
+      reasoning: "be (bee, the insect) + bo (boh, finishing sound) = Bebo. Say it: bee-bo."
+    - number: 3
+      initials: M S
+      clue: "Someone's claimed all the empty room in the universe as their own. All of it. Their space. All that space."
+      answer: MySpace
+      aliases:
+        - myspace
+        - my space
+      reasoning: "my (belonging to someone, claimed as their own) + space (empty room, the universe, all that space) = MySpace"

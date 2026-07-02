@@ -1,0 +1,690 @@
+- id: actorbusters-001
+  enabled: true
+  title: Actorbusters
+  topic: British film and TV actors
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Right, Actorbusters. Rockbusters but it's all British film and TV actors."
+  prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
+  clues:
+    - number: 1
+      initials: H G
+      clue: "That fella's been chopping wood for hours, but then he's said yeah, go on then, you can have it. Nice of him really."
+      answer: Hugh Grant
+      aliases:
+        - hugh grant
+      reasoning: "hew (chopping wood) + grant (giving permission) = Hugh Grant"
+    - number: 2
+      initials: C F
+      clue: "Right, you've rung someone up, and now you're standing at the edge of a Scottish estuary. Why? Don't know."
+      answer: Colin Firth
+      aliases:
+        - colin firth
+      reasoning: "call in (rung someone up) + firth (Scottish estuary/inlet) = Colin Firth"
+    - number: 3
+      initials: J D
+      clue: "Someone's taken the T off a trench and shoved it in a den. Bit of a liberty."
+      answer: Judi Dench
+      aliases:
+        - judi dench
+        - judy dench
+      reasoning: "Judy (name sounds like Judi) + dench (bench with a D, like a den-bench) = Judi Dench"
+
+- id: actorbusters-002
+  enabled: true
+  title: Actorbusters
+  topic: British film and TV actors
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Actorbusters, this one. Three clues, all British actors. Say them out loud."
+  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists."
+  clues:
+    - number: 1
+      initials: H M
+      clue: "Chaos has broken out inside a reflective surface. Complete pandemonium in there."
+      answer: Helen Mirren
+      aliases:
+        - helen mirren
+      reasoning: "hell in (chaos inside) + mirror + n = Helen Mirren"
+    - number: 2
+      initials: E T
+      clue: "There's a woman called Emma, right, and her mate Tom's lad has just turned up. Unexpected visit."
+      answer: Emma Thompson
+      aliases:
+        - emma thompson
+      reasoning: "Emma + Tom's son (Thompson) = Emma Thompson"
+    - number: 3
+      initials: K W
+      clue: "Kate's won. She's actually done it. But they've still gone and let her anyway. Make your mind up."
+      answer: Kate Winslet
+      aliases:
+        - kate winslet
+      reasoning: "Kate wins (Kate's won) + let (allowed) = Kate Winslet"
+
+- id: actorbusters-003
+  enabled: true
+  title: Actorbusters
+  topic: British film and TV actors
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Three clues. All British actors. Don't overthink it."
+  prize: "Email in. Winner gets a DVD copy of The Full Monty and some Value biscuits."
+  clues:
+    - number: 1
+      initials: B C
+      clue: "Right, Benny's gone and dictated something about a cucumber that someone baked in a batch. No idea why."
+      answer: Benedict Cumberbatch
+      aliases:
+        - benedict cumberbatch
+      reasoning: "benny dict (Benny dictated) + cumber (cucumber) + batch (baking batch) = Benedict Cumberbatch"
+    - number: 2
+      initials: T H
+      clue: "There's a bloke called Tom and he's absolutely solid. Won't be pushed around. Tough as anything."
+      answer: Tom Hardy
+      aliases:
+        - tom hardy
+      reasoning: "Tom + hardy (tough/sturdy) = Tom Hardy"
+    - number: 3
+      initials: D C
+      clue: "Dan's got a slippery river creature with him, and there's also a fella called Craig standing nearby. Odd combination."
+      answer: Daniel Craig
+      aliases:
+        - daniel craig
+      reasoning: "Dan + eel (slippery river creature) + Craig = Daniel Craig"
+
+- id: actorbusters-004
+  enabled: true
+  title: Actorbusters
+  topic: British film and TV actors
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Right then. Actorbusters. Could be film, could be telly. All British though."
+  prize: "Email in. Winner gets a printed photo from a disposable camera, framed."
+  clues:
+    - number: 1
+      initials: K K
+      clue: "She's really worried about that nighttime stretch. Particularly the bit in the meadow. Anxious about it."
+      answer: Keira Knightley
+      aliases:
+        - keira knightley
+      reasoning: "care-a (worried about) + night + lee (meadow/clearing) = Keira Knightley"
+    - number: 2
+      initials: M C
+      clue: "That walking stick's mine. Made of coal and everything. Don't touch it."
+      answer: Michael Caine
+      aliases:
+        - michael caine
+      reasoning: "my + coal (fuel) + cane (walking stick) = Michael Caine. Near enough."
+    - number: 3
+      initials: R M
+      clue: "Roger wants another one. He's already had loads but he's standing there going, more please. Cheeky."
+      answer: Roger Moore
+      aliases:
+        - roger moore
+      reasoning: "Roger + more (wants another) = Roger Moore"
+
+- id: actorbusters-005
+  enabled: true
+  title: Actorbusters
+  topic: British film and TV actors
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Actorbusters. Say the clues out loud. You'll get there."
+  prize: "Email in. Winner gets a signed letter from someone off Emmerdale, possibly."
+  clues:
+    - number: 1
+      initials: S C
+      clue: "Right, Sean's gone and pulled a fast one on someone, and now he's just... doing it. Ongoing con."
+      answer: Sean Connery
+      aliases:
+        - sean connery
+      reasoning: "Sean + con + ery (ongoing action) = Sean Connery"
+    - number: 2
+      initials: P S
+      clue: "Peter's flogging stuff to people. All sorts. Bit of a market trader, Peter."
+      answer: Peter Sellers
+      aliases:
+        - peter sellers
+      reasoning: "Peter + sellers (people who sell things) = Peter Sellers"
+    - number: 3
+      initials: A G
+      clue: "There's a fella called Alec and he's just been handed a pint of that dark Irish stuff. Lucky Alec."
+      answer: Alec Guinness
+      aliases:
+        - alec guinness
+      reasoning: "Alec + Guinness (dark Irish stout) = Alec Guinness"
+
+- id: actorbusters-006
+  enabled: true
+  title: Actorbusters
+  topic: British film and TV actors
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "More Actorbusters. Three more British acting legends. Off you go."
+  prize: "Email in. Winner gets a Shrek DVD and a keyring from a service station."
+  clues:
+    - number: 1
+      initials: M S
+      clue: "Maggie's standing at an anvil hammering a bit of metal. She's gone into the trade. Good for her."
+      answer: Maggie Smith
+      aliases:
+        - maggie smith
+      reasoning: "Maggie + smith (blacksmith, metal worker) = Maggie Smith"
+    - number: 2
+      initials: I M
+      clue: "Ian's got an Irish mate called Ellen. They've just turned up together. Bit unexpected."
+      answer: Ian McKellen
+      aliases:
+        - ian mckellen
+      reasoning: "Ian + Mc (Irish prefix) + Ellen = Ian McKellen"
+    - number: 3
+      initials: G O
+      clue: "Gary's absolutely ancient. Really old fella, Gary. Lived a long time, he has."
+      answer: Gary Oldman
+      aliases:
+        - gary oldman
+      reasoning: "Gary + old + man (ancient fella) = Gary Oldman"
+
+- id: actorbusters-007
+  enabled: true
+  title: Actorbusters
+  topic: British film and TV actors
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Right, back to Actorbusters. All British, all famous. Three clues."
+  prize: "Email in. Winner gets a Now That's What I Call Music 47 on cassette."
+  clues:
+    - number: 1
+      initials: R F
+      clue: "There's a bloke called Rafe and he's completely surrounded by demons. Loads of them. Just demons everywhere."
+      answer: Ralph Fiennes
+      aliases:
+        - ralph fiennes
+        - rafe fiennes
+      reasoning: "Rafe (how Ralph Fiennes pronounces his name) + fiends (demons, sounds like Fiennes) = Ralph Fiennes"
+    - number: 2
+      initials: A H
+      clue: "The insect's knee joint is doing a hop. Why the ant's hopping on its knee I don't know, but there it is."
+      answer: Anthony Hopkins
+      aliases:
+        - anthony hopkins
+        - tony hopkins
+      reasoning: "ant + knee (insect's leg joint) + hop + kins = Anthony Hopkins"
+    - number: 3
+      initials: R B
+      clue: "Someone's doing a burn inside what sounds like a shed for cows. It's a bit agricultural."
+      answer: Richard Burton
+      aliases:
+        - richard burton
+      reasoning: "rich (wealthy) + ard + bur + ton... or: Rich heard + Burton (byre + ton, cattle shed + weight). Rich + hard + byre + ton = Richard Burton"
+
+- id: actorbusters-008
+  enabled: true
+  title: Actorbusters
+  topic: British film and TV actors
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Actorbusters. You know how this works. Say it out loud and you'll hear it."
+  prize: "Email in. Winner gets a copy of Titanic on VHS and a Werther's Original."
+  clues:
+    - number: 1
+      initials: P O
+      clue: "Right, Pete's got some oil and he's just sort of... standing there with it. Like a tool."
+      answer: Peter OToole
+      aliases:
+        - peter otoole
+        - peter o'toole
+      reasoning: "Peter + O (the letter) + tool (like a tool) = Peter O'Toole"
+    - number: 2
+      initials: H G
+      clue: "Someone's been properly chopping at that log for ages, and eventually they said alright, you can borrow the axe. Fair enough."
+      answer: Hugh Grant
+      aliases:
+        - hugh grant
+      reasoning: "hew (chopping logs) + grant (permission to borrow) = Hugh Grant"
+    - number: 3
+      initials: J D
+      clue: "There's a lady called Judith but everyone's dropped the last bit of her name. And she's sitting on one of them long wooden seat things. Just sitting there."
+      answer: Judi Dench
+      aliases:
+        - judi dench
+        - judy dench
+      reasoning: "Judi (shortened Judith) + dench (like bench with a D) = Judi Dench"
+
+- id: actorbusters-009
+  enabled: true
+  title: Actorbusters
+  topic: British film and TV actors
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Three more British actors. Actorbusters. Easy one this, probably."
+  prize: "Email in. Winner gets a Cadbury's selection box from February and a pencil."
+  clues:
+    - number: 1
+      initials: C F
+      clue: "You've dialled someone up, haven't you, and now you're at the mouth of a Scottish river. Bit of a trek for a phone call."
+      answer: Colin Firth
+      aliases:
+        - colin firth
+      reasoning: "call in (dialled someone) + firth (Scottish river mouth) = Colin Firth"
+    - number: 2
+      initials: E T
+      clue: "Emma's standing there and Tom's boy has shown up. Nice lad, Tom's lad."
+      answer: Emma Thompson
+      aliases:
+        - emma thompson
+      reasoning: "Emma + Tom's son (Thompson) = Emma Thompson"
+    - number: 3
+      initials: B C
+      clue: "Benny's dictating into a machine, there's a great long cucumber on the table, and he's just pulled a fresh batch of something out of the oven. Mad scene."
+      answer: Benedict Cumberbatch
+      aliases:
+        - benedict cumberbatch
+      reasoning: "benny + dict (dictating) + cumber (cucumber) + batch (oven batch) = Benedict Cumberbatch"
+
+- id: actorbusters-010
+  enabled: true
+  title: Actorbusters
+  topic: British film and TV actors
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Actorbusters, round ten. Still going. All British actors, three clues."
+  prize: "Email in. Winner gets a Greatest Hits of Dido on CD and a novelty pen."
+  clues:
+    - number: 1
+      initials: M C
+      clue: "It's my fuel. That lump of black stuff you burn. And I've made it into a walking aid. Mine. Don't touch."
+      answer: Michael Caine
+      aliases:
+        - michael caine
+      reasoning: "my + coal (black fuel) + cane (walking stick) = Michael Caine"
+    - number: 2
+      initials: K W
+      clue: "She's gone and won the thing. Kate has. Proper won it. But they've let her in anyway. Both at once."
+      answer: Kate Winslet
+      aliases:
+        - kate winslet
+      reasoning: "Kate wins + let (allowed in) = Kate Winslet"
+    - number: 3
+      initials: H M
+      clue: "Hell's broken out inside that mirror on the wall. Chaos in there. Absolute mayhem."
+      answer: Helen Mirren
+      aliases:
+        - helen mirren
+      reasoning: "hell + in (inside) + mirror + n = Helen Mirren"
+
+- id: actorbusters-011
+  enabled: true
+  title: Actorbusters
+  topic: British film and TV actors
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Right, Actorbusters eleven. Three clues. British actors, the lot of them."
+  prize: "Email in. Winner gets a Blockbuster voucher for a shop that closed in 2013."
+  clues:
+    - number: 1
+      initials: T H
+      clue: "Tom's not soft. Not soft at all. He's proper robust, Tom. Like a plant in winter, he is."
+      answer: Tom Hardy
+      aliases:
+        - tom hardy
+      reasoning: "Tom + hardy (robust, like a hardy plant) = Tom Hardy"
+    - number: 2
+      initials: D C
+      clue: "Dan's got one of them long slippery fish, the kind that looks like a snake, and there's a Craig standing next to him. Just Craig."
+      answer: Daniel Craig
+      aliases:
+        - daniel craig
+      reasoning: "Dan + eel (snake-like fish) + Craig = Daniel Craig"
+    - number: 3
+      initials: S C
+      clue: "Sean's run some sort of elaborate deception. A proper con. And he's still doing it. It's ongoing."
+      answer: Sean Connery
+      aliases:
+        - sean connery
+      reasoning: "Sean + con + ery (like he's con-ering, still at it) = Sean Connery"
+
+- id: actorbusters-012
+  enabled: true
+  title: Actorbusters
+  topic: British film and TV actors
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Actorbusters. Say the clue out loud. You'll hear the actor. That's how it works."
+  prize: "Email in. Winner gets a mug with a map of Britain on it and a forgotten loyalty stamp card."
+  clues:
+    - number: 1
+      initials: P S
+      clue: "Peter's at a market. He's got a stall. He's shifting goods. He's a man of commerce, is Peter."
+      answer: Peter Sellers
+      aliases:
+        - peter sellers
+      reasoning: "Peter + sellers (market traders, people who sell) = Peter Sellers"
+    - number: 2
+      initials: A G
+      clue: "Alec's been given a glass of the black stuff. Proper Irish stout. He seems pleased."
+      answer: Alec Guinness
+      aliases:
+        - alec guinness
+      reasoning: "Alec + Guinness (Irish stout) = Alec Guinness"
+    - number: 3
+      initials: R M
+      clue: "That's Roger over there, and he's not satisfied. He wants another go. Or another biscuit. One of the two."
+      answer: Roger Moore
+      aliases:
+        - roger moore
+      reasoning: "Roger + more (wants another) = Roger Moore"
+
+- id: actorbusters-013
+  enabled: true
+  title: Actorbusters
+  topic: British film and TV actors
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Three British acting legends. One's from Wales, probably. All in the clues."
+  prize: "Email in. Winner gets a two-for-one Toby Carvery voucher and a biro."
+  clues:
+    - number: 1
+      initials: I M
+      clue: "Ian's turned up with a bloke called Mick and a woman called Ellen. They're all just stood there. Bit crowded."
+      answer: Ian McKellen
+      aliases:
+        - ian mckellen
+      reasoning: "Ian + Mc (like Mick, Irish) + Ellen = Ian McKellen"
+    - number: 2
+      initials: G O
+      clue: "Right, Gary. He's old. He's a man. That's really all there is to it. Very old man called Gary."
+      answer: Gary Oldman
+      aliases:
+        - gary oldman
+      reasoning: "Gary + old + man = Gary Oldman"
+    - number: 3
+      initials: M S
+      clue: "Dame Maggie's at the forge. She's got the hammer, she's got the anvil, she's shaping hot metal. She's gone full blacksmith."
+      answer: Maggie Smith
+      aliases:
+        - maggie smith
+      reasoning: "Maggie + smith (blacksmith) = Maggie Smith"
+
+- id: actorbusters-014
+  enabled: true
+  title: Actorbusters
+  topic: British film and TV actors
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Actorbusters fourteen. Still more British actors. Three clues as always."
+  prize: "Email in. Winner gets a copy of Love Actually on DVD and a Quality Street tin."
+  clues:
+    - number: 1
+      initials: R F
+      clue: "Rafe's in a spot of bother. He's completely surrounded by what you'd call demons. Loads of them. Circle of demons."
+      answer: Ralph Fiennes
+      aliases:
+        - ralph fiennes
+        - rafe fiennes
+      reasoning: "Rafe (Ralph Fiennes pronounces his name Rafe) + fiends (demons, sounds like Fiennes) = Ralph Fiennes"
+    - number: 2
+      initials: A H
+      clue: "The tiny insect's leg joint is bouncing up and down. It's having a hop, the knee of an ant. Weird to watch."
+      answer: Anthony Hopkins
+      aliases:
+        - anthony hopkins
+        - tony hopkins
+      reasoning: "ant + knee + hop + kins = Anthony Hopkins"
+    - number: 3
+      initials: K K
+      clue: "She's quite anxious about this evening, right, especially the bit in the field. Very worried about the night in the meadow."
+      answer: Keira Knightley
+      aliases:
+        - keira knightley
+      reasoning: "care-a (anxious about) + night + lea/lee (meadow) = Keira Knightley"
+
+- id: actorbusters-015
+  enabled: true
+  title: Actorbusters
+  topic: British film and TV actors
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Actorbusters. British actors, three clues. You know what to do."
+  prize: "Email in. Winner gets a Walls Viennetta and a printed map from 2004."
+  clues:
+    - number: 1
+      initials: H G
+      clue: "Right, someone's been at that tree trunk with an axe, and when they were done they went, yeah alright, you can have it. Generous."
+      answer: Hugh Grant
+      aliases:
+        - hugh grant
+      reasoning: "hew (chopping with an axe) + grant (giving it away) = Hugh Grant"
+    - number: 2
+      initials: P O
+      clue: "There's a bloke called Pete and he's got a small amount of that cooking liquid, and he's come in looking useful. Like an implement."
+      answer: Peter OToole
+      aliases:
+        - peter otoole
+        - peter o'toole
+      reasoning: "Peter + O (a small amount) + tool (useful implement) = Peter O'Toole"
+    - number: 3
+      initials: R B
+      clue: "Rich bloke from Wales, right, and there's a town nearby. Small town. He's staring at it like it means something."
+      answer: Richard Burton
+      aliases:
+        - richard burton
+      reasoning: "Rich + ard + Bur + ton (Burton is a town suffix, Rich-ard Bur-ton) = Richard Burton"
+
+- id: actorbusters-016
+  enabled: true
+  title: Actorbusters
+  topic: British film and TV actors
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Right then, more Actorbusters. Three clues, say them out loud, hear the actor."
+  prize: "Email in. Winner gets a Robbie Williams Greatest Hits CD and a pack of Hobnobs."
+  clues:
+    - number: 1
+      initials: C F
+      clue: "Someone's dialled a number, got through, and now they're standing in the tidal mouth of a Scottish river. Cold day for it."
+      answer: Colin Firth
+      aliases:
+        - colin firth
+      reasoning: "call in (dialled and got through) + firth (tidal Scottish river mouth) = Colin Firth"
+    - number: 2
+      initials: J D
+      clue: "There's a Judith, right, but she's dropped the ith. She's just Judi now. And she's found herself in a sort of dark corner of a room."
+      answer: Judi Dench
+      aliases:
+        - judi dench
+        - judy dench
+      reasoning: "Judi + den (dark corner/room) + ch = Judi Dench"
+    - number: 3
+      initials: H M
+      clue: "All that chaos and noise has got itself inside a looking glass somehow. You look in the mirror and it's just hell in there."
+      answer: Helen Mirren
+      aliases:
+        - helen mirren
+      reasoning: "hell + in + mirror + n = Helen Mirren"
+
+- id: actorbusters-017
+  enabled: true
+  title: Actorbusters
+  topic: British film and TV actors
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Actorbusters seventeen. Nearly there. Three British actors hidden in the clues."
+  prize: "Email in. Winner gets a set of novelty coasters and a Tiger token."
+  clues:
+    - number: 1
+      initials: T H
+      clue: "That plant in the garden, the one that survives frost, it's also got a bloke called Tom's name on it somehow. Resilient plant, is Tom."
+      answer: Tom Hardy
+      aliases:
+        - tom hardy
+      reasoning: "Tom + hardy (frost-resistant plant, very tough) = Tom Hardy"
+    - number: 2
+      initials: M C
+      clue: "Right, I've carved a walking stick out of coal. That black fuel stuff. It's mine, this stick. My coal walking aid."
+      answer: Michael Caine
+      aliases:
+        - michael caine
+      reasoning: "my + coal + cane (walking stick) = Michael Caine"
+    - number: 3
+      initials: E T
+      clue: "Emma's at the door and Tom's lad is right behind her. Come in, both of you."
+      answer: Emma Thompson
+      aliases:
+        - emma thompson
+      reasoning: "Emma + Thompson (Tom's son) = Emma Thompson"
+
+- id: actorbusters-018
+  enabled: true
+  title: Actorbusters
+  topic: British film and TV actors
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Last few Actorbusters now. British actors, three clues each. You've got this."
+  prize: "Email in. Winner gets a keyring from Alton Towers and a slightly melted Twix."
+  clues:
+    - number: 1
+      initials: S C
+      clue: "Sean's running some sort of long con on someone. He's been at it for a while now. Persistent."
+      answer: Sean Connery
+      aliases:
+        - sean connery
+      reasoning: "Sean + con (long deception) + ery (ongoing, like he's connering) = Sean Connery"
+    - number: 2
+      initials: D C
+      clue: "Dan's holding one of them slithery river fish, the long bendy ones, and Craig's just standing there watching. Neither of them saying anything."
+      answer: Daniel Craig
+      aliases:
+        - daniel craig
+      reasoning: "Dan + eel (long slithery river fish) + Craig = Daniel Craig"
+    - number: 3
+      initials: K K
+      clue: "This lass is really concerned about that evening, particularly the grassy bit at the end. Very worried about a night in a clearing."
+      answer: Keira Knightley
+      aliases:
+        - keira knightley
+      reasoning: "care-a + night + lee (grassy clearing) = Keira Knightley"
+
+- id: actorbusters-019
+  enabled: true
+  title: Actorbusters
+  topic: British film and TV actors
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Penultimate Actorbusters. Three clues. British acting royalty, all of them."
+  prize: "Email in. Winner gets a copy of Four Weddings on DVD and a packet of Rich Tea."
+  clues:
+    - number: 1
+      initials: R F
+      clue: "Poor old Rafe. He's completely hemmed in by these demons. Absolute mob of them around him. No way out."
+      answer: Ralph Fiennes
+      aliases:
+        - ralph fiennes
+        - rafe fiennes
+      reasoning: "Rafe + fiends (demons surrounding him, sounds like Fiennes) = Ralph Fiennes"
+    - number: 2
+      initials: I M
+      clue: "Ian's brought his Irish pal Mick and a woman called Ellen to the party. All three of them just arrived."
+      answer: Ian McKellen
+      aliases:
+        - ian mckellen
+      reasoning: "Ian + Mc (like Mick) + Ellen = Ian McKellen"
+    - number: 3
+      initials: A H
+      clue: "The ant's got a knee and it's doing a little hop on it. The knee of the ant. Hopping away. Kins."
+      answer: Anthony Hopkins
+      aliases:
+        - anthony hopkins
+        - tony hopkins
+      reasoning: "ant + knee + hop + kins = Anthony Hopkins"
+
+- id: actorbusters-020
+  enabled: true
+  title: Actorbusters
+  topic: British film and TV actors
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Final Actorbusters. Three last clues. See how many you got over the whole run."
+  prize: "Email in. Winner gets a Nando's loyalty card with one stamp on it and a Freddo."
+  clues:
+    - number: 1
+      initials: G O
+      clue: "There's a Gary. And he's old. And he's a man. That's the whole thing, that is. Old man Gary."
+      answer: Gary Oldman
+      aliases:
+        - gary oldman
+      reasoning: "Gary + old + man = Gary Oldman"
+    - number: 2
+      initials: M S
+      clue: "Maggie's set up a smithy. Hammer, anvil, the lot. She's making horseshoes. Dame Maggie the blacksmith."
+      answer: Maggie Smith
+      aliases:
+        - maggie smith
+      reasoning: "Maggie + smith (blacksmith, works metal) = Maggie Smith"
+    - number: 3
+      initials: P S
+      clue: "Peter's gone into retail. He's got things and he's shifting them. He's one of them people what sells stuff."
+      answer: Peter Sellers
+      aliases:
+        - peter sellers
+      reasoning: "Peter + sellers (people who sell things) = Peter Sellers"

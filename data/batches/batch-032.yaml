@@ -1,0 +1,703 @@
+- id: foodbusters-021
+  enabled: true
+  title: Sweetbusters
+  topic: puddings desserts and sweet dishes
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Sweetbusters. Rockbusters but every answer is a pudding or dessert. Say them out loud and see if you can taste it."
+  prize: "Email in. Winner gets a Mr Kipling box with one cake left in it and a novelty spoon."
+  clues:
+    - number: 1
+      initials: S T P
+      clue: "Right, something's covered in that brown gooey stuff you get on a bonfire toffee apple, and it's been shoved in a bowl. Sticky business."
+      answer: Sticky Toffee Pudding
+      aliases:
+        - sticky toffee pudding
+      reasoning: "sticky (covered in gooey stuff) + toffee (brown sweet stuff) + pudding (shoved in a bowl) = Sticky Toffee Pudding"
+    - number: 2
+      initials: E M
+      clue: "That posh school lad has made a right pig's ear of things. Everything's all over the place."
+      answer: Eton Mess
+      aliases:
+        - eton mess
+      reasoning: "Eton (posh school) + mess (pig's ear, all over the place) = Eton Mess"
+    - number: 3
+      initials: P
+      clue: "Someone from Eastern Europe, right, they've gone and built a beach out of meringue and cream. Don't ask why."
+      answer: Pavlova
+      aliases:
+        - pavlova
+      reasoning: "Pavlova (sounds like a Russian surname, meringue dessert) - pav + lover, near enough when said aloud = Pavlova"
+
+- id: foodbusters-022
+  enabled: true
+  title: Sweetbusters
+  topic: puddings desserts and sweet dishes
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Alright, Sweetbusters. Three pudding clues. Don't overthink it, just say them out loud."
+  prize: "Email in. Winner gets a Cadbury's Roses tin from 1997 and a rubber spatula."
+  clues:
+    - number: 1
+      initials: P
+      clue: "Them little round buns, they've got cream stuffed inside them and chocolate on top. Say it out loud - it sounds like a bloke rolling around."
+      answer: Profiteroles
+      aliases:
+        - profiteroles
+      reasoning: "pro + fit + er + roles - sounds like profiteroles when you say it quickly = Profiteroles"
+    - number: 2
+      initials: C F
+      clue: "Right, that brown stuff people are obsessed with, and it's sunk in the middle like it's gone all soft and gooey. Near enough."
+      answer: Chocolate Fondant
+      aliases:
+        - chocolate fondant
+        - chocolate lava cake
+      reasoning: "chocolate (brown stuff) + fondant (sounds like fond of it, or fond + ant) = Chocolate Fondant"
+    - number: 3
+      initials: T
+      clue: "Some Italian fella, he's exhausted. He needs picking up. Cup of something strong wouldn't go amiss."
+      answer: Tiramisu
+      aliases:
+        - tiramisu
+        - tiramisù
+      reasoning: "tiramisu means pick me up in Italian - tira (pull) + mi (me) + su (up) = Tiramisu"
+
+- id: foodbusters-023
+  enabled: true
+  title: Sweetbusters
+  topic: puddings desserts and sweet dishes
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Sweetbusters time. All puddings and desserts. Three clues, say each one out loud, the answer's in the sounds."
+  prize: "Email in. Winner gets a Jamie Oliver desserts book from a charity shop and a fondue set, no forks."
+  clues:
+    - number: 1
+      initials: C B
+      clue: "Right, there's this French bloke, and he's got a blowtorch, and he's cremating the top of his custard. That's his business, leave him to it."
+      answer: Creme Brulee
+      aliases:
+        - creme brulee
+        - crème brûlée
+      reasoning: "creme (cream, custard) + brulee (sounds like broo-lay, burnt) = Creme Brulee"
+    - number: 2
+      initials: R P
+      clue: "That grain stuff they boil up in milk - it's gone all wobbly and it's sitting in a dish looking sorry for itself. Bit sad."
+      answer: Rice Pudding
+      aliases:
+        - rice pudding
+      reasoning: "rice (grain boiled in milk) + pudding (wobbly dish) = Rice Pudding"
+    - number: 3
+      initials: J R P
+      clue: "Some fruity red stuff, right, it's been wrapped up in pastry and rolled about like it doesn't care. Sort of tumbling along."
+      answer: Jam Roly Poly
+      aliases:
+        - jam roly poly
+        - jam roly-poly
+      reasoning: "jam (fruity red stuff) + roly poly (rolled about, tumbling) = Jam Roly Poly"
+
+- id: foodbusters-024
+  enabled: true
+  title: Sweetbusters
+  topic: puddings desserts and sweet dishes
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Here we go then. Sweetbusters. Puddings and desserts only. Email your answer in when you've got it."
+  prize: "Email in. Winner gets a Wall's Viennetta wrapper, empty, and a commemorative dessert spoon."
+  clues:
+    - number: 1
+      initials: T T
+      clue: "Right, that dark sticky stuff they put on parkin - someone's baked it into a flat pastry case. Literary, that."
+      answer: Treacle Tart
+      aliases:
+        - treacle tart
+      reasoning: "treacle (dark sticky stuff on parkin) + tart (flat pastry case) = Treacle Tart"
+    - number: 2
+      initials: R C
+      clue: "That long pink stalk thing from the garden, it's gone all crispy on top. Like someone's put a crust on it and walked away."
+      answer: Rhubarb Crumble
+      aliases:
+        - rhubarb crumble
+      reasoning: "rhubarb (long pink garden stalk) + crumble (crispy topping) = Rhubarb Crumble"
+    - number: 3
+      initials: A P
+      clue: "Something spherical from a tree, right, it's been cooked and wrapped in pastry. Grandma territory, this one."
+      answer: Apple Pie
+      aliases:
+        - apple pie
+      reasoning: "apple (spherical fruit from a tree) + pie (cooked in pastry) = Apple Pie"
+
+- id: foodbusters-025
+  enabled: true
+  title: Sweetbusters
+  topic: puddings desserts and sweet dishes
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Sweetbusters. Right. Puddings. Three of them. Say the clue out loud and the answer just sort of falls out."
+  prize: "Email in. Winner gets a bread and butter pudding recipe from a 2003 Good Food magazine and a pot of double cream."
+  clues:
+    - number: 1
+      initials: B P
+      clue: "Right, there's some stale loaf stuff, yeah, and someone's gone and made a pudding out of it instead of binning it. Thrifty."
+      answer: Bread Pudding
+      aliases:
+        - bread pudding
+        - bread and butter pudding
+      reasoning: "bread (stale loaf stuff) + pudding (made a dessert out of it) = Bread Pudding"
+    - number: 2
+      initials: S P
+      clue: "All them warm weather fruits, right - the raspberries and that - they've been pushed into a loaf tin lined with white sliced. It's a seasonal thing."
+      answer: Summer Pudding
+      aliases:
+        - summer pudding
+      reasoning: "summer (warm weather, seasonal berries) + pudding (set in a bread-lined mould) = Summer Pudding"
+    - number: 3
+      initials: T
+      clue: "Layers and layers of stuff. Custard, fruit, cream, sponge. Nobody can agree what goes in it. That's all it is, really."
+      answer: Trifle
+      aliases:
+        - trifle
+      reasoning: "trifle (sounds like try + full, or trivial thing) - the word means something minor, yet it's enormous = Trifle"
+
+- id: foodbusters-026
+  enabled: true
+  title: Sweetbusters
+  topic: puddings desserts and sweet dishes
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Sweetbusters. All desserts. Three phonetic clues. Easy one to start."
+  prize: "Email in. Winner gets a Yellow Pages from 2004 and a tub of squirty cream, probably past its date."
+  clues:
+    - number: 1
+      initials: C
+      clue: "Right, that cake thing with the cream cheese on top that doesn't get baked properly. Lives in the fridge. Americans are obsessed."
+      answer: Cheesecake
+      aliases:
+        - cheesecake
+      reasoning: "cheese (cream cheese) + cake (cake thing) = Cheesecake"
+    - number: 2
+      initials: B P
+      clue: "That yellow fruit - the long bendy one - and the stuff you get from Jersey cows. Someone's mashed them into a pie. Why not."
+      answer: Banoffee Pie
+      aliases:
+        - banoffee pie
+        - banoffi pie
+      reasoning: "ban + off + ee + pie - banana + toffee + pie when said fast = Banoffee Pie"
+    - number: 3
+      initials: K L P
+      clue: "Some American state, right, shaped like a boot, and there's a small sharp citrus fruit involved. It's in a pastry case. Sort of."
+      answer: Key Lime Pie
+      aliases:
+        - key lime pie
+      reasoning: "Key (Florida Keys) + lime (small sharp citrus) + pie (pastry case) = Key Lime Pie"
+
+- id: foodbusters-027
+  enabled: true
+  title: Sweetbusters
+  topic: puddings desserts and sweet dishes
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Alright, Sweetbusters. Puddings and sweets, the lot of them. Don't overthink the clues."
+  prize: "Email in. Winner gets a novelty ice cream scoop shaped like a penguin and a out-of-date Angel Delight sachet."
+  clues:
+    - number: 1
+      initials: L M P
+      clue: "Right, that sharp yellow fruit, and there's a woman called Mary who's got fluffy white hair, and it's all in a pastry case. Bit of a scene."
+      answer: Lemon Meringue Pie
+      aliases:
+        - lemon meringue pie
+      reasoning: "lemon (sharp yellow fruit) + meringue (sounds like Mary + ung, fluffy white topping) + pie (pastry case) = Lemon Meringue Pie"
+    - number: 2
+      initials: B F G
+      clue: "Dark berries from a forest, some kind of German bloke's baked them into a layered cake. He's very proud of it."
+      answer: Black Forest Gateau
+      aliases:
+        - black forest gateau
+        - black forest cake
+        - black forest gâteau
+      reasoning: "black forest (dark berries, forest) + gateau (French/German layered cake) = Black Forest Gateau"
+    - number: 3
+      initials: S T P
+      clue: "That sweet brown stuff they pour over ice cream at a fairground - it's all over some kind of baked thing in a dish. Proper indulgent."
+      answer: Sticky Toffee Pudding
+      aliases:
+        - sticky toffee pudding
+      reasoning: "sticky (poured over, clings) + toffee (sweet brown fairground stuff) + pudding (baked dish) = Sticky Toffee Pudding"
+
+- id: foodbusters-028
+  enabled: true
+  title: Sweetbusters
+  topic: puddings desserts and sweet dishes
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Sweetbusters is back. All puddings this time. Say each clue out loud and hear the answer."
+  prize: "Email in. Winner gets a ceramic ramekin with a chip in it and a loyalty card for a Harvester."
+  clues:
+    - number: 1
+      initials: E M
+      clue: "There's a load of posh students, right, and one of them's dropped everything. Cream, strawberries - all over the floor. Could've been tidier."
+      answer: Eton Mess
+      aliases:
+        - eton mess
+      reasoning: "Eton (posh students, public school) + mess (dropped everything, all over the floor) = Eton Mess"
+    - number: 2
+      initials: P
+      clue: "Some lady called Anna, she was a dancer apparently, and someone's built a dessert in her honour. All white and fluffy. She'd have liked that."
+      answer: Pavlova
+      aliases:
+        - pavlova
+      reasoning: "Pavlova (named after Russian ballerina Anna Pavlova) - pav + lova when said = Pavlova"
+    - number: 3
+      initials: T
+      clue: "Loads of things piled up on top of each other. Cream, jelly, bits of sponge. Three layers minimum. It's a commitment."
+      answer: Trifle
+      aliases:
+        - trifle
+      reasoning: "trifle (try + ful, three + layers implied) = Trifle"
+
+- id: foodbusters-029
+  enabled: true
+  title: Sweetbusters
+  topic: puddings desserts and sweet dishes
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Right then. Three pudding clues. Sweetbusters. Get them all and email in."
+  prize: "Email in. Winner gets a Delia Smith cookery cassette tape and a set of greaseproof paper squares."
+  clues:
+    - number: 1
+      initials: C B
+      clue: "That French bit of burnt skin on top of a custard. Someone's had a go at it with a little torch. It's satisfying to crack, apparently."
+      answer: Creme Brulee
+      aliases:
+        - creme brulee
+        - crème brûlée
+      reasoning: "creme (custard cream) + brulee (sounds like broo-lay, to burn) = Creme Brulee"
+    - number: 2
+      initials: R C
+      clue: "That tart pink stuff from allotments, and it's got a crumbly topping. Needs a lot of sugar. Don't eat it raw."
+      answer: Rhubarb Crumble
+      aliases:
+        - rhubarb crumble
+      reasoning: "rhubarb (tart pink allotment stuff) + crumble (crumbly topping) = Rhubarb Crumble"
+    - number: 3
+      initials: B P
+      clue: "Some yellow fruit's gone and teamed up with caramel in a pastry case. Very 1980s. Very popular at dinner parties."
+      answer: Banoffee Pie
+      aliases:
+        - banoffee pie
+        - banoffi pie
+      reasoning: "banana (yellow fruit) + toffee (caramel-type stuff) + pie (pastry case) = Banoffee Pie"
+
+- id: foodbusters-030
+  enabled: true
+  title: Sweetbusters
+  topic: puddings desserts and sweet dishes
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Sweetbusters. Rockbusters but it's all about the pudding course. You'll know these."
+  prize: "Email in. Winner gets a fondue set with one working fork and a 1990s dessert wine from somewhere in France."
+  clues:
+    - number: 1
+      initials: A P
+      clue: "That round fruit from a tree, the one that's either too soft or not ripe enough - it's been baked under pastry with cinnamon. Classic."
+      answer: Apple Pie
+      aliases:
+        - apple pie
+      reasoning: "apple (round fruit, never right temperature) + pie (baked under pastry) = Apple Pie"
+    - number: 2
+      initials: C
+      clue: "That soft white stuff that's not quite cheese and not quite cake - someone's put biscuits underneath it. You know the one."
+      answer: Cheesecake
+      aliases:
+        - cheesecake
+      reasoning: "cheese (soft white stuff, cream cheese) + cake (on a biscuit base) = Cheesecake"
+    - number: 3
+      initials: T T
+      clue: "Right, that dark brown syrup that comes out of a tin. It's in a pastry shell. That's the whole thing. Simple."
+      answer: Treacle Tart
+      aliases:
+        - treacle tart
+      reasoning: "treacle (dark syrup from a tin) + tart (pastry shell) = Treacle Tart"
+
+- id: foodbusters-031
+  enabled: true
+  title: Sweetbusters
+  topic: puddings desserts and sweet dishes
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Sweetbusters. Say these out loud and the pudding reveals itself. That's the game."
+  prize: "Email in. Winner gets a recipe card for spotted dick and a tin of Bird's custard powder, opened."
+  clues:
+    - number: 1
+      initials: R P
+      clue: "That white grain you put in curry - someone's gone and boiled it in milk instead and served it cold. Different approach."
+      answer: Rice Pudding
+      aliases:
+        - rice pudding
+      reasoning: "rice (white grain, usually in curry) + pudding (boiled in milk, served sweet) = Rice Pudding"
+    - number: 2
+      initials: J R P
+      clue: "There's some preserve in a jar, right, and it's doing somersaults. Going round and round. Like it can't stop."
+      answer: Jam Roly Poly
+      aliases:
+        - jam roly poly
+        - jam roly-poly
+      reasoning: "jam (preserve in a jar) + roly poly (doing somersaults, rolling round) = Jam Roly Poly"
+    - number: 3
+      initials: S P
+      clue: "All them July berries - raspberries, redcurrants, that lot - they've been pushed into a bread case and left overnight. Seasonal, that."
+      answer: Summer Pudding
+      aliases:
+        - summer pudding
+      reasoning: "summer (July berries, seasonal) + pudding (bread case, left overnight) = Summer Pudding"
+
+- id: foodbusters-032
+  enabled: true
+  title: Sweetbusters
+  topic: puddings desserts and sweet dishes
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Alright, Sweetbusters. Three desserts hidden in these here phonetic clues. Get cracking."
+  prize: "Email in. Winner gets a ceramic fruit bowl in the shape of a pineapple and a Harveys Bristol Cream miniature."
+  clues:
+    - number: 1
+      initials: P
+      clue: "Right, them little choux buns. They're tiny. They're round. Chocolate's drizzled on top and there's whipped stuff inside. Fancy."
+      answer: Profiteroles
+      aliases:
+        - profiteroles
+      reasoning: "profiteroles - pro + fit + er + roles, tiny choux buns with cream and chocolate = Profiteroles"
+    - number: 2
+      initials: L M P
+      clue: "That sour yellow thing, and then there's this great big fluffy white mountain sitting on top of a pastry base. Bit dramatic."
+      answer: Lemon Meringue Pie
+      aliases:
+        - lemon meringue pie
+      reasoning: "lemon (sour yellow fruit) + meringue (fluffy white mountain) + pie (pastry base) = Lemon Meringue Pie"
+    - number: 3
+      initials: K L P
+      clue: "Some Florida islands, right, and there's a small green citrus fruit involved, and it's all in a pastry case. American classic."
+      answer: Key Lime Pie
+      aliases:
+        - key lime pie
+      reasoning: "Key (Florida Keys) + lime (small green citrus) + pie (pastry case) = Key Lime Pie"
+
+- id: foodbusters-033
+  enabled: true
+  title: Sweetbusters
+  topic: puddings desserts and sweet dishes
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Sweetbusters. Right. Puddings from Britain and America. Three clues, one each. Say them out loud."
+  prize: "Email in. Winner gets a Fray Bentos tin and a piping bag with a blocked nozzle."
+  clues:
+    - number: 1
+      initials: T
+      clue: "There's something you put in a cup and it wakes you up, right, and someone's layered it into a dessert with sponge fingers and mascarpone. Italian job."
+      answer: Tiramisu
+      aliases:
+        - tiramisu
+        - tiramisù
+      reasoning: "tira (pull) + mi (me) + su (up) - means pick me up, coffee dessert = Tiramisu"
+    - number: 2
+      initials: C F
+      clue: "That brown stuff they make into Easter eggs - someone's baked it and left the middle all runny on purpose. Taken a risk, that."
+      answer: Chocolate Fondant
+      aliases:
+        - chocolate fondant
+        - chocolate lava cake
+      reasoning: "chocolate (Easter egg stuff) + fondant (soft runny centre, fond of it) = Chocolate Fondant"
+    - number: 3
+      initials: B F G
+      clue: "Right, them dark berries you get in German forests, and there's a tall layered cake with cream everywhere. Took someone all day to make."
+      answer: Black Forest Gateau
+      aliases:
+        - black forest gateau
+        - black forest gâteau
+        - black forest cake
+      reasoning: "black forest (dark berries, German woodland) + gateau (tall layered cake) = Black Forest Gateau"
+
+- id: foodbusters-034
+  enabled: true
+  title: Sweetbusters
+  topic: puddings desserts and sweet dishes
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Three pudding clues. Sweetbusters. You probably know all of these. Email in if you get them."
+  prize: "Email in. Winner gets a tin of Roses chocolates with only the orange creams left in it."
+  clues:
+    - number: 1
+      initials: B P
+      clue: "Some stale loaf, right, it's not been binned - it's been soaked in milk and eggs and baked with sultanas. Economy pudding."
+      answer: Bread Pudding
+      aliases:
+        - bread pudding
+        - bread and butter pudding
+      reasoning: "bread (stale loaf) + pudding (soaked, baked, not binned) = Bread Pudding"
+    - number: 2
+      initials: E M
+      clue: "That college where they wear tails and top hats - one of the lads has dropped his dessert. It's everywhere. Bit embarrassing."
+      answer: Eton Mess
+      aliases:
+        - eton mess
+      reasoning: "Eton (tails and top hats, posh college) + mess (dropped dessert, everywhere) = Eton Mess"
+    - number: 3
+      initials: S T P
+      clue: "Right, that caramel stuff that goes hard - it's all over a sponge and there's a sauce and all. Proper northern pudding."
+      answer: Sticky Toffee Pudding
+      aliases:
+        - sticky toffee pudding
+      reasoning: "sticky (caramel, clings) + toffee (goes hard, fairground sweet) + pudding (sponge with sauce) = Sticky Toffee Pudding"
+
+- id: foodbusters-035
+  enabled: true
+  title: Sweetbusters
+  topic: puddings desserts and sweet dishes
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Sweetbusters. Right. Three clues in the Rockbusters style. All sweet things."
+  prize: "Email in. Winner gets a Kenwood mixer that only works on one speed and a vanilla pod from 2009."
+  clues:
+    - number: 1
+      initials: A P
+      clue: "Them green or red spherical things from an orchard - they've been peeled and cooked under pastry with some sugar and cinnamon. Old fashioned."
+      answer: Apple Pie
+      aliases:
+        - apple pie
+      reasoning: "apple (orchard fruit, green or red) + pie (cooked under pastry) = Apple Pie"
+    - number: 2
+      initials: P
+      clue: "Right, there's a Russian ballet dancer - she's done this incredible light fluffy thing on stage, and someone's named a meringue cake after her. Bit of a tribute."
+      answer: Pavlova
+      aliases:
+        - pavlova
+      reasoning: "Pavlova (Anna Pavlova, ballet dancer) - the meringue dessert is named after her = Pavlova"
+    - number: 3
+      initials: C B
+      clue: "That creamy custard thing, right, and there's a layer of sugar on top that's been burnt with a little torch. You tap it with a spoon. That bit's the best."
+      answer: Creme Brulee
+      aliases:
+        - creme brulee
+        - crème brûlée
+      reasoning: "creme (creamy custard) + brulee (burnt sugar top, from French bruler, to burn) = Creme Brulee"
+
+- id: foodbusters-036
+  enabled: true
+  title: Sweetbusters
+  topic: puddings desserts and sweet dishes
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Sweetbusters. All about puddings. Three clues - sound each one out and the dessert reveals itself."
+  prize: "Email in. Winner gets a dessert trolley wheeled over to your desk and a laminated pudding menu from a Beefeater."
+  clues:
+    - number: 1
+      initials: R P
+      clue: "They serve this in schools and everyone moans about it. White and wobbly in a bowl. Put some jam on it if you like."
+      answer: Rice Pudding
+      aliases:
+        - rice pudding
+      reasoning: "rice (white grain) + pudding (wobbly in a bowl, school dinner staple) = Rice Pudding"
+    - number: 2
+      initials: C
+      clue: "That New York thing they do with cream cheese and biscuit. Someone's built it in a tin and put a topping on. Simple really."
+      answer: Cheesecake
+      aliases:
+        - cheesecake
+      reasoning: "cheese (cream cheese base) + cake (built in a tin, sweet thing) = Cheesecake"
+    - number: 3
+      initials: T T
+      clue: "Right, it's got that black syrup in it. Treacle. And it's in a short pastry shell. Harry Potter's favourite apparently."
+      answer: Treacle Tart
+      aliases:
+        - treacle tart
+      reasoning: "treacle (black syrup) + tart (short pastry shell) = Treacle Tart"
+
+- id: foodbusters-037
+  enabled: true
+  title: Sweetbusters
+  topic: puddings desserts and sweet dishes
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Sweetbusters. Right then. Three dessert clues. Have a go."
+  prize: "Email in. Winner gets a retro ice cream sundae glass and a bottle of Nesquik that's gone a bit solid."
+  clues:
+    - number: 1
+      initials: T
+      clue: "You know that Italian coffee you make strong in a little pot - it's been poured over sponge fingers and mascarpone has been involved. Very continental."
+      answer: Tiramisu
+      aliases:
+        - tiramisu
+        - tiramisù
+      reasoning: "tiramisu (espresso-soaked sponge with mascarpone) = Tiramisu, means pick-me-up"
+    - number: 2
+      initials: B F G
+      clue: "Some forest in Germany, really dark and full of trees. A cake's been built there - cherries everywhere, cream on top, chocolate shavings all over it."
+      answer: Black Forest Gateau
+      aliases:
+        - black forest gateau
+        - black forest gâteau
+        - black forest cake
+      reasoning: "black forest (dark German woodland) + gateau (fancy layered cake) = Black Forest Gateau"
+    - number: 3
+      initials: J R P
+      clue: "Right, that conserve stuff in a little jar with a paper lid. It's been rolled up in pastry and it's spinning. Sort of bouncy."
+      answer: Jam Roly Poly
+      aliases:
+        - jam roly poly
+        - jam roly-poly
+      reasoning: "jam (conserve in a jar) + roly poly (rolled up, spinning, bouncy) = Jam Roly Poly"
+
+- id: foodbusters-038
+  enabled: true
+  title: Sweetbusters
+  topic: puddings desserts and sweet dishes
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Sweetbusters. All puddings and desserts today. Say these out loud - that's the trick."
+  prize: "Email in. Winner gets a boxed set of Nigella Lawson dessert episodes recorded off the telly on a VHS."
+  clues:
+    - number: 1
+      initials: L M P
+      clue: "Sharp citrus fruit, right - that yellow one - and someone's built this great white fluffy tower on top of a pastry base. It's a bit much. Bit showy."
+      answer: Lemon Meringue Pie
+      aliases:
+        - lemon meringue pie
+      reasoning: "lemon (sharp yellow citrus) + meringue (white fluffy tower) + pie (pastry base) = Lemon Meringue Pie"
+    - number: 2
+      initials: K L P
+      clue: "Them islands off the bottom of Florida, right, and there's a green sharp fruit involved. It's been turned into a pie. American thing."
+      answer: Key Lime Pie
+      aliases:
+        - key lime pie
+      reasoning: "Key (Florida Keys, islands) + lime (green sharp fruit) + pie (turned into a pie) = Key Lime Pie"
+    - number: 3
+      initials: B P
+      clue: "That fruit you slip on in cartoons - the yellow bendy one - and it's been mixed with toffee somehow and put in pastry. Sounds wrong but tastes right."
+      answer: Banoffee Pie
+      aliases:
+        - banoffee pie
+        - banoffi pie
+      reasoning: "banana (yellow bendy cartoon fruit) + toffee (mixed in) + pie (in pastry) = Banoffee Pie"
+
+- id: foodbusters-039
+  enabled: true
+  title: Sweetbusters
+  topic: puddings desserts and sweet dishes
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Right, last Sweetbusters before the break. Three more desserts. You should be good at this by now."
+  prize: "Email in. Winner gets a vintage Oxo tin repurposed as a biscuit barrel and three digestives in a sandwich bag."
+  clues:
+    - number: 1
+      initials: S P
+      clue: "All them summer berries - the ones you get in July - they've been pressed into a mould lined with white bread. Sounds odd. Looks incredible."
+      answer: Summer Pudding
+      aliases:
+        - summer pudding
+      reasoning: "summer (July berries, summer fruits) + pudding (pressed into bread-lined mould) = Summer Pudding"
+    - number: 2
+      initials: R C
+      clue: "That long pink garden stalk that needs loads of sugar - it's been topped with a crumbly oat thing and baked. School dinner classic."
+      answer: Rhubarb Crumble
+      aliases:
+        - rhubarb crumble
+      reasoning: "rhubarb (tart pink garden stalk) + crumble (crumbly oat topping, baked) = Rhubarb Crumble"
+    - number: 3
+      initials: C F
+      clue: "Right, that dark brown stuff you melt for Easter eggs. Someone's baked it but left the middle all gooey. On purpose. Restaurant thing."
+      answer: Chocolate Fondant
+      aliases:
+        - chocolate fondant
+        - chocolate lava cake
+      reasoning: "chocolate (dark brown melting stuff) + fondant (gooey middle, from French fondre, to melt) = Chocolate Fondant"
+
+- id: foodbusters-040
+  enabled: true
+  title: Sweetbusters
+  topic: puddings desserts and sweet dishes
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Final Sweetbusters of the set. Three dessert clues. Good luck."
+  prize: "Email in. Winner gets a cracked ramekin, a blowtorch with no gas left, and the moral victory of knowing the answer."
+  clues:
+    - number: 1
+      initials: B P
+      clue: "Old bread, right - the kind that's gone a bit hard - someone's soaked it and baked it into a pudding instead of chucking it. Waste not."
+      answer: Bread Pudding
+      aliases:
+        - bread pudding
+        - bread and butter pudding
+      reasoning: "bread (old hard bread) + pudding (soaked and baked, not binned) = Bread Pudding"
+    - number: 2
+      initials: T
+      clue: "Jelly, cream, tinned fruit, sponge fingers. Everyone's got a different version. Nan makes hers with sherry. It's a whole thing."
+      answer: Trifle
+      aliases:
+        - trifle
+      reasoning: "trifle (layered dessert, jelly cream sponge fruit, nan's sherry version) = Trifle"
+    - number: 3
+      initials: P
+      clue: "Them little round pastry balls, right, with cream inside and chocolate drizzled on top. French ones, stacked up in a tower at weddings. Very impressive."
+      answer: Profiteroles
+      aliases:
+        - profiteroles
+      reasoning: "profiteroles (choux pastry balls, cream filled, chocolate topped, stacked at weddings) = Profiteroles"

@@ -1,0 +1,690 @@
+- id: culturebusters-001
+  enabled: true
+  title: Culturebusters
+  topic: scientists artists royals and cultural figures
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Right, Culturebusters. Scientists, artists, royals. Proper brainy stuff this week."
+  prize: "Email in. Winner gets a signed photo of someone off a nature documentary and a biro."
+  clues:
+    - number: 1
+      initials: I N
+      clue: "Right, someone's eye has got a little bag hanging off it, and he's just invented a brand new weight. That's all."
+      answer: Isaac Newton
+      aliases:
+        - isaac newton
+      reasoning: "eye (I) + sack (saac) + new + ton = Isaac Newton"
+    - number: 2
+      initials: S H
+      clue: "That bloke Steve's got a chicken, right, and he's trying to flog it at the market. Goes without saying."
+      answer: Stephen Hawking
+      aliases:
+        - stephen hawking
+        - steven hawking
+      reasoning: "Steve + hen + hawking (selling) = Stephen Hawking"
+    - number: 3
+      initials: M C
+      clue: "She's getting wed to the bloke who fixes everything. Sort of works."
+      answer: Marie Curie
+      aliases:
+        - marie curie
+      reasoning: "marry (Marie) + cury/cure-y (Curie, one who cures) = Marie Curie"
+
+- id: culturebusters-002
+  enabled: true
+  title: Culturebusters
+  topic: scientists artists royals and cultural figures
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Culturebusters is back. Three clues, three famous names. Say them out loud."
+  prize: "Email in. Winner gets an AOL trial disc and a laminated bookmark from a library that shut down."
+  clues:
+    - number: 1
+      initials: C D
+      clue: "The toast has gone completely black, right, and then the dark bit actually won the race. Near enough."
+      answer: Charles Darwin
+      aliases:
+        - charles darwin
+      reasoning: "charred (Charles) + dark + win (Darwin) = Charles Darwin"
+    - number: 2
+      initials: N T
+      clue: "Some fella's nicked all the la notes off the piano, then run a load of tests on them."
+      answer: Nikola Tesla
+      aliases:
+        - nikola tesla
+      reasoning: "nick + o + la (Nikola) + test + la (Tesla) = Nikola Tesla"
+    - number: 3
+      initials: V V G
+      clue: "The wine's been posted off, right, in a van, and the van's moving. That's your lot."
+      answer: Vincent van Gogh
+      aliases:
+        - vincent van gogh
+        - vincent van go
+      reasoning: "vin (Vincent) + sent (cent) + van + go (Gogh) = Vincent van Gogh"
+
+- id: culturebusters-003
+  enabled: true
+  title: Culturebusters
+  topic: scientists artists royals and cultural figures
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Alright, more Culturebusters. You know the drill by now. Phonetic riddles, famous people."
+  prize: "Email in. Winner gets a Blockbuster loyalty card and a VHS copy of Jurassic Park."
+  clues:
+    - number: 1
+      initials: L D V
+      clue: "There's a lion, yeah, and he's doing something near a van, and he's got the keys. Bit weird."
+      answer: Leonardo da Vinci
+      aliases:
+        - leonardo da vinci
+      reasoning: "Leo + nar + do (Leonardo) + da + vin + key (da Vinci) = Leonardo da Vinci"
+    - number: 2
+      initials: M
+      clue: "Someone's put a microphone on an angel. Don't overthink it."
+      answer: Michelangelo
+      aliases:
+        - michelangelo
+      reasoning: "mike + el + angel + o = Michelangelo"
+    - number: 3
+      initials: R
+      clue: "That REM sleep thing, yeah, the dream one, it's got a logo burned onto it. Like a cattle brand. Say it out loud."
+      answer: Rembrandt
+      aliases:
+        - rembrandt
+      reasoning: "REM + brand + t = Rembrandt"
+
+- id: culturebusters-004
+  enabled: true
+  title: Culturebusters
+  topic: scientists artists royals and cultural figures
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Right then, Culturebusters. These are all proper famous people. Good luck."
+  prize: "Email in. Winner gets a printed disposable camera photo, framed, of someone's holiday from 2003."
+  clues:
+    - number: 1
+      initials: P P
+      clue: "The dad's blowing air on his pickaxe handle, for some reason. Just blowing on it."
+      answer: Pablo Picasso
+      aliases:
+        - pablo picasso
+      reasoning: "pa + blow (Pablo) + pick + asso (Picasso) = Pablo Picasso"
+    - number: 2
+      initials: S D
+      clue: "There's some ointment on the door, and it's being put on every single day. Alright?"
+      answer: Salvador Dali
+      aliases:
+        - salvador dali
+      reasoning: "salve + a + door (Salvador) + daily (Dali) = Salvador Dali"
+    - number: 3
+      initials: A W
+      clue: "Him over there's gone and dug a great big hole in the middle of the battlefield. For what reason, nobody knows."
+      answer: Andy Warhol
+      aliases:
+        - andy warhol
+      reasoning: "and + he (Andy) + war + hole (Warhol) = Andy Warhol"
+
+- id: culturebusters-005
+  enabled: true
+  title: Culturebusters
+  topic: scientists artists royals and cultural figures
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Culturebusters. Royals this time, mostly. You'd think they'd be easy. They're not."
+  prize: "Email in. Winner gets a Now 58 cassette and a mug that says World's Okayest Something."
+  clues:
+    - number: 1
+      initials: Q E
+      clue: "Right, there's a very posh woman, and she's lost her handbag, and then there's a lizard, and then there's another one called Beth. Three things."
+      answer: Queen Elizabeth
+      aliases:
+        - queen elizabeth
+        - queen elizabeth ii
+      reasoning: "queen + a + liz + a + beth = Queen Elizabeth"
+    - number: 2
+      initials: P C
+      clue: "The inkjet's been going, and all the prints it made have got a big black burnt mark on them. That's your lot."
+      answer: Prince Charles
+      aliases:
+        - prince charles
+      reasoning: "prints (Prince) + char (Charles, charred) = Prince Charles"
+    - number: 3
+      initials: P W
+      clue: "Somehow the printer wants a sweet potato. I don't know why. It just does."
+      answer: Prince William
+      aliases:
+        - prince william
+      reasoning: "prints (Prince) + will + yam (William) = Prince William"
+
+- id: culturebusters-006
+  enabled: true
+  title: Culturebusters
+  topic: scientists artists royals and cultural figures
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "More Culturebusters. Don't say the answers out loud if you know them, that's cheating."
+  prize: "Email in. Winner gets a DVD of The Full Monty and a travel-size shower gel from a hotel stay."
+  clues:
+    - number: 1
+      initials: P D
+      clue: "The inkjet's making prints that say they're going to dye something. A garment or similar."
+      answer: Princess Diana
+      aliases:
+        - princess diana
+        - princess di
+      reasoning: "prints (Princess) + says (cess) + dye + an + a (Diana) = Princess Diana"
+    - number: 2
+      initials: K M
+      clue: "There's a woman called Kate, and she's stuck right in the middle of something that weighs a ton. Literally a ton."
+      answer: Kate Middleton
+      aliases:
+        - kate middleton
+      reasoning: "Kate + middle + ton (Middleton) = Kate Middleton"
+    - number: 3
+      initials: M M
+      clue: "There's a million bytes, right, and someone's put a mark on them. Just a mark. Bit odd."
+      answer: Meghan Markle
+      aliases:
+        - meghan markle
+        - megan markle
+      reasoning: "meg (Meghan) + an + mark + le (Markle) = Meghan Markle"
+
+- id: culturebusters-007
+  enabled: true
+  title: Culturebusters
+  topic: scientists artists royals and cultural figures
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Culturebusters. Seven sets in now. Still famous people. Off we go."
+  prize: "Email in. Winner gets a Shrek on DVD and a keyring from Moto services on the M6."
+  clues:
+    - number: 1
+      initials: P H
+      clue: "Right, the printer's come out covered in fur. All of it. Just completely hairy."
+      answer: Prince Harry
+      aliases:
+        - prince harry
+      reasoning: "prints (Prince) + hairy (Harry) = Prince Harry"
+    - number: 2
+      initials: P P
+      clue: "The inkjet again, and this time it's gone and filled up an IP address. Don't ask how."
+      answer: Prince Philip
+      aliases:
+        - prince philip
+      reasoning: "prints (Prince) + fill + IP (Philip) = Prince Philip"
+    - number: 3
+      initials: I N
+      clue: "Someone's got a sack, right, and they've built a completely new town on top of it. Strange."
+      answer: Isaac Newton
+      aliases:
+        - isaac newton
+      reasoning: "eye + sack (Isaac) + new + town (Newton) = Isaac Newton"
+
+- id: culturebusters-008
+  enabled: true
+  title: Culturebusters
+  topic: scientists artists royals and cultural figures
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Alright, Culturebusters eight. Same idea. Three clues, three famous names. You know."
+  prize: "Email in. Winner gets a copy of Heat magazine from 2004 and a two-pound coin someone found down the back of a chair."
+  clues:
+    - number: 1
+      initials: S H
+      clue: "There's a hen, yeah, and someone's trying to auction it off. The hen's not impressed."
+      answer: Stephen Hawking
+      aliases:
+        - stephen hawking
+        - steven hawking
+      reasoning: "Steve + hen (Stephen) + hawking/auctioning (Hawking) = Stephen Hawking"
+    - number: 2
+      initials: M C
+      clue: "She's been to the registry office and wed a fella whose whole job is making poorly people better. That's it."
+      answer: Marie Curie
+      aliases:
+        - marie curie
+      reasoning: "marry (Marie) + cure-y (Curie) = Marie Curie"
+    - number: 3
+      initials: C D
+      clue: "The dark colour actually won. Just pipped the others at the post."
+      answer: Charles Darwin
+      aliases:
+        - charles darwin
+      reasoning: "char (Charles, charred/dark) + dark + win (Darwin) = Charles Darwin"
+
+- id: culturebusters-009
+  enabled: true
+  title: Culturebusters
+  topic: scientists artists royals and cultural figures
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Right, Culturebusters nine. Getting artistic now. Big names in paint."
+  prize: "Email in. Winner gets a set of watercolour paints from a Works clearance and a mini notepad."
+  clues:
+    - number: 1
+      initials: L D V
+      clue: "The lion's doing something next to a van, and he's holding the keys to it. Works out."
+      answer: Leonardo da Vinci
+      aliases:
+        - leonardo da vinci
+      reasoning: "Leo + nar + do (Leonardo) + da + van + key (da Vinci) = Leonardo da Vinci"
+    - number: 2
+      initials: R
+      clue: "That stage of sleep where you dream, yeah, it's had a cattle brand pressed right onto it."
+      answer: Rembrandt
+      aliases:
+        - rembrandt
+      reasoning: "REM + brand + t = Rembrandt"
+    - number: 3
+      initials: P P
+      clue: "Right, the father's blowing on the handle of the pickaxe. Not using it. Just blowing."
+      answer: Pablo Picasso
+      aliases:
+        - pablo picasso
+      reasoning: "pa + blow (Pablo) + pick + axe + o (Picasso) = Pablo Picasso"
+
+- id: culturebusters-010
+  enabled: true
+  title: Culturebusters
+  topic: scientists artists royals and cultural figures
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Ten sets of Culturebusters. Double figures. Treat yourself."
+  prize: "Email in. Winner gets a Cadbury selection box from a post-Christmas sale and a compliment."
+  clues:
+    - number: 1
+      initials: M
+      clue: "Someone's gone and put a microphone in the middle of an angel. Wedged it right in."
+      answer: Michelangelo
+      aliases:
+        - michelangelo
+      reasoning: "mike (Mich-) + el + angel + o = Michelangelo"
+    - number: 2
+      initials: V V G
+      clue: "The wine bottle got sent off in a vehicle and it drove away. Gone now."
+      answer: Vincent van Gogh
+      aliases:
+        - vincent van gogh
+      reasoning: "vin (Vin-cent) + sent (cent) + van + go (Gogh) = Vincent van Gogh"
+    - number: 3
+      initials: S D
+      clue: "There's a soothing cream on the door and someone applies it to the door every single day without fail."
+      answer: Salvador Dali
+      aliases:
+        - salvador dali
+      reasoning: "salve + a + door (Salvador) + daily (Dali) = Salvador Dali"
+
+- id: culturebusters-011
+  enabled: true
+  title: Culturebusters
+  topic: scientists artists royals and cultural figures
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Culturebusters eleven. Mix of science and royalty this one. Off you go."
+  prize: "Email in. Winner gets a loyalty card from a coffee shop that's now closed and a Penguin biscuit."
+  clues:
+    - number: 1
+      initials: N T
+      clue: "Someone nicked the musical la note, then they did a load of tests on whatever was left. Strange afternoon."
+      answer: Nikola Tesla
+      aliases:
+        - nikola tesla
+      reasoning: "nick + o + la (Nikola) + test + la (Tesla) = Nikola Tesla"
+    - number: 2
+      initials: P D
+      clue: "The printer's churning out pages that all say they're going to change the colour of something. It keeps saying it."
+      answer: Princess Diana
+      aliases:
+        - princess diana
+      reasoning: "prints (Princess) + says (cess) + dye (Di-) + an + a (-ana) = Princess Diana"
+    - number: 3
+      initials: A W
+      clue: "Him there has gone and made a massive hole in the middle of a war zone. For absolutely no reason."
+      answer: Andy Warhol
+      aliases:
+        - andy warhol
+      reasoning: "and + he (Andy) + war + hole (Warhol) = Andy Warhol"
+
+- id: culturebusters-012
+  enabled: true
+  title: Culturebusters
+  topic: scientists artists royals and cultural figures
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Right, Culturebusters twelve. Still going. Famous people. Three clues."
+  prize: "Email in. Winner gets a screensaver CD-ROM from PC World circa 1999 and a pot noodle."
+  clues:
+    - number: 1
+      initials: K M
+      clue: "Kate's gone and wedged herself in the dead centre of something enormous and very heavy. She's fine."
+      answer: Kate Middleton
+      aliases:
+        - kate middleton
+      reasoning: "Kate + middle + ton (Middleton) = Kate Middleton"
+    - number: 2
+      initials: M M
+      clue: "There's one of them computer memory units, and someone's put a scratch on it. A mark. Just a mark."
+      answer: Meghan Markle
+      aliases:
+        - meghan markle
+        - megan markle
+      reasoning: "meg (Meghan) + an + mark + el (Markle) = Meghan Markle"
+    - number: 3
+      initials: P H
+      clue: "Honestly, the printer just came out covered in hair. Nobody asked for that."
+      answer: Prince Harry
+      aliases:
+        - prince harry
+      reasoning: "prints (Prince) + hairy (Harry) = Prince Harry"
+
+- id: culturebusters-013
+  enabled: true
+  title: Culturebusters
+  topic: scientists artists royals and cultural figures
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Culturebusters thirteen. Unlucky for some. Not for the winner though."
+  prize: "Email in. Winner gets a Now That's What I Call Music 52 CD and a branded pen."
+  clues:
+    - number: 1
+      initials: P P
+      clue: "The inkjet keeps printing pictures of the thing you pay with, right, and it won't stop. Just printing coins."
+      answer: Prince Philip
+      aliases:
+        - prince philip
+      reasoning: "prints (Prince) + fill + up (Philip) = Prince Philip"
+    - number: 2
+      initials: Q E
+      clue: "Right, there's someone very important and regal, a lizard, and a woman called Beth. Three separate things jammed together."
+      answer: Queen Elizabeth
+      aliases:
+        - queen elizabeth
+        - queen elizabeth ii
+      reasoning: "queen + a + liz + a + beth = Queen Elizabeth"
+    - number: 3
+      initials: P C
+      clue: "All the things the printer made have gone dark round the edges. Like someone held them near a flame."
+      answer: Prince Charles
+      aliases:
+        - prince charles
+      reasoning: "prints (Prince) + charred (Charles) = Prince Charles"
+
+- id: culturebusters-014
+  enabled: true
+  title: Culturebusters
+  topic: scientists artists royals and cultural figures
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Culturebusters fourteen. Scientists are back. Pay attention, these are the tricky ones."
+  prize: "Email in. Winner gets a periodic table poster from a school sale and a bag of Haribo."
+  clues:
+    - number: 1
+      initials: I N
+      clue: "Right, there's a bag hanging off someone's eyeball, and just nearby someone has built a completely new settlement. Say it out loud."
+      answer: Isaac Newton
+      aliases:
+        - isaac newton
+      reasoning: "eye + sack (Isaac) + new + ton/town (Newton) = Isaac Newton"
+    - number: 2
+      initials: M C
+      clue: "She married a healer, right. Someone who makes ill people well again. That's what she did."
+      answer: Marie Curie
+      aliases:
+        - marie curie
+      reasoning: "marry (Marie) + cure-y (Curie) = Marie Curie"
+    - number: 3
+      initials: S H
+      clue: "Steve's got a hen and he's out there trying to get rid of it. Selling it on. Bit desperate."
+      answer: Stephen Hawking
+      aliases:
+        - stephen hawking
+        - steven hawking
+      reasoning: "Steve + hen (Stephen) + hawking (selling) = Stephen Hawking"
+
+- id: culturebusters-015
+  enabled: true
+  title: Culturebusters
+  topic: scientists artists royals and cultural figures
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Fifteen sets of Culturebusters. Mix of artists and royals this time. Here we go."
+  prize: "Email in. Winner gets a Bob Ross painting kit from a charity shop and a tin of Rich Tea."
+  clues:
+    - number: 1
+      initials: L D V
+      clue: "A lion, yeah, is doing stuff near a transit vehicle, and he's got the keys to it in his paw. Near enough."
+      answer: Leonardo da Vinci
+      aliases:
+        - leonardo da vinci
+      reasoning: "Leo + nar + do (Leonardo) + da + van + key (da Vinci) = Leonardo da Vinci"
+    - number: 2
+      initials: M
+      clue: "There's a microphone, and on top of it is an angel. Just perched there on the microphone."
+      answer: Michelangelo
+      aliases:
+        - michelangelo
+      reasoning: "mike (Michel-) + el + angel + o = Michelangelo"
+    - number: 3
+      initials: P W
+      clue: "The printer says it wants a root vegetable. The orange one. A yam. It's insisting."
+      answer: Prince William
+      aliases:
+        - prince william
+      reasoning: "prints (Prince) + will + yam (William) = Prince William"
+
+- id: culturebusters-016
+  enabled: true
+  title: Culturebusters
+  topic: scientists artists royals and cultural figures
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Right, Culturebusters sixteen. Don't rush it. Say the clues out loud if you're stuck."
+  prize: "Email in. Winner gets a set of encyclopaedias from a skip and a Mars bar."
+  clues:
+    - number: 1
+      initials: V V G
+      clue: "The wine got dispatched in a delivery vehicle and the vehicle drove off. It's gone."
+      answer: Vincent van Gogh
+      aliases:
+        - vincent van gogh
+      reasoning: "vin (Vincent) + sent (-cent) + van + go (Gogh) = Vincent van Gogh"
+    - number: 2
+      initials: R
+      clue: "That proper deep dream sleep, it's had a company logo stamped all over it. A brand. Someone's branded it."
+      answer: Rembrandt
+      aliases:
+        - rembrandt
+      reasoning: "REM + brand + t = Rembrandt"
+    - number: 3
+      initials: S D
+      clue: "There's some antiseptic cream on the doorframe, and it gets put there fresh every morning without exception."
+      answer: Salvador Dali
+      aliases:
+        - salvador dali
+      reasoning: "salve + a + door (Salvador) + daily (Dali) = Salvador Dali"
+
+- id: culturebusters-017
+  enabled: true
+  title: Culturebusters
+  topic: scientists artists royals and cultural figures
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Culturebusters seventeen. You're still here. Right. Three more."
+  prize: "Email in. Winner gets a pencil case shaped like a pencil and a fun-size Twix."
+  clues:
+    - number: 1
+      initials: N T
+      clue: "Someone's stolen la off the piano, right, and then gone and done some scientific tests on it. Come back with results and everything."
+      answer: Nikola Tesla
+      aliases:
+        - nikola tesla
+      reasoning: "nick + o + la (Nikola) + test + la (Tesla) = Nikola Tesla"
+    - number: 2
+      initials: A W
+      clue: "He over there has dug a hole. A big one. And he did it in the middle of a conflict zone. That's all there is to it."
+      answer: Andy Warhol
+      aliases:
+        - andy warhol
+      reasoning: "and + he (Andy) + war + hole (Warhol) = Andy Warhol"
+    - number: 3
+      initials: C D
+      clue: "The bits that have gone all crispy and black, they actually won. Beat everything else. Came first."
+      answer: Charles Darwin
+      aliases:
+        - charles darwin
+      reasoning: "charred (Charles) + dark + win (Darwin) = Charles Darwin"
+
+- id: culturebusters-018
+  enabled: true
+  title: Culturebusters
+  topic: scientists artists royals and cultural figures
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Culturebusters eighteen. Nearly there. Three famous names to crack."
+  prize: "Email in. Winner gets a Beano annual from 1998 and a multipack crisp from a petrol station."
+  clues:
+    - number: 1
+      initials: P D
+      clue: "All the things coming out of the printer keep saying they want to change colour. Every single page is saying it."
+      answer: Princess Diana
+      aliases:
+        - princess diana
+      reasoning: "prints (Princess) + says (-cess) + dye (Di-) + an + a = Princess Diana"
+    - number: 2
+      initials: K M
+      clue: "A woman called Kate is right in the middle of something and it weighs precisely one ton. She ended up there somehow."
+      answer: Kate Middleton
+      aliases:
+        - kate middleton
+      reasoning: "Kate + middle + ton = Kate Middleton"
+    - number: 3
+      initials: P P
+      clue: "The printer's filling in an internet address. An IP one. It's just typing in IP addresses."
+      answer: Prince Philip
+      aliases:
+        - prince philip
+      reasoning: "prints (Prince) + fill + IP (Philip) = Prince Philip"
+
+- id: culturebusters-019
+  enabled: true
+  title: Culturebusters
+  topic: scientists artists royals and cultural figures
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Right, Culturebusters nineteen. Penultimate set. Mix of everyone this time."
+  prize: "Email in. Winner gets a travel Scrabble set with one tile missing and a can of Lilt."
+  clues:
+    - number: 1
+      initials: M M
+      clue: "Right, there's a million bytes of data, and someone's gone and put a scratch on it. A permanent mark."
+      answer: Meghan Markle
+      aliases:
+        - meghan markle
+        - megan markle
+      reasoning: "meg (Meghan) + an + mark + le (Markle) = Meghan Markle"
+    - number: 2
+      initials: P H
+      clue: "The printer's absolutely covered in fur. It printed once and just came out all hairy. Don't know how."
+      answer: Prince Harry
+      aliases:
+        - prince harry
+      reasoning: "prints (Prince) + hairy (Harry) = Prince Harry"
+    - number: 3
+      initials: M C
+      clue: "She walked down the aisle and married the doctor. The one who fixes things."
+      answer: Marie Curie
+      aliases:
+        - marie curie
+      reasoning: "marry (Marie) + cure-y (Curie) = Marie Curie"
+
+- id: culturebusters-020
+  enabled: true
+  title: Culturebusters
+  topic: scientists artists royals and cultural figures
+  difficulty: hard
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Last one. Culturebusters twenty. Give it your best shot."
+  prize: "Email in. Winner gets a Where's Wally book with all the Wallys already circled and a Fruit Pastille."
+  clues:
+    - number: 1
+      initials: I N
+      clue: "Right, there's a small bag attached to someone's eye, and they've just gone and constructed an entire new town. Connects up."
+      answer: Isaac Newton
+      aliases:
+        - isaac newton
+      reasoning: "eye + sack (Isaac) + new + town (Newton) = Isaac Newton"
+    - number: 2
+      initials: L D V
+      clue: "A large cat's doing something near a transit van, and somehow it's got the keys. It's sorted the keys out."
+      answer: Leonardo da Vinci
+      aliases:
+        - leonardo da vinci
+      reasoning: "Leo + nar + do (Leonardo) + da + van + key (da Vinci) = Leonardo da Vinci"
+    - number: 3
+      initials: Q E
+      clue: "Very important posh woman, a small reptile, and then a Beth. Just those three things together and that's your answer."
+      answer: Queen Elizabeth
+      aliases:
+        - queen elizabeth
+        - queen elizabeth ii
+      reasoning: "queen + a + liz + a + beth = Queen Elizabeth"

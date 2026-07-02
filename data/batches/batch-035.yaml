@@ -1,0 +1,778 @@
+- id: placebusters-021
+  enabled: true
+  title: Placebusters
+  topic: world geography rivers mountains and natural wonders
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Placebusters. All famous places, natural wonders, that sort of thing. Clues work by sound, not spelling. Right."
+  prize: "Email in. Winner gets a Now 52 cassette and a commemorative mug from a garden centre."
+  clues:
+    - number: 1
+      initials: N F
+      clue: "Right, there's a jar, yeah, and someone's knee is in it, and the whole lot has tumbled off the edge. Bit dramatic."
+      answer: Niagara Falls
+      aliases:
+        - niagara falls
+      reasoning: "knee + a + jar + falls = Niagara Falls (said out loud: knee-uh-gara falls)"
+    - number: 2
+      initials: G C
+      clue: "Me nan's found a tin from the back of the cupboard. She's over there with it. Don't ask why she's so pleased."
+      answer: Grand Canyon
+      aliases:
+        - grand canyon
+        - the grand canyon
+      reasoning: "gran + can + yon (dialectal 'over there') = Grand Canyon"
+    - number: 3
+      initials: M E
+      clue: "The hill, right, it just keeps wanting a sit-down. Every single time. Never stops. That's what it does."
+      answer: Mount Everest
+      aliases:
+        - mount everest
+        - mt everest
+      reasoning: "mount + ever + rest = Mount Everest (the mountain that always wants a rest)"
+
+- id: placebusters-022
+  enabled: true
+  title: Placebusters
+  topic: world geography rivers mountains and natural wonders
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "More Placebusters. Famous natural wonders, phonetic style. Say them out loud and you'll get it."
+  prize: "Email in. Winner gets a Blockbuster loyalty card and a disposable camera with two shots left."
+  clues:
+    - number: 1
+      initials: G B R
+      clue: "Barry's done something brilliant, and he's gone off to celebrate near some underwater rocks. Good for him."
+      answer: Great Barrier Reef
+      aliases:
+        - great barrier reef
+        - the great barrier reef
+      reasoning: "great + Barry + er + reef = Great Barrier Reef"
+    - number: 2
+      initials: V F
+      clue: "Victor tore something - don't know what, he won't say - and then it all went down. Collapsed, basically."
+      answer: Victoria Falls
+      aliases:
+        - victoria falls
+      reasoning: "Vic + tore + ee + a + falls = Victoria Falls"
+    - number: 3
+      initials: A F
+      clue: "The heavenly being's gone and taken a tumble. Wings didn't help, apparently. Bit embarrassing for it."
+      answer: Angel Falls
+      aliases:
+        - angel falls
+      reasoning: "angel + falls = Angel Falls"
+
+- id: placebusters-023
+  enabled: true
+  title: Placebusters
+  topic: world geography rivers mountains and natural wonders
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Placebusters three. Natural wonders of the world. Phonetic clues. Have a think."
+  prize: "Email in. Winner gets a printed photo from a disposable camera, framed in a clip frame from a pound shop."
+  clues:
+    - number: 1
+      initials: S D
+      clue: "Right, the hair. Someone's gone and left it in a very hot, sandy place. No shade, nothing. Just sitting there."
+      answer: Sahara Desert
+      aliases:
+        - sahara desert
+        - the sahara desert
+        - the sahara
+      reasoning: "sa + hair + a + desert = Sahara Desert (sa-HAIR-a desert, said out loud)"
+    - number: 2
+      initials: D S
+      clue: "The ocean's gone very quiet. Not moving. Just lying there. Like it's given up, really."
+      answer: Dead Sea
+      aliases:
+        - dead sea
+        - the dead sea
+      reasoning: "dead + sea = Dead Sea"
+    - number: 3
+      initials: T M
+      clue: "Someone's gone and put a dining surface right on top of a massive hill. Flat top, four legs. Very inconvenient."
+      answer: Table Mountain
+      aliases:
+        - table mountain
+      reasoning: "table + mountain = Table Mountain (it literally has a flat top)"
+
+- id: placebusters-024
+  enabled: true
+  title: Placebusters
+  topic: world geography rivers mountains and natural wonders
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Placebusters four. All about rivers. The answer sounds like the clue when you say it out loud. Easy."
+  prize: "Email in. Winner gets an AOL trial disc and a pen from a hotel that closed in 2003."
+  clues:
+    - number: 1
+      initials: A R
+      clue: "There's a puzzle, right, and it's just sitting there on top of the water. Stuck on. Won't come off."
+      answer: Amazon River
+      aliases:
+        - amazon river
+        - the amazon
+        - the amazon river
+      reasoning: "a + maze + on + river = Amazon River (a-MAZE-on river)"
+    - number: 2
+      initials: M R
+      clue: "She missed out on having a little sip. Didn't get there in time. Someone else had it."
+      answer: Mississippi River
+      aliases:
+        - mississippi river
+        - the mississippi
+        - the mississippi river
+      reasoning: "miss + is + sip + ee + river = Mississippi River (miss-ISS-sip-ee)"
+    - number: 3
+      initials: N R
+      clue: "There's absolutely nothing in this waterway. Zero. Empty. Nil. That's the whole thing."
+      answer: Nile River
+      aliases:
+        - nile river
+        - the nile
+        - river nile
+      reasoning: "nile sounds like nil + e = Nile River (as in nil, nothing)"
+
+- id: placebusters-025
+  enabled: true
+  title: Placebusters
+  topic: world geography rivers mountains and natural wonders
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Placebusters five. Mix of mountains, rivers, and big natural things. Say each clue out loud, yeah."
+  prize: "Email in. Winner gets a DVD copy of Crocodile Dundee and a travel mug with a dodgy lid."
+  clues:
+    - number: 1
+      initials: M K
+      clue: "On the mountain, right, there's this jar, and it does away with a bloke. Don't know why. It just does. Bit concerning."
+      answer: Mount Kilimanjaro
+      aliases:
+        - mount kilimanjaro
+        - kilimanjaro
+      reasoning: "mount + kill + a + man + jar + oh = Mount Kilimanjaro"
+    - number: 2
+      initials: G R
+      clue: "The gang of them are just taking it dead easy down by the water. Lounging about. Not doing much."
+      answer: Ganges River
+      aliases:
+        - ganges river
+        - the ganges
+        - river ganges
+      reasoning: "gang + ease + river = Ganges River"
+    - number: 3
+      initials: D R
+      clue: "Dan and you, right, there's a bee nearby. And there's water. That's the whole situation."
+      answer: Danube River
+      aliases:
+        - danube river
+        - the danube
+        - river danube
+      reasoning: "dan + you + b (bee) + river = Danube River"
+
+- id: placebusters-026
+  enabled: true
+  title: Placebusters
+  topic: world geography rivers mountains and natural wonders
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Six more Placebusters. Natural wonders this time. Bit exotic. Give it a go."
+  prize: "Email in. Winner gets a copy of Shrek 2 on VHS and a fridge magnet from Lanzarote."
+  clues:
+    - number: 1
+      initials: M P
+      clue: "Right, you've got a match, yeah, and you're picking something to chew. The match is involved somehow. That's your lot."
+      answer: Machu Picchu
+      aliases:
+        - machu picchu
+      reasoning: "match + you + pick + chew = Machu Picchu"
+    - number: 2
+      initials: A W
+      clue: "Anna's getting wed in a big muddy ditch. Don't know why she chose that venue. Each to their own."
+      answer: Angkor Wat
+      aliases:
+        - angkor wat
+      reasoning: "Anna + k + or + wat (what) = Angkor Wat. Say it: ANG-kor Wat. Anna getting wed in a... near enough."
+    - number: 3
+      initials: A R
+      clue: "The heirs - them lot who are inheriting everything - they've gone and found a massive stone. Just sitting there."
+      answer: Ayers Rock
+      aliases:
+        - ayers rock
+        - uluru
+        - uluru ayers rock
+      reasoning: "ayers (sounds like 'heirs') + rock = Ayers Rock"
+
+- id: placebusters-027
+  enabled: true
+  title: Placebusters
+  topic: world geography rivers mountains and natural wonders
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Placebusters seven. Back to mountains and famous landmarks. Phonetic clues, as always."
+  prize: "Email in. Winner gets a box of Quality Street from a petrol station and a stress ball shaped like a globe."
+  clues:
+    - number: 1
+      initials: G W C
+      clue: "Brilliant fence, this one. Massive. And it's made entirely out of crockery. Plates, cups, the lot. Very impractical."
+      answer: Great Wall of China
+      aliases:
+        - great wall of china
+        - the great wall of china
+        - the great wall
+      reasoning: "great + wall + of + china (crockery/porcelain) = Great Wall of China"
+    - number: 2
+      initials: T M
+      clue: "The temple, right, it's made of love. Or something like it. A bloke built it for his wife. Very romantic, supposedly."
+      answer: Taj Mahal
+      aliases:
+        - taj mahal
+        - the taj mahal
+      reasoning: "taj + mahal (sounds like 'ma + hall') = Taj Mahal. Say it: TAZH muh-HALL"
+    - number: 3
+      initials: M T
+      clue: "The man's on his own, just standing there. Being a mountain. That's it. He's just there."
+      answer: Matterhorn
+      aliases:
+        - matterhorn
+        - the matterhorn
+      reasoning: "matter + horn = Matterhorn. 'Matter' as in the man (he matters) + horn (a horn instrument)"
+
+- id: placebusters-028
+  enabled: true
+  title: Placebusters
+  topic: world geography rivers mountains and natural wonders
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "More of the same. Famous geography, phonetic clues. Right, get your thinking head on."
+  prize: "Email in. Winner gets a laminated certificate of participation and a keyring with someone else's name on it."
+  clues:
+    - number: 1
+      initials: Y R
+      clue: "Some fella called Yang has got the keys to something. And there's a zip involved. Near some water."
+      answer: Yangtze River
+      aliases:
+        - yangtze river
+        - the yangtze
+        - yangtze
+      reasoning: "yang + tze (sounds like 'keys') + river = Yangtze River"
+    - number: 2
+      initials: V L
+      clue: "It's the biggest lake in Russia. Say it slowly. There's a lad there and he's feeling... quite well, actually."
+      answer: Lake Baikal
+      aliases:
+        - lake baikal
+        - baikal
+      reasoning: "by + kal (sounds like 'by + cal', as in 'buy-cal') = Baikal. Lake Baikal"
+    - number: 3
+      initials: C R
+      clue: "The colour of a red wine is on this river. Or a bit like it. Reddish, anyway. Sort of burgundy."
+      answer: Colorado River
+      aliases:
+        - colorado river
+        - the colorado
+        - the colorado river
+      reasoning: "color + ado (sounds like 'a + do', a fuss) + river = Colorado River"
+
+- id: placebusters-029
+  enabled: true
+  title: Placebusters
+  topic: world geography rivers mountains and natural wonders
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Placebusters nine. Still on the geography theme. Three phonetic clues, one natural wonder per clue."
+  prize: "Email in. Winner gets a Lilo and Stitch lunchbox and a travel guide to somewhere you'd never go."
+  clues:
+    - number: 1
+      initials: M T
+      clue: "The man's gone and married the sea. Just walked straight in. Very committed. Bit odd."
+      answer: Mediterranean Sea
+      aliases:
+        - mediterranean sea
+        - the mediterranean
+        - the mediterranean sea
+      reasoning: "med + it + er + ranean (sounds like 'marry + nee + an') = Mediterranean. Med-it-err-AY-nee-an"
+    - number: 2
+      initials: A O
+      clue: "The Arctic's gone a bit warm. Completely the wrong temperature. Just sitting there being mild."
+      answer: Arctic Ocean
+      aliases:
+        - arctic ocean
+        - the arctic ocean
+        - the arctic
+      reasoning: "arctic + ocean = Arctic Ocean"
+    - number: 3
+      initials: P O
+      clue: "It's the big one. Loads of it. More water than you can shake a stick at. The peaceful one."
+      answer: Pacific Ocean
+      aliases:
+        - pacific ocean
+        - the pacific ocean
+        - the pacific
+      reasoning: "pacific (means peaceful) + ocean = Pacific Ocean"
+
+- id: placebusters-030
+  enabled: true
+  title: Placebusters
+  topic: world geography rivers mountains and natural wonders
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Placebusters ten. Halfway through. Still going. Natural wonders and famous mountains."
+  prize: "Email in. Winner gets a DVD of The Beach and an out-of-date passport holder from WHSmith."
+  clues:
+    - number: 1
+      initials: M F
+      clue: "Right, the volcano in Japan. The foot of it is very beautiful, apparently. Say it out loud - the foot + the beauty."
+      answer: Mount Fuji
+      aliases:
+        - mount fuji
+        - fuji
+        - mt fuji
+      reasoning: "mount + foo + gee (sounds like 'few + jee') = Fuji. Mount Fuji"
+    - number: 2
+      initials: V S
+      clue: "The old fella's gone absolutely volcanic about something. Erupted completely. And he's Italian, somehow."
+      answer: Vesuvius
+      aliases:
+        - vesuvius
+        - mount vesuvius
+        - mt vesuvius
+      reasoning: "ve + sue + vee + us = Vesuvius. Say it: veh-SOO-vee-us"
+    - number: 3
+      initials: E R
+      clue: "Proper long river, this. You go, and then you go, and then you go a bit more. Like a very determined journey east."
+      answer: Euphrates River
+      aliases:
+        - euphrates river
+        - the euphrates
+        - euphrates
+      reasoning: "you + fray + tees + river = Euphrates. Say it: you-FRAY-teez"
+
+- id: placebusters-031
+  enabled: true
+  title: Placebusters
+  topic: world geography rivers mountains and natural wonders
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Eleven down. Placebusters, all phonetic, all geography. Right then."
+  prize: "Email in. Winner gets a Woolworths pick-and-mix bag, not quite full, and a pen that works most of the time."
+  clues:
+    - number: 1
+      initials: R R
+      clue: "The king, right - or the queen, say it either way - they're just floating down some water. Doing their monarchical thing."
+      answer: Rhine River
+      aliases:
+        - rhine river
+        - the rhine
+        - river rhine
+      reasoning: "reign (sounds like 'rhine') + river = Rhine River. Reign = rule, Rhine = the river"
+    - number: 2
+      initials: T R
+      clue: "The bloke with the cross, yeah - Roy's mate - he's standing right next to a river. No idea what he's doing there."
+      answer: Tigris River
+      aliases:
+        - tigris river
+        - the tigris
+        - river tigris
+      reasoning: "tig + riss (sounds like 'tig + ris') = Tigris. Say it: TY-griss"
+    - number: 3
+      initials: I R
+      clue: "Indigo's the colour. Or a very deep blue. And there's water. That's the clue. Deep blue water. Say it slowly."
+      answer: Indus River
+      aliases:
+        - indus river
+        - the indus
+        - river indus
+      reasoning: "in + dus (sounds like 'in + duss') = Indus. Say it: IN-duss river"
+
+- id: placebusters-032
+  enabled: true
+  title: Placebusters
+  topic: world geography rivers mountains and natural wonders
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Placebusters twelve. Still going with the geography. Three more phonetic clues, three more famous places."
+  prize: "Email in. Winner gets a miniature snow globe of a city that isn't yours and a Biro from Argos."
+  clues:
+    - number: 1
+      initials: M B
+      clue: "The mountain with the beard. White fluffy stuff at the top. Very distinguished looking. Sort of French."
+      answer: Mont Blanc
+      aliases:
+        - mont blanc
+        - mount blanc
+      reasoning: "mont (mount) + blanc (sounds like 'blank' or 'blan') = Mont Blanc. Say it: mon BLON"
+    - number: 2
+      initials: A M
+      clue: "The Alps, right. All of them. The entire range of them. They're in a group, having a proper mountain meeting."
+      answer: Alps Mountains
+      aliases:
+        - alps mountains
+        - the alps
+        - alps
+      reasoning: "alps + mountains = Alps Mountains. The Alps is already plural so 'Alps Mountains' works"
+    - number: 3
+      initials: P R
+      clue: "She goes - pass it, yeah, the river - and she passes it again. Keeps passing. Won't stop passing things."
+      answer: Paraná River
+      aliases:
+        - parana river
+        - paraná river
+        - the parana
+        - the paraná
+      reasoning: "pass + ran + a + river = Paraná River. Say it: para-NA"
+
+- id: placebusters-033
+  enabled: true
+  title: Placebusters
+  topic: world geography rivers mountains and natural wonders
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Thirteen in. Placebusters, natural wonders. Don't look it up, just say it out loud and have a guess."
+  prize: "Email in. Winner gets a Frosties keyring from a cereal box and a map of somewhere nobody's asking directions to."
+  clues:
+    - number: 1
+      initials: M T
+      clue: "The man's gone and dug a very long trench. He's married to Anna. They both live in a big hole. Odd couple."
+      answer: Mariana Trench
+      aliases:
+        - mariana trench
+        - the mariana trench
+      reasoning: "marry + Anna + trench = Mariana Trench"
+    - number: 2
+      initials: Y S
+      clue: "The national park, right. It's yellow. Or at least it sounds like it should be. And there's a stone involved."
+      answer: Yellowstone
+      aliases:
+        - yellowstone
+        - yellowstone national park
+      reasoning: "yellow + stone = Yellowstone"
+    - number: 3
+      initials: O C
+      clue: "The big river. It's a grey colour, kind of. Run-down looking. Like it needs a bit of maintenance."
+      answer: Orange River
+      aliases:
+        - orange river
+        - the orange river
+      reasoning: "orange + river = Orange River (South Africa). Clue uses 'grey' as misdirection - the colour orange gives it away by sound"
+
+- id: placebusters-034
+  enabled: true
+  title: Placebusters
+  topic: world geography rivers mountains and natural wonders
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Placebusters fourteen. Nearly there. Three more places hiding in these phonetic clues."
+  prize: "Email in. Winner gets a stack of old National Geographic magazines and a torch with weak batteries."
+  clues:
+    - number: 1
+      initials: K R
+      clue: "The monkey's gone all dramatic and it's dropped down into the water. Made a right splash. Kongo-style."
+      answer: Congo River
+      aliases:
+        - congo river
+        - the congo
+        - the congo river
+        - river congo
+      reasoning: "con + go + river = Congo River. 'con' sounds like a monkey doing something sneaky"
+    - number: 2
+      initials: Z R
+      clue: "The number before one, right, and then there's a bee, and a river. That's it. Zero, bee, river."
+      answer: Zambezi River
+      aliases:
+        - zambezi river
+        - the zambezi
+        - river zambezi
+      reasoning: "zam (sounds like 'zero-am') + bezi (sounds like 'bee + zee') + river = Zambezi River"
+    - number: 3
+      initials: O R
+      clue: "The river that rhymes with orange but isn't. Sort of brownish. In South America. Very long."
+      answer: Orinoco River
+      aliases:
+        - orinoco river
+        - the orinoco
+        - the orinoco river
+      reasoning: "ori + no + co + river = Orinoco River. Say it: or-ee-NO-co"
+
+- id: placebusters-035
+  enabled: true
+  title: Placebusters
+  topic: world geography rivers mountains and natural wonders
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Fifteen sets in. Placebusters, still going, still phonetic. You know how it works by now."
+  prize: "Email in. Winner gets a signed photo of nobody in particular and a bag of mixed nuts from a service station."
+  clues:
+    - number: 1
+      initials: C V
+      clue: "Big hole in the ground. Very big hole, actually. And it's green. Or at least, the valley bit is. Famous one."
+      answer: Crater Valley
+      aliases:
+        - crater valley
+        - ngorongoro crater
+        - ngorongoro
+      reasoning: "crater + valley = Crater Valley. The Ngorongoro Crater in Tanzania is often called a crater valley"
+    - number: 2
+      initials: F J
+      clue: "The Norwegian inlets, right. They go all the way in, very long and thin. Like the water's being nosy."
+      answer: Fjords
+      aliases:
+        - fjords
+        - norwegian fjords
+      reasoning: "fjords = fee-YORDS. Sounds like it when you say it - the long inlets of Norway"
+    - number: 3
+      initials: G R
+      clue: "It's a rift. A proper gap in the land. Goes on for miles and miles down through Africa. Great big one."
+      answer: Great Rift Valley
+      aliases:
+        - great rift valley
+        - the great rift valley
+      reasoning: "great + rift + valley = Great Rift Valley"
+
+- id: placebusters-036
+  enabled: true
+  title: Placebusters
+  topic: world geography rivers mountains and natural wonders
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Right, Placebusters sixteen. Three more natural wonders in phonetic clue form. Give it a go."
+  prize: "Email in. Winner gets a novelty rubber and an unused birthday card from 2001."
+  clues:
+    - number: 1
+      initials: I F
+      clue: "The island's on fire. Well, it's volcanic, like. There's loads of geysers and that. Hot water everywhere."
+      answer: Iceland
+      aliases:
+        - iceland
+      reasoning: "ice + land = Iceland. Clue describes volcanic activity - Iceland is famous for it despite the cold-sounding name"
+    - number: 2
+      initials: K V
+      clue: "The valley in California, right. Very dry. Below sea level. Death is in the name for a reason."
+      answer: Death Valley
+      aliases:
+        - death valley
+      reasoning: "death + valley = Death Valley"
+    - number: 3
+      initials: S S
+      clue: "The stone circle, yeah. Very old. In a field in Wiltshire. Been there ages. Nobody really knows why."
+      answer: Stonehenge
+      aliases:
+        - stonehenge
+      reasoning: "stone + henge (sounds like 'enge' from 'enge', an old English word for a raised area) = Stonehenge"
+
+- id: placebusters-037
+  enabled: true
+  title: Placebusters
+  topic: world geography rivers mountains and natural wonders
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Placebusters seventeen. Three more. Nearly done. Still all geography and natural wonders."
+  prize: "Email in. Winner gets a Beanie Baby and a miniature bottle of shampoo from a Premier Inn."
+  clues:
+    - number: 1
+      initials: H B
+      clue: "There's a bay in Canada, right, and it's named after a bloke called Henry. He went looking for a passage and got stuck."
+      answer: Hudson Bay
+      aliases:
+        - hudson bay
+        - hudson's bay
+      reasoning: "Hudson (Henry Hudson the explorer) + bay = Hudson Bay"
+    - number: 2
+      initials: B S
+      clue: "The cold bit between Russia and Alaska. A straight line of water, sort of. Named after a Dane who explored it."
+      answer: Bering Strait
+      aliases:
+        - bering strait
+        - the bering strait
+      reasoning: "Bering (Vitus Bering, Danish explorer) + strait = Bering Strait"
+    - number: 3
+      initials: C H
+      clue: "The pointy bit right at the bottom of South America. Very windy down there. Not a nice place to sail round."
+      answer: Cape Horn
+      aliases:
+        - cape horn
+      reasoning: "cape + horn = Cape Horn. Cape (pointy bit of land) + horn (the tip, like a horn)"
+
+- id: placebusters-038
+  enabled: true
+  title: Placebusters
+  topic: world geography rivers mountains and natural wonders
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Eighteen sets. Two to go after this. Placebusters, phonetic clues, world geography. You know what to do."
+  prize: "Email in. Winner gets a souvenir coin from a country that no longer exists and a half-used A-Z of Birmingham."
+  clues:
+    - number: 1
+      initials: M R
+      clue: "The man says he's going. He's leaving. Off to find something massive and orange in the American south-west."
+      answer: Mesa Verde
+      aliases:
+        - mesa verde
+      reasoning: "may + sa + ver + day = Mesa Verde. Say it: MAY-sa VER-day. 'May' + 'sa' + 'ver' + 'day'"
+    - number: 2
+      initials: B G
+      clue: "The big green one. Enormous. Covered in ice, mostly. In the North Atlantic. People always mix it up with the cold island."
+      answer: Greenland
+      aliases:
+        - greenland
+      reasoning: "green + land = Greenland"
+    - number: 3
+      initials: S O
+      clue: "The salty bit north of Antarctica. Very rough water. Named after a season and an ocean direction."
+      answer: Southern Ocean
+      aliases:
+        - southern ocean
+        - the southern ocean
+      reasoning: "southern + ocean = Southern Ocean"
+
+- id: placebusters-039
+  enabled: true
+  title: Placebusters
+  topic: world geography rivers mountains and natural wonders
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Placebusters nineteen. One more after this. Three phonetic geography clues. Nearly done."
+  prize: "Email in. Winner gets a copy of Grease on video and a decorative plate from a seaside town."
+  clues:
+    - number: 1
+      initials: M R
+      clue: "Right, the mole, yeah, he's gone and hired someone. Got a personal assistant in. Running the whole operation."
+      answer: Murray River
+      aliases:
+        - murray river
+        - the murray
+        - the murray river
+      reasoning: "mur (sounds like 'mo' + 'r') + ray (light ray) + river = Murray River. Say it: MUH-ray"
+    - number: 2
+      initials: L T
+      clue: "The great African lake. Very long. Very thin. Like someone stretched it out. Looks like a swimming pool on the map."
+      answer: Lake Tanganyika
+      aliases:
+        - lake tanganyika
+        - tanganyika
+      reasoning: "tang + an + ee + ka = Tanganyika. Say it: tang-an-EE-ka"
+    - number: 3
+      initials: M H
+      clue: "The Horn, right, not of Africa, but the bit of Africa that is actually Africa. The east coast pointy bit. Sticking out."
+      answer: Mozambique
+      aliases:
+        - mozambique
+        - mozambique channel
+      reasoning: "mo + zam + bique (sounds like 'mo + zam + beek') = Mozambique. Say it: moh-zam-BEEK"
+
+- id: placebusters-040
+  enabled: true
+  title: Placebusters
+  topic: world geography rivers mountains and natural wonders
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+    - Global
+  intro: "Last one. Placebusters twenty. Three final phonetic geography clues. Finish strong."
+  prize: "Email in. Winner gets a wristband from a festival in 2004, still attached, and a packet of travel sweets."
+  clues:
+    - number: 1
+      initials: L S
+      clue: "The big pink one in East Africa. It goes very pink when the flamingos turn up. Named after a soft thing and a rock."
+      answer: Lake Nakuru
+      aliases:
+        - lake nakuru
+        - nakuru
+      reasoning: "na + coo + roo = Nakuru. Say it: na-KOO-roo. Lake Nakuru in Kenya, famous for flamingos"
+    - number: 2
+      initials: E R
+      clue: "Loads of water, right. Big rift valley lake. Like a sea, almost. In Ethiopia and that area. Huge."
+      answer: Ethiopian Rift
+      aliases:
+        - ethiopian rift
+        - east african rift
+        - rift valley lakes
+        - lake turkana
+      reasoning: "ethio + pian + rift = Ethiopian Rift. Major geographical feature"
+    - number: 3
+      initials: B D
+      clue: "Very flat. Very white. Used to be a lake but dried up and left all the salt behind. In America, Utah sort of area."
+      answer: Bonneville Salt Flats
+      aliases:
+        - bonneville salt flats
+        - bonneville flats
+        - salt flats
+      reasoning: "bonny + ville + salt + flats = Bonneville Salt Flats. Say it: BON-uh-vil"

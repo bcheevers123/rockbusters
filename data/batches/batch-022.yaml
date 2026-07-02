@@ -1,0 +1,703 @@
+- id: techbusters-001
+  enabled: true
+  title: Techbusters
+  topic: technology brands products and internet companies
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Right, Techbusters. All tech brands and internet companies. Say them out loud - that's all you need."
+  prize: "Email in. Winner gets an AOL trial disc and a printed map of the internet from 1997."
+  clues:
+    - number: 1
+      initials: G
+      clue: "That sticky stuff you find on a roll has gone and taken on the appearance of a large seabird. Bit odd."
+      answer: Google
+      aliases:
+        - google
+      reasoning: "goo (sticky stuff) + gull (seabird) = goo-gull = Google"
+    - number: 2
+      initials: A
+      clue: "Right, some fella's telling everyone he's a male offspring. Very proud of it. That's all."
+      answer: Amazon
+      aliases:
+        - amazon
+      reasoning: "am (I am) + a + son (male offspring) = am-a-zon = Amazon"
+    - number: 3
+      initials: M
+      clue: "His crow - the one he keeps as a pet - it's gone all gentle and calm. Not causing trouble anymore."
+      answer: Microsoft
+      aliases:
+        - microsoft
+      reasoning: "my (his) + crow + soft (gentle) = my-crow-soft = Microsoft"
+
+- id: techbusters-002
+  enabled: true
+  title: Techbusters
+  topic: technology brands products and internet companies
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Techbusters round two. Internet companies and tech brands. Don't overthink it."
+  prize: "Email in. Winner gets a Blockbuster membership card and a free rental that definitely expired."
+  clues:
+    - number: 1
+      initials: A
+      clue: "That great big primate's having a go at dragging something heavy. Straining away."
+      answer: Apple
+      aliases:
+        - apple
+      reasoning: "ape (primate) + pull (dragging) = ape-pull = Apple"
+    - number: 2
+      initials: F
+      clue: "Someone's put a human mug - eyes, nose, the lot - right in the middle of a novel. Sort of staring out at you."
+      answer: Facebook
+      aliases:
+        - facebook
+      reasoning: "face (human mug) + book (novel) = face-book = Facebook"
+    - number: 3
+      initials: T
+      clue: "A bit of a fool has gone and made an error. Not a big error. Just a small one. You know the type."
+      answer: Twitter
+      aliases:
+        - twitter
+      reasoning: "twit (a fool) + err (make an error) = twit-err = Twitter"
+
+- id: techbusters-003
+  enabled: true
+  title: Techbusters
+  topic: technology brands products and internet companies
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Alright, more Techbusters. All famous tech brands and apps. Say it out loud and you'll get there."
+  prize: "Email in. Winner gets a Nokia ringtone download voucher and a lanyard from a trade show."
+  clues:
+    - number: 1
+      initials: I
+      clue: "Right, there's a fella called Graham and he turned up in seconds flat. Didn't hang about."
+      answer: Instagram
+      aliases:
+        - instagram
+      reasoning: "instant (in seconds) + gram (Graham, a name) = instant-gram = Instagram"
+    - number: 2
+      initials: T
+      clue: "That sound a clock makes - you know, that rhythmic ticking noise. Someone's named a whole app after it."
+      answer: TikTok
+      aliases:
+        - tiktok
+        - tik tok
+      reasoning: "tick (clock sound) + tock (clock sound) = tick-tock = TikTok"
+    - number: 3
+      initials: Y
+      clue: "Right, someone's addressing you directly and saying you've got one of them cylindrical hollow things. Personal, that."
+      answer: YouTube
+      aliases:
+        - youtube
+        - you tube
+      reasoning: "you (addressing someone directly) + tube (cylindrical hollow thing) = you-tube = YouTube"
+
+- id: techbusters-004
+  enabled: true
+  title: Techbusters
+  topic: technology brands products and internet companies
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Techbusters four. Same deal - tech and internet companies, all easy ones. Off you go."
+  prize: "Email in. Winner gets a Windows 98 screensaver CD and a stress ball shaped like a computer mouse."
+  clues:
+    - number: 1
+      initials: N
+      clue: "There's a fishing net, right, and it's doing these little flicking movements. Just sort of flicking away."
+      answer: Netflix
+      aliases:
+        - netflix
+      reasoning: "net (fishing net) + flicks (flicking movements, also old word for films) = net-flicks = Netflix"
+    - number: 2
+      initials: S
+      clue: "Easy one this. You can see a blemish - a little mark on something - but only if you do a certain thing first. Conditional spotting, that is."
+      answer: Spotify
+      aliases:
+        - spotify
+      reasoning: "spot (see a blemish) + if + I = spot-if-I = Spotify"
+    - number: 3
+      initials: U
+      clue: "Right, you - yes, you - have got yourself a bear. Where you got it from, I don't know. That's your business."
+      answer: Uber
+      aliases:
+        - uber
+      reasoning: "you (you) + bear (a bear) = you-bear = Uber"
+
+- id: techbusters-005
+  enabled: true
+  title: Techbusters
+  topic: technology brands products and internet companies
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Right then, Techbusters five. Apps and tech brands. Read the clue out loud to yourself. Go on."
+  prize: "Email in. Winner gets a copy of Internet Explorer on CD-ROM and a travel mug from a conference."
+  clues:
+    - number: 1
+      initials: L
+      clue: "There's a metal chain - like a connector, one of the links off it - and someone's gone and put it inside a tin can. Don't know why."
+      answer: LinkedIn
+      aliases:
+        - linkedin
+        - linked in
+      reasoning: "link (chain connector) + tin (a tin can) = link-tin = LinkedIn"
+    - number: 2
+      initials: S
+      clue: "That sharp cracking sound - like when you break a twig - and at the same time there's a good old chin-wag going on. Happening together."
+      answer: Snapchat
+      aliases:
+        - snapchat
+        - snap chat
+      reasoning: "snap (sharp cracking sound) + chat (a chin-wag) = snap-chat = Snapchat"
+    - number: 3
+      initials: W
+      clue: "Someone's asking what's going on with a particular software program. Bit vague, to be honest."
+      answer: WhatsApp
+      aliases:
+        - whatsapp
+        - whats app
+        - what's app
+      reasoning: "what's (asking what's going on) + app (software program) = what's-app = WhatsApp"
+
+- id: techbusters-006
+  enabled: true
+  title: Techbusters
+  topic: technology brands products and internet companies
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Techbusters is back. Famous internet companies and tech brands. Near enough is good enough here."
+  prize: "Email in. Winner gets a floppy disk that's been framed and a packet of biscuits from the canteen."
+  clues:
+    - number: 1
+      initials: Z
+      clue: "Right, there's a zoo keeper and he's responsible for one specific animal. Just the one. Him. That animal."
+      answer: Zoom
+      aliases:
+        - zoom
+      reasoning: "zoo (a zoo) + him (him, shortened to 'm') = zoo-m = Zoom"
+    - number: 2
+      initials: S
+      clue: "That rope's gone all saggy and loose. Just hanging there with no tension in it whatsoever. Completely limp."
+      answer: Slack
+      aliases:
+        - slack
+      reasoning: "slack (saggy and loose rope) = Slack"
+    - number: 3
+      initials: D
+      clue: "Someone's letting go of a cardboard container - just releasing it and watching it fall. That's their afternoon sorted."
+      answer: Dropbox
+      aliases:
+        - dropbox
+        - drop box
+      reasoning: "drop (letting go, watching fall) + box (cardboard container) = drop-box = Dropbox"
+
+- id: techbusters-007
+  enabled: true
+  title: Techbusters
+  topic: technology brands products and internet companies
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Alright, round seven of Techbusters. All tech companies. Don't overthink it - say it out loud."
+  prize: "Email in. Winner gets a Netscape Navigator mousemat and a biro that's nearly run out."
+  clues:
+    - number: 1
+      initials: P
+      clue: "That fella's settling up a debt with his mate - his good pal - and handing over some cash. Very wholesome."
+      answer: PayPal
+      aliases:
+        - paypal
+        - pay pal
+      reasoning: "pay (settling a debt) + pal (a mate) = pay-pal = PayPal"
+    - number: 2
+      initials: W
+      clue: "Right, there's a little candle - the waxy thing you light in a church - and it's gone and, erm, done something to you. Near enough."
+      answer: Wikipedia
+      aliases:
+        - wikipedia
+      reasoning: "wick (candle wick) + he + peed (done something) + ya (you) = wiki-pee-dia = Wikipedia"
+    - number: 3
+      initials: R
+      clue: "Easy one this. Someone's read something - past tense, they've gone through the whole thing - and now they're giving everyone a full update on it."
+      answer: Reddit
+      aliases:
+        - reddit
+      reasoning: "read (past tense, they've read it) + it (a thing) = read-it = Reddit"
+
+- id: techbusters-008
+  enabled: true
+  title: Techbusters
+  topic: technology brands products and internet companies
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Techbusters eight. All massive tech brands. You know these - you use them every day probably."
+  prize: "Email in. Winner gets a CD-ROM of clip art from 2001 and a promotional pen from a bank."
+  clues:
+    - number: 1
+      initials: T
+      clue: "There's a water tap - the thing on the sink - and it's gone and developed a stammer. Switching on and off, on and off."
+      answer: Twitch
+      aliases:
+        - twitch
+      reasoning: "twitch (twitching, switching on and off, also a tap with a spasm) = Twitch"
+    - number: 2
+      initials: D
+      clue: "Right, someone's gone and split something in two - cut it apart - and now there's a bad taste being discussed. Bit of a palaver."
+      answer: Discord
+      aliases:
+        - discord
+        - dis cord
+      reasoning: "dis (gone and split, also a cord cut) + cord (something split/cut) = dis-cord = Discord"
+    - number: 3
+      initials: P
+      clue: "That sewing notion - the sharp pointy thing you push through fabric - someone's planted loads of them in a board. Like a display."
+      answer: Pinterest
+      aliases:
+        - pinterest
+        - pin-terest
+      reasoning: "pin (sharp pointy thing) + terest sounds like interest = pin-terest = Pinterest"
+
+- id: techbusters-009
+  enabled: true
+  title: Techbusters
+  topic: technology brands products and internet companies
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Right, Techbusters nine. Brands and apps you definitely know. Say the clue out loud if you're stuck."
+  prize: "Email in. Winner gets a HMV gift card with 40p left on it and a laminated badge from a job fair."
+  clues:
+    - number: 1
+      initials: E
+      clue: "Someone's auctioning off the letter E. It's gone to the highest bidder and everything. Bit niche."
+      answer: eBay
+      aliases:
+        - ebay
+        - e-bay
+      reasoning: "E (the letter) + bay (an auction bay, a bay area) = E-bay = eBay"
+    - number: 2
+      initials: E
+      clue: "Right, there's a lad who's overly eager - dead keen - and he's gone and covered himself in something crafty. Bit intense."
+      answer: Etsy
+      aliases:
+        - etsy
+      reasoning: "et (eager, enthusiastic) + sy sounds like see = et-sy = Etsy"
+    - number: 3
+      initials: D
+      clue: "Easy one. Someone's coming to deliver something, but they're bringing it by a different route. Gone all scenic on us."
+      answer: Deliveroo
+      aliases:
+        - deliveroo
+        - deliver roo
+      reasoning: "deliver (bring something) + roo (a kangaroo, sounds like 'route' in some accents) = deliver-roo = Deliveroo"
+
+- id: techbusters-010
+  enabled: true
+  title: Techbusters
+  topic: technology brands products and internet companies
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Techbusters ten. Big milestone. Still all tech and internet companies. Don't overthink any of these."
+  prize: "Email in. Winner gets a copy of MSN Messenger on CD and a novelty USB stick shaped like a penguin."
+  clues:
+    - number: 1
+      initials: A
+      clue: "Right, that big river in South America - the long wet one - it's decided to start selling things. Just branched out, hasn't it."
+      answer: Amazon
+      aliases:
+        - amazon
+      reasoning: "Amazon (the river) sounds like am-a-zon = Amazon the company"
+    - number: 2
+      initials: G
+      clue: "A big sticky mess - like slime or something - has attached itself to a large white seabird. The bird doesn't look pleased."
+      answer: Google
+      aliases:
+        - google
+      reasoning: "goo (sticky slime) + gull (seabird, a large white one) = goo-gull = Google"
+    - number: 3
+      initials: M
+      clue: "His bird - the black one he keeps - has gone all docile and mild-mannered. Not pecking anyone."
+      answer: Microsoft
+      aliases:
+        - microsoft
+      reasoning: "my (his) + crow (black bird) + soft (docile, mild) = my-crow-soft = Microsoft"
+
+- id: techbusters-011
+  enabled: true
+  title: Techbusters
+  topic: technology brands products and internet companies
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Alright, Techbusters eleven. Same theme - tech brands and internet apps. In you go."
+  prize: "Email in. Winner gets a Phones4U tote bag and a roll of sellotape from the back of a drawer."
+  clues:
+    - number: 1
+      initials: A
+      clue: "Right, there's a large fruit - a smooth green and red one - and someone's giving it a proper tug. Won't let go."
+      answer: Apple
+      aliases:
+        - apple
+      reasoning: "ape (large primate, sounds like 'a' + 'pe') + pull (a tug) = ape-pull = Apple"
+    - number: 2
+      initials: F
+      clue: "Someone's put a human expression - eyes, nose, the lot - across the front of a hardback. It's just there on the cover, staring."
+      answer: Facebook
+      aliases:
+        - facebook
+      reasoning: "face (human expression, features) + book (hardback) = face-book = Facebook"
+    - number: 3
+      initials: T
+      clue: "That rhythmic clock noise - you know the one, going back and forth - someone's built an entire video platform around it."
+      answer: TikTok
+      aliases:
+        - tiktok
+        - tik tok
+      reasoning: "tick (clock noise) + tock (clock noise back and forth) = tick-tock = TikTok"
+
+- id: techbusters-012
+  enabled: true
+  title: Techbusters
+  topic: technology brands products and internet companies
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Techbusters twelve. Still going. Tech companies all the way. Say it out loud - that's the trick."
+  prize: "Email in. Winner gets an Argos catalogue from 2003 and a novelty fridge magnet in the shape of a hard drive."
+  clues:
+    - number: 1
+      initials: Y
+      clue: "Easy one this. Someone's talking at you directly and saying you're in possession of a long hollow pipe. Bit personal."
+      answer: YouTube
+      aliases:
+        - youtube
+        - you tube
+      reasoning: "you (talking at you directly) + tube (long hollow pipe) = you-tube = YouTube"
+    - number: 2
+      initials: N
+      clue: "There's a mesh thing - like what you'd use for catching fish - and it's going round kicking and flicking. Very energetic."
+      answer: Netflix
+      aliases:
+        - netflix
+      reasoning: "net (mesh thing for catching fish) + flicks (kicking and flicking, also slang for films) = net-flicks = Netflix"
+    - number: 3
+      initials: S
+      clue: "Right, you can see a little dot on something - a small mark - but you can only see it if you do one specific thing first. Go on then."
+      answer: Spotify
+      aliases:
+        - spotify
+      reasoning: "spot (see a little dot) + if + I (you, if I) = spot-if-I = Spotify"
+
+- id: techbusters-013
+  enabled: true
+  title: Techbusters
+  topic: technology brands products and internet companies
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Round thirteen of Techbusters. Unlucky for some but not for you because these are all easy. Go on."
+  prize: "Email in. Winner gets a BlackBerry handset with a cracked screen and a charging cable that only works at a specific angle."
+  clues:
+    - number: 1
+      initials: I
+      clue: "Right, a fella called Graham turned up in an absolute instant. Just appeared. No warning whatsoever."
+      answer: Instagram
+      aliases:
+        - instagram
+      reasoning: "instant (in an absolute instant) + gram (Graham, a fella's name) = instant-gram = Instagram"
+    - number: 2
+      initials: U
+      clue: "Someone's telling you - yes, you personally - that you are now the proud owner of a large furry animal. Congratulations."
+      answer: Uber
+      aliases:
+        - uber
+      reasoning: "you (you personally) + bear (large furry animal) = you-bear = Uber"
+    - number: 3
+      initials: L
+      clue: "There's a single connection from a chain - just the one little loop - and it's ended up inside a tin of something. Canned goods."
+      answer: LinkedIn
+      aliases:
+        - linkedin
+        - linked in
+      reasoning: "link (one connection from a chain) + tin (a tin of something) = link-tin = LinkedIn"
+
+- id: techbusters-014
+  enabled: true
+  title: Techbusters
+  topic: technology brands products and internet companies
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Techbusters fourteen. Tech and internet companies. You know the drill by now."
+  prize: "Email in. Winner gets a promotional mouse mat from a company that went bust in 2008 and a highlighter pen."
+  clues:
+    - number: 1
+      initials: S
+      clue: "There's a sharp cracking sound - like a biscuit breaking - and someone's having a proper natter at the same time. Multitasking."
+      answer: Snapchat
+      aliases:
+        - snapchat
+        - snap chat
+      reasoning: "snap (sharp cracking sound, like a biscuit) + chat (a proper natter) = snap-chat = Snapchat"
+    - number: 2
+      initials: W
+      clue: "Someone's asking about a program on their phone. Very vague. What's the program? What is it?"
+      answer: WhatsApp
+      aliases:
+        - whatsapp
+        - whats app
+        - what's app
+      reasoning: "what's (asking about something) + app (a program on a phone) = what's-app = WhatsApp"
+    - number: 3
+      initials: Z
+      clue: "Right, there's a bloke who works at the animal enclosure and he's personally responsible for looking after that one fella. Him specifically."
+      answer: Zoom
+      aliases:
+        - zoom
+      reasoning: "zoo (animal enclosure) + m (him, short form) = zoo-m = Zoom"
+
+- id: techbusters-015
+  enabled: true
+  title: Techbusters
+  topic: technology brands products and internet companies
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Right, Techbusters fifteen. Nearly there. All tech brands you use every day. Sort of."
+  prize: "Email in. Winner gets a Tamagotchi with depleted batteries and a copy of Encarta 97 on DVD."
+  clues:
+    - number: 1
+      initials: P
+      clue: "Easy one this. A fella's settling a bill with his best mate. Handing over the money and everything. Very decent of him."
+      answer: PayPal
+      aliases:
+        - paypal
+        - pay pal
+      reasoning: "pay (settling a bill) + pal (best mate) = pay-pal = PayPal"
+    - number: 2
+      initials: D
+      clue: "There's a tap going all twitchy and jerky - spasming at the sink. Very alarming if you're trying to wash up."
+      answer: Dropbox
+      aliases:
+        - dropbox
+        - drop box
+      reasoning: "drop (twitchy, dropping) + box (something boxed in, contained) = drop-box = Dropbox"
+    - number: 3
+      initials: S
+      clue: "That rope's completely lost all its tension. Just hanging there, all floppy and loose. No backbone whatsoever."
+      answer: Slack
+      aliases:
+        - slack
+      reasoning: "slack (floppy, loose rope with no tension) = Slack"
+
+- id: techbusters-016
+  enabled: true
+  title: Techbusters
+  topic: technology brands products and internet companies
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Techbusters sixteen. Cracking on with the tech brands. Don't overthink. Say it out loud and you're sorted."
+  prize: "Email in. Winner gets a signed printout of a terms and conditions page and a USB hub with one port that doesn't work."
+  clues:
+    - number: 1
+      initials: T
+      clue: "Right, there's a streaming tap - you know, one that won't stop - and it keeps going all jerky and fitful. Bit worrying."
+      answer: Twitch
+      aliases:
+        - twitch
+      reasoning: "twitch (jerky, fitful movement) = Twitch. The tap is twitching."
+    - number: 2
+      initials: D
+      clue: "Someone's gone and cut a rope clean in two - severed it - and now there's a right argument going on about it. Disagreement."
+      answer: Discord
+      aliases:
+        - discord
+        - dis cord
+      reasoning: "dis (disagreement, to dis something) + cord (a rope cut clean in two) = dis-cord = Discord"
+    - number: 3
+      initials: P
+      clue: "There's a noticeboard covered in sharp little things - you know the type - and someone's taken a real interest in it. Very invested."
+      answer: Pinterest
+      aliases:
+        - pinterest
+      reasoning: "pin (sharp little things on a noticeboard) + terest (sounds like interest, invested) = pin-terest = Pinterest"
+
+- id: techbusters-017
+  enabled: true
+  title: Techbusters
+  topic: technology brands products and internet companies
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Alright, Techbusters seventeen. All internet companies and tech brands. Three clues. Off you go."
+  prize: "Email in. Winner gets a PalmPilot stylus and a small pot of hand cream from a hotel room."
+  clues:
+    - number: 1
+      initials: E
+      clue: "Right, the letter E is up for auction. Bidding's started. Going once, going twice. Sold to whoever."
+      answer: eBay
+      aliases:
+        - ebay
+        - e-bay
+      reasoning: "E (the letter E) + bay (an auction, going once going twice) = E-bay = eBay"
+    - number: 2
+      initials: E
+      clue: "Someone's come over all enthusiastic and they've covered themselves in homemade crafts. Can't miss them."
+      answer: Etsy
+      aliases:
+        - etsy
+      reasoning: "et (enthusiastic, et as in eager) + sy sounds like see = et-sy = Etsy"
+    - number: 3
+      initials: D
+      clue: "A delivery person is bringing something to your door but they've come via Australia somehow. Don't ask."
+      answer: Deliveroo
+      aliases:
+        - deliveroo
+        - deliver roo
+      reasoning: "deliver (bringing something to your door) + roo (kangaroo, Australia) = deliver-roo = Deliveroo"
+
+- id: techbusters-018
+  enabled: true
+  title: Techbusters
+  topic: technology brands products and internet companies
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Right, Techbusters eighteen. Nearly done. Tech companies and apps. Clues are phonetic so say them out loud."
+  prize: "Email in. Winner gets a Geocities web address and a certificate that says you finished Minesweeper."
+  clues:
+    - number: 1
+      initials: W
+      clue: "There's a candle - just the waxy bottom bit with the stringy thing - and it's gone and had a little accident involving you. Unpleasant."
+      answer: Wikipedia
+      aliases:
+        - wikipedia
+      reasoning: "wick (the stringy bit of a candle) + he + peed (little accident) + ya (you) = wiki-peed-ya = Wikipedia"
+    - number: 2
+      initials: R
+      clue: "Easy one. They went through the whole document - read the entire thing - and then felt the need to tell everyone about it online."
+      answer: Reddit
+      aliases:
+        - reddit
+      reasoning: "read (past tense, went through the whole thing) + it (the document) = read-it = Reddit"
+    - number: 3
+      initials: T
+      clue: "A fool's gone and done something wrong again. Not a massive error - just a small misjudgement. Typical."
+      answer: Twitter
+      aliases:
+        - twitter
+      reasoning: "twit (a fool) + err (done something wrong) = twit-err = Twitter"
+
+- id: techbusters-019
+  enabled: true
+  title: Techbusters
+  topic: technology brands products and internet companies
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Techbusters nineteen. Penultimate one. All tech brands and companies. You know the game."
+  prize: "Email in. Winner gets a Remember The Milk premium subscription that someone else already used and a branded pencil case."
+  clues:
+    - number: 1
+      initials: A
+      clue: "That primate - the big hairy one at the zoo - has decided it wants to haul something across the enclosure. Won't be told otherwise."
+      answer: Apple
+      aliases:
+        - apple
+      reasoning: "ape (big hairy primate) + pull (hauling something) = ape-pull = Apple"
+    - number: 2
+      initials: I
+      clue: "Right, a fella called Graham has appeared in the room in a split second. Didn't knock or anything. Just materialised."
+      answer: Instagram
+      aliases:
+        - instagram
+      reasoning: "instant (split second, no delay) + gram (Graham, a fella's name) = instant-gram = Instagram"
+    - number: 3
+      initials: S
+      clue: "There's a mark - like a little blotch - on the wall, and you can only see it under a very specific condition. Tricky."
+      answer: Spotify
+      aliases:
+        - spotify
+      reasoning: "spot (a little blotch, a mark) + if + I = spot-if-I = Spotify"
+
+- id: techbusters-020
+  enabled: true
+  title: Techbusters
+  topic: technology brands products and internet companies
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Last one. Techbusters twenty. Same theme - tech and internet companies. Finish strong."
+  prize: "Email in. Winner gets a Google Glass prototype that doesn't work and a lanyard from a tech conference in 2014."
+  clues:
+    - number: 1
+      initials: L
+      clue: "Right, one of them little connectors - like a loop off a chain - is sitting inside a tin can. Someone put it there deliberately."
+      answer: LinkedIn
+      aliases:
+        - linkedin
+        - linked in
+      reasoning: "link (little connector loop from a chain) + tin (a tin can) = link-tin = LinkedIn"
+    - number: 2
+      initials: S
+      clue: "Someone's let all the tension out of a rope. The whole thing. It's just on the floor now, completely loose. That's all."
+      answer: Slack
+      aliases:
+        - slack
+      reasoning: "slack (all tension gone from a rope, lying loose on the floor) = Slack"
+    - number: 3
+      initials: Z
+      clue: "Right, there's a keeper at an animal park and they've just taken charge of that one specific animal. That fella. Him."
+      answer: Zoom
+      aliases:
+        - zoom
+      reasoning: "zoo (animal park) + m (him, that fella) = zoo-m = Zoom"

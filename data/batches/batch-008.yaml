@@ -1,0 +1,685 @@
+- id: tvbusters-001
+  enabled: true
+  title: TVbusters
+  topic: classic and modern UK TV shows
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Right, TVbusters. Rockbusters but every answer is a British telly programme. Have a go."
+  prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
+  clues:
+    - number: 1
+      initials: E
+      clue: "Right, someone's gone east. Not west, east. And they've taken the enders of things with them. That's all."
+      answer: EastEnders
+      aliases:
+        - eastenders
+        - east enders
+      reasoning: "east (gone east) + enders (ends of things) = EastEnders"
+    - number: 2
+      initials: CS
+      clue: "There's a bloke wearing a crown, right, and he's marching down a road made of cobblestones. Don't ask why."
+      answer: Coronation Street
+      aliases:
+        - coronation street
+      reasoning: "coronation (crowning ceremony) + street (road) = Coronation Street"
+    - number: 3
+      initials: H
+      clue: "Some fella named Holly's got a bag of crisps from the tuck shop and he's eaten all of them. Bit greedy."
+      answer: Hollyoaks
+      aliases:
+        - hollyoaks
+        - holly oaks
+      reasoning: "holly (name Holly) + oaks (oak trees, like in a tuck shop brand) = Hollyoaks"
+
+- id: tvbusters-002
+  enabled: true
+  title: TVbusters
+  topic: classic and modern UK TV shows
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "TVbusters again. Three more British shows hiding in plain sound. Say them out loud."
+  prize: "Email in. Winner gets a VHS copy of something and a pen that doesn't work."
+  clues:
+    - number: 1
+      initials: OFH
+      clue: "Right, there's just one fool in this situation. And he's got a horse. That's it."
+      answer: Only Fools and Horses
+      aliases:
+        - only fools and horses
+      reasoning: "only (just one) + fools (idiots) + and (connector) + horses (the animals) = Only Fools and Horses"
+    - number: 2
+      initials: B
+      clue: "Some sort of rear end with a dark skin on it. I don't know. Say it out loud."
+      answer: Blackadder
+      aliases:
+        - blackadder
+        - black adder
+      reasoning: "black (dark colour) + adder (a snake, also adds things) = Blackadder"
+    - number: 3
+      initials: FT
+      clue: "That Spanish bloke's making a mess of the reception desk and he can't stop stumbling about. Near enough."
+      answer: Fawlty Towers
+      aliases:
+        - fawlty towers
+        - faulty towers
+      reasoning: "faulty (broken, stumbling) + towers (tall buildings) = Fawlty Towers"
+
+- id: tvbusters-003
+  enabled: true
+  title: TVbusters
+  topic: classic and modern UK TV shows
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "More TVbusters. British shows, phonetic clues. Don't overthink it."
+  prize: "Email in. Winner gets a printed photo from a disposable camera, framed."
+  clues:
+    - number: 1
+      initials: DA
+      clue: "Old man's gone to war. Not just any old man - someone's actual dad. And there's a whole army of them."
+      answer: Dad's Army
+      aliases:
+        - dads army
+        - dad's army
+      reasoning: "dad's (belonging to father) + army (military force) = Dad's Army"
+    - number: 2
+      initials: TO
+      clue: "There's a place where people work, right. And it belongs to someone. That's it. That's the whole clue."
+      answer: The Office
+      aliases:
+        - the office
+      reasoning: "the (definite article) + office (where you work) = The Office"
+    - number: 3
+      initials: PB
+      clue: "Right, these lads are sharp dressed and they've been blinded by something pointy. Sort of. Peak caps, like."
+      answer: Peaky Blinders
+      aliases:
+        - peaky blinders
+        - peaky blinder
+      reasoning: "peaky (peaked cap) + blinders (things that blind you) = Peaky Blinders"
+
+- id: tvbusters-004
+  enabled: true
+  title: TVbusters
+  topic: classic and modern UK TV shows
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Right then. TVbusters round four. All British telly. Have a think before you email in."
+  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists."
+  clues:
+    - number: 1
+      initials: DA
+      clue: "Some big posh gaff in the countryside, right. Been there since forever. The family who live there have gone down in the world. Bit sad."
+      answer: Downton Abbey
+      aliases:
+        - downton abbey
+        - downton abby
+      reasoning: "down ton (going down a weight) + abbey (a religious building) = Downton Abbey"
+    - number: 2
+      initials: DW
+      clue: "A bloke who heals people. He's gone off somewhere. Could be anywhere. Might be in a box."
+      answer: Doctor Who
+      aliases:
+        - doctor who
+        - dr who
+      reasoning: "doctor (medical person) + who (question word, unknown identity) = Doctor Who"
+    - number: 3
+      initials: S
+      clue: "There's this famous detective fella, right, and he's at the scene of something. Leave it with him."
+      answer: Sherlock
+      aliases:
+        - sherlock
+      reasoning: "sure (certain) + lock (locking mechanism) = Sherlock. Say it quick."
+
+- id: tvbusters-005
+  enabled: true
+  title: TVbusters
+  topic: classic and modern UK TV shows
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "TVbusters five. All answers are British TV shows. Some old, some new. Away you go."
+  prize: "Email in. Winner gets a Shrek DVD and a Werther's Original that was already open."
+  clues:
+    - number: 1
+      initials: BC
+      clue: "Right, a wide open place by the sea. Bit grim. Someone's been done in and everyone's suspects. That's all."
+      answer: Broadchurch
+      aliases:
+        - broadchurch
+        - broad church
+      reasoning: "broad (wide open) + church (the building) = Broadchurch"
+    - number: 2
+      initials: LOD
+      clue: "Standing in a queue, right. And the whole queue belongs to someone. And they owe something on it. Bit odd."
+      answer: Line of Duty
+      aliases:
+        - line of duty
+      reasoning: "line (queue) + of (belonging to) + duty (obligation, also customs duty) = Line of Duty"
+    - number: 3
+      initials: F
+      clue: "Someone's carrying a small bag, like a handbag but tinier. Sort of trotting about with it. That's it."
+      answer: Fleabag
+      aliases:
+        - fleabag
+        - flea bag
+      reasoning: "flea (tiny insect) + bag (small bag) = Fleabag"
+
+- id: tvbusters-006
+  enabled: true
+  title: TVbusters
+  topic: classic and modern UK TV shows
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "More telly-based Rockbusters. Say each clue out loud. That's the whole point, that is."
+  prize: "Email in. Winner gets a DVD copy of The Full Monty and some Value biscuits."
+  clues:
+    - number: 1
+      initials: DG
+      clue: "Some lasses from up near Londonderry, right, and they're absolutely fine thanks. Being girls about it."
+      answer: Derry Girls
+      aliases:
+        - derry girls
+      reasoning: "Derry (city in Northern Ireland) + girls (young women) = Derry Girls"
+    - number: 2
+      initials: TIC
+      clue: "Right. You've got a large group of people, and they're all crammed into a computer room. Bit uncomfortable."
+      answer: The IT Crowd
+      aliases:
+        - the it crowd
+        - the i.t. crowd
+      reasoning: "the (definite article) + IT (information technology) + crowd (large group) = The IT Crowd"
+    - number: 3
+      initials: TG
+      clue: "The very top of a particular gear on a bicycle. Right at the very summit of it. That's it, that's your clue."
+      answer: Top Gear
+      aliases:
+        - top gear
+      reasoning: "top (very top) + gear (a gear on a bike or car) = Top Gear"
+
+- id: tvbusters-007
+  enabled: true
+  title: TVbusters
+  topic: classic and modern UK TV shows
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "TVbusters seven. Keep going. British telly. Phonetic clues. You know the drill by now."
+  prize: "Email in. Winner gets a signed letter from someone off Emmerdale, possibly."
+  clues:
+    - number: 1
+      initials: E
+      clue: "A place where the dale is empty. Like the whole valley's just got nothing happening in it. Bit peaceful."
+      answer: Emmerdale
+      aliases:
+        - emmerdale
+      reasoning: "emmer (a type of wheat, sounds like 'em-er') + dale (valley) = Emmerdale"
+    - number: 2
+      initials: THTV
+      clue: "Right, you're on the telly but you've gone a bit wobbly. Berserk, almost. Pressing all the wrong buttons."
+      answer: Trigger Happy TV
+      aliases:
+        - trigger happy tv
+        - trigger happy television
+      reasoning: "trigger (a mechanism) + happy (joyful) + TV (television) = Trigger Happy TV"
+    - number: 3
+      initials: S
+      clue: "There's a gap between two places, right. Like a room between rooms. And it's a specific type of gap. Sort of works."
+      answer: Spaced
+      aliases:
+        - spaced
+      reasoning: "spaced (having spaces, spaced out) = Spaced"
+
+- id: tvbusters-008
+  enabled: true
+  title: TVbusters
+  topic: classic and modern UK TV shows
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Alright, TVbusters eight. More British programmes. Have a go, don't be shy about it."
+  prize: "Email in. Winner gets a World Cup 2002 Panini sticker book with three stickers in it."
+  clues:
+    - number: 1
+      initials: GW
+      clue: "A massive open space with loads of birds flapping about on one particular side of a building. Bit chaotic."
+      answer: Green Wing
+      aliases:
+        - green wing
+      reasoning: "green (colour, also a grass area) + wing (side of a building, also a bird wing) = Green Wing"
+    - number: 2
+      initials: H
+      clue: "Some people have got a scheme on the go. They're at it. Moving around a lot. Busy."
+      answer: Hustle
+      aliases:
+        - hustle
+      reasoning: "hustle (to hustle, a scheme or con) = Hustle"
+    - number: 3
+      initials: WIB
+      clue: "Right, there's a cable running through some meat. Like an actual wire, inside the beef or whatever. Bit wrong."
+      answer: Wire in the Blood
+      aliases:
+        - wire in the blood
+      reasoning: "wire (electrical cable) + in the (inside the) + blood (the red stuff) = Wire in the Blood"
+
+- id: tvbusters-009
+  enabled: true
+  title: TVbusters
+  topic: classic and modern UK TV shows
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Right, TVbusters nine. You're doing well. Bit more telly. Bit more thinking. Off you go."
+  prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
+  clues:
+    - number: 1
+      initials: CS
+      clue: "There's someone called Vera. She's standing in a long line of people who've all done something questionable. Bless her."
+      answer: Coronation Street
+      aliases:
+        - coronation street
+      reasoning: "corona (crown) + tion (suffix) + street (row of houses) = Coronation Street. The crowning of a monarch on a road."
+    - number: 2
+      initials: TXF
+      clue: "Some files, right. But they're totally out of order. Can't find anything. Extreme disorder, these files."
+      answer: The X Files
+      aliases:
+        - the x files
+        - the x-files
+      reasoning: "the (definite article) + X (unknown variable) + files (documents) = The X Files"
+    - number: 3
+      initials: MW
+      clue: "There's a lad called Martin, he's decided to burn down a building made of fabric. I don't know why. He just has."
+      answer: Minder
+      aliases:
+        - minder
+      reasoning: "mind (the brain) + er (hesitation sound) = Minder. Or: someone who minds things."
+
+- id: tvbusters-010
+  enabled: true
+  title: TVbusters
+  topic: classic and modern UK TV shows
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Ten rounds of TVbusters. That's a milestone that is. Keep going."
+  prize: "Email in. Winner gets a Now That's What I Call Music 47 CD and some leftover party poppers."
+  clues:
+    - number: 1
+      initials: AB
+      clue: "Right, that robot thing from science fiction - it's only gone and bought something. Used its own money and everything."
+      answer: Ashes to Ashes
+      aliases:
+        - ashes to ashes
+      reasoning: "ashes (what's left after burning) + to (direction) + ashes (repeated) = Ashes to Ashes"
+    - number: 2
+      initials: LO
+      clue: "There's a bloke called Ken, right, and everyone on his street has got his name. It's that Ken's street, basically."
+      answer: Last of the Summer Wine
+      aliases:
+        - last of the summer wine
+      reasoning: "last (final one) + of the (belonging to the) + summer (warm season) + wine (the drink) = Last of the Summer Wine"
+    - number: 3
+      initials: ITC
+      clue: "Someone's gone and shoved a computer room inside a tent. Don't ask. That's just what's happened."
+      answer: The IT Crowd
+      aliases:
+        - the it crowd
+        - the i.t. crowd
+      reasoning: "the + IT (tech) + crowd (people) = The IT Crowd"
+
+- id: tvbusters-011
+  enabled: true
+  title: TVbusters
+  topic: classic and modern UK TV shows
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Eleven. We're still going. TVbusters. British telly. Phonetic riddles. Same as always."
+  prize: "Email in. Winner gets a scratched Robbie Williams CD and a novelty pen shaped like a pencil."
+  clues:
+    - number: 1
+      initials: YB
+      clue: "Some lads from up north, right. Looking at each other. Going 'you beauty' at something that's just happened."
+      answer: Boys from the Blackstuff
+      aliases:
+        - boys from the blackstuff
+        - boys from the black stuff
+      reasoning: "boys (lads) + from the (coming from) + black (dark colour) + stuff (material) = Boys from the Blackstuff"
+    - number: 2
+      initials: PB
+      clue: "Lads with flat caps on, right. Been blinded by something with a sharp point at the front. It's a period drama."
+      answer: Peaky Blinders
+      aliases:
+        - peaky blinders
+      reasoning: "peaky (peaked cap) + blinders (things that blind) = Peaky Blinders"
+    - number: 3
+      initials: TC
+      clue: "Right. There are two ancient objects, and they're having a proper chat. Just the two of them. Yakking away."
+      answer: Two Pints of Lager
+      aliases:
+        - two pints of lager
+        - two pints of lager and a packet of crisps
+      reasoning: "two (the number 2) + pints (measures of drink) + of lager (type of beer) = Two Pints of Lager"
+
+- id: tvbusters-012
+  enabled: true
+  title: TVbusters
+  topic: classic and modern UK TV shows
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "TVbusters twelve. Getting into double figures proper now. More British programmes. Have a crack."
+  prize: "Email in. Winner gets a fridge magnet from a place they've never been and a scratched DVD."
+  clues:
+    - number: 1
+      initials: NSE
+      clue: "Someone's been given a very stern talking to. A proper scolding. From the north, like. No fussing about."
+      answer: North Square
+      aliases:
+        - north square
+      reasoning: "north (compass direction) + square (a shape, also a town square) = North Square"
+    - number: 2
+      initials: BH
+      clue: "Some bloke called Ben's got a massive hill right outside his window. He's not best pleased about it."
+      answer: Benidorm
+      aliases:
+        - benidorm
+      reasoning: "Ben (a name) + i (the letter I) + dorm (dormitory, sleeping place) = Benidorm. Ben-ee-dorm."
+    - number: 3
+      initials: WW
+      clue: "Right, it's the second lot of something. And it's all gone a bit bad. Global, like. Not ideal."
+      answer: World War Two
+      aliases:
+        - world war two
+        - world war ii
+        - ww2
+      reasoning: "world (the planet) + war (conflict) + two (the number 2) = World War Two"
+
+- id: tvbusters-013
+  enabled: true
+  title: TVbusters
+  topic: classic and modern UK TV shows
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Right then. TVbusters thirteen. Bit unlucky, that number, but carry on anyway."
+  prize: "Email in. Winner gets a Tamagotchi with a dead battery and a sachet of sauce from a takeaway."
+  clues:
+    - number: 1
+      initials: FK
+      clue: "There's a kingdom, right. And it's gone all wobbly. The whole place is on a bit of a slope. Unstable."
+      answer: Faking It
+      aliases:
+        - faking it
+      reasoning: "faking (pretending) + it (the thing) = Faking It"
+    - number: 2
+      initials: DW
+      clue: "A doctor who nobody knows. Proper mystery, he is. Turns up, fixes things, disappears. Bit rude."
+      answer: Doctor Who
+      aliases:
+        - doctor who
+        - dr who
+      reasoning: "doctor (medical person) + who (unknown identity) = Doctor Who"
+    - number: 3
+      initials: CSI
+      clue: "The sun's out, right, and a bloke called Ian's standing guard over it. Making sure no clouds get to it."
+      answer: Cold Feet
+      aliases:
+        - cold feet
+      reasoning: "cold (opposite of warm) + feet (what you walk on) = Cold Feet"
+
+- id: tvbusters-014
+  enabled: true
+  title: TVbusters
+  topic: classic and modern UK TV shows
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Fourteen rounds in. You're either very good at this or you've been guessing. TVbusters."
+  prize: "Email in. Winner gets a copy of Big Mouth Billy Bass and some Value crisps."
+  clues:
+    - number: 1
+      initials: HB
+      clue: "Someone's gone and put a fence around some hills. Big hills. Loads of them. Bit unnecessary."
+      answer: Heartbeat
+      aliases:
+        - heartbeat
+        - heart beat
+      reasoning: "heart (the organ) + beat (rhythm, also to beat) = Heartbeat"
+    - number: 2
+      initials: IM
+      clue: "There's an inspector, right. And the inspector is called Morse. He's not happy about something. Again."
+      answer: Inspector Morse
+      aliases:
+        - inspector morse
+      reasoning: "inspector (police rank) + Morse (the name, also Morse code) = Inspector Morse"
+    - number: 3
+      initials: BoI
+      clue: "Some lads who are thick as two short planks, right. Absolute idiots, the lot of them. Bless."
+      answer: Bottom
+      aliases:
+        - bottom
+      reasoning: "bottom (the lowest part, also a rude word for behind) = Bottom"
+
+- id: tvbusters-015
+  enabled: true
+  title: TVbusters
+  topic: classic and modern UK TV shows
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "TVbusters fifteen. Halfway through the extended edition. British telly gold in here, allegedly."
+  prize: "Email in. Winner gets a mini bottle of hotel shampoo and a Blockbuster membership card."
+  clues:
+    - number: 1
+      initials: SR
+      clue: "Right, the funniest thing that's ever happened, right, is happening right now in a long flat road. Residents are in stitches."
+      answer: Shameless
+      aliases:
+        - shameless
+      reasoning: "shame (embarrassment) + less (without) = Shameless"
+    - number: 2
+      initials: CI
+      clue: "A group of workers are standing around in a ring. Like a circle. And they're all wearing hard hats. Inspecting things."
+      answer: Cracker
+      aliases:
+        - cracker
+      reasoning: "crack (a break or a really good thing) + er (suffix) = Cracker"
+    - number: 3
+      initials: TF
+      clue: "Everything's gone a bit golden. It's all brilliant. The whole lot of it. Just smashing, apparently."
+      answer: The Full Monty
+      aliases:
+        - the full monty
+      reasoning: "the (article) + full (complete) + monty (everything, the whole lot) = The Full Monty"
+
+- id: tvbusters-016
+  enabled: true
+  title: TVbusters
+  topic: classic and modern UK TV shows
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Sixteen. Right. More TVbusters. More British telly. More phonetic nonsense. You love it."
+  prize: "Email in. Winner gets a novelty rubber duck and a photocopied map of somewhere pointless."
+  clues:
+    - number: 1
+      initials: VC
+      clue: "Some sort of vehicle, right. And it's gone to the countryside. On a break. Rural setting. The van's on holiday."
+      answer: Vera
+      aliases:
+        - vera
+      reasoning: "Vera (a name, sounds like 'very-a') = Vera"
+    - number: 2
+      initials: SB
+      clue: "Right, this little seaside town. It's got a secret. Or several. Locals acting dead suspicious, they are."
+      answer: Scott and Bailey
+      aliases:
+        - scott and bailey
+        - scott & bailey
+      reasoning: "scott (a name) + and (connector) + bailey (a name, also a courtyard) = Scott and Bailey"
+    - number: 3
+      initials: BL
+      clue: "Someone's borrowed the lights. Like the bulbs and everything. And now they're keeping them. Bit cheeky."
+      answer: Brookside
+      aliases:
+        - brookside
+        - brook side
+      reasoning: "brook (a small stream) + side (the side of something) = Brookside"
+
+- id: tvbusters-017
+  enabled: true
+  title: TVbusters
+  topic: classic and modern UK TV shows
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Alright, TVbusters seventeen. Nearly there. Don't give up now, it'd be a waste."
+  prize: "Email in. Winner gets a stress ball shaped like a planet and an out-of-date bus pass."
+  clues:
+    - number: 1
+      initials: MW
+      clue: "A bloke who does magic. Right. And there's a wand involved. Bit obvious, that. But there you go."
+      answer: Merlin
+      aliases:
+        - merlin
+      reasoning: "mer (sounds like 'more' or French for sea) + lin (a name ending) = Merlin. The wizard one."
+    - number: 2
+      initials: RP
+      clue: "Some fella called Robin, right. He's gone and plonked himself in a hood. Just sitting there. In the hood."
+      answer: Robin Hood
+      aliases:
+        - robin hood
+      reasoning: "Robin (a name, also a bird) + hood (a piece of clothing over the head) = Robin Hood"
+    - number: 3
+      initials: TK
+      clue: "There's a crown, right. And it belongs to someone specific. High up person. Very posh establishment this."
+      answer: The Crown
+      aliases:
+        - the crown
+      reasoning: "the (definite article) + crown (a royal headpiece) = The Crown"
+
+- id: tvbusters-018
+  enabled: true
+  title: TVbusters
+  topic: classic and modern UK TV shows
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Eighteen rounds of TVbusters. Proper commitment, that. British telly clues. Off you go."
+  prize: "Email in. Winner gets a slightly damp towel and a pen with a hotel logo on it."
+  clues:
+    - number: 1
+      initials: SI
+      clue: "Some sort of island. A northern island, right. The show's based there. Bit remote. Bit windy, probably."
+      answer: Shetland
+      aliases:
+        - shetland
+      reasoning: "Shet (sounds like 'she'd' or 'shed') + land (ground) = Shetland. The island, the show."
+    - number: 2
+      initials: OB
+      clue: "Right, a very old copper. Been on the beat since forever. Knows everyone. Bit nosy."
+      answer: Old Tricks
+      aliases:
+        - old tricks
+        - new tricks
+      reasoning: "new (the opposite of old) + tricks (clever skills or deceits) = New Tricks"
+    - number: 3
+      initials: BB
+      clue: "Right, it's all happening at the seaside. Someone called Bill, he's been building something big. Near the water."
+      answer: Broadchurch
+      aliases:
+        - broadchurch
+      reasoning: "broad (wide) + church (religious building) = Broadchurch"
+
+- id: tvbusters-019
+  enabled: true
+  title: TVbusters
+  topic: classic and modern UK TV shows
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Nineteen. One away from the end. TVbusters. British shows. Final push. Come on."
+  prize: "Email in. Winner gets a CD-ROM encyclopedia from 1998 and a pen that's almost out."
+  clues:
+    - number: 1
+      initials: TB
+      clue: "Right, a place where taxis live when they're not working. A big shed for cabs, basically. London, this."
+      answer: Taxi
+      aliases:
+        - taxi
+      reasoning: "taxi (a cab) = Taxi. Or: tax (charges) + i (the letter) = Taxi"
+    - number: 2
+      initials: NM
+      clue: "This bloke's got absolutely nothing on him. Bare. But he's still going into the market. Brave."
+      answer: Naked
+      aliases:
+        - naked
+      reasoning: "naked (without clothing) = Naked. The Jamie Oliver programme, that."
+    - number: 3
+      initials: SH
+      clue: "A bloke who detects things. Bit serious about it. Lives in a flat with his mate. That's all there is to it."
+      answer: Sherlock Holmes
+      aliases:
+        - sherlock holmes
+        - sherlock
+      reasoning: "sure (certain) + lock (a mechanism) + holmes (sounds like 'homes') = Sherlock Holmes"
+
+- id: tvbusters-020
+  enabled: true
+  title: TVbusters
+  topic: classic and modern UK TV shows
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Last one. TVbusters twenty. Final set. British telly. Make it count."
+  prize: "Email in. Winner gets a sponsored pen, a packet of Rich Tea, and the satisfaction of finishing."
+  clues:
+    - number: 1
+      initials: GS
+      clue: "There's this quite big bloke right, and he's been told to shut it. He's in a pub. Bit annoyed about being shushed."
+      answer: Gavin and Stacey
+      aliases:
+        - gavin and stacey
+        - gavin & stacey
+      reasoning: "Gavin (a name) + and (connector) + Stacey (a name) = Gavin and Stacey"
+    - number: 2
+      initials: TC
+      clue: "Right, it's very cold. And something's been cut. Like a blade's been through it. Cold cut, basically."
+      answer: The Chase
+      aliases:
+        - the chase
+        - the chaser
+      reasoning: "the (article) + chase (to run after something) = The Chase"
+    - number: 3
+      initials: QL
+      clue: "There's a fella and he's leaping about from one thing to the next. Not stopping. Just hopping around the place."
+      answer: Quantum Leap
+      aliases:
+        - quantum leap
+      reasoning: "quantum (a scientific unit, sounds like 'quant-um') + leap (a jump) = Quantum Leap"

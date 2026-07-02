@@ -1,0 +1,662 @@
+- id: footballbusters-001
+  enabled: true
+  title: Footballbusters
+  topic: famous footballers British and international
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Right, Footballbusters. Rockbusters but all the answers are famous footballers."
+  prize: "Email in. Winner gets a Subbuteo player with a broken leg and a Panini sticker album, most of it filled in."
+  clues:
+    - number: 1
+      initials: D B
+      clue: "That lad Dave's been given a beck - you know, one of them little streams up north. Not sure why. That's all."
+      answer: David Beckham
+      aliases:
+        - david beckham
+      reasoning: "Day-vid (Dave + id) + beck + ham = David Beckham. Beck = northern stream, ham = village/meat"
+    - number: 2
+      initials: G L
+      clue: "Right, someone's nicked all the lines from a golf course and replaced them with something you'd find in a pub. Bit odd."
+      answer: Gary Lineker
+      aliases:
+        - gary lineker
+      reasoning: "Gary + line + ker (like lager drop) = Gary Lineker. Line = golf line, -eker sounds like 'a lager'"
+    - number: 3
+      initials: A S
+      clue: "There's a fella shearing wool off a sheep, and he's doing it on the edge of a cliff. Near enough."
+      answer: Alan Shearer
+      aliases:
+        - alan shearer
+      reasoning: "Alan + shear + er = Alan Shearer. Shear = cutting wool, -er = one who shears"
+
+- id: footballbusters-002
+  enabled: true
+  title: Footballbusters
+  topic: famous footballers British and international
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Footballbusters, this one. Three clues, all famous players. Say it out loud."
+  prize: "Email in. Winner gets a signed photo of someone who might be a footballer, it's blurry."
+  clues:
+    - number: 1
+      initials: W R
+      clue: "That lad Wayne's gone a bit mad on the roundabout. He's rooney - I mean loony. He's going round and round. Right."
+      answer: Wayne Rooney
+      aliases:
+        - wayne rooney
+      reasoning: "Wayne + roon + ey = Wayne Rooney. Rooney sounds like 'round he' said fast, or a loony on the roundabout"
+    - number: 2
+      initials: H K
+      clue: "The bloke's hair is cut in a style that's dead sharp on top, like a spike. Harry's done it. Near enough."
+      answer: Harry Kane
+      aliases:
+        - harry kane
+      reasoning: "Harry + cane = Harry Kane. Kane sounds like cane - a sharp stick/walking stick"
+    - number: 3
+      initials: M R
+      clue: "Some bloke called Marcus has gone rushing off through the shopping centre, dodging everyone. That's all."
+      answer: Marcus Rashford
+      aliases:
+        - marcus rashford
+      reasoning: "Marcus + rash + ford = Marcus Rashford. Rash = hasty/rushing, ford = crossing point"
+
+- id: footballbusters-003
+  enabled: true
+  title: Footballbusters
+  topic: famous footballers British and international
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Alright, three more. All famous footballers. Don't overthink it."
+  prize: "Email in. Winner gets a football sticker of someone from the lower leagues and a Blue Riband."
+  clues:
+    - number: 1
+      initials: S G
+      clue: "Right, Steve's been given a Jedi sword - you know, one of them laser things. Now he's in the garden with it. Don't ask."
+      answer: Steven Gerrard
+      aliases:
+        - steven gerrard
+      reasoning: "Steven + ger + rard = Steven Gerrard. Ger-rard sounds like 'Gerard' - but phonetically: Steve + in + gear + rd"
+    - number: 2
+      initials: F L
+      clue: "Frank's gone and lamped someone. Not literally, he's just shone a big light on them. Bit bright."
+      answer: Frank Lampard
+      aliases:
+        - frank lampard
+      reasoning: "Frank + lamp + ard = Frank Lampard. Lamp = light, -ard = suffix"
+    - number: 3
+      initials: P S
+      clue: "That fella's got a big sack of coal on his back and he's gone completely pale. Well, paler than usual."
+      answer: Paul Scholes
+      aliases:
+        - paul scholes
+      reasoning: "Paul + scholes = Paul Scholes. Scholes sounds like 'shoals' or 'coals' - pale lad with coal"
+
+- id: footballbusters-004
+  enabled: true
+  title: Footballbusters
+  topic: famous footballers British and international
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Footballbusters number four. You know the drill. Phonetic clues, famous players."
+  prize: "Email in. Winner gets a Match Attax tin with about twelve cards missing and a Freddo."
+  clues:
+    - number: 1
+      initials: R G
+      clue: "There's a bloke called Ry, right, and he's gone into a ravine - one of them deep ditchy things. Just sort of walked in."
+      answer: Ryan Giggs
+      aliases:
+        - ryan giggs
+      reasoning: "Ry + an + giggs = Ryan Giggs. Giggs sounds like 'gigs' or a deep giggle in a gig"
+    - number: 2
+      initials: M O
+      clue: "Someone's borrowed a fiver off Mike, said it was just for an hour. Six months later, they still owe him. He's a bit annoyed."
+      answer: Michael Owen
+      aliases:
+        - michael owen
+      reasoning: "Michael + ow + en = Michael Owen. Owen sounds like 'owin'' - as in owing money"
+    - number: 3
+      initials: B S
+      clue: "Right, that Swiss lad, he's gone and kicked a ball so hard it's landed in a bin. Straight in. First time."
+      answer: Bukayo Saka
+      aliases:
+        - bukayo saka
+      reasoning: "Boo-kay-oh + sack-a = Bukayo Saka. Saka sounds like 'sack-a' = put in a sack/bin"
+
+- id: footballbusters-005
+  enabled: true
+  title: Footballbusters
+  topic: famous footballers British and international
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Easy one this. Three famous footballers. Say the clue out loud and you'll hear it."
+  prize: "Email in. Winner gets a VHS tape of Euro 96 highlights, slightly chewed."
+  clues:
+    - number: 1
+      initials: T H
+      clue: "That bloke's been given a load of hen night stuff to carry. Like, all of it. Feather boa, sash, the lot. And his name's Thierry, apparently."
+      answer: Thierry Henry
+      aliases:
+        - thierry henry
+      reasoning: "Thierry + hen + ry = Thierry Henry. Hen = hen party, Henry sounds like hen-ry"
+    - number: 2
+      initials: P S
+      clue: "Right, Peter's gone into a blacksmith's. He's just stood there watching the fella make horseshoes. Fascinated, he is."
+      answer: Peter Schmeichel
+      aliases:
+        - peter schmeichel
+      reasoning: "Peter + schmei + chel = Peter Schmeichel. Schmeichel sounds like 'shmike-el' - like a blacksmith's michaelmas"
+    - number: 3
+      initials: J V
+      clue: "Jamie's got loads of fizzy pop. Loads of it. More than anyone needs, really. Just sort of hoarding it in his garage."
+      answer: Jamie Vardy
+      aliases:
+        - jamie vardy
+      reasoning: "Jamie + var + dy = Jamie Vardy. Vardy sounds like 'lardy' or 'hardy' - phonetically var-dee"
+
+- id: footballbusters-006
+  enabled: true
+  title: Footballbusters
+  topic: famous footballers British and international
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Right then. Footballbusters six. Three legendary players hidden in these clues."
+  prize: "Email in. Winner gets a bobblehead of a footballer who's been discontinued and a packet of bourbons."
+  clues:
+    - number: 1
+      initials: Z Z
+      clue: "There's a bloke called Zen, right, and he's gone dancing - like a proper swirling thing, spinning round. In a den."
+      answer: Zinedine Zidane
+      aliases:
+        - zinedine zidane
+      reasoning: "Zine + dine + Zi + dane = Zinedine Zidane. Zi-dane sounds like 'sea dancer' or 'Zi-dane' = Zen in a dancing den"
+    - number: 2
+      initials: R H
+      clue: "That lad Ron's gone and built a halo out of Dinho - which I think is a tropical fruit or something. Sort of worked."
+      answer: Ronaldinho
+      aliases:
+        - ronaldinho
+      reasoning: "Ron + al + dinho = Ronaldinho. Ron + ald + in + ho = Ronaldinho. Dinho sounds like 'din-oh' - noisy halo"
+    - number: 3
+      initials: C R
+      clue: "Christian's gone and done a really long run. Miles he's gone. Right down the road, past the shops, through the park. Mad."
+      answer: Cristiano Ronaldo
+      aliases:
+        - cristiano ronaldo
+      reasoning: "Chris + tiano + Ron + aldo = Cristiano Ronaldo. Tiano sounds like 'tea-an-oh', Ronaldo = Ron + aldo"
+
+- id: footballbusters-007
+  enabled: true
+  title: Footballbusters
+  topic: famous footballers British and international
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Footballbusters. Three clues. Say them out loud, you'll get it. Probably."
+  prize: "Email in. Winner gets a copy of FIFA 04 for the PS2 and a Walkers crisp multipack with one bag left."
+  clues:
+    - number: 1
+      initials: L M
+      clue: "That fella, Leo, right - he's gone and sent a really really tiny message. Proper small. You can barely read it."
+      answer: Lionel Messi
+      aliases:
+        - lionel messi
+      reasoning: "Lion + el + Mess + i = Lionel Messi. Lion = Leo, el = the, Messi sounds like 'messy' or 'message-y'"
+    - number: 2
+      initials: D M
+      clue: "Diego's found a marathon runner from a country that's just a bit odd-shaped on the map. He's staring at him."
+      answer: Diego Maradona
+      aliases:
+        - diego maradona
+      reasoning: "Die + ego + Mara + dona = Diego Maradona. Maradona sounds like 'mara-don-a' = marathon runner + dona"
+    - number: 3
+      initials: P
+      clue: "Right, imagine a really pale bloke called Pete. Now remove the 'ete'. What've you got? Don't overthink it."
+      answer: Pele
+      aliases:
+        - pele
+        - pelé
+      reasoning: "Pe + le = Pele. Pele sounds like 'peel-ay' - like peeling something, or a pale Pete without the 'te'"
+
+- id: footballbusters-008
+  enabled: true
+  title: Footballbusters
+  topic: famous footballers British and international
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Alright, Footballbusters again. You know the score. Listen to the clue, hear the name."
+  prize: "Email in. Winner gets a Premier League mug from 1997 and a slightly damp tube of Pringles."
+  clues:
+    - number: 1
+      initials: D B
+      clue: "Dave's found some ham - like a proper joint - and he's putting it near a little stream at the back of a field. That's all."
+      answer: David Beckham
+      aliases:
+        - david beckham
+      reasoning: "Day + vid + beck + ham = David Beckham. Beck = stream, ham = meat joint"
+    - number: 2
+      initials: W R
+      clue: "There's a fella, right, and he's spinning round and round like a loony. Gone completely doolally on the roundabout."
+      answer: Wayne Rooney
+      aliases:
+        - wayne rooney
+      reasoning: "Wayne + roon + ey = Wayne Rooney. Rooney rhymes with loony - someone doolally"
+    - number: 3
+      initials: B S
+      clue: "Some lad's kicking things into a bag repeatedly. Over and over. Just bagging stuff up like nobody's business."
+      answer: Bukayo Saka
+      aliases:
+        - bukayo saka
+      reasoning: "Boo + kay + oh + sack + a = Bukayo Saka. Saka sounds like 'sack-a' - packing into a sack"
+
+- id: footballbusters-009
+  enabled: true
+  title: Footballbusters
+  topic: famous footballers British and international
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Three more Footballbusters. World-class players in here somewhere. Have a go."
+  prize: "Email in. Winner gets a retro kit from a team that changed their badge in the nineties and some Space Raiders."
+  clues:
+    - number: 1
+      initials: S G
+      clue: "Steve's gone and put his car in gear - first gear, second gear, all the gears - for no reason, he's just in a car park."
+      answer: Steven Gerrard
+      aliases:
+        - steven gerrard
+      reasoning: "Steve + in + gear + rd = Steven Gerrard. Gear + ard = Gerrard, Steve + in = Steven"
+    - number: 2
+      initials: T H
+      clue: "Terry's standing in a farmyard. There's a load of hens there. He's just sort of watching them. Bit peaceful really."
+      answer: Thierry Henry
+      aliases:
+        - thierry henry
+      reasoning: "Terry + hen + ry = Thierry Henry. Thierry sounds like 'Terry', Henry = hen + ry"
+    - number: 3
+      initials: M O
+      clue: "Mike's lent someone a tenner and they haven't paid him back. They're still owing him. He's not said anything but he's noticed."
+      answer: Michael Owen
+      aliases:
+        - michael owen
+      reasoning: "Mike + ell + ow + in = Michael Owen. Owen sounds like 'owin'' as in still owed money"
+
+- id: footballbusters-010
+  enabled: true
+  title: Footballbusters
+  topic: famous footballers British and international
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Right, Footballbusters ten. Halfway through. Three clues, three legendary names."
+  prize: "Email in. Winner gets a World Cup wall chart from 2002 and a Twirl that's gone slightly white."
+  clues:
+    - number: 1
+      initials: F L
+      clue: "Frank's holding a lamp, right, and he's using it to light up a hard surface. Like a road. Just illuminating the tarmac."
+      answer: Frank Lampard
+      aliases:
+        - frank lampard
+      reasoning: "Frank + lamp + hard = Frank Lampard. Lamp = light source, hard = solid surface"
+    - number: 2
+      initials: A S
+      clue: "Alan's cutting something with really big scissors - like garden shears but industrial. He's going for it."
+      answer: Alan Shearer
+      aliases:
+        - alan shearer
+      reasoning: "Alan + shear + er = Alan Shearer. Shear = cutting with scissors/clippers, -er = the person doing it"
+    - number: 3
+      initials: R G
+      clue: "Ry's fallen into a gap - not a huge gap, just a narrow one between two things. And he's done it twice now."
+      answer: Ryan Giggs
+      aliases:
+        - ryan giggs
+      reasoning: "Ry + an + giggs = Ryan Giggs. Giggs sounds like 'gigs' or the sound of falling into gaps"
+
+- id: footballbusters-011
+  enabled: true
+  title: Footballbusters
+  topic: famous footballers British and international
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Footballbusters eleven. Players that made the beautiful game what it is. Allegedly."
+  prize: "Email in. Winner gets a dog-eared copy of Shoot! magazine from 1999 and a Cadbury's Fudge."
+  clues:
+    - number: 1
+      initials: P
+      clue: "That Brazilian lad's name - if you said it slowly, it sounds like you're peeling something. Like a banana. Which is appropriate."
+      answer: Pele
+      aliases:
+        - pele
+        - pelé
+      reasoning: "Pee + lay = Pele. Pele sounds like 'peel-ay' - the act of peeling"
+    - number: 2
+      initials: D M
+      clue: "Right, Diego's found a marathon. Not running it, just found one. And someone's gone and donated it. To a woman called Donna, apparently."
+      answer: Diego Maradona
+      aliases:
+        - diego maradona
+      reasoning: "Die + a + go + mara + don + a = Diego Maradona. Maradona = marathon-donated-a or mara + don + a"
+    - number: 3
+      initials: C R
+      clue: "Christian's done a roll. A proper roll. On the floor. Then got up and done another one. Committed to it."
+      answer: Cristiano Ronaldo
+      aliases:
+        - cristiano ronaldo
+      reasoning: "Chris + tee + an + oh + Ron + aldo = Cristiano Ronaldo. Ron + roll + do = Ronaldo, Chris + tian + o = Cristiano"
+
+- id: footballbusters-012
+  enabled: true
+  title: Footballbusters
+  topic: famous footballers British and international
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Alright. More football legends in phonetic form. Three of them. Off you go."
+  prize: "Email in. Winner gets a Champions League final ticket stub from a match they didn't go to and a Penguin bar."
+  clues:
+    - number: 1
+      initials: G L
+      clue: "Gary's drawn a straight line on a piece of paper. Just one line. Then he's underlined it. He seems pleased."
+      answer: Gary Lineker
+      aliases:
+        - gary lineker
+      reasoning: "Gary + line + ker = Gary Lineker. Line = straight mark, -ker suffix"
+    - number: 2
+      initials: H K
+      clue: "Harry's holding a walking stick, right, and he's waving it about. Bit dangerous really but he seems to know what he's doing."
+      answer: Harry Kane
+      aliases:
+        - harry kane
+      reasoning: "Harry + cane = Harry Kane. Cane = walking stick, Kane sounds exactly like cane"
+    - number: 3
+      initials: J V
+      clue: "Jamie's gone a bit green and wobbly. Like he's seasick but he's in a field. He's swaying about. Bit verdant he is."
+      answer: Jamie Vardy
+      aliases:
+        - jamie vardy
+      reasoning: "Jamie + var + dy = Jamie Vardy. Vardy rhymes with 'hardy' or sounds like 'var-dee' - verdant/verdy"
+
+- id: footballbusters-013
+  enabled: true
+  title: Footballbusters
+  topic: famous footballers British and international
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Footballbusters thirteen. Unlucky for some. Not for you though. Have a go."
+  prize: "Email in. Winner gets a limited edition Ferrero Rocher tin with three left in it and a lanyard."
+  clues:
+    - number: 1
+      initials: P S
+      clue: "Right, Pete's gone to the seaside and he's staring at loads of little fishes all swimming in a tight group together."
+      answer: Peter Schmeichel
+      aliases:
+        - peter schmeichel
+      reasoning: "Peter + sh + my + kel = Peter Schmeichel. Schmeichel sounds like 'sh-my-kel' = school of fish/shoal + Michael"
+    - number: 2
+      initials: P S
+      clue: "Paul's found a miner's bucket - one of them big industrial ones for scooping coal. He's just carrying it around for no reason."
+      answer: Paul Scholes
+      aliases:
+        - paul scholes
+      reasoning: "Paul + scholes = Paul Scholes. Scholes sounds like 'shoals' or 'coals' - a miner's scoop"
+    - number: 3
+      initials: D A
+      clue: "Del's gone and made a proper fancy ornament. Like, he got clay and sculpted it and everything. Dead artistic."
+      answer: Dele Alli
+      aliases:
+        - dele alli
+      reasoning: "Del + ay + al + ee = Dele Alli. Dele sounds like 'del-ay', Alli sounds like 'al-ee' - Del's arty"
+
+- id: footballbusters-014
+  enabled: true
+  title: Footballbusters
+  topic: famous footballers British and international
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Right, Footballbusters fourteen. Three more legends. Listen carefully, say it out loud."
+  prize: "Email in. Winner gets a foam finger from a sport they don't follow and some Lemon Sherbets."
+  clues:
+    - number: 1
+      initials: Z Z
+      clue: "Right, there's a bloke called Zen, and he's in a dining room. Just sitting there being calm. In a dining room. That's all."
+      answer: Zinedine Zidane
+      aliases:
+        - zinedine zidane
+      reasoning: "Zen + in + dine + Zi + dane = Zinedine Zidane. Zine + dine = zen in dining, Zidane = Zi + dane"
+    - number: 2
+      initials: L M
+      clue: "Leo's got a right mess on his hands. Literally - there's stuff all over them. He's been baking or something."
+      answer: Lionel Messi
+      aliases:
+        - lionel messi
+      reasoning: "Lion + el + messy = Lionel Messi. Leo = lion, el = Spanish the, Messi = messy"
+    - number: 3
+      initials: R H
+      clue: "Ron's making a racket. A proper din. He's banging pots and pans together in what I can only describe as a tropical way."
+      answer: Ronaldinho
+      aliases:
+        - ronaldinho
+      reasoning: "Ron + ald + in + oh = Ronaldinho. Ron + ald + in + ho = Ronaldinho. Din + ho = dinho"
+
+- id: footballbusters-015
+  enabled: true
+  title: Footballbusters
+  topic: famous footballers British and international
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Three famous footballers in phonetic disguise. You'll get at least one. Probably."
+  prize: "Email in. Winner gets a goalkeeper glove - one of them, not a pair - and a packet of Custard Creams."
+  clues:
+    - number: 1
+      initials: M R
+      clue: "Marcus has sprinted off somewhere. Really gone for it. Like, legs going like mad. Through a shallow bit of a river too."
+      answer: Marcus Rashford
+      aliases:
+        - marcus rashford
+      reasoning: "Marcus + rash + ford = Marcus Rashford. Rash = hasty/reckless, ford = shallow river crossing"
+    - number: 2
+      initials: B S
+      clue: "Boo - like someone's scared you - then Kay's got a little boat. And she's put it in a sack. Bit weird but sort of works."
+      answer: Bukayo Saka
+      aliases:
+        - bukayo saka
+      reasoning: "Boo + kay + oh + sack + a = Bukayo Saka. Boo = fright, kay = name, oh = exclamation, sack-a = put in sack"
+    - number: 3
+      initials: H K
+      clue: "Harry's leaning on a stick, right, like a walking cane. Just stood there. Looking like he owns the place. He doesn't."
+      answer: Harry Kane
+      aliases:
+        - harry kane
+      reasoning: "Harry + cane = Harry Kane. Kane sounds exactly like cane - a stick you lean on"
+
+- id: footballbusters-016
+  enabled: true
+  title: Footballbusters
+  topic: famous footballers British and international
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Footballbusters sixteen. Getting into the final stretch now. Three more phonetic legends."
+  prize: "Email in. Winner gets a programme from a match in 1994 and a HobNob in a sandwich bag."
+  clues:
+    - number: 1
+      initials: S G
+      clue: "Steve's put his vehicle in gear. Reverse gear. Just sitting on the driveway going backwards very slowly."
+      answer: Steven Gerrard
+      aliases:
+        - steven gerrard
+      reasoning: "Steve + in + gear + rd = Steven Gerrard. Steve + in = Steven, gear + rd = Gerrard"
+    - number: 2
+      initials: G L
+      clue: "Gary's drawn a dead straight line on a wall. One clean line. Then he's stepped back and admired it. Simple pleasures."
+      answer: Gary Lineker
+      aliases:
+        - gary lineker
+      reasoning: "Gary + line + ker = Gary Lineker. Line = the mark, -ker = suffix making it a person who lines"
+    - number: 3
+      initials: D B
+      clue: "Dave's got a little stream near a pig farm. He keeps going down there. It's become a routine. Dave and the beck."
+      answer: David Beckham
+      aliases:
+        - david beckham
+      reasoning: "Day + vid + beck + ham = David Beckham. Beck = stream, ham = place with pigs/meat"
+
+- id: footballbusters-017
+  enabled: true
+  title: Footballbusters
+  topic: famous footballers British and international
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Right then. Nearly there. Three more football phonetics. Concentrate."
+  prize: "Email in. Winner gets a cardboard trophy and a packet of Skips, the flavour nobody picks first."
+  clues:
+    - number: 1
+      initials: A S
+      clue: "Alan's got a giant pair of garden shears. And he's just going for it. Cutting everything in sight. Mad with them."
+      answer: Alan Shearer
+      aliases:
+        - alan shearer
+      reasoning: "Alan + shear + er = Alan Shearer. Shear = cutting action, -er = person who shears"
+    - number: 2
+      initials: F L
+      clue: "Right, Frank's walking down a dark road holding a lamp. Just lighting the way for himself. Could've used a torch."
+      answer: Frank Lampard
+      aliases:
+        - frank lampard
+      reasoning: "Frank + lamp + ard = Frank Lampard. Lamp = light, -ard = hard suffix like a lumbering sound"
+    - number: 3
+      initials: W R
+      clue: "There's a bloke called Wayne and he's come over all peculiar. Gone a bit round the bend. Doing circles on the roundabout."
+      answer: Wayne Rooney
+      aliases:
+        - wayne rooney
+      reasoning: "Wayne + roon + ey = Wayne Rooney. Rooney rhymes with loony/moony - doolally on the roundabout"
+
+- id: footballbusters-018
+  enabled: true
+  title: Footballbusters
+  topic: famous footballers British and international
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Footballbusters eighteen. Two to go after this. Three players hidden in phonetic nonsense."
+  prize: "Email in. Winner gets a football scarf that belongs to neither team playing today and a Drifter bar."
+  clues:
+    - number: 1
+      initials: P
+      clue: "Imagine the word 'peel' but someone from Brazil said it and then added an 'ay' sound at the end. Say it out loud."
+      answer: Pele
+      aliases:
+        - pele
+        - pelé
+      reasoning: "Pee + lay = Pele. Pele sounds like 'peel-ay' - peeling + ay exclamation"
+    - number: 2
+      initials: T H
+      clue: "Terry's round the back of a farm. All the hens are out. He's just standing there in the middle of them. Content."
+      answer: Thierry Henry
+      aliases:
+        - thierry henry
+      reasoning: "Terry + hen + ry = Thierry Henry. Thierry sounds like Terry, Henry = hen + ry"
+    - number: 3
+      initials: M O
+      clue: "Mike's lent out money and he's not been paid back. He's owed quite a bit now. He's thinking about it but hasn't said owt."
+      answer: Michael Owen
+      aliases:
+        - michael owen
+      reasoning: "Mike + ull + ow + en = Michael Owen. Michael = Mikey + ull, Owen = owin' = still owed"
+
+- id: footballbusters-019
+  enabled: true
+  title: Footballbusters
+  topic: famous footballers British and international
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Penultimate Footballbusters. Three clues. Give it a go."
+  prize: "Email in. Winner gets a World Cup 2006 Panini sticker book with all the German players filled in and nothing else."
+  clues:
+    - number: 1
+      initials: R G
+      clue: "Right, Ry's gone down a gap - a narrow bit between two buildings. He went in once, came out, then went back in again."
+      answer: Ryan Giggs
+      aliases:
+        - ryan giggs
+      reasoning: "Ry + an + giggs = Ryan Giggs. Giggs sounds like the noise of slipping into gaps"
+    - number: 2
+      initials: P S
+      clue: "Paul's standing in a coal yard. He's very pale. He's picked up a shovel. The coal is in little rounded piles. That's all."
+      answer: Paul Scholes
+      aliases:
+        - paul scholes
+      reasoning: "Paul + scholes = Paul Scholes. Scholes sounds like 'shoals' or 'coals' - pale fella in coal yard"
+    - number: 3
+      initials: D A
+      clue: "Del's delayed things again. He's always late, Del is. Running behind. Everything's in a state of delay with Del."
+      answer: Dele Alli
+      aliases:
+        - dele alli
+      reasoning: "Del + ay + al + ee = Dele Alli. Dele = delay minus the y, Alli = alley/Ali"
+
+- id: footballbusters-020
+  enabled: true
+  title: Footballbusters
+  topic: famous footballers British and international
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Last one. Footballbusters twenty. Three final clues, three final legends. You've earned it."
+  prize: "Email in. Winner gets a golden boot keyring from a petrol station forecourt and the sense of having done well."
+  clues:
+    - number: 1
+      initials: J V
+      clue: "Jamie's celebrating. He's proper chuffed. Arms in the air, running about. Like he's just scored the winner in the last minute."
+      answer: Jamie Vardy
+      aliases:
+        - jamie vardy
+      reasoning: "Jamie + var + dy = Jamie Vardy. Vardy rhymes with 'party' - celebration/last-minute winner energy"
+    - number: 2
+      initials: C R
+      clue: "Christian's gone and done a somersault. A full one. Then stood up, fixed his hair, looked dead calm. Class."
+      answer: Cristiano Ronaldo
+      aliases:
+        - cristiano ronaldo
+      reasoning: "Chris + tian + oh + Ron + aldo = Cristiano Ronaldo. Ron + roll + do = Ronaldo, Chris + tian + o = Cristiano"
+    - number: 3
+      initials: M R
+      clue: "Marcus went off in a rush - really bolted - straight through a shallow stream without stopping. Soaked his trainers."
+      answer: Marcus Rashford
+      aliases:
+        - marcus rashford
+      reasoning: "Marcus + rash + ford = Marcus Rashford. Rash = impulsive rush, ford = shallow water crossing"

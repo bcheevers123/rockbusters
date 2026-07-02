@@ -1,0 +1,684 @@
+- id: placebusters-001
+  enabled: true
+  title: Placebusters
+  topic: UK places landmarks and tourist attractions
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Placebusters. Rockbusters but every answer is a famous UK landmark or tourist spot. Say them out loud."
+  prize: "Email in. Winner gets a fridge magnet of a castle and a laminated map of the Midlands."
+  clues:
+    - number: 1
+      initials: S H
+      clue: "Right, that big flat rock, it's a bit rusty and creaky, like the thing your door swings on. Sort of makes a noise."
+      answer: Stonehenge
+      aliases:
+        - stonehenge
+        - stone henge
+      reasoning: "stone (big flat rock) + henge (sounds like hinge, thing your door swings on) = Stonehenge"
+    - number: 2
+      initials: B B
+      clue: "Some massive fella called Ben - he's just standing there looking well pleased with himself. That's all."
+      answer: Big Ben
+      aliases:
+        - big ben
+      reasoning: "big (massive) + Ben (fella's name) = Big Ben"
+    - number: 3
+      initials: T B
+      clue: "There's a tall building, right, and underneath it someone's gone and built a way across the water. Bit ambitious."
+      answer: Tower Bridge
+      aliases:
+        - tower bridge
+      reasoning: "tower (tall building) + bridge (way across water) = Tower Bridge"
+
+- id: placebusters-002
+  enabled: true
+  title: Placebusters
+  topic: UK places landmarks and tourist attractions
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "More Placebusters. All famous UK landmarks. Don't overthink it - say it out loud."
+  prize: "Email in. Winner gets a tea towel with a picture of Windsor on it and a complimentary pen."
+  clues:
+    - number: 1
+      initials: B P
+      clue: "That male deer, right, he's been going at it - bucking away - and he's brought home a great big posh house. Bit over the top."
+      answer: Buckingham Palace
+      aliases:
+        - buckingham palace
+      reasoning: "bucking (what a deer does) + ham (pig meat) + palace (posh house) = Buckingham Palace"
+    - number: 2
+      initials: W C
+      clue: "Easy one. The breeze, it's got two choices here, and one of them is a big old fort up on a hill. Alright?"
+      answer: Windsor Castle
+      aliases:
+        - windsor castle
+      reasoning: "winds (the breeze) + or (two choices) = Windsor + castle (big fort) = Windsor Castle"
+    - number: 3
+      initials: H W
+      clue: "Old Roman emperor, right, he's had a bit of a barrier put up. Keeping things out. Can't argue with that."
+      answer: Hadrians Wall
+      aliases:
+        - hadrians wall
+        - hadrian's wall
+      reasoning: "Hadrian (Roman emperor fella) + wall (barrier) = Hadrian's Wall"
+
+- id: placebusters-003
+  enabled: true
+  title: Placebusters
+  topic: UK places landmarks and tourist attractions
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Right, Placebusters round three. UK landmarks. If you know your geography this should be a doddle."
+  prize: "Email in. Winner gets a Shrek on DVD and a postcard from a National Park."
+  clues:
+    - number: 1
+      initials: L D
+      clue: "There's a massive bit of water - not the sea, mind - and it's got its own area. Claimed it, like."
+      answer: Lake District
+      aliases:
+        - lake district
+        - the lake district
+      reasoning: "lake (massive bit of water, not sea) + district (its own area) = Lake District"
+    - number: 2
+      initials: P D
+      clue: "Right, that mountain's reached the top - the very top - and it's now in charge of its own patch. You know what I mean."
+      answer: Peak District
+      aliases:
+        - peak district
+        - the peak district
+      reasoning: "peak (very top of a mountain) + district (its own patch) = Peak District"
+    - number: 3
+      initials: Y D
+      clue: "Some bloke from up north, wearing a flat cap, and he's wandering through these long narrow valleys. Sort of thing they do up there."
+      answer: Yorkshire Dales
+      aliases:
+        - yorkshire dales
+        - the yorkshire dales
+      reasoning: "Yorkshire (up north, flat cap) + dales (long narrow valleys) = Yorkshire Dales"
+
+- id: placebusters-004
+  enabled: true
+  title: Placebusters
+  topic: UK places landmarks and tourist attractions
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Placebusters. Three clues, all UK landmarks. Phonetic riddles. Say them out loud - that's the whole trick."
+  prize: "Email in. Winner gets a loyalty card for a cafe that shut in 2009 and a novelty compass."
+  clues:
+    - number: 1
+      initials: D
+      clue: "That pointy thing you throw at a board, right, someone's gone and made a whole big boggy area out of it. Devon way."
+      answer: Dartmoor
+      aliases:
+        - dartmoor
+        - the dartmoor
+      reasoning: "dart (pointy thing you throw) + moor (boggy area) = Dartmoor"
+    - number: 2
+      initials: S
+      clue: "It's that white stuff that falls in winter, yeah, and it's landed on a big dome. In Wales, this one."
+      answer: Snowdonia
+      aliases:
+        - snowdonia
+      reasoning: "snow (white stuff in winter) + dome (big round thing) + ia = Snowdonia"
+    - number: 3
+      initials: B N
+      clue: "Some fella called Ben - not Big Ben, different one - and he's never actually done it. Whatever it is. Scotland."
+      answer: Ben Nevis
+      aliases:
+        - ben nevis
+      reasoning: "Ben (fella's name) + never + is = Ben Nevis"
+
+- id: placebusters-005
+  enabled: true
+  title: Placebusters
+  topic: UK places landmarks and tourist attractions
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Alright, Placebusters. Five sets in now. Still UK landmarks and tourist spots."
+  prize: "Email in. Winner gets a Now 38 cassette and a car air freshener shaped like a castle."
+  clues:
+    - number: 1
+      initials: L N
+      clue: "Right, you've gone and secured the door - used the padlock - and now there's something massive and possibly alive in the water. Scotland."
+      answer: Loch Ness
+      aliases:
+        - loch ness
+      reasoning: "lock (secured the door, padlock) + Ness (something massive in the water) = Loch Ness"
+    - number: 2
+      initials: G C
+      clue: "Them massive tall fellas, right - like from a fairy tale - they've made a path. Across the water. Northern Ireland."
+      answer: Giants Causeway
+      aliases:
+        - giants causeway
+        - the giants causeway
+      reasoning: "giants (massive tall fellas from fairy tales) + cause + way (a path) = Giants Causeway"
+    - number: 3
+      initials: B T
+      clue: "The colour of night, the swimming pool - and right on top of it all there's something very tall. Lancashire."
+      answer: Blackpool Tower
+      aliases:
+        - blackpool tower
+        - the blackpool tower
+      reasoning: "black (colour of night) + pool (swimming pool) + tower (very tall thing) = Blackpool Tower"
+
+- id: placebusters-006
+  enabled: true
+  title: Placebusters
+  topic: UK places landmarks and tourist attractions
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Placebusters is back. UK landmarks, tourist spots, famous places. Three clues. Off you go."
+  prize: "Email in. Winner gets a Blockbuster video membership card and a pencil from a museum gift shop."
+  clues:
+    - number: 1
+      initials: W S
+      clue: "That place where they play football, right, the big national one, it's got a bit damp and uncomfortable. Gone all soggy."
+      answer: Wembley Stadium
+      aliases:
+        - wembley stadium
+      reasoning: "Wem (damp/soggy sounds like wem) + blee + stadium = Wembley Stadium"
+    - number: 2
+      initials: L C G
+      clue: "Someone's in charge here - a proper lord - and he's gone and scratched something into the ground using a little cricket thing. Don't ask."
+      answer: Lords Cricket Ground
+      aliases:
+        - lords cricket ground
+        - lord's cricket ground
+      reasoning: "Lords (someone in charge) + cricket (the sport) + ground (scratched into the ground) = Lord's Cricket Ground"
+    - number: 3
+      initials: G
+      clue: "Right. Drinking vessel, right, made of glass, and it's full of loads of things that are buried in the earth. Somerset."
+      answer: Glastonbury
+      aliases:
+        - glastonbury
+      reasoning: "glass (drinking vessel) + ton (loads of things) + bury (buried in earth) = Glastonbury"
+
+- id: placebusters-007
+  enabled: true
+  title: Placebusters
+  topic: UK places landmarks and tourist attractions
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "More Placebusters. Say the clue out loud - the answer's hiding in the sounds."
+  prize: "Email in. Winner gets a printed photo from a disposable camera, framed, of somewhere in England."
+  clues:
+    - number: 1
+      initials: A T
+      clue: "Some fella called Al, right, he owns a massive amount - a ton of stuff. And it's all towers. Staffordshire."
+      answer: Alton Towers
+      aliases:
+        - alton towers
+      reasoning: "All (massive amount) + ton (a lot) + towers (tall structures) = Alton Towers"
+    - number: 2
+      initials: E P
+      clue: "That bloke Adam - from the Bible, the original one - he's got a massive construction project on the go. Cornwall."
+      answer: Eden Project
+      aliases:
+        - eden project
+        - the eden project
+      reasoning: "Eden (garden of Eden, Adam and Eve) + project (big construction) = Eden Project"
+    - number: 3
+      initials: D C
+      clue: "Them massive church towers up north - proper Norman ones - and someone's gone and put a big pointy roof on the lot of them. Durham."
+      answer: Durham Cathedral
+      aliases:
+        - durham cathedral
+      reasoning: "Durham (up north) + cathedral (massive church with towers) = Durham Cathedral"
+
+- id: placebusters-008
+  enabled: true
+  title: Placebusters
+  topic: UK places landmarks and tourist attractions
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Placebusters. Eight sets in. All famous UK spots. Right then."
+  prize: "Email in. Winner gets an AOL trial disc and a branded lanyard from a trade show."
+  clues:
+    - number: 1
+      initials: S H
+      clue: "That flat slab of rock again - a different one this time - and it's making a creaky noise every time the wind blows. Wiltshire."
+      answer: Stonehenge
+      aliases:
+        - stonehenge
+      reasoning: "stone (flat slab of rock) + henge (sounds like hinge, creaky when wind blows) = Stonehenge"
+    - number: 2
+      initials: T B
+      clue: "Right, some tall building - you can see it from miles - and underneath it there's this crossing over the Thames. That's all."
+      answer: Tower Bridge
+      aliases:
+        - tower bridge
+      reasoning: "tower (tall thing, visible for miles) + bridge (crossing the river) = Tower Bridge"
+    - number: 3
+      initials: W C
+      clue: "The gust of air, it's got a decision to make, and one of those options is a massive old fortress. Berkshire."
+      answer: Windsor Castle
+      aliases:
+        - windsor castle
+      reasoning: "winds (gust of air) + or (decision, either/or) + castle (massive fortress) = Windsor Castle"
+
+- id: placebusters-009
+  enabled: true
+  title: Placebusters
+  topic: UK places landmarks and tourist attractions
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Right, Placebusters round nine. Still going. UK landmarks - say these out loud."
+  prize: "Email in. Winner gets a Milky Bar and a novelty pen shaped like a lighthouse."
+  clues:
+    - number: 1
+      initials: B B
+      clue: "Easy one this. A very large bloke named Ben. Standing there. That's it. London."
+      answer: Big Ben
+      aliases:
+        - big ben
+      reasoning: "big (very large) + Ben (bloke's name) = Big Ben"
+    - number: 2
+      initials: L D
+      clue: "Loads of massive puddles, right - great big ones - and they've all clubbed together and formed their own little area. Cumbria."
+      answer: Lake District
+      aliases:
+        - lake district
+        - the lake district
+      reasoning: "lake (massive puddle) + district (their own little area) = Lake District"
+    - number: 3
+      initials: H W
+      clue: "Some emperor's built a massive fence right across the top of England. Kept himself busy, like."
+      answer: Hadrians Wall
+      aliases:
+        - hadrians wall
+        - hadrian's wall
+      reasoning: "Hadrian (Roman emperor) + wall (massive fence) = Hadrian's Wall"
+
+- id: placebusters-010
+  enabled: true
+  title: Placebusters
+  topic: UK places landmarks and tourist attractions
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Ten sets of Placebusters. All UK tourist attractions. Don't overthink them."
+  prize: "Email in. Winner gets a stress ball shaped like a tower and a lanyard from a theme park."
+  clues:
+    - number: 1
+      initials: B P
+      clue: "Right, a male deer's having a proper tantrum - throwing itself about - and it's ended up at this massive posh gaff in London."
+      answer: Buckingham Palace
+      aliases:
+        - buckingham palace
+      reasoning: "bucking (deer throwing itself about) + ham + palace (massive posh gaff) = Buckingham Palace"
+    - number: 2
+      initials: S
+      clue: "That white stuff from the sky, right, it's settled on a big rounded hilltop. Wales, this one."
+      answer: Snowdonia
+      aliases:
+        - snowdonia
+      reasoning: "snow (white stuff from sky) + dome (big rounded top) + ia = Snowdonia"
+    - number: 3
+      initials: B N
+      clue: "Some lad called Ben - this one's Scottish - and the thing is, he never actually gets to the bottom. He's always at the top."
+      answer: Ben Nevis
+      aliases:
+        - ben nevis
+      reasoning: "Ben (lad's name) + never + is (contracted) = Ben Nevis"
+
+- id: placebusters-011
+  enabled: true
+  title: Placebusters
+  topic: UK places landmarks and tourist attractions
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Placebusters. Eleven in. Clues are phonetic riddles - the sounds give you the answer."
+  prize: "Email in. Winner gets a DVD of Crocodile Dundee and a mini travel umbrella."
+  clues:
+    - number: 1
+      initials: D
+      clue: "Someone's lobbed that pointy pub game thing, right, and now there's a great big open moor where it landed. Devon."
+      answer: Dartmoor
+      aliases:
+        - dartmoor
+        - the dartmoor
+      reasoning: "dart (pointy pub game thing) + moor (great big open moor) = Dartmoor"
+    - number: 2
+      initials: L N
+      clue: "Padlocked the gate, haven't they. And there's something massive lurking under the water. Scotland. Say it out loud."
+      answer: Loch Ness
+      aliases:
+        - loch ness
+      reasoning: "lock (padlocked) + Ness (massive lurking thing) = Loch Ness"
+    - number: 3
+      initials: G
+      clue: "A great big pane of see-through stuff, and buried underneath it - loads of it. Somerset music festival one, this."
+      answer: Glastonbury
+      aliases:
+        - glastonbury
+      reasoning: "glass (see-through stuff) + ton (loads of it) + bury (buried underneath) = Glastonbury"
+
+- id: placebusters-012
+  enabled: true
+  title: Placebusters
+  topic: UK places landmarks and tourist attractions
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Right, Placebusters twelve. Three UK landmarks. You know the drill by now."
+  prize: "Email in. Winner gets a copy of Grease on VHS and a badge from a heritage site."
+  clues:
+    - number: 1
+      initials: G C
+      clue: "Them enormous people from the old stories, right, they've built a road. Across the sea, basically. Northern Ireland."
+      answer: Giants Causeway
+      aliases:
+        - giants causeway
+        - the giants causeway
+      reasoning: "giants (enormous people from old stories) + cause + way (a road) = Giants Causeway"
+    - number: 2
+      initials: W S
+      clue: "It's gone a bit soggy, the ground around the big football ground. National one, London. Sort of works."
+      answer: Wembley Stadium
+      aliases:
+        - wembley stadium
+      reasoning: "Wem (sounds like damp/soggy) + bley + stadium = Wembley Stadium"
+    - number: 3
+      initials: E P
+      clue: "Big garden, that biblical one, and someone's saying it's a big build. Loads of domes. Cornwall."
+      answer: Eden Project
+      aliases:
+        - eden project
+        - the eden project
+      reasoning: "Eden (biblical garden) + project (big build) = Eden Project"
+
+- id: placebusters-013
+  enabled: true
+  title: Placebusters
+  topic: UK places landmarks and tourist attractions
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Placebusters thirteen. Unlucky for some but not for you if you get these right."
+  prize: "Email in. Winner gets a NOW 41 CD and a fridge magnet from a motorway services."
+  clues:
+    - number: 1
+      initials: B T
+      clue: "Darkest colour, then a swimming pool, then something absolutely enormous poking up into the sky. Lancashire coast."
+      answer: Blackpool Tower
+      aliases:
+        - blackpool tower
+        - the blackpool tower
+      reasoning: "black (darkest colour) + pool (swimming pool) + tower (enormous thing poking up) = Blackpool Tower"
+    - number: 2
+      initials: Y D
+      clue: "Right. Man in a flat cap from up north. There's a load of valleys where he lives. Long and green, they are."
+      answer: Yorkshire Dales
+      aliases:
+        - yorkshire dales
+        - the yorkshire dales
+      reasoning: "Yorkshire (man in flat cap, up north) + dales (long green valleys) = Yorkshire Dales"
+    - number: 3
+      initials: P D
+      clue: "Reached the absolute summit, haven't they. And now they've gone and made it a whole district. Just because they got to the top."
+      answer: Peak District
+      aliases:
+        - peak district
+        - the peak district
+      reasoning: "peak (absolute summit) + district (its own area) = Peak District"
+
+- id: placebusters-014
+  enabled: true
+  title: Placebusters
+  topic: UK places landmarks and tourist attractions
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Alright Placebusters. Fourteen in. Still going with the UK landmarks."
+  prize: "Email in. Winner gets a Subway loyalty card with three stamps already on it and a key fob."
+  clues:
+    - number: 1
+      initials: L C G
+      clue: "He's a proper lord, this fella. And he's gone and scratched a little wicket into the turf with his little bat. Cricket, like."
+      answer: Lords Cricket Ground
+      aliases:
+        - lords cricket ground
+        - lord's cricket ground
+      reasoning: "Lords (proper lord fella) + cricket (little bat, wicket) + ground (the turf) = Lord's Cricket Ground"
+    - number: 2
+      initials: D C
+      clue: "Big old Norman church, right, biggest one in the north, and it's got these towers and a massive roof. Durham."
+      answer: Durham Cathedral
+      aliases:
+        - durham cathedral
+      reasoning: "Durham (big old Norman city) + cathedral (massive church with towers) = Durham Cathedral"
+    - number: 3
+      initials: A T
+      clue: "Right, loads and loads of stuff - a proper ton of it - and it's all in these great big towers. Staffordshire theme park."
+      answer: Alton Towers
+      aliases:
+        - alton towers
+      reasoning: "all (loads of stuff) + ton (a proper ton) + towers (great big towers) = Alton Towers"
+
+- id: placebusters-015
+  enabled: true
+  title: Placebusters
+  topic: UK places landmarks and tourist attractions
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Fifteen rounds of Placebusters. You should know the format by now. Say them out loud."
+  prize: "Email in. Winner gets a personalised mug from a seaside photo booth and a spork."
+  clues:
+    - number: 1
+      initials: S H
+      clue: "Flat rock. Creaky door hinge noise. Wiltshire. That's all you need, really."
+      answer: Stonehenge
+      aliases:
+        - stonehenge
+      reasoning: "stone (flat rock) + henge (sounds like hinge, creaky noise) = Stonehenge"
+    - number: 2
+      initials: B P
+      clue: "A deer doing what it does when it bucks, right, and the pig meat's somehow involved, and at the end of it all there's a massive royal house. London."
+      answer: Buckingham Palace
+      aliases:
+        - buckingham palace
+      reasoning: "bucking (deer bucking) + ham (pig meat) + palace (massive royal house) = Buckingham Palace"
+    - number: 3
+      initials: L N
+      clue: "You've locked the thing - properly secured it - and there's this creature in the water. Nobody knows what it is. Scottish loch."
+      answer: Loch Ness
+      aliases:
+        - loch ness
+      reasoning: "lock (locked, secured) + Ness (creature in the water) = Loch Ness"
+
+- id: placebusters-016
+  enabled: true
+  title: Placebusters
+  topic: UK places landmarks and tourist attractions
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Right then. Placebusters, round sixteen. All UK. Say them out loud - the sounds do the work."
+  prize: "Email in. Winner gets a 1998 diary with half the year still blank and a multipack of Wotsits."
+  clues:
+    - number: 1
+      initials: T B
+      clue: "Right. Tall thing. Then a crossing over the Thames. Been there for years. Very famous."
+      answer: Tower Bridge
+      aliases:
+        - tower bridge
+      reasoning: "tower (tall thing) + bridge (crossing over the Thames) = Tower Bridge"
+    - number: 2
+      initials: B N
+      clue: "A Scottish lad, name of Ben. He's at the top of everything and he just never comes down. Never. Scotland's highest."
+      answer: Ben Nevis
+      aliases:
+        - ben nevis
+      reasoning: "Ben (Scottish lad's name) + never + is = Ben Nevis"
+    - number: 3
+      initials: G C
+      clue: "The big ones - massive great people from legends - they've only gone and built a pathway. Across the sea. Northern Ireland coast."
+      answer: Giants Causeway
+      aliases:
+        - giants causeway
+        - the giants causeway
+      reasoning: "giants (massive people from legends) + cause + way (pathway) = Giants Causeway"
+
+- id: placebusters-017
+  enabled: true
+  title: Placebusters
+  topic: UK places landmarks and tourist attractions
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Placebusters seventeen. Nearly there. UK landmarks and tourist spots."
+  prize: "Email in. Winner gets a Fun Size Twix and a laminated certificate of participation."
+  clues:
+    - number: 1
+      initials: W S
+      clue: "Right, the whole ground's got soggy - proper wet through - and it's a huge famous football arena. London."
+      answer: Wembley Stadium
+      aliases:
+        - wembley stadium
+      reasoning: "Wem (damp, soggy) + bley + stadium (huge football arena) = Wembley Stadium"
+    - number: 2
+      initials: H W
+      clue: "That old Roman emperor - Hadrian - he's stuck a massive wall right across northern England and called it a day."
+      answer: Hadrians Wall
+      aliases:
+        - hadrians wall
+        - hadrian's wall
+      reasoning: "Hadrian (Roman emperor) + wall (massive barrier) = Hadrian's Wall"
+    - number: 3
+      initials: D
+      clue: "You've thrown that little pointy thing and it's hit the boggy moorland. Devon. Near enough."
+      answer: Dartmoor
+      aliases:
+        - dartmoor
+      reasoning: "dart (little pointy thing you throw) + moor (boggy moorland) = Dartmoor"
+
+- id: placebusters-018
+  enabled: true
+  title: Placebusters
+  topic: UK places landmarks and tourist attractions
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Placebusters. Eighteen in. Still UK landmarks. You know the score."
+  prize: "Email in. Winner gets a Big Brother Series 3 souvenir booklet and some travel sweets."
+  clues:
+    - number: 1
+      initials: B B
+      clue: "Him over there - big lad called Ben - he's just standing in London looking at everyone. That's his whole thing."
+      answer: Big Ben
+      aliases:
+        - big ben
+      reasoning: "big (big lad) + Ben (his name) = Big Ben"
+    - number: 2
+      initials: E P
+      clue: "Garden of Eden - that one with Adam and Eve - and someone's announced a massive building scheme. Cornwall."
+      answer: Eden Project
+      aliases:
+        - eden project
+        - the eden project
+      reasoning: "Eden (biblical garden) + project (massive building scheme) = Eden Project"
+    - number: 3
+      initials: Y D
+      clue: "Up north, right, bloke in a flat cap, he's wandering through a load of long shallow valleys. Yorkshire."
+      answer: Yorkshire Dales
+      aliases:
+        - yorkshire dales
+        - the yorkshire dales
+      reasoning: "Yorkshire (up north, flat cap) + dales (long shallow valleys) = Yorkshire Dales"
+
+- id: placebusters-019
+  enabled: true
+  title: Placebusters
+  topic: UK places landmarks and tourist attractions
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Nearly at the end now. Placebusters nineteen. All UK. Three clues. Go on then."
+  prize: "Email in. Winner gets a Woolworths carrier bag that survived and a pick 'n' mix pot."
+  clues:
+    - number: 1
+      initials: S
+      clue: "White winter stuff falling from the sky, landed on a dome shape. Big one. Wales."
+      answer: Snowdonia
+      aliases:
+        - snowdonia
+      reasoning: "snow (white winter stuff) + dome (big dome shape) + ia = Snowdonia"
+    - number: 2
+      initials: G
+      clue: "Right, there's a big glass thing and everything's buried underneath it. Somerset festival name, this."
+      answer: Glastonbury
+      aliases:
+        - glastonbury
+      reasoning: "glass (big glass thing) + ton (loads) + bury (buried underneath) = Glastonbury"
+    - number: 3
+      initials: B T
+      clue: "The darkest colour you can think of, then a swimming pool, then a very tall structure. Seaside. Lancashire."
+      answer: Blackpool Tower
+      aliases:
+        - blackpool tower
+        - the blackpool tower
+      reasoning: "black (darkest colour) + pool (swimming pool) + tower (very tall structure) = Blackpool Tower"
+
+- id: placebusters-020
+  enabled: true
+  title: Placebusters
+  topic: UK places landmarks and tourist attractions
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+    - UK
+  intro: "Last one. Placebusters twenty. Final set. UK landmarks - three clues. Give it a go."
+  prize: "Email in. Winner gets a Smash Hits annual from 1997 and a bottle of Sunny Delight."
+  clues:
+    - number: 1
+      initials: L C G
+      clue: "Right, a lord - proper title and everything - and he's gone and scratched a wicket into the ground with a cricket bat. London."
+      answer: Lords Cricket Ground
+      aliases:
+        - lords cricket ground
+        - lord's cricket ground
+      reasoning: "Lords (proper title) + cricket (wicket, bat) + ground (scratched into the ground) = Lord's Cricket Ground"
+    - number: 2
+      initials: A T
+      clue: "The whole lot of it - every last bit - and there's a ton of it, sitting in towers. Staffordshire."
+      answer: Alton Towers
+      aliases:
+        - alton towers
+      reasoning: "all (every last bit) + ton (a ton of it) + towers (sitting in towers) = Alton Towers"
+    - number: 3
+      initials: D C
+      clue: "Big old church - proper massive Norman one. Towers, pointed roof, the lot. Durham. That'll do."
+      answer: Durham Cathedral
+      aliases:
+        - durham cathedral
+      reasoning: "Durham (big old Norman city) + cathedral (massive church) = Durham Cathedral"

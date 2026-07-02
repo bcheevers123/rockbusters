@@ -1,0 +1,680 @@
+- id: sportbusters-021
+  enabled: true
+  title: Sportbusters
+  topic: tennis players golfers boxers and other sports personalities
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Right, Sportbusters. Rockbusters but it's all sports personalities. Say these out loud - the answers are hiding in the sounds."
+  prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
+  clues:
+    - number: 1
+      initials: B B
+      clue: "That bloke's got a bit dull, right, and now he's waving at someone across the room. That's all."
+      answer: Boris Becker
+      aliases:
+        - boris becker
+      reasoning: "bore-iss (boring, becoming dull) + beck-er (beckoning someone) = Boris Becker"
+    - number: 2
+      initials: S G
+      clue: "She's gone a bit stuffy in that flat, then she went and drew a line on a piece of paper. Near enough."
+      answer: Steffi Graf
+      aliases:
+        - steffi graf
+      reasoning: "steffy (stuffy, stale air in a flat) + graff (graph, line on paper) = Steffi Graf"
+    - number: 3
+      initials: P S
+      clue: "Some lad called Pete's out in the garden cutting the lawn, and there's bits of it flying everywhere."
+      answer: Pete Sampras
+      aliases:
+        - pete sampras
+      reasoning: "Pete + sam (some) + grass (lawn) = Pete Sampras"
+
+- id: sportbusters-022
+  enabled: true
+  title: Sportbusters
+  topic: tennis players golfers boxers and other sports personalities
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Sportbusters two. Three more sports personalities in phonetic clues. Have a go."
+  prize: "Email in. Winner gets a printed photo from a disposable camera, framed."
+  clues:
+    - number: 1
+      initials: A A
+      clue: "Right, so this fella Ray's gone and done something, and the result of it all smells a bit dodgy. Bit gassy."
+      answer: Andre Agassi
+      aliases:
+        - andre agassi
+      reasoning: "and-Ray (and Ray has done something) + a-gassy (a bit gassy, smell) = Andre Agassi"
+    - number: 2
+      initials: J M
+      clue: "Bloke's gone off somewhere wearing that big padded coat, then he had a massive argument about it."
+      answer: John McEnroe
+      aliases:
+        - john mcenroe
+      reasoning: "john (gone) + mac (padded coat) + en-roe (a row, an argument) = John McEnroe"
+    - number: 3
+      initials: J C
+      clue: "Someone's forcing open a lock with a little tool, then they got caught by the police. Sort of makes sense."
+      answer: Jimmy Connors
+      aliases:
+        - jimmy connors
+      reasoning: "jimmy (to jimmy a lock open) + con (caught by police, a con) + ors = Jimmy Connors"
+
+- id: sportbusters-023
+  enabled: true
+  title: Sportbusters
+  topic: tennis players golfers boxers and other sports personalities
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Three more sports names in phonetic form. Don't overthink it."
+  prize: "Email in. Winner gets a DVD copy of The Full Monty and some Value biscuits."
+  clues:
+    - number: 1
+      initials: B B
+      clue: "This fella was brought into the world, right, and now he's got a robotic implant or something. Bit weird."
+      answer: Bjorn Borg
+      aliases:
+        - bjorn borg
+      reasoning: "bjorn (born, came into the world) + borg (like a cyborg implant) = Bjorn Borg"
+    - number: 2
+      initials: T W
+      clue: "Someone's tied a knot in something, then they've gone for a wander in some trees. That's all."
+      answer: Tiger Woods
+      aliases:
+        - tiger woods
+      reasoning: "tie-ger (tying, making a knot) + woods (a woodland, trees) = Tiger Woods"
+    - number: 3
+      initials: N F
+      clue: "Right, so something's been stolen from on top of the bread dough. Someone's nicked it."
+      answer: Nick Faldo
+      aliases:
+        - nick faldo
+      reasoning: "nick (to steal, to nick) + fall (fall) + dough (bread dough) = Nick Faldo"
+
+- id: sportbusters-024
+  enabled: true
+  title: Sportbusters
+  topic: tennis players golfers boxers and other sports personalities
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Sportbusters four. All sports names. Say them out loud - that's the only way."
+  prize: "Email in. Winner gets a Britannica CD-ROM and a pen that doesn't really work."
+  clues:
+    - number: 1
+      initials: C M
+      clue: "Someone's shouting for a bloke, right, and he's up a big hill chewing on something rubbery."
+      answer: Colin Montgomerie
+      aliases:
+        - colin montgomerie
+        - colin montgomerie
+      reasoning: "calling (shouting for someone) + mount (a big hill) + gum (chewing something rubbery) + ery = Colin Montgomerie"
+    - number: 2
+      initials: S L
+      clue: "The beach, yeah, it's all gritty and that. Then there's this bloke telling lies about something."
+      answer: Sandy Lyle
+      aliases:
+        - sandy lyle
+      reasoning: "sandy (sandy, like a beach) + lyle (sounds like liar, telling lies) = Sandy Lyle"
+    - number: 3
+      initials: S B
+      clue: "Say something out loud, go on. Now picture a round thing being launched at some music equipment in a stereo shop."
+      answer: Seve Ballesteros
+      aliases:
+        - seve ballesteros
+      reasoning: "say (say out loud) + vay + ball (a round thing) + uh + stereos (music equipment) = Seve Ballesteros"
+
+- id: sportbusters-025
+  enabled: true
+  title: Sportbusters
+  topic: tennis players golfers boxers and other sports personalities
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Right then. Boxing names this time, hidden in the phonetics. Easy one first."
+  prize: "Email in. Winner gets an AOL trial disc and a travel adaptor that fits nothing."
+  clues:
+    - number: 1
+      initials: M A
+      clue: "Some bloke's shifted a load of pig meat, then someone called Lee's shown up. That's it."
+      answer: Muhammad Ali
+      aliases:
+        - muhammad ali
+      reasoning: "moo-ham-id (move + ham + id) + ah-lee (a Lee, someone called Lee) = Muhammad Ali"
+    - number: 2
+      initials: J F
+      clue: "This lad Joe's watching something unravel, right, it's all coming apart at the edges."
+      answer: Joe Frazier
+      aliases:
+        - joe frazier
+      reasoning: "Joe + fray (something fraying, unravelling at the edges) + zi-er = Joe Frazier"
+    - number: 3
+      initials: G F
+      clue: "Someone's eating too much by a cliff edge, and there's a fella standing there watching. Bit odd."
+      answer: George Foreman
+      aliases:
+        - george foreman
+      reasoning: "gorge (gorging, eating too much) + four (by a cliff edge, a fore) + man (a fella) = George Foreman"
+
+- id: sportbusters-026
+  enabled: true
+  title: Sportbusters
+  topic: tennis players golfers boxers and other sports personalities
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Sportbusters six. Three more hidden sports names. You know what to do."
+  prize: "Email in. Winner gets a copy of Shrek 2 on VHS and a branded pen from a 2003 trade show."
+  clues:
+    - number: 1
+      initials: E H
+      clue: "Right, things are balanced out, they're all level. Then this person's gone off to a religious paddock somewhere. Sort of works."
+      answer: Evander Holyfield
+      aliases:
+        - evander holyfield
+      reasoning: "even (balanced, all level) + der + holy (religious) + field (a paddock, a field) = Evander Holyfield"
+    - number: 2
+      initials: F M
+      clue: "That bloke Floyd's looking at the weather report. Checking if it's going to rain in May or something."
+      answer: Floyd Mayweather
+      aliases:
+        - floyd mayweather
+      reasoning: "Floyd + May (the month May) + weather (weather report, rain) = Floyd Mayweather"
+    - number: 3
+      initials: L L
+      clue: "There's a fella called Len, right, and he's brought an ox with him. Then someone called Lewis turns up. Bit of a crowd."
+      answer: Lennox Lewis
+      aliases:
+        - lennox lewis
+      reasoning: "Len (fella called Len) + ox (an ox, a big animal) + Lewis (someone called Lewis) = Lennox Lewis"
+
+- id: sportbusters-027
+  enabled: true
+  title: Sportbusters
+  topic: tennis players golfers boxers and other sports personalities
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Three more phonetic sports names. Get your ears working on this one."
+  prize: "Email in. Winner gets a Blockbuster loyalty card, three points still on it."
+  clues:
+    - number: 1
+      initials: F B
+      clue: "He's being very honest about everything, right, and then he goes and makes a hot drink but forgets to add any actual tea. Just hot water. No idea."
+      answer: Frank Bruno
+      aliases:
+        - frank bruno
+      reasoning: "frank (being honest, forthright) + brew (a brew with no tea in it) + no (nothing in it) = Frank Bruno"
+    - number: 2
+      initials: A K
+      clue: "There's just barely enough of something, right, it's almost nothing, and now it's been put in a tin. Near enough."
+      answer: Amir Khan
+      aliases:
+        - amir khan
+      reasoning: "a-mere (a mere amount, barely any) + can (a tin can) = Amir Khan"
+    - number: 3
+      initials: B B
+      clue: "That bloke's a proper yawn, and he keeps gesturing at people from across the corridor. Won't stop."
+      answer: Boris Becker
+      aliases:
+        - boris becker
+      reasoning: "bore-iss (boring, a yawn) + beck-er (beckoning someone across the corridor) = Boris Becker"
+
+- id: sportbusters-028
+  enabled: true
+  title: Sportbusters
+  topic: tennis players golfers boxers and other sports personalities
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Sportbusters eight. Phonetic riddles, sports stars. Say them out loud - it's the only way this works."
+  prize: "Email in. Winner gets a printed lanyard from a conference that ended years ago."
+  clues:
+    - number: 1
+      initials: P S
+      clue: "Right, there's a lad called Pete, and he's out the back with a lawnmower. Grass everywhere."
+      answer: Pete Sampras
+      aliases:
+        - pete sampras
+      reasoning: "Pete + sam (some) + pras/grass (lawn grass everywhere) = Pete Sampras"
+    - number: 2
+      initials: S G
+      clue: "It's gone a bit musty in the office, then someone's drawn a chart on the whiteboard. You know what I mean."
+      answer: Steffi Graf
+      aliases:
+        - steffi graf
+      reasoning: "steffy (stuffy, musty air) + graff (graph, a chart) = Steffi Graf"
+    - number: 3
+      initials: J M
+      clue: "Some fella's gone out in his waterproof coat and had a big falling-out about something. Classic."
+      answer: John McEnroe
+      aliases:
+        - john mcenroe
+      reasoning: "john (gone) + mac (waterproof coat) + en-roe (a roe, a big row or argument) = John McEnroe"
+
+- id: sportbusters-029
+  enabled: true
+  title: Sportbusters
+  topic: tennis players golfers boxers and other sports personalities
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Nine sets in. Sports personalities, hidden in phonetic scenes. Don't give up."
+  prize: "Email in. Winner gets a copy of Jurassic Park on DVD and a loyalty stamp card from a cafe that's shut now."
+  clues:
+    - number: 1
+      initials: T W
+      clue: "Someone's making a knot, then they've wandered off into the trees. That's what's happened here."
+      answer: Tiger Woods
+      aliases:
+        - tiger woods
+      reasoning: "tie-ger (tying a knot) + woods (wandered into the trees) = Tiger Woods"
+    - number: 2
+      initials: N F
+      clue: "Something's been pinched off the unbaked loaf. Someone's had it away with a bit of dough."
+      answer: Nick Faldo
+      aliases:
+        - nick faldo
+      reasoning: "nick (to nick, to steal) + fall + dough (unbaked bread dough) = Nick Faldo"
+    - number: 3
+      initials: A A
+      clue: "Right, so Ray's responsible for this. And whatever he's done has left a right pong in the room."
+      answer: Andre Agassi
+      aliases:
+        - andre agassi
+      reasoning: "and-Ray (and Ray did it) + a-gassy (a gassy smell, a pong) = Andre Agassi"
+
+- id: sportbusters-030
+  enabled: true
+  title: Sportbusters
+  topic: tennis players golfers boxers and other sports personalities
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Right, Sportbusters ten. Halfway through. Three more phonetic sports names - see how you get on."
+  prize: "Email in. Winner gets a mouse mat from a dotcom company and a Fanta from the fridge."
+  clues:
+    - number: 1
+      initials: G F
+      clue: "Someone's absolutely stuffing themselves near the edge of a cliff, and there's a manager or supervisor stood nearby watching. That's all."
+      answer: George Foreman
+      aliases:
+        - george foreman
+      reasoning: "gorge (gorging on food, overeating near a cliff gorge) + fore-man (a foreman, a supervisor) = George Foreman"
+    - number: 2
+      initials: M A
+      clue: "Big slab of pig meat's been moved somewhere. Then a bloke called Lee walks in."
+      answer: Muhammad Ali
+      aliases:
+        - muhammad ali
+      reasoning: "moo-ham (move the ham) + id + ah-lee (a Lee, bloke called Lee arrives) = Muhammad Ali"
+    - number: 3
+      initials: E H
+      clue: "Everything's all square and fair, right, and then someone's gone off to pray in a big open meadow. Bit peaceful."
+      answer: Evander Holyfield
+      aliases:
+        - evander holyfield
+      reasoning: "even (all even, fair and square) + der + holy (religious, going to pray) + field (an open meadow) = Evander Holyfield"
+
+- id: sportbusters-031
+  enabled: true
+  title: Sportbusters
+  topic: tennis players golfers boxers and other sports personalities
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Sportbusters eleven. Golf and tennis in this one. Say the clues out loud."
+  prize: "Email in. Winner gets a free screensaver CD from a magazine cover and some biscuits."
+  clues:
+    - number: 1
+      initials: C M
+      clue: "Someone's hollering for a fella, right, who's apparently halfway up a hill with a lump of chewing gum. No idea why."
+      answer: Colin Montgomerie
+      aliases:
+        - colin montgomerie
+      reasoning: "calling (hollering for someone) + mount (a hill) + gum (chewing gum) + ery = Colin Montgomerie"
+    - number: 2
+      initials: S L
+      clue: "It's a bit gritty underfoot, like a beach or something. And someone nearby is stretching the truth a fair bit."
+      answer: Sandy Lyle
+      aliases:
+        - sandy lyle
+      reasoning: "sandy (gritty like a beach, sandy underfoot) + lyle (liar, stretching the truth) = Sandy Lyle"
+    - number: 3
+      initials: B B
+      clue: "Him over there was born, right, and now he's got half a machine in him. Sort of works if you say it."
+      answer: Bjorn Borg
+      aliases:
+        - bjorn borg
+      reasoning: "bjorn (born, came into the world) + borg (cyborg, machine parts) = Bjorn Borg"
+
+- id: sportbusters-032
+  enabled: true
+  title: Sportbusters
+  topic: tennis players golfers boxers and other sports personalities
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Sportbusters twelve. Mix of sports this time. Three names, all hidden in the sounds."
+  prize: "Email in. Winner gets a Nokia ringtone booklet and a stress ball from a trade fair."
+  clues:
+    - number: 1
+      initials: F M
+      clue: "That's Floyd, yeah. He's looking out the window in May, trying to work out if he needs an umbrella."
+      answer: Floyd Mayweather
+      aliases:
+        - floyd mayweather
+      reasoning: "Floyd + May (the month of May) + weather (checking the weather for rain) = Floyd Mayweather"
+    - number: 2
+      initials: J F
+      clue: "Joe's watching the sleeve of his jumper, right, and it's just coming apart at the edge. Slowly unravelling."
+      answer: Joe Frazier
+      aliases:
+        - joe frazier
+      reasoning: "Joe + fray (fraying, unravelling at the edge) + zi-er = Joe Frazier"
+    - number: 3
+      initials: L L
+      clue: "There's a Len. He's got an ox with him. Don't ask. And then Lewis shows up as well."
+      answer: Lennox Lewis
+      aliases:
+        - lennox lewis
+      reasoning: "Len (a fella called Len) + ox (a big ox) + Lewis (someone called Lewis) = Lennox Lewis"
+
+- id: sportbusters-033
+  enabled: true
+  title: Sportbusters
+  topic: tennis players golfers boxers and other sports personalities
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Three more phonetic sports names. Thirteen sets in and you're still here. Good effort."
+  prize: "Email in. Winner gets a copy of Ocean's Eleven on DVD and a pen that is technically a laser pointer."
+  clues:
+    - number: 1
+      initials: F B
+      clue: "He's being very straight with everyone. Nothing hidden, just honest. Then he makes a hot drink with no actual tea in it."
+      answer: Frank Bruno
+      aliases:
+        - frank bruno
+      reasoning: "frank (being honest and straight) + brew (a brew, a hot drink) + no (no tea in it, nothing) = Frank Bruno"
+    - number: 2
+      initials: S B
+      clue: "Right, someone says something aloud, then a ball rolls into a room full of hi-fi equipment. Bit of a mess."
+      answer: Seve Ballesteros
+      aliases:
+        - seve ballesteros
+      reasoning: "say + vay + ball (a ball rolling in) + uh + stereos (hi-fi equipment, stereos) = Seve Ballesteros"
+    - number: 3
+      initials: J C
+      clue: "Forced the door open with one of them little tools, and then it turns out the person doing it was a criminal all along."
+      answer: Jimmy Connors
+      aliases:
+        - jimmy connors
+      reasoning: "jimmy (to jimmy a lock, force it open) + con (a criminal, a con) + ors = Jimmy Connors"
+
+- id: sportbusters-034
+  enabled: true
+  title: Sportbusters
+  topic: tennis players golfers boxers and other sports personalities
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Sportbusters fourteen. Phonetics, sport, silliness. That's all this is."
+  prize: "Email in. Winner gets a 2003 wall calendar from a local garage and some leftover Quality Street."
+  clues:
+    - number: 1
+      initials: A K
+      clue: "There's only a tiny bit of it left. Almost nothing. And then it all goes in a tin."
+      answer: Amir Khan
+      aliases:
+        - amir khan
+      reasoning: "a-mere (a mere drop, barely anything) + can (a tin can) = Amir Khan"
+    - number: 2
+      initials: B B
+      clue: "Right, it's got dead boring, and now there's a bloke in the corner going like this with his hand. Waving someone over."
+      answer: Boris Becker
+      aliases:
+        - boris becker
+      reasoning: "bore-iss (boring, got dead dull) + beck-er (beckoning, waving someone over) = Boris Becker"
+    - number: 3
+      initials: P S
+      clue: "Pete's outside again with the mower. Bits of green stuff flying everywhere. Every weekend without fail."
+      answer: Pete Sampras
+      aliases:
+        - pete sampras
+      reasoning: "Pete + sam (some) + pras/grass (grass, green stuff from the mower) = Pete Sampras"
+
+- id: sportbusters-035
+  enabled: true
+  title: Sportbusters
+  topic: tennis players golfers boxers and other sports personalities
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Fifteen down. Sports names in phonetic form. Have a go at these."
+  prize: "Email in. Winner gets a CD single from a band that split up shortly after and a branded tote bag."
+  clues:
+    - number: 1
+      initials: S G
+      clue: "The room's got a bit fusty, then someone draws a bar chart. That's the whole thing."
+      answer: Steffi Graf
+      aliases:
+        - steffi graf
+      reasoning: "steffy (stuffy, fusty room) + graff (graph, a bar chart) = Steffi Graf"
+    - number: 2
+      initials: A A
+      clue: "Ray's gone and caused this, whatever it is, and the aftermath of it all is proper gassy. Smells in here."
+      answer: Andre Agassi
+      aliases:
+        - andre agassi
+      reasoning: "and-Ray (and Ray caused it) + a-gassy (a gassy smell, it stinks) = Andre Agassi"
+    - number: 3
+      initials: T W
+      clue: "Alright. Someone's doing a knot. Could be a tie, could be a rope. Either way they've gone walkabout in some trees after."
+      answer: Tiger Woods
+      aliases:
+        - tiger woods
+      reasoning: "tie-ger (tying a knot) + woods (gone walkabout in the trees) = Tiger Woods"
+
+- id: sportbusters-036
+  enabled: true
+  title: Sportbusters
+  topic: tennis players golfers boxers and other sports personalities
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Right then, Sportbusters sixteen. Three more sports names, all in the sounds."
+  prize: "Email in. Winner gets an unused gift voucher for a shop that closed in 2006 and a nice pen."
+  clues:
+    - number: 1
+      initials: J M
+      clue: "He's put on his big waterproof coat, gone off somewhere, and then had a massive row. Stormed off after."
+      answer: John McEnroe
+      aliases:
+        - john mcenroe
+      reasoning: "john (gone) + mac (waterproof coat, a mac) + en-roe (a roe, a big row/argument) = John McEnroe"
+    - number: 2
+      initials: N F
+      clue: "Something's been stolen. Right off the top of the bread that hadn't been baked yet."
+      answer: Nick Faldo
+      aliases:
+        - nick faldo
+      reasoning: "nick (stolen, nicked) + fall + dough (unbaked bread dough) = Nick Faldo"
+    - number: 3
+      initials: G F
+      clue: "Bloke's eating loads near a ravine, and there's a supervisor keeping an eye on things. Busy morning."
+      answer: George Foreman
+      aliases:
+        - george foreman
+      reasoning: "gorge (gorging on food near a gorge, a ravine) + fore-man (a foreman, a supervisor) = George Foreman"
+
+- id: sportbusters-037
+  enabled: true
+  title: Sportbusters
+  topic: tennis players golfers boxers and other sports personalities
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Sportbusters seventeen. Still going. Three phonetic sports names - you're nearly there."
+  prize: "Email in. Winner gets a Woolworths carrier bag, mint condition, and a pick and mix scoop."
+  clues:
+    - number: 1
+      initials: E H
+      clue: "It's all level and fair. And someone's trotted off to pray in a big open field somewhere."
+      answer: Evander Holyfield
+      aliases:
+        - evander holyfield
+      reasoning: "even (level, all fair) + der + holy (going to pray, religious) + field (a big open field) = Evander Holyfield"
+    - number: 2
+      initials: B B
+      clue: "He was brought into the world, right, and since then he's got some sort of mechanical parts fitted. That's just what happened."
+      answer: Bjorn Borg
+      aliases:
+        - bjorn borg
+      reasoning: "bjorn (born, brought into the world) + borg (borg, cyborg with mechanical parts) = Bjorn Borg"
+    - number: 3
+      initials: C M
+      clue: "Someone's calling out to a lad who's stood halfway up a hill with a bit of chewing gum. Don't ask how he got there."
+      answer: Colin Montgomerie
+      aliases:
+        - colin montgomerie
+      reasoning: "calling (calling out) + mount (halfway up a hill) + gum (chewing gum) + ery = Colin Montgomerie"
+
+- id: sportbusters-038
+  enabled: true
+  title: Sportbusters
+  topic: tennis players golfers boxers and other sports personalities
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Eighteen in. Boxing and golf mix this time. Three sounds, three names."
+  prize: "Email in. Winner gets a copy of Eminem's The Marshall Mathers LP on tape and a Subway loyalty card from 2004."
+  clues:
+    - number: 1
+      initials: M A
+      clue: "Right, the pig meat's been shifted. Big lump of it. And then a fella called Lee walks straight in after."
+      answer: Muhammad Ali
+      aliases:
+        - muhammad ali
+      reasoning: "moo-ham (moo, ham moved) + id + ah-lee (a Lee, a fella called Lee) = Muhammad Ali"
+    - number: 2
+      initials: F B
+      clue: "Dead straight with people, this one. No messing. Then makes a cup of something hot but forgets the actual bag."
+      answer: Frank Bruno
+      aliases:
+        - frank bruno
+      reasoning: "frank (straight, no-nonsense) + brew (hot drink, a brew) + no (no bag, nothing in it) = Frank Bruno"
+    - number: 3
+      initials: S L
+      clue: "Right, the ground's all gritty underfoot. Then someone round the corner is absolutely telling porkies."
+      answer: Sandy Lyle
+      aliases:
+        - sandy lyle
+      reasoning: "sandy (gritty underfoot, sandy ground) + lyle (liar, telling porkies) = Sandy Lyle"
+
+- id: sportbusters-039
+  enabled: true
+  title: Sportbusters
+  topic: tennis players golfers boxers and other sports personalities
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Sportbusters nineteen. Nearly done. Three more - don't give up now."
+  prize: "Email in. Winner gets a Netscape Navigator mousemat and a travel-size Lynx Africa."
+  clues:
+    - number: 1
+      initials: J F
+      clue: "Joe's there, watching the edge of his sleeve slowly come apart. Thread by thread. Say it out loud."
+      answer: Joe Frazier
+      aliases:
+        - joe frazier
+      reasoning: "Joe + fray (fraying, coming apart at the sleeve edge) + zi-er = Joe Frazier"
+    - number: 2
+      initials: F M
+      clue: "That's Floyd, yeah. May. Outside looking at the clouds wondering if it's going to bucket down."
+      answer: Floyd Mayweather
+      aliases:
+        - floyd mayweather
+      reasoning: "Floyd + May (the month May) + weather (looking at clouds, checking the weather) = Floyd Mayweather"
+    - number: 3
+      initials: A K
+      clue: "There's a tiny little amount of something. Barely there. And someone's gone and sealed it in a tin."
+      answer: Amir Khan
+      aliases:
+        - amir khan
+      reasoning: "a-mere (a mere trace, barely anything) + can (sealed in a tin can) = Amir Khan"
+
+- id: sportbusters-040
+  enabled: true
+  title: Sportbusters
+  topic: tennis players golfers boxers and other sports personalities
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+    - UK
+    - US
+  intro: "Last one. Sportbusters twenty. Finish strong - three phonetic sports names to round it all off."
+  prize: "Email in. Winner gets a framed printout of the Ceefax sports page and a Werther's Original."
+  clues:
+    - number: 1
+      initials: L L
+      clue: "Right, Len's here. He's brought an ox. For some reason. Then Lewis shows up as well. That's a lot of people."
+      answer: Lennox Lewis
+      aliases:
+        - lennox lewis
+      reasoning: "Len (a man called Len) + ox (an actual ox) + Lewis (someone called Lewis) = Lennox Lewis"
+    - number: 2
+      initials: S B
+      clue: "Someone says something aloud, then a ball rolls into a room with all the stereos in it. Bit of a disaster."
+      answer: Seve Ballesteros
+      aliases:
+        - seve ballesteros
+      reasoning: "say + vay + ball (ball rolling in) + uh + stereos (room full of stereos) = Seve Ballesteros"
+    - number: 3
+      initials: J C
+      clue: "Someone's prised open a door with that little levering tool, right, and it turns out they were a proper con artist all along."
+      answer: Jimmy Connors
+      aliases:
+        - jimmy connors
+      reasoning: "jimmy (jimmying a lock open) + con (a con artist) + ors = Jimmy Connors"
