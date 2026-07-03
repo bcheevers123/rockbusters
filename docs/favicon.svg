@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Speech bubble body -->
+  <rect x="1" y="1" width="28" height="22" rx="5" ry="5" fill="#e63946"/>
+  <!-- Bubble tail -->
+  <polygon points="8,23 4,31 15,23" fill="#e63946"/>
+  <!-- RB text -->
+  <text x="15" y="17" font-family="Georgia, serif" font-size="13" font-weight="bold"
+        fill="white" text-anchor="middle" letter-spacing="0.5">RB</text>
+</svg>
