@@ -1040,6 +1040,10 @@ function initApp() {
   wireQuizButtons();
   startCountdown();
 
+  // Wake up Render free-tier backend — fire and forget, no await
+  const _warmUrl = getApiUrl();
+  if (_warmUrl) fetch(`${_warmUrl}/api/health`).catch(() => {});
+
   // Hidden trigger: click site title 3x within 3 seconds
   let _tapCount = 0;
   let _tapTimer = null;
