@@ -617,38 +617,6 @@
     ]
   },
   {
-    "id": "artbusters-015",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "American Gothic",
-        "aliases": [
-          "american gothic"
-        ],
-        "reasoning": "American (from America, US people) + Gothic (the style - serious, dark, architectural) = American Gothic. The clue describes Grant Wood's painting."
-      },
-      {
-        "number": 2,
-        "answer": "Campbell's Soup Cans",
-        "aliases": [
-          "campbell's soup cans",
-          "campbells soup cans",
-          "campbell soup cans"
-        ],
-        "reasoning": "camp (theatrical, flamboyant) + bell (a ringing instrument) + s + soup (tinned liquid food) + cans (the containers) = Campbell's Soup Cans."
-      },
-      {
-        "number": 3,
-        "answer": "The Last Supper",
-        "aliases": [
-          "the last supper",
-          "last supper"
-        ],
-        "reasoning": "the + last (final, the very last) + supper (an evening meal, like bread and wine) = The Last Supper."
-      }
-    ]
-  },
-  {
     "id": "mountainbusters-002",
     "clues": [
       {
@@ -2701,35 +2669,6 @@
           "volga river"
         ],
         "reasoning": "vol (sounds like 'vol', as in volume, quite loud) + ga (sounds like 'ga', a baby noise, or just a short grunt) = Vol-ga = Volga"
-      }
-    ]
-  },
-  {
-    "id": "artbusters-005",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Impressionism",
-        "aliases": [
-          "impressionism"
-        ],
-        "reasoning": "im-press (to iron/press something, or to make an impression) + ion + ism = impressionism. Im-press-ion-ism. Press = iron your clothes."
-      },
-      {
-        "number": 2,
-        "answer": "Banksy",
-        "aliases": [
-          "banksy"
-        ],
-        "reasoning": "bank (a financial institution, where you keep your money) + see (to look at something) = bank-see = Banksy. Bank + see said quickly."
-      },
-      {
-        "number": 3,
-        "answer": "Abstract Expressionism",
-        "aliases": [
-          "abstract expressionism"
-        ],
-        "reasoning": "ab (stomach muscle, an ab) + stract sounds like 'tract' = abstract, then express (a fast non-stop train) + ion + ism = abstract expressionism. Ab-stract + express-ion-ism."
       }
     ]
   },
@@ -7415,35 +7354,6 @@
     ]
   },
   {
-    "id": "artbusters-012",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Tracey Emin",
-        "aliases": [
-          "tracey emin"
-        ],
-        "reasoning": "trace (to draw around something/follow an outline) + ee (the sound) + M (the letter M) + in (inside, enclosed) = trace-ee-em-in = Tracey Emin."
-      },
-      {
-        "number": 2,
-        "answer": "Lucian Freud",
-        "aliases": [
-          "lucian freud"
-        ],
-        "reasoning": "loo (toilet, British slang) + she (a female person) + an (the word an) + frayed (worn at the edges) = loo-she-an-frayed = Lucian Freud."
-      },
-      {
-        "number": 3,
-        "answer": "Damien Hirst",
-        "aliases": [
-          "damien hirst"
-        ],
-        "reasoning": "day (as in Wednesday, a day) + me (I, myself) + in (into/at) + Hurst (a place name similar to Hirst) = day-me-in-Hurst = Damien Hirst."
-      }
-    ]
-  },
-  {
     "id": "bookbusters-004",
     "clues": [
       {
@@ -8370,38 +8280,6 @@
     ]
   },
   {
-    "id": "artbusters-008",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "J.M.W. Turner",
-        "aliases": [
-          "j.m.w. turner",
-          "jmw turner",
-          "turner"
-        ],
-        "reasoning": "J (the letter J) + M (letter M) + W (letter W) + Turner (someone who turns things on a lathe, a turner) = J.M.W. Turner. The initials plus Turner = someone who turns."
-      },
-      {
-        "number": 2,
-        "answer": "William Hogarth",
-        "aliases": [
-          "william hogarth",
-          "hogarth"
-        ],
-        "reasoning": "Will (short for William) + iam (sounds like 'yam', or just the end of William) + hog (a pig) + arth (sounds like 'arth', like a throat sound/retching) = William-hog-arth = William Hogarth."
-      },
-      {
-        "number": 3,
-        "answer": "American Gothic",
-        "aliases": [
-          "american gothic"
-        ],
-        "reasoning": "American (from America) + Gothic (the architectural/art style, or 'goth-ic') = American Gothic. The clue describes the famous painting directly."
-      }
-    ]
-  },
-  {
     "id": "sportbusters-015",
     "clues": [
       {
@@ -9275,37 +9153,6 @@
     ]
   },
   {
-    "id": "artbusters-016",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Girl with a Pearl Earring",
-        "aliases": [
-          "girl with a pearl earring"
-        ],
-        "reasoning": "girl (a young woman) + with + a + pearl (a jewel from an oyster) + earring (jewellery on the ear) = Girl with a Pearl Earring."
-      },
-      {
-        "number": 2,
-        "answer": "Pop Art",
-        "aliases": [
-          "pop art"
-        ],
-        "reasoning": "pop (dad, your old man) + art (painting, creative work) = Pop Art."
-      },
-      {
-        "number": 3,
-        "answer": "J.M.W. Turner",
-        "aliases": [
-          "j.m.w. turner",
-          "jmw turner",
-          "turner"
-        ],
-        "reasoning": "J + M + W (the initials) + Turner (one who turns things on a lathe, a turner) = J.M.W. Turner."
-      }
-    ]
-  },
-  {
     "id": "sportbusters-003",
     "clues": [
       {
@@ -10127,39 +9974,6 @@
     ]
   },
   {
-    "id": "artbusters-019",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "John Constable",
-        "aliases": [
-          "john constable",
-          "constable"
-        ],
-        "reasoning": "John (man's name) + con (to deceive, to trick) + stable (where horses and livestock live) = John-con-stable = John Constable."
-      },
-      {
-        "number": 2,
-        "answer": "William Hogarth",
-        "aliases": [
-          "william hogarth",
-          "hogarth"
-        ],
-        "reasoning": "Will-iam (William, a man's name) + hog (a pig) + arth (a guttural/gargling sound, argh-th) = William Hogarth."
-      },
-      {
-        "number": 3,
-        "answer": "L.S. Lowry",
-        "aliases": [
-          "l.s. lowry",
-          "ls lowry",
-          "lowry"
-        ],
-        "reasoning": "L (letter L) + S (letter S) + low (not high, close to the ground) + ry (pronounced 'ree') = L.S. Lowry."
-      }
-    ]
-  },
-  {
     "id": "sportbusters-008",
     "clues": [
       {
@@ -10963,35 +10777,6 @@
           "carlsberg"
         ],
         "reasoning": "carls (Carl's, possessive of the name Carl) + berg (mountain, iceberg) = Carlsberg"
-      }
-    ]
-  },
-  {
-    "id": "artbusters-006",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Damien Hirst",
-        "aliases": [
-          "damien hirst"
-        ],
-        "reasoning": "day (the day) + me (I) + in (arrived in/at) + Hurst (a place name, like Hurst/Hirst) = day-me-in Hurst = Damien Hirst. Say it out loud."
-      },
-      {
-        "number": 2,
-        "answer": "Tracey Emin",
-        "aliases": [
-          "tracey emin"
-        ],
-        "reasoning": "trace (to follow a line) + ee (the sound) + M (the letter) + in (inside/enclosed) = trace-ee-M-in = Tracey Emin. Tracey + Emin said together."
-      },
-      {
-        "number": 3,
-        "answer": "Lucian Freud",
-        "aliases": [
-          "lucian freud"
-        ],
-        "reasoning": "loo (British slang for toilet) + she (a person) + an (the sound) + frayed (worn at the edges, coming apart) = loo-she-an-frayed = Lucian Freud. Say it out loud."
       }
     ]
   },
@@ -11828,35 +11613,6 @@
           "bailey's"
         ],
         "reasoning": "bail (to bail out, get a deal) + eys = bail-eys = Baileys"
-      }
-    ]
-  },
-  {
-    "id": "artbusters-018",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Lucian Freud",
-        "aliases": [
-          "lucian freud"
-        ],
-        "reasoning": "loo (the toilet, British slang) + she (a woman) + an (the word) + frayed (unravelling, worn at edges) = loo-she-an-frayed = Lucian Freud."
-      },
-      {
-        "number": 2,
-        "answer": "Tracey Emin",
-        "aliases": [
-          "tracey emin"
-        ],
-        "reasoning": "trace (to follow/draw around an outline) + ee (sound) + M (letter M) + in (inside, contained) = Tracey-Emin."
-      },
-      {
-        "number": 3,
-        "answer": "Francis Bacon",
-        "aliases": [
-          "francis bacon"
-        ],
-        "reasoning": "Francis (fran-sis, the name) + Bacon (cured pork/breakfast meat) = Francis Bacon."
       }
     ]
   },
@@ -31287,219 +31043,6 @@
           "last supper"
         ],
         "reasoning": "the + last (final) + supper (an evening meal) = The Last Supper. The clue describes the scene: final meal, long table, things went wrong after."
-      }
-    ]
-  },
-  {
-    "id": "artbusters-004",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Cubism",
-        "aliases": [
-          "cubism"
-        ],
-        "reasoning": "cube (a box shape) + ism (an artistic movement/ideology) = Cubism. Cube + ism said together."
-      },
-      {
-        "number": 2,
-        "answer": "Surrealism",
-        "aliases": [
-          "surrealism"
-        ],
-        "reasoning": "sir (a knight, a title) + real (genuine, actual) + ism (a movement/belief) = Sir-real-ism = Surrealism. Say it: sur-real-ism."
-      },
-      {
-        "number": 3,
-        "answer": "Pop Art",
-        "aliases": [
-          "pop art"
-        ],
-        "reasoning": "pop (informal word for dad/father) + art (painting/artwork) = Pop Art. Pop + Art said together."
-      }
-    ]
-  },
-  {
-    "id": "artbusters-007",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Francis Bacon",
-        "aliases": [
-          "francis bacon"
-        ],
-        "reasoning": "Fran (short for Frances/Francis) + sis (a suffix sound) + bay (a coastal inlet) + con (sounds like 'con') ... actually: Francis sounds like Fran-sis, Bacon = bay-con. Fran-sis + bay-con = Francis Bacon."
-      },
-      {
-        "number": 2,
-        "answer": "L.S. Lowry",
-        "aliases": [
-          "l.s. lowry",
-          "ls lowry",
-          "lowry"
-        ],
-        "reasoning": "L (the letter L) + S (the letter S) + low (not high) + ree (a sound/name) = L.S. Low-ree = L.S. Lowry. The initials plus Low+ree."
-      },
-      {
-        "number": 3,
-        "answer": "John Constable",
-        "aliases": [
-          "john constable",
-          "constable"
-        ],
-        "reasoning": "John (a man's name, Jon) + con (to deceive/trick) + stable (where you keep large animals like cows and horses) = John Con-stable = John Constable. Jon + con + stable."
-      }
-    ]
-  },
-  {
-    "id": "artbusters-009",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Campbell's Soup Cans",
-        "aliases": [
-          "campbell's soup cans",
-          "campbells soup cans",
-          "campbell soup cans"
-        ],
-        "reasoning": "camp (a bit theatrical/eccentric) + bell (a ringing thing, church bell) + s (possessive) + soup (the tinned stuff) + cans (the tins) = Campbell's Soup Cans. Camp + bell + s + soup + cans."
-      },
-      {
-        "number": 2,
-        "answer": "The Birth of Venus",
-        "aliases": [
-          "the birth of venus",
-          "birth of venus"
-        ],
-        "reasoning": "the + birth (emergence/appearing) + of + Venus (the goddess/planet) = The Birth of Venus."
-      },
-      {
-        "number": 3,
-        "answer": "Mona Lisa",
-        "aliases": [
-          "mona lisa"
-        ],
-        "reasoning": "moan (to moan/complain) + a (the sound) + leaser (someone who leases/rents things) = Mona-Lisa. Moan-a-Lease-er."
-      }
-    ]
-  },
-  {
-    "id": "artbusters-010",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Surrealism",
-        "aliases": [
-          "surrealism"
-        ],
-        "reasoning": "sur (sounds like 'sir') + real (genuine/actual) + ism = sur-real-ism = Surrealism. Not convinced anything is real."
-      },
-      {
-        "number": 2,
-        "answer": "Impressionism",
-        "aliases": [
-          "impressionism"
-        ],
-        "reasoning": "im-press (to press something with an iron, leaving a mark/impression) + ion + ism = Impressionism."
-      },
-      {
-        "number": 3,
-        "answer": "Banksy",
-        "aliases": [
-          "banksy"
-        ],
-        "reasoning": "bank (savings institution, where you keep money) + sky/see (to look at/observe) = bank-see = Banksy."
-      }
-    ]
-  },
-  {
-    "id": "artbusters-011",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Guernica",
-        "aliases": [
-          "guernica"
-        ],
-        "reasoning": "gurn (to pull an exaggerated face) + icker (slang for knickers/underwear) = gurn-icker = Guernica."
-      },
-      {
-        "number": 2,
-        "answer": "Cubism",
-        "aliases": [
-          "cubism"
-        ],
-        "reasoning": "cube (a geometric solid, a box shape) + ism (a movement or ideology) = Cubism."
-      },
-      {
-        "number": 3,
-        "answer": "Francis Bacon",
-        "aliases": [
-          "francis bacon"
-        ],
-        "reasoning": "Francis (a name, Fran-sis) + Bacon (cured pork, the stuff you have with eggs) = Francis Bacon."
-      }
-    ]
-  },
-  {
-    "id": "artbusters-013",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "William Hogarth",
-        "aliases": [
-          "william hogarth"
-        ],
-        "reasoning": "William (Will + i + am) + hog (a pig) + arth (a strangled gargling throat sound, like 'argh') = William Hogarth. Will-yam-hog-arth."
-      },
-      {
-        "number": 2,
-        "answer": "John Constable",
-        "aliases": [
-          "john constable",
-          "constable"
-        ],
-        "reasoning": "John (the man's name) + con (to trick or deceive) + stable (where horses live) = John-con-stable = John Constable."
-      },
-      {
-        "number": 3,
-        "answer": "L.S. Lowry",
-        "aliases": [
-          "l.s. lowry",
-          "ls lowry",
-          "lowry"
-        ],
-        "reasoning": "L (letter L) + S (letter S) + low (close to the ground, not high) + ry/ree (a sound like 'ree') = L.S. Low-ree = L.S. Lowry."
-      }
-    ]
-  },
-  {
-    "id": "artbusters-017",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "The Scream",
-        "aliases": [
-          "the scream",
-          "scream"
-        ],
-        "reasoning": "the + scream (a loud shout or yell, which is exactly what the painting depicts) = The Scream."
-      },
-      {
-        "number": 2,
-        "answer": "Banksy",
-        "aliases": [
-          "banksy"
-        ],
-        "reasoning": "bank (a building society/financial institution) + see (to look at, 'sky' said casually sounds like 'see') = bank-see = Banksy. Also bank + sky."
-      },
-      {
-        "number": 3,
-        "answer": "Abstract Expressionism",
-        "aliases": [
-          "abstract expressionism"
-        ],
-        "reasoning": "ab (stomach muscle) + stract (pulled/stretched, abstract) + express (fast non-stop train) + ion + ism = abstract-expressionism."
       }
     ]
   },

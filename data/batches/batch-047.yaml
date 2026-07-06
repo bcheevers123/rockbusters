@@ -104,7 +104,7 @@
     - last supper
     reasoning: 'the + last (final) + supper (an evening meal) = The Last Supper. The clue describes the scene: final meal, long table, things went wrong after.'
 - id: artbusters-004
-  enabled: true
+  enabled: false
   title: Artbusters
   topic: famous artworks, art movements, and artists
   difficulty: hard
@@ -137,7 +137,7 @@
     - pop art
     reasoning: pop (informal word for dad/father) + art (painting/artwork) = Pop Art. Pop + Art said together.
 - id: artbusters-005
-  enabled: true
+  enabled: false
   title: Artbusters
   topic: famous artworks, art movements, and artists
   difficulty: hard
@@ -170,7 +170,7 @@
     - abstract expressionism
     reasoning: ab (stomach muscle, an ab) + stract sounds like 'tract' = abstract, then express (a fast non-stop train) + ion + ism = abstract expressionism. Ab-stract + express-ion-ism.
 - id: artbusters-006
-  enabled: true
+  enabled: false
   title: Artbusters
   topic: famous artworks, art movements, and artists
   difficulty: hard
@@ -203,7 +203,7 @@
     - lucian freud
     reasoning: loo (British slang for toilet) + she (a person) + an (the sound) + frayed (worn at the edges, coming apart) = loo-she-an-frayed = Lucian Freud. Say it out loud.
 - id: artbusters-007
-  enabled: true
+  enabled: false
   title: Artbusters
   topic: famous artworks, art movements, and artists
   difficulty: hard
@@ -239,7 +239,7 @@
     - constable
     reasoning: John (a man's name, Jon) + con (to deceive/trick) + stable (where you keep large animals like cows and horses) = John Con-stable = John Constable. Jon + con + stable.
 - id: artbusters-008
-  enabled: true
+  enabled: false
   title: Artbusters
   topic: famous artworks, art movements, and artists
   difficulty: hard
@@ -275,7 +275,7 @@
     - american gothic
     reasoning: American (from America) + Gothic (the architectural/art style, or 'goth-ic') = American Gothic. The clue describes the famous painting directly.
 - id: artbusters-009
-  enabled: true
+  enabled: false
   title: Artbusters
   topic: famous artworks, art movements, and artists
   difficulty: hard
@@ -311,7 +311,7 @@
     - mona lisa
     reasoning: moan (to moan/complain) + a (the sound) + leaser (someone who leases/rents things) = Mona-Lisa. Moan-a-Lease-er.
 - id: artbusters-010
-  enabled: true
+  enabled: false
   title: Artbusters
   topic: famous artworks, art movements, and artists
   difficulty: hard
@@ -344,7 +344,7 @@
     - banksy
     reasoning: bank (savings institution, where you keep money) + sky/see (to look at/observe) = bank-see = Banksy.
 - id: artbusters-011
-  enabled: true
+  enabled: false
   title: Artbusters
   topic: famous artworks, art movements, and artists
   difficulty: hard
@@ -377,7 +377,7 @@
     - francis bacon
     reasoning: Francis (a name, Fran-sis) + Bacon (cured pork, the stuff you have with eggs) = Francis Bacon.
 - id: artbusters-012
-  enabled: true
+  enabled: false
   title: Artbusters
   topic: famous artworks, art movements, and artists
   difficulty: hard
@@ -410,7 +410,7 @@
     - damien hirst
     reasoning: day (as in Wednesday, a day) + me (I, myself) + in (into/at) + Hurst (a place name similar to Hirst) = day-me-in-Hurst = Damien Hirst.
 - id: artbusters-013
-  enabled: true
+  enabled: false
   title: Artbusters
   topic: famous artworks, art movements, and artists
   difficulty: hard
@@ -482,7 +482,7 @@
     - water lily
     reasoning: wart (a verruca-type growth) + er (the sound) + Lil (a woman's name) + ies = wart-er-Lil-ies = Water Lilies.
 - id: artbusters-015
-  enabled: true
+  enabled: false
   title: Artbusters
   topic: famous artworks, art movements, and artists
   difficulty: hard
@@ -518,7 +518,7 @@
     - last supper
     reasoning: the + last (final, the very last) + supper (an evening meal, like bread and wine) = The Last Supper.
 - id: artbusters-016
-  enabled: true
+  enabled: false
   title: Artbusters
   topic: famous artworks, art movements, and artists
   difficulty: hard
@@ -553,7 +553,7 @@
     - turner
     reasoning: J + M + W (the initials) + Turner (one who turns things on a lathe, a turner) = J.M.W. Turner.
 - id: artbusters-017
-  enabled: true
+  enabled: false
   title: Artbusters
   topic: famous artworks, art movements, and artists
   difficulty: hard
@@ -587,7 +587,7 @@
     - abstract expressionism
     reasoning: ab (stomach muscle) + stract (pulled/stretched, abstract) + express (fast non-stop train) + ion + ism = abstract-expressionism.
 - id: artbusters-018
-  enabled: true
+  enabled: false
   title: Artbusters
   topic: famous artworks, art movements, and artists
   difficulty: hard
@@ -620,7 +620,7 @@
     - francis bacon
     reasoning: Francis (fran-sis, the name) + Bacon (cured pork/breakfast meat) = Francis Bacon.
 - id: artbusters-019
-  enabled: true
+  enabled: false
   title: Artbusters
   topic: famous artworks, art movements, and artists
   difficulty: hard

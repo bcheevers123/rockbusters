@@ -607,37 +607,6 @@
     ]
   },
   {
-    "id": "artbusters-015",
-    "enabled": true,
-    "title": "Artbusters",
-    "topic": "famous artworks, art movements, and artists",
-    "difficulty": "hard",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "Artbusters fifteen. Five to go. All art. All phonetic. You know the drill by now.",
-    "prize": "Email in. Winner gets a copy of Mr Bean on VHS and a loyalty card for a shop that closed down.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "A G",
-        "clue": "Two Americans - very stern, very upright - standing in front of their farmhouse. The man's holding a farming implement. Not smiling. Very serious."
-      },
-      {
-        "number": 2,
-        "initials": "C S C",
-        "clue": "Right, there's a bloke who's a bit theatrical - very camp - and he's ringing a bell, and then there's some tinned vegetables in a can. All happening at once."
-      },
-      {
-        "number": 3,
-        "initials": "T L S",
-        "clue": "Twelve men had a final meal together. Sat round a long table. Bread and wine. Last time they'd all be together. Bit sad."
-      }
-    ]
-  },
-  {
     "id": "mountainbusters-002",
     "enabled": true,
     "title": "Mountainbusters",
@@ -2698,37 +2667,6 @@
         "number": 3,
         "initials": "V",
         "clue": "A Russian bloke has had a look at Europe's longest river and gone, right, that's ours. Very proprietary about it. He's standing at the bank with his arms folded. The river carries on regardless."
-      }
-    ]
-  },
-  {
-    "id": "artbusters-005",
-    "enabled": true,
-    "title": "Artbusters",
-    "topic": "famous artworks, art movements, and artists",
-    "difficulty": "hard",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "Alright, Artbusters five. All artists or artworks in the answers. Off you go.",
-    "prize": "Email in. Winner gets a signed letter from someone off Watercolour Challenge, possibly.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "I",
-        "clue": "Someone's had a go with an iron - pressing everything in sight. They're really making an impact. Very thorough."
-      },
-      {
-        "number": 2,
-        "initials": "B",
-        "clue": "Right, there's a bloke over there at the financial institution. Just staring at it. Having a proper look. That's all he's doing."
-      },
-      {
-        "number": 3,
-        "initials": "A E",
-        "clue": "Someone's dragging their muscles across a train that doesn't stop. It's going very fast and they've got feelings about it."
       }
     ]
   },
@@ -7451,37 +7389,6 @@
     ]
   },
   {
-    "id": "artbusters-012",
-    "enabled": true,
-    "title": "Artbusters",
-    "topic": "famous artworks, art movements, and artists",
-    "difficulty": "hard",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "Artbusters twelve. Bit of a tricky one this. All art. All phonetic. Say them out loud.",
-    "prize": "Email in. Winner gets a DVD copy of Notting Hill and a commemorative spoon.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "T E",
-        "clue": "Right, you're drawing round something - following the outline carefully - and the letter M has got itself into a small enclosed space. That's where it lives now."
-      },
-      {
-        "number": 2,
-        "initials": "L F",
-        "clue": "She's been in the loo for ages. Just sitting in there. And now she's looking all frayed. Like an old jumper that's seen better days."
-      },
-      {
-        "number": 3,
-        "initials": "D H",
-        "clue": "That Wednesday after Monday - the day in the middle of the week - I went and got myself into Hurst. Whatever that means."
-      }
-    ]
-  },
-  {
     "id": "bookbusters-004",
     "enabled": true,
     "title": "Bookbusters",
@@ -8432,37 +8339,6 @@
     ]
   },
   {
-    "id": "artbusters-008",
-    "enabled": true,
-    "title": "Artbusters",
-    "topic": "famous artworks, art movements, and artists",
-    "difficulty": "hard",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "Artbusters eight. Three more art clues in here. Phonetic puzzle, say them out loud.",
-    "prize": "Email in. Winner gets an Encyclopaedia Britannica volume 14 and a key from a hotel room that's been checked out of.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "J M W T",
-        "clue": "Right, that bloke who operates a lathe - spins things round and shapes them - his name's Joe, and his middle names are both M and W. Bit of a mouthful."
-      },
-      {
-        "number": 2,
-        "initials": "W H",
-        "clue": "Little William - tiny fella - has got himself a pig. And the pig's doing something with its throat. Some kind of gargling or retching. Bit unpleasant."
-      },
-      {
-        "number": 3,
-        "initials": "A G",
-        "clue": "A couple from America, very upright sort of people, standing in front of their house. Proper serious looking. Got a fork and everything."
-      }
-    ]
-  },
-  {
     "id": "sportbusters-015",
     "enabled": true,
     "title": "Sportbusters",
@@ -9352,37 +9228,6 @@
     ]
   },
   {
-    "id": "artbusters-016",
-    "enabled": true,
-    "title": "Artbusters",
-    "topic": "famous artworks, art movements, and artists",
-    "difficulty": "hard",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "Right, Artbusters sixteen. Four to go. Three more art answers, all phonetic.",
-    "prize": "Email in. Winner gets an OK magazine from 2004 and a novelty rubber.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "G W A P E",
-        "clue": "A Dutch girl - wearing a headscarf - has got a massive jewel on her ear. Sort of staring at you. Very calm about it."
-      },
-      {
-        "number": 2,
-        "initials": "P A",
-        "clue": "Your old man has gone and done a bit of painting. Andy Warhol style and that. Turns out he's quite good."
-      },
-      {
-        "number": 3,
-        "initials": "J M W T",
-        "clue": "The letters J, M, and W all belong to a man who shapes things on a spinning machine. He makes bowls and that. Very skilled."
-      }
-    ]
-  },
-  {
     "id": "sportbusters-003",
     "enabled": true,
     "title": "Sportbusters",
@@ -10211,37 +10056,6 @@
     ]
   },
   {
-    "id": "artbusters-019",
-    "enabled": true,
-    "title": "Artbusters",
-    "topic": "famous artworks, art movements, and artists",
-    "difficulty": "hard",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "Artbusters. Three more art phonetic clues. Say them out loud.",
-    "prize": "Email in. Winner gets a copy of Calendar Girls on DVD and a miniature bar of hotel soap.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "J C",
-        "clue": "There's a fella called John and he's been deceiving livestock. Gone right behind the horse's back. Living in its stable under false pretences."
-      },
-      {
-        "number": 2,
-        "initials": "W H",
-        "clue": "Right, William - tiny little William - he's only gone and got a pig. And the pig's making a right horrible noise. A real guttural sound."
-      },
-      {
-        "number": 3,
-        "initials": "L S L",
-        "clue": "It goes: L, then S, then something that's not up high, then a bloke with a very unusual name. All of that together. Easy one this."
-      }
-    ]
-  },
-  {
     "id": "sportbusters-008",
     "enabled": true,
     "title": "Sportbusters",
@@ -11066,37 +10880,6 @@
         "number": 3,
         "initials": "C",
         "clue": "That lass is making a proper fuss about getting on a boat. She won't stop going on about the gangway."
-      }
-    ]
-  },
-  {
-    "id": "artbusters-006",
-    "enabled": true,
-    "title": "Artbusters",
-    "topic": "famous artworks, art movements, and artists",
-    "difficulty": "hard",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "Six in. Artbusters six. Three more art clues. The answer's hiding in the sounds somewhere.",
-    "prize": "Email in. Winner gets a DVD of Titanic and a mug from a company that doesn't exist anymore.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "D H",
-        "clue": "It's the day I arrived at that place - you know, that village in Oxfordshire. Just turned up there. That was it."
-      },
-      {
-        "number": 2,
-        "initials": "T E",
-        "clue": "You're following a line - tracing it, right - and the letter M is inside something. Sort of enclosed. Near enough."
-      },
-      {
-        "number": 3,
-        "initials": "L F",
-        "clue": "Right, someone's in the toilet - been there a while - and they're starting to look a bit worn. All coming apart at the edges."
       }
     ]
   },
@@ -11956,37 +11739,6 @@
         "number": 3,
         "initials": "B",
         "clue": "Right, he's gone and bought a load at half price. Absolute bargain. Two for the price of one and that."
-      }
-    ]
-  },
-  {
-    "id": "artbusters-018",
-    "enabled": true,
-    "title": "Artbusters",
-    "topic": "famous artworks, art movements, and artists",
-    "difficulty": "hard",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "Artbusters. All art, all phonetic. Say each one out loud.",
-    "prize": "Email in. Winner gets a DVD boxset with the disc for series 3 missing and a Starbucks loyalty card.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "L F",
-        "clue": "A woman's been in the toilet that long her cardigan's gone all frayed. Just unravelling in there. That's what's happened."
-      },
-      {
-        "number": 2,
-        "initials": "T E",
-        "clue": "Right, she's been following the outline of something - drawing round it - and somehow the letter M ended up inside the thing. Couldn't get out."
-      },
-      {
-        "number": 3,
-        "initials": "F B",
-        "clue": "That woman Francis - the woman version of the name, Fran - she's sitting in a coastal inlet. And the whole bay's made of breakfast meat."
       }
     ]
   },
@@ -32000,223 +31752,6 @@
         "number": 3,
         "initials": "T L S",
         "clue": "That meal they had before things went a bit wrong - the one with all them blokes round a long table - it was the final one. Near enough."
-      }
-    ]
-  },
-  {
-    "id": "artbusters-004",
-    "enabled": true,
-    "title": "Artbusters",
-    "topic": "famous artworks, art movements, and artists",
-    "difficulty": "hard",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "Artbusters four. Famous art answers in every one. Phonetic clues - it's all in the sounds.",
-    "prize": "Email in. Winner gets a printed photo from a disposable camera, framed, and a tube of Pringles.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "C",
-        "clue": "Right, all the furniture is just... boxes. The table's a box. The chairs are boxes. Even the bloke looks like he's made of boxes. Bit unsettling."
-      },
-      {
-        "number": 2,
-        "initials": "S",
-        "clue": "There's a knight - a proper sir - and he's very insistent that everything is real. Won't hear otherwise. Very genuine man."
-      },
-      {
-        "number": 3,
-        "initials": "P A",
-        "clue": "Your dad's gone and done a painting. Just like that. Didn't know he had it in him."
-      }
-    ]
-  },
-  {
-    "id": "artbusters-007",
-    "enabled": true,
-    "title": "Artbusters",
-    "topic": "famous artworks, art movements, and artists",
-    "difficulty": "hard",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "Artbusters seven. All famous artists or paintings. Say the clues aloud and listen for the answer.",
-    "prize": "Email in. Winner gets a Now 58 cassette and a complimentary hotel shower cap.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "F B",
-        "clue": "There's a woman called Fran - nice enough woman - and she's sitting in a little inlet on the coast, but it's all made of cured pig meat. Bit odd."
-      },
-      {
-        "number": 2,
-        "initials": "L S L",
-        "clue": "Right, the letter L, then the letter S, then something that's not very high up, then a bloke called Ree. All in a row."
-      },
-      {
-        "number": 3,
-        "initials": "J C",
-        "clue": "There's a bloke called Jon who's been doing the dirty on a large male bovine. Deceiving the animal. The cow's not happy."
-      }
-    ]
-  },
-  {
-    "id": "artbusters-009",
-    "enabled": true,
-    "title": "Artbusters",
-    "topic": "famous artworks, art movements, and artists",
-    "difficulty": "hard",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "Nine in now. Artbusters nine. Three more art answers. You know what to do.",
-    "prize": "Email in. Winner gets a Woolworths gift voucher, no longer redeemable, and a biscuit tin.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "C S C",
-        "clue": "Right, there's a lad called Campbell who's a bit ecclesiastical - like a bell in a church - and he's making some tinned food. Not sure why."
-      },
-      {
-        "number": 2,
-        "initials": "T B O V",
-        "clue": "That goddess of love - the one the planet's named after - she's just appeared. Just emerged from somewhere. Out of nowhere, near enough."
-      },
-      {
-        "number": 3,
-        "initials": "M L",
-        "clue": "She won't stop moaning, this woman. Goes on and on. And the geezer who rents out commercial space is standing right next to her."
-      }
-    ]
-  },
-  {
-    "id": "artbusters-010",
-    "enabled": true,
-    "title": "Artbusters",
-    "topic": "famous artworks, art movements, and artists",
-    "difficulty": "hard",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "Artbusters. Famous art answers hiding in these phonetic clues. Say them out loud.",
-    "prize": "Email in. Winner gets a printed calendar from 2009 and a small jar of artisan chutney.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "S",
-        "clue": "There's a bloke, right, and he's convinced everything around him isn't really there. Won't accept that any of it is genuine. Very sceptical."
-      },
-      {
-        "number": 2,
-        "initials": "I",
-        "clue": "That iron - the one you press shirts with - it's left a proper mark. Made a real dent in things. You can feel it."
-      },
-      {
-        "number": 3,
-        "initials": "B",
-        "clue": "Some graffiti artist has had a good look at his local savings institution. Stood there admiring it for a bit. Then legged it, probably."
-      }
-    ]
-  },
-  {
-    "id": "artbusters-011",
-    "enabled": true,
-    "title": "Artbusters",
-    "topic": "famous artworks, art movements, and artists",
-    "difficulty": "hard",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "Right then, Artbusters eleven. Three art clues, all phonetic. Say them out loud and you'll hear the answer.",
-    "prize": "Email in. Winner gets a signed photo of a Blue Peter presenter from 2002, condition unknown.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "G",
-        "clue": "That Spanish town that got bombed - the one Picasso painted - well, she's pulling a face like it's all still happening. And the underwear's involved somehow."
-      },
-      {
-        "number": 2,
-        "initials": "C",
-        "clue": "Everything in the studio has been sorted into geometric solids. Cups, chairs, people - all cubes. There's a whole belief system about it now."
-      },
-      {
-        "number": 3,
-        "initials": "F B",
-        "clue": "Right, that cured pork product - the one you have with eggs - it used to be called something else. Fran had a hand in renaming it."
-      }
-    ]
-  },
-  {
-    "id": "artbusters-013",
-    "enabled": true,
-    "title": "Artbusters",
-    "topic": "famous artworks, art movements, and artists",
-    "difficulty": "hard",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "Artbusters thirteen. Unlucky for some but not for art fans. Three more hidden in here.",
-    "prize": "Email in. Winner gets a Now That's What I Call Music 61 CD and a selection of hotel toiletries.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "W H",
-        "clue": "Right, there's a little fella called Will. Tiny. And he's got a big pig and the pig is making a noise like it's being strangled. Sort of gargling."
-      },
-      {
-        "number": 2,
-        "initials": "J C",
-        "clue": "There's a man called John who's pulling a fast one on an animal that lives in a stable. The horse isn't impressed."
-      },
-      {
-        "number": 3,
-        "initials": "L S L",
-        "clue": "The letter L, then the letter S, then something that's close to the ground, then a man with a peculiar name. That's all it is."
-      }
-    ]
-  },
-  {
-    "id": "artbusters-017",
-    "enabled": true,
-    "title": "Artbusters",
-    "topic": "famous artworks, art movements, and artists",
-    "difficulty": "hard",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "Artbusters. Three more art clues, all phonetic. Say them out loud.",
-    "prize": "Email in. Winner gets a commemorative tin from a Royal event and a selection of mixed nuts.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "T S",
-        "clue": "That Norwegian fella on a bridge - all anxious looking - has just gone and let out a massive one. Could hear it across the fjord."
-      },
-      {
-        "number": 2,
-        "initials": "B",
-        "clue": "Someone's done some artwork on the wall of a building society. It's a rat or something. Very political. The manager's not pleased."
-      },
-      {
-        "number": 3,
-        "initials": "A E",
-        "clue": "Right, someone's pulled their stomach in and they're watching the express train go past. They've got a lot of feelings about it."
       }
     ]
   },

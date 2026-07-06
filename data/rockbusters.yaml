@@ -913,7 +913,7 @@
     - tigris river
     reasoning: tie (sounds like 'tie', the thing you wear round your neck at weddings) + gris (sounds like 'gris', grey in French, or just 'griss') = Tie-gris = Tigris
 - id: artbusters-015
-  enabled: true
+  enabled: false
   title: Artbusters
   topic: famous artworks, art movements, and artists
   difficulty: hard
@@ -3394,7 +3394,7 @@
     - volga river
     reasoning: vol (sounds like 'vol', as in volume, quite loud) + ga (sounds like 'ga', a baby noise, or just a short grunt) = Vol-ga = Volga
 - id: artbusters-005
-  enabled: true
+  enabled: false
   title: Artbusters
   topic: famous artworks, art movements, and artists
   difficulty: hard
@@ -9062,7 +9062,7 @@
     - sevenoaks
     reasoning: seven (the number, someone counted) + oaks (oak trees, all the same type) = Sevenoaks. Seven-oaks.
 - id: artbusters-012
-  enabled: true
+  enabled: false
   title: Artbusters
   topic: famous artworks, art movements, and artists
   difficulty: hard
@@ -10197,7 +10197,7 @@
     - wolverhampton
     reasoning: wolf + er (to err, to hesitate) + hamp (a damp place, damp sound to it) + ton (a small settlement, common English suffix) = Wolverhampton. Wolf-er-hamp-ton.
 - id: artbusters-008
-  enabled: true
+  enabled: false
   title: Artbusters
   topic: famous artworks, art movements, and artists
   difficulty: hard
@@ -11279,7 +11279,7 @@
     - folkestone
     reasoning: folks (the local people, everyone round here) + tone (a lovely deep sound, a musical note) = Folkestone. Folks-tone.
 - id: artbusters-016
-  enabled: true
+  enabled: false
   title: Artbusters
   topic: famous artworks, art movements, and artists
   difficulty: hard
@@ -12364,7 +12364,7 @@
     - basingstoke
     reasoning: basing (building an argument on a foundation) + stoke (to stoke a fire, keep it burning) = Basingstoke. Basing-stoke.
 - id: artbusters-019
-  enabled: true
+  enabled: false
   title: Artbusters
   topic: famous artworks, art movements, and artists
   difficulty: hard
@@ -13440,7 +13440,7 @@
     - milton keynes
     reasoning: mill + ton (a mill, and a ton weight) + keens (sounds like keen, enthusiastic) = Milton Keynes. Mill-ton-keens.
 - id: artbusters-006
-  enabled: true
+  enabled: false
   title: Artbusters
   topic: famous artworks, art movements, and artists
   difficulty: hard
@@ -14510,7 +14510,7 @@
     - maidstone
     reasoning: maid (domestic worker) + stone (large flat rock) = Maidstone. Maid-stone.
 - id: artbusters-018
-  enabled: true
+  enabled: false
   title: Artbusters
   topic: famous artworks, art movements, and artists
   difficulty: hard
@@ -37427,7 +37427,7 @@
     - last supper
     reasoning: 'the + last (final) + supper (an evening meal) = The Last Supper. The clue describes the scene: final meal, long table, things went wrong after.'
 - id: artbusters-004
-  enabled: true
+  enabled: false
   title: Artbusters
   topic: famous artworks, art movements, and artists
   difficulty: hard
@@ -37460,7 +37460,7 @@
     - pop art
     reasoning: pop (informal word for dad/father) + art (painting/artwork) = Pop Art. Pop + Art said together.
 - id: artbusters-007
-  enabled: true
+  enabled: false
   title: Artbusters
   topic: famous artworks, art movements, and artists
   difficulty: hard
@@ -37496,7 +37496,7 @@
     - constable
     reasoning: John (a man's name, Jon) + con (to deceive/trick) + stable (where you keep large animals like cows and horses) = John Con-stable = John Constable. Jon + con + stable.
 - id: artbusters-009
-  enabled: true
+  enabled: false
   title: Artbusters
   topic: famous artworks, art movements, and artists
   difficulty: hard
@@ -37532,7 +37532,7 @@
     - mona lisa
     reasoning: moan (to moan/complain) + a (the sound) + leaser (someone who leases/rents things) = Mona-Lisa. Moan-a-Lease-er.
 - id: artbusters-010
-  enabled: true
+  enabled: false
   title: Artbusters
   topic: famous artworks, art movements, and artists
   difficulty: hard
@@ -37565,7 +37565,7 @@
     - banksy
     reasoning: bank (savings institution, where you keep money) + sky/see (to look at/observe) = bank-see = Banksy.
 - id: artbusters-011
-  enabled: true
+  enabled: false
   title: Artbusters
   topic: famous artworks, art movements, and artists
   difficulty: hard
@@ -37598,7 +37598,7 @@
     - francis bacon
     reasoning: Francis (a name, Fran-sis) + Bacon (cured pork, the stuff you have with eggs) = Francis Bacon.
 - id: artbusters-013
-  enabled: true
+  enabled: false
   title: Artbusters
   topic: famous artworks, art movements, and artists
   difficulty: hard
@@ -37634,7 +37634,7 @@
     - lowry
     reasoning: L (letter L) + S (letter S) + low (close to the ground, not high) + ry/ree (a sound like 'ree') = L.S. Low-ree = L.S. Lowry.
 - id: artbusters-017
-  enabled: true
+  enabled: false
   title: Artbusters
   topic: famous artworks, art movements, and artists
   difficulty: hard
