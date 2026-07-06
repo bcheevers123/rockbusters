@@ -3094,37 +3094,6 @@
     ]
   },
   {
-    "id": "animalbusters-012",
-    "enabled": true,
-    "title": "Animalbusters",
-    "topic": "land animals from around the world",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "Right then, Animalbusters dozen. Twelve sets. The animals just keep coming.",
-    "prize": "Email in. Winner gets a Smash Hits magazine from 2003 and some value biscuits.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "P",
-        "clue": "Right, some bloke's giving a sermon, proper preaching he is, and at the end he's gone a bit weird. Said something odd."
-      },
-      {
-        "number": 2,
-        "initials": "K",
-        "clue": "That dog, the spotty one, it's gone and eaten the whole thing. Dingo behaviour."
-      },
-      {
-        "number": 3,
-        "initials": "G",
-        "clue": "The bloke in the gnu field, right, he's gone all weird and starts moaning like a wildebeest. Uncomfortable."
-      }
-    ]
-  },
-  {
     "id": "chickenbusters-003",
     "enabled": true,
     "title": "Chickenbusters",
@@ -6374,7 +6343,7 @@
       {
         "number": 3,
         "initials": "V",
-        "clue": "That bloke in the vest, he's gone up really high. Proper elevated. Bit cold up there."
+        "clue": "[CLUE NEEDS REWRITE] That bloke in the vest, he's gone up really high. Proper elevated. Bit cold up there."
       }
     ]
   },
@@ -7171,37 +7140,6 @@
         "number": 3,
         "initials": "CSI",
         "clue": "The sun's out, right, and a bloke called Ian's standing guard over it. Making sure no clouds get to it."
-      }
-    ]
-  },
-  {
-    "id": "animalbusters-015",
-    "enabled": true,
-    "title": "Animalbusters",
-    "topic": "land animals from around the world",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "Right, fifteen animals in. Animalbusters. Still more to go.",
-    "prize": "Email in. Winner gets a tube of Pringles from a vending machine and a wristband from a concert no one remembers.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "N",
-        "clue": "The night time, right, and there's a female deer involved. The two of them are just there in the dark."
-      },
-      {
-        "number": 2,
-        "initials": "Q",
-        "clue": "Like a question at the top of a page, that round-the-corner thing. Some fella's put a bird in one."
-      },
-      {
-        "number": 3,
-        "initials": "D",
-        "clue": "That bloke's been digging about in the bush, right, and he's come out all scratched. Typical."
       }
     ]
   },
@@ -8054,7 +7992,7 @@
       {
         "number": 2,
         "initials": "B",
-        "clue": "He's given it a proper bash, right, the punching type. Gone right in there."
+        "clue": "[CLUE NEEDS REWRITE] He's given it a proper bash, right, the punching type. Gone right in there."
       },
       {
         "number": 3,
@@ -8907,12 +8845,12 @@
       {
         "number": 1,
         "initials": "S",
-        "clue": "The hoofed thing, right, he's gone off on his own. A proper loner. Just wandered into the trees."
+        "clue": "[CLUE NEEDS REWRITE] The hoofed thing, right, he's gone off on his own. A proper loner. Just wandered into the trees."
       },
       {
         "number": 2,
         "initials": "I",
-        "clue": "The great big one, that African cat, it's gone to the coast. Sitting by the ocean now."
+        "clue": "[CLUE NEEDS REWRITE] The great big one, that African cat, it's gone to the coast. Sitting by the ocean now."
       },
       {
         "number": 3,
@@ -9654,37 +9592,6 @@
         "number": 3,
         "initials": "S",
         "clue": "There's this famous detective fella, right, and he's at the scene of something. Leave it with him."
-      }
-    ]
-  },
-  {
-    "id": "animalbusters-010",
-    "enabled": true,
-    "title": "Animalbusters",
-    "topic": "land animals from around the world",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "Round ten of Animalbusters. Double figures. Quite impressive really.",
-    "prize": "Email in. Winner gets a copy of Men Behaving Badly on VHS and a jar of Marmite.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "C",
-        "clue": "Right, a female deer, and she's gone out for a wander. Just off out."
-      },
-      {
-        "number": 2,
-        "initials": "O",
-        "clue": "There's an old bloke called Rex, and he's wearing one of them horns they blow at football. The whole scene."
-      },
-      {
-        "number": 3,
-        "initials": "M",
-        "clue": "A bit of flour and water, the dough type, but this one's got spots. Totally normal."
       }
     ]
   },
@@ -11244,12 +11151,12 @@
       {
         "number": 2,
         "initials": "S",
-        "clue": "That bloke has gone and shunned the lot of them, right. Said no to all of it."
+        "clue": "[CLUE NEEDS REWRITE] That bloke has gone and shunned the lot of them, right. Said no to all of it."
       },
       {
         "number": 3,
         "initials": "C",
-        "clue": "Right, that thing cub scouts are in, it's gone wild and furry. Running about on all fours."
+        "clue": "[CLUE NEEDS REWRITE] Right, that thing cub scouts are in, it's gone wild and furry. Running about on all fours."
       }
     ]
   },
@@ -12724,37 +12631,6 @@
     ]
   },
   {
-    "id": "animalbusters-011",
-    "enabled": true,
-    "title": "Animalbusters",
-    "topic": "land animals from around the world",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "Animalbusters eleven. Still going. Honestly didn't think we'd get this far.",
-    "prize": "Email in. Winner gets a Domino's Pizza loyalty stamp card and a small bottle of Tabasco from a hotel.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "E",
-        "clue": "That bloke Eland, he's just sort of... landed, hasn't he. Touched down and that."
-      },
-      {
-        "number": 2,
-        "initials": "T",
-        "clue": "Right, a bloke called Ap, he's been there for a while. Proper tapping away."
-      },
-      {
-        "number": 3,
-        "initials": "D",
-        "clue": "She's gone and dug it out, that big grey thing, from the earth. All trunk and that."
-      }
-    ]
-  },
-  {
     "id": "celebbusters-007",
     "enabled": true,
     "title": "Celebbusters",
@@ -13419,12 +13295,12 @@
       {
         "number": 2,
         "initials": "O",
-        "clue": "That's a proper big one, isn't it. Goes around in the long grass. The bloke keeps catching it."
+        "clue": "[CLUE NEEDS REWRITE] That's a proper big one, isn't it. Goes around in the long grass. The bloke keeps catching it."
       },
       {
         "number": 3,
         "initials": "B",
-        "clue": "Right, a young one, a baby badger type, but it's gone absolutely massive. Didn't see that coming."
+        "clue": "[CLUE NEEDS REWRITE] Right, a young one, a baby badger type, but it's gone absolutely massive. Didn't see that coming."
       }
     ]
   },
@@ -14098,37 +13974,6 @@
         "number": 3,
         "initials": "TG",
         "clue": "The very top of a particular gear on a bicycle. Right at the very summit of it. That's it, that's your clue."
-      }
-    ]
-  },
-  {
-    "id": "animalbusters-019",
-    "enabled": true,
-    "title": "Animalbusters",
-    "topic": "land animals from around the world",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "Animalbusters. Three more animals hiding in the sounds. Say each one out loud.",
-    "prize": "Email in. Winner gets a two-for-one Pizza Hut voucher from 2004 and a branded pen from an insurance company.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "P",
-        "clue": "A cat, right, but this one's gone completely black and it's in a tree somewhere dark. You'd miss it."
-      },
-      {
-        "number": 2,
-        "initials": "M",
-        "clue": "Right, a lady called Mbwa, she's done a proper mad thing with a motorbike. Wild behaviour."
-      },
-      {
-        "number": 3,
-        "initials": "O",
-        "clue": "The bloke from the nightclub, right, standing by the cape buffalo. Doesn't know what he's looking at."
       }
     ]
   },
@@ -15557,7 +15402,7 @@
       {
         "number": 1,
         "initials": "C",
-        "clue": "Some big fella named Barry came in, sat on a hat, and disappeared into a bar. Busy day for him."
+        "clue": "[CLUE NEEDS REWRITE] Some big fella named Barry came in, sat on a hat, and disappeared into a bar. Busy day for him."
       },
       {
         "number": 2,
@@ -16266,7 +16111,7 @@
       {
         "number": 2,
         "initials": "M",
-        "clue": "The mole, right, that underground digger, it's gone and got itself a ratt on the end. Bit grim."
+        "clue": "[CLUE NEEDS REWRITE] The mole, right, that underground digger, it's gone and got itself a ratt on the end. Bit grim."
       },
       {
         "number": 3,
@@ -16946,37 +16791,6 @@
         "number": 3,
         "initials": "WIB",
         "clue": "Right, there's a cable running through some meat. Like an actual wire, inside the beef or whatever. Bit wrong."
-      }
-    ]
-  },
-  {
-    "id": "animalbusters-016",
-    "enabled": true,
-    "title": "Animalbusters",
-    "topic": "land animals from around the world",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "Animalbusters sixteen. Getting into the rarities now. Don't say you weren't warned.",
-    "prize": "Email in. Winner gets a Club biscuit and a Friends series one to six box set on DVD.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "F",
-        "clue": "A bloke called Oss, he's in charge of something. Proper boss energy. Something's died near him."
-      },
-      {
-        "number": 2,
-        "initials": "T",
-        "clue": "Right, she's been on the telly, that one. Lives in the bush. Basically on all channels."
-      },
-      {
-        "number": 3,
-        "initials": "A",
-        "clue": "That pointy-nosed thing, it's been on the eating-ants game for ages now. A proper specialist."
       }
     ]
   },
@@ -22849,7 +22663,7 @@
       {
         "number": 3,
         "initials": "C",
-        "clue": "Right, you know that sound a crow makes? That bird's been at the beach all day picking at things. Near enough."
+        "clue": "[CLUE NEEDS REWRITE] Right, you know that sound a crow makes? That bird's been at the beach all day picking at things. Near enough."
       }
     ]
   },
@@ -22870,7 +22684,7 @@
       {
         "number": 1,
         "initials": "M R",
-        "clue": "There's a bloke called Ray, right, and he's doing something incredible with his hands. Magical, like a proper showman. Bit flashy."
+        "clue": "[CLUE NEEDS REWRITE] There's a bloke called Ray, right, and he's doing something incredible with his hands. Magical, like a proper showman. Bit flashy."
       },
       {
         "number": 2,
@@ -22880,7 +22694,7 @@
       {
         "number": 3,
         "initials": "G",
-        "clue": "Me nan's got a new candle. She says it smells lovely. Flowers and that. I dunno. It's just a bird in the end."
+        "clue": "[CLUE NEEDS REWRITE] Me nan's got a new candle. She says it smells lovely. Flowers and that. I dunno. It's just a bird in the end."
       }
     ]
   },
@@ -23094,7 +22908,7 @@
       {
         "number": 1,
         "initials": "M R",
-        "clue": "Some magician fella called Ray is doing tricks under the sea. Big flat hands, very dramatic about it all."
+        "clue": "[CLUE NEEDS REWRITE] Some magician fella called Ray is doing tricks under the sea. Big flat hands, very dramatic about it all."
       },
       {
         "number": 2,
@@ -23136,7 +22950,7 @@
       {
         "number": 3,
         "initials": "C",
-        "clue": "Right, some bloke's been well grumpy all day - couldn't find his keys, train was late, all of that. Sideways personality on him."
+        "clue": "[CLUE NEEDS REWRITE] Right, some bloke's been well grumpy all day - couldn't find his keys, train was late, all of that. Sideways personality on him."
       }
     ]
   },
@@ -23168,7 +22982,7 @@
       {
         "number": 3,
         "initials": "G",
-        "clue": "That seabird at the coast, mate - it'll eat your chips if you're not quick. Absolute gannet. There's a clue in that somewhere."
+        "clue": "[CLUE NEEDS REWRITE] That seabird at the coast, mate - it'll eat your chips if you're not quick. Absolute gannet. There's a clue in that somewhere."
       }
     ]
   },
@@ -23360,7 +23174,7 @@
       {
         "number": 3,
         "initials": "C",
-        "clue": "There's a bird that dives into the sea and comes up with fish. Goes all black and sleek. Spreads its wings out to dry after. Fair enough."
+        "clue": "[CLUE NEEDS REWRITE] There's a bird that dives into the sea and comes up with fish. Goes all black and sleek. Spreads its wings out to dry after. Fair enough."
       }
     ]
   },

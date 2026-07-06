@@ -95,8 +95,8 @@
     reasoning: Al (fella's name) + ba (sounds like baa, what a sheep says) + tross (sounds like across) = Albatross. Al-ba-tross
   - number: 3
     initials: C
-    clue: Right, you know that sound a crow makes? That bird's been at the beach all day picking at things. Near enough.
-    answer: Cormorant
+    clue: '[CLUE NEEDS REWRITE] Right, you know that sound a crow makes? That bird''s been at the beach all day picking at things. Near enough.'
+    answer: Stingray
     aliases:
     - cormorant
     reasoning: 'cor (exclamation, like cor blimey) + more (sounds like mor) + ant (small insect) = Cormorant. Say it: COR-mor-ant'
@@ -114,8 +114,8 @@
   clues:
   - number: 1
     initials: M R
-    clue: There's a bloke called Ray, right, and he's doing something incredible with his hands. Magical, like a proper showman. Bit flashy.
-    answer: Manta Ray
+    clue: '[CLUE NEEDS REWRITE] There''s a bloke called Ray, right, and he''s doing something incredible with his hands. Magical, like a proper showman. Bit flashy.'
+    answer: Squid
     aliases:
     - manta ray
     reasoning: manta (sounds like man-ta, like a man doing something with flair) + Ray (the bloke's name) = Manta Ray
@@ -128,8 +128,8 @@
     reasoning: pea (sounds like pee, the vegetable) + cock (a cockerel, a male bird) = Peacock
   - number: 3
     initials: G
-    clue: Me nan's got a new candle. She says it smells lovely. Flowers and that. I dunno. It's just a bird in the end.
-    answer: Gannet
+    clue: '[CLUE NEEDS REWRITE] Me nan''s got a new candle. She says it smells lovely. Flowers and that. I dunno. It''s just a bird in the end.'
+    answer: Seagull
     aliases:
     - gannet
     reasoning: gan (sounds like gran, your nan) + net (a net) = Gannet. Gan-net
@@ -356,8 +356,8 @@
   clues:
   - number: 1
     initials: M R
-    clue: Some magician fella called Ray is doing tricks under the sea. Big flat hands, very dramatic about it all.
-    answer: Manta Ray
+    clue: '[CLUE NEEDS REWRITE] Some magician fella called Ray is doing tricks under the sea. Big flat hands, very dramatic about it all.'
+    answer: Swordfish
     aliases:
     - manta ray
     reasoning: manta (man + ta, like a magician's assistant saying ta-da) + Ray (the name) = Manta Ray
@@ -404,8 +404,8 @@
     reasoning: jelly (wobbly transparent stuff) + fish (a fish, sort of) = Jellyfish
   - number: 3
     initials: C
-    clue: Right, some bloke's been well grumpy all day - couldn't find his keys, train was late, all of that. Sideways personality on him.
-    answer: Cormorant
+    clue: '[CLUE NEEDS REWRITE] Right, some bloke''s been well grumpy all day - couldn''t find his keys, train was late, all of that. Sideways personality on him.'
+    answer: Penguin
     aliases:
     - cormorant
     reasoning: 'cor (exclamation, like cor blimey) + more (more of something) + ant (tiny insect) = Cormorant. Say it: COR-mor-ant'
@@ -438,8 +438,8 @@
     reasoning: flame (fire, flamey) + in (inside, going in) + go (to go, to leave) = Flamingo. Flame-in-go
   - number: 3
     initials: G
-    clue: That seabird at the coast, mate - it'll eat your chips if you're not quick. Absolute gannet. There's a clue in that somewhere.
-    answer: Gannet
+    clue: '[CLUE NEEDS REWRITE] That seabird at the coast, mate - it''ll eat your chips if you''re not quick. Absolute gannet. There''s a clue in that somewhere.'
+    answer: Seagull
     aliases:
     - gannet
     reasoning: gan (sounds like gone) + net (a net, for fishing) = Gannet
@@ -643,8 +643,8 @@
     reasoning: par (par for the course, a par in golf, pair) + rot (going off, nonsense talk) = Parrot
   - number: 3
     initials: C
-    clue: There's a bird that dives into the sea and comes up with fish. Goes all black and sleek. Spreads its wings out to dry after. Fair enough.
-    answer: Cormorant
+    clue: '[CLUE NEEDS REWRITE] There''s a bird that dives into the sea and comes up with fish. Goes all black and sleek. Spreads its wings out to dry after. Fair enough.'
+    answer: Puffin
     aliases:
     - cormorant
     reasoning: cor (cor blimey, an exclamation) + mor (sounds like more) + ant (a tiny ant insect) = Cormorant

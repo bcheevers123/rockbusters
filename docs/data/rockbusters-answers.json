@@ -3099,36 +3099,6 @@
     ]
   },
   {
-    "id": "animalbusters-012",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Pronghorn",
-        "aliases": [
-          "pronghorn"
-        ],
-        "reasoning": "prong (pointy bit) + horn (animal horn) = Pronghorn, the North American antelope"
-      },
-      {
-        "number": 2,
-        "answer": "Kudu",
-        "aliases": [
-          "kudu"
-        ],
-        "reasoning": "coo + do (like do-do), sounds like kudu, the striped African antelope"
-      },
-      {
-        "number": 3,
-        "answer": "Gnu",
-        "aliases": [
-          "gnu",
-          "wildebeest"
-        ],
-        "reasoning": "gnu sounds like new, or like you'd say it if you didn't know how"
-      }
-    ]
-  },
-  {
     "id": "chickenbusters-003",
     "clues": [
       {
@@ -6364,8 +6334,9 @@
       },
       {
         "number": 3,
-        "answer": "Vicuna",
+        "answer": "Bear",
         "aliases": [
+          "bear",
           "vicuna",
           "vicuña"
         ],
@@ -7150,35 +7121,6 @@
           "cold feet"
         ],
         "reasoning": "cold (opposite of warm) + feet (what you walk on) = Cold Feet"
-      }
-    ]
-  },
-  {
-    "id": "animalbusters-015",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Numbat",
-        "aliases": [
-          "numbat"
-        ],
-        "reasoning": "numb (like going numb) + at, sounds like numbat, the Australian marsupial"
-      },
-      {
-        "number": 2,
-        "answer": "Quoll",
-        "aliases": [
-          "quoll"
-        ],
-        "reasoning": "quol + l, sounds like quoll, the spotted Australian marsupial"
-      },
-      {
-        "number": 3,
-        "answer": "Dingo",
-        "aliases": [
-          "dingo"
-        ],
-        "reasoning": "din (noise) + go (leave) = Dingo. Or just say it: dingo."
       }
     ]
   },
@@ -8006,8 +7948,9 @@
       },
       {
         "number": 2,
-        "answer": "Bison",
+        "answer": "Lion",
         "aliases": [
+          "lion",
           "bison"
         ],
         "reasoning": "buy + son, or bis + on = Bison. Say it. Bison."
@@ -8837,16 +8780,18 @@
     "clues": [
       {
         "number": 1,
-        "answer": "Springbok",
+        "answer": "Zebra",
         "aliases": [
+          "zebra",
           "springbok"
         ],
         "reasoning": "spring (bouncy) + bok (buck sound) = Springbok, the South African antelope"
       },
       {
         "number": 2,
-        "answer": "Impala",
+        "answer": "Panda",
         "aliases": [
+          "panda",
           "impala"
         ],
         "reasoning": "im + pala, sounds like impala, the African antelope, or the Chevy car"
@@ -9593,36 +9538,6 @@
           "sherlock"
         ],
         "reasoning": "sure (certain) + lock (locking mechanism) = Sherlock. Say it quick."
-      }
-    ]
-  },
-  {
-    "id": "animalbusters-010",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Cougar",
-        "aliases": [
-          "cougar",
-          "puma"
-        ],
-        "reasoning": "coo (like a dove) + gar, sounds like cougar. Say it soft."
-      },
-      {
-        "number": 2,
-        "answer": "Oryx",
-        "aliases": [
-          "oryx"
-        ],
-        "reasoning": "or + yx, sounds like oryx, the big horned antelope"
-      },
-      {
-        "number": 3,
-        "answer": "Margay",
-        "aliases": [
-          "margay"
-        ],
-        "reasoning": "mar + gay, or mar + gey = margay, a spotted wild cat"
       }
     ]
   },
@@ -11134,16 +11049,18 @@
       },
       {
         "number": 2,
-        "answer": "Serval",
+        "answer": "Tiger",
         "aliases": [
+          "tiger",
           "serval"
         ],
         "reasoning": "ser + val, sounds like serval, the long-legged African cat"
       },
       {
         "number": 3,
-        "answer": "Coyote",
+        "answer": "Wolf",
         "aliases": [
+          "wolf",
           "coyote"
         ],
         "reasoning": "coy (shy, keeping back) + ote, sounds like coyote when said out loud"
@@ -12592,35 +12509,6 @@
     ]
   },
   {
-    "id": "animalbusters-011",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Eland",
-        "aliases": [
-          "eland"
-        ],
-        "reasoning": "ee + land (touched down) = Eland, the big African antelope"
-      },
-      {
-        "number": 2,
-        "answer": "Tapir",
-        "aliases": [
-          "tapir"
-        ],
-        "reasoning": "tap (tapping) + ir, sounds like tapir. The big-nosed South American animal."
-      },
-      {
-        "number": 3,
-        "answer": "Dhole",
-        "aliases": [
-          "dhole"
-        ],
-        "reasoning": "d + hole (dug out) = Dhole, the Indian wild dog"
-      }
-    ]
-  },
-  {
     "id": "celebbusters-007",
     "clues": [
       {
@@ -13266,16 +13154,18 @@
       },
       {
         "number": 2,
-        "answer": "Ocelot",
+        "answer": "Badger",
         "aliases": [
+          "badger",
           "ocelot"
         ],
         "reasoning": "os + e + lot, sounds like ocelot, a spotted wild cat. Say it out loud."
       },
       {
         "number": 3,
-        "answer": "Boar",
+        "answer": "Fox",
         "aliases": [
+          "fox",
           "boar",
           "wild boar"
         ],
@@ -13938,36 +13828,6 @@
           "top gear"
         ],
         "reasoning": "top (very top) + gear (a gear on a bike or car) = Top Gear"
-      }
-    ]
-  },
-  {
-    "id": "animalbusters-019",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Panther",
-        "aliases": [
-          "panther",
-          "black panther"
-        ],
-        "reasoning": "pan (frying pan) + ther, sounds like panther. The black big cat."
-      },
-      {
-        "number": 2,
-        "answer": "Mandrill",
-        "aliases": [
-          "mandrill"
-        ],
-        "reasoning": "man + drill (power tool) = Mandrill. The colourful African primate."
-      },
-      {
-        "number": 3,
-        "answer": "Okapi",
-        "aliases": [
-          "okapi"
-        ],
-        "reasoning": "o + kapi, sounds like okapi, the zebra-giraffe thing from the Congo"
       }
     ]
   },
@@ -15367,8 +15227,9 @@
     "clues": [
       {
         "number": 1,
-        "answer": "Capybara",
+        "answer": "Elephant",
         "aliases": [
+          "elephant",
           "capybara"
         ],
         "reasoning": "cap (hat) + e + bar (pub) + a = Capybara. Barry's had a long day."
@@ -16071,8 +15932,9 @@
       },
       {
         "number": 2,
-        "answer": "Mole Rat",
+        "answer": "Rabbit",
         "aliases": [
+          "rabbit",
           "mole rat",
           "naked mole rat"
         ],
@@ -16745,36 +16607,6 @@
           "wire in the blood"
         ],
         "reasoning": "wire (electrical cable) + in the (inside the) + blood (the red stuff) = Wire in the Blood"
-      }
-    ]
-  },
-  {
-    "id": "animalbusters-016",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Fossa",
-        "aliases": [
-          "fossa"
-        ],
-        "reasoning": "foss + a, sounds like fossa, the big Madagascar predator"
-      },
-      {
-        "number": 2,
-        "answer": "Tenrec",
-        "aliases": [
-          "tenrec"
-        ],
-        "reasoning": "ten + rec (recreation, or recording) = tenrec, the Madagascar insectivore"
-      },
-      {
-        "number": 3,
-        "answer": "Anteater",
-        "aliases": [
-          "anteater",
-          "giant anteater"
-        ],
-        "reasoning": "ant + eater = anteater. Dead simple this one. Bit embarrassing really."
       }
     ]
   },
@@ -22424,8 +22256,9 @@
       },
       {
         "number": 3,
-        "answer": "Cormorant",
+        "answer": "Stingray",
         "aliases": [
+          "stingray",
           "cormorant"
         ],
         "reasoning": "cor (exclamation, like cor blimey) + more (sounds like mor) + ant (small insect) = Cormorant. Say it: COR-mor-ant"
@@ -22437,8 +22270,9 @@
     "clues": [
       {
         "number": 1,
-        "answer": "Manta Ray",
+        "answer": "Squid",
         "aliases": [
+          "squid",
           "manta ray"
         ],
         "reasoning": "manta (sounds like man-ta, like a man doing something with flair) + Ray (the bloke's name) = Manta Ray"
@@ -22453,8 +22287,9 @@
       },
       {
         "number": 3,
-        "answer": "Gannet",
+        "answer": "Seagull",
         "aliases": [
+          "seagull",
           "gannet"
         ],
         "reasoning": "gan (sounds like gran, your nan) + net (a net) = Gannet. Gan-net"
@@ -22644,8 +22479,9 @@
     "clues": [
       {
         "number": 1,
-        "answer": "Manta Ray",
+        "answer": "Swordfish",
         "aliases": [
+          "swordfish",
           "manta ray"
         ],
         "reasoning": "manta (man + ta, like a magician's assistant saying ta-da) + Ray (the name) = Manta Ray"
@@ -22689,8 +22525,9 @@
       },
       {
         "number": 3,
-        "answer": "Cormorant",
+        "answer": "Penguin",
         "aliases": [
+          "penguin",
           "cormorant"
         ],
         "reasoning": "cor (exclamation, like cor blimey) + more (more of something) + ant (tiny insect) = Cormorant. Say it: COR-mor-ant"
@@ -22718,8 +22555,9 @@
       },
       {
         "number": 3,
-        "answer": "Gannet",
+        "answer": "Seagull",
         "aliases": [
+          "seagull",
           "gannet"
         ],
         "reasoning": "gan (sounds like gone) + net (a net, for fishing) = Gannet"
@@ -22893,8 +22731,9 @@
       },
       {
         "number": 3,
-        "answer": "Cormorant",
+        "answer": "Puffin",
         "aliases": [
+          "puffin",
           "cormorant"
         ],
         "reasoning": "cor (cor blimey, an exclamation) + mor (sounds like more) + ant (a tiny ant insect) = Cormorant"

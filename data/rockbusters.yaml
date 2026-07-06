@@ -4160,7 +4160,7 @@
     - camembert
     reasoning: 'came in (arrived, turned up) + bear (a large furry animal) = came-in-bear = Camembert. Say it quickly: cam-em-bear.'
 - id: animalbusters-012
-  enabled: true
+  enabled: false
   title: Animalbusters
   topic: land animals from around the world
   difficulty: medium
@@ -8288,8 +8288,8 @@
     reasoning: o + possum, sounds like opossum. Say it with an O in front.
   - number: 3
     initials: V
-    clue: That bloke in the vest, he's gone up really high. Proper elevated. Bit cold up there.
-    answer: Vicuna
+    clue: '[CLUE NEEDS REWRITE] That bloke in the vest, he''s gone up really high. Proper elevated. Bit cold up there.'
+    answer: Bear
     aliases:
     - vicuna
     - vicuña
@@ -9397,7 +9397,7 @@
     - cold feet
     reasoning: cold (opposite of warm) + feet (what you walk on) = Cold Feet
 - id: animalbusters-015
-  enabled: true
+  enabled: false
   title: Animalbusters
   topic: land animals from around the world
   difficulty: medium
@@ -10524,8 +10524,8 @@
     reasoning: le + op + ard, sounds like leopard, lee + ard, the spotted cat
   - number: 2
     initials: B
-    clue: He's given it a proper bash, right, the punching type. Gone right in there.
-    answer: Bison
+    clue: '[CLUE NEEDS REWRITE] He''s given it a proper bash, right, the punching type. Gone right in there.'
+    answer: Lion
     aliases:
     - bison
     reasoning: buy + son, or bis + on = Bison. Say it. Bison.
@@ -11595,15 +11595,15 @@
   clues:
   - number: 1
     initials: S
-    clue: The hoofed thing, right, he's gone off on his own. A proper loner. Just wandered into the trees.
-    answer: Springbok
+    clue: '[CLUE NEEDS REWRITE] The hoofed thing, right, he''s gone off on his own. A proper loner. Just wandered into the trees.'
+    answer: Zebra
     aliases:
     - springbok
     reasoning: spring (bouncy) + bok (buck sound) = Springbok, the South African antelope
   - number: 2
     initials: I
-    clue: The great big one, that African cat, it's gone to the coast. Sitting by the ocean now.
-    answer: Impala
+    clue: '[CLUE NEEDS REWRITE] The great big one, that African cat, it''s gone to the coast. Sitting by the ocean now.'
+    answer: Panda
     aliases:
     - impala
     reasoning: im + pala, sounds like impala, the African antelope, or the Chevy car
@@ -12670,7 +12670,7 @@
     - sherlock
     reasoning: sure (certain) + lock (locking mechanism) = Sherlock. Say it quick.
 - id: animalbusters-010
-  enabled: true
+  enabled: false
   title: Animalbusters
   topic: land animals from around the world
   difficulty: medium
@@ -14831,15 +14831,15 @@
     reasoning: links (connects everything) sounds like lynx. Or the deodorant, but that's a different thing.
   - number: 2
     initials: S
-    clue: That bloke has gone and shunned the lot of them, right. Said no to all of it.
-    answer: Serval
+    clue: '[CLUE NEEDS REWRITE] That bloke has gone and shunned the lot of them, right. Said no to all of it.'
+    answer: Tiger
     aliases:
     - serval
     reasoning: ser + val, sounds like serval, the long-legged African cat
   - number: 3
     initials: C
-    clue: Right, that thing cub scouts are in, it's gone wild and furry. Running about on all fours.
-    answer: Coyote
+    clue: '[CLUE NEEDS REWRITE] Right, that thing cub scouts are in, it''s gone wild and furry. Running about on all fours.'
+    answer: Wolf
     aliases:
     - coyote
     reasoning: coy (shy, keeping back) + ote, sounds like coyote when said out loud
@@ -16719,7 +16719,7 @@
     - minder
     reasoning: 'mind (the brain) + er (hesitation sound) = Minder. Or: someone who minds things.'
 - id: animalbusters-011
-  enabled: true
+  enabled: false
   title: Animalbusters
   topic: land animals from around the world
   difficulty: medium
@@ -17680,15 +17680,15 @@
     reasoning: monk (contemplative type) + goose (another animal, near enough) = Mongoose. Don't ask.
   - number: 2
     initials: O
-    clue: That's a proper big one, isn't it. Goes around in the long grass. The bloke keeps catching it.
-    answer: Ocelot
+    clue: '[CLUE NEEDS REWRITE] That''s a proper big one, isn''t it. Goes around in the long grass. The bloke keeps catching it.'
+    answer: Badger
     aliases:
     - ocelot
     reasoning: os + e + lot, sounds like ocelot, a spotted wild cat. Say it out loud.
   - number: 3
     initials: B
-    clue: Right, a young one, a baby badger type, but it's gone absolutely massive. Didn't see that coming.
-    answer: Boar
+    clue: '[CLUE NEEDS REWRITE] Right, a young one, a baby badger type, but it''s gone absolutely massive. Didn''t see that coming.'
+    answer: Fox
     aliases:
     - boar
     - wild boar
@@ -18596,7 +18596,7 @@
     - top gear
     reasoning: top (very top) + gear (a gear on a bike or car) = Top Gear
 - id: animalbusters-019
-  enabled: true
+  enabled: false
   title: Animalbusters
   topic: land animals from around the world
   difficulty: medium
@@ -20499,8 +20499,8 @@
   clues:
   - number: 1
     initials: C
-    clue: Some big fella named Barry came in, sat on a hat, and disappeared into a bar. Busy day for him.
-    answer: Capybara
+    clue: '[CLUE NEEDS REWRITE] Some big fella named Barry came in, sat on a hat, and disappeared into a bar. Busy day for him.'
+    answer: Elephant
     aliases:
     - capybara
     reasoning: cap (hat) + e + bar (pub) + a = Capybara. Barry's had a long day.
@@ -21451,8 +21451,8 @@
     reasoning: buff + alo, sounds like buffalo. Or buff + a + low. Big horned thing.
   - number: 2
     initials: M
-    clue: The mole, right, that underground digger, it's gone and got itself a ratt on the end. Bit grim.
-    answer: Mole Rat
+    clue: '[CLUE NEEDS REWRITE] The mole, right, that underground digger, it''s gone and got itself a ratt on the end. Bit grim.'
+    answer: Rabbit
     aliases:
     - mole rat
     - naked mole rat
@@ -22369,7 +22369,7 @@
     - wire in the blood
     reasoning: wire (electrical cable) + in the (inside the) + blood (the red stuff) = Wire in the Blood
 - id: animalbusters-016
-  enabled: true
+  enabled: false
   title: Animalbusters
   topic: land animals from around the world
   difficulty: medium
@@ -29498,8 +29498,8 @@
     reasoning: Al (fella's name) + ba (sounds like baa, what a sheep says) + tross (sounds like across) = Albatross. Al-ba-tross
   - number: 3
     initials: C
-    clue: Right, you know that sound a crow makes? That bird's been at the beach all day picking at things. Near enough.
-    answer: Cormorant
+    clue: '[CLUE NEEDS REWRITE] Right, you know that sound a crow makes? That bird''s been at the beach all day picking at things. Near enough.'
+    answer: Stingray
     aliases:
     - cormorant
     reasoning: 'cor (exclamation, like cor blimey) + more (sounds like mor) + ant (small insect) = Cormorant. Say it: COR-mor-ant'
@@ -29517,8 +29517,8 @@
   clues:
   - number: 1
     initials: M R
-    clue: There's a bloke called Ray, right, and he's doing something incredible with his hands. Magical, like a proper showman. Bit flashy.
-    answer: Manta Ray
+    clue: '[CLUE NEEDS REWRITE] There''s a bloke called Ray, right, and he''s doing something incredible with his hands. Magical, like a proper showman. Bit flashy.'
+    answer: Squid
     aliases:
     - manta ray
     reasoning: manta (sounds like man-ta, like a man doing something with flair) + Ray (the bloke's name) = Manta Ray
@@ -29531,8 +29531,8 @@
     reasoning: pea (sounds like pee, the vegetable) + cock (a cockerel, a male bird) = Peacock
   - number: 3
     initials: G
-    clue: Me nan's got a new candle. She says it smells lovely. Flowers and that. I dunno. It's just a bird in the end.
-    answer: Gannet
+    clue: '[CLUE NEEDS REWRITE] Me nan''s got a new candle. She says it smells lovely. Flowers and that. I dunno. It''s just a bird in the end.'
+    answer: Seagull
     aliases:
     - gannet
     reasoning: gan (sounds like gran, your nan) + net (a net) = Gannet. Gan-net
@@ -29759,8 +29759,8 @@
   clues:
   - number: 1
     initials: M R
-    clue: Some magician fella called Ray is doing tricks under the sea. Big flat hands, very dramatic about it all.
-    answer: Manta Ray
+    clue: '[CLUE NEEDS REWRITE] Some magician fella called Ray is doing tricks under the sea. Big flat hands, very dramatic about it all.'
+    answer: Swordfish
     aliases:
     - manta ray
     reasoning: manta (man + ta, like a magician's assistant saying ta-da) + Ray (the name) = Manta Ray
@@ -29807,8 +29807,8 @@
     reasoning: jelly (wobbly transparent stuff) + fish (a fish, sort of) = Jellyfish
   - number: 3
     initials: C
-    clue: Right, some bloke's been well grumpy all day - couldn't find his keys, train was late, all of that. Sideways personality on him.
-    answer: Cormorant
+    clue: '[CLUE NEEDS REWRITE] Right, some bloke''s been well grumpy all day - couldn''t find his keys, train was late, all of that. Sideways personality on him.'
+    answer: Penguin
     aliases:
     - cormorant
     reasoning: 'cor (exclamation, like cor blimey) + more (more of something) + ant (tiny insect) = Cormorant. Say it: COR-mor-ant'
@@ -29841,8 +29841,8 @@
     reasoning: flame (fire, flamey) + in (inside, going in) + go (to go, to leave) = Flamingo. Flame-in-go
   - number: 3
     initials: G
-    clue: That seabird at the coast, mate - it'll eat your chips if you're not quick. Absolute gannet. There's a clue in that somewhere.
-    answer: Gannet
+    clue: '[CLUE NEEDS REWRITE] That seabird at the coast, mate - it''ll eat your chips if you''re not quick. Absolute gannet. There''s a clue in that somewhere.'
+    answer: Seagull
     aliases:
     - gannet
     reasoning: gan (sounds like gone) + net (a net, for fishing) = Gannet
@@ -30046,8 +30046,8 @@
     reasoning: par (par for the course, a par in golf, pair) + rot (going off, nonsense talk) = Parrot
   - number: 3
     initials: C
-    clue: There's a bird that dives into the sea and comes up with fish. Goes all black and sleek. Spreads its wings out to dry after. Fair enough.
-    answer: Cormorant
+    clue: '[CLUE NEEDS REWRITE] There''s a bird that dives into the sea and comes up with fish. Goes all black and sleek. Spreads its wings out to dry after. Fair enough.'
+    answer: Puffin
     aliases:
     - cormorant
     reasoning: cor (cor blimey, an exclamation) + mor (sounds like more) + ant (a tiny ant insect) = Cormorant

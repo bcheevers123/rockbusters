@@ -148,8 +148,8 @@
   clues:
   - number: 1
     initials: C
-    clue: Some big fella named Barry came in, sat on a hat, and disappeared into a bar. Busy day for him.
-    answer: Capybara
+    clue: '[CLUE NEEDS REWRITE] Some big fella named Barry came in, sat on a hat, and disappeared into a bar. Busy day for him.'
+    answer: Elephant
     aliases:
     - capybara
     reasoning: cap (hat) + e + bar (pub) + a = Capybara. Barry's had a long day.
@@ -254,8 +254,8 @@
     reasoning: le + op + ard, sounds like leopard, lee + ard, the spotted cat
   - number: 2
     initials: B
-    clue: He's given it a proper bash, right, the punching type. Gone right in there.
-    answer: Bison
+    clue: '[CLUE NEEDS REWRITE] He''s given it a proper bash, right, the punching type. Gone right in there.'
+    answer: Lion
     aliases:
     - bison
     reasoning: buy + son, or bis + on = Bison. Say it. Bison.
@@ -287,21 +287,21 @@
     reasoning: monk (contemplative type) + goose (another animal, near enough) = Mongoose. Don't ask.
   - number: 2
     initials: O
-    clue: That's a proper big one, isn't it. Goes around in the long grass. The bloke keeps catching it.
-    answer: Ocelot
+    clue: '[CLUE NEEDS REWRITE] That''s a proper big one, isn''t it. Goes around in the long grass. The bloke keeps catching it.'
+    answer: Badger
     aliases:
     - ocelot
     reasoning: os + e + lot, sounds like ocelot, a spotted wild cat. Say it out loud.
   - number: 3
     initials: B
-    clue: Right, a young one, a baby badger type, but it's gone absolutely massive. Didn't see that coming.
-    answer: Boar
+    clue: '[CLUE NEEDS REWRITE] Right, a young one, a baby badger type, but it''s gone absolutely massive. Didn''t see that coming.'
+    answer: Fox
     aliases:
     - boar
     - wild boar
     reasoning: 'bore (a dull one) sounds like boar (wild pig). Or just say it: boar.'
 - id: animalbusters-010
-  enabled: true
+  enabled: false
   title: Animalbusters
   topic: land animals from around the world
   difficulty: medium
@@ -335,7 +335,7 @@
     - margay
     reasoning: mar + gay, or mar + gey = margay, a spotted wild cat
 - id: animalbusters-011
-  enabled: true
+  enabled: false
   title: Animalbusters
   topic: land animals from around the world
   difficulty: medium
@@ -368,7 +368,7 @@
     - dhole
     reasoning: d + hole (dug out) = Dhole, the Indian wild dog
 - id: animalbusters-012
-  enabled: true
+  enabled: false
   title: Animalbusters
   topic: land animals from around the world
   difficulty: medium
@@ -415,15 +415,15 @@
   clues:
   - number: 1
     initials: S
-    clue: The hoofed thing, right, he's gone off on his own. A proper loner. Just wandered into the trees.
-    answer: Springbok
+    clue: '[CLUE NEEDS REWRITE] The hoofed thing, right, he''s gone off on his own. A proper loner. Just wandered into the trees.'
+    answer: Zebra
     aliases:
     - springbok
     reasoning: spring (bouncy) + bok (buck sound) = Springbok, the South African antelope
   - number: 2
     initials: I
-    clue: The great big one, that African cat, it's gone to the coast. Sitting by the ocean now.
-    answer: Impala
+    clue: '[CLUE NEEDS REWRITE] The great big one, that African cat, it''s gone to the coast. Sitting by the ocean now.'
+    answer: Panda
     aliases:
     - impala
     reasoning: im + pala, sounds like impala, the African antelope, or the Chevy car
@@ -464,14 +464,14 @@
     reasoning: o + possum, sounds like opossum. Say it with an O in front.
   - number: 3
     initials: V
-    clue: That bloke in the vest, he's gone up really high. Proper elevated. Bit cold up there.
-    answer: Vicuna
+    clue: '[CLUE NEEDS REWRITE] That bloke in the vest, he''s gone up really high. Proper elevated. Bit cold up there.'
+    answer: Bear
     aliases:
     - vicuna
     - vicuña
     reasoning: vi + cuna, sounds like vicuna, the South American camelid
 - id: animalbusters-015
-  enabled: true
+  enabled: false
   title: Animalbusters
   topic: land animals from around the world
   difficulty: medium
@@ -504,7 +504,7 @@
     - dingo
     reasoning: 'din (noise) + go (leave) = Dingo. Or just say it: dingo.'
 - id: animalbusters-016
-  enabled: true
+  enabled: false
   title: Animalbusters
   topic: land animals from around the world
   difficulty: medium
@@ -558,15 +558,15 @@
     reasoning: links (connects everything) sounds like lynx. Or the deodorant, but that's a different thing.
   - number: 2
     initials: S
-    clue: That bloke has gone and shunned the lot of them, right. Said no to all of it.
-    answer: Serval
+    clue: '[CLUE NEEDS REWRITE] That bloke has gone and shunned the lot of them, right. Said no to all of it.'
+    answer: Tiger
     aliases:
     - serval
     reasoning: ser + val, sounds like serval, the long-legged African cat
   - number: 3
     initials: C
-    clue: Right, that thing cub scouts are in, it's gone wild and furry. Running about on all fours.
-    answer: Coyote
+    clue: '[CLUE NEEDS REWRITE] Right, that thing cub scouts are in, it''s gone wild and furry. Running about on all fours.'
+    answer: Wolf
     aliases:
     - coyote
     reasoning: coy (shy, keeping back) + ote, sounds like coyote when said out loud
@@ -592,8 +592,8 @@
     reasoning: buff + alo, sounds like buffalo. Or buff + a + low. Big horned thing.
   - number: 2
     initials: M
-    clue: The mole, right, that underground digger, it's gone and got itself a ratt on the end. Bit grim.
-    answer: Mole Rat
+    clue: '[CLUE NEEDS REWRITE] The mole, right, that underground digger, it''s gone and got itself a ratt on the end. Bit grim.'
+    answer: Rabbit
     aliases:
     - mole rat
     - naked mole rat
@@ -606,7 +606,7 @@
     - wombat
     reasoning: wom + bat, sounds like wombat. The Australian burrowing marsupial.
 - id: animalbusters-019
-  enabled: true
+  enabled: false
   title: Animalbusters
   topic: land animals from around the world
   difficulty: medium
