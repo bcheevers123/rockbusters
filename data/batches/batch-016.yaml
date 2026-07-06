@@ -5,33 +5,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Right, Bookbusters. Rockbusters but it's all literary, like. Books and that."
-  prize: "Email in. Winner gets a Waterstones bookmark and a dog-eared copy of something from a charity shop."
+  - UK
+  - US
+  intro: Right, Bookbusters. Rockbusters but it's all literary, like. Books and that.
+  prize: Email in. Winner gets a Waterstones bookmark and a dog-eared copy of something from a charity shop.
   clues:
-    - number: 1
-      initials: H P
-      clue: "That fella's covered in fur, right, and he's sat there making things out of clay on a wheel. Bit odd."
-      answer: Harry Potter
-      aliases:
-        - harry potter
-      reasoning: "hairy (covered in fur) + potter (making things on a wheel) = Harry Potter"
-    - number: 2
-      initials: S S
-      clue: "You've got to cut clean through something, right, and there's a load of us involved. Then there's a reptile crossed with a primate at the end. Say it out loud."
-      answer: Severus Snape
-      aliases:
-        - severus snape
-      reasoning: "sever + us + snap + ape (reptile crossed with primate) = Severus Snape"
-    - number: 3
-      initials: R W
-      clue: "There's a bloke called Ron, alright, and he's acting all weasel-like. Sneaky. That sort of thing."
-      answer: Ron Weasley
-      aliases:
-        - ron weasley
-      reasoning: "Ron + weasel + Lee = Ron Weasley"
-
+  - number: 1
+    initials: H P
+    clue: That fella's covered in fur, right, and he's sat there making things out of clay on a wheel. Bit odd.
+    answer: Harry Potter
+    aliases:
+    - harry potter
+    reasoning: hairy (covered in fur) + potter (making things on a wheel) = Harry Potter
+  - number: 2
+    initials: S S
+    clue: You've got to cut clean through something, right, and there's a load of us involved. Then there's a reptile crossed with a primate at the end. Say it out loud.
+    answer: Severus Snape
+    aliases:
+    - severus snape
+    reasoning: sever + us + snap + ape (reptile crossed with primate) = Severus Snape
+  - number: 3
+    initials: R W
+    clue: There's a bloke called Ron, alright, and he's acting all weasel-like. Sneaky. That sort of thing.
+    answer: Ron Weasley
+    aliases:
+    - ron weasley
+    reasoning: Ron + weasel + Lee = Ron Weasley
 - id: bookbusters-002
   enabled: true
   title: Bookbusters
@@ -39,36 +38,35 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Bookbusters again. Three more. Phonetic riddles, these. Work it out by sound."
-  prize: "Email in. Winner gets an AOL trial disc and a laminated library card from 1998."
+  - UK
+  - US
+  intro: Bookbusters again. Three more. Phonetic riddles, these. Work it out by sound.
+  prize: Email in. Winner gets an AOL trial disc and a laminated library card from 1998.
   clues:
-    - number: 1
-      initials: A D
-      clue: "Everyone got on the bus, didn't they. All of them. Every single one. Then they couldn't speak, could they, there was a bell, and someone left a door open. That's it."
-      answer: Albus Dumbledore
-      aliases:
-        - albus dumbledore
-        - dumbledore
-      reasoning: "all + bus + dumb (can't speak) + bell + door = Albus Dumbledore"
-    - number: 2
-      initials: S H
-      clue: "You're absolutely certain about this one. Lock it in. And the fella lives in a row of houses."
-      answer: Sherlock Holmes
-      aliases:
-        - sherlock holmes
-        - sherlock
-      reasoning: "sure + lock + homes (row of houses) = Sherlock Holmes"
-    - number: 3
-      initials: D W
-      clue: "Right, there's a short fella on a rocky hill. He's measuring electricity. And he's got a son. Bit specific, that."
-      answer: Doctor Watson
-      aliases:
-        - doctor watson
-        - dr watson
-      reasoning: "doc (short fella) + tor (rocky hill) + watt (unit of electricity) + son = Doctor Watson"
-
+  - number: 1
+    initials: A D
+    clue: Everyone got on the bus, didn't they. All of them. Every single one. Then they couldn't speak, could they, there was a bell, and someone left a door open. That's it.
+    answer: Albus Dumbledore
+    aliases:
+    - albus dumbledore
+    - dumbledore
+    reasoning: all + bus + dumb (can't speak) + bell + door = Albus Dumbledore
+  - number: 2
+    initials: S H
+    clue: You're absolutely certain about this one. Lock it in. And the fella lives in a row of houses.
+    answer: Sherlock Holmes
+    aliases:
+    - sherlock holmes
+    - sherlock
+    reasoning: sure + lock + homes (row of houses) = Sherlock Holmes
+  - number: 3
+    initials: D W
+    clue: Right, there's a short fella on a rocky hill. He's measuring electricity. And he's got a son. Bit specific, that.
+    answer: Doctor Watson
+    aliases:
+    - doctor watson
+    - dr watson
+    reasoning: doc (short fella) + tor (rocky hill) + watt (unit of electricity) + son = Doctor Watson
 - id: bookbusters-003
   enabled: true
   title: Bookbusters
@@ -76,35 +74,34 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Three more literary ones. These are phonetic, mind. It's about how they sound, not how they're spelled."
-  prize: "Email in. Winner gets a Now 47 cassette and a badge from somewhere educational."
+  - UK
+  - US
+  intro: Three more literary ones. These are phonetic, mind. It's about how they sound, not how they're spelled.
+  prize: Email in. Winner gets a Now 47 cassette and a badge from somewhere educational.
   clues:
-    - number: 1
-      initials: B B
-      clue: "Someone's sent you an invoice, right, and there's a bloke doing a sort of archery pose. Then there's a bag. Then something's gone in. That's your lot."
-      answer: Bilbo Baggins
-      aliases:
-        - bilbo baggins
-        - bilbo
-      reasoning: "bill + bow + bag + ins = Bilbo Baggins"
-    - number: 2
-      initials: F B
-      clue: "There's a big afro hairstyle, and a female deer standing there. Then a bag. Then things have gone inside it. Near enough."
-      answer: Frodo Baggins
-      aliases:
-        - frodo baggins
-        - frodo
-      reasoning: "fro (afro) + doe (female deer) + bag + ins = Frodo Baggins"
-    - number: 3
-      initials: G
-      clue: "Some fella called Alf, right, proper grand he is. Thinks very highly of himself. That's all."
-      answer: Gandalf
-      aliases:
-        - gandalf
-      reasoning: "grand + Alf (bloke's name) = Gandalf"
-
+  - number: 1
+    initials: B B
+    clue: Someone's sent you an invoice, right, and there's a bloke doing a sort of archery pose. Then there's a bag. Then something's gone in. That's your lot.
+    answer: Bilbo Baggins
+    aliases:
+    - bilbo baggins
+    - bilbo
+    reasoning: bill + bow + bag + ins = Bilbo Baggins
+  - number: 2
+    initials: F B
+    clue: There's a big afro hairstyle, and a female deer standing there. Then a bag. Then things have gone inside it. Near enough.
+    answer: Frodo Baggins
+    aliases:
+    - frodo baggins
+    - frodo
+    reasoning: fro (afro) + doe (female deer) + bag + ins = Frodo Baggins
+  - number: 3
+    initials: G
+    clue: Some fella called Alf, right, proper grand he is. Thinks very highly of himself. That's all.
+    answer: Gandalf
+    aliases:
+    - gandalf
+    reasoning: grand + Alf (bloke's name) = Gandalf
 - id: bookbusters-004
   enabled: true
   title: Bookbusters
@@ -112,35 +109,34 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Bookbusters. More phonetic literary clues. Say them out loud, that's the trick."
-  prize: "Email in. Winner gets a Blockbuster loyalty card and a gift set that smells a bit off."
+  - UK
+  - US
+  intro: Bookbusters. More phonetic literary clues. Say them out loud, that's the trick.
+  prize: Email in. Winner gets a Blockbuster loyalty card and a gift set that smells a bit off.
   clues:
-    - number: 1
-      initials: E B
-      clue: "Right, a woman called Eliza's having a bath. Then there's Big Ben. Then someone's put up a fishing net. Don't overthink it."
-      answer: Elizabeth Bennet
-      aliases:
-        - elizabeth bennet
-        - elizabeth bennett
-      reasoning: "Eliza + bath + Ben (Big Ben) + net = Elizabeth Bennet"
-    - number: 2
-      initials: M D
-      clue: "There's a gentleman, alright, and it's gone dark. Then you can see the sea. Sort of works."
-      answer: Mr Darcy
-      aliases:
-        - mr darcy
-        - mister darcy
-      reasoning: "mister + dark + sea = Mr Darcy"
-    - number: 3
-      initials: H
-      clue: "Bit of open moorland, right. Rocky drop at the end. That's it. Easy one this."
-      answer: Heathcliff
-      aliases:
-        - heathcliff
-      reasoning: "heath (open moorland) + cliff (rocky drop) = Heathcliff"
-
+  - number: 1
+    initials: E B
+    clue: Right, a woman called Eliza's having a bath. Then there's Big Ben. Then someone's put up a fishing net. Don't overthink it.
+    answer: Elizabeth Bennet
+    aliases:
+    - elizabeth bennet
+    - elizabeth bennett
+    reasoning: Eliza + bath + Ben (Big Ben) + net = Elizabeth Bennet
+  - number: 2
+    initials: M D
+    clue: There's a gentleman, alright, and it's gone dark. Then you can see the sea. Sort of works.
+    answer: Mr Darcy
+    aliases:
+    - mr darcy
+    - mister darcy
+    reasoning: mister + dark + sea = Mr Darcy
+  - number: 3
+    initials: H
+    clue: Bit of open moorland, right. Rocky drop at the end. That's it. Easy one this.
+    answer: Heathcliff
+    aliases:
+    - heathcliff
+    reasoning: heath (open moorland) + cliff (rocky drop) = Heathcliff
 - id: bookbusters-005
   enabled: true
   title: Bookbusters
@@ -148,33 +144,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Still on the books theme. Three phonetic clues, work them out by sound alone."
-  prize: "Email in. Winner gets a printed photo from a disposable camera and a pen that's nearly out."
+  - UK
+  - US
+  intro: Still on the books theme. Three phonetic clues, work them out by sound alone.
+  prize: Email in. Winner gets a printed photo from a disposable camera and a pen that's nearly out.
   clues:
-    - number: 1
-      initials: J E
-      clue: "There's a woman. Her name is Jane, alright. And she's breathing. Just standing there breathing the air. That's all."
-      answer: Jane Eyre
-      aliases:
-        - jane eyre
-      reasoning: "Jane + air (breathing) = Jane Eyre"
-    - number: 2
-      initials: O T
-      clue: "You've got one of them little green things you put in a martini, right. And someone's given it a bit of a spin. Bit weird."
-      answer: Oliver Twist
-      aliases:
-        - oliver twist
-      reasoning: "olive + her + twist (spin) = Oliver Twist"
-    - number: 3
-      initials: F
-      clue: "A fairy's walked into a pub and ordered a large gin. Just sat there. Sipping it. That's your clue."
-      answer: Fagin
-      aliases:
-        - fagin
-      reasoning: "fay (fairy) + gin = Fagin"
-
+  - number: 1
+    initials: J E
+    clue: There's a woman. Her name is Jane, alright. And she's breathing. Just standing there breathing the air. That's all.
+    answer: Jane Eyre
+    aliases:
+    - jane eyre
+    reasoning: Jane + air (breathing) = Jane Eyre
+  - number: 2
+    initials: O T
+    clue: You've got one of them little green things you put in a martini, right. And someone's given it a bit of a spin. Bit weird.
+    answer: Oliver Twist
+    aliases:
+    - oliver twist
+    reasoning: olive + her + twist (spin) = Oliver Twist
+  - number: 3
+    initials: F
+    clue: A fairy's walked into a pub and ordered a large gin. Just sat there. Sipping it. That's your clue.
+    answer: Fagin
+    aliases:
+    - fagin
+    reasoning: fay (fairy) + gin = Fagin
 - id: bookbusters-006
   enabled: true
   title: Bookbusters
@@ -182,34 +177,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Bookbusters, set six. Phonetic clues about literary characters. Off you go."
-  prize: "Email in. Winner gets a DVD copy of Shrek and a keyring from a service station on the M6."
+  - UK
+  - US
+  intro: Bookbusters, set six. Phonetic clues about literary characters. Off you go.
+  prize: Email in. Winner gets a DVD copy of Shrek and a keyring from a service station on the M6.
   clues:
-    - number: 1
-      initials: E S
-      clue: "Right, there's a pond, and the water level's going down at the edge, yeah? It's on its knees. Then there's a bloke who's tight with money. You know the type."
-      answer: Ebenezer Scrooge
-      aliases:
-        - ebenezer scrooge
-        - scrooge
-      reasoning: "ebb (water level dropping) + knee + zer + Scrooge = Ebenezer Scrooge"
-    - number: 2
-      initials: L J S
-      clue: "Something's really lengthy, and there's a toilet, and it's made of precious metal. Say it out loud."
-      answer: Long John Silver
-      aliases:
-        - long john silver
-      reasoning: "long + john (toilet) + silver (precious metal) = Long John Silver"
-    - number: 3
-      initials: C H
-      clue: "There's a hat, right, a cap. It's made of tin. And at the end someone's hung something bent on it. All makes sense when you say it."
-      answer: Captain Hook
-      aliases:
-        - captain hook
-      reasoning: "cap + tin + hook (bent hanging thing) = Captain Hook"
-
+  - number: 1
+    initials: E S
+    clue: Right, there's a pond, and the water level's going down at the edge, yeah? It's on its knees. Then there's a bloke who's tight with money. You know the type.
+    answer: Ebenezer Scrooge
+    aliases:
+    - ebenezer scrooge
+    - scrooge
+    reasoning: ebb (water level dropping) + knee + zer + Scrooge = Ebenezer Scrooge
+  - number: 2
+    initials: L J S
+    clue: Something's really lengthy, and there's a toilet, and it's made of precious metal. Say it out loud.
+    answer: Long John Silver
+    aliases:
+    - long john silver
+    reasoning: long + john (toilet) + silver (precious metal) = Long John Silver
+  - number: 3
+    initials: C H
+    clue: There's a hat, right, a cap. It's made of tin. And at the end someone's hung something bent on it. All makes sense when you say it.
+    answer: Captain Hook
+    aliases:
+    - captain hook
+    reasoning: cap + tin + hook (bent hanging thing) = Captain Hook
 - id: bookbusters-007
   enabled: true
   title: Bookbusters
@@ -217,34 +211,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "More Bookbusters. Literary theme, phonetic style. You know how this works by now."
-  prize: "Email in. Winner gets a mug from a company that went into administration and a tea bag."
+  - UK
+  - US
+  intro: More Bookbusters. Literary theme, phonetic style. You know how this works by now.
+  prize: Email in. Winner gets a mug from a company that went into administration and a tea bag.
   clues:
-    - number: 1
-      initials: R C
-      clue: "A robin's sitting there, alright. It's someone's son, the robin is. And there's a ship's crew nearby. And then someone just says 'so'. Alright? Leave it."
-      answer: Robinson Crusoe
-      aliases:
-        - robinson crusoe
-      reasoning: "robin + son + crew + so = Robinson Crusoe"
-    - number: 2
-      initials: H G
-      clue: "There's a woman called Hermia, right, she's having a proper moan. Her knee's involved somehow. And at the end a farmer's wandered in."
-      answer: Hermione Granger
-      aliases:
-        - hermione granger
-        - hermione
-      reasoning: "her + moan + ee + ranger with G = Hermione Granger"
-    - number: 3
-      initials: V
-      clue: "Some bloke's had a few too many, yeah. He's absolutely vole-faced. And there's a mort in there somewhere. Don't ask why. Bit dark."
-      answer: Voldemort
-      aliases:
-        - voldemort
-      reasoning: "vole (small animal) + de + mort (death, French) = Voldemort"
-
+  - number: 1
+    initials: R C
+    clue: A robin's sitting there, alright. It's someone's son, the robin is. And there's a ship's crew nearby. And then someone just says 'so'. Alright? Leave it.
+    answer: Robinson Crusoe
+    aliases:
+    - robinson crusoe
+    reasoning: robin + son + crew + so = Robinson Crusoe
+  - number: 2
+    initials: H G
+    clue: There's a woman called Hermia, right, she's having a proper moan. Her knee's involved somehow. And at the end a farmer's wandered in.
+    answer: Hermione Granger
+    aliases:
+    - hermione granger
+    - hermione
+    reasoning: her + moan + ee + ranger with G = Hermione Granger
+  - number: 3
+    initials: V
+    clue: Some bloke's had a few too many, yeah. He's absolutely vole-faced. And there's a mort in there somewhere. Don't ask why. Bit dark.
+    answer: Voldemort
+    aliases:
+    - voldemort
+    reasoning: vole (small animal) + de + mort (death, French) = Voldemort
 - id: bookbusters-008
   enabled: true
   title: Bookbusters
@@ -252,33 +245,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Bookbusters eight. Three clues, all phonetic, all literary. You're doing well."
-  prize: "Email in. Winner gets a set of pencils from a conference that ended years ago."
+  - UK
+  - US
+  intro: Bookbusters eight. Three clues, all phonetic, all literary. You're doing well.
+  prize: Email in. Winner gets a set of pencils from a conference that ended years ago.
   clues:
-    - number: 1
-      initials: H P
-      clue: "Furry fella on a pottery wheel again. Different character, same sounds. Remarkable."
-      answer: Harry Potter
-      aliases:
-        - harry potter
-      reasoning: "hairy (furry) + potter (pottery wheel) = Harry Potter"
-    - number: 2
-      initials: J E
-      clue: "Jane's outside and she's breathing deeply. Just taking it all in. Good for her."
-      answer: Jane Eyre
-      aliases:
-        - jane eyre
-      reasoning: "Jane + air = Jane Eyre"
-    - number: 3
-      initials: S H
-      clue: "You're dead certain about something. You've locked it in. And you're going home to a row of terraced houses. Makes sense."
-      answer: Sherlock Holmes
-      aliases:
-        - sherlock holmes
-      reasoning: "sure + lock + homes = Sherlock Holmes"
-
+  - number: 1
+    initials: H P
+    clue: Furry fella on a pottery wheel again. Different character, same sounds. Remarkable.
+    answer: Harry Potter
+    aliases:
+    - harry potter
+    reasoning: hairy (furry) + potter (pottery wheel) = Harry Potter
+  - number: 2
+    initials: J E
+    clue: Jane's outside and she's breathing deeply. Just taking it all in. Good for her.
+    answer: Jane Eyre
+    aliases:
+    - jane eyre
+    reasoning: Jane + air = Jane Eyre
+  - number: 3
+    initials: S H
+    clue: You're dead certain about something. You've locked it in. And you're going home to a row of terraced houses. Makes sense.
+    answer: Sherlock Holmes
+    aliases:
+    - sherlock holmes
+    reasoning: sure + lock + homes = Sherlock Holmes
 - id: bookbusters-009
   enabled: true
   title: Bookbusters
@@ -286,34 +278,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Nine down. Three more phonetic book clues. This is Rockbusters with literature."
-  prize: "Email in. Winner gets a Cadbury Roses tin with nothing in it and a novelty pen."
+  - UK
+  - US
+  intro: Nine down. Three more phonetic book clues. This is Rockbusters with literature.
+  prize: Email in. Winner gets a Cadbury Roses tin with nothing in it and a novelty pen.
   clues:
-    - number: 1
-      initials: G
-      clue: "That Alf, he's very impressive, isn't he. Grand, some might say. That's the whole clue."
-      answer: Gandalf
-      aliases:
-        - gandalf
-      reasoning: "grand + Alf = Gandalf"
-    - number: 2
-      initials: O T
-      clue: "Someone's squeezed an olive, then a woman appeared, then everything started spinning. Bit much."
-      answer: Oliver Twist
-      aliases:
-        - oliver twist
-      reasoning: "olive + her + twist = Oliver Twist"
-    - number: 3
-      initials: E S
-      clue: "The tide's going out, there's a knee involved, and a right miserly fella at the end. You know the type. Bah humbug and all that."
-      answer: Ebenezer Scrooge
-      aliases:
-        - ebenezer scrooge
-        - scrooge
-      reasoning: "ebb + knee + zer + Scrooge = Ebenezer Scrooge"
-
+  - number: 1
+    initials: G
+    clue: That Alf, he's very impressive, isn't he. Grand, some might say. That's the whole clue.
+    answer: Gandalf
+    aliases:
+    - gandalf
+    reasoning: grand + Alf = Gandalf
+  - number: 2
+    initials: O T
+    clue: Someone's squeezed an olive, then a woman appeared, then everything started spinning. Bit much.
+    answer: Oliver Twist
+    aliases:
+    - oliver twist
+    reasoning: olive + her + twist = Oliver Twist
+  - number: 3
+    initials: E S
+    clue: The tide's going out, there's a knee involved, and a right miserly fella at the end. You know the type. Bah humbug and all that.
+    answer: Ebenezer Scrooge
+    aliases:
+    - ebenezer scrooge
+    - scrooge
+    reasoning: ebb + knee + zer + Scrooge = Ebenezer Scrooge
 - id: bookbusters-010
   enabled: true
   title: Bookbusters
@@ -321,33 +312,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Bookbusters ten. Halfway through. Same rules, phonetic clues, literary theme."
-  prize: "Email in. Winner gets a fridge magnet from somewhere in the Lake District."
+  - UK
+  - US
+  intro: Bookbusters. Same rules, phonetic clues, literary theme. Say them out loud.
+  prize: Email in. Winner gets a fridge magnet from somewhere in the Lake District.
   clues:
-    - number: 1
-      initials: H
-      clue: "Open land, bit of scrub. Then there's a sharp drop at the end. Say it out loud, it'll come to you."
-      answer: Heathcliff
-      aliases:
-        - heathcliff
-      reasoning: "heath + cliff = Heathcliff"
-    - number: 2
-      initials: C H
-      clue: "A flat cap, then a metal can, then something's bent over and they've hung it up. That's it."
-      answer: Captain Hook
-      aliases:
-        - captain hook
-      reasoning: "cap + tin + hook = Captain Hook"
-    - number: 3
-      initials: L J S
-      clue: "Right, it's a long one, isn't it. Lengthy. There's a loo in the middle. And it ends in a precious metal. Make of that what you will."
-      answer: Long John Silver
-      aliases:
-        - long john silver
-      reasoning: "long + john (loo) + silver = Long John Silver"
-
+  - number: 1
+    initials: H
+    clue: Open land, bit of scrub. Then there's a sharp drop at the end. Say it out loud, it'll come to you.
+    answer: Heathcliff
+    aliases:
+    - heathcliff
+    reasoning: heath + cliff = Heathcliff
+  - number: 2
+    initials: C H
+    clue: A flat cap, then a metal can, then something's bent over and they've hung it up. That's it.
+    answer: Captain Hook
+    aliases:
+    - captain hook
+    reasoning: cap + tin + hook = Captain Hook
+  - number: 3
+    initials: L J S
+    clue: Right, it's a long one, isn't it. Lengthy. There's a loo in the middle. And it ends in a precious metal. Make of that what you will.
+    answer: Long John Silver
+    aliases:
+    - long john silver
+    reasoning: long + john (loo) + silver = Long John Silver
 - id: bookbusters-011
   enabled: true
   title: Bookbusters
@@ -355,34 +345,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Eleven sets in. Three more phonetic literary riddles. You know the drill."
-  prize: "Email in. Winner gets a tin of biscuits from a discount shop and a loyalty card with two stamps on."
+  - UK
+  - US
+  intro: Eleven sets in. Three more phonetic literary riddles. You know the drill.
+  prize: Email in. Winner gets a tin of biscuits from a discount shop and a loyalty card with two stamps on.
   clues:
-    - number: 1
-      initials: R W
-      clue: "That lad Ron's behaving very suspiciously, isn't he. Bit weasel-like, you might say. Shifty."
-      answer: Ron Weasley
-      aliases:
-        - ron weasley
-      reasoning: "Ron + weasel + Lee = Ron Weasley"
-    - number: 2
-      initials: D W
-      clue: "Short fella, standing on a lump of rocky moorland. He's holding a lightbulb and talking about his son. Odd."
-      answer: Doctor Watson
-      aliases:
-        - doctor watson
-        - dr watson
-      reasoning: "doc + tor + watt + son = Doctor Watson"
-    - number: 3
-      initials: F
-      clue: "Small magical creature. Walked into a bar. Gin, please. Just the one. Off she went."
-      answer: Fagin
-      aliases:
-        - fagin
-      reasoning: "fay (fairy/magical creature) + gin = Fagin"
-
+  - number: 1
+    initials: R W
+    clue: That lad Ron's behaving very suspiciously, isn't he. Bit weasel-like, you might say. Shifty.
+    answer: Ron Weasley
+    aliases:
+    - ron weasley
+    reasoning: Ron + weasel + Lee = Ron Weasley
+  - number: 2
+    initials: D W
+    clue: Short fella, standing on a lump of rocky moorland. He's holding a lightbulb and talking about his son. Odd.
+    answer: Doctor Watson
+    aliases:
+    - doctor watson
+    - dr watson
+    reasoning: doc + tor + watt + son = Doctor Watson
+  - number: 3
+    initials: F
+    clue: Small magical creature. Walked into a bar. Gin, please. Just the one. Off she went.
+    answer: Fagin
+    aliases:
+    - fagin
+    reasoning: fay (fairy/magical creature) + gin = Fagin
 - id: bookbusters-012
   enabled: true
   title: Bookbusters
@@ -390,36 +379,35 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Bookbusters twelve. Still going. Three phonetic clues, literary characters, Karl Pilkington energy."
-  prize: "Email in. Winner gets a travel adapter that only works in two countries and a pen lid."
+  - UK
+  - US
+  intro: Bookbusters twelve. Still going. Three phonetic clues, literary characters, Karl Pilkington energy.
+  prize: Email in. Winner gets a travel adapter that only works in two countries and a pen lid.
   clues:
-    - number: 1
-      initials: B B
-      clue: "There's an invoice, right, someone's doing a bow, then a bag appears, and some things have gone in it. That's four sounds. One answer."
-      answer: Bilbo Baggins
-      aliases:
-        - bilbo baggins
-        - bilbo
-      reasoning: "bill + bow + bag + ins = Bilbo Baggins"
-    - number: 2
-      initials: A D
-      clue: "Every single person piled onto the bus. Then someone couldn't speak, and there was a bell going, and a door was open. Sort of works."
-      answer: Albus Dumbledore
-      aliases:
-        - albus dumbledore
-        - dumbledore
-      reasoning: "all + bus + dumb + bell + door = Albus Dumbledore"
-    - number: 3
-      initials: E B
-      clue: "There's a woman in a bath. Name of Eliza. Ben's stood outside. Someone's thrown a net over the whole thing. Alright?"
-      answer: Elizabeth Bennet
-      aliases:
-        - elizabeth bennet
-        - elizabeth bennett
-      reasoning: "Eliza + bath + Ben + net = Elizabeth Bennet"
-
+  - number: 1
+    initials: B B
+    clue: There's an invoice, right, someone's doing a bow, then a bag appears, and some things have gone in it. That's four sounds. One answer.
+    answer: Bilbo Baggins
+    aliases:
+    - bilbo baggins
+    - bilbo
+    reasoning: bill + bow + bag + ins = Bilbo Baggins
+  - number: 2
+    initials: A D
+    clue: Every single person piled onto the bus. Then someone couldn't speak, and there was a bell going, and a door was open. Sort of works.
+    answer: Albus Dumbledore
+    aliases:
+    - albus dumbledore
+    - dumbledore
+    reasoning: all + bus + dumb + bell + door = Albus Dumbledore
+  - number: 3
+    initials: E B
+    clue: There's a woman in a bath. Name of Eliza. Ben's stood outside. Someone's thrown a net over the whole thing. Alright?
+    answer: Elizabeth Bennet
+    aliases:
+    - elizabeth bennet
+    - elizabeth bennett
+    reasoning: Eliza + bath + Ben + net = Elizabeth Bennet
 - id: bookbusters-013
   enabled: true
   title: Bookbusters
@@ -427,34 +415,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Lucky thirteen. Phonetic Bookbusters. Say the clues out loud, that's the key."
-  prize: "Email in. Winner gets a signed Christmas card from someone's nan and a multipack crisp."
+  - UK
+  - US
+  intro: Lucky thirteen. Phonetic Bookbusters. Say the clues out loud, that's the key.
+  prize: Email in. Winner gets a signed Christmas card from someone's nan and a multipack crisp.
   clues:
-    - number: 1
-      initials: V
-      clue: "There's a little furry mole-like creature, yeah, and it's dead. In French it's dead. That's dark, that is."
-      answer: Voldemort
-      aliases:
-        - voldemort
-      reasoning: "vole + de + mort (French for death) = Voldemort"
-    - number: 2
-      initials: S S
-      clue: "You've cut cleanly through something, involved all of us in the process, then a snake did something sudden. And then there was an ape. Right."
-      answer: Severus Snape
-      aliases:
-        - severus snape
-      reasoning: "sever + us + snap + ape = Severus Snape"
-    - number: 3
-      initials: M D
-      clue: "Right, there's a gentleman. It's gone quite dark, and you can make out the sea in the distance. That's it. Don't overthink it."
-      answer: Mr Darcy
-      aliases:
-        - mr darcy
-        - mister darcy
-      reasoning: "mister + dark + sea = Mr Darcy"
-
+  - number: 1
+    initials: V
+    clue: There's a little furry mole-like creature, yeah, and it's dead. In French it's dead. That's dark, that is.
+    answer: Voldemort
+    aliases:
+    - voldemort
+    reasoning: vole + de + mort (French for death) = Voldemort
+  - number: 2
+    initials: S S
+    clue: You've cut cleanly through something, involved all of us in the process, then a snake did something sudden. And then there was an ape. Right.
+    answer: Severus Snape
+    aliases:
+    - severus snape
+    reasoning: sever + us + snap + ape = Severus Snape
+  - number: 3
+    initials: M D
+    clue: Right, there's a gentleman. It's gone quite dark, and you can make out the sea in the distance. That's it. Don't overthink it.
+    answer: Mr Darcy
+    aliases:
+    - mr darcy
+    - mister darcy
+    reasoning: mister + dark + sea = Mr Darcy
 - id: bookbusters-014
   enabled: true
   title: Bookbusters
@@ -462,35 +449,34 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Fourteen. Bookbusters. You've probably got the hang of it by now, so here's three more."
-  prize: "Email in. Winner gets a commemorative spoon from a royal event and a sticker."
+  - UK
+  - US
+  intro: Fourteen. Bookbusters. You've probably got the hang of it by now, so here's three more.
+  prize: Email in. Winner gets a commemorative spoon from a royal event and a sticker.
   clues:
-    - number: 1
-      initials: R C
-      clue: "A robin's there. It belongs to someone's son. There's a ship's crew milling about. Then somebody just says 'so'. Leave it."
-      answer: Robinson Crusoe
-      aliases:
-        - robinson crusoe
-      reasoning: "robin + son + crew + so = Robinson Crusoe"
-    - number: 2
-      initials: H G
-      clue: "She's having a proper moan, this woman. Her knee's giving her grief. And a farmer's turned up at the end. Grain and that."
-      answer: Hermione Granger
-      aliases:
-        - hermione granger
-        - hermione
-      reasoning: "her + moan + ee (knee sound) + granger (grain + er) = Hermione Granger"
-    - number: 3
-      initials: F B
-      clue: "Massive afro, right. Then a deer walks in, female one. Then a bag. Then loads of things pile in. Bit much for a name."
-      answer: Frodo Baggins
-      aliases:
-        - frodo baggins
-        - frodo
-      reasoning: "fro + doe + bag + ins = Frodo Baggins"
-
+  - number: 1
+    initials: R C
+    clue: A robin's there. It belongs to someone's son. There's a ship's crew milling about. Then somebody just says 'so'. Leave it.
+    answer: Robinson Crusoe
+    aliases:
+    - robinson crusoe
+    reasoning: robin + son + crew + so = Robinson Crusoe
+  - number: 2
+    initials: H G
+    clue: She's having a proper moan, this woman. Her knee's giving her grief. And a farmer's turned up at the end. Grain and that.
+    answer: Hermione Granger
+    aliases:
+    - hermione granger
+    - hermione
+    reasoning: her + moan + ee (knee sound) + granger (grain + er) = Hermione Granger
+  - number: 3
+    initials: F B
+    clue: Massive afro, right. Then a deer walks in, female one. Then a bag. Then loads of things pile in. Bit much for a name.
+    answer: Frodo Baggins
+    aliases:
+    - frodo baggins
+    - frodo
+    reasoning: fro + doe + bag + ins = Frodo Baggins
 - id: bookbusters-015
   enabled: true
   title: Bookbusters
@@ -498,33 +484,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Bookbusters fifteen. Nearly there. Three clues, phonetic, literary. You know how this goes."
-  prize: "Email in. Winner gets a Full Monty DVD and a commemorative mug with a chip in it."
+  - UK
+  - US
+  intro: Bookbusters. Three clues, phonetic, literary. You know how this goes.
+  prize: Email in. Winner gets a Full Monty DVD and a commemorative mug with a chip in it.
   clues:
-    - number: 1
-      initials: H P
-      clue: "That bloke needs a shave, right, and he's making a vase. On a wheel. Bit of a potter, really."
-      answer: Harry Potter
-      aliases:
-        - harry potter
-      reasoning: "hairy (needs a shave) + potter (making a vase on a wheel) = Harry Potter"
-    - number: 2
-      initials: J E
-      clue: "A woman called Jane, she's just standing outside breathing. Just breathing the air. That's her whole thing."
-      answer: Jane Eyre
-      aliases:
-        - jane eyre
-      reasoning: "Jane + air = Jane Eyre"
-    - number: 3
-      initials: H
-      clue: "Flat open ground, bit of heather on it maybe. Then there's a massive drop at the end. Watch yourself."
-      answer: Heathcliff
-      aliases:
-        - heathcliff
-      reasoning: "heath + cliff = Heathcliff"
-
+  - number: 1
+    initials: H P
+    clue: That bloke needs a shave, right, and he's making a vase. On a wheel. Bit of a potter, really.
+    answer: Harry Potter
+    aliases:
+    - harry potter
+    reasoning: hairy (needs a shave) + potter (making a vase on a wheel) = Harry Potter
+  - number: 2
+    initials: J E
+    clue: A woman called Jane, she's just standing outside breathing. Just breathing the air. That's her whole thing.
+    answer: Jane Eyre
+    aliases:
+    - jane eyre
+    reasoning: Jane + air = Jane Eyre
+  - number: 3
+    initials: H
+    clue: Flat open ground, bit of heather on it maybe. Then there's a massive drop at the end. Watch yourself.
+    answer: Heathcliff
+    aliases:
+    - heathcliff
+    reasoning: heath + cliff = Heathcliff
 - id: bookbusters-016
   enabled: true
   title: Bookbusters
@@ -532,34 +517,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Sixteen. Getting on a bit now, this quiz. Three more phonetic book clues to go at."
-  prize: "Email in. Winner gets a phone charger that fits nothing you own and a branded tote bag."
+  - UK
+  - US
+  intro: Sixteen. Getting on a bit now, this quiz. Three more phonetic book clues to go at.
+  prize: Email in. Winner gets a phone charger that fits nothing you own and a branded tote bag.
   clues:
-    - number: 1
-      initials: S H
-      clue: "Absolutely certain. Not a shadow of doubt. Locked. And there's a street of houses at the end. Easy one this."
-      answer: Sherlock Holmes
-      aliases:
-        - sherlock holmes
-      reasoning: "sure + lock + homes = Sherlock Holmes"
-    - number: 2
-      initials: O T
-      clue: "Someone's pressed an olive, a woman materialised, and everything started spinning. Standard Tuesday."
-      answer: Oliver Twist
-      aliases:
-        - oliver twist
-      reasoning: "olive + her + twist = Oliver Twist"
-    - number: 3
-      initials: E S
-      clue: "Water's going down at the tide line. Knee-deep in something. Then there's a very mean man at the end. Doesn't spend a penny."
-      answer: Ebenezer Scrooge
-      aliases:
-        - ebenezer scrooge
-        - scrooge
-      reasoning: "ebb + knee + zer + Scrooge = Ebenezer Scrooge"
-
+  - number: 1
+    initials: S H
+    clue: Absolutely certain. Not a shadow of doubt. Locked. And there's a street of houses at the end. Easy one this.
+    answer: Sherlock Holmes
+    aliases:
+    - sherlock holmes
+    reasoning: sure + lock + homes = Sherlock Holmes
+  - number: 2
+    initials: O T
+    clue: Someone's pressed an olive, a woman materialised, and everything started spinning. Standard Tuesday.
+    answer: Oliver Twist
+    aliases:
+    - oliver twist
+    reasoning: olive + her + twist = Oliver Twist
+  - number: 3
+    initials: E S
+    clue: Water's going down at the tide line. Knee-deep in something. Then there's a very mean man at the end. Doesn't spend a penny.
+    answer: Ebenezer Scrooge
+    aliases:
+    - ebenezer scrooge
+    - scrooge
+    reasoning: ebb + knee + zer + Scrooge = Ebenezer Scrooge
 - id: bookbusters-017
   enabled: true
   title: Bookbusters
@@ -567,34 +551,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Bookbusters seventeen. Three more. Nearly done now, keep going."
-  prize: "Email in. Winner gets a pack of Value biscuits and a rubber duck from a crackers set."
+  - UK
+  - US
+  intro: Bookbusters. Three more phonetic literary clues. Say them out loud.
+  prize: Email in. Winner gets a pack of Value biscuits and a rubber duck from a crackers set.
   clues:
-    - number: 1
-      initials: A D
-      clue: "Every last person got on that bus. Then nobody could say a word. Bell started going. Door swings open. You've got your answer."
-      answer: Albus Dumbledore
-      aliases:
-        - albus dumbledore
-        - dumbledore
-      reasoning: "all + bus + dumb + bell + door = Albus Dumbledore"
-    - number: 2
-      initials: R W
-      clue: "That Ron, he's very weasel about things, isn't he. Weasel-y. Then a fella called Lee turned up. That's it."
-      answer: Ron Weasley
-      aliases:
-        - ron weasley
-      reasoning: "Ron + weasel + Lee = Ron Weasley"
-    - number: 3
-      initials: C H
-      clue: "Cap, tin, something bent hanging on it. Three things. One character. Say it out loud."
-      answer: Captain Hook
-      aliases:
-        - captain hook
-      reasoning: "cap + tin + hook = Captain Hook"
-
+  - number: 1
+    initials: A D
+    clue: Every last person got on that bus. Then nobody could say a word. Bell started going. Door swings open. You've got your answer.
+    answer: Albus Dumbledore
+    aliases:
+    - albus dumbledore
+    - dumbledore
+    reasoning: all + bus + dumb + bell + door = Albus Dumbledore
+  - number: 2
+    initials: R W
+    clue: That Ron, he's very weasel about things, isn't he. Weasel-y. Then a fella called Lee turned up. That's it.
+    answer: Ron Weasley
+    aliases:
+    - ron weasley
+    reasoning: Ron + weasel + Lee = Ron Weasley
+  - number: 3
+    initials: C H
+    clue: Cap, tin, something bent hanging on it. Three things. One character. Say it out loud.
+    answer: Captain Hook
+    aliases:
+    - captain hook
+    reasoning: cap + tin + hook = Captain Hook
 - id: bookbusters-018
   enabled: true
   title: Bookbusters
@@ -602,35 +585,34 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Right, eighteen. Three phonetic literary clues. You've been brilliant so far, keep it up."
-  prize: "Email in. Winner gets a stress ball from a trade show and a highlighter pen."
+  - UK
+  - US
+  intro: Bookbusters. Three phonetic literary clues. Say them out loud.
+  prize: Email in. Winner gets a stress ball from a trade show and a highlighter pen.
   clues:
-    - number: 1
-      initials: D W
-      clue: "Compact fella on a tor, he is. Right there. Measuring power output in watts. Got a son too. Lot going on."
-      answer: Doctor Watson
-      aliases:
-        - doctor watson
-        - dr watson
-      reasoning: "doc + tor + watt + son = Doctor Watson"
-    - number: 2
-      initials: L J S
-      clue: "Elongated, this. Really stretching out. There's a toilet somewhere in the middle. Precious metal at the finish."
-      answer: Long John Silver
-      aliases:
-        - long john silver
-      reasoning: "long + john + silver = Long John Silver"
-    - number: 3
-      initials: M D
-      clue: "A gentleman. It got dark. The sea appeared. Three things. One name. You know what I mean."
-      answer: Mr Darcy
-      aliases:
-        - mr darcy
-        - mister darcy
-      reasoning: "mister + dark + sea = Mr Darcy"
-
+  - number: 1
+    initials: D W
+    clue: Compact fella on a tor, he is. Right there. Measuring power output in watts. Got a son too. Lot going on.
+    answer: Doctor Watson
+    aliases:
+    - doctor watson
+    - dr watson
+    reasoning: doc + tor + watt + son = Doctor Watson
+  - number: 2
+    initials: L J S
+    clue: Elongated, this. Really stretching out. There's a toilet somewhere in the middle. Precious metal at the finish.
+    answer: Long John Silver
+    aliases:
+    - long john silver
+    reasoning: long + john + silver = Long John Silver
+  - number: 3
+    initials: M D
+    clue: A gentleman. It got dark. The sea appeared. Three things. One name. You know what I mean.
+    answer: Mr Darcy
+    aliases:
+    - mr darcy
+    - mister darcy
+    reasoning: mister + dark + sea = Mr Darcy
 - id: bookbusters-019
   enabled: true
   title: Bookbusters
@@ -638,34 +620,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Bookbusters nineteen. Almost there. This is the penultimate set. Three more phonetic clues."
-  prize: "Email in. Winner gets a novelty calendar from three years ago and a branded pen lid."
+  - UK
+  - US
+  intro: Bookbusters. Three more phonetic literary clues. Say them out loud.
+  prize: Email in. Winner gets a novelty calendar from three years ago and a branded pen lid.
   clues:
-    - number: 1
-      initials: E B
-      clue: "Right, Eliza's in the bath. Big Ben's just outside. Someone's thrown a net over proceedings. Bit rude but there it is."
-      answer: Elizabeth Bennet
-      aliases:
-        - elizabeth bennet
-        - elizabeth bennett
-      reasoning: "Eliza + bath + Ben + net = Elizabeth Bennet"
-    - number: 2
-      initials: F
-      clue: "Fairy walked into an off-licence. Bought gin. Walked out. That's your clue. Near enough."
-      answer: Fagin
-      aliases:
-        - fagin
-      reasoning: "fay (fairy) + gin = Fagin"
-    - number: 3
-      initials: V
-      clue: "Small underground creature, dead. Well, dead in French, anyway. Dark one this."
-      answer: Voldemort
-      aliases:
-        - voldemort
-      reasoning: "vole + de + mort (French for dead) = Voldemort"
-
+  - number: 1
+    initials: E B
+    clue: Right, Eliza's in the bath. Big Ben's just outside. Someone's thrown a net over proceedings. Bit rude but there it is.
+    answer: Elizabeth Bennet
+    aliases:
+    - elizabeth bennet
+    - elizabeth bennett
+    reasoning: Eliza + bath + Ben + net = Elizabeth Bennet
+  - number: 2
+    initials: F
+    clue: Fairy walked into an off-licence. Bought gin. Walked out. That's your clue. Near enough.
+    answer: Fagin
+    aliases:
+    - fagin
+    reasoning: fay (fairy) + gin = Fagin
+  - number: 3
+    initials: V
+    clue: Small underground creature, dead. Well, dead in French, anyway. Dark one this.
+    answer: Voldemort
+    aliases:
+    - voldemort
+    reasoning: vole + de + mort (French for dead) = Voldemort
 - id: bookbusters-020
   enabled: true
   title: Bookbusters
@@ -673,30 +654,30 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Final set. Bookbusters twenty. Three last phonetic literary clues. Go on then."
-  prize: "Email in. Winner gets a signed photo of someone vaguely recognisable and a bag of pear drops."
+  - UK
+  - US
+  intro: Bookbusters. Three phonetic literary clues. Go on then.
+  prize: Email in. Winner gets a signed photo of someone vaguely recognisable and a bag of pear drops.
   clues:
-    - number: 1
-      initials: S S
-      clue: "You've severed something, involving all of us. Then a snake made a sudden movement. Then an ape turned up. Right."
-      answer: Severus Snape
-      aliases:
-        - severus snape
-      reasoning: "sever + us + snap + ape = Severus Snape"
-    - number: 2
-      initials: R C
-      clue: "There's a robin. It's someone's son, the robin. Ship's crew standing about. Someone sighs and says 'so'. Done."
-      answer: Robinson Crusoe
-      aliases:
-        - robinson crusoe
-      reasoning: "robin + son + crew + so = Robinson Crusoe"
-    - number: 3
-      initials: H G
-      clue: "She's moaning about her knee, this woman. And a grain merchant's turned up at the end. That's Bookbusters done. Well done you."
-      answer: Hermione Granger
-      aliases:
-        - hermione granger
-        - hermione
-      reasoning: "her + moan + ee + granger = Hermione Granger"
+  - number: 1
+    initials: S S
+    clue: You've severed something, involving all of us. Then a snake made a sudden movement. Then an ape turned up. Right.
+    answer: Severus Snape
+    aliases:
+    - severus snape
+    reasoning: sever + us + snap + ape = Severus Snape
+  - number: 2
+    initials: R C
+    clue: There's a robin. It's someone's son, the robin. Ship's crew standing about. Someone sighs and says 'so'. Done.
+    answer: Robinson Crusoe
+    aliases:
+    - robinson crusoe
+    reasoning: robin + son + crew + so = Robinson Crusoe
+  - number: 3
+    initials: H G
+    clue: She's moaning about her knee, this woman. And a grain merchant's turned up at the end. That's Bookbusters done. Well done you.
+    answer: Hermione Granger
+    aliases:
+    - hermione granger
+    - hermione
+    reasoning: her + moan + ee + granger = Hermione Granger

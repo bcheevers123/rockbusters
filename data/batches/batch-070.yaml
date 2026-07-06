@@ -5,35 +5,34 @@
   difficulty: hard
   office_safe: true
   region_relevance:
-    - Global
-  intro: "Right, Superherobusters. All superhero names hiding in these phonetic clues. Say them out loud - the answer's in the sounds somewhere."
-  prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
+  - Global
+  intro: Right, Superherobusters. All superhero names hiding in these phonetic clues. Say them out loud - the answer's in the sounds somewhere.
+  prize: Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station.
   clues:
-    - number: 1
-      initials: A
-      clue: "There's a long line of fellas just standing there waiting. All shuffling forward. No one's happy about it. What a queue, man."
-      answer: Aquaman
-      aliases:
-        - aquaman
-        - aqua man
-      reasoning: "a queue, man = Aquaman. 'A queue, man' said aloud sounds like 'Aquaman'."
-    - number: 2
-      initials: D S
-      clue: "Right, the fella at the surgery has been acting very odd all morning. Bit peculiar. Patients are looking at each other going, what's got into him."
-      answer: Doctor Strange
-      aliases:
-        - doctor strange
-        - dr strange
-        - dr. strange
-      reasoning: "doctor (the fella at the surgery) + strange (acting very odd) = Doctor Strange."
-    - number: 3
-      initials: G L
-      clue: "Someone's left one of them outdoor lamps out on the patio all winter and it's gone a funny colour. Sort of minty. Not ideal."
-      answer: Green Lantern
-      aliases:
-        - green lantern
-      reasoning: "green (gone a funny minty colour) + lantern (outdoor lamp on the patio) = Green Lantern."
-
+  - number: 1
+    initials: A
+    clue: There's a long line of fellas just standing there waiting. All shuffling forward. No one's happy about it. What a queue, man.
+    answer: Aquaman
+    aliases:
+    - aquaman
+    - aqua man
+    reasoning: a queue, man = Aquaman. 'A queue, man' said aloud sounds like 'Aquaman'.
+  - number: 2
+    initials: D S
+    clue: Right, the fella at the surgery has been acting very odd all morning. Bit peculiar. Patients are looking at each other going, what's got into him.
+    answer: Doctor Strange
+    aliases:
+    - doctor strange
+    - dr strange
+    - dr. strange
+    reasoning: doctor (the fella at the surgery) + strange (acting very odd) = Doctor Strange.
+  - number: 3
+    initials: G L
+    clue: Someone's left one of them outdoor lamps out on the patio all winter and it's gone a funny colour. Sort of minty. Not ideal.
+    answer: Green Lantern
+    aliases:
+    - green lantern
+    reasoning: green (gone a funny minty colour) + lantern (outdoor lamp on the patio) = Green Lantern.
 - id: superherobusters-002
   enabled: true
   title: Superherobusters
@@ -41,34 +40,33 @@
   difficulty: hard
   office_safe: true
   region_relevance:
-    - Global
-  intro: "Superherobusters two. Three more superhero names in phonetic clues. You know the drill."
-  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists."
+  - Global
+  intro: Superherobusters two. Three more superhero names in phonetic clues. You know the drill.
+  prize: Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists.
   clues:
-    - number: 1
-      initials: W
-      clue: "Right, someone's knitting something and halfway through they've gone a bit feral. Very intense about the whole thing. Lot of green wool involved."
-      answer: Wolverine
-      aliases:
-        - wolverine
-      reasoning: "wool-ver-een: wool (knitting material) + ver (sounds like 'ver', a rough sort of 'very') + een (sounds like 'een', as in green) = Wolverine said aloud."
-    - number: 2
-      initials: S S
-      clue: "A surfer turned up to the beach and he's not like the others. Sort of shiny all over. Bit metallic. Everyone staring."
-      answer: Silver Surfer
-      aliases:
-        - silver surfer
-        - the silver surfer
-      reasoning: "silver (shiny, metallic) + surfer (someone who surfs at the beach) = Silver Surfer."
-    - number: 3
-      initials: N
-      clue: "Something's been having a bit of a wriggle under the carpet at gone midnight. Dragging itself along. You wouldn't want to look too closely."
-      answer: Nightcrawler
-      aliases:
-        - nightcrawler
-        - night crawler
-      reasoning: "night (gone midnight, late) + crawler (something wriggling and dragging itself along) = Nightcrawler."
-
+  - number: 1
+    initials: W
+    clue: Right, someone's knitting something and halfway through they've gone a bit feral. Very intense about the whole thing. Lot of green wool involved.
+    answer: Wolverine
+    aliases:
+    - wolverine
+    reasoning: 'wool-ver-een: wool (knitting material) + ver (sounds like ''ver'', a rough sort of ''very'') + een (sounds like ''een'', as in green) = Wolverine said aloud.'
+  - number: 2
+    initials: S S
+    clue: A surfer turned up to the beach and he's not like the others. Sort of shiny all over. Bit metallic. Everyone staring.
+    answer: Silver Surfer
+    aliases:
+    - silver surfer
+    - the silver surfer
+    reasoning: silver (shiny, metallic) + surfer (someone who surfs at the beach) = Silver Surfer.
+  - number: 3
+    initials: N
+    clue: Something's been having a bit of a wriggle under the carpet at gone midnight. Dragging itself along. You wouldn't want to look too closely.
+    answer: Nightcrawler
+    aliases:
+    - nightcrawler
+    - night crawler
+    reasoning: night (gone midnight, late) + crawler (something wriggling and dragging itself along) = Nightcrawler.
 - id: superherobusters-003
   enabled: true
   title: Superherobusters
@@ -76,29 +74,29 @@
   difficulty: hard
   office_safe: true
   region_relevance:
-    - Global
-  intro: "Last set of Superherobusters. Three more superhero names. All phonetic, all hiding in the clue."
-  prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
+  - Global
+  intro: Superherobusters. Three superhero names hiding in the phonetic clues. All hiding in the sounds.
+  prize: Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette.
   clues:
-    - number: 1
-      initials: B W
-      clue: "Right, there's a woman who's lost her husband and she's dressed head to toe in the darkest colour going. Very sombre. Made an effort though."
-      answer: Black Widow
-      aliases:
-        - black widow
-      reasoning: "black (dressed head to toe in the darkest colour) + widow (a woman who's lost her husband) = Black Widow."
-    - number: 2
-      initials: G
-      clue: "Someone's made a bit of a strategic move. Put something out there early on. Calculated, like. Could go either way."
-      answer: Gambit
-      aliases:
-        - gambit
-      reasoning: "gambit (a strategic opening move, calculated, could go either way) = Gambit."
-    - number: 3
-      initials: D
-      clue: "There's a swimming area that's gone very quiet. No one in it. Everything still. Not a ripple. Bit eerie really."
-      answer: Deadpool
-      aliases:
-        - deadpool
-        - dead pool
-      reasoning: "dead (very quiet, still, not a ripple) + pool (a swimming area) = Deadpool."
+  - number: 1
+    initials: B W
+    clue: Right, there's a woman who's lost her husband and she's dressed head to toe in the darkest colour going. Very sombre. Made an effort though.
+    answer: Black Widow
+    aliases:
+    - black widow
+    reasoning: black (dressed head to toe in the darkest colour) + widow (a woman who's lost her husband) = Black Widow.
+  - number: 2
+    initials: G
+    clue: Someone's made a bit of a strategic move. Put something out there early on. Calculated, like. Could go either way.
+    answer: Gambit
+    aliases:
+    - gambit
+    reasoning: gambit (a strategic opening move, calculated, could go either way) = Gambit.
+  - number: 3
+    initials: D
+    clue: There's a swimming area that's gone very quiet. No one in it. Everything still. Not a ripple. Bit eerie really.
+    answer: Deadpool
+    aliases:
+    - deadpool
+    - dead pool
+    reasoning: dead (very quiet, still, not a ripple) + pool (a swimming area) = Deadpool.

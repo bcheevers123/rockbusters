@@ -5,34 +5,33 @@
   difficulty: hard
   office_safe: true
   region_relevance:
-    - Global
-  intro: "Right, Philosophybusters. Rockbusters but it's all famous thinkers. Say the clues out loud. The answers are hiding somewhere in the sounds. Might take a moment."
-  prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
+  - Global
+  intro: Right, Philosophybusters. Rockbusters but it's all famous thinkers. Say the clues out loud. The answers are hiding somewhere in the sounds. Might take a moment.
+  prize: Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station.
   clues:
-    - number: 1
-      initials: S
-      clue: "A bloke called Soak has had a go at something and made a right mess of it. His mate Rates has watched the whole thing. Both of them are standing in Athens looking baffled."
-      answer: Socrates
-      aliases:
-        - socrates
-      reasoning: "soak (sounds like 'so') + crates (a fella called Crates, or boxes stacked up) = So-crates = Socrates"
-    - number: 2
-      initials: N
-      clue: "A fella called Neat has gone over a set of railings, and he's done it in a sort of stylish way. He's very pleased with himself. Bit much."
-      answer: Nietzsche
-      aliases:
-        - nietzsche
-        - friedrich nietzsche
-      reasoning: "neat (tidy, stylish) +sche (sounds like 'shuh', over the railings sound) = Neet-shuh = Nietzsche"
-    - number: 3
-      initials: D
-      clue: "A man's sitting in a room in France and he's not sure if anything exists. He's thinking very hard about it. He's convinced himself he's there but not much else."
-      answer: Descartes
-      aliases:
-        - descartes
-        - rene descartes
-      reasoning: "day (sounds like 'de') + cart (a wheeled thing for carrying stuff) + s (plural, or just the end) = De-cart-s = Descartes"
-
+  - number: 1
+    initials: S
+    clue: A bloke called Soak has had a go at something and made a right mess of it. His mate Rates has watched the whole thing. Both of them are standing in Athens looking baffled.
+    answer: Socrates
+    aliases:
+    - socrates
+    reasoning: soak (sounds like 'so') + crates (a fella called Crates, or boxes stacked up) = So-crates = Socrates
+  - number: 2
+    initials: N
+    clue: A fella called Neat has gone over a set of railings, and he's done it in a sort of stylish way. He's very pleased with himself. Bit much.
+    answer: Nietzsche
+    aliases:
+    - nietzsche
+    - friedrich nietzsche
+    reasoning: neat (tidy, stylish) +sche (sounds like 'shuh', over the railings sound) = Neet-shuh = Nietzsche
+  - number: 3
+    initials: D
+    clue: A man's sitting in a room in France and he's not sure if anything exists. He's thinking very hard about it. He's convinced himself he's there but not much else.
+    answer: Descartes
+    aliases:
+    - descartes
+    - rene descartes
+    reasoning: day (sounds like 'de') + cart (a wheeled thing for carrying stuff) + s (plural, or just the end) = De-cart-s = Descartes
 - id: philosophybusters-002
   enabled: true
   title: Philosophybusters
@@ -40,33 +39,32 @@
   difficulty: hard
   office_safe: true
   region_relevance:
-    - Global
-  intro: "Philosophybusters two. Three more thinkers hiding in the sounds. Say these out loud. Reading them quietly won't do you any good."
-  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists."
+  - Global
+  intro: Philosophybusters two. Three more thinkers hiding in the sounds. Say these out loud. Reading them quietly won't do you any good.
+  prize: Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists.
   clues:
-    - number: 1
-      initials: A
-      clue: "A man called Arry has got himself tangled up in a discussion about what a stoat actually is. He's got four categories for it. Nobody asked for four."
-      answer: Aristotle
-      aliases:
-        - aristotle
-      reasoning: "arry (sounds like 'arri', informal version of Aristotle's start) + stotle (sounds like 'stott-ul', something being categorised vigorously) = Arri-stott-ul = Aristotle"
-    - number: 2
-      initials: P
-      clue: "A man's been looking at plates and plates and plates, but he reckons none of them are the real plate. The real plate is somewhere else. In a sort of perfect plate world."
-      answer: Plato
-      aliases:
-        - plato
-      reasoning: "plate (a plate of food, a flat round thing) + o (a surprised sound at the end) = Plate-o = Plato"
-    - number: 3
-      initials: K
-      clue: "A Danish bloke called Kirk has arrived at a party but he can't commit to being there. He's anxious about it. He keeps going outside for a think."
-      answer: Kierkegaard
-      aliases:
-        - kierkegaard
-        - soren kierkegaard
-      reasoning: "kirk (a church, or the name Kirk, very common in Scandinavia) + e (a small sound) + gaard (sounds like 'guard', someone watching the door) = Kirk-e-gaard = Kierkegaard"
-
+  - number: 1
+    initials: A
+    clue: A man called Arry has got himself tangled up in a discussion about what a stoat actually is. He's got four categories for it. Nobody asked for four.
+    answer: Aristotle
+    aliases:
+    - aristotle
+    reasoning: arry (sounds like 'arri', informal version of Aristotle's start) + stotle (sounds like 'stott-ul', something being categorised vigorously) = Arri-stott-ul = Aristotle
+  - number: 2
+    initials: P
+    clue: A man's been looking at plates and plates and plates, but he reckons none of them are the real plate. The real plate is somewhere else. In a sort of perfect plate world.
+    answer: Plato
+    aliases:
+    - plato
+    reasoning: plate (a plate of food, a flat round thing) + o (a surprised sound at the end) = Plate-o = Plato
+  - number: 3
+    initials: K
+    clue: A Danish bloke called Kirk has arrived at a party but he can't commit to being there. He's anxious about it. He keeps going outside for a think.
+    answer: Kierkegaard
+    aliases:
+    - kierkegaard
+    - soren kierkegaard
+    reasoning: kirk (a church, or the name Kirk, very common in Scandinavia) + e (a small sound) + gaard (sounds like 'guard', someone watching the door) = Kirk-e-gaard = Kierkegaard
 - id: philosophybusters-003
   enabled: true
   title: Philosophybusters
@@ -74,31 +72,31 @@
   difficulty: hard
   office_safe: true
   region_relevance:
-    - Global
-  intro: "Third and final Philosophybusters. Three more big thinkers in here. The answers are all phonetic. Say them out loud and see if the sounds add up to a philosopher."
-  prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
+  - Global
+  intro: Philosophybusters. Three big thinkers hiding in here. The answers are all phonetic. Say them out loud and see if the sounds add up to a philosopher.
+  prize: Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette.
   clues:
-    - number: 1
-      initials: W
-      clue: "A man called Witty has joined a group of people who are all arguing about what language means. He's said something clever but no one can agree on what it meant. He's fine with that."
-      answer: Wittgenstein
-      aliases:
-        - wittgenstein
-        - ludwig wittgenstein
-      reasoning: "witt (sounds like 'wit', clever wordplay, or the name Witty) + gen (to generate, or a generation) + stein (a big beer mug, or the German word for stone) = Witt-gen-stein = Wittgenstein"
-    - number: 2
-      initials: H
-      clue: "A bloke called Higger has been out in a German forest for quite a long time just thinking about being. Being in the forest. Being in general. He's written it all down but it's very hard to follow."
-      answer: Heidegger
-      aliases:
-        - heidegger
-        - martin heidegger
-      reasoning: "heide (sounds like 'high-duh', a German heath or moor) + gger (sounds like 'guh', a grunting sound of deep thought) = Hy-deg-uh = Heidegger"
-    - number: 3
-      initials: S D B
-      clue: "A woman called Sim has walked into a shop but the bloke working there keeps treating her differently to the other customers. She's written about sixteen hundred pages on the subject."
-      answer: Simone de Beauvoir
-      aliases:
-        - simone de beauvoir
-        - de beauvoir
-      reasoning: "simone (the name Simone, sounds like 'si-moan') + de (sounds like 'duh', the French word for of) + beauvoir (sounds like 'boh-vwah', like beautiful view in French) = Si-moan duh Boh-vwah = Simone de Beauvoir"
+  - number: 1
+    initials: W
+    clue: A man called Witty has joined a group of people who are all arguing about what language means. He's said something clever but no one can agree on what it meant. He's fine with that.
+    answer: Wittgenstein
+    aliases:
+    - wittgenstein
+    - ludwig wittgenstein
+    reasoning: witt (sounds like 'wit', clever wordplay, or the name Witty) + gen (to generate, or a generation) + stein (a big beer mug, or the German word for stone) = Witt-gen-stein = Wittgenstein
+  - number: 2
+    initials: H
+    clue: A bloke called Higger has been out in a German forest for quite a long time just thinking about being. Being in the forest. Being in general. He's written it all down but it's very hard to follow.
+    answer: Heidegger
+    aliases:
+    - heidegger
+    - martin heidegger
+    reasoning: heide (sounds like 'high-duh', a German heath or moor) + gger (sounds like 'guh', a grunting sound of deep thought) = Hy-deg-uh = Heidegger
+  - number: 3
+    initials: S D B
+    clue: A woman called Sim has walked into a shop but the bloke working there keeps treating her differently to the other customers. She's written about sixteen hundred pages on the subject.
+    answer: Simone de Beauvoir
+    aliases:
+    - simone de beauvoir
+    - de beauvoir
+    reasoning: simone (the name Simone, sounds like 'si-moan') + de (sounds like 'duh', the French word for of) + beauvoir (sounds like 'boh-vwah', like beautiful view in French) = Si-moan duh Boh-vwah = Simone de Beauvoir

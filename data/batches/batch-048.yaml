@@ -5,34 +5,31 @@
   difficulty: hard
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Right, Cheesebusters. Three cheese names hiding in these phonetic clues. Say them out loud and you'll get there."
-  prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
+  - UK
+  intro: Right, Cheesebusters. Three cheese names hiding in these phonetic clues. Say them out loud and you'll get there.
+  prize: Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station.
   clues:
-    - number: 1
-      initials: W
-      clue: "There's a woman called Wensley - unusual name, Wensley - and she's moved into a valley. Just living there now. In the valley."
-      answer: Wensleydale
-      aliases:
-        - wensleydale
-      reasoning: "Wensley (a woman's name, unusual but there it is) + dale (a valley, like in the Dales) = Wensley-dale = Wensleydale. Say it out loud: Wensley + dale."
-
-    - number: 2
-      initials: G
-      clue: "Right, someone's absolutely stuffing themselves. Just gorging away. And what they're eating is all the works of that French novelist. Every single book."
-      answer: Gorgonzola
-      aliases:
-        - gorgonzola
-      reasoning: "gorge on (to eat greedily, stuffing yourself) + Zola (Emile Zola, the French novelist) = gorge-on-Zola = Gorgonzola. Say it: gorge-on-Zola."
-
-    - number: 3
-      initials: C
-      clue: "A bear has turned up at a party. Just walked in. Nobody invited it. It came in and everyone's looking at it."
-      answer: Camembert
-      aliases:
-        - camembert
-      reasoning: "came in (arrived, turned up) + bear (a large furry animal) = came-in-bear = Camembert. Say it quickly: cam-em-bear."
-
+  - number: 1
+    initials: W
+    clue: There's a woman called Wensley - unusual name, Wensley - and she's moved into a valley. Just living there now. In the valley.
+    answer: Wensleydale
+    aliases:
+    - wensleydale
+    reasoning: 'Wensley (a woman''s name, unusual but there it is) + dale (a valley, like in the Dales) = Wensley-dale = Wensleydale. Say it out loud: Wensley + dale.'
+  - number: 2
+    initials: G
+    clue: Right, someone's absolutely stuffing themselves. Just gorging away. And what they're eating is all the works of that French novelist. Every single book.
+    answer: Gorgonzola
+    aliases:
+    - gorgonzola
+    reasoning: 'gorge on (to eat greedily, stuffing yourself) + Zola (Emile Zola, the French novelist) = gorge-on-Zola = Gorgonzola. Say it: gorge-on-Zola.'
+  - number: 3
+    initials: C
+    clue: A bear has turned up at a party. Just walked in. Nobody invited it. It came in and everyone's looking at it.
+    answer: Camembert
+    aliases:
+    - camembert
+    reasoning: 'came in (arrived, turned up) + bear (a large furry animal) = came-in-bear = Camembert. Say it quickly: cam-em-bear.'
 - id: cheesebusters-002
   enabled: true
   title: Cheesebusters
@@ -40,34 +37,31 @@
   difficulty: hard
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Cheesebusters two. Three more cheese names in here. Phonetic clues, so say them out loud."
-  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that doesn't exist anymore."
+  - UK
+  intro: Cheesebusters two. Three more cheese names in here. Phonetic clues, so say them out loud.
+  prize: Email in. Winner gets an AOL trial disc and a mug from a company that doesn't exist anymore.
   clues:
-    - number: 1
-      initials: R L
-      clue: "There's a man called Lester, and he's gone absolutely crimson. Bright red. Don't know what happened but he's not well."
-      answer: Red Leicester
-      aliases:
-        - red leicester
-      reasoning: "red (the colour, bright crimson) + Leicester (said as 'Lester', the city) = Red Leicester. Red + Lester said together."
-
-    - number: 2
-      initials: S
-      clue: "A massive weight - a full imperial tonne - it hasn't moved. Been there ages. Just sitting there, perfectly still. Nobody's bothered."
-      answer: Stilton
-      aliases:
-        - stilton
-      reasoning: "still (not moving, stationary) + ton (an imperial unit of weight, very heavy) = still-ton = Stilton. Say it: still-ton."
-
-    - number: 3
-      initials: M
-      clue: "Right, Morrissey and Ella Fitzgerald are the same person. That's what they're saying. Moz is Ella. Apparently."
-      answer: Mozzarella
-      aliases:
-        - mozzarella
-      reasoning: "Moz (Morrissey's nickname) + are (to be, as in 'is') + Ella (Ella Fitzgerald) = Moz-are-Ella = Mozzarella. Say it: Moz-ah-rella."
-
+  - number: 1
+    initials: R L
+    clue: There's a man called Lester, and he's gone absolutely crimson. Bright red. Don't know what happened but he's not well.
+    answer: Red Leicester
+    aliases:
+    - red leicester
+    reasoning: red (the colour, bright crimson) + Leicester (said as 'Lester', the city) = Red Leicester. Red + Lester said together.
+  - number: 2
+    initials: S
+    clue: A massive weight - a full imperial tonne - it hasn't moved. Been there ages. Just sitting there, perfectly still. Nobody's bothered.
+    answer: Stilton
+    aliases:
+    - stilton
+    reasoning: 'still (not moving, stationary) + ton (an imperial unit of weight, very heavy) = still-ton = Stilton. Say it: still-ton.'
+  - number: 3
+    initials: M
+    clue: Right, Morrissey and Ella Fitzgerald are the same person. That's what they're saying. Moz is Ella. Apparently.
+    answer: Mozzarella
+    aliases:
+    - mozzarella
+    reasoning: 'Moz (Morrissey''s nickname) + are (to be, as in ''is'') + Ella (Ella Fitzgerald) = Moz-are-Ella = Mozzarella. Say it: Moz-ah-rella.'
 - id: cheesebusters-003
   enabled: true
   title: Cheesebusters
@@ -75,32 +69,29 @@
   difficulty: hard
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Cheesebusters three. Last set. All cheese. All phonetic. You know what you're doing by now."
-  prize: "Email in. Winner gets a Blockbuster loyalty card and a laminated bookmark from WHSmith."
+  - UK
+  intro: Cheesebusters. All cheese, all phonetic. Say each one out loud.
+  prize: Email in. Winner gets a Blockbuster loyalty card and a laminated bookmark from WHSmith.
   clues:
-    - number: 1
-      initials: E
-      clue: "There's a woman called Emma - nice enough - and she's very, very tall. Unusually tall. Just standing there being tall about it."
-      answer: Emmental
-      aliases:
-        - emmental
-        - emmenthal
-      reasoning: "Emma (a woman's name) + tall (very high in stature) = Emma-tall = Emmental. Say it: em-ma-tal."
-
-    - number: 2
-      initials: R
-      clue: "Someone's built a fortress entirely out of stones. Solid rock, the whole thing. Very secure. Nobody's getting in there."
-      answer: Roquefort
-      aliases:
-        - roquefort
-      reasoning: "rock (stone, solid geology) + fort (a fortress, a military stronghold) = rock-fort = Roquefort. Say it: rock-fort."
-
-    - number: 3
-      initials: P
-      clue: "A golfer hits it exactly average - right on par - then there's me, just standing there, and then that jungle fella who swings on vines shows up. All in a row."
-      answer: Parmesan
-      aliases:
-        - parmesan
-      reasoning: "par (a golf score meaning average) + me (I, myself) + zan (Tarzan, the jungle fella who swings on vines) = par-me-zan = Parmesan. Say it out loud: par-me-zan."
-
+  - number: 1
+    initials: E
+    clue: There's a woman called Emma - nice enough - and she's very, very tall. Unusually tall. Just standing there being tall about it.
+    answer: Emmental
+    aliases:
+    - emmental
+    - emmenthal
+    reasoning: 'Emma (a woman''s name) + tall (very high in stature) = Emma-tall = Emmental. Say it: em-ma-tal.'
+  - number: 2
+    initials: R
+    clue: Someone's built a fortress entirely out of stones. Solid rock, the whole thing. Very secure. Nobody's getting in there.
+    answer: Roquefort
+    aliases:
+    - roquefort
+    reasoning: 'rock (stone, solid geology) + fort (a fortress, a military stronghold) = rock-fort = Roquefort. Say it: rock-fort.'
+  - number: 3
+    initials: P
+    clue: A golfer hits it exactly average - right on par - then there's me, just standing there, and then that jungle fella who swings on vines shows up. All in a row.
+    answer: Parmesan
+    aliases:
+    - parmesan
+    reasoning: 'par (a golf score meaning average) + me (I, myself) + zan (Tarzan, the jungle fella who swings on vines) = par-me-zan = Parmesan. Say it out loud: par-me-zan.'

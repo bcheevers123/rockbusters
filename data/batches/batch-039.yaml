@@ -5,33 +5,32 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Right, Wordbusters. All compound words this one. Split each answer in half by sound and you'll get there. Easy."
-  prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
+  - UK
+  - US
+  intro: Right, Wordbusters. All compound words this one. Split each answer in half by sound and you'll get there. Easy.
+  prize: Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station.
   clues:
-    - number: 1
-      initials: B
-      clue: "Right, that stuff you spread on toast has gone and sprouted wings. Just flapping about in the kitchen. Bit of a nuisance."
-      answer: Butterfly
-      aliases:
-        - butterfly
-      reasoning: "butter (the dairy spread you put on toast) + fly (sprouted wings and is flying) = Butterfly"
-    - number: 2
-      initials: B
-      clue: "The darkest colour you can think of. It's gone and turned into a creature that sits in a tree and sings."
-      answer: Blackbird
-      aliases:
-        - blackbird
-      reasoning: "black (darkest colour) + bird (creature in a tree that sings) = Blackbird"
-    - number: 3
-      initials: B
-      clue: "That sky colour, right, it's ringing. Just going off in the corner of the room. Blue thing, ringing away. That's all."
-      answer: Bluebell
-      aliases:
-        - bluebell
-      reasoning: "blue (sky colour) + bell (ringing in the corner) = Bluebell"
-
+  - number: 1
+    initials: B
+    clue: Right, that stuff you spread on toast has gone and sprouted wings. Just flapping about in the kitchen. Bit of a nuisance.
+    answer: Butterfly
+    aliases:
+    - butterfly
+    reasoning: butter (the dairy spread you put on toast) + fly (sprouted wings and is flying) = Butterfly
+  - number: 2
+    initials: B
+    clue: The darkest colour you can think of. It's gone and turned into a creature that sits in a tree and sings.
+    answer: Blackbird
+    aliases:
+    - blackbird
+    reasoning: black (darkest colour) + bird (creature in a tree that sings) = Blackbird
+  - number: 3
+    initials: B
+    clue: That sky colour, right, it's ringing. Just going off in the corner of the room. Blue thing, ringing away. That's all.
+    answer: Bluebell
+    aliases:
+    - bluebell
+    reasoning: blue (sky colour) + bell (ringing in the corner) = Bluebell
 - id: wordbusters-002
   enabled: true
   title: Wordbusters
@@ -39,33 +38,32 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Wordbusters two. Three more compound words hidden in phonetic clues. Say them out loud."
-  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists."
+  - UK
+  - US
+  intro: Wordbusters two. Three more compound words hidden in phonetic clues. Say them out loud.
+  prize: Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists.
   clues:
-    - number: 1
-      initials: G
-      clue: "They've painted the whole house the colour of grass. Every wall, the roof, the drainpipes. All of it. Very green."
-      answer: Greenhouse
-      aliases:
-        - greenhouse
-      reasoning: "green (colour of grass, they've painted it) + house (the whole building) = Greenhouse"
-    - number: 2
-      initials: T
-      clue: "Right, there's a massive rumbling sound coming from outside and everything's gone a bit wild. Trees are going sideways. That's your lot."
-      answer: Thunderstorm
-      aliases:
-        - thunderstorm
-      reasoning: "thunder (the massive rumbling sound) + storm (everything's gone wild, trees sideways) = Thunderstorm"
-    - number: 3
-      initials: S
-      clue: "That big bright thing in the sky has gone and grown petals. Just sitting there in the sky with petals on it. Nobody's mentioned it."
-      answer: Sunflower
-      aliases:
-        - sunflower
-      reasoning: "sun (the big bright thing in the sky) + flower (it's grown petals) = Sunflower"
-
+  - number: 1
+    initials: G
+    clue: They've painted the whole house the colour of grass. Every wall, the roof, the drainpipes. All of it. Very green.
+    answer: Greenhouse
+    aliases:
+    - greenhouse
+    reasoning: green (colour of grass, they've painted it) + house (the whole building) = Greenhouse
+  - number: 2
+    initials: T
+    clue: Right, there's a massive rumbling sound coming from outside and everything's gone a bit wild. Trees are going sideways. That's your lot.
+    answer: Thunderstorm
+    aliases:
+    - thunderstorm
+    reasoning: thunder (the massive rumbling sound) + storm (everything's gone wild, trees sideways) = Thunderstorm
+  - number: 3
+    initials: S
+    clue: That big bright thing in the sky has gone and grown petals. Just sitting there in the sky with petals on it. Nobody's mentioned it.
+    answer: Sunflower
+    aliases:
+    - sunflower
+    reasoning: sun (the big bright thing in the sky) + flower (it's grown petals) = Sunflower
 - id: wordbusters-003
   enabled: true
   title: Wordbusters
@@ -73,33 +71,32 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Alright, three more compound words. All phonetic. Say each one out loud and it'll come to you."
-  prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
+  - UK
+  - US
+  intro: Alright, three more compound words. All phonetic. Say each one out loud and it'll come to you.
+  prize: Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette.
   clues:
-    - number: 1
-      initials: W
-      clue: "The stuff from the tap's gone and had a tumble. Just fell right over. Not spilled, proper fell. Dramatic about it."
-      answer: Waterfall
-      aliases:
-        - waterfall
-      reasoning: "water (the stuff from the tap) + fall (it's fallen over, had a tumble) = Waterfall"
-    - number: 2
-      initials: D
-      clue: "Right, that entrance to the building has gone and done a little dance move. One big step. Very pleased with itself."
-      answer: Doorstep
-      aliases:
-        - doorstep
-      reasoning: "door (the entrance to a building) + step (done a dance move, one big step) = Doorstep"
-    - number: 3
-      initials: F
-      clue: "The flames have gone and got themselves a job. Nine to five, works at the depot. Very dedicated fire, to be fair."
-      answer: Fireworks
-      aliases:
-        - fireworks
-      reasoning: "fire (the flames) + works (got a job, nine to five) = Fireworks"
-
+  - number: 1
+    initials: W
+    clue: The stuff from the tap's gone and had a tumble. Just fell right over. Not spilled, proper fell. Dramatic about it.
+    answer: Waterfall
+    aliases:
+    - waterfall
+    reasoning: water (the stuff from the tap) + fall (it's fallen over, had a tumble) = Waterfall
+  - number: 2
+    initials: D
+    clue: Right, that entrance to the building has gone and done a little dance move. One big step. Very pleased with itself.
+    answer: Doorstep
+    aliases:
+    - doorstep
+    reasoning: door (the entrance to a building) + step (done a dance move, one big step) = Doorstep
+  - number: 3
+    initials: F
+    clue: The flames have gone and got themselves a job. Nine to five, works at the depot. Very dedicated fire, to be fair.
+    answer: Fireworks
+    aliases:
+    - fireworks
+    reasoning: fire (the flames) + works (got a job, nine to five) = Fireworks
 - id: wordbusters-004
   enabled: true
   title: Wordbusters
@@ -107,36 +104,35 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Wordbusters four. Each answer is a compound word. Listen for the split. Don't overthink it."
-  prize: "Email in. Winner gets a printed photo from a disposable camera, framed."
+  - UK
+  - US
+  intro: Wordbusters four. Each answer is a compound word. Listen for the split. Don't overthink it.
+  prize: Email in. Winner gets a printed photo from a disposable camera, framed.
   clues:
-    - number: 1
-      initials: C
-      clue: "That whole field of yellow stuff's gone a bit flaky. Just breaking apart in little bits. Crumbling away. Bit sad."
-      answer: Cornflakes
-      aliases:
-        - cornflakes
-        - corn flakes
-      reasoning: "corn (field of yellow stuff) + flakes (gone flaky, breaking into bits) = Cornflakes"
-    - number: 2
-      initials: T
-      clue: "Right, the hot brown drink's gone and got itself a little shovel. Tiny one. Sitting in the mug with it. Sorted."
-      answer: Teaspoon
-      aliases:
-        - teaspoon
-        - tea spoon
-      reasoning: "tea (the hot brown drink) + spoon (a little shovel, a spoon) = Teaspoon"
-    - number: 3
-      initials: T
-      clue: "That flat piece of furniture in the dining room has gone and put a big bit of fabric on itself. Covering everything up."
-      answer: Tablecloth
-      aliases:
-        - tablecloth
-        - table cloth
-      reasoning: "table (flat piece of furniture in the dining room) + cloth (big bit of fabric covering it) = Tablecloth"
-
+  - number: 1
+    initials: C
+    clue: That whole field of yellow stuff's gone a bit flaky. Just breaking apart in little bits. Crumbling away. Bit sad.
+    answer: Cornflakes
+    aliases:
+    - cornflakes
+    - corn flakes
+    reasoning: corn (field of yellow stuff) + flakes (gone flaky, breaking into bits) = Cornflakes
+  - number: 2
+    initials: T
+    clue: Right, the hot brown drink's gone and got itself a little shovel. Tiny one. Sitting in the mug with it. Sorted.
+    answer: Teaspoon
+    aliases:
+    - teaspoon
+    - tea spoon
+    reasoning: tea (the hot brown drink) + spoon (a little shovel, a spoon) = Teaspoon
+  - number: 3
+    initials: T
+    clue: That flat piece of furniture in the dining room has gone and put a big bit of fabric on itself. Covering everything up.
+    answer: Tablecloth
+    aliases:
+    - tablecloth
+    - table cloth
+    reasoning: table (flat piece of furniture in the dining room) + cloth (big bit of fabric covering it) = Tablecloth
 - id: wordbusters-005
   enabled: true
   title: Wordbusters
@@ -144,36 +140,35 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Five sets in. Wordbusters. Still compound words, still phonetic. Say them out loud."
-  prize: "Email in. Winner gets a signed letter from someone off Emmerdale, possibly."
+  - UK
+  - US
+  intro: Five sets in. Wordbusters. Still compound words, still phonetic. Say them out loud.
+  prize: Email in. Winner gets a signed letter from someone off Emmerdale, possibly.
   clues:
-    - number: 1
-      initials: F
-      clue: "The bottom of someone's leg has gone and written something. Just pressed itself onto some paper and left a mark. There it is."
-      answer: Footprint
-      aliases:
-        - footprint
-        - foot print
-      reasoning: "foot (the bottom of someone's leg) + print (pressed onto paper, left a mark) = Footprint"
-    - number: 2
-      initials: H
-      clue: "Right, that bit at the end of your arm. Someone's turned it into a carrier. Handles and everything. You carry it to the shops."
-      answer: Handbag
-      aliases:
-        - handbag
-        - hand bag
-      reasoning: "hand (the bit at the end of your arm) + bag (turned into a carrier, handles, take to the shops) = Handbag"
-    - number: 3
-      initials: N
-      clue: "A single musical note has gone and written itself a proper novel. Thick one. Publisher's interested apparently."
-      answer: Notebook
-      aliases:
-        - notebook
-        - note book
-      reasoning: "note (a single musical note) + book (written itself a novel, a thick book) = Notebook"
-
+  - number: 1
+    initials: F
+    clue: The bottom of someone's leg has gone and written something. Just pressed itself onto some paper and left a mark. There it is.
+    answer: Footprint
+    aliases:
+    - footprint
+    - foot print
+    reasoning: foot (the bottom of someone's leg) + print (pressed onto paper, left a mark) = Footprint
+  - number: 2
+    initials: H
+    clue: Right, that bit at the end of your arm. Someone's turned it into a carrier. Handles and everything. You carry it to the shops.
+    answer: Handbag
+    aliases:
+    - handbag
+    - hand bag
+    reasoning: hand (the bit at the end of your arm) + bag (turned into a carrier, handles, take to the shops) = Handbag
+  - number: 3
+    initials: N
+    clue: A single musical note has gone and written itself a proper novel. Thick one. Publisher's interested apparently.
+    answer: Notebook
+    aliases:
+    - notebook
+    - note book
+    reasoning: note (a single musical note) + book (written itself a novel, a thick book) = Notebook
 - id: wordbusters-006
   enabled: true
   title: Wordbusters
@@ -181,36 +176,35 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Right then, Wordbusters six. Three phonetic compound word clues. You know what to do by now."
-  prize: "Email in. Winner gets a foam visor from a theme park and a mint imperial."
+  - UK
+  - US
+  intro: Right then, Wordbusters six. Three phonetic compound word clues. You know what to do by now.
+  prize: Email in. Winner gets a foam visor from a theme park and a mint imperial.
   clues:
-    - number: 1
-      initials: W
-      clue: "That great flat thing in the living room's gone and started reading the news. Just sitting there with a broadsheet. Very informed wall."
-      answer: Wallpaper
-      aliases:
-        - wallpaper
-        - wall paper
-      reasoning: "wall (the great flat thing in the living room) + paper (reading the news, a broadsheet paper) = Wallpaper"
-    - number: 2
-      initials: T
-      clue: "Right, the thing in your mouth that you chew with has gone and glued itself to something. Won't budge. Stuck fast."
-      answer: Toothpaste
-      aliases:
-        - toothpaste
-        - tooth paste
-      reasoning: "tooth (the thing in your mouth you chew with) + paste (glued itself, stuck fast, paste is glue) = Toothpaste"
-    - number: 3
-      initials: W
-      clue: "The breeze has gone and got itself a telly. Big flat screen. Sitting there watching programmes. The breeze, just watching telly."
-      answer: Windscreen
-      aliases:
-        - windscreen
-        - wind screen
-      reasoning: "wind (the breeze) + screen (a telly, a flat screen) = Windscreen"
-
+  - number: 1
+    initials: W
+    clue: That great flat thing in the living room's gone and started reading the news. Just sitting there with a broadsheet. Very informed wall.
+    answer: Wallpaper
+    aliases:
+    - wallpaper
+    - wall paper
+    reasoning: wall (the great flat thing in the living room) + paper (reading the news, a broadsheet paper) = Wallpaper
+  - number: 2
+    initials: T
+    clue: Right, the thing in your mouth that you chew with has gone and glued itself to something. Won't budge. Stuck fast.
+    answer: Toothpaste
+    aliases:
+    - toothpaste
+    - tooth paste
+    reasoning: tooth (the thing in your mouth you chew with) + paste (glued itself, stuck fast, paste is glue) = Toothpaste
+  - number: 3
+    initials: W
+    clue: The breeze has gone and got itself a telly. Big flat screen. Sitting there watching programmes. The breeze, just watching telly.
+    answer: Windscreen
+    aliases:
+    - windscreen
+    - wind screen
+    reasoning: wind (the breeze) + screen (a telly, a flat screen) = Windscreen
 - id: wordbusters-007
   enabled: true
   title: Wordbusters
@@ -218,36 +212,35 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Wordbusters seven. Phonetic clues, compound word answers. Near enough."
-  prize: "Email in. Winner gets a stress ball shaped like a globe and a 2009 wall calendar."
+  - UK
+  - US
+  intro: Wordbusters seven. Phonetic clues, compound word answers. Near enough.
+  prize: Email in. Winner gets a stress ball shaped like a globe and a 2009 wall calendar.
   clues:
-    - number: 1
-      initials: D
-      clue: "All them little bits of muck from under the sofa. They've gone and thrown themselves away. Tidied up on their own. That's handy."
-      answer: Dustbin
-      aliases:
-        - dustbin
-        - dust bin
-      reasoning: "dust (little bits of muck from under the sofa) + bin (thrown themselves away, into the bin) = Dustbin"
-    - number: 2
-      initials: C
-      clue: "Right, there's a spider's front room, and it's dripping with cobwebs. Which is odd because it's the spider what made them."
-      answer: Cobweb
-      aliases:
-        - cobweb
-        - cob web
-      reasoning: "cob (a corn cob, sounds like the front of cobweb) + web (the spider's sticky net) = Cobweb"
-    - number: 3
-      initials: E
-      clue: "That little drum. Someone's picked it up and strapped it to the side of their head. Playing it there. Very inconvenient."
-      answer: Eardrum
-      aliases:
-        - eardrum
-        - ear drum
-      reasoning: "ear (the side of your head, you hear with it) + drum (a little drum strapped there) = Eardrum"
-
+  - number: 1
+    initials: D
+    clue: All them little bits of muck from under the sofa. They've gone and thrown themselves away. Tidied up on their own. That's handy.
+    answer: Dustbin
+    aliases:
+    - dustbin
+    - dust bin
+    reasoning: dust (little bits of muck from under the sofa) + bin (thrown themselves away, into the bin) = Dustbin
+  - number: 2
+    initials: C
+    clue: Right, there's a spider's front room, and it's dripping with cobwebs. Which is odd because it's the spider what made them.
+    answer: Cobweb
+    aliases:
+    - cobweb
+    - cob web
+    reasoning: cob (a corn cob, sounds like the front of cobweb) + web (the spider's sticky net) = Cobweb
+  - number: 3
+    initials: E
+    clue: That little drum. Someone's picked it up and strapped it to the side of their head. Playing it there. Very inconvenient.
+    answer: Eardrum
+    aliases:
+    - eardrum
+    - ear drum
+    reasoning: ear (the side of your head, you hear with it) + drum (a little drum strapped there) = Eardrum
 - id: wordbusters-008
   enabled: true
   title: Wordbusters
@@ -255,36 +248,35 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Alright, Wordbusters eight. Same as ever. All compound words, all phonetic. Say them out loud."
-  prize: "Email in. Winner gets a novelty pen from a trade show and a pack of custard creams."
+  - UK
+  - US
+  intro: Alright, Wordbusters eight. Same as ever. All compound words, all phonetic. Say them out loud.
+  prize: Email in. Winner gets a novelty pen from a trade show and a pack of custard creams.
   clues:
-    - number: 1
-      initials: S
-      clue: "That fella's strapped a board to his feet and he's rolling down the street. Very pleased with himself. Bit wobbly still."
-      answer: Skateboard
-      aliases:
-        - skateboard
-        - skate board
-      reasoning: "skate (rolling on wheels, gliding) + board (a flat board strapped to your feet) = Skateboard"
-    - number: 2
-      initials: C
-      clue: "Right, the clock's been given a job to do. Routine, repetitive, going round and round. It's just getting on with it."
-      answer: Clockwork
-      aliases:
-        - clockwork
-        - clock work
-      reasoning: "clock (the clock, tick tock) + work (given a job, routine, going round) = Clockwork"
-    - number: 3
-      initials: S
-      clue: "Someone's packed all their stuff into a box. Everything in there. Shut it up. Off on their travels."
-      answer: Suitcase
-      aliases:
-        - suitcase
-        - suit case
-      reasoning: "suit (packed all their stuff, like a business suit in a bag) + case (the box, the case you travel with) = Suitcase"
-
+  - number: 1
+    initials: S
+    clue: That fella's strapped a board to his feet and he's rolling down the street. Very pleased with himself. Bit wobbly still.
+    answer: Skateboard
+    aliases:
+    - skateboard
+    - skate board
+    reasoning: skate (rolling on wheels, gliding) + board (a flat board strapped to your feet) = Skateboard
+  - number: 2
+    initials: C
+    clue: Right, the clock's been given a job to do. Routine, repetitive, going round and round. It's just getting on with it.
+    answer: Clockwork
+    aliases:
+    - clockwork
+    - clock work
+    reasoning: clock (the clock, tick tock) + work (given a job, routine, going round) = Clockwork
+  - number: 3
+    initials: S
+    clue: Someone's packed all their stuff into a box. Everything in there. Shut it up. Off on their travels.
+    answer: Suitcase
+    aliases:
+    - suitcase
+    - suit case
+    reasoning: suit (packed all their stuff, like a business suit in a bag) + case (the box, the case you travel with) = Suitcase
 - id: wordbusters-009
   enabled: true
   title: Wordbusters
@@ -292,36 +284,35 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Nine sets in now. Wordbusters. Still going. Three phonetic compound word clues."
-  prize: "Email in. Winner gets a laminated bus timetable and a reduced-price Easter egg."
+  - UK
+  - US
+  intro: Nine sets in now. Wordbusters. Still going. Three phonetic compound word clues.
+  prize: Email in. Winner gets a laminated bus timetable and a reduced-price Easter egg.
   clues:
-    - number: 1
-      initials: C
-      clue: "Right, that puzzle in the newspaper, the one where you fill in words going across and down. Everyone's gran does it."
-      answer: Crossword
-      aliases:
-        - crossword
-        - cross word
-      reasoning: "cross (going across, and the pattern of the grid which is like a cross) + word (you fill in words) = Crossword"
-    - number: 2
-      initials: L
-      clue: "That fella's stationed at the pool all day just watching everyone. Won't swim. Just watching. Very serious about it."
-      answer: Lifeguard
-      aliases:
-        - lifeguard
-        - life guard
-      reasoning: "life (guarding people's lives at the pool) + guard (stationed there watching, a guard) = Lifeguard"
-    - number: 3
-      initials: E
-      clue: "Someone's bent their arm the wrong way. You know, the joint in the middle. Bent outward. Shouldn't do that."
-      answer: Elbow
-      aliases:
-        - elbow
-        - el bow
-      reasoning: "el (like 'ell', an exclamation of surprise) + bow (bending, like a bow shape at the joint) = Elbow"
-
+  - number: 1
+    initials: C
+    clue: Right, that puzzle in the newspaper, the one where you fill in words going across and down. Everyone's gran does it.
+    answer: Crossword
+    aliases:
+    - crossword
+    - cross word
+    reasoning: cross (going across, and the pattern of the grid which is like a cross) + word (you fill in words) = Crossword
+  - number: 2
+    initials: L
+    clue: That fella's stationed at the pool all day just watching everyone. Won't swim. Just watching. Very serious about it.
+    answer: Lifeguard
+    aliases:
+    - lifeguard
+    - life guard
+    reasoning: life (guarding people's lives at the pool) + guard (stationed there watching, a guard) = Lifeguard
+  - number: 3
+    initials: E
+    clue: Someone's bent their arm the wrong way. You know, the joint in the middle. Bent outward. Shouldn't do that.
+    answer: Elbow
+    aliases:
+    - elbow
+    - el bow
+    reasoning: el (like 'ell', an exclamation of surprise) + bow (bending, like a bow shape at the joint) = Elbow
 - id: wordbusters-010
   enabled: true
   title: Wordbusters
@@ -329,33 +320,32 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Wordbusters ten. Final set of this half. Three compound word phonetic clues. Off you go."
-  prize: "Email in. Winner gets a tin of travel sweets and a branded biro from a skip hire firm."
+  - UK
+  - US
+  intro: Wordbusters. Three compound word phonetic clues. Off you go.
+  prize: Email in. Winner gets a tin of travel sweets and a branded biro from a skip hire firm.
   clues:
-    - number: 1
-      initials: S
-      clue: "Right, some fella's gone and lit a piece of wood on fire and then surfed down a hill on it. Very dramatic. Neighbours weren't happy."
-      answer: Skateboard
-      aliases:
-        - skateboard
-      reasoning: "skate (surfed/glided down the hill) + board (a flat piece of wood) = Skateboard"
-    - number: 2
-      initials: B
-      clue: "The bird's gone completely dark. Midnight black. Every feather. Sitting in a tree looking very moody about it."
-      answer: Blackbird
-      aliases:
-        - blackbird
-      reasoning: "black (gone completely dark, midnight black) + bird (every feather, sitting in a tree) = Blackbird"
-    - number: 3
-      initials: S
-      clue: "That big yellow thing in the sky, right, it's gone and given off a load of little blooms. Petals everywhere up there."
-      answer: Sunflower
-      aliases:
-        - sunflower
-      reasoning: "sun (the big yellow thing in the sky) + flower (given off blooms, petals everywhere) = Sunflower"
-
+  - number: 1
+    initials: S
+    clue: Right, some fella's gone and lit a piece of wood on fire and then surfed down a hill on it. Very dramatic. Neighbours weren't happy.
+    answer: Skateboard
+    aliases:
+    - skateboard
+    reasoning: skate (surfed/glided down the hill) + board (a flat piece of wood) = Skateboard
+  - number: 2
+    initials: B
+    clue: The bird's gone completely dark. Midnight black. Every feather. Sitting in a tree looking very moody about it.
+    answer: Blackbird
+    aliases:
+    - blackbird
+    reasoning: black (gone completely dark, midnight black) + bird (every feather, sitting in a tree) = Blackbird
+  - number: 3
+    initials: S
+    clue: That big yellow thing in the sky, right, it's gone and given off a load of little blooms. Petals everywhere up there.
+    answer: Sunflower
+    aliases:
+    - sunflower
+    reasoning: sun (the big yellow thing in the sky) + flower (given off blooms, petals everywhere) = Sunflower
 - id: wordbusters-011
   enabled: true
   title: Wordbusters
@@ -363,33 +353,32 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Second half of Wordbusters. Three phonetic compound words. Say each clue out loud. That's where the answer is."
-  prize: "Email in. Winner gets a 2006 desk diary and a pair of socks from a secret Santa."
+  - UK
+  - US
+  intro: Second half of Wordbusters. Three phonetic compound words. Say each clue out loud. That's where the answer is.
+  prize: Email in. Winner gets a 2006 desk diary and a pair of socks from a secret Santa.
   clues:
-    - number: 1
-      initials: T
-      clue: "Right, the rumbling in the sky's gone and moved indoors. Just doing it in the living room now. Rattling the ornaments."
-      answer: Thunderstorm
-      aliases:
-        - thunderstorm
-      reasoning: "thunder (the rumbling, rattling the ornaments) + storm (moved indoors, gone wild) = Thunderstorm"
-    - number: 2
-      initials: W
-      clue: "That flat liquid's gone and tripped over. Down the hill, fast. Made a right noise about it."
-      answer: Waterfall
-      aliases:
-        - waterfall
-      reasoning: "water (flat liquid) + fall (tripped over, going down fast) = Waterfall"
-    - number: 3
-      initials: G
-      clue: "Someone's built a little building and painted it entirely green. For plants. They seem happy in there."
-      answer: Greenhouse
-      aliases:
-        - greenhouse
-      reasoning: "green (painted entirely green) + house (a little building for plants) = Greenhouse"
-
+  - number: 1
+    initials: T
+    clue: Right, the rumbling in the sky's gone and moved indoors. Just doing it in the living room now. Rattling the ornaments.
+    answer: Thunderstorm
+    aliases:
+    - thunderstorm
+    reasoning: thunder (the rumbling, rattling the ornaments) + storm (moved indoors, gone wild) = Thunderstorm
+  - number: 2
+    initials: W
+    clue: That flat liquid's gone and tripped over. Down the hill, fast. Made a right noise about it.
+    answer: Waterfall
+    aliases:
+    - waterfall
+    reasoning: water (flat liquid) + fall (tripped over, going down fast) = Waterfall
+  - number: 3
+    initials: G
+    clue: Someone's built a little building and painted it entirely green. For plants. They seem happy in there.
+    answer: Greenhouse
+    aliases:
+    - greenhouse
+    reasoning: green (painted entirely green) + house (a little building for plants) = Greenhouse
 - id: wordbusters-012
   enabled: true
   title: Wordbusters
@@ -397,33 +386,32 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Wordbusters twelve. Keep going. Three more compound word phonetic clues."
-  prize: "Email in. Winner gets a branded keyring from a letting agent and a slightly soft apple."
+  - UK
+  - US
+  intro: Wordbusters. Three more compound word phonetic clues. Say them out loud.
+  prize: Email in. Winner gets a branded keyring from a letting agent and a slightly soft apple.
   clues:
-    - number: 1
-      initials: F
-      clue: "The whole shoe's left a mark on the ground. Pressed right down, walked away, and there it is. Evidence."
-      answer: Footprint
-      aliases:
-        - footprint
-      reasoning: "foot (the shoe, the bottom of the leg) + print (left a mark, pressed down on paper or ground) = Footprint"
-    - number: 2
-      initials: N
-      clue: "Right, they've written down a single sound, one musical tone, and it's filled up a whole volume. Very wordy note."
-      answer: Notebook
-      aliases:
-        - notebook
-      reasoning: "note (a single musical tone written down) + book (filled up a whole volume) = Notebook"
-    - number: 3
-      initials: C
-      clue: "The yellow grain's gone crumbly. Little bits of it all over the place. Someone should sweep up."
-      answer: Cornflakes
-      aliases:
-        - cornflakes
-      reasoning: "corn (yellow grain) + flakes (gone crumbly, little bits everywhere) = Cornflakes"
-
+  - number: 1
+    initials: F
+    clue: The whole shoe's left a mark on the ground. Pressed right down, walked away, and there it is. Evidence.
+    answer: Footprint
+    aliases:
+    - footprint
+    reasoning: foot (the shoe, the bottom of the leg) + print (left a mark, pressed down on paper or ground) = Footprint
+  - number: 2
+    initials: N
+    clue: Right, they've written down a single sound, one musical tone, and it's filled up a whole volume. Very wordy note.
+    answer: Notebook
+    aliases:
+    - notebook
+    reasoning: note (a single musical tone written down) + book (filled up a whole volume) = Notebook
+  - number: 3
+    initials: C
+    clue: The yellow grain's gone crumbly. Little bits of it all over the place. Someone should sweep up.
+    answer: Cornflakes
+    aliases:
+    - cornflakes
+    reasoning: corn (yellow grain) + flakes (gone crumbly, little bits everywhere) = Cornflakes
 - id: wordbusters-013
   enabled: true
   title: Wordbusters
@@ -431,33 +419,32 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Right, Wordbusters thirteen. Still compound words, still phonetic. You know the deal."
-  prize: "Email in. Winner gets a loyalty card with one stamp on it and a biscuit tin with no biscuits."
+  - UK
+  - US
+  intro: Right, Wordbusters thirteen. Still compound words, still phonetic. You know the deal.
+  prize: Email in. Winner gets a loyalty card with one stamp on it and a biscuit tin with no biscuits.
   clues:
-    - number: 1
-      initials: W
-      clue: "They've gone and hung a load of printed sheets all round the room. Big pattern on them. Flowers or something. Everywhere."
-      answer: Wallpaper
-      aliases:
-        - wallpaper
-      reasoning: "wall (all round the room, covering the walls) + paper (printed sheets, newspaper type material) = Wallpaper"
-    - number: 2
-      initials: T
-      clue: "Right, the thing in your gob you use for biting has gone and stuck itself to everything. Paste. Sticky. Won't stop."
-      answer: Toothpaste
-      aliases:
-        - toothpaste
-      reasoning: "tooth (the thing in your gob for biting) + paste (stuck to everything, sticky paste) = Toothpaste"
-    - number: 3
-      initials: W
-      clue: "The air outside, the moving kind, has decided it needs a glass panel in front of it. Just put one up. There it is."
-      answer: Windscreen
-      aliases:
-        - windscreen
-      reasoning: "wind (the moving air outside) + screen (a glass panel, a screen) = Windscreen"
-
+  - number: 1
+    initials: W
+    clue: They've gone and hung a load of printed sheets all round the room. Big pattern on them. Flowers or something. Everywhere.
+    answer: Wallpaper
+    aliases:
+    - wallpaper
+    reasoning: wall (all round the room, covering the walls) + paper (printed sheets, newspaper type material) = Wallpaper
+  - number: 2
+    initials: T
+    clue: Right, the thing in your gob you use for biting has gone and stuck itself to everything. Paste. Sticky. Won't stop.
+    answer: Toothpaste
+    aliases:
+    - toothpaste
+    reasoning: tooth (the thing in your gob for biting) + paste (stuck to everything, sticky paste) = Toothpaste
+  - number: 3
+    initials: W
+    clue: The air outside, the moving kind, has decided it needs a glass panel in front of it. Just put one up. There it is.
+    answer: Windscreen
+    aliases:
+    - windscreen
+    reasoning: wind (the moving air outside) + screen (a glass panel, a screen) = Windscreen
 - id: wordbusters-014
   enabled: true
   title: Wordbusters
@@ -465,33 +452,32 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Wordbusters fourteen. Getting near the end now. Three phonetic compound words. Say them out loud."
-  prize: "Email in. Winner gets a half-finished tube of hand cream and a foreign coin of unknown value."
+  - UK
+  - US
+  intro: Wordbusters fourteen. Getting near the end now. Three phonetic compound words. Say them out loud.
+  prize: Email in. Winner gets a half-finished tube of hand cream and a foreign coin of unknown value.
   clues:
-    - number: 1
-      initials: C
-      clue: "That big round cob of yellow stuff, the one with all the kernels on. It's gone and spun a sticky net."
-      answer: Cobweb
-      aliases:
-        - cobweb
-      reasoning: "cob (a corn cob, big round yellow thing with kernels) + web (spun a sticky net, like a spider's web) = Cobweb"
-    - number: 2
-      initials: E
-      clue: "Right, that little drum's been strapped to the side of your head. Permanent. You can't get it off. It hears things now."
-      answer: Eardrum
-      aliases:
-        - eardrum
-      reasoning: "ear (the side of your head, you hear with it) + drum (a little drum, strapped on) = Eardrum"
-    - number: 3
-      initials: D
-      clue: "All the grey powder and fluff from the carpet's decided to put itself in the big container outside. Very tidy."
-      answer: Dustbin
-      aliases:
-        - dustbin
-      reasoning: "dust (grey powder and fluff from the carpet) + bin (the big container outside) = Dustbin"
-
+  - number: 1
+    initials: C
+    clue: That big round cob of yellow stuff, the one with all the kernels on. It's gone and spun a sticky net.
+    answer: Cobweb
+    aliases:
+    - cobweb
+    reasoning: cob (a corn cob, big round yellow thing with kernels) + web (spun a sticky net, like a spider's web) = Cobweb
+  - number: 2
+    initials: E
+    clue: Right, that little drum's been strapped to the side of your head. Permanent. You can't get it off. It hears things now.
+    answer: Eardrum
+    aliases:
+    - eardrum
+    reasoning: ear (the side of your head, you hear with it) + drum (a little drum, strapped on) = Eardrum
+  - number: 3
+    initials: D
+    clue: All the grey powder and fluff from the carpet's decided to put itself in the big container outside. Very tidy.
+    answer: Dustbin
+    aliases:
+    - dustbin
+    reasoning: dust (grey powder and fluff from the carpet) + bin (the big container outside) = Dustbin
 - id: wordbusters-015
   enabled: true
   title: Wordbusters
@@ -499,33 +485,32 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Fifteen sets of Wordbusters. Still compound words. Still phonetic. Alright."
-  prize: "Email in. Winner gets a cracked phone case and a bus pass that expired in 2011."
+  - UK
+  - US
+  intro: Fifteen sets of Wordbusters. Still compound words. Still phonetic. Alright.
+  prize: Email in. Winner gets a cracked phone case and a bus pass that expired in 2011.
   clues:
-    - number: 1
-      initials: H
-      clue: "That thing at the end of your arm. Right, they've gone and sewn it onto a carrier. Handles on it. You take it shopping."
-      answer: Handbag
-      aliases:
-        - handbag
-      reasoning: "hand (the thing at the end of your arm) + bag (sewn onto a carrier, handles, you take it shopping) = Handbag"
-    - number: 2
-      initials: T
-      clue: "Right, the brew, your cuppa, has got a little scooping device. Sitting in the saucer. Very well-equipped drink."
-      answer: Teaspoon
-      aliases:
-        - teaspoon
-      reasoning: "tea (the brew, your cuppa) + spoon (a little scooping device in the saucer) = Teaspoon"
-    - number: 3
-      initials: T
-      clue: "The flat thing in the middle of the dining room's dressed itself in a big white sheet. Right across the top. Very formal."
-      answer: Tablecloth
-      aliases:
-        - tablecloth
-      reasoning: "table (the flat thing in the middle of the dining room) + cloth (dressed in a big white sheet, a cloth) = Tablecloth"
-
+  - number: 1
+    initials: H
+    clue: That thing at the end of your arm. Right, they've gone and sewn it onto a carrier. Handles on it. You take it shopping.
+    answer: Handbag
+    aliases:
+    - handbag
+    reasoning: hand (the thing at the end of your arm) + bag (sewn onto a carrier, handles, you take it shopping) = Handbag
+  - number: 2
+    initials: T
+    clue: Right, the brew, your cuppa, has got a little scooping device. Sitting in the saucer. Very well-equipped drink.
+    answer: Teaspoon
+    aliases:
+    - teaspoon
+    reasoning: tea (the brew, your cuppa) + spoon (a little scooping device in the saucer) = Teaspoon
+  - number: 3
+    initials: T
+    clue: The flat thing in the middle of the dining room's dressed itself in a big white sheet. Right across the top. Very formal.
+    answer: Tablecloth
+    aliases:
+    - tablecloth
+    reasoning: table (the flat thing in the middle of the dining room) + cloth (dressed in a big white sheet, a cloth) = Tablecloth
 - id: wordbusters-016
   enabled: true
   title: Wordbusters
@@ -533,33 +518,32 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Wordbusters sixteen. Nearly there now. Three more phonetic compound word clues."
-  prize: "Email in. Winner gets a miniature golf pencil and a packet of sugar from a hotel."
+  - UK
+  - US
+  intro: Wordbusters. Three more phonetic compound word clues. Say them out loud.
+  prize: Email in. Winner gets a miniature golf pencil and a packet of sugar from a hotel.
   clues:
-    - number: 1
-      initials: C
-      clue: "Right, the puzzle with all the squares, the one everyone does on the train. The words go across and down and everyone pretends they're clever."
-      answer: Crossword
-      aliases:
-        - crossword
-      reasoning: "cross (the squares go across, and the grid shape crosses over) + word (the words you fill in) = Crossword"
-    - number: 2
-      initials: L
-      clue: "That bloke stood by the pool on a tall chair. Not swimming. Just watching. Keeping everyone safe with his eyes."
-      answer: Lifeguard
-      aliases:
-        - lifeguard
-      reasoning: "life (keeping everyone safe, guarding their lives) + guard (standing watch, a guard on a tall chair) = Lifeguard"
-    - number: 3
-      initials: B
-      clue: "The butterfly has shed all its colour. Gone completely jet black. Still flying about. Very gothic."
-      answer: Blackbird
-      aliases:
-        - blackbird
-      reasoning: "black (shed all colour, jet black) + bird (still flying about, a bird) = Blackbird"
-
+  - number: 1
+    initials: C
+    clue: Right, the puzzle with all the squares, the one everyone does on the train. The words go across and down and everyone pretends they're clever.
+    answer: Crossword
+    aliases:
+    - crossword
+    reasoning: cross (the squares go across, and the grid shape crosses over) + word (the words you fill in) = Crossword
+  - number: 2
+    initials: L
+    clue: That bloke stood by the pool on a tall chair. Not swimming. Just watching. Keeping everyone safe with his eyes.
+    answer: Lifeguard
+    aliases:
+    - lifeguard
+    reasoning: life (keeping everyone safe, guarding their lives) + guard (standing watch, a guard on a tall chair) = Lifeguard
+  - number: 3
+    initials: B
+    clue: The butterfly has shed all its colour. Gone completely jet black. Still flying about. Very gothic.
+    answer: Blackbird
+    aliases:
+    - blackbird
+    reasoning: black (shed all colour, jet black) + bird (still flying about, a bird) = Blackbird
 - id: wordbusters-017
   enabled: true
   title: Wordbusters
@@ -567,33 +551,32 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Wordbusters seventeen. Three more. Say the clue out loud, work out the two halves."
-  prize: "Email in. Winner gets a snow globe with a broken mechanism and a scented candle, unlit."
+  - UK
+  - US
+  intro: Wordbusters seventeen. Three more. Say the clue out loud, work out the two halves.
+  prize: Email in. Winner gets a snow globe with a broken mechanism and a scented candle, unlit.
   clues:
-    - number: 1
-      initials: B
-      clue: "Right, the margarine's sprouted wings. Just taken off from the kitchen counter. Gone out the window. That's put a dampener on breakfast."
-      answer: Butterfly
-      aliases:
-        - butterfly
-      reasoning: "butter (the margarine, the spread) + fly (sprouted wings, taken off, gone out the window) = Butterfly"
-    - number: 2
-      initials: B
-      clue: "That flower, right, the one that grows in the woods in spring. It's gone bright sky blue. And it's ringing."
-      answer: Bluebell
-      aliases:
-        - bluebell
-      reasoning: "blue (bright sky blue) + bell (it's ringing, the bell shape of the flower) = Bluebell"
-    - number: 3
-      initials: S
-      clue: "Someone's gone and put everything they own in a single box and clicked it shut. They're off somewhere. Not sure where."
-      answer: Suitcase
-      aliases:
-        - suitcase
-      reasoning: "suit (everything they own, their whole suit of belongings) + case (a single box, clicked shut) = Suitcase"
-
+  - number: 1
+    initials: B
+    clue: Right, the margarine's sprouted wings. Just taken off from the kitchen counter. Gone out the window. That's put a dampener on breakfast.
+    answer: Butterfly
+    aliases:
+    - butterfly
+    reasoning: butter (the margarine, the spread) + fly (sprouted wings, taken off, gone out the window) = Butterfly
+  - number: 2
+    initials: B
+    clue: That flower, right, the one that grows in the woods in spring. It's gone bright sky blue. And it's ringing.
+    answer: Bluebell
+    aliases:
+    - bluebell
+    reasoning: blue (bright sky blue) + bell (it's ringing, the bell shape of the flower) = Bluebell
+  - number: 3
+    initials: S
+    clue: Someone's gone and put everything they own in a single box and clicked it shut. They're off somewhere. Not sure where.
+    answer: Suitcase
+    aliases:
+    - suitcase
+    reasoning: suit (everything they own, their whole suit of belongings) + case (a single box, clicked shut) = Suitcase
 - id: wordbusters-018
   enabled: true
   title: Wordbusters
@@ -601,33 +584,32 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Alright, Wordbusters eighteen. Almost done. Three phonetic compound word clues."
-  prize: "Email in. Winner gets a travel sewing kit from a Travelodge and a chocolate finger, just the one."
+  - UK
+  - US
+  intro: Alright, Wordbusters eighteen. Almost done. Three phonetic compound word clues.
+  prize: Email in. Winner gets a travel sewing kit from a Travelodge and a chocolate finger, just the one.
   clues:
-    - number: 1
-      initials: S
-      clue: "Right, they've bolted a flat piece of wood to some wheels and they're rolling about the car park on it. Very pleased with themselves."
-      answer: Skateboard
-      aliases:
-        - skateboard
-      reasoning: "skate (rolling on wheels, gliding about) + board (a flat piece of wood with wheels bolted on) = Skateboard"
-    - number: 2
-      initials: C
-      clue: "The mechanism inside the clock has been told it's got a shift to do. Cogs turning, wheels spinning. Repetitive work. It doesn't mind."
-      answer: Clockwork
-      aliases:
-        - clockwork
-      reasoning: "clock (the mechanism inside the clock, the cogs and wheels) + work (it's got a shift to do, repetitive work) = Clockwork"
-    - number: 3
-      initials: D
-      clue: "That big entrance with the letterbox. Someone's stood right on the step in front of it. Won't move. Just standing there."
-      answer: Doorstep
-      aliases:
-        - doorstep
-      reasoning: "door (the big entrance with the letterbox) + step (someone stood right on the step) = Doorstep"
-
+  - number: 1
+    initials: S
+    clue: Right, they've bolted a flat piece of wood to some wheels and they're rolling about the car park on it. Very pleased with themselves.
+    answer: Skateboard
+    aliases:
+    - skateboard
+    reasoning: skate (rolling on wheels, gliding about) + board (a flat piece of wood with wheels bolted on) = Skateboard
+  - number: 2
+    initials: C
+    clue: The mechanism inside the clock has been told it's got a shift to do. Cogs turning, wheels spinning. Repetitive work. It doesn't mind.
+    answer: Clockwork
+    aliases:
+    - clockwork
+    reasoning: clock (the mechanism inside the clock, the cogs and wheels) + work (it's got a shift to do, repetitive work) = Clockwork
+  - number: 3
+    initials: D
+    clue: That big entrance with the letterbox. Someone's stood right on the step in front of it. Won't move. Just standing there.
+    answer: Doorstep
+    aliases:
+    - doorstep
+    reasoning: door (the big entrance with the letterbox) + step (someone stood right on the step) = Doorstep
 - id: wordbusters-019
   enabled: true
   title: Wordbusters
@@ -635,33 +617,32 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Wordbusters nineteen. Penultimate set. You know these. Compound words, phonetic clues."
-  prize: "Email in. Winner gets a garden centre voucher and a novelty mug shaped like a teapot."
+  - UK
+  - US
+  intro: Wordbusters. Compound words in phonetic clues. Say them out loud.
+  prize: Email in. Winner gets a garden centre voucher and a novelty mug shaped like a teapot.
   clues:
-    - number: 1
-      initials: F
-      clue: "The flames have clocked in. They've got a badge, they're at the depot, they're doing the job. Very committed fire."
-      answer: Fireworks
-      aliases:
-        - fireworks
-      reasoning: "fire (the flames) + works (clocked in, got a badge, doing the job) = Fireworks"
-    - number: 2
-      initials: E
-      clue: "Right, that bendy bit in the middle of your arm. It's gone and bought itself a little bow and arrow. Fits in quite well actually."
-      answer: Elbow
-      aliases:
-        - elbow
-      reasoning: "el (sounds like 'ell', at the joint where the arm bends) + bow (a bow and arrow, or the bowing shape of the bent arm) = Elbow"
-    - number: 3
-      initials: C
-      clue: "That whole tangle of sticky string in the garden corner. The spider made it over a round-shaped thing."
-      answer: Cobweb
-      aliases:
-        - cobweb
-      reasoning: "cob (round-shaped thing, like a corn cob) + web (sticky string, the spider's net) = Cobweb"
-
+  - number: 1
+    initials: F
+    clue: The flames have clocked in. They've got a badge, they're at the depot, they're doing the job. Very committed fire.
+    answer: Fireworks
+    aliases:
+    - fireworks
+    reasoning: fire (the flames) + works (clocked in, got a badge, doing the job) = Fireworks
+  - number: 2
+    initials: E
+    clue: Right, that bendy bit in the middle of your arm. It's gone and bought itself a little bow and arrow. Fits in quite well actually.
+    answer: Elbow
+    aliases:
+    - elbow
+    reasoning: el (sounds like 'ell', at the joint where the arm bends) + bow (a bow and arrow, or the bowing shape of the bent arm) = Elbow
+  - number: 3
+    initials: C
+    clue: That whole tangle of sticky string in the garden corner. The spider made it over a round-shaped thing.
+    answer: Cobweb
+    aliases:
+    - cobweb
+    reasoning: cob (round-shaped thing, like a corn cob) + web (sticky string, the spider's net) = Cobweb
 - id: wordbusters-020
   enabled: true
   title: Wordbusters
@@ -669,29 +650,29 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Last one. Wordbusters twenty. Final three compound word phonetic clues. Near enough."
-  prize: "Email in. Winner gets a tin of Quality Street with only the green triangles left in it."
+  - UK
+  - US
+  intro: Wordbusters. Three compound word phonetic clues. Near enough.
+  prize: Email in. Winner gets a tin of Quality Street with only the green triangles left in it.
   clues:
-    - number: 1
-      initials: W
-      clue: "Right, the walls in here are covered in some printed material. Flowers and stripes. Someone put it up in 1987 and nobody's touched it since."
-      answer: Wallpaper
-      aliases:
-        - wallpaper
-      reasoning: "wall (the walls in here) + paper (printed material, flowers and stripes, wallpaper) = Wallpaper"
-    - number: 2
-      initials: T
-      clue: "Someone's squeezed out a load of thick white paste right onto the thing in their mouth they chew with. Bit much."
-      answer: Toothpaste
-      aliases:
-        - toothpaste
-      reasoning: "tooth (the thing in your mouth you chew with) + paste (thick white paste squeezed onto it) = Toothpaste"
-    - number: 3
-      initials: S
-      clue: "The dairy spread has gone and taken flight. Out the window, into the garden, won't come back. It was needed for toast."
-      answer: Butterfly
-      aliases:
-        - butterfly
-      reasoning: "butter (the dairy spread, needed for toast) + fly (taken flight, out the window) = Butterfly"
+  - number: 1
+    initials: W
+    clue: Right, the walls in here are covered in some printed material. Flowers and stripes. Someone put it up in 1987 and nobody's touched it since.
+    answer: Wallpaper
+    aliases:
+    - wallpaper
+    reasoning: wall (the walls in here) + paper (printed material, flowers and stripes, wallpaper) = Wallpaper
+  - number: 2
+    initials: T
+    clue: Someone's squeezed out a load of thick white paste right onto the thing in their mouth they chew with. Bit much.
+    answer: Toothpaste
+    aliases:
+    - toothpaste
+    reasoning: tooth (the thing in your mouth you chew with) + paste (thick white paste squeezed onto it) = Toothpaste
+  - number: 3
+    initials: S
+    clue: The dairy spread has gone and taken flight. Out the window, into the garden, won't come back. It was needed for toast.
+    answer: Butterfly
+    aliases:
+    - butterfly
+    reasoning: butter (the dairy spread, needed for toast) + fly (taken flight, out the window) = Butterfly

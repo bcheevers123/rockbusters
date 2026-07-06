@@ -5,32 +5,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Right, Mediabusters. Three British media outlets, all scrambled up phonetically. Say them out loud, near enough."
-  prize: "Email in. Winner gets a stack of old TV Guides and a mug from a petrol station."
+  - UK
+  intro: Right, Mediabusters. Three British media outlets, all scrambled up phonetically. Say them out loud, near enough.
+  prize: Email in. Winner gets a stack of old TV Guides and a mug from a petrol station.
   clues:
-    - number: 1
-      initials: T S
-      clue: "Right, that big ball of fire up in the sky. You know the one. That's it."
-      answer: The Sun
-      aliases:
-        - the sun
-      reasoning: "The + Sun = The Sun. 'The' sounds like 'the', 'Sun' sounds like 'sun' (the star). Silly scene: just pointing at the actual sun."
-    - number: 2
-      initials: T M
-      clue: "Someone's put a reflection of your face at the bottom of a lake. Bit odd really."
-      answer: The Mirror
-      aliases:
-        - the mirror
-      reasoning: "The + Mirror = The Mirror. Mirror sounds like a reflective surface. Scene: a mirror image in water."
-    - number: 3
-      initials: H M
-      clue: "That woman's gone and shouted 'oi' across the room, and she's done it with some warmth. Alright?"
-      answer: Heat Magazine
-      aliases:
-        - heat magazine
-      reasoning: "Heat + Mag-a-zine. Heat sounds like warmth, mag sounds like 'mag' (short shout). Scene: warm shout across a room."
-
+  - number: 1
+    initials: T S
+    clue: Right, that big ball of fire up in the sky. You know the one. That's it.
+    answer: The Sun
+    aliases:
+    - the sun
+    reasoning: 'The + Sun = The Sun. ''The'' sounds like ''the'', ''Sun'' sounds like ''sun'' (the star). Silly scene: just pointing at the actual sun.'
+  - number: 2
+    initials: T M
+    clue: Someone's put a reflection of your face at the bottom of a lake. Bit odd really.
+    answer: The Mirror
+    aliases:
+    - the mirror
+    reasoning: 'The + Mirror = The Mirror. Mirror sounds like a reflective surface. Scene: a mirror image in water.'
+  - number: 3
+    initials: H M
+    clue: That woman's gone and shouted 'oi' across the room, and she's done it with some warmth. Alright?
+    answer: Heat Magazine
+    aliases:
+    - heat magazine
+    reasoning: 'Heat + Mag-a-zine. Heat sounds like warmth, mag sounds like ''mag'' (short shout). Scene: warm shout across a room.'
 - id: mediabusters-002
   enabled: true
   title: Mediabusters
@@ -38,32 +37,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Mediabusters again. Three more. Say them out loud and you'll get there. Probably."
-  prize: "Email in. Winner gets an AOL trial disc and a Radio Times from 2003."
+  - UK
+  intro: Mediabusters again. Three more. Say them out loud and you'll get there. Probably.
+  prize: Email in. Winner gets an AOL trial disc and a Radio Times from 2003.
   clues:
-    - number: 1
-      initials: T G
-      clue: "That bloke Ian's got someone watching over him. Keeping him safe and that."
-      answer: The Guardian
-      aliases:
-        - the guardian
-      reasoning: "The + Guard + Ian = The Guardian. 'The guard Ian' said fast = The Guardian. Scene: someone called Ian being guarded."
-    - number: 2
-      initials: I T V
-      clue: "Me and that telly over there. We've had a good long look at each other. Say it out loud."
-      answer: ITV
-      aliases:
-        - itv
-      reasoning: "I + T + V = ITV. 'I' (me) + 'T' (tea) + 'V' (vee/see). Actually, I-T-V said as letters. Scene: 'I' see a 'TV'. I-TV."
-    - number: 3
-      initials: T T
-      clue: "Someone's gone and printed the times of all the telly programmes in a little book. Useful that."
-      answer: TV Times
-      aliases:
-        - tv times
-      reasoning: "T-V + Times = TV Times. Tee-Vee + Times. Scene: a printed schedule of television programmes, a telly timetable."
-
+  - number: 1
+    initials: T G
+    clue: That bloke Ian's got someone watching over him. Keeping him safe and that.
+    answer: The Guardian
+    aliases:
+    - the guardian
+    reasoning: 'The + Guard + Ian = The Guardian. ''The guard Ian'' said fast = The Guardian. Scene: someone called Ian being guarded.'
+  - number: 2
+    initials: I T V
+    clue: Me and that telly over there. We've had a good long look at each other. Say it out loud.
+    answer: ITV
+    aliases:
+    - itv
+    reasoning: 'I + T + V = ITV. ''I'' (me) + ''T'' (tea) + ''V'' (vee/see). Actually, I-T-V said as letters. Scene: ''I'' see a ''TV''. I-TV.'
+  - number: 3
+    initials: T T
+    clue: Someone's gone and printed the times of all the telly programmes in a little book. Useful that.
+    answer: TV Times
+    aliases:
+    - tv times
+    reasoning: 'T-V + Times = TV Times. Tee-Vee + Times. Scene: a printed schedule of television programmes, a telly timetable.'
 - id: mediabusters-003
   enabled: true
   title: Mediabusters
@@ -71,32 +69,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Three more British media names, all done phonetically. Easy enough if you say them out loud."
-  prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 58 cassette."
+  - UK
+  intro: Three more British media names, all done phonetically. Easy enough if you say them out loud.
+  prize: Email in. Winner gets a Blockbuster loyalty card and a Now 58 cassette.
   clues:
-    - number: 1
-      initials: B O
-      clue: "British Broadcasting, first one they made. The original, like. That's all."
-      answer: BBC One
-      aliases:
-        - bbc one
-      reasoning: "B-B-C + One = BBC One. Bee-Bee-See + Won/One. Scene: the original BBC channel, the first one they ever did."
-    - number: 2
-      initials: C F M
-      clue: "The capital of somewhere rang up and the connection was brilliant. Very clear."
-      answer: Capital FM
-      aliases:
-        - capital fm
-      reasoning: "Capital + FM = Capital FM. 'Capital' (main city) + FM (radio frequency). Scene: a capital city phoning in on a crystal clear FM signal."
-    - number: 3
-      initials: T E
-      clue: "Right, someone's got a very strong opinion and they've put it in print. Strongly worded, like."
-      answer: The Express
-      aliases:
-        - the express
-      reasoning: "The + Express = The Express. 'Express' means to say something strongly. Scene: strongly expressing views in a newspaper."
-
+  - number: 1
+    initials: B O
+    clue: British Broadcasting, first one they made. The original, like. That's all.
+    answer: BBC One
+    aliases:
+    - bbc one
+    reasoning: 'B-B-C + One = BBC One. Bee-Bee-See + Won/One. Scene: the original BBC channel, the first one they ever did.'
+  - number: 2
+    initials: C F M
+    clue: The capital of somewhere rang up and the connection was brilliant. Very clear.
+    answer: Capital FM
+    aliases:
+    - capital fm
+    reasoning: 'Capital + FM = Capital FM. ''Capital'' (main city) + FM (radio frequency). Scene: a capital city phoning in on a crystal clear FM signal.'
+  - number: 3
+    initials: T E
+    clue: Right, someone's got a very strong opinion and they've put it in print. Strongly worded, like.
+    answer: The Express
+    aliases:
+    - the express
+    reasoning: 'The + Express = The Express. ''Express'' means to say something strongly. Scene: strongly expressing views in a newspaper.'
 - id: mediabusters-004
   enabled: true
   title: Mediabusters
@@ -104,32 +101,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Right, Mediabusters round four. Three phonetic puzzles. British media. Off you go."
-  prize: "Email in. Winner gets a printed photo from a disposable camera and a fridge magnet of a dog."
+  - UK
+  intro: Right, Mediabusters round four. Three phonetic puzzles. British media. Off you go.
+  prize: Email in. Winner gets a printed photo from a disposable camera and a fridge magnet of a dog.
   clues:
-    - number: 1
-      initials: C 4
-      clue: "That bloke's counting. He's got to four. Stopped there for some reason."
-      answer: Channel 4
-      aliases:
-        - channel 4
-      reasoning: "Channel + Four = Channel 4. 'Chan-nel' sounds like a waterway/passage, 'four' is the number 4. Scene: someone counting a channel up to four."
-    - number: 2
-      initials: D M
-      clue: "Every single day without fail, that fella sends letters out. Rain or shine. Dedicated."
-      answer: Daily Mail
-      aliases:
-        - daily mail
-      reasoning: "Daily + Mail = Daily Mail. 'Daily' (every day) + 'Mail' (post). Scene: daily postal delivery, simple as that."
-    - number: 3
-      initials: O K
-      clue: "Someone asked if everything was fine, and yeah, it was. All good. Sort of works."
-      answer: OK Magazine
-      aliases:
-        - ok magazine
-      reasoning: "OK + Magazine = OK Magazine. 'OK' is an expression of agreement. Scene: responding that things are fine, 'OK', then grabbing a magazine."
-
+  - number: 1
+    initials: C 4
+    clue: That bloke's counting. He's got to four. Stopped there for some reason.
+    answer: Channel 4
+    aliases:
+    - channel 4
+    reasoning: 'Channel + Four = Channel 4. ''Chan-nel'' sounds like a waterway/passage, ''four'' is the number 4. Scene: someone counting a channel up to four.'
+  - number: 2
+    initials: D M
+    clue: Every single day without fail, that fella sends letters out. Rain or shine. Dedicated.
+    answer: Daily Mail
+    aliases:
+    - daily mail
+    reasoning: 'Daily + Mail = Daily Mail. ''Daily'' (every day) + ''Mail'' (post). Scene: daily postal delivery, simple as that.'
+  - number: 3
+    initials: O K
+    clue: Someone asked if everything was fine, and yeah, it was. All good. Sort of works.
+    answer: OK Magazine
+    aliases:
+    - ok magazine
+    reasoning: 'OK + Magazine = OK Magazine. ''OK'' is an expression of agreement. Scene: responding that things are fine, ''OK'', then grabbing a magazine.'
 - id: mediabusters-005
   enabled: true
   title: Mediabusters
@@ -137,32 +133,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Mediabusters five. Say the clues out loud. The answers are in the sounds, not the words."
-  prize: "Email in. Winner gets a signed letter from someone off Hollyoaks, possibly."
+  - UK
+  intro: Mediabusters five. Say the clues out loud. The answers are in the sounds, not the words.
+  prize: Email in. Winner gets a signed letter from someone off Hollyoaks, possibly.
   clues:
-    - number: 1
-      initials: T I
-      clue: "That news outlet decided to stand alone. Didn't want to be tied to anyone. Off on its own."
-      answer: The Independent
-      aliases:
-        - the independent
-      reasoning: "The + Independent = The Independent. 'Independent' means standing alone, not relying on others. Scene: a newspaper going it alone, independent from influence."
-    - number: 2
-      initials: R T
-      clue: "They've written down when all the programmes on the wireless are on. Helpful little booklet."
-      answer: Radio Times
-      aliases:
-        - radio times
-      reasoning: "Radio + Times = Radio Times. 'Radio' (wireless broadcasting) + 'Times' (schedule/timetable). Scene: a published guide to radio programme schedules."
-    - number: 3
-      initials: G
-      clue: "That channel's got everything from the old days on it. Pure gold, the lot of it. That's all."
-      answer: Gold
-      aliases:
-        - gold
-      reasoning: "Gold = Gold (TV channel). 'Gold' sounds like gold, precious, classic, old. Scene: a TV channel full of classic programmes described as gold."
-
+  - number: 1
+    initials: T I
+    clue: That news outlet decided to stand alone. Didn't want to be tied to anyone. Off on its own.
+    answer: The Independent
+    aliases:
+    - the independent
+    reasoning: 'The + Independent = The Independent. ''Independent'' means standing alone, not relying on others. Scene: a newspaper going it alone, independent from influence.'
+  - number: 2
+    initials: R T
+    clue: They've written down when all the programmes on the wireless are on. Helpful little booklet.
+    answer: Radio Times
+    aliases:
+    - radio times
+    reasoning: 'Radio + Times = Radio Times. ''Radio'' (wireless broadcasting) + ''Times'' (schedule/timetable). Scene: a published guide to radio programme schedules.'
+  - number: 3
+    initials: G
+    clue: That channel's got everything from the old days on it. Pure gold, the lot of it. That's all.
+    answer: Gold
+    aliases:
+    - gold
+    reasoning: 'Gold = Gold (TV channel). ''Gold'' sounds like gold, precious, classic, old. Scene: a TV channel full of classic programmes described as gold.'
 - id: mediabusters-006
   enabled: true
   title: Mediabusters
@@ -170,32 +165,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Three more scrambled British media names. Listen to the sounds. Easy one this, some of them."
-  prize: "Email in. Winner gets a Nokia charger that doesn't fit anything and a packet of Werther's Originals."
+  - UK
+  intro: Three more scrambled British media names. Listen to the sounds. Easy one this, some of them.
+  prize: Email in. Winner gets a Nokia charger that doesn't fit anything and a packet of Werther's Originals.
   clues:
-    - number: 1
-      initials: T T
-      clue: "Them times, right, they published them. In a proper newspaper. There they are."
-      answer: The Times
-      aliases:
-        - the times
-      reasoning: "The + Times = The Times. 'Times' sounds like occasions/schedule. Scene: a newspaper that reports the times of things, events, goings on."
-    - number: 2
-      initials: M F M
-      clue: "Some bloke did a conjuring trick, right, and it went brilliant. Very mysterious. On the radio."
-      answer: Magic FM
-      aliases:
-        - magic fm
-      reasoning: "Magic + FM = Magic FM. 'Magic' (like a conjuring trick) + FM (radio). Scene: a radio station themed around something magical."
-    - number: 3
-      initials: C 5
-      clue: "He counted to five this time. Went all the way. Committed to it."
-      answer: Channel 5
-      aliases:
-        - channel 5
-      reasoning: "Channel + Five = Channel 5. Same as Channel 4 but with five. Scene: counting all the way up to five on a waterway."
-
+  - number: 1
+    initials: T T
+    clue: Them times, right, they published them. In a proper newspaper. There they are.
+    answer: The Times
+    aliases:
+    - the times
+    reasoning: 'The + Times = The Times. ''Times'' sounds like occasions/schedule. Scene: a newspaper that reports the times of things, events, goings on.'
+  - number: 2
+    initials: M F M
+    clue: Some bloke did a conjuring trick, right, and it went brilliant. Very mysterious. On the radio.
+    answer: Magic FM
+    aliases:
+    - magic fm
+    reasoning: 'Magic + FM = Magic FM. ''Magic'' (like a conjuring trick) + FM (radio). Scene: a radio station themed around something magical.'
+  - number: 3
+    initials: C 5
+    clue: He counted to five this time. Went all the way. Committed to it.
+    answer: Channel 5
+    aliases:
+    - channel 5
+    reasoning: 'Channel + Five = Channel 5. Same as Channel 4 but with five. Scene: counting all the way up to five on a waterway.'
 - id: mediabusters-007
   enabled: true
   title: Mediabusters
@@ -203,32 +197,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Mediabusters seven. British telly, radio, and papers. Say it out loud, you'll hear it."
-  prize: "Email in. Winner gets a set of Encyclopaedia Britannica volumes, minus the J and R ones."
+  - UK
+  intro: Mediabusters seven. British telly, radio, and papers. Say it out loud, you'll hear it.
+  prize: Email in. Winner gets a set of Encyclopaedia Britannica volumes, minus the J and R ones.
   clues:
-    - number: 1
-      initials: H F M
-      clue: "That organ in your chest, it's going nicely. Really putting in the work. Pumping away on the FM."
-      answer: Heart FM
-      aliases:
-        - heart fm
-      reasoning: "Heart + FM = Heart FM. 'Heart' (the organ) + FM (radio frequency). Scene: a healthy beating heart on FM radio."
-    - number: 2
-      initials: T T
-      clue: "They'd sent the wire message, right, and it said to meet at the telegraph pole. Bit formal."
-      answer: The Telegraph
-      aliases:
-        - the telegraph
-      reasoning: "The + Telegraph = The Telegraph. 'Telegraph' (old messaging system using wires). Scene: a message sent by telegraph, old fashioned communication in print form."
-    - number: 3
-      initials: D
-      clue: "Right, that channel's full of blokes in sheds and stuff. Named after a proper ordinary fella. Sort of works."
-      answer: Dave
-      aliases:
-        - dave
-      reasoning: "Dave = Dave (TV channel). 'Dave' is a very ordinary bloke's name. Scene: a channel for regular fellas called Dave."
-
+  - number: 1
+    initials: H F M
+    clue: That organ in your chest, it's going nicely. Really putting in the work. Pumping away on the FM.
+    answer: Heart FM
+    aliases:
+    - heart fm
+    reasoning: 'Heart + FM = Heart FM. ''Heart'' (the organ) + FM (radio frequency). Scene: a healthy beating heart on FM radio.'
+  - number: 2
+    initials: T T
+    clue: They'd sent the wire message, right, and it said to meet at the telegraph pole. Bit formal.
+    answer: The Telegraph
+    aliases:
+    - the telegraph
+    reasoning: 'The + Telegraph = The Telegraph. ''Telegraph'' (old messaging system using wires). Scene: a message sent by telegraph, old fashioned communication in print form.'
+  - number: 3
+    initials: D
+    clue: Right, that channel's full of blokes in sheds and stuff. Named after a proper ordinary fella. Sort of works.
+    answer: Dave
+    aliases:
+    - dave
+    reasoning: 'Dave = Dave (TV channel). ''Dave'' is a very ordinary bloke''s name. Scene: a channel for regular fellas called Dave.'
 - id: mediabusters-008
   enabled: true
   title: Mediabusters
@@ -236,32 +229,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Right then, Mediabusters eight. Three phonetic clues. British media outlets hidden in silly sentences."
-  prize: "Email in. Winner gets a Woolworths carrier bag with a Pick 'n' Mix stain and a keyfob."
+  - UK
+  intro: Right then, Mediabusters eight. Three phonetic clues. British media outlets hidden in silly sentences.
+  prize: Email in. Winner gets a Woolworths carrier bag with a Pick 'n' Mix stain and a keyfob.
   clues:
-    - number: 1
-      initials: S O
-      clue: "That sky up there, right, the first thing you see when you look up. Number one sky thing."
-      answer: Sky One
-      aliases:
-        - sky one
-      reasoning: "Sky + One = Sky One. 'Sky' (what's up above) + 'One' (the first). Scene: looking up at the sky and it being the number one view."
-    - number: 2
-      initials: T A B
-      clue: "Right, she needed a little rest. So she took one. Just a small one mind. Brief stop."
-      answer: Take a Break
-      aliases:
-        - take a break
-      reasoning: "Take + a + Break = Take a Break. 'Take a break' is a common phrase meaning to have a rest. Scene: someone pausing for a small rest."
-    - number: 3
-      initials: C
-      clue: "She's got nearer to him than anyone expected. Didn't see that coming. Bit close that."
-      answer: Closer
-      aliases:
-        - closer
-      reasoning: "Closer = Closer (magazine). 'Closer' means nearer. Scene: someone getting unexpectedly close to another person."
-
+  - number: 1
+    initials: S O
+    clue: That sky up there, right, the first thing you see when you look up. Number one sky thing.
+    answer: Sky One
+    aliases:
+    - sky one
+    reasoning: 'Sky + One = Sky One. ''Sky'' (what''s up above) + ''One'' (the first). Scene: looking up at the sky and it being the number one view.'
+  - number: 2
+    initials: T A B
+    clue: Right, she needed a little rest. So she took one. Just a small one mind. Brief stop.
+    answer: Take a Break
+    aliases:
+    - take a break
+    reasoning: 'Take + a + Break = Take a Break. ''Take a break'' is a common phrase meaning to have a rest. Scene: someone pausing for a small rest.'
+  - number: 3
+    initials: C
+    clue: She's got nearer to him than anyone expected. Didn't see that coming. Bit close that.
+    answer: Closer
+    aliases:
+    - closer
+    reasoning: 'Closer = Closer (magazine). ''Closer'' means nearer. Scene: someone getting unexpectedly close to another person.'
 - id: mediabusters-009
   enabled: true
   title: Mediabusters
@@ -269,32 +261,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Nine sets in. Three more phonetic British media puzzles. You know the drill by now."
-  prize: "Email in. Winner gets a Jessops photo wallet with someone else's holiday snaps still in it."
+  - UK
+  intro: Nine sets in. Three more phonetic British media puzzles. You know the drill by now.
+  prize: Email in. Winner gets a Jessops photo wallet with someone else's holiday snaps still in it.
   clues:
-    - number: 1
-      initials: B B C R 2
-      clue: "The British broadcasting lot have done a second wireless programme. Made another one. That's all."
-      answer: BBC Radio 2
-      aliases:
-        - bbc radio 2
-      reasoning: "BBC + Radio + Two = BBC Radio 2. Bee-Bee-See + Radio (wireless) + Two (second one). Scene: the BBC making a second radio station."
-    - number: 2
-      initials: H M
-      clue: "They said hello to the important woman and put it all in a glossy booklet. Very respectful like."
-      answer: Hello Magazine
-      aliases:
-        - hello magazine
-      reasoning: "Hello + Magazine = Hello Magazine. 'Hello' (a greeting) + 'Magazine' (glossy booklet). Scene: greeting a celebrity and publishing it in a magazine."
-    - number: 3
-      initials: N O T W
-      clue: "That story broke on a Sunday. Very big news. The whole world heard about it that particular day of the week."
-      answer: News of the World
-      aliases:
-        - news of the world
-      reasoning: "News + of + the + World = News of the World. 'News' + 'of the World' (globally significant). Scene: worldwide news breaking on a Sunday paper."
-
+  - number: 1
+    initials: B B C R 2
+    clue: The British broadcasting lot have done a second wireless programme. Made another one. That's all.
+    answer: BBC Radio 2
+    aliases:
+    - bbc radio 2
+    reasoning: 'BBC + Radio + Two = BBC Radio 2. Bee-Bee-See + Radio (wireless) + Two (second one). Scene: the BBC making a second radio station.'
+  - number: 2
+    initials: H M
+    clue: They said hello to the important woman and put it all in a glossy booklet. Very respectful like.
+    answer: Hello Magazine
+    aliases:
+    - hello magazine
+    reasoning: 'Hello + Magazine = Hello Magazine. ''Hello'' (a greeting) + ''Magazine'' (glossy booklet). Scene: greeting a celebrity and publishing it in a magazine.'
+  - number: 3
+    initials: N O T W
+    clue: That story broke on a Sunday. Very big news. The whole world heard about it that particular day of the week.
+    answer: News of the World
+    aliases:
+    - news of the world
+    reasoning: 'News + of + the + World = News of the World. ''News'' + ''of the World'' (globally significant). Scene: worldwide news breaking on a Sunday paper.'
 - id: mediabusters-010
   enabled: true
   title: Mediabusters
@@ -302,32 +293,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Right, tenth set of Mediabusters. Last lot before the halfway mark. Say them out loud."
-  prize: "Email in. Winner gets a Virgin Media remote control with no batteries and a Findus Crispy Pancake recipe card."
+  - UK
+  intro: Mediabusters. Three British media names in phonetic disguise. Say them out loud.
+  prize: Email in. Winner gets a Virgin Media remote control with no batteries and a Findus Crispy Pancake recipe card.
   clues:
-    - number: 1
-      initials: A
-      clue: "That detective channel, right, it's like something secret's going on. You'd never suspect it."
-      answer: Alibi
-      aliases:
-        - alibi
-      reasoning: "Alibi = Alibi (TV channel). 'Alibi' is a word for a secret defence, where you were when the crime happened. Scene: a channel all about secrets and crime."
-    - number: 2
-      initials: T E
-      clue: "Someone put a note through the door and it read out the whole thing. Right to the end. No messing about."
-      answer: The Express
-      aliases:
-        - the express
-      reasoning: "The + Express = The Express. 'Express' (direct, fast, clear). Scene: a very direct letter delivered quickly and without ambiguity."
-    - number: 3
-      initials: S S
-      clue: "They only print the sporty stuff on a Sunday. Nothing else. Just the sport. Bit limited really."
-      answer: Sunday Sport
-      aliases:
-        - sunday sport
-      reasoning: "Sunday + Sport = Sunday Sport. 'Sunday' (day of the week) + 'Sport' (athletic activities). Scene: a sports-only Sunday newspaper."
-
+  - number: 1
+    initials: A
+    clue: That detective channel, right, it's like something secret's going on. You'd never suspect it.
+    answer: Alibi
+    aliases:
+    - alibi
+    reasoning: 'Alibi = Alibi (TV channel). ''Alibi'' is a word for a secret defence, where you were when the crime happened. Scene: a channel all about secrets and crime.'
+  - number: 2
+    initials: T E
+    clue: Someone put a note through the door and it read out the whole thing. Right to the end. No messing about.
+    answer: The Express
+    aliases:
+    - the express
+    reasoning: 'The + Express = The Express. ''Express'' (direct, fast, clear). Scene: a very direct letter delivered quickly and without ambiguity.'
+  - number: 3
+    initials: S S
+    clue: They only print the sporty stuff on a Sunday. Nothing else. Just the sport. Bit limited really.
+    answer: Sunday Sport
+    aliases:
+    - sunday sport
+    reasoning: 'Sunday + Sport = Sunday Sport. ''Sunday'' (day of the week) + ''Sport'' (athletic activities). Scene: a sports-only Sunday newspaper.'
 - id: mediabusters-011
   enabled: true
   title: Mediabusters
@@ -335,32 +325,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Mediabusters eleven. We're past the halfway point. Three more British media phonetics. Off you go."
-  prize: "Email in. Winner gets a Ceefax page printout and a HMV voucher for a shop that shut in 2013."
+  - UK
+  intro: Mediabusters. Three more British media phonetics. Off you go.
+  prize: Email in. Winner gets a Ceefax page printout and a HMV voucher for a shop that shut in 2013.
   clues:
-    - number: 1
-      initials: T S
-      clue: "Right, they went and reflected on everything that happened. Put it all in the big mirror of print. That's your lot."
-      answer: The Sun
-      aliases:
-        - the sun
-      reasoning: "The + Sun = The Sun. 'Sun' (the star, the warmth, the light). Scene: a bright shining newspaper named after the actual sun in the sky."
-    - number: 2
-      initials: B B C O
-      clue: "The national broadcasting lot put out their flagship programme. Top of the pile. First one."
-      answer: BBC One
-      aliases:
-        - bbc one
-      reasoning: "BBC + One = BBC One. Bee-Bee-See + One. Scene: the main BBC channel, the primary one, the number one."
-    - number: 3
-      initials: T I
-      clue: "That paper decided not to rely on anyone. Stands on its own two feet. Bit proud of itself really."
-      answer: The Independent
-      aliases:
-        - the independent
-      reasoning: "The + Independent = The Independent. 'Independent' (self-reliant). Scene: a newspaper that stands alone without support."
-
+  - number: 1
+    initials: T S
+    clue: Right, they went and reflected on everything that happened. Put it all in the big mirror of print. That's your lot.
+    answer: The Sun
+    aliases:
+    - the sun
+    reasoning: 'The + Sun = The Sun. ''Sun'' (the star, the warmth, the light). Scene: a bright shining newspaper named after the actual sun in the sky.'
+  - number: 2
+    initials: B B C O
+    clue: The national broadcasting lot put out their flagship programme. Top of the pile. First one.
+    answer: BBC One
+    aliases:
+    - bbc one
+    reasoning: 'BBC + One = BBC One. Bee-Bee-See + One. Scene: the main BBC channel, the primary one, the number one.'
+  - number: 3
+    initials: T I
+    clue: That paper decided not to rely on anyone. Stands on its own two feet. Bit proud of itself really.
+    answer: The Independent
+    aliases:
+    - the independent
+    reasoning: 'The + Independent = The Independent. ''Independent'' (self-reliant). Scene: a newspaper that stands alone without support.'
 - id: mediabusters-012
   enabled: true
   title: Mediabusters
@@ -368,32 +357,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Three more phonetic British media clues. Number twelve. Say them out loud and listen."
-  prize: "Email in. Winner gets a Boots Advantage card with 40 points on it and a souvenir pen from Longleat."
+  - UK
+  intro: Three more phonetic British media clues. Number twelve. Say them out loud and listen.
+  prize: Email in. Winner gets a Boots Advantage card with 40 points on it and a souvenir pen from Longleat.
   clues:
-    - number: 1
-      initials: T M
-      clue: "Every day they held a reflection up to what had happened in the country. You could see yourself in it."
-      answer: The Mirror
-      aliases:
-        - the mirror
-      reasoning: "The + Mirror = The Mirror. 'Mirror' (reflective surface). Scene: a daily newspaper that reflects current events back at you."
-    - number: 2
-      initials: C F M
-      clue: "The main city called in a request, and they played it loud and clear. Brilliant reception."
-      answer: Capital FM
-      aliases:
-        - capital fm
-      reasoning: "Capital + FM = Capital FM. 'Capital' (principal city, like London) + FM (radio). Scene: the capital city calling a radio station with a clear FM signal."
-    - number: 3
-      initials: T G
-      clue: "Ian's got a minder. Someone's keeping watch on him around the clock. Can't go anywhere without them."
-      answer: The Guardian
-      aliases:
-        - the guardian
-      reasoning: "The + Guard + Ian = The Guardian. 'The guard Ian' said quickly = The Guardian. Scene: a bodyguard watching over a fella called Ian."
-
+  - number: 1
+    initials: T M
+    clue: Every day they held a reflection up to what had happened in the country. You could see yourself in it.
+    answer: The Mirror
+    aliases:
+    - the mirror
+    reasoning: 'The + Mirror = The Mirror. ''Mirror'' (reflective surface). Scene: a daily newspaper that reflects current events back at you.'
+  - number: 2
+    initials: C F M
+    clue: The main city called in a request, and they played it loud and clear. Brilliant reception.
+    answer: Capital FM
+    aliases:
+    - capital fm
+    reasoning: 'Capital + FM = Capital FM. ''Capital'' (principal city, like London) + FM (radio). Scene: the capital city calling a radio station with a clear FM signal.'
+  - number: 3
+    initials: T G
+    clue: Ian's got a minder. Someone's keeping watch on him around the clock. Can't go anywhere without them.
+    answer: The Guardian
+    aliases:
+    - the guardian
+    reasoning: 'The + Guard + Ian = The Guardian. ''The guard Ian'' said quickly = The Guardian. Scene: a bodyguard watching over a fella called Ian.'
 - id: mediabusters-013
   enabled: true
   title: Mediabusters
@@ -401,32 +389,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Mediabusters thirteen. Unlucky for some. Three phonetic British media clues. You know what to do."
-  prize: "Email in. Winner gets a laminated certificate from a competition you definitely didn't enter."
+  - UK
+  intro: Mediabusters thirteen. Unlucky for some. Three phonetic British media clues. You know what to do.
+  prize: Email in. Winner gets a laminated certificate from a competition you definitely didn't enter.
   clues:
-    - number: 1
-      initials: H F M
-      clue: "That pumping thing in your chest is on the radio. Going all day. Very committed."
-      answer: Heart FM
-      aliases:
-        - heart fm
-      reasoning: "Heart + FM = Heart FM. 'Heart' (the cardiac organ) + FM (radio frequency). Scene: the heart literally broadcasting on FM radio."
-    - number: 2
-      initials: D M
-      clue: "Right, letters turn up every morning without fail. Happens daily. Regular as you like."
-      answer: Daily Mail
-      aliases:
-        - daily mail
-      reasoning: "Daily + Mail = Daily Mail. 'Daily' (each day) + 'Mail' (letters and post). Scene: the morning post arriving every single day."
-    - number: 3
-      initials: R T
-      clue: "They printed the wireless schedule for the week. All the times and that. Very organised."
-      answer: Radio Times
-      aliases:
-        - radio times
-      reasoning: "Radio + Times = Radio Times. 'Radio' (broadcasting) + 'Times' (scheduled times). Scene: a printed timetable of all radio programmes."
-
+  - number: 1
+    initials: H F M
+    clue: That pumping thing in your chest is on the radio. Going all day. Very committed.
+    answer: Heart FM
+    aliases:
+    - heart fm
+    reasoning: 'Heart + FM = Heart FM. ''Heart'' (the cardiac organ) + FM (radio frequency). Scene: the heart literally broadcasting on FM radio.'
+  - number: 2
+    initials: D M
+    clue: Right, letters turn up every morning without fail. Happens daily. Regular as you like.
+    answer: Daily Mail
+    aliases:
+    - daily mail
+    reasoning: 'Daily + Mail = Daily Mail. ''Daily'' (each day) + ''Mail'' (letters and post). Scene: the morning post arriving every single day.'
+  - number: 3
+    initials: R T
+    clue: They printed the wireless schedule for the week. All the times and that. Very organised.
+    answer: Radio Times
+    aliases:
+    - radio times
+    reasoning: 'Radio + Times = Radio Times. ''Radio'' (broadcasting) + ''Times'' (scheduled times). Scene: a printed timetable of all radio programmes.'
 - id: mediabusters-014
   enabled: true
   title: Mediabusters
@@ -434,32 +421,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Right, fourteen in. Three more scrambled British media outlets. Listen for the sounds."
-  prize: "Email in. Winner gets a signed copy of the Argos catalogue, Christmas 2001 edition."
+  - UK
+  intro: Right, fourteen in. Three more scrambled British media outlets. Listen for the sounds.
+  prize: Email in. Winner gets a signed copy of the Argos catalogue, Christmas 2001 edition.
   clues:
-    - number: 1
-      initials: T T
-      clue: "They listed every single programme going. Telly. The lot. Printed it all in a little mag."
-      answer: TV Times
-      aliases:
-        - tv times
-      reasoning: "TV + Times = TV Times. Tee-Vee + Times (schedule). Scene: a printed television schedule covering all the programmes."
-    - number: 2
-      initials: I T V
-      clue: "Me, right, I've gone and found a telly. Just the two of us. Staring at each other."
-      answer: ITV
-      aliases:
-        - itv
-      reasoning: "I + TV = ITV. 'I' (me) + 'TV' (television). Scene: a person finding a television and them both looking at each other."
-    - number: 3
-      initials: A
-      clue: "He had a cast-iron reason why he wasn't there. Wasn't him. Had proof an' all."
-      answer: Alibi
-      aliases:
-        - alibi
-      reasoning: "Alibi = Alibi (TV channel). 'Al-i-bi' sounds like having a confirmed excuse. Scene: someone with a rock-solid alibi for not being at the scene."
-
+  - number: 1
+    initials: T T
+    clue: They listed every single programme going. Telly. The lot. Printed it all in a little mag.
+    answer: TV Times
+    aliases:
+    - tv times
+    reasoning: 'TV + Times = TV Times. Tee-Vee + Times (schedule). Scene: a printed television schedule covering all the programmes.'
+  - number: 2
+    initials: I T V
+    clue: Me, right, I've gone and found a telly. Just the two of us. Staring at each other.
+    answer: ITV
+    aliases:
+    - itv
+    reasoning: 'I + TV = ITV. ''I'' (me) + ''TV'' (television). Scene: a person finding a television and them both looking at each other.'
+  - number: 3
+    initials: A
+    clue: He had a cast-iron reason why he wasn't there. Wasn't him. Had proof an' all.
+    answer: Alibi
+    aliases:
+    - alibi
+    reasoning: 'Alibi = Alibi (TV channel). ''Al-i-bi'' sounds like having a confirmed excuse. Scene: someone with a rock-solid alibi for not being at the scene.'
 - id: mediabusters-015
   enabled: true
   title: Mediabusters
@@ -467,32 +453,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Mediabusters fifteen. Nearly there. British media, phonetic clues, silly scenes. Off you go."
-  prize: "Email in. Winner gets a Littlewoods catalogue with some pages already filled in by the previous owner."
+  - UK
+  intro: Mediabusters. British media, phonetic clues, silly scenes. Off you go.
+  prize: Email in. Winner gets a Littlewoods catalogue with some pages already filled in by the previous owner.
   clues:
-    - number: 1
-      initials: T T
-      clue: "Right, they published exactly when everything happened. Down to the minute. The times of it all."
-      answer: The Times
-      aliases:
-        - the times
-      reasoning: "The + Times = The Times. 'Times' (moments in time, a schedule of events). Scene: a newspaper recording exactly when things happened."
-    - number: 2
-      initials: M F M
-      clue: "That conjuror pulled something out of nowhere and it was brilliant. Said a few words and there it was."
-      answer: Magic FM
-      aliases:
-        - magic fm
-      reasoning: "Magic + FM = Magic FM. 'Magic' (conjuring, tricks) + FM (radio). Scene: a magician performing on a radio station."
-    - number: 3
-      initials: C
-      clue: "She moved right in close. Said she wanted a better look. Very near now."
-      answer: Closer
-      aliases:
-        - closer
-      reasoning: "Closer = Closer (magazine). 'Closer' (moving nearer). Scene: someone leaning in to get a closer look at something."
-
+  - number: 1
+    initials: T T
+    clue: Right, they published exactly when everything happened. Down to the minute. The times of it all.
+    answer: The Times
+    aliases:
+    - the times
+    reasoning: 'The + Times = The Times. ''Times'' (moments in time, a schedule of events). Scene: a newspaper recording exactly when things happened.'
+  - number: 2
+    initials: M F M
+    clue: That conjuror pulled something out of nowhere and it was brilliant. Said a few words and there it was.
+    answer: Magic FM
+    aliases:
+    - magic fm
+    reasoning: 'Magic + FM = Magic FM. ''Magic'' (conjuring, tricks) + FM (radio). Scene: a magician performing on a radio station.'
+  - number: 3
+    initials: C
+    clue: She moved right in close. Said she wanted a better look. Very near now.
+    answer: Closer
+    aliases:
+    - closer
+    reasoning: 'Closer = Closer (magazine). ''Closer'' (moving nearer). Scene: someone leaning in to get a closer look at something.'
 - id: mediabusters-016
   enabled: true
   title: Mediabusters
@@ -500,32 +485,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Three more British media phonetics. Set sixteen. Listen hard and you'll hear the answers."
-  prize: "Email in. Winner gets a BT Chargecard that expired in 2004 and a packet of Spira chocolates."
+  - UK
+  intro: Three more British media phonetics. Set sixteen. Listen hard and you'll hear the answers.
+  prize: Email in. Winner gets a BT Chargecard that expired in 2004 and a packet of Spira chocolates.
   clues:
-    - number: 1
-      initials: S O
-      clue: "The very first thing you see when you look up. Just the sky, that first big expanse. Number one."
-      answer: Sky One
-      aliases:
-        - sky one
-      reasoning: "Sky + One = Sky One. 'Sky' (the atmosphere above) + 'One' (first, primary). Scene: looking up and the sky being the number one view."
-    - number: 2
-      initials: T E
-      clue: "The message came through on the wire and they printed it straight away. Very fast, very direct."
-      answer: The Telegraph
-      aliases:
-        - the telegraph
-      reasoning: "The + Telegraph = The Telegraph. 'Telegraph' (wired message system from the old days). Scene: a news message arriving by telegraph wire and going straight to print."
-    - number: 3
-      initials: B B C R 2
-      clue: "The big broadcasting corporation have gone and made a second wireless station. Bit ambitious."
-      answer: BBC Radio 2
-      aliases:
-        - bbc radio 2
-      reasoning: "BBC + Radio + Two = BBC Radio 2. Bee-Bee-See + Radio + Two. Scene: the BBC expanding to a second radio channel."
-
+  - number: 1
+    initials: S O
+    clue: The very first thing you see when you look up. Just the sky, that first big expanse. Number one.
+    answer: Sky One
+    aliases:
+    - sky one
+    reasoning: 'Sky + One = Sky One. ''Sky'' (the atmosphere above) + ''One'' (first, primary). Scene: looking up and the sky being the number one view.'
+  - number: 2
+    initials: T E
+    clue: The message came through on the wire and they printed it straight away. Very fast, very direct.
+    answer: The Telegraph
+    aliases:
+    - the telegraph
+    reasoning: 'The + Telegraph = The Telegraph. ''Telegraph'' (wired message system from the old days). Scene: a news message arriving by telegraph wire and going straight to print.'
+  - number: 3
+    initials: B B C R 2
+    clue: The big broadcasting corporation have gone and made a second wireless station. Bit ambitious.
+    answer: BBC Radio 2
+    aliases:
+    - bbc radio 2
+    reasoning: 'BBC + Radio + Two = BBC Radio 2. Bee-Bee-See + Radio + Two. Scene: the BBC expanding to a second radio channel.'
 - id: mediabusters-017
   enabled: true
   title: Mediabusters
@@ -533,32 +517,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Mediabusters seventeen. Almost done. Three phonetic clues, British media. Say them out loud."
-  prize: "Email in. Winner gets a Teletext holiday printout and a stress ball from a 2007 trade show."
+  - UK
+  intro: Mediabusters seventeen. Almost done. Three phonetic clues, British media. Say them out loud.
+  prize: Email in. Winner gets a Teletext holiday printout and a stress ball from a 2007 trade show.
   clues:
-    - number: 1
-      initials: H M
-      clue: "She waved and said 'hello' in that warm way, and it all went in the glossy pages. Big smile an' all."
-      answer: Hello Magazine
-      aliases:
-        - hello magazine
-      reasoning: "Hello + Magazine = Hello Magazine. 'Hello' (warm greeting) + 'Magazine' (glossy publication). Scene: a warm celebrity greeting ending up in a magazine."
-    - number: 2
-      initials: O K
-      clue: "They asked if everything was alright. It was. So they published it."
-      answer: OK Magazine
-      aliases:
-        - ok magazine
-      reasoning: "OK + Magazine = OK Magazine. 'OK' (everything's fine) + Magazine. Scene: someone confirming all is well, then it appearing in a magazine."
-    - number: 3
-      initials: D
-      clue: "That channel's for ordinary blokes, isn't it. Bloke called Dave would be right at home. Sort of works."
-      answer: Dave
-      aliases:
-        - dave
-      reasoning: "Dave = Dave (TV channel). 'Dave' is an archetypal ordinary bloke's name. Scene: a TV channel so ordinary, it's named after the most ordinary name going."
-
+  - number: 1
+    initials: H M
+    clue: She waved and said 'hello' in that warm way, and it all went in the glossy pages. Big smile an' all.
+    answer: Hello Magazine
+    aliases:
+    - hello magazine
+    reasoning: 'Hello + Magazine = Hello Magazine. ''Hello'' (warm greeting) + ''Magazine'' (glossy publication). Scene: a warm celebrity greeting ending up in a magazine.'
+  - number: 2
+    initials: O K
+    clue: They asked if everything was alright. It was. So they published it.
+    answer: OK Magazine
+    aliases:
+    - ok magazine
+    reasoning: 'OK + Magazine = OK Magazine. ''OK'' (everything''s fine) + Magazine. Scene: someone confirming all is well, then it appearing in a magazine.'
+  - number: 3
+    initials: D
+    clue: That channel's for ordinary blokes, isn't it. Bloke called Dave would be right at home. Sort of works.
+    answer: Dave
+    aliases:
+    - dave
+    reasoning: 'Dave = Dave (TV channel). ''Dave'' is an archetypal ordinary bloke''s name. Scene: a TV channel so ordinary, it''s named after the most ordinary name going.'
 - id: mediabusters-018
   enabled: true
   title: Mediabusters
@@ -566,32 +549,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Nearly there. Set eighteen. Three more British media names in phonetic disguise."
-  prize: "Email in. Winner gets a VHS copy of You've Been Framed recorded over an episode of Neighbours."
+  - UK
+  intro: Mediabusters. Three more British media names in phonetic disguise. Say them out loud.
+  prize: Email in. Winner gets a VHS copy of You've Been Framed recorded over an episode of Neighbours.
   clues:
-    - number: 1
-      initials: T A B
-      clue: "Right, she was tired. Someone told her to have a rest. So she did. Brief one mind."
-      answer: Take a Break
-      aliases:
-        - take a break
-      reasoning: "Take + a + Break = Take a Break. 'Take a break' said naturally. Scene: someone being told to take a short rest."
-    - number: 2
-      initials: N O T W
-      clue: "Big story, this. Not local, not national. The whole globe found out on a Sunday morning."
-      answer: News of the World
-      aliases:
-        - news of the world
-      reasoning: "News + of + the + World = News of the World. Scene: a story so big, the whole world heard about it. Published on Sundays."
-    - number: 3
-      initials: G
-      clue: "That channel's dug up loads of brilliant old stuff. Like treasure, it is. Worth its weight."
-      answer: Gold
-      aliases:
-        - gold
-      reasoning: "Gold = Gold (TV channel). 'Gold' (precious, classic, old). Scene: a channel described as being full of golden, classic programmes."
-
+  - number: 1
+    initials: T A B
+    clue: Right, she was tired. Someone told her to have a rest. So she did. Brief one mind.
+    answer: Take a Break
+    aliases:
+    - take a break
+    reasoning: 'Take + a + Break = Take a Break. ''Take a break'' said naturally. Scene: someone being told to take a short rest.'
+  - number: 2
+    initials: N O T W
+    clue: Big story, this. Not local, not national. The whole globe found out on a Sunday morning.
+    answer: News of the World
+    aliases:
+    - news of the world
+    reasoning: 'News + of + the + World = News of the World. Scene: a story so big, the whole world heard about it. Published on Sundays.'
+  - number: 3
+    initials: G
+    clue: That channel's dug up loads of brilliant old stuff. Like treasure, it is. Worth its weight.
+    answer: Gold
+    aliases:
+    - gold
+    reasoning: 'Gold = Gold (TV channel). ''Gold'' (precious, classic, old). Scene: a channel described as being full of golden, classic programmes.'
 - id: mediabusters-019
   enabled: true
   title: Mediabusters
@@ -599,32 +581,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Set nineteen. Second to last. Three phonetic British media clues. In you go."
-  prize: "Email in. Winner gets a Just Seventeen annual from 1997 and a pencil from a golf course."
+  - UK
+  intro: Set nineteen. Second to last. Three phonetic British media clues. In you go.
+  prize: Email in. Winner gets a Just Seventeen annual from 1997 and a pencil from a golf course.
   clues:
-    - number: 1
-      initials: S S
-      clue: "Every Sunday, right, it's all about the sport. Nothing else makes the cut. Just sporty bits."
-      answer: Sunday Sport
-      aliases:
-        - sunday sport
-      reasoning: "Sunday + Sport = Sunday Sport. 'Sunday' (the day) + 'Sport' (athletics, games). Scene: a Sunday-only sports newspaper."
-    - number: 2
-      initials: C 4
-      clue: "That bloke counted along slowly and stopped when he got to four. Said that'd do."
-      answer: Channel 4
-      aliases:
-        - channel 4
-      reasoning: "Channel + Four = Channel 4. 'Channel' (a passage, like a TV channel) + 'Four' (the number). Scene: counting to four and stopping there."
-    - number: 3
-      initials: T M
-      clue: "That woman told him straight what she thought. No messing. Put it right to him. Very direct."
-      answer: The Mirror
-      aliases:
-        - the mirror
-      reasoning: "The + Mirror = The Mirror. 'Mirror' (reflecting something back). Scene: speaking directly to someone, mirroring the truth back at them."
-
+  - number: 1
+    initials: S S
+    clue: Every Sunday, right, it's all about the sport. Nothing else makes the cut. Just sporty bits.
+    answer: Sunday Sport
+    aliases:
+    - sunday sport
+    reasoning: 'Sunday + Sport = Sunday Sport. ''Sunday'' (the day) + ''Sport'' (athletics, games). Scene: a Sunday-only sports newspaper.'
+  - number: 2
+    initials: C 4
+    clue: That bloke counted along slowly and stopped when he got to four. Said that'd do.
+    answer: Channel 4
+    aliases:
+    - channel 4
+    reasoning: 'Channel + Four = Channel 4. ''Channel'' (a passage, like a TV channel) + ''Four'' (the number). Scene: counting to four and stopping there.'
+  - number: 3
+    initials: T M
+    clue: That woman told him straight what she thought. No messing. Put it right to him. Very direct.
+    answer: The Mirror
+    aliases:
+    - the mirror
+    reasoning: 'The + Mirror = The Mirror. ''Mirror'' (reflecting something back). Scene: speaking directly to someone, mirroring the truth back at them.'
 - id: mediabusters-020
   enabled: true
   title: Mediabusters
@@ -632,28 +613,28 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Last one. Set twenty. Three final phonetic British media clues. Give it your best shot."
-  prize: "Email in. Winner gets a loyalty stamp card from a sandwich shop that closed in 2009 and a free go on a key-cutting machine."
+  - UK
+  intro: Mediabusters. Three phonetic British media clues. Give it your best shot.
+  prize: Email in. Winner gets a loyalty stamp card from a sandwich shop that closed in 2009 and a free go on a key-cutting machine.
   clues:
-    - number: 1
-      initials: C 5
-      clue: "Right, he went all the way. Counted up to five out loud. Didn't stop at four this time."
-      answer: Channel 5
-      aliases:
-        - channel 5
-      reasoning: "Channel + Five = Channel 5. 'Channel' (TV passage) + 'Five' (number 5). Scene: counting up to five, going one further than last time."
-    - number: 2
-      initials: T T
-      clue: "Someone's put all the telegraph messages in a newspaper. Old fashioned communication in printed form."
-      answer: The Telegraph
-      aliases:
-        - the telegraph
-      reasoning: "The + Telegraph = The Telegraph. 'Telegraph' (wire-based messaging). Scene: old telegraph messages compiled and printed as a daily newspaper."
-    - number: 3
-      initials: T G
-      clue: "Right, Ian's got a proper minder now. Someone watching his every move. Keeping him out of trouble."
-      answer: The Guardian
-      aliases:
-        - the guardian
-      reasoning: "The + Guard + Ian = The Guardian. 'The guard Ian' said fast = The Guardian. Scene: a minder keeping watch over a bloke called Ian."
+  - number: 1
+    initials: C 5
+    clue: Right, he went all the way. Counted up to five out loud. Didn't stop at four this time.
+    answer: Channel 5
+    aliases:
+    - channel 5
+    reasoning: 'Channel + Five = Channel 5. ''Channel'' (TV passage) + ''Five'' (number 5). Scene: counting up to five, going one further than last time.'
+  - number: 2
+    initials: T T
+    clue: Someone's put all the telegraph messages in a newspaper. Old fashioned communication in printed form.
+    answer: The Telegraph
+    aliases:
+    - the telegraph
+    reasoning: 'The + Telegraph = The Telegraph. ''Telegraph'' (wire-based messaging). Scene: old telegraph messages compiled and printed as a daily newspaper.'
+  - number: 3
+    initials: T G
+    clue: Right, Ian's got a proper minder now. Someone watching his every move. Keeping him out of trouble.
+    answer: The Guardian
+    aliases:
+    - the guardian
+    reasoning: 'The + Guard + Ian = The Guardian. ''The guard Ian'' said fast = The Guardian. Scene: a minder keeping watch over a bloke called Ian.'

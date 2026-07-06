@@ -5,34 +5,33 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Right, Cartoonbusters. All animated films and cartoons. Say the clues out loud - that's the whole trick."
-  prize: "Email in. Winner gets a VHS copy of The Lion King and a sticker book from a petrol station."
+  - UK
+  - US
+  intro: Right, Cartoonbusters. All animated films and cartoons. Say the clues out loud - that's the whole trick.
+  prize: Email in. Winner gets a VHS copy of The Lion King and a sticker book from a petrol station.
   clues:
-    - number: 1
-      initials: T L K
-      clue: "Right, that bloke on the throne - he's been at it again, telling people things that aren't true. Bit of a fibber, that king."
-      answer: The Lion King
-      aliases:
-        - the lion king
-        - lion king
-      reasoning: "the + lyin' (fibbing) + king = The Lion King"
-    - number: 2
-      initials: A
-      clue: "There's a young lad, right, and he's managed to get himself stuck inside something. Just standing there inside it. Don't ask how."
-      answer: Aladdin
-      aliases:
-        - aladdin
-      reasoning: "a + lad + in = a lad in = Aladdin"
-    - number: 3
-      initials: B
-      clue: "Somebody's given an insect a right smack. Just out of nowhere. Poor little thing."
-      answer: Bambi
-      aliases:
-        - bambi
-      reasoning: "bam (a smack) + bee (an insect) = Bambi"
-
+  - number: 1
+    initials: T L K
+    clue: Right, that bloke on the throne - he's been at it again, telling people things that aren't true. Bit of a fibber, that king.
+    answer: The Lion King
+    aliases:
+    - the lion king
+    - lion king
+    reasoning: the + lyin' (fibbing) + king = The Lion King
+  - number: 2
+    initials: A
+    clue: There's a young lad, right, and he's managed to get himself stuck inside something. Just standing there inside it. Don't ask how.
+    answer: Aladdin
+    aliases:
+    - aladdin
+    reasoning: a + lad + in = a lad in = Aladdin
+  - number: 3
+    initials: B
+    clue: Somebody's given an insect a right smack. Just out of nowhere. Poor little thing.
+    answer: Bambi
+    aliases:
+    - bambi
+    reasoning: bam (a smack) + bee (an insect) = Bambi
 - id: cartoonbusters-002
   enabled: true
   title: Cartoonbusters
@@ -40,35 +39,34 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Cartoonbusters is back. Animated films, classic cartoons - all of that. Don't overthink it."
-  prize: "Email in. Winner gets a Blockbuster loyalty card and a pack of plain Rich Tea biscuits."
+  - UK
+  - US
+  intro: Cartoonbusters is back. Animated films, classic cartoons - all of that. Don't overthink it.
+  prize: Email in. Winner gets a Blockbuster loyalty card and a pack of plain Rich Tea biscuits.
   clues:
-    - number: 1
-      initials: S W
-      clue: "Easy one this. That white stuff that comes down in winter - it's also the colour of a clean sheet. That's all."
-      answer: Snow White
-      aliases:
-        - snow white
-      reasoning: "snow (frozen white precipitation) + white (the colour) = Snow White"
-    - number: 2
-      initials: D
-      clue: "Right, there's this bow - like an archery bow - and it's just sitting there not saying anything. Can't get a word out of it."
-      answer: Dumbo
-      aliases:
-        - dumbo
-      reasoning: "dumb (silent, can't speak) + bow (archery equipment) = Dumbo"
-    - number: 3
-      initials: M I
-      clue: "Them big scary creatures, right, they've gone and got themselves covered in writing fluid. Their arms are all covered in it. Bit odd."
-      answer: Monsters Inc
-      aliases:
-        - monsters inc
-        - monsters, inc
-        - monsters inc.
-      reasoning: "monsters (big scary creatures) + ink (writing fluid) = Monsters Inc"
-
+  - number: 1
+    initials: S W
+    clue: Easy one this. That white stuff that comes down in winter - it's also the colour of a clean sheet. That's all.
+    answer: Snow White
+    aliases:
+    - snow white
+    reasoning: snow (frozen white precipitation) + white (the colour) = Snow White
+  - number: 2
+    initials: D
+    clue: Right, there's this bow - like an archery bow - and it's just sitting there not saying anything. Can't get a word out of it.
+    answer: Dumbo
+    aliases:
+    - dumbo
+    reasoning: dumb (silent, can't speak) + bow (archery equipment) = Dumbo
+  - number: 3
+    initials: M I
+    clue: Them big scary creatures, right, they've gone and got themselves covered in writing fluid. Their arms are all covered in it. Bit odd.
+    answer: Monsters Inc
+    aliases:
+    - monsters inc
+    - monsters, inc
+    - monsters inc.
+    reasoning: monsters (big scary creatures) + ink (writing fluid) = Monsters Inc
 - id: cartoonbusters-003
   enabled: true
   title: Cartoonbusters
@@ -76,33 +74,32 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Alright, more Cartoonbusters. Three animated classics, all done phonetically. Say it out loud."
-  prize: "Email in. Winner gets a printed photo from a disposable camera, framed, and a Now 38 cassette."
+  - UK
+  - US
+  intro: Alright, more Cartoonbusters. Three animated classics, all done phonetically. Say it out loud.
+  prize: Email in. Winner gets a printed photo from a disposable camera, framed, and a Now 38 cassette.
   clues:
-    - number: 1
-      initials: C
-      clue: "Some woman called Ella, right, she's been sitting in the fireplace and now she's covered in all them little bits of burnt coal. Sort of her own fault."
-      answer: Cinderella
-      aliases:
-        - cinderella
-      reasoning: "cinder (burnt coal bits) + Ella (woman's name) = Cinderella"
-    - number: 2
-      initials: P
-      clue: "Right, there's this drawing pin, yeah, and somehow it's ended up in a game of hockey. And someone's gone 'oh!' Sort of works, that."
-      answer: Pinocchio
-      aliases:
-        - pinocchio
-      reasoning: "pin (drawing pin) + ock (hockey sound) + ee + oh = Pinocchio"
-    - number: 3
-      initials: M
-      clue: "A cow's making that noise they make, yeah, and it's doing it down a narrow lane. Just standing there going at it."
-      answer: Mulan
-      aliases:
-        - mulan
-      reasoning: "moo (cow noise) + lan (lane, narrow road) = Mulan"
-
+  - number: 1
+    initials: C
+    clue: Some woman called Ella, right, she's been sitting in the fireplace and now she's covered in all them little bits of burnt coal. Sort of her own fault.
+    answer: Cinderella
+    aliases:
+    - cinderella
+    reasoning: cinder (burnt coal bits) + Ella (woman's name) = Cinderella
+  - number: 2
+    initials: P
+    clue: Right, there's this drawing pin, yeah, and somehow it's ended up in a game of hockey. And someone's gone 'oh!' Sort of works, that.
+    answer: Pinocchio
+    aliases:
+    - pinocchio
+    reasoning: pin (drawing pin) + ock (hockey sound) + ee + oh = Pinocchio
+  - number: 3
+    initials: M
+    clue: A cow's making that noise they make, yeah, and it's doing it down a narrow lane. Just standing there going at it.
+    answer: Mulan
+    aliases:
+    - mulan
+    reasoning: moo (cow noise) + lan (lane, narrow road) = Mulan
 - id: cartoonbusters-004
   enabled: true
   title: Cartoonbusters
@@ -110,34 +107,33 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Cartoonbusters. Animated films, all of them. Three clues, phonetic riddles. You know the game."
-  prize: "Email in. Winner gets an AOL trial disc and a 2002 desk calendar with a cartoon dog on it."
+  - UK
+  - US
+  intro: Cartoonbusters. Animated films, all of them. Three clues, phonetic riddles. You know the game.
+  prize: Email in. Winner gets an AOL trial disc and a 2002 desk calendar with a cartoon dog on it.
   clues:
-    - number: 1
-      initials: T L M
-      clue: "Right, there's a tiny female horse, and someone's actually built it. Constructed it from scratch. Why, I don't know."
-      answer: The Little Mermaid
-      aliases:
-        - the little mermaid
-        - little mermaid
-      reasoning: "the + little (tiny) + mare (female horse) + made (constructed) = The Little Mermaid"
-    - number: 2
-      initials: T
-      clue: "That black sticky stuff they put on roads - there's a bloke standing next to it called Zan. He lives near the road works, I suppose."
-      answer: Tarzan
-      aliases:
-        - tarzan
-      reasoning: "tar (black road stuff) + Zan (bloke's name) = Tarzan"
-    - number: 3
-      initials: H
-      clue: "She's cooling things down, right. Her. And she's doing it with real ease. Not struggling at all, just breezing through it."
-      answer: Hercules
-      aliases:
-        - hercules
-      reasoning: "her (she) + cools (cooling things down) + ease (doing it easily) = Hercules"
-
+  - number: 1
+    initials: T L M
+    clue: Right, there's a tiny female horse, and someone's actually built it. Constructed it from scratch. Why, I don't know.
+    answer: The Little Mermaid
+    aliases:
+    - the little mermaid
+    - little mermaid
+    reasoning: the + little (tiny) + mare (female horse) + made (constructed) = The Little Mermaid
+  - number: 2
+    initials: T
+    clue: That black sticky stuff they put on roads - there's a bloke standing next to it called Zan. He lives near the road works, I suppose.
+    answer: Tarzan
+    aliases:
+    - tarzan
+    reasoning: tar (black road stuff) + Zan (bloke's name) = Tarzan
+  - number: 3
+    initials: H
+    clue: She's cooling things down, right. Her. And she's doing it with real ease. Not struggling at all, just breezing through it.
+    answer: Hercules
+    aliases:
+    - hercules
+    reasoning: her (she) + cools (cooling things down) + ease (doing it easily) = Hercules
 - id: cartoonbusters-005
   enabled: true
   title: Cartoonbusters
@@ -145,35 +141,34 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Right then. Cartoonbusters, round five. All animated. All phonetic. Off you go."
-  prize: "Email in. Winner gets a DVD copy of Shrek and a keyring from a service station in the Midlands."
+  - UK
+  - US
+  intro: Right then. Cartoonbusters, round five. All animated. All phonetic. Off you go.
+  prize: Email in. Winner gets a DVD copy of Shrek and a keyring from a service station in the Midlands.
   clues:
-    - number: 1
-      initials: B T B
-      clue: "Some sort of flying creature, yeah, has made itself a cup of something hot - like a proper sit-down brew. Just a bee with a cup of tea. That's it."
-      answer: Beauty and the Beast
-      aliases:
-        - beauty and the beast
-        - beauty & the beast
-      reasoning: "bee-yew-tea (a bee with a brew/tea) + and + the + beast (wild animal) = Beauty and the Beast"
-    - number: 2
-      initials: L S
-      clue: "There's a fella who's keeping himself hidden, right - lying low, not drawing attention. And then he's also done a bit of sewing. Mended something."
-      answer: Lilo and Stitch
-      aliases:
-        - lilo and stitch
-        - lilo & stitch
-      reasoning: "lie low (staying hidden) + and + stitch (sewing) = Lilo and Stitch"
-    - number: 3
-      initials: R
-      clue: "There's a rat, right, and it's a bit precious about things. A bit fussy and delicate. Like it thinks it's better than the other rats."
-      answer: Ratatouille
-      aliases:
-        - ratatouille
-      reasoning: "rata (rat) + touille sounds like twee (overly precious/fussy) = Ratatouille"
-
+  - number: 1
+    initials: B T B
+    clue: Some sort of flying creature, yeah, has made itself a cup of something hot - like a proper sit-down brew. Just a bee with a cup of tea. That's it.
+    answer: Beauty and the Beast
+    aliases:
+    - beauty and the beast
+    - beauty & the beast
+    reasoning: bee-yew-tea (a bee with a brew/tea) + and + the + beast (wild animal) = Beauty and the Beast
+  - number: 2
+    initials: L S
+    clue: There's a fella who's keeping himself hidden, right - lying low, not drawing attention. And then he's also done a bit of sewing. Mended something.
+    answer: Lilo and Stitch
+    aliases:
+    - lilo and stitch
+    - lilo & stitch
+    reasoning: lie low (staying hidden) + and + stitch (sewing) = Lilo and Stitch
+  - number: 3
+    initials: R
+    clue: There's a rat, right, and it's a bit precious about things. A bit fussy and delicate. Like it thinks it's better than the other rats.
+    answer: Ratatouille
+    aliases:
+    - ratatouille
+    reasoning: rata (rat) + touille sounds like twee (overly precious/fussy) = Ratatouille
 - id: cartoonbusters-006
   enabled: true
   title: Cartoonbusters
@@ -181,36 +176,35 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Cartoonbusters again. Say the clues out loud and the answer will come to you. Near enough, anyway."
-  prize: "Email in. Winner gets a travel-sized bottle of something and a Woolworths gift voucher that no longer works."
+  - UK
+  - US
+  intro: Cartoonbusters again. Say the clues out loud and the answer will come to you. Near enough, anyway.
+  prize: Email in. Winner gets a travel-sized bottle of something and a Woolworths gift voucher that no longer works.
   clues:
-    - number: 1
-      initials: U
-      clue: "Right, it's a direction. Not down. The other one. That's all you're getting."
-      answer: Up
-      aliases:
-        - up
-      reasoning: "up (the direction, opposite of down) = Up"
-    - number: 2
-      initials: W E
-      clue: "There's a wall, right. Just a wall. And someone's gone and put the letter E right at the end of it. Standing there next to the brickwork."
-      answer: WALL-E
-      aliases:
-        - wall-e
-        - walle
-        - wall e
-      reasoning: "wall (brickwork barrier) + E (the letter) = WALL-E"
-    - number: 3
-      initials: A B L
-      clue: "An insect's had a think about its life - where it's going, what it's doing. Having a proper existential moment. You know how bugs are."
-      answer: A Bug's Life
-      aliases:
-        - a bug's life
-        - a bugs life
-      reasoning: "a + bug's (insect's) + life (existence) = A Bug's Life"
-
+  - number: 1
+    initials: U
+    clue: Right, it's a direction. Not down. The other one. That's all you're getting.
+    answer: Up
+    aliases:
+    - up
+    reasoning: up (the direction, opposite of down) = Up
+  - number: 2
+    initials: W E
+    clue: There's a wall, right. Just a wall. And someone's gone and put the letter E right at the end of it. Standing there next to the brickwork.
+    answer: WALL-E
+    aliases:
+    - wall-e
+    - walle
+    - wall e
+    reasoning: wall (brickwork barrier) + E (the letter) = WALL-E
+  - number: 3
+    initials: A B L
+    clue: An insect's had a think about its life - where it's going, what it's doing. Having a proper existential moment. You know how bugs are.
+    answer: A Bug's Life
+    aliases:
+    - a bug's life
+    - a bugs life
+    reasoning: a + bug's (insect's) + life (existence) = A Bug's Life
 - id: cartoonbusters-007
   enabled: true
   title: Cartoonbusters
@@ -218,33 +212,32 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Here's Cartoonbusters. All Disney and Pixar lot. Three phonetic clues. You know the drill."
-  prize: "Email in. Winner gets a Cadbury selection tin and a pencil case from WHSmith with a cartoon on it."
+  - UK
+  - US
+  intro: Here's Cartoonbusters. All Disney and Pixar lot. Three phonetic clues. You know the drill.
+  prize: Email in. Winner gets a Cadbury selection tin and a pencil case from WHSmith with a cartoon on it.
   clues:
-    - number: 1
-      initials: F N
-      clue: "Right, someone's gone and tracked down a fish. Searched high and low for it - across the whole ocean - and they've finally found it. That fish."
-      answer: Finding Nemo
-      aliases:
-        - finding nemo
-      reasoning: "finding (tracking something down) + Nemo (name of a fish) = Finding Nemo"
-    - number: 2
-      initials: S
-      clue: "There's a large greenish creature, right, and it lives in a swamp and it absolutely honks. But in a loveable sort of way."
-      answer: Shrek
-      aliases:
-        - shrek
-      reasoning: "Shrek - sounds like 'shriek' but with a k, the name of the loveable ogre = Shrek"
-    - number: 3
-      initials: I O
-      clue: "Something that was on the inside has now ended up on the outside. Turned itself around. Like a jumper that's been inside out. That sort of thing."
-      answer: Inside Out
-      aliases:
-        - inside out
-      reasoning: "inside (on the interior) + out (on the exterior) = Inside Out"
-
+  - number: 1
+    initials: F N
+    clue: Right, someone's gone and tracked down a fish. Searched high and low for it - across the whole ocean - and they've finally found it. That fish.
+    answer: Finding Nemo
+    aliases:
+    - finding nemo
+    reasoning: finding (tracking something down) + Nemo (name of a fish) = Finding Nemo
+  - number: 2
+    initials: S
+    clue: There's a large greenish creature, right, and it lives in a swamp and it absolutely honks. But in a loveable sort of way.
+    answer: Shrek
+    aliases:
+    - shrek
+    reasoning: Shrek - sounds like 'shriek' but with a k, the name of the loveable ogre = Shrek
+  - number: 3
+    initials: I O
+    clue: Something that was on the inside has now ended up on the outside. Turned itself around. Like a jumper that's been inside out. That sort of thing.
+    answer: Inside Out
+    aliases:
+    - inside out
+    reasoning: inside (on the interior) + out (on the exterior) = Inside Out
 - id: cartoonbusters-008
   enabled: true
   title: Cartoonbusters
@@ -252,35 +245,34 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Cartoonbusters, round eight. Phonetic clues, animated answers. Don't sit there staring - say it out loud."
-  prize: "Email in. Winner gets a signed photo of someone off a cartoon, possibly, and a pack of custard creams."
+  - UK
+  - US
+  intro: Cartoonbusters, round eight. Phonetic clues, animated answers. Don't sit there staring - say it out loud.
+  prize: Email in. Winner gets a signed photo of someone off a cartoon, possibly, and a pack of custard creams.
   clues:
-    - number: 1
-      initials: T I
-      clue: "Right, these things you can believe - they're credible, yeah - and someone's gone and put them all inside something. Just crammed them in there."
-      answer: The Incredibles
-      aliases:
-        - the incredibles
-        - incredibles
-      reasoning: "the + in (inside) + credibles (believable things) = The Incredibles"
-    - number: 2
-      initials: M
-      clue: "A fella called Moe, right - like a bloke called Moe - and he's got a woman called Ana with him. They're just standing there. Moe and Ana."
-      answer: Moana
-      aliases:
-        - moana
-      reasoning: "Moe (man's name) + Ana (woman's name) = Moana"
-    - number: 3
-      initials: T E N G
-      clue: "The bloke in charge - the big boss, yeah - he's recently got himself some new channels on the telly. An upgraded package. Emperor's treat."
-      answer: The Emperor's New Groove
-      aliases:
-        - the emperor's new groove
-        - the emperors new groove
-      reasoning: "the + emperor's (the boss's) + new (recently acquired) + groove (like a channel, a thing) = The Emperor's New Groove"
-
+  - number: 1
+    initials: T I
+    clue: Right, these things you can believe - they're credible, yeah - and someone's gone and put them all inside something. Just crammed them in there.
+    answer: The Incredibles
+    aliases:
+    - the incredibles
+    - incredibles
+    reasoning: the + in (inside) + credibles (believable things) = The Incredibles
+  - number: 2
+    initials: M
+    clue: A fella called Moe, right - like a bloke called Moe - and he's got a woman called Ana with him. They're just standing there. Moe and Ana.
+    answer: Moana
+    aliases:
+    - moana
+    reasoning: Moe (man's name) + Ana (woman's name) = Moana
+  - number: 3
+    initials: T E N G
+    clue: The bloke in charge - the big boss, yeah - he's recently got himself some new channels on the telly. An upgraded package. Emperor's treat.
+    answer: The Emperor's New Groove
+    aliases:
+    - the emperor's new groove
+    - the emperors new groove
+    reasoning: the + emperor's (the boss's) + new (recently acquired) + groove (like a channel, a thing) = The Emperor's New Groove
 - id: cartoonbusters-009
   enabled: true
   title: Cartoonbusters
@@ -288,33 +280,32 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Alright, Cartoonbusters nine. Still all animated films. Still all phonetic. You know what you're doing."
-  prize: "Email in. Winner gets a Toys R Us gift card from 2003 that definitely still works, and a pencil."
+  - UK
+  - US
+  intro: Alright, Cartoonbusters nine. Still all animated films. Still all phonetic. You know what you're doing.
+  prize: Email in. Winner gets a Toys R Us gift card from 2003 that definitely still works, and a pencil.
   clues:
-    - number: 1
-      initials: B
-      clue: "Some fella's gone and trodden on a bee again. Made a right bam of it. The bee is not happy."
-      answer: Bambi
-      aliases:
-        - bambi
-      reasoning: "bam (impact sound, a thwack) + bee (the insect) = Bambi"
-    - number: 2
-      initials: T
-      clue: "That sticky black stuff they lay on the road, right, and there's a bloke next to it who people call Zan. He's just hanging around by the tarmac."
-      answer: Tarzan
-      aliases:
-        - tarzan
-      reasoning: "tar (road material) + Zan (a name) = Tarzan"
-    - number: 3
-      initials: A
-      clue: "There's a young lad who's somehow ended up inside a lamp. He's in there. Small space, not ideal. He's a lad and he's in it."
-      answer: Aladdin
-      aliases:
-        - aladdin
-      reasoning: "a + lad (young fella) + in (inside something) = Aladdin"
-
+  - number: 1
+    initials: B
+    clue: Some fella's gone and trodden on a bee again. Made a right bam of it. The bee is not happy.
+    answer: Bambi
+    aliases:
+    - bambi
+    reasoning: bam (impact sound, a thwack) + bee (the insect) = Bambi
+  - number: 2
+    initials: T
+    clue: That sticky black stuff they lay on the road, right, and there's a bloke next to it who people call Zan. He's just hanging around by the tarmac.
+    answer: Tarzan
+    aliases:
+    - tarzan
+    reasoning: tar (road material) + Zan (a name) = Tarzan
+  - number: 3
+    initials: A
+    clue: There's a young lad who's somehow ended up inside a lamp. He's in there. Small space, not ideal. He's a lad and he's in it.
+    answer: Aladdin
+    aliases:
+    - aladdin
+    reasoning: a + lad (young fella) + in (inside something) = Aladdin
 - id: cartoonbusters-010
   enabled: true
   title: Cartoonbusters
@@ -322,35 +313,34 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Right, Cartoonbusters. Round ten. All animated films. Phonetic riddles, the lot of them. Have a go."
-  prize: "Email in. Winner gets a copy of Toy Story on VHS and a branded mug from a company that's been taken over twice."
+  - UK
+  - US
+  intro: Right, Cartoonbusters. Round ten. All animated films. Phonetic riddles, the lot of them. Have a go.
+  prize: Email in. Winner gets a copy of Toy Story on VHS and a branded mug from a company that's been taken over twice.
   clues:
-    - number: 1
-      initials: S W
-      clue: "That pale stuff falling from the sky in winter - it's also a colour. Same word, different meaning. Two birds, one stone sort of thing."
-      answer: Snow White
-      aliases:
-        - snow white
-      reasoning: "snow (winter precipitation) + white (the colour) = Snow White"
-    - number: 2
-      initials: H
-      clue: "She's doing it effortlessly - cooling everything down around her - and she's not even breaking a sweat. All very easy for her, that is."
-      answer: Hercules
-      aliases:
-        - hercules
-      reasoning: "her (she/her) + cools (makes things cool) + ease (with no difficulty) = Hercules"
-    - number: 3
-      initials: M I
-      clue: "Great big terrifying things covered head to toe in ink. Absolutely drenched in it. Don't know how they managed that."
-      answer: Monsters Inc
-      aliases:
-        - monsters inc
-        - monsters, inc
-        - monsters inc.
-      reasoning: "monsters (terrifying creatures) + ink (the writing fluid) = Monsters Inc"
-
+  - number: 1
+    initials: S W
+    clue: That pale stuff falling from the sky in winter - it's also a colour. Same word, different meaning. Two birds, one stone sort of thing.
+    answer: Snow White
+    aliases:
+    - snow white
+    reasoning: snow (winter precipitation) + white (the colour) = Snow White
+  - number: 2
+    initials: H
+    clue: She's doing it effortlessly - cooling everything down around her - and she's not even breaking a sweat. All very easy for her, that is.
+    answer: Hercules
+    aliases:
+    - hercules
+    reasoning: her (she/her) + cools (makes things cool) + ease (with no difficulty) = Hercules
+  - number: 3
+    initials: M I
+    clue: Great big terrifying things covered head to toe in ink. Absolutely drenched in it. Don't know how they managed that.
+    answer: Monsters Inc
+    aliases:
+    - monsters inc
+    - monsters, inc
+    - monsters inc.
+    reasoning: monsters (terrifying creatures) + ink (the writing fluid) = Monsters Inc
 - id: cartoonbusters-011
   enabled: true
   title: Cartoonbusters
@@ -358,34 +348,33 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Cartoonbusters is back for round eleven. Three more phonetic clues, all from animated films. Say them out loud."
-  prize: "Email in. Winner gets a Fox Kids pencil case and a Chupa Chup that's gone a bit sticky."
+  - UK
+  - US
+  intro: Cartoonbusters is back for round eleven. Three more phonetic clues, all from animated films. Say them out loud.
+  prize: Email in. Winner gets a Fox Kids pencil case and a Chupa Chup that's gone a bit sticky.
   clues:
-    - number: 1
-      initials: L S
-      clue: "Right, someone's gone into hiding - keeping a low profile, not drawing attention to themselves - and they've also mended their trousers. Done a bit of needlework while they were at it."
-      answer: Lilo and Stitch
-      aliases:
-        - lilo and stitch
-        - lilo & stitch
-      reasoning: "lie low (hide, keep a low profile) + and + stitch (needlework, mending) = Lilo and Stitch"
-    - number: 2
-      initials: M
-      clue: "A cow's gone and set itself up in a narrow lane and it's doing that noise. That moo noise. Blocking the lane entirely."
-      answer: Mulan
-      aliases:
-        - mulan
-      reasoning: "moo (cow noise) + lan (a lane) = Mulan"
-    - number: 3
-      initials: R
-      clue: "There's a rodent - a rat specifically - and it's acting well above its station. Bit precious. Thinks it's a gourmet chef."
-      answer: Ratatouille
-      aliases:
-        - ratatouille
-      reasoning: "rat (the rodent) + a + touille sounds like twee (precious, overly refined) = Ratatouille"
-
+  - number: 1
+    initials: L S
+    clue: Right, someone's gone into hiding - keeping a low profile, not drawing attention to themselves - and they've also mended their trousers. Done a bit of needlework while they were at it.
+    answer: Lilo and Stitch
+    aliases:
+    - lilo and stitch
+    - lilo & stitch
+    reasoning: lie low (hide, keep a low profile) + and + stitch (needlework, mending) = Lilo and Stitch
+  - number: 2
+    initials: M
+    clue: A cow's gone and set itself up in a narrow lane and it's doing that noise. That moo noise. Blocking the lane entirely.
+    answer: Mulan
+    aliases:
+    - mulan
+    reasoning: moo (cow noise) + lan (a lane) = Mulan
+  - number: 3
+    initials: R
+    clue: There's a rodent - a rat specifically - and it's acting well above its station. Bit precious. Thinks it's a gourmet chef.
+    answer: Ratatouille
+    aliases:
+    - ratatouille
+    reasoning: rat (the rodent) + a + touille sounds like twee (precious, overly refined) = Ratatouille
 - id: cartoonbusters-012
   enabled: true
   title: Cartoonbusters
@@ -393,34 +382,33 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "More Cartoonbusters. Same game, more animated answers. Three clues, all phonetic, all doable."
-  prize: "Email in. Winner gets a Disney sticker album from a newsagent and a pen that writes in three colours."
+  - UK
+  - US
+  intro: More Cartoonbusters. Same game, more animated answers. Three clues, all phonetic, all doable.
+  prize: Email in. Winner gets a Disney sticker album from a newsagent and a pen that writes in three colours.
   clues:
-    - number: 1
-      initials: F N
-      clue: "Someone's been searching for a fish. Proper dedicated search. Combed the whole ocean and everything. And then they found the fish. The fish was found."
-      answer: Finding Nemo
-      aliases:
-        - finding nemo
-      reasoning: "finding (searching and locating) + Nemo (famous cartoon fish) = Finding Nemo"
-    - number: 2
-      initials: T I
-      clue: "All them believable things - the credible ones - they've all been put inside something. Bundled in there. The credible things are now inside it."
-      answer: The Incredibles
-      aliases:
-        - the incredibles
-        - incredibles
-      reasoning: "the + in (inside) + credibles (believable things) = The Incredibles"
-    - number: 3
-      initials: C
-      clue: "That woman Ella - she's been sitting near the fire again and got herself covered in soot and ash. Completely black with it. Ella and cinders."
-      answer: Cinderella
-      aliases:
-        - cinderella
-      reasoning: "cinder (the ashy remains of fire) + Ella (a woman's name) = Cinderella"
-
+  - number: 1
+    initials: F N
+    clue: Someone's been searching for a fish. Proper dedicated search. Combed the whole ocean and everything. And then they found the fish. The fish was found.
+    answer: Finding Nemo
+    aliases:
+    - finding nemo
+    reasoning: finding (searching and locating) + Nemo (famous cartoon fish) = Finding Nemo
+  - number: 2
+    initials: T I
+    clue: All them believable things - the credible ones - they've all been put inside something. Bundled in there. The credible things are now inside it.
+    answer: The Incredibles
+    aliases:
+    - the incredibles
+    - incredibles
+    reasoning: the + in (inside) + credibles (believable things) = The Incredibles
+  - number: 3
+    initials: C
+    clue: That woman Ella - she's been sitting near the fire again and got herself covered in soot and ash. Completely black with it. Ella and cinders.
+    answer: Cinderella
+    aliases:
+    - cinderella
+    reasoning: cinder (the ashy remains of fire) + Ella (a woman's name) = Cinderella
 - id: cartoonbusters-013
   enabled: true
   title: Cartoonbusters
@@ -428,34 +416,33 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Cartoonbusters thirteen. Don't let the number put you off. Three animated clues. Have at it."
-  prize: "Email in. Winner gets a cardboard Crown Cinema cup and a Blockbuster points card with 40 points on it."
+  - UK
+  - US
+  intro: Cartoonbusters thirteen. Don't let the number put you off. Three animated clues. Have at it.
+  prize: Email in. Winner gets a cardboard Crown Cinema cup and a Blockbuster points card with 40 points on it.
   clues:
-    - number: 1
-      initials: T L K
-      clue: "The ruler of the land, right, he keeps telling everyone things that aren't true. Can't stop fibbing. The king who lies. Alright?"
-      answer: The Lion King
-      aliases:
-        - the lion king
-        - lion king
-      reasoning: "the + lyin' (fibbing, telling lies) + king (ruler) = The Lion King"
-    - number: 2
-      initials: B
-      clue: "A female deer's had a bit of a surprise. Something's gone bam. Don't know what. Small deer, big shock."
-      answer: Bambi
-      aliases:
-        - bambi
-      reasoning: "bam (sudden impact/shock sound) + bi sounds like bee (a creature) = Bambi"
-    - number: 3
-      initials: U
-      clue: "It's the opposite of down. That's it. That's the whole clue. Don't make it complicated."
-      answer: Up
-      aliases:
-        - up
-      reasoning: "up (the direction opposite to down) = Up"
-
+  - number: 1
+    initials: T L K
+    clue: The ruler of the land, right, he keeps telling everyone things that aren't true. Can't stop fibbing. The king who lies. Alright?
+    answer: The Lion King
+    aliases:
+    - the lion king
+    - lion king
+    reasoning: the + lyin' (fibbing, telling lies) + king (ruler) = The Lion King
+  - number: 2
+    initials: B
+    clue: A female deer's had a bit of a surprise. Something's gone bam. Don't know what. Small deer, big shock.
+    answer: Bambi
+    aliases:
+    - bambi
+    reasoning: bam (sudden impact/shock sound) + bi sounds like bee (a creature) = Bambi
+  - number: 3
+    initials: U
+    clue: It's the opposite of down. That's it. That's the whole clue. Don't make it complicated.
+    answer: Up
+    aliases:
+    - up
+    reasoning: up (the direction opposite to down) = Up
 - id: cartoonbusters-014
   enabled: true
   title: Cartoonbusters
@@ -463,35 +450,34 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Right then, Cartoonbusters fourteen. Phonetic clues, animated answers. You've done this before."
-  prize: "Email in. Winner gets a tin of Value shortbread and a cartoon character eraser from a pound shop."
+  - UK
+  - US
+  intro: Right then, Cartoonbusters fourteen. Phonetic clues, animated answers. You've done this before.
+  prize: Email in. Winner gets a tin of Value shortbread and a cartoon character eraser from a pound shop.
   clues:
-    - number: 1
-      initials: W E
-      clue: "There's a wall. Big solid wall. And someone's placed the fifth letter of the alphabet right next to it. Just the letter, stood there by the wall."
-      answer: WALL-E
-      aliases:
-        - wall-e
-        - walle
-        - wall e
-      reasoning: "wall (a solid barrier) + E (the fifth letter of the alphabet) = WALL-E"
-    - number: 2
-      initials: I O
-      clue: "The stuff that was on the inside of something has now come out and it's on the outside. All reversed. Completely the wrong way round."
-      answer: Inside Out
-      aliases:
-        - inside out
-      reasoning: "inside (the interior) + out (the exterior) = Inside Out"
-    - number: 3
-      initials: M
-      clue: "A bloke called Moe's standing next to a woman called Ana. They're just there together. Moe. Ana. That's them."
-      answer: Moana
-      aliases:
-        - moana
-      reasoning: "Moe (man's name) + Ana (woman's name) = Moana"
-
+  - number: 1
+    initials: W E
+    clue: There's a wall. Big solid wall. And someone's placed the fifth letter of the alphabet right next to it. Just the letter, stood there by the wall.
+    answer: WALL-E
+    aliases:
+    - wall-e
+    - walle
+    - wall e
+    reasoning: wall (a solid barrier) + E (the fifth letter of the alphabet) = WALL-E
+  - number: 2
+    initials: I O
+    clue: The stuff that was on the inside of something has now come out and it's on the outside. All reversed. Completely the wrong way round.
+    answer: Inside Out
+    aliases:
+    - inside out
+    reasoning: inside (the interior) + out (the exterior) = Inside Out
+  - number: 3
+    initials: M
+    clue: A bloke called Moe's standing next to a woman called Ana. They're just there together. Moe. Ana. That's them.
+    answer: Moana
+    aliases:
+    - moana
+    reasoning: Moe (man's name) + Ana (woman's name) = Moana
 - id: cartoonbusters-015
   enabled: true
   title: Cartoonbusters
@@ -499,35 +485,34 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Alright, Cartoonbusters fifteen. Still going. Three clues, all animated. You know the phonetic game by now."
-  prize: "Email in. Winner gets a limited edition cereal box with a cartoon prize inside and a sticker chart."
+  - UK
+  - US
+  intro: Alright, Cartoonbusters fifteen. Still going. Three clues, all animated. You know the phonetic game by now.
+  prize: Email in. Winner gets a limited edition cereal box with a cartoon prize inside and a sticker chart.
   clues:
-    - number: 1
-      initials: B T B
-      clue: "Right, an insect's gone and made itself a hot drink - a proper cup of tea - and then there's a wild animal hanging around as well. Bee. Tea. Wild animal. You know."
-      answer: Beauty and the Beast
-      aliases:
-        - beauty and the beast
-        - beauty & the beast
-      reasoning: "bee-yew-tea (bee + you + tea, sounds like beauty) + and + the + beast (wild animal) = Beauty and the Beast"
-    - number: 2
-      initials: S
-      clue: "Large creature. Green. Lives in a swamp. Has a best mate who never shuts up. That's all."
-      answer: Shrek
-      aliases:
-        - shrek
-      reasoning: "Shrek - the name of the famous animated ogre, phonetically strong on its own = Shrek"
-    - number: 3
-      initials: T L M
-      clue: "Someone's built a small female horse from scratch. Constructed it. Tiny mare, fully made. No idea why but there it is."
-      answer: The Little Mermaid
-      aliases:
-        - the little mermaid
-        - little mermaid
-      reasoning: "the + little (small) + mare (female horse) + made (constructed, built) = The Little Mermaid"
-
+  - number: 1
+    initials: B T B
+    clue: Right, an insect's gone and made itself a hot drink - a proper cup of tea - and then there's a wild animal hanging around as well. Bee. Tea. Wild animal. You know.
+    answer: Beauty and the Beast
+    aliases:
+    - beauty and the beast
+    - beauty & the beast
+    reasoning: bee-yew-tea (bee + you + tea, sounds like beauty) + and + the + beast (wild animal) = Beauty and the Beast
+  - number: 2
+    initials: S
+    clue: Large creature. Green. Lives in a swamp. Has a best mate who never shuts up. That's all.
+    answer: Shrek
+    aliases:
+    - shrek
+    reasoning: Shrek - the name of the famous animated ogre, phonetically strong on its own = Shrek
+  - number: 3
+    initials: T L M
+    clue: Someone's built a small female horse from scratch. Constructed it. Tiny mare, fully made. No idea why but there it is.
+    answer: The Little Mermaid
+    aliases:
+    - the little mermaid
+    - little mermaid
+    reasoning: the + little (small) + mare (female horse) + made (constructed, built) = The Little Mermaid
 - id: cartoonbusters-016
   enabled: true
   title: Cartoonbusters
@@ -535,34 +520,33 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Cartoonbusters round sixteen. All animated films. Three phonetic clues. Have a go and see how you get on."
-  prize: "Email in. Winner gets a Woolworths pick and mix bag - empty, obviously - and a 2001 Pixar bookmark."
+  - UK
+  - US
+  intro: Cartoonbusters round sixteen. All animated films. Three phonetic clues. Have a go and see how you get on.
+  prize: Email in. Winner gets a Woolworths pick and mix bag - empty, obviously - and a 2001 Pixar bookmark.
   clues:
-    - number: 1
-      initials: P
-      clue: "There's a drawing pin, right, it's got involved in a game of hockey somehow, and someone watching has gone 'oh!' Sort of all over the place but say it out loud."
-      answer: Pinocchio
-      aliases:
-        - pinocchio
-      reasoning: "pin (drawing pin) + ock (hockey) + ee + oh = Pinocchio"
-    - number: 2
-      initials: A B L
-      clue: "An insect's sitting there having a good long think about its existence. Where it's been. Where it's going. What it all means. Deep stuff for a bug."
-      answer: A Bug's Life
-      aliases:
-        - a bug's life
-        - a bugs life
-      reasoning: "a + bug's (belonging to an insect) + life (existence, the whole thing) = A Bug's Life"
-    - number: 3
-      initials: D
-      clue: "An archery bow that can't speak - completely silent, not a word out of it. Just standing there with no sound whatsoever. Mute bow, that is."
-      answer: Dumbo
-      aliases:
-        - dumbo
-      reasoning: "dumb (unable to speak, silent) + bow (archery equipment) = Dumbo"
-
+  - number: 1
+    initials: P
+    clue: There's a drawing pin, right, it's got involved in a game of hockey somehow, and someone watching has gone 'oh!' Sort of all over the place but say it out loud.
+    answer: Pinocchio
+    aliases:
+    - pinocchio
+    reasoning: pin (drawing pin) + ock (hockey) + ee + oh = Pinocchio
+  - number: 2
+    initials: A B L
+    clue: An insect's sitting there having a good long think about its existence. Where it's been. Where it's going. What it all means. Deep stuff for a bug.
+    answer: A Bug's Life
+    aliases:
+    - a bug's life
+    - a bugs life
+    reasoning: a + bug's (belonging to an insect) + life (existence, the whole thing) = A Bug's Life
+  - number: 3
+    initials: D
+    clue: An archery bow that can't speak - completely silent, not a word out of it. Just standing there with no sound whatsoever. Mute bow, that is.
+    answer: Dumbo
+    aliases:
+    - dumbo
+    reasoning: dumb (unable to speak, silent) + bow (archery equipment) = Dumbo
 - id: cartoonbusters-017
   enabled: true
   title: Cartoonbusters
@@ -570,34 +554,33 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Right, more Cartoonbusters. Round seventeen. Three animated clues. Phonetics, not spelling. Don't spell it, say it."
-  prize: "Email in. Winner gets a McDonald's Happy Meal toy from a film that came out about twenty years ago."
+  - UK
+  - US
+  intro: Right, more Cartoonbusters. Round seventeen. Three animated clues. Phonetics, not spelling. Don't spell it, say it.
+  prize: Email in. Winner gets a McDonald's Happy Meal toy from a film that came out about twenty years ago.
   clues:
-    - number: 1
-      initials: T E N G
-      clue: "The emperor, right - big boss of the whole empire - he's gone and got himself a brand new channel. A fresh groove on the telly. Proper upgraded his package."
-      answer: The Emperor's New Groove
-      aliases:
-        - the emperor's new groove
-        - the emperors new groove
-      reasoning: "the + emperor's (the boss's) + new (fresh, recently acquired) + groove (a channel, a rhythm, a thing) = The Emperor's New Groove"
-    - number: 2
-      initials: T
-      clue: "That black gooey stuff they put on roads, yeah, and there's a fella called Zan who's moved in next to the road works. Tar. Zan. Near enough."
-      answer: Tarzan
-      aliases:
-        - tarzan
-      reasoning: "tar (black sticky road material) + Zan (a name) = Tarzan"
-    - number: 3
-      initials: M
-      clue: "A cow's making a noise down a lane. That moo sound. Echoing down the lane. People are looking."
-      answer: Mulan
-      aliases:
-        - mulan
-      reasoning: "moo (the noise a cow makes) + lan (a narrow lane) = Mulan"
-
+  - number: 1
+    initials: T E N G
+    clue: The emperor, right - big boss of the whole empire - he's gone and got himself a brand new channel. A fresh groove on the telly. Proper upgraded his package.
+    answer: The Emperor's New Groove
+    aliases:
+    - the emperor's new groove
+    - the emperors new groove
+    reasoning: the + emperor's (the boss's) + new (fresh, recently acquired) + groove (a channel, a rhythm, a thing) = The Emperor's New Groove
+  - number: 2
+    initials: T
+    clue: That black gooey stuff they put on roads, yeah, and there's a fella called Zan who's moved in next to the road works. Tar. Zan. Near enough.
+    answer: Tarzan
+    aliases:
+    - tarzan
+    reasoning: tar (black sticky road material) + Zan (a name) = Tarzan
+  - number: 3
+    initials: M
+    clue: A cow's making a noise down a lane. That moo sound. Echoing down the lane. People are looking.
+    answer: Mulan
+    aliases:
+    - mulan
+    reasoning: moo (the noise a cow makes) + lan (a narrow lane) = Mulan
 - id: cartoonbusters-018
   enabled: true
   title: Cartoonbusters
@@ -605,33 +588,32 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Cartoonbusters eighteen. Nearly there. Three phonetic clues, all animated. Say them out loud - that's the game."
-  prize: "Email in. Winner gets a copy of Chicken Run on DVD and a Panda Pop from a corner shop that's now a Tesco Express."
+  - UK
+  - US
+  intro: Cartoonbusters. Three phonetic clues, all animated. Say them out loud — that's the game.
+  prize: Email in. Winner gets a copy of Chicken Run on DVD and a Panda Pop from a corner shop that's now a Tesco Express.
   clues:
-    - number: 1
-      initials: H
-      clue: "That woman - her - she's taken on the job of cooling everything down and she's doing it with absolute ease. No bother at all. Her. Cooling. Easy."
-      answer: Hercules
-      aliases:
-        - hercules
-      reasoning: "her (that woman) + cools (does the cooling) + ease (with no difficulty) = Hercules"
-    - number: 2
-      initials: F N
-      clue: "This whole ocean-wide search for a specific fish - it started, it went on for ages, and in the end they found the fish. Job done."
-      answer: Finding Nemo
-      aliases:
-        - finding nemo
-      reasoning: "finding (the act of locating) + Nemo (the name of the fish being searched for) = Finding Nemo"
-    - number: 3
-      initials: R
-      clue: "A rat, right, and it's being ever so fussy and delicate about things. Precious about it. Thinks it's above all the other rats. Twee little rat."
-      answer: Ratatouille
-      aliases:
-        - ratatouille
-      reasoning: "rat (the rodent) + a + touille sounds like twee (overly precious and fussy) = Ratatouille"
-
+  - number: 1
+    initials: H
+    clue: That woman - her - she's taken on the job of cooling everything down and she's doing it with absolute ease. No bother at all. Her. Cooling. Easy.
+    answer: Hercules
+    aliases:
+    - hercules
+    reasoning: her (that woman) + cools (does the cooling) + ease (with no difficulty) = Hercules
+  - number: 2
+    initials: F N
+    clue: This whole ocean-wide search for a specific fish - it started, it went on for ages, and in the end they found the fish. Job done.
+    answer: Finding Nemo
+    aliases:
+    - finding nemo
+    reasoning: finding (the act of locating) + Nemo (the name of the fish being searched for) = Finding Nemo
+  - number: 3
+    initials: R
+    clue: A rat, right, and it's being ever so fussy and delicate about things. Precious about it. Thinks it's above all the other rats. Twee little rat.
+    answer: Ratatouille
+    aliases:
+    - ratatouille
+    reasoning: rat (the rodent) + a + touille sounds like twee (overly precious and fussy) = Ratatouille
 - id: cartoonbusters-019
   enabled: true
   title: Cartoonbusters
@@ -639,33 +621,32 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Alright, Cartoonbusters nineteen. Almost at the end. Three clues, all animated. Don't overthink it."
-  prize: "Email in. Winner gets a Pixar sticker book and a biscuit tin shaped like a TV from a charity shop."
+  - UK
+  - US
+  intro: Alright, Cartoonbusters nineteen. Almost at the end. Three clues, all animated. Don't overthink it.
+  prize: Email in. Winner gets a Pixar sticker book and a biscuit tin shaped like a TV from a charity shop.
   clues:
-    - number: 1
-      initials: S
-      clue: "Big green thing in a swamp. Everything about it rhymes with shriek, almost. Bit of a loner. Heart of gold under all that green."
-      answer: Shrek
-      aliases:
-        - shrek
-      reasoning: "Shrek - the famous green ogre, name is phonetically distinctive = Shrek"
-    - number: 2
-      initials: I O
-      clue: "Emotions that were living on the inside of something have all come out. They're on the outside now. All turned around. Bit of a mess, that."
-      answer: Inside Out
-      aliases:
-        - inside out
-      reasoning: "inside (the interior where emotions live) + out (now on the exterior) = Inside Out"
-    - number: 3
-      initials: C
-      clue: "That lass Ella - she's been sweeping the fireplace again and she's covered in all them black bits. Cinder city, that girl."
-      answer: Cinderella
-      aliases:
-        - cinderella
-      reasoning: "cinder (ash and burnt coal remains) + Ella (the girl's name) = Cinderella"
-
+  - number: 1
+    initials: S
+    clue: Big green thing in a swamp. Everything about it rhymes with shriek, almost. Bit of a loner. Heart of gold under all that green.
+    answer: Shrek
+    aliases:
+    - shrek
+    reasoning: Shrek - the famous green ogre, name is phonetically distinctive = Shrek
+  - number: 2
+    initials: I O
+    clue: Emotions that were living on the inside of something have all come out. They're on the outside now. All turned around. Bit of a mess, that.
+    answer: Inside Out
+    aliases:
+    - inside out
+    reasoning: inside (the interior where emotions live) + out (now on the exterior) = Inside Out
+  - number: 3
+    initials: C
+    clue: That lass Ella - she's been sweeping the fireplace again and she's covered in all them black bits. Cinder city, that girl.
+    answer: Cinderella
+    aliases:
+    - cinderella
+    reasoning: cinder (ash and burnt coal remains) + Ella (the girl's name) = Cinderella
 - id: cartoonbusters-020
   enabled: true
   title: Cartoonbusters
@@ -673,32 +654,32 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Last one. Cartoonbusters twenty. Three final phonetic clues, all animated. End it on a high."
-  prize: "Email in. Winner gets a full set of Disney stamps from 1998 and a commemorative mug that says something motivational."
+  - UK
+  - US
+  intro: Cartoonbusters. Three phonetic clues, all animated. Say each one out loud.
+  prize: Email in. Winner gets a full set of Disney stamps from 1998 and a commemorative mug that says something motivational.
   clues:
-    - number: 1
-      initials: T L K
-      clue: "Right, the king of all the land - proper royalty - but he's a terrible fibber. Can't tell the truth to save himself. The lying king. Say it out loud."
-      answer: The Lion King
-      aliases:
-        - the lion king
-        - lion king
-      reasoning: "the + lyin' (fibbing, can't tell the truth) + king (royalty, ruler of the land) = The Lion King"
-    - number: 2
-      initials: W E
-      clue: "A wall. Solid wall, nice brickwork. And right next to it, someone's put the letter E. Just the letter, leaning on the wall. That's your lot."
-      answer: WALL-E
-      aliases:
-        - wall-e
-        - walle
-        - wall e
-      reasoning: "wall (a solid brick barrier) + E (a letter of the alphabet) = WALL-E"
-    - number: 3
-      initials: M
-      clue: "There's a bloke called Moe. And he's with a woman called Ana. Moe and Ana. That's all there is to it."
-      answer: Moana
-      aliases:
-        - moana
-      reasoning: "Moe (a man's name) + Ana (a woman's name) = Moana"
+  - number: 1
+    initials: T L K
+    clue: Right, the king of all the land - proper royalty - but he's a terrible fibber. Can't tell the truth to save himself. The lying king. Say it out loud.
+    answer: The Lion King
+    aliases:
+    - the lion king
+    - lion king
+    reasoning: the + lyin' (fibbing, can't tell the truth) + king (royalty, ruler of the land) = The Lion King
+  - number: 2
+    initials: W E
+    clue: A wall. Solid wall, nice brickwork. And right next to it, someone's put the letter E. Just the letter, leaning on the wall. That's your lot.
+    answer: WALL-E
+    aliases:
+    - wall-e
+    - walle
+    - wall e
+    reasoning: wall (a solid brick barrier) + E (a letter of the alphabet) = WALL-E
+  - number: 3
+    initials: M
+    clue: There's a bloke called Moe. And he's with a woman called Ana. Moe and Ana. That's all there is to it.
+    answer: Moana
+    aliases:
+    - moana
+    reasoning: Moe (a man's name) + Ana (a woman's name) = Moana

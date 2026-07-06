@@ -5,32 +5,31 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Right, Drinkbusters. Rockbusters but it's all drinks. Wet ones, not dry ones. Well, some dry ones."
-  prize: "Email in. Winner gets a Blockbuster loyalty card and a can of supermarket own-brand cola."
+  - UK
+  intro: Right, Drinkbusters. Rockbusters but it's all drinks. Wet ones, not dry ones. Well, some dry ones.
+  prize: Email in. Winner gets a Blockbuster loyalty card and a can of supermarket own-brand cola.
   clues:
-    - number: 1
-      initials: G
-      clue: "That bloke with the glasses is making a strange sound with his mouth. Sort of a buzzing hum. That's all."
-      answer: Guinness
-      aliases:
-        - guinness
-      reasoning: "guin (rhymes with 'grin') + ness (like buzzing sound, humming) = Guinness. Spoken: 'Gwinn-ess', sounds like someone doing a grinning hiss."
-    - number: 2
-      initials: L
-      clue: "She's turned up and all the sparkle has just gone out of the room. Bit flat, that."
-      answer: Lucozade
-      aliases:
-        - lucozade
-      reasoning: "loo (toilet) + co (company) + zade = loo-co-zade = Lucozade. Spoken flat and dull."
-    - number: 3
-      initials: V
-      clue: "Right, that weed growing up the wall, it's completely taken over the whole building. More than a bit."
-      answer: Vimto
-      aliases:
-        - vimto
-      reasoning: "vim (vigour, taking over) + to = vimto = Vimto"
-
+  - number: 1
+    initials: G
+    clue: That bloke with the glasses is making a strange sound with his mouth. Sort of a buzzing hum. That's all.
+    answer: Guinness
+    aliases:
+    - guinness
+    reasoning: 'guin (rhymes with ''grin'') + ness (like buzzing sound, humming) = Guinness. Spoken: ''Gwinn-ess'', sounds like someone doing a grinning hiss.'
+  - number: 2
+    initials: L
+    clue: She's turned up and all the sparkle has just gone out of the room. Bit flat, that.
+    answer: Lucozade
+    aliases:
+    - lucozade
+    reasoning: loo (toilet) + co (company) + zade = loo-co-zade = Lucozade. Spoken flat and dull.
+  - number: 3
+    initials: V
+    clue: Right, that weed growing up the wall, it's completely taken over the whole building. More than a bit.
+    answer: Vimto
+    aliases:
+    - vimto
+    reasoning: vim (vigour, taking over) + to = vimto = Vimto
 - id: drinkbusters-002
   enabled: true
   title: Drinkbusters
@@ -38,33 +37,32 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Drinkbusters time. Three answers, all things you can drink. Some of 'em you probably shouldn't."
-  prize: "Email in. Winner gets an AOL trial disc and a warm bottle of something fizzy."
+  - UK
+  intro: Drinkbusters time. Three answers, all things you can drink. Some of 'em you probably shouldn't.
+  prize: Email in. Winner gets an AOL trial disc and a warm bottle of something fizzy.
   clues:
-    - number: 1
-      initials: S A
-      clue: "Right, a proper fancy star, not a normal one, it's twirling around near some paintings and sculptures. Very cultured."
-      answer: Stella Artois
-      aliases:
-        - stella artois
-        - stella
-      reasoning: "stella (star in Latin) + art (paintings and sculptures) + ois = Stella Artois"
-    - number: 2
-      initials: P
-      clue: "That bloke's got a tiny little horse-drawn cart and he's been riding it round Italy all day. Bit odd, really."
-      answer: Peroni
-      aliases:
-        - peroni
-      reasoning: "per (by means of, around) + oni (pony without the p) = per-oni = Peroni"
-    - number: 3
-      initials: R
-      clue: "That lady's been lying on the ground so long she's sort of become part of the garden. Near enough."
-      answer: Ribena
-      aliases:
-        - ribena
-      reasoning: "rib (part of the body, in the ground) + ena (like Ena Sharples, a lady) = Ribena"
-
+  - number: 1
+    initials: S A
+    clue: Right, a proper fancy star, not a normal one, it's twirling around near some paintings and sculptures. Very cultured.
+    answer: Stella Artois
+    aliases:
+    - stella artois
+    - stella
+    reasoning: stella (star in Latin) + art (paintings and sculptures) + ois = Stella Artois
+  - number: 2
+    initials: P
+    clue: That bloke's got a tiny little horse-drawn cart and he's been riding it round Italy all day. Bit odd, really.
+    answer: Peroni
+    aliases:
+    - peroni
+    reasoning: per (by means of, around) + oni (pony without the p) = per-oni = Peroni
+  - number: 3
+    initials: R
+    clue: That lady's been lying on the ground so long she's sort of become part of the garden. Near enough.
+    answer: Ribena
+    aliases:
+    - ribena
+    reasoning: rib (part of the body, in the ground) + ena (like Ena Sharples, a lady) = Ribena
 - id: drinkbusters-003
   enabled: true
   title: Drinkbusters
@@ -72,32 +70,31 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Here we go. Drinkbusters. Say the clues out loud, you'll hear the answer. Probably."
-  prize: "Email in. Winner gets a printed photo from a disposable camera of someone's holiday, framed."
+  - UK
+  intro: Here we go. Drinkbusters. Say the clues out loud, you'll hear the answer. Probably.
+  prize: Email in. Winner gets a printed photo from a disposable camera of someone's holiday, framed.
   clues:
-    - number: 1
-      initials: H
-      clue: "Ten of something, ten of what nobody knows, but they've all arrived at once. Typical."
-      answer: Heineken
-      aliases:
-        - heineken
-      reasoning: "hein (German/French for 'huh') + eken = high-ne-ken. Spoken: 'hine-uh-ken', sounds like 'hi-ne-ken' = Heineken"
-    - number: 2
-      initials: C
-      clue: "That king fella, right, he's made of ice. Standing there, frozen. Looking a bit regal though."
-      answer: Corona
-      aliases:
-        - corona
-      reasoning: "cor (exclamation of surprise) + ona = cor-ona = Corona"
-    - number: 3
-      initials: S B
-      clue: "Some strong bloke's gone and fired an arrow so hard it's come apart. Bits everywhere. Don't know why he did that."
-      answer: Strongbow
-      aliases:
-        - strongbow
-      reasoning: "strong (powerful) + bow (archery bow) = Strongbow"
-
+  - number: 1
+    initials: H
+    clue: Ten of something, ten of what nobody knows, but they've all arrived at once. Typical.
+    answer: Heineken
+    aliases:
+    - heineken
+    reasoning: 'hein (German/French for ''huh'') + eken = high-ne-ken. Spoken: ''hine-uh-ken'', sounds like ''hi-ne-ken'' = Heineken'
+  - number: 2
+    initials: C
+    clue: That king fella, right, he's made of ice. Standing there, frozen. Looking a bit regal though.
+    answer: Corona
+    aliases:
+    - corona
+    reasoning: cor (exclamation of surprise) + ona = cor-ona = Corona
+  - number: 3
+    initials: S B
+    clue: Some strong bloke's gone and fired an arrow so hard it's come apart. Bits everywhere. Don't know why he did that.
+    answer: Strongbow
+    aliases:
+    - strongbow
+    reasoning: strong (powerful) + bow (archery bow) = Strongbow
 - id: drinkbusters-004
   enabled: true
   title: Drinkbusters
@@ -105,35 +102,34 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Drinkbusters. All drinks, easy difficulty. Don't overthink it, just say the clues out loud."
-  prize: "Email in. Winner gets a DVD copy of Shrek and a loyalty card from a sandwich shop that closed down."
+  - UK
+  intro: Drinkbusters. All drinks, easy difficulty. Don't overthink it, just say the clues out loud.
+  prize: Email in. Winner gets a DVD copy of Shrek and a loyalty card from a sandwich shop that closed down.
   clues:
-    - number: 1
-      initials: B
-      clue: "That lad from Germany, right, he's trying to tell you something but you're not listening. He keeps trying."
-      answer: Becks
-      aliases:
-        - becks
-        - beck's
-      reasoning: "beck (a stream, or beckoning gesture) + s = Becks. Also Beck is a name. Becks."
-    - number: 2
-      initials: F
-      clue: "Right, you've got four of something, each one slightly more annoying than the last. Someone's been breeding them."
-      answer: Fosters
-      aliases:
-        - fosters
-        - foster's
-      reasoning: "fos (foes, enemies sort of) + ters = foster's. Or: four-sters. Four + sters = Fosters"
-    - number: 3
-      initials: I B
-      clue: "That Scottish bloke's got a metal bar where his eyebrow is. Bit alarming really."
-      answer: Irn Bru
-      aliases:
-        - irn bru
-        - iron bru
-      reasoning: "irn (iron, Scottish spelling) + bru (brew, a drink) = Irn-Bru"
-
+  - number: 1
+    initials: B
+    clue: That lad from Germany, right, he's trying to tell you something but you're not listening. He keeps trying.
+    answer: Becks
+    aliases:
+    - becks
+    - beck's
+    reasoning: beck (a stream, or beckoning gesture) + s = Becks. Also Beck is a name. Becks.
+  - number: 2
+    initials: F
+    clue: Right, you've got four of something, each one slightly more annoying than the last. Someone's been breeding them.
+    answer: Fosters
+    aliases:
+    - fosters
+    - foster's
+    reasoning: 'fos (foes, enemies sort of) + ters = foster''s. Or: four-sters. Four + sters = Fosters'
+  - number: 3
+    initials: I B
+    clue: That Scottish bloke's got a metal bar where his eyebrow is. Bit alarming really.
+    answer: Irn Bru
+    aliases:
+    - irn bru
+    - iron bru
+    reasoning: irn (iron, Scottish spelling) + bru (brew, a drink) = Irn-Bru
 - id: drinkbusters-005
   enabled: true
   title: Drinkbusters
@@ -141,35 +137,34 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Welcome to Drinkbusters. All the clues lead to something you can pour into a glass. Away you go."
-  prize: "Email in. Winner gets a Now 47 cassette and a mug with a chip in it from a forgotten office."
+  - UK
+  intro: Welcome to Drinkbusters. All the clues lead to something you can pour into a glass. Away you go.
+  prize: Email in. Winner gets a Now 47 cassette and a mug with a chip in it from a forgotten office.
   clues:
-    - number: 1
-      initials: K
-      clue: "That mountain range in Sweden, right, it's absolutely overflowing with something. Can't get enough of it up there."
-      answer: Kopparberg
-      aliases:
-        - kopparberg
-      reasoning: "kopp (cup in Swedish) + ar (are) + berg (mountain) = Kopparberg. Spoken: 'copper-berg' = Kopparberg"
-    - number: 2
-      initials: P
-      clue: "That fella Pim, right, he's got loads of stuff. Just loads of it. More than you'd expect."
-      answer: Pimms
-      aliases:
-        - pimms
-        - pim's
-        - pimm's
-      reasoning: "Pim (a name) + ms = Pimms. Pim's = Pimm's"
-    - number: 3
-      initials: B
-      clue: "Right, he's gone and bought a load at half price. Absolute bargain. Two for the price of one and that."
-      answer: Baileys
-      aliases:
-        - baileys
-        - bailey's
-      reasoning: "bail (to bail out, get a deal) + eys = bail-eys = Baileys"
-
+  - number: 1
+    initials: K
+    clue: That mountain range in Sweden, right, it's absolutely overflowing with something. Can't get enough of it up there.
+    answer: Kopparberg
+    aliases:
+    - kopparberg
+    reasoning: 'kopp (cup in Swedish) + ar (are) + berg (mountain) = Kopparberg. Spoken: ''copper-berg'' = Kopparberg'
+  - number: 2
+    initials: P
+    clue: That fella Pim, right, he's got loads of stuff. Just loads of it. More than you'd expect.
+    answer: Pimms
+    aliases:
+    - pimms
+    - pim's
+    - pimm's
+    reasoning: Pim (a name) + ms = Pimms. Pim's = Pimm's
+  - number: 3
+    initials: B
+    clue: Right, he's gone and bought a load at half price. Absolute bargain. Two for the price of one and that.
+    answer: Baileys
+    aliases:
+    - baileys
+    - bailey's
+    reasoning: bail (to bail out, get a deal) + eys = bail-eys = Baileys
 - id: drinkbusters-006
   enabled: true
   title: Drinkbusters
@@ -177,33 +172,32 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Right, it's Drinkbusters. Clues lead to drinks. Could be beer, could be wine, could be something your nan drinks."
-  prize: "Email in. Winner gets a signed note from someone who was nearly on Catchphrase and a bag of Revels."
+  - UK
+  intro: Right, it's Drinkbusters. Clues lead to drinks. Could be beer, could be wine, could be something your nan drinks.
+  prize: Email in. Winner gets a signed note from someone who was nearly on Catchphrase and a bag of Revels.
   clues:
-    - number: 1
-      initials: P
-      clue: "Those bubbles are acting really pleased with themselves. Proper fizzing about going, look at us, aren't we brilliant."
-      answer: Prosecco
-      aliases:
-        - prosecco
-      reasoning: "pro (in favour of) + sec (dry, as in wine) + co = prosecco = Prosecco"
-    - number: 2
-      initials: A S
-      clue: "That orange bloke, April's brother, he's gone and burst everywhere. Bit wet."
-      answer: Aperol Spritz
-      aliases:
-        - aperol spritz
-        - aperol
-      reasoning: "ape (an ape, orange-ish) + rol (roll) + spritz (a spray) = Aperol Spritz"
-    - number: 3
-      initials: C
-      clue: "The mechanic's working on a Swedish brand of flat-pack furniture and he's absolutely raging about it. You know how it is."
-      answer: Carlsberg
-      aliases:
-        - carlsberg
-      reasoning: "carl (a mechanic's name) + s + berg (Swedish/Danish for mountain, flat-pack-ish) = Carlsberg"
-
+  - number: 1
+    initials: P
+    clue: Those bubbles are acting really pleased with themselves. Proper fizzing about going, look at us, aren't we brilliant.
+    answer: Prosecco
+    aliases:
+    - prosecco
+    reasoning: pro (in favour of) + sec (dry, as in wine) + co = prosecco = Prosecco
+  - number: 2
+    initials: A S
+    clue: That orange bloke, April's brother, he's gone and burst everywhere. Bit wet.
+    answer: Aperol Spritz
+    aliases:
+    - aperol spritz
+    - aperol
+    reasoning: ape (an ape, orange-ish) + rol (roll) + spritz (a spray) = Aperol Spritz
+  - number: 3
+    initials: C
+    clue: The mechanic's working on a Swedish brand of flat-pack furniture and he's absolutely raging about it. You know how it is.
+    answer: Carlsberg
+    aliases:
+    - carlsberg
+    reasoning: carl (a mechanic's name) + s + berg (Swedish/Danish for mountain, flat-pack-ish) = Carlsberg
 - id: drinkbusters-007
   enabled: true
   title: Drinkbusters
@@ -211,33 +205,32 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Drinkbusters. Three clues. All drinks. Not all of them are good for you, but that's not the point."
-  prize: "Email in. Winner gets a Bratz doll with the hair slightly wrong and a multipack of crisps, two flavours gone."
+  - UK
+  intro: Drinkbusters. Three clues. All drinks. Not all of them are good for you, but that's not the point.
+  prize: Email in. Winner gets a Bratz doll with the hair slightly wrong and a multipack of crisps, two flavours gone.
   clues:
-    - number: 1
-      initials: C
-      clue: "That bloke Carl, right, he's just sitting there all smug. He reckons he's got something on you. And maybe he has."
-      answer: Carling
-      aliases:
-        - carling
-      reasoning: "carl (a name, Carl) + ing = carling = Carling"
-    - number: 2
-      initials: T
-      clue: "Ten of those little tents. Loads of them. All in a row. Someone's going camping in a big way."
-      answer: Tennents
-      aliases:
-        - tennents
-        - tennent's
-      reasoning: "ten (number 10) + nents (like 'tents' but softer) = ten-nents = Tennents"
-    - number: 3
-      initials: S M
-      clue: "There's a bloke from the Mediterranean, right, but he's ever so tiny. Like a miniature version. Sort of works, that."
-      answer: San Miguel
-      aliases:
-        - san miguel
-      reasoning: "san (saint) + miguel (Michael in Spanish) = San Miguel"
-
+  - number: 1
+    initials: C
+    clue: That bloke Carl, right, he's just sitting there all smug. He reckons he's got something on you. And maybe he has.
+    answer: Carling
+    aliases:
+    - carling
+    reasoning: carl (a name, Carl) + ing = carling = Carling
+  - number: 2
+    initials: T
+    clue: Ten of those little tents. Loads of them. All in a row. Someone's going camping in a big way.
+    answer: Tennents
+    aliases:
+    - tennents
+    - tennent's
+    reasoning: ten (number 10) + nents (like 'tents' but softer) = ten-nents = Tennents
+  - number: 3
+    initials: S M
+    clue: There's a bloke from the Mediterranean, right, but he's ever so tiny. Like a miniature version. Sort of works, that.
+    answer: San Miguel
+    aliases:
+    - san miguel
+    reasoning: san (saint) + miguel (Michael in Spanish) = San Miguel
 - id: drinkbusters-008
   enabled: true
   title: Drinkbusters
@@ -245,34 +238,33 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Here's Drinkbusters. Some of these are classics, some are a bit niche. All you can drink though."
-  prize: "Email in. Winner gets a Shrek 2 DVD in a case that's slightly cracked and a packet of Hobnobs, mostly intact."
+  - UK
+  intro: Here's Drinkbusters. Some of these are classics, some are a bit niche. All you can drink though.
+  prize: Email in. Winner gets a Shrek 2 DVD in a case that's slightly cracked and a packet of Hobnobs, mostly intact.
   clues:
-    - number: 1
-      initials: K
-      clue: "That fella from Normandy is trying to get his crops in before the rain. He's going at a fair pace, I'll tell you that."
-      answer: Kronenbourg
-      aliases:
-        - kronenbourg
-        - kronenbourg 1664
-      reasoning: "krone (crown, French/German) + bourg (town in French) = Kronenbourg. Spoken: 'kron-en-boor' = Kronenbourg"
-    - number: 2
-      initials: B
-      clue: "Right, there's a fella from Germany and he's absolutely loaded. Made of money, he is."
-      answer: Budweiser
-      aliases:
-        - budweiser
-        - bud
-      reasoning: "bud (mate, or a bud of something) + weiser (wiser, smarter) = Budweiser"
-    - number: 3
-      initials: D B
-      clue: "Someone's had a blazing row over a yellow flower. And then this other thing, a male deer, has turned up. Sort of explains itself, that."
-      answer: Dandelion and Burdock
-      aliases:
-        - dandelion and burdock
-      reasoning: "dandelion (yellow flower) + and + bur (burr, spiky thing) + dock (a dock plant) = Dandelion and Burdock"
-
+  - number: 1
+    initials: K
+    clue: That fella from Normandy is trying to get his crops in before the rain. He's going at a fair pace, I'll tell you that.
+    answer: Kronenbourg
+    aliases:
+    - kronenbourg
+    - kronenbourg 1664
+    reasoning: 'krone (crown, French/German) + bourg (town in French) = Kronenbourg. Spoken: ''kron-en-boor'' = Kronenbourg'
+  - number: 2
+    initials: B
+    clue: Right, there's a fella from Germany and he's absolutely loaded. Made of money, he is.
+    answer: Budweiser
+    aliases:
+    - budweiser
+    - bud
+    reasoning: bud (mate, or a bud of something) + weiser (wiser, smarter) = Budweiser
+  - number: 3
+    initials: D B
+    clue: Someone's had a blazing row over a yellow flower. And then this other thing, a male deer, has turned up. Sort of explains itself, that.
+    answer: Dandelion and Burdock
+    aliases:
+    - dandelion and burdock
+    reasoning: dandelion (yellow flower) + and + bur (burr, spiky thing) + dock (a dock plant) = Dandelion and Burdock
 - id: drinkbusters-009
   enabled: true
   title: Drinkbusters
@@ -280,33 +272,32 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Drinkbusters. Say each clue out loud and you'll hear what the drink is. That's the whole game, really."
-  prize: "Email in. Winner gets a copy of Harry Potter and the Chamber of Secrets on VHS and a loyalty card for a gym they never joined."
+  - UK
+  intro: Drinkbusters. Say each clue out loud and you'll hear what the drink is. That's the whole game, really.
+  prize: Email in. Winner gets a copy of Harry Potter and the Chamber of Secrets on VHS and a loyalty card for a gym they never joined.
   clues:
-    - number: 1
-      initials: T
-      clue: "That bloke's found some kind of red dye and he's going absolutely wild with it. Everything's going red. Bit much."
-      answer: Tizer
-      aliases:
-        - tizer
-      reasoning: "tize (tease, entice, like appetizer) + r = tizer = Tizer"
-    - number: 2
-      initials: S B
-      clue: "That's a proper weak one, isn't it. Half and half. Can't commit either way. You know what it is."
-      answer: Shandy Bass
-      aliases:
-        - shandy bass
-        - shandy
-      reasoning: "shandy (half beer half lemonade) + bass (the low note, or Bass the beer) = Shandy Bass"
-    - number: 3
-      initials: L
-      clue: "There's a road, right, and at the end of it there's a crossing. And someone's selling stuff there. Say it out loud."
-      answer: Lucozade
-      aliases:
-        - lucozade
-      reasoning: "loo (toilet) + co (company prefix) + zade = lucozade = Lucozade"
-
+  - number: 1
+    initials: T
+    clue: That bloke's found some kind of red dye and he's going absolutely wild with it. Everything's going red. Bit much.
+    answer: Tizer
+    aliases:
+    - tizer
+    reasoning: tize (tease, entice, like appetizer) + r = tizer = Tizer
+  - number: 2
+    initials: S B
+    clue: That's a proper weak one, isn't it. Half and half. Can't commit either way. You know what it is.
+    answer: Shandy Bass
+    aliases:
+    - shandy bass
+    - shandy
+    reasoning: shandy (half beer half lemonade) + bass (the low note, or Bass the beer) = Shandy Bass
+  - number: 3
+    initials: L
+    clue: There's a road, right, and at the end of it there's a crossing. And someone's selling stuff there. Say it out loud.
+    answer: Lucozade
+    aliases:
+    - lucozade
+    reasoning: loo (toilet) + co (company prefix) + zade = lucozade = Lucozade
 - id: drinkbusters-010
   enabled: true
   title: Drinkbusters
@@ -314,32 +305,31 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Right, Drinkbusters round ten. Double figures. Getting serious now. Still just drinks, mind."
-  prize: "Email in. Winner gets an It's a Knockout VHS and a tin of shortbread from a charity shop."
+  - UK
+  intro: Right, Drinkbusters round ten. Double figures. Getting serious now. Still just drinks, mind.
+  prize: Email in. Winner gets an It's a Knockout VHS and a tin of shortbread from a charity shop.
   clues:
-    - number: 1
-      initials: G
-      clue: "That fella's got a proper unique way of spelling his name. Starts with a G but sounds like it shouldn't. Irish. Obviously."
-      answer: Guinness
-      aliases:
-        - guinness
-      reasoning: "guin (sounds like 'gwin') + ness (a headland, or suffix meaning quality) = Guinness"
-    - number: 2
-      initials: P
-      clue: "Right, she's lost her glasses and now she's just wandering around near some Italian hills going, where am I. Sort of Italian."
-      answer: Peroni
-      aliases:
-        - peroni
-      reasoning: "per (Italian for 'by' or 'for') + oni (plural suffix, Italian) = Peroni"
-    - number: 3
-      initials: V
-      clue: "There's vim in that place, loads of energy, but nobody knows what to do with it. Just sitting there, buzzing."
-      answer: Vimto
-      aliases:
-        - vimto
-      reasoning: "vim (energy, vigour) + to (a direction) = vimto = Vimto"
-
+  - number: 1
+    initials: G
+    clue: That fella's got a proper unique way of spelling his name. Starts with a G but sounds like it shouldn't. Irish. Obviously.
+    answer: Guinness
+    aliases:
+    - guinness
+    reasoning: guin (sounds like 'gwin') + ness (a headland, or suffix meaning quality) = Guinness
+  - number: 2
+    initials: P
+    clue: Right, she's lost her glasses and now she's just wandering around near some Italian hills going, where am I. Sort of Italian.
+    answer: Peroni
+    aliases:
+    - peroni
+    reasoning: per (Italian for 'by' or 'for') + oni (plural suffix, Italian) = Peroni
+  - number: 3
+    initials: V
+    clue: There's vim in that place, loads of energy, but nobody knows what to do with it. Just sitting there, buzzing.
+    answer: Vimto
+    aliases:
+    - vimto
+    reasoning: vim (energy, vigour) + to (a direction) = vimto = Vimto
 - id: drinkbusters-011
   enabled: true
   title: Drinkbusters
@@ -347,34 +337,33 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Drinkbusters. You know how it works by now. Listen to the clue, hear the drink. Off you go."
-  prize: "Email in. Winner gets a framed certificate of participation from a pub quiz circa 2003 and a Twix."
+  - UK
+  intro: Drinkbusters. You know how it works by now. Listen to the clue, hear the drink. Off you go.
+  prize: Email in. Winner gets a framed certificate of participation from a pub quiz circa 2003 and a Twix.
   clues:
-    - number: 1
-      initials: S A
-      clue: "That shining thing in the sky near some oil paintings and a bit of French. Don't ask, just say it out loud."
-      answer: Stella Artois
-      aliases:
-        - stella artois
-        - stella
-      reasoning: "stella (star) + art (art) + ois (French sound) = Stella Artois"
-    - number: 2
-      initials: H
-      clue: "Right, that bloke's really tall. Like, nine foot tall. And he's just arrived. Hi, nine. Sort of."
-      answer: Heineken
-      aliases:
-        - heineken
-      reasoning: "hi (greeting) + ne (sounds like 'nuh') + ken (a man's name, to know) = Heineken"
-    - number: 3
-      initials: B
-      clue: "There's loads of daffodils waving about in a field. Makes you feel cheerful and that. Quite nice, actually."
-      answer: Baileys
-      aliases:
-        - baileys
-        - bailey's
-      reasoning: "bail (to leave, or a bail of hay) + eys = bail-eys = Baileys"
-
+  - number: 1
+    initials: S A
+    clue: That shining thing in the sky near some oil paintings and a bit of French. Don't ask, just say it out loud.
+    answer: Stella Artois
+    aliases:
+    - stella artois
+    - stella
+    reasoning: stella (star) + art (art) + ois (French sound) = Stella Artois
+  - number: 2
+    initials: H
+    clue: Right, that bloke's really tall. Like, nine foot tall. And he's just arrived. Hi, nine. Sort of.
+    answer: Heineken
+    aliases:
+    - heineken
+    reasoning: hi (greeting) + ne (sounds like 'nuh') + ken (a man's name, to know) = Heineken
+  - number: 3
+    initials: B
+    clue: There's loads of daffodils waving about in a field. Makes you feel cheerful and that. Quite nice, actually.
+    answer: Baileys
+    aliases:
+    - baileys
+    - bailey's
+    reasoning: bail (to leave, or a bail of hay) + eys = bail-eys = Baileys
 - id: drinkbusters-012
   enabled: true
   title: Drinkbusters
@@ -382,32 +371,31 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Here's Drinkbusters twelve. All drinks, UK relevance, easy enough. Have a go."
-  prize: "Email in. Winner gets a 2002 AA road atlas and a Freddo, slightly melted."
+  - UK
+  intro: Here's Drinkbusters twelve. All drinks, UK relevance, easy enough. Have a go.
+  prize: Email in. Winner gets a 2002 AA road atlas and a Freddo, slightly melted.
   clues:
-    - number: 1
-      initials: C
-      clue: "There's a king sitting on a throne and all around him there's a shiny metallic ring. And he's grinning about it."
-      answer: Corona
-      aliases:
-        - corona
-      reasoning: "cor (exclamation, blimey) + ona = cor-ona = Corona. Crown in Latin."
-    - number: 2
-      initials: K
-      clue: "A copper's found a mountain in Scandinavia. He's proper chuffed about it. Just standing there next to it."
-      answer: Kopparberg
-      aliases:
-        - kopparberg
-      reasoning: "kopp (copper, cop) + ar (are) + berg (mountain, Scandinavian) = Kopparberg"
-    - number: 3
-      initials: C
-      clue: "That lass is making a proper fuss about getting on a boat. She won't stop going on about the gangway."
-      answer: Carlsberg
-      aliases:
-        - carlsberg
-      reasoning: "carls (Carl's, possessive of the name Carl) + berg (mountain, iceberg) = Carlsberg"
-
+  - number: 1
+    initials: C
+    clue: There's a king sitting on a throne and all around him there's a shiny metallic ring. And he's grinning about it.
+    answer: Corona
+    aliases:
+    - corona
+    reasoning: cor (exclamation, blimey) + ona = cor-ona = Corona. Crown in Latin.
+  - number: 2
+    initials: K
+    clue: A copper's found a mountain in Scandinavia. He's proper chuffed about it. Just standing there next to it.
+    answer: Kopparberg
+    aliases:
+    - kopparberg
+    reasoning: kopp (copper, cop) + ar (are) + berg (mountain, Scandinavian) = Kopparberg
+  - number: 3
+    initials: C
+    clue: That lass is making a proper fuss about getting on a boat. She won't stop going on about the gangway.
+    answer: Carlsberg
+    aliases:
+    - carlsberg
+    reasoning: carls (Carl's, possessive of the name Carl) + berg (mountain, iceberg) = Carlsberg
 - id: drinkbusters-013
   enabled: true
   title: Drinkbusters
@@ -415,34 +403,33 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Right, Drinkbusters thirteen. Unlucky for some, but maybe not for you. Three drinks, away we go."
-  prize: "Email in. Winner gets a bobble hat with a logo on it from a company nobody remembers and some Quality Street, the good ones removed."
+  - UK
+  intro: Right, Drinkbusters thirteen. Unlucky for some, but maybe not for you. Three drinks, away we go.
+  prize: Email in. Winner gets a bobble hat with a logo on it from a company nobody remembers and some Quality Street, the good ones removed.
   clues:
-    - number: 1
-      initials: S B
-      clue: "This archer, right, he's absolutely massive. Like, properly huge. And his bow's enormous. Just enormous."
-      answer: Strongbow
-      aliases:
-        - strongbow
-      reasoning: "strong (powerful, massive) + bow (an archer's bow) = Strongbow"
-    - number: 2
-      initials: I B
-      clue: "There's a Scottish fella who's had a whole metal bar welded onto his forehead. He seems alright about it, actually."
-      answer: Irn Bru
-      aliases:
-        - irn bru
-        - iron bru
-      reasoning: "irn (iron, Scottish) + bru (brew) = Irn-Bru"
-    - number: 3
-      initials: P
-      clue: "Right, it's about this garden party thing. Loads of cucumber. Loads of mint. Bloke in a blazer standing near a jug."
-      answer: Pimms
-      aliases:
-        - pimms
-        - pimm's
-      reasoning: "Pim (short for Pimm, a name) + ms = Pimms = Pimm's"
-
+  - number: 1
+    initials: S B
+    clue: This archer, right, he's absolutely massive. Like, properly huge. And his bow's enormous. Just enormous.
+    answer: Strongbow
+    aliases:
+    - strongbow
+    reasoning: strong (powerful, massive) + bow (an archer's bow) = Strongbow
+  - number: 2
+    initials: I B
+    clue: There's a Scottish fella who's had a whole metal bar welded onto his forehead. He seems alright about it, actually.
+    answer: Irn Bru
+    aliases:
+    - irn bru
+    - iron bru
+    reasoning: irn (iron, Scottish) + bru (brew) = Irn-Bru
+  - number: 3
+    initials: P
+    clue: Right, it's about this garden party thing. Loads of cucumber. Loads of mint. Bloke in a blazer standing near a jug.
+    answer: Pimms
+    aliases:
+    - pimms
+    - pimm's
+    reasoning: Pim (short for Pimm, a name) + ms = Pimms = Pimm's
 - id: drinkbusters-014
   enabled: true
   title: Drinkbusters
@@ -450,33 +437,32 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Drinkbusters. This one's all about what's in your glass. Or what should be in your glass. Over to you."
-  prize: "Email in. Winner gets a slightly damp copy of the Radio Times from Christmas 2001 and a Kit Kat."
+  - UK
+  intro: Drinkbusters. This one's all about what's in your glass. Or what should be in your glass. Over to you.
+  prize: Email in. Winner gets a slightly damp copy of the Radio Times from Christmas 2001 and a Kit Kat.
   clues:
-    - number: 1
-      initials: T
-      clue: "These red berries have got absolutely no fear. No shame. Just strolling about, letting everyone know they're here."
-      answer: Tizer
-      aliases:
-        - tizer
-      reasoning: "ti (tea, or a musical note) + zer = tizer = Tizer. The appetizer of fizzy drinks."
-    - number: 2
-      initials: F
-      clue: "He's fostering something. Not sure what. Could be a child, could be a good idea. Either way, he's nurturing it."
-      answer: Fosters
-      aliases:
-        - fosters
-        - foster's
-      reasoning: "foster (to nurture, to raise) + s = Fosters"
-    - number: 3
-      initials: D B
-      clue: "Right, a lion's turned up to a field full of tiny prickly things next to a jetty. Bit unusual."
-      answer: Dandelion and Burdock
-      aliases:
-        - dandelion and burdock
-      reasoning: "dande (sounds like dandy) + lion + and + bur (burr, prickly) + dock (a jetty or plant) = Dandelion and Burdock"
-
+  - number: 1
+    initials: T
+    clue: These red berries have got absolutely no fear. No shame. Just strolling about, letting everyone know they're here.
+    answer: Tizer
+    aliases:
+    - tizer
+    reasoning: ti (tea, or a musical note) + zer = tizer = Tizer. The appetizer of fizzy drinks.
+  - number: 2
+    initials: F
+    clue: He's fostering something. Not sure what. Could be a child, could be a good idea. Either way, he's nurturing it.
+    answer: Fosters
+    aliases:
+    - fosters
+    - foster's
+    reasoning: foster (to nurture, to raise) + s = Fosters
+  - number: 3
+    initials: D B
+    clue: Right, a lion's turned up to a field full of tiny prickly things next to a jetty. Bit unusual.
+    answer: Dandelion and Burdock
+    aliases:
+    - dandelion and burdock
+    reasoning: dande (sounds like dandy) + lion + and + bur (burr, prickly) + dock (a jetty or plant) = Dandelion and Burdock
 - id: drinkbusters-015
   enabled: true
   title: Drinkbusters
@@ -484,33 +470,32 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Alright, Drinkbusters fifteen. Halfway through the big one. All drinks. Easy mode. Let's be having you."
-  prize: "Email in. Winner gets a limited edition Noel's House Party mug and an unopened pack of travel Connect Four."
+  - UK
+  intro: Drinkbusters. All drinks, phonetic clues. Let's be having you.
+  prize: Email in. Winner gets a limited edition Noel's House Party mug and an unopened pack of travel Connect Four.
   clues:
-    - number: 1
-      initials: R
-      clue: "There's a woman from a soap opera and she's shrunk. Got proper tiny. She's wandered into someone's garden."
-      answer: Ribena
-      aliases:
-        - ribena
-      reasoning: "rib (a rib bone, or to rib someone) + ena (a woman's name, like Ena Sharples) = Ribena"
-    - number: 2
-      initials: B
-      clue: "Right, that German bloke's sprinting but you're not bothered. Not impressed at all. Just watching him go."
-      answer: Becks
-      aliases:
-        - becks
-        - beck's
-      reasoning: "beck (to beckon) + s = Becks. Also Beck is a German musician. Becks."
-    - number: 3
-      initials: P
-      clue: "That little pony's wandered inside somehow. It's in the kitchen now. Nobody's quite sure how it got in."
-      answer: Peroni
-      aliases:
-        - peroni
-      reasoning: "per (Italian prefix, by way of) + oni (sounds like pony minus the p) = per-oni = Peroni"
-
+  - number: 1
+    initials: R
+    clue: There's a woman from a soap opera and she's shrunk. Got proper tiny. She's wandered into someone's garden.
+    answer: Ribena
+    aliases:
+    - ribena
+    reasoning: rib (a rib bone, or to rib someone) + ena (a woman's name, like Ena Sharples) = Ribena
+  - number: 2
+    initials: B
+    clue: Right, that German bloke's sprinting but you're not bothered. Not impressed at all. Just watching him go.
+    answer: Becks
+    aliases:
+    - becks
+    - beck's
+    reasoning: beck (to beckon) + s = Becks. Also Beck is a German musician. Becks.
+  - number: 3
+    initials: P
+    clue: That little pony's wandered inside somehow. It's in the kitchen now. Nobody's quite sure how it got in.
+    answer: Peroni
+    aliases:
+    - peroni
+    reasoning: per (Italian prefix, by way of) + oni (sounds like pony minus the p) = per-oni = Peroni
 - id: drinkbusters-016
   enabled: true
   title: Drinkbusters
@@ -518,32 +503,31 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Drinkbusters sixteen. Three more drinks to work out. You know what to do."
-  prize: "Email in. Winner gets a laminated menu from a restaurant that's now a Tesco Express and a custard cream."
+  - UK
+  intro: Drinkbusters sixteen. Three more drinks to work out. You know what to do.
+  prize: Email in. Winner gets a laminated menu from a restaurant that's now a Tesco Express and a custard cream.
   clues:
-    - number: 1
-      initials: P
-      clue: "Those bubbles, right, they've all come together and they're acting really professionally. Like a proper business bubble team."
-      answer: Prosecco
-      aliases:
-        - prosecco
-      reasoning: "pro (professional) + sec (second, or dry in wine terms) + co (company) = Prosecco"
-    - number: 2
-      initials: C
-      clue: "That fella Carl is just lingering, isn't he. Just hanging about. Won't go home. Just sort of... Carl-ing."
-      answer: Carling
-      aliases:
-        - carling
-      reasoning: "Carl (a name) + ing (doing something) = Carling"
-    - number: 3
-      initials: S M
-      clue: "There's a holy little man arrived from Spain with a big grin on him. Very pleased with himself."
-      answer: San Miguel
-      aliases:
-        - san miguel
-      reasoning: "san (saint, Spanish) + miguel (Michael in Spanish) = San Miguel"
-
+  - number: 1
+    initials: P
+    clue: Those bubbles, right, they've all come together and they're acting really professionally. Like a proper business bubble team.
+    answer: Prosecco
+    aliases:
+    - prosecco
+    reasoning: pro (professional) + sec (second, or dry in wine terms) + co (company) = Prosecco
+  - number: 2
+    initials: C
+    clue: That fella Carl is just lingering, isn't he. Just hanging about. Won't go home. Just sort of... Carl-ing.
+    answer: Carling
+    aliases:
+    - carling
+    reasoning: Carl (a name) + ing (doing something) = Carling
+  - number: 3
+    initials: S M
+    clue: There's a holy little man arrived from Spain with a big grin on him. Very pleased with himself.
+    answer: San Miguel
+    aliases:
+    - san miguel
+    reasoning: san (saint, Spanish) + miguel (Michael in Spanish) = San Miguel
 - id: drinkbusters-017
   enabled: true
   title: Drinkbusters
@@ -551,34 +535,33 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Here's your Drinkbusters. Clues all lead to drinks. Some fizzy, some not. All drinkable, hopefully."
-  prize: "Email in. Winner gets a Mr Motivator workout VHS and a voucher for 10p off a pint, expired 2004."
+  - UK
+  intro: Here's your Drinkbusters. Clues all lead to drinks. Some fizzy, some not. All drinkable, hopefully.
+  prize: Email in. Winner gets a Mr Motivator workout VHS and a voucher for 10p off a pint, expired 2004.
   clues:
-    - number: 1
-      initials: A S
-      clue: "There's this great ape, right, and he's spinning around and getting everyone a bit damp. Just spray everywhere."
-      answer: Aperol Spritz
-      aliases:
-        - aperol spritz
-        - aperol
-      reasoning: "ape (a great ape) + rol (to roll, spinning) + spritz (a spray) = Aperol Spritz"
-    - number: 2
-      initials: T
-      clue: "Those tents, there's ten of them in a field. Someone's moved into all of them at once. Fair enough."
-      answer: Tennents
-      aliases:
-        - tennents
-        - tennent's
-      reasoning: "ten (the number 10) + nents (sounds like tents) = ten-nents = Tennents"
-    - number: 3
-      initials: L
-      clue: "He's had an energy drink and now he's absolutely bouncing around the whole of Piccadilly Circus. You can tell, can't you."
-      answer: Lucozade
-      aliases:
-        - lucozade
-      reasoning: "lucos (sounds like 'looks as') + ade (like lemonade, a drink) = Lucozade"
-
+  - number: 1
+    initials: A S
+    clue: There's this great ape, right, and he's spinning around and getting everyone a bit damp. Just spray everywhere.
+    answer: Aperol Spritz
+    aliases:
+    - aperol spritz
+    - aperol
+    reasoning: ape (a great ape) + rol (to roll, spinning) + spritz (a spray) = Aperol Spritz
+  - number: 2
+    initials: T
+    clue: Those tents, there's ten of them in a field. Someone's moved into all of them at once. Fair enough.
+    answer: Tennents
+    aliases:
+    - tennents
+    - tennent's
+    reasoning: ten (the number 10) + nents (sounds like tents) = ten-nents = Tennents
+  - number: 3
+    initials: L
+    clue: He's had an energy drink and now he's absolutely bouncing around the whole of Piccadilly Circus. You can tell, can't you.
+    answer: Lucozade
+    aliases:
+    - lucozade
+    reasoning: lucos (sounds like 'looks as') + ade (like lemonade, a drink) = Lucozade
 - id: drinkbusters-018
   enabled: true
   title: Drinkbusters
@@ -586,35 +569,34 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Drinkbusters eighteen. Nearly there. Three drinks hidden in the clues. Go on then."
-  prize: "Email in. Winner gets a Millennium Dome souvenir pen and a bag of Werther's Originals, most still there."
+  - UK
+  intro: Drinkbusters. Three drinks hidden in the clues. Go on then.
+  prize: Email in. Winner gets a Millennium Dome souvenir pen and a bag of Werther's Originals, most still there.
   clues:
-    - number: 1
-      initials: K
-      clue: "Right, there's a town in France, and all the people there, every single one of them, has got a crown on. Proper fancy."
-      answer: Kronenbourg
-      aliases:
-        - kronenbourg
-        - kronenbourg 1664
-      reasoning: "krone (crown, German/French) + n + bourg (a town in French) = Kronenbourg"
-    - number: 2
-      initials: B
-      clue: "Budgie's mate reckons he knows best. Proper clever, he thinks. Always got the answer to everything, has this bloke."
-      answer: Budweiser
-      aliases:
-        - budweiser
-        - bud
-      reasoning: "bud (mate, a bud/friend) + weiser (wiser, cleverer) = Budweiser"
-    - number: 3
-      initials: S B
-      clue: "Half beer, half lemonade, and it's got a name. Not a famous name. Just a name. Bass, as it goes."
-      answer: Shandy Bass
-      aliases:
-        - shandy bass
-        - shandy
-      reasoning: "shandy (a half-and-half drink) + bass (Bass Brewery) = Shandy Bass"
-
+  - number: 1
+    initials: K
+    clue: Right, there's a town in France, and all the people there, every single one of them, has got a crown on. Proper fancy.
+    answer: Kronenbourg
+    aliases:
+    - kronenbourg
+    - kronenbourg 1664
+    reasoning: krone (crown, German/French) + n + bourg (a town in French) = Kronenbourg
+  - number: 2
+    initials: B
+    clue: Budgie's mate reckons he knows best. Proper clever, he thinks. Always got the answer to everything, has this bloke.
+    answer: Budweiser
+    aliases:
+    - budweiser
+    - bud
+    reasoning: bud (mate, a bud/friend) + weiser (wiser, cleverer) = Budweiser
+  - number: 3
+    initials: S B
+    clue: Half beer, half lemonade, and it's got a name. Not a famous name. Just a name. Bass, as it goes.
+    answer: Shandy Bass
+    aliases:
+    - shandy bass
+    - shandy
+    reasoning: shandy (a half-and-half drink) + bass (Bass Brewery) = Shandy Bass
 - id: drinkbusters-019
   enabled: true
   title: Drinkbusters
@@ -622,32 +604,31 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Right, nearly the end of Drinkbusters. Two more after this one. These clues lead to drinks. Say them out loud."
-  prize: "Email in. Winner gets a 1998 Argos catalogue with some things circled and a Penguin biscuit."
+  - UK
+  intro: Right, nearly the end of Drinkbusters. Two more after this one. These clues lead to drinks. Say them out loud.
+  prize: Email in. Winner gets a 1998 Argos catalogue with some things circled and a Penguin biscuit.
   clues:
-    - number: 1
-      initials: G
-      clue: "That Irish bloke's got a hiss. Like, whenever he opens his mouth, just this faint hiss. It's very specific."
-      answer: Guinness
-      aliases:
-        - guinness
-      reasoning: "guin (sounds like 'gwin', Irish name) + ness (a hiss, a characteristic) = Guinness"
-    - number: 2
-      initials: C
-      clue: "Right, that Scandinavian bloke called Carl, not Danish, not Norwegian, the other one, he's been at it again."
-      answer: Carlsberg
-      aliases:
-        - carlsberg
-      reasoning: "carls (Carl's, belonging to Carl) + berg (Scandinavian for mountain) = Carlsberg"
-    - number: 3
-      initials: V
-      clue: "There's a lot of energy in that place and it's heading somewhere specific. It's got direction, that energy. You know where it's going."
-      answer: Vimto
-      aliases:
-        - vimto
-      reasoning: "vim (energy, vigour) + to (direction, towards) = Vimto"
-
+  - number: 1
+    initials: G
+    clue: That Irish bloke's got a hiss. Like, whenever he opens his mouth, just this faint hiss. It's very specific.
+    answer: Guinness
+    aliases:
+    - guinness
+    reasoning: guin (sounds like 'gwin', Irish name) + ness (a hiss, a characteristic) = Guinness
+  - number: 2
+    initials: C
+    clue: Right, that Scandinavian bloke called Carl, not Danish, not Norwegian, the other one, he's been at it again.
+    answer: Carlsberg
+    aliases:
+    - carlsberg
+    reasoning: carls (Carl's, belonging to Carl) + berg (Scandinavian for mountain) = Carlsberg
+  - number: 3
+    initials: V
+    clue: There's a lot of energy in that place and it's heading somewhere specific. It's got direction, that energy. You know where it's going.
+    answer: Vimto
+    aliases:
+    - vimto
+    reasoning: vim (energy, vigour) + to (direction, towards) = Vimto
 - id: drinkbusters-020
   enabled: true
   title: Drinkbusters
@@ -655,30 +636,30 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Last one. Drinkbusters twenty. Final round of drinks. Make it count."
-  prize: "Email in. Winner gets a Ceefax print-out of the top ten in 1999 and a slightly bendy Twirl."
+  - UK
+  intro: Drinkbusters. Drinks of all kinds hiding in the phonetic clues. Say them out loud.
+  prize: Email in. Winner gets a Ceefax print-out of the top ten in 1999 and a slightly bendy Twirl.
   clues:
-    - number: 1
-      initials: S A
-      clue: "There's a really posh star, not a normal star, a proper A-lister, and it's hanging around a French gallery. Of course it is."
-      answer: Stella Artois
-      aliases:
-        - stella artois
-        - stella
-      reasoning: "stella (Latin for star) + art (fine art, a gallery) + ois (French-sounding ending) = Stella Artois"
-    - number: 2
-      initials: R
-      clue: "That dark fruit stuff, it's got purple all over it and there's a little woman from Coronation Street in there somewhere."
-      answer: Ribena
-      aliases:
-        - ribena
-      reasoning: "rib (a rib, or ribbed) + ena (a woman's name, Ena Sharples) = Ribena"
-    - number: 3
-      initials: I B
-      clue: "Some bloke from Glasgow's turned up with a massive metal rod balanced across his face. He seems fine about it."
-      answer: Irn Bru
-      aliases:
-        - irn bru
-        - iron bru
-      reasoning: "irn (iron, as said in a Scottish accent) + bru (brew, a drink) = Irn-Bru"
+  - number: 1
+    initials: S A
+    clue: There's a really posh star, not a normal star, a proper A-lister, and it's hanging around a French gallery. Of course it is.
+    answer: Stella Artois
+    aliases:
+    - stella artois
+    - stella
+    reasoning: stella (Latin for star) + art (fine art, a gallery) + ois (French-sounding ending) = Stella Artois
+  - number: 2
+    initials: R
+    clue: That dark fruit stuff, it's got purple all over it and there's a little woman from Coronation Street in there somewhere.
+    answer: Ribena
+    aliases:
+    - ribena
+    reasoning: rib (a rib, or ribbed) + ena (a woman's name, Ena Sharples) = Ribena
+  - number: 3
+    initials: I B
+    clue: Some bloke from Glasgow's turned up with a massive metal rod balanced across his face. He seems fine about it.
+    answer: Irn Bru
+    aliases:
+    - irn bru
+    - iron bru
+    reasoning: irn (iron, as said in a Scottish accent) + bru (brew, a drink) = Irn-Bru

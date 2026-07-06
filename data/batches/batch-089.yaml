@@ -5,32 +5,31 @@
   difficulty: hard
   office_safe: true
   region_relevance:
-    - Global
-  intro: "Right, Elementsbusters. All chemical elements hiding in the sounds of these clues. Say each one out loud. The phonetics'll do the work. It's not about spelling. It's about what it sounds like when you say it."
-  prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
+  - Global
+  intro: Right, Elementsbusters. All chemical elements hiding in the sounds of these clues. Say each one out loud. The phonetics'll do the work. It's not about spelling. It's about what it sounds like when you say it.
+  prize: Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station.
   clues:
-    - number: 1
-      initials: P
-      clue: "A bloke called Ross has been given a job moving heavy things around a factory. He's got a van. He's picking stuff up. The foreman keeps phoning asking where the deliveries are."
-      answer: Phosphorus
-      aliases:
-        - phosphorus
-      reasoning: "foss (sounds like 'foss', as in fossil, or a ditch) + for (to move something on behalf of someone) + us (me and you, us lot) = Foss-for-us = Phosphorus"
-    - number: 2
-      initials: M
-      clue: "A woman called Maggie has been told her knees are in a bad way. The doctor has had a look. He's not thrilled. Said she's been overdoing it on some kind of machine."
-      answer: Magnesium
-      aliases:
-        - magnesium
-      reasoning: "mag (sounds like 'Mag', short for Maggie) + knee (the joint, goes wrong) + see (to look at something) + um (that noise you make when you're not sure) = Mag-nee-see-um = Magnesium"
-    - number: 3
-      initials: F
-      clue: "A woman called Flo has gone in and had a look at a drain. She's not happy with what she found in there. She's reporting it back but nobody's listening properly."
-      answer: Fluorine
-      aliases:
-        - fluorine
-      reasoning: "floo (sounds like 'flew', past tense of fly, or 'flue', a drain pipe) + reen (sounds like 'reen', a drain in West Country slang, or just 'reen') = Floo-reen = Fluorine"
-
+  - number: 1
+    initials: P
+    clue: A bloke called Ross has been given a job moving heavy things around a factory. He's got a van. He's picking stuff up. The foreman keeps phoning asking where the deliveries are.
+    answer: Phosphorus
+    aliases:
+    - phosphorus
+    reasoning: foss (sounds like 'foss', as in fossil, or a ditch) + for (to move something on behalf of someone) + us (me and you, us lot) = Foss-for-us = Phosphorus
+  - number: 2
+    initials: M
+    clue: A woman called Maggie has been told her knees are in a bad way. The doctor has had a look. He's not thrilled. Said she's been overdoing it on some kind of machine.
+    answer: Magnesium
+    aliases:
+    - magnesium
+    reasoning: mag (sounds like 'Mag', short for Maggie) + knee (the joint, goes wrong) + see (to look at something) + um (that noise you make when you're not sure) = Mag-nee-see-um = Magnesium
+  - number: 3
+    initials: F
+    clue: A woman called Flo has gone in and had a look at a drain. She's not happy with what she found in there. She's reporting it back but nobody's listening properly.
+    answer: Fluorine
+    aliases:
+    - fluorine
+    reasoning: floo (sounds like 'flew', past tense of fly, or 'flue', a drain pipe) + reen (sounds like 'reen', a drain in West Country slang, or just 'reen') = Floo-reen = Fluorine
 - id: elementsbusters-002
   enabled: true
   title: Elementsbusters
@@ -38,32 +37,31 @@
   difficulty: hard
   office_safe: true
   region_relevance:
-    - Global
-  intro: "Elementsbusters two. More elements from the periodic table hiding in the sounds. Say them out loud. Some of these are a bit odd sounding but that's chemistry for you. Off we go."
-  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists."
+  - Global
+  intro: Elementsbusters two. More elements from the periodic table hiding in the sounds. Say them out loud. Some of these are a bit odd sounding but that's chemistry for you. Off we go.
+  prize: Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists.
   clues:
-    - number: 1
-      initials: M
-      clue: "A bloke from Manchester called Stan has gone missing during a mango-eating competition. Nobody's too bothered. His brother says it happens every summer."
-      answer: Manganese
-      aliases:
-        - manganese
-      reasoning: "mango (the fruit, big in warm places) + knees (the joints, two of them) = Mango-knees = Manganese"
-    - number: 2
-      initials: C
-      clue: "A woman from California has gone to a forum. Not online. An actual forum. Like the Romans had. She's asked a question and everyone's having a proper debate about it."
-      answer: Californium
-      aliases:
-        - californium
-      reasoning: "California (the American state, sunshine, freeways) + forum (a place of debate, the Romans invented it) = California-forum = Californium"
-    - number: 3
-      initials: P
-      clue: "Someone's potted a plant and it's done well. Really well. Suspiciously well. The neighbours are a bit jealous about it. They've been asking what he put in the soil and he's not telling."
-      answer: Potassium
-      aliases:
-        - potassium
-      reasoning: "pot (a container for a plant, or a cooking vessel) + ass (the back end of a donkey) + ee (a sound, like saying the letter E) + um (that uncertain noise) = Pot-ass-ee-um = Potassium"
-
+  - number: 1
+    initials: M
+    clue: A bloke from Manchester called Stan has gone missing during a mango-eating competition. Nobody's too bothered. His brother says it happens every summer.
+    answer: Manganese
+    aliases:
+    - manganese
+    reasoning: mango (the fruit, big in warm places) + knees (the joints, two of them) = Mango-knees = Manganese
+  - number: 2
+    initials: C
+    clue: A woman from California has gone to a forum. Not online. An actual forum. Like the Romans had. She's asked a question and everyone's having a proper debate about it.
+    answer: Californium
+    aliases:
+    - californium
+    reasoning: California (the American state, sunshine, freeways) + forum (a place of debate, the Romans invented it) = California-forum = Californium
+  - number: 3
+    initials: P
+    clue: Someone's potted a plant and it's done well. Really well. Suspiciously well. The neighbours are a bit jealous about it. They've been asking what he put in the soil and he's not telling.
+    answer: Potassium
+    aliases:
+    - potassium
+    reasoning: pot (a container for a plant, or a cooking vessel) + ass (the back end of a donkey) + ee (a sound, like saying the letter E) + um (that uncertain noise) = Pot-ass-ee-um = Potassium
 - id: elementsbusters-003
   enabled: true
   title: Elementsbusters
@@ -71,28 +69,28 @@
   difficulty: hard
   office_safe: true
   region_relevance:
-    - Global
-  intro: "Three in. Elementsbusters three. These are some of the heavier elements named after clever people and important places. Say them out loud. That's the whole trick. Right."
-  prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
+  - Global
+  intro: Elementsbusters. Some of the heavier elements named after clever people and important places. Say them out loud. That's the whole trick.
+  prize: Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette.
   clues:
-    - number: 1
-      initials: E
-      clue: "Albert has moved into a new place. He's in a flat above a gym. He's been at it all day. Lots of effort. His neighbour says he never stops. The gym doesn't open until nine but Albert's already at it."
-      answer: Einsteinium
-      aliases:
-        - einsteinium
-      reasoning: "Ein (sounds like 'Ein', the German for one, or the start of Einstein) + stein (sounds like 'stine', as in Frankenstein, or a German beer mug) + ee (that high sound) + um (the uncertain pause) = Ein-steen-ee-um = Einsteinium"
-    - number: 2
-      initials: F
-      clue: "A bloke called Enrico has decided to run a pub. Nobody's sure why. He's named the pub after himself. He keeps fermenting things in the cellar that probably shouldn't be fermented."
-      answer: Fermium
-      aliases:
-        - fermium
-      reasoning: "ferm (sounds like 'ferm', to ferment something, or Fermi the physicist's name) + ee (that bright vowel) + um (the pause before you say something uncertain) = Ferm-ee-um = Fermium"
-    - number: 3
-      initials: C
-      clue: "Marie has gone on a city tour. She's very thorough about it. She's been round every street. She's taken notes. She's come back and she's writing it all up and saying she's quite fond of the place."
-      answer: Curium
-      aliases:
-        - curium
-      reasoning: "cure (sounds like 'cure', to fix something, or Curie the scientist) + ee (that vowel) + um (the pause, the hesitation) = Cure-ee-um = Curium"
+  - number: 1
+    initials: E
+    clue: Albert has moved into a new place. He's in a flat above a gym. He's been at it all day. Lots of effort. His neighbour says he never stops. The gym doesn't open until nine but Albert's already at it.
+    answer: Einsteinium
+    aliases:
+    - einsteinium
+    reasoning: Ein (sounds like 'Ein', the German for one, or the start of Einstein) + stein (sounds like 'stine', as in Frankenstein, or a German beer mug) + ee (that high sound) + um (the uncertain pause) = Ein-steen-ee-um = Einsteinium
+  - number: 2
+    initials: F
+    clue: A bloke called Enrico has decided to run a pub. Nobody's sure why. He's named the pub after himself. He keeps fermenting things in the cellar that probably shouldn't be fermented.
+    answer: Fermium
+    aliases:
+    - fermium
+    reasoning: ferm (sounds like 'ferm', to ferment something, or Fermi the physicist's name) + ee (that bright vowel) + um (the pause before you say something uncertain) = Ferm-ee-um = Fermium
+  - number: 3
+    initials: C
+    clue: Marie has gone on a city tour. She's very thorough about it. She's been round every street. She's taken notes. She's come back and she's writing it all up and saying she's quite fond of the place.
+    answer: Curium
+    aliases:
+    - curium
+    reasoning: cure (sounds like 'cure', to fix something, or Curie the scientist) + ee (that vowel) + um (the pause, the hesitation) = Cure-ee-um = Curium

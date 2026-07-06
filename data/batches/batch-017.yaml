@@ -5,33 +5,32 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Holidaybusters. Every answer is somewhere British people go on their holidays. Sun, sangria, all that."
-  prize: "Email in. Winner gets a Club 18-30 brochure from 2003 and a novelty sombrero fridge magnet."
+  - UK
+  intro: Holidaybusters. Every answer is somewhere British people go on their holidays. Sun, sangria, all that.
+  prize: Email in. Winner gets a Club 18-30 brochure from 2003 and a novelty sombrero fridge magnet.
   clues:
-    - number: 1
-      initials: M
-      clue: "Right, me mate's gone and got the calendar out. He's pointing at the month after March. Major discovery, apparently."
-      answer: Majorca
-      aliases:
-        - majorca
-        - mallorca
-      reasoning: "May (month after March) + jorca sounds like may-or-ca = Majorca"
-    - number: 2
-      initials: C
-      clue: "That bloke, yeah, he's found a tiny island and he's decided to run the whole thing. King of his own little place. Good for him."
-      answer: Corfu
-      aliases:
-        - corfu
-      reasoning: "cor (exclamation, like 'blimey') + few sounds like cor-fyoo = Corfu"
-    - number: 3
-      initials: T
-      clue: "Tenerife, right. That bloke's got ten and then he's gone dead quiet. Ten. Then nothing. Just silence."
-      answer: Tenerife
-      aliases:
-        - tenerife
-      reasoning: "ten + er (hesitation) + reef (underwater thing) = ten-er-reef = Tenerife"
-
+  - number: 1
+    initials: M
+    clue: Right, me mate's gone and got the calendar out. He's pointing at the month after March. Major discovery, apparently.
+    answer: Majorca
+    aliases:
+    - majorca
+    - mallorca
+    reasoning: May (month after March) + jorca sounds like may-or-ca = Majorca
+  - number: 2
+    initials: C
+    clue: That bloke, yeah, he's found a tiny island and he's decided to run the whole thing. King of his own little place. Good for him.
+    answer: Corfu
+    aliases:
+    - corfu
+    reasoning: cor (exclamation, like 'blimey') + few sounds like cor-fyoo = Corfu
+  - number: 3
+    initials: T
+    clue: Tenerife, right. That bloke's got ten and then he's gone dead quiet. Ten. Then nothing. Just silence.
+    answer: Tenerife
+    aliases:
+    - tenerife
+    reasoning: ten + er (hesitation) + reef (underwater thing) = ten-er-reef = Tenerife
 - id: holidaybusters-002
   enabled: true
   title: Holidaybusters
@@ -39,32 +38,31 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "More Holidaybusters. These are all places your nan or your mate Dave has been to at least once."
-  prize: "Email in. Winner gets a passport holder from a petrol station and a bag of duty-free Werther's Originals."
+  - UK
+  intro: More Holidaybusters. These are all places your nan or your mate Dave has been to at least once.
+  prize: Email in. Winner gets a passport holder from a petrol station and a bag of duty-free Werther's Originals.
   clues:
-    - number: 1
-      initials: I
-      clue: "That DJ at the back - he's got his eyes shut. He's in a trance, right. Just vibing to it. Bit embarrassing really."
-      answer: Ibiza
-      aliases:
-        - ibiza
-      reasoning: "I (me) + be (to exist) + za (like pizza end) sounds like eye-bee-tha = Ibiza"
-    - number: 2
-      initials: C
-      clue: "There's this bloke right, and he keeps saying crete, like the stuff you build with. But he's saying it wrong, keeps going on about it."
-      answer: Crete
-      aliases:
-        - crete
-      reasoning: "crete sounds like concrete minus 'con' = Crete. Or: the material you make walls with, minus the con = Crete"
-    - number: 3
-      initials: R
-      clue: "Some fella's holding a fishing rod right, and he's wound the reel right back. That's it. Reel. Back."
-      answer: Rhodes
-      aliases:
-        - rhodes
-      reasoning: "roads sounds like Rhodes = Rhodes. The word for paths you drive on, said quickly."
-
+  - number: 1
+    initials: I
+    clue: That DJ at the back - he's got his eyes shut. He's in a trance, right. Just vibing to it. Bit embarrassing really.
+    answer: Ibiza
+    aliases:
+    - ibiza
+    reasoning: I (me) + be (to exist) + za (like pizza end) sounds like eye-bee-tha = Ibiza
+  - number: 2
+    initials: C
+    clue: There's this bloke right, and he keeps saying crete, like the stuff you build with. But he's saying it wrong, keeps going on about it.
+    answer: Crete
+    aliases:
+    - crete
+    reasoning: 'crete sounds like concrete minus ''con'' = Crete. Or: the material you make walls with, minus the con = Crete'
+  - number: 3
+    initials: R
+    clue: Some fella's holding a fishing rod right, and he's wound the reel right back. That's it. Reel. Back.
+    answer: Rhodes
+    aliases:
+    - rhodes
+    reasoning: roads sounds like Rhodes = Rhodes. The word for paths you drive on, said quickly.
 - id: holidaybusters-003
   enabled: true
   title: Holidaybusters
@@ -72,33 +70,32 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Alright, Holidaybusters round three. All places you can fly to from Luton for about forty quid."
-  prize: "Email in. Winner gets a Ryanair boarding pass lanyard and a half-melted Toblerone from duty-free."
+  - UK
+  intro: Alright, Holidaybusters round three. All places you can fly to from Luton for about forty quid.
+  prize: Email in. Winner gets a Ryanair boarding pass lanyard and a half-melted Toblerone from duty-free.
   clues:
-    - number: 1
-      initials: L
-      clue: "That lazy bloke over there, right, he's spotted a tiny lizard on the pavement and he's gone and named it Lance. The lizard. Called Lance."
-      answer: Lanzarote
-      aliases:
-        - lanzarote
-      reasoning: "Lance (name) + a + rote (learning by repetition) sounds like Lan-za-ro-tay = Lanzarote"
-    - number: 2
-      initials: G C
-      clue: "Right, that older woman's seen something massive in the sky. Really enormous. Bit shocked, to be fair."
-      answer: Gran Canaria
-      aliases:
-        - gran canaria
-        - gran canaria
-      reasoning: "gran (old woman) + can (is able to) + aria (big song in opera) = gran-can-aria = Gran Canaria"
-    - number: 3
-      initials: M
-      clue: "Me nan keeps mixing up her tablets. She's going through all her little pill packs. Malta, she's saying. Where are me Malta, she goes."
-      answer: Malta
-      aliases:
-        - malta
-      reasoning: "malt (like malted milk) + a = Malta. The drink powder stuff, plus the letter a."
-
+  - number: 1
+    initials: L
+    clue: That lazy bloke over there, right, he's spotted a tiny lizard on the pavement and he's gone and named it Lance. The lizard. Called Lance.
+    answer: Lanzarote
+    aliases:
+    - lanzarote
+    reasoning: Lance (name) + a + rote (learning by repetition) sounds like Lan-za-ro-tay = Lanzarote
+  - number: 2
+    initials: G C
+    clue: Right, that older woman's seen something massive in the sky. Really enormous. Bit shocked, to be fair.
+    answer: Gran Canaria
+    aliases:
+    - gran canaria
+    - gran canaria
+    reasoning: gran (old woman) + can (is able to) + aria (big song in opera) = gran-can-aria = Gran Canaria
+  - number: 3
+    initials: M
+    clue: Me nan keeps mixing up her tablets. She's going through all her little pill packs. Malta, she's saying. Where are me Malta, she goes.
+    answer: Malta
+    aliases:
+    - malta
+    reasoning: malt (like malted milk) + a = Malta. The drink powder stuff, plus the letter a.
 - id: holidaybusters-004
   enabled: true
   title: Holidaybusters
@@ -106,33 +103,32 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Holidaybusters. These are the big sun destinations. The ones with the all-inclusive bracelets and the foam parties."
-  prize: "Email in. Winner gets a laminated pool towel reservation sign and a 2001 Thomson Holidays brochure."
+  - UK
+  intro: Holidaybusters. These are the big sun destinations. The ones with the all-inclusive bracelets and the foam parties.
+  prize: Email in. Winner gets a laminated pool towel reservation sign and a 2001 Thomson Holidays brochure.
   clues:
-    - number: 1
-      initials: C
-      clue: "Right, there's this island, and everyone on it keeps saying 'sigh' like they're really bored. Cyprus. Not bored, just the sound."
-      answer: Cyprus
-      aliases:
-        - cyprus
-      reasoning: "sigh (exhale of boredom) + press sounds like sigh-press = Cyprus"
-    - number: 2
-      initials: M
-      clue: "That woman's found a small map in her bag. She's like, me nor-ca, I've got me nor-ca. It's a map, love."
-      answer: Menorca
-      aliases:
-        - menorca
-        - minorca
-      reasoning: "men (blokes) + or + ca sounds like men-or-ca = Menorca"
-    - number: 3
-      initials: B
-      clue: "That fella's right, he's been on a boat. A little rowing boat. And the dock he tied it to - the bar did, the bar-bados him in. Kept him safe."
-      answer: Barbados
-      aliases:
-        - barbados
-      reasoning: "bar (rod or pub) + bay + dos sounds like bar-bay-dos = Barbados"
-
+  - number: 1
+    initials: C
+    clue: Right, there's this island, and everyone on it keeps saying 'sigh' like they're really bored. Cyprus. Not bored, just the sound.
+    answer: Cyprus
+    aliases:
+    - cyprus
+    reasoning: sigh (exhale of boredom) + press sounds like sigh-press = Cyprus
+  - number: 2
+    initials: M
+    clue: That woman's found a small map in her bag. She's like, me nor-ca, I've got me nor-ca. It's a map, love.
+    answer: Menorca
+    aliases:
+    - menorca
+    - minorca
+    reasoning: men (blokes) + or + ca sounds like men-or-ca = Menorca
+  - number: 3
+    initials: B
+    clue: That fella's right, he's been on a boat. A little rowing boat. And the dock he tied it to - the bar did, the bar-bados him in. Kept him safe.
+    answer: Barbados
+    aliases:
+    - barbados
+    reasoning: bar (rod or pub) + bay + dos sounds like bar-bay-dos = Barbados
 - id: holidaybusters-005
   enabled: true
   title: Holidaybusters
@@ -140,32 +136,31 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Right then, more holiday ones. Say these clues out loud. Don't just read them in your head, that's not how it works."
-  prize: "Email in. Winner gets a sun cream tube that's nearly empty and a keyring from Gatwick airport."
+  - UK
+  intro: Right then, more holiday ones. Say these clues out loud. Don't just read them in your head, that's not how it works.
+  prize: Email in. Winner gets a sun cream tube that's nearly empty and a keyring from Gatwick airport.
   clues:
-    - number: 1
-      initials: T
-      clue: "This woman called Kay, right, she's bought herself a very large cooking pot. A massive one. Turkey-sized, she's calling it. Right."
-      answer: Turkey
-      aliases:
-        - turkey
-      reasoning: "tur (like turn without the n) + key sounds like tur-key = Turkey"
-    - number: 2
-      initials: E
-      clue: "That bloke's studying ancient stuff. He's got his glasses on, going through scrolls. E-jipt, he keeps saying. What's he on about."
-      answer: Egypt
-      aliases:
-        - egypt
-      reasoning: "ee (long e sound) + jipt sounds like ee-jipt = Egypt"
-    - number: 3
-      initials: M
-      clue: "Me mate's gone and found some kind of deep hole - a canyon thing right - and he's really pleased with himself about it. Morocco."
-      answer: Morocco
-      aliases:
-        - morocco
-      reasoning: "more (additional) + rock (stone) + o sounds like mo-rock-o = Morocco"
-
+  - number: 1
+    initials: T
+    clue: This woman called Kay, right, she's bought herself a very large cooking pot. A massive one. Turkey-sized, she's calling it. Right.
+    answer: Turkey
+    aliases:
+    - turkey
+    reasoning: tur (like turn without the n) + key sounds like tur-key = Turkey
+  - number: 2
+    initials: E
+    clue: That bloke's studying ancient stuff. He's got his glasses on, going through scrolls. E-jipt, he keeps saying. What's he on about.
+    answer: Egypt
+    aliases:
+    - egypt
+    reasoning: ee (long e sound) + jipt sounds like ee-jipt = Egypt
+  - number: 3
+    initials: M
+    clue: Me mate's gone and found some kind of deep hole - a canyon thing right - and he's really pleased with himself about it. Morocco.
+    answer: Morocco
+    aliases:
+    - morocco
+    reasoning: more (additional) + rock (stone) + o sounds like mo-rock-o = Morocco
 - id: holidaybusters-006
   enabled: true
   title: Holidaybusters
@@ -173,32 +168,31 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Holidaybusters. You've probably been to one of these. Or your mum has. Or someone off your street."
-  prize: "Email in. Winner gets a foam finger from a waterpark and a slightly damaged inflatable flamingo."
+  - UK
+  intro: Holidaybusters. You've probably been to one of these. Or your mum has. Or someone off your street.
+  prize: Email in. Winner gets a foam finger from a waterpark and a slightly damaged inflatable flamingo.
   clues:
-    - number: 1
-      initials: J
-      clue: "That fella's name is James, right, but everyone calls him by a shorter version. Jay. And he's found some jam. Just standing there with jam."
-      answer: Jamaica
-      aliases:
-        - jamaica
-      reasoning: "jay (the letter J) + may (the month) + ca sounds like jay-may-ca = Jamaica"
-    - number: 2
-      initials: T
-      clue: "Right, there's this Thai place. Like, Thailand. And someone's landing a plane there. Thai-land. That's it really."
-      answer: Thailand
-      aliases:
-        - thailand
-      reasoning: "tie (knot in a shirt) + land (get off a plane) = tie-land = Thailand"
-    - number: 3
-      initials: B
-      clue: "This island right, it's covered in tiny balls - like ball bearings. Bali. Ball-ee. The little round things, everywhere."
-      answer: Bali
-      aliases:
-        - bali
-      reasoning: "ball (round thing) + ee sound = ball-ee = Bali"
-
+  - number: 1
+    initials: J
+    clue: That fella's name is James, right, but everyone calls him by a shorter version. Jay. And he's found some jam. Just standing there with jam.
+    answer: Jamaica
+    aliases:
+    - jamaica
+    reasoning: jay (the letter J) + may (the month) + ca sounds like jay-may-ca = Jamaica
+  - number: 2
+    initials: T
+    clue: Right, there's this Thai place. Like, Thailand. And someone's landing a plane there. Thai-land. That's it really.
+    answer: Thailand
+    aliases:
+    - thailand
+    reasoning: tie (knot in a shirt) + land (get off a plane) = tie-land = Thailand
+  - number: 3
+    initials: B
+    clue: This island right, it's covered in tiny balls - like ball bearings. Bali. Ball-ee. The little round things, everywhere.
+    answer: Bali
+    aliases:
+    - bali
+    reasoning: ball (round thing) + ee sound = ball-ee = Bali
 - id: holidaybusters-007
   enabled: true
   title: Holidaybusters
@@ -206,32 +200,31 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "More Holidaybusters. All places you can get sunburnt in about twenty minutes. You know the type."
-  prize: "Email in. Winner gets a packet of travel sickness tablets, expired, and a phrase book for the wrong country."
+  - UK
+  intro: More Holidaybusters. All places you can get sunburnt in about twenty minutes. You know the type.
+  prize: Email in. Winner gets a packet of travel sickness tablets, expired, and a phrase book for the wrong country.
   clues:
-    - number: 1
-      initials: C
-      clue: "That bloke's gone Cuban. Like he's adopted the whole thing. Cube. He's walking around saying he's a cube. Just a cube, him."
-      answer: Cuba
-      aliases:
-        - cuba
-      reasoning: "cue (billiards stick) + ba sounds like cyoo-ba = Cuba"
-    - number: 2
-      initials: T
-      clue: "Right, Tunisia, yeah. That bloke's gone and eaten his fill. He's like, you know what, I've had enough of this. Too-knee-sha. Too much."
-      answer: Tunisia
-      aliases:
-        - tunisia
-      reasoning: "too (excessive) + knee (leg joint) + sha sounds like too-nee-sha = Tunisia"
-    - number: 3
-      initials: F
-      clue: "There's a bloke called Venter, right, and he's about to go on a massive adventure. Fuer-te-ven-tura. He's set."
-      answer: Fuerteventura
-      aliases:
-        - fuerteventura
-      reasoning: "fuerte (strong in Spanish, sounds like fwer-tay) + venture (adventure) + a = Fuerteventura"
-
+  - number: 1
+    initials: C
+    clue: That bloke's gone Cuban. Like he's adopted the whole thing. Cube. He's walking around saying he's a cube. Just a cube, him.
+    answer: Cuba
+    aliases:
+    - cuba
+    reasoning: cue (billiards stick) + ba sounds like cyoo-ba = Cuba
+  - number: 2
+    initials: T
+    clue: Right, Tunisia, yeah. That bloke's gone and eaten his fill. He's like, you know what, I've had enough of this. Too-knee-sha. Too much.
+    answer: Tunisia
+    aliases:
+    - tunisia
+    reasoning: too (excessive) + knee (leg joint) + sha sounds like too-nee-sha = Tunisia
+  - number: 3
+    initials: F
+    clue: There's a bloke called Venter, right, and he's about to go on a massive adventure. Fuer-te-ven-tura. He's set.
+    answer: Fuerteventura
+    aliases:
+    - fuerteventura
+    reasoning: fuerte (strong in Spanish, sounds like fwer-tay) + venture (adventure) + a = Fuerteventura
 - id: holidaybusters-008
   enabled: true
   title: Holidaybusters
@@ -239,32 +232,31 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Holidaybusters. These are the ones with the British pubs and the full English breakfasts on the menu. You know where I'm going."
-  prize: "Email in. Winner gets a scratched-up travel adapter and a Jet2 magazine from 2007."
+  - UK
+  intro: Holidaybusters. These are the ones with the British pubs and the full English breakfasts on the menu. You know where I'm going.
+  prize: Email in. Winner gets a scratched-up travel adapter and a Jet2 magazine from 2007.
   clues:
-    - number: 1
-      initials: B
-      clue: "Ben, right, he's fallen asleep in the student halls. He's in his little dorm room. Kipping away. Ben in the dorm. That's all it is."
-      answer: Benidorm
-      aliases:
-        - benidorm
-      reasoning: "Ben (name) + in + dorm (student sleeping room) = Ben-in-dorm = Benidorm"
-    - number: 2
-      initials: M
-      clue: "Right, there's a woman called Bella. And she's standing in a marketplace. Mar. Mar-bella. Market Bella. Sort of."
-      answer: Marbella
-      aliases:
-        - marbella
-      reasoning: "mar (sea or prefix) + bella (beautiful woman's name) = mar-bella = Marbella"
-    - number: 3
-      initials: M
-      clue: "This place, right, Magaluf. Your mate Maggie's gone and left. She's off. Maggie-left. Maga-luf. She's done one."
-      answer: Magaluf
-      aliases:
-        - magaluf
-      reasoning: "Maggie (name shortened to Maga) + luff (sailing term, or luf = left) = Maga-luf = Magaluf"
-
+  - number: 1
+    initials: B
+    clue: Ben, right, he's fallen asleep in the student halls. He's in his little dorm room. Kipping away. Ben in the dorm. That's all it is.
+    answer: Benidorm
+    aliases:
+    - benidorm
+    reasoning: Ben (name) + in + dorm (student sleeping room) = Ben-in-dorm = Benidorm
+  - number: 2
+    initials: M
+    clue: Right, there's a woman called Bella. And she's standing in a marketplace. Mar. Mar-bella. Market Bella. Sort of.
+    answer: Marbella
+    aliases:
+    - marbella
+    reasoning: mar (sea or prefix) + bella (beautiful woman's name) = mar-bella = Marbella
+  - number: 3
+    initials: M
+    clue: This place, right, Magaluf. Your mate Maggie's gone and left. She's off. Maggie-left. Maga-luf. She's done one.
+    answer: Magaluf
+    aliases:
+    - magaluf
+    reasoning: Maggie (name shortened to Maga) + luff (sailing term, or luf = left) = Maga-luf = Magaluf
 - id: holidaybusters-009
   enabled: true
   title: Holidaybusters
@@ -272,32 +264,31 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Right, Holidaybusters nine. These are slightly posher. The Waitrose version of holidays, sort of thing."
-  prize: "Email in. Winner gets a slightly wrinkled linen shirt and a copy of the Guardian Travel supplement from 2004."
+  - UK
+  intro: Right, Holidaybusters nine. These are slightly posher. The Waitrose version of holidays, sort of thing.
+  prize: Email in. Winner gets a slightly wrinkled linen shirt and a copy of the Guardian Travel supplement from 2004.
   clues:
-    - number: 1
-      initials: T
-      clue: "That bloke Tuscany, right - no, that's the answer. But imagine a bloke called Tusk who keeps going on about his canoe. Tusk-ca-nee."
-      answer: Tuscany
-      aliases:
-        - tuscany
-      reasoning: "tusk (elephant tooth) + can (able to) + ee sounds like tus-can-ee = Tuscany"
-    - number: 2
-      initials: A
-      clue: "Right, some woman's name is Mal. She's spotted something wrong with a fish. Mal-fi. The fish has gone off. Amalfi, sort of."
-      answer: Amalfi
-      aliases:
-        - amalfi
-      reasoning: "a + Mal (name) + fi (like fee) sounds like a-mal-fee = Amalfi"
-    - number: 3
-      initials: A
-      clue: "That bloke's garden, right. The Al Garve. Al's garden. He's very proud of it. Got a little path and everything."
-      answer: Algarve
-      aliases:
-        - algarve
-      reasoning: "Al (name) + garve sounds like al-garv = Algarve"
-
+  - number: 1
+    initials: T
+    clue: That bloke Tuscany, right - no, that's the answer. But imagine a bloke called Tusk who keeps going on about his canoe. Tusk-ca-nee.
+    answer: Tuscany
+    aliases:
+    - tuscany
+    reasoning: tusk (elephant tooth) + can (able to) + ee sounds like tus-can-ee = Tuscany
+  - number: 2
+    initials: A
+    clue: Right, some woman's name is Mal. She's spotted something wrong with a fish. Mal-fi. The fish has gone off. Amalfi, sort of.
+    answer: Amalfi
+    aliases:
+    - amalfi
+    reasoning: a + Mal (name) + fi (like fee) sounds like a-mal-fee = Amalfi
+  - number: 3
+    initials: A
+    clue: That bloke's garden, right. The Al Garve. Al's garden. He's very proud of it. Got a little path and everything.
+    answer: Algarve
+    aliases:
+    - algarve
+    reasoning: Al (name) + garve sounds like al-garv = Algarve
 - id: holidaybusters-010
   enabled: true
   title: Holidaybusters
@@ -305,32 +296,31 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Holidaybusters ten. Halfway through. Don't give up, they get easier. Or maybe harder. I can't remember."
-  prize: "Email in. Winner gets a half-used bottle of factor 50 and a tampon from the bottom of a beach bag."
+  - UK
+  intro: Holidaybusters. British holiday destinations, phonetically disguised. Say each one out loud.
+  prize: Email in. Winner gets a half-used bottle of factor 50 and a tampon from the bottom of a beach bag.
   clues:
-    - number: 1
-      initials: C
-      clue: "That couple, right, they've gone and bought loads of tins of stuff. Really stocked up the cupboards. Can-area. Canned loads of it."
-      answer: Gran Canaria
-      aliases:
-        - gran canaria
-      reasoning: "gran (gran / big) + can (tin) + aria (opera song) = gran-can-aria = Gran Canaria"
-    - number: 2
-      initials: R
-      clue: "Me mate's tied a ribbon round a flower. A rose. With a ribbon. Roads. Rose with a ribbon. Say it quick."
-      answer: Rhodes
-      aliases:
-        - rhodes
-      reasoning: "roads sounds exactly like Rhodes = the paths you drive on, said out loud"
-    - number: 3
-      initials: L
-      clue: "That little lizard again - they've put it on a rota. The lizard, on the cleaning rota. Lanza-rote. It's got to do the bins Tuesday."
-      answer: Lanzarote
-      aliases:
-        - lanzarote
-      reasoning: "lance (spear or name) + a + rote (doing things by routine) = Lanza-rote-ay = Lanzarote"
-
+  - number: 1
+    initials: C
+    clue: That couple, right, they've gone and bought loads of tins of stuff. Really stocked up the cupboards. Can-area. Canned loads of it.
+    answer: Gran Canaria
+    aliases:
+    - gran canaria
+    reasoning: gran (gran / big) + can (tin) + aria (opera song) = gran-can-aria = Gran Canaria
+  - number: 2
+    initials: R
+    clue: Me mate's tied a ribbon round a flower. A rose. With a ribbon. Roads. Rose with a ribbon. Say it quick.
+    answer: Rhodes
+    aliases:
+    - rhodes
+    reasoning: roads sounds exactly like Rhodes = the paths you drive on, said out loud
+  - number: 3
+    initials: L
+    clue: That little lizard again - they've put it on a rota. The lizard, on the cleaning rota. Lanza-rote. It's got to do the bins Tuesday.
+    answer: Lanzarote
+    aliases:
+    - lanzarote
+    reasoning: lance (spear or name) + a + rote (doing things by routine) = Lanza-rote-ay = Lanzarote
 - id: holidaybusters-011
   enabled: true
   title: Holidaybusters
@@ -338,33 +328,32 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Here's some more Holidaybusters. These are all proper classic ones. Your dad's definitely been to at least two of these."
-  prize: "Email in. Winner gets a suitcase padlock that doesn't open and a faded holiday snap of someone else's family."
+  - UK
+  intro: Here's some more Holidaybusters. These are all proper classic ones. Your dad's definitely been to at least two of these.
+  prize: Email in. Winner gets a suitcase padlock that doesn't open and a faded holiday snap of someone else's family.
   clues:
-    - number: 1
-      initials: M
-      clue: "Right, the month before June. That's it. That's the clue. The month. Before June. With a ca on the end. Easy one this."
-      answer: Majorca
-      aliases:
-        - majorca
-        - mallorca
-      reasoning: "May (month before June) + or + ca = May-or-ca = Majorca"
-    - number: 2
-      initials: C
-      clue: "This bloke's right pleased with himself. He's found a small amount of something. Just a tiny bit. Core few. Core plus few."
-      answer: Corfu
-      aliases:
-        - corfu
-      reasoning: "core (centre) + few (small number) = core-fyoo = Corfu"
-    - number: 3
-      initials: I
-      clue: "That DJ again - he's got absolutely no idea what he's doing behind the decks. He be za - he be nothing, that's what he be."
-      answer: Ibiza
-      aliases:
-        - ibiza
-      reasoning: "I (me, myself) + be (to exist) + za (ending) = eye-bee-tha = Ibiza"
-
+  - number: 1
+    initials: M
+    clue: Right, the month before June. That's it. That's the clue. The month. Before June. With a ca on the end. Easy one this.
+    answer: Majorca
+    aliases:
+    - majorca
+    - mallorca
+    reasoning: May (month before June) + or + ca = May-or-ca = Majorca
+  - number: 2
+    initials: C
+    clue: This bloke's right pleased with himself. He's found a small amount of something. Just a tiny bit. Core few. Core plus few.
+    answer: Corfu
+    aliases:
+    - corfu
+    reasoning: core (centre) + few (small number) = core-fyoo = Corfu
+  - number: 3
+    initials: I
+    clue: That DJ again - he's got absolutely no idea what he's doing behind the decks. He be za - he be nothing, that's what he be.
+    answer: Ibiza
+    aliases:
+    - ibiza
+    reasoning: I (me, myself) + be (to exist) + za (ending) = eye-bee-tha = Ibiza
 - id: holidaybusters-012
   enabled: true
   title: Holidaybusters
@@ -372,32 +361,31 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Twelve in. Holidaybusters. All sun. All sand. All places where someone's left a review saying the pool was cold."
-  prize: "Email in. Winner gets a novelty cocktail stirrer and a printed receipt from a tapas bar, unreadable."
+  - UK
+  intro: Twelve in. Holidaybusters. All sun. All sand. All places where someone's left a review saying the pool was cold.
+  prize: Email in. Winner gets a novelty cocktail stirrer and a printed receipt from a tapas bar, unreadable.
   clues:
-    - number: 1
-      initials: T
-      clue: "That bloke keeps saying ten. Just ten. Then he hesitates. Ten... er... and then he mentions the reef. That underwater thing."
-      answer: Tenerife
-      aliases:
-        - tenerife
-      reasoning: "ten (number) + er (hesitation) + reef (coral structure) = ten-er-reef = Tenerife"
-    - number: 2
-      initials: M
-      clue: "That woman's making something dark and sticky. A malt drink. She's adding just the one thing to it. Malt plus a. Done."
-      answer: Malta
-      aliases:
-        - malta
-      reasoning: "malt (malted grain) + a = Malta"
-    - number: 3
-      initials: C
-      clue: "That bloke keeps going on about the centre of an apple. The core. And he's pressing something at the same time. Core. Press. Near enough."
-      answer: Cyprus
-      aliases:
-        - cyprus
-      reasoning: "sigh (sound of sadness) + press (to push) = sigh-press = Cyprus"
-
+  - number: 1
+    initials: T
+    clue: That bloke keeps saying ten. Just ten. Then he hesitates. Ten... er... and then he mentions the reef. That underwater thing.
+    answer: Tenerife
+    aliases:
+    - tenerife
+    reasoning: ten (number) + er (hesitation) + reef (coral structure) = ten-er-reef = Tenerife
+  - number: 2
+    initials: M
+    clue: That woman's making something dark and sticky. A malt drink. She's adding just the one thing to it. Malt plus a. Done.
+    answer: Malta
+    aliases:
+    - malta
+    reasoning: malt (malted grain) + a = Malta
+  - number: 3
+    initials: C
+    clue: That bloke keeps going on about the centre of an apple. The core. And he's pressing something at the same time. Core. Press. Near enough.
+    answer: Cyprus
+    aliases:
+    - cyprus
+    reasoning: sigh (sound of sadness) + press (to push) = sigh-press = Cyprus
 - id: holidaybusters-013
   enabled: true
   title: Holidaybusters
@@ -405,32 +393,31 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Holidaybusters thirteen. Not unlucky if your flight's cheap enough. Say these out loud, it's the only way."
-  prize: "Email in. Winner gets an out-of-date Tesco Clubcard and a miniature bottle of hotel shampoo."
+  - UK
+  intro: Holidaybusters thirteen. Not unlucky if your flight's cheap enough. Say these out loud, it's the only way.
+  prize: Email in. Winner gets an out-of-date Tesco Clubcard and a miniature bottle of hotel shampoo.
   clues:
-    - number: 1
-      initials: T
-      clue: "Right, there's a woman who ties things. Professional tier, she is. Ties knots for a living. And she's just landed somewhere. Tie-land."
-      answer: Thailand
-      aliases:
-        - thailand
-      reasoning: "tie (knot) + land (arrived, descended from plane) = tie-land = Thailand"
-    - number: 2
-      initials: B
-      clue: "A load of balls. Literally. Someone's just dropped a box of small round balls all over the floor. Ball-ee. Everywhere."
-      answer: Bali
-      aliases:
-        - bali
-      reasoning: "ball (sphere) + ee (sound) = ball-ee = Bali"
-    - number: 3
-      initials: J
-      clue: "Jay's got some jam. He's standing there in May. Jay, jam, May. He's having a lovely time. Sort of."
-      answer: Jamaica
-      aliases:
-        - jamaica
-      reasoning: "jay (letter J sound) + may (month) + ca = jay-may-ca = Jamaica"
-
+  - number: 1
+    initials: T
+    clue: Right, there's a woman who ties things. Professional tier, she is. Ties knots for a living. And she's just landed somewhere. Tie-land.
+    answer: Thailand
+    aliases:
+    - thailand
+    reasoning: tie (knot) + land (arrived, descended from plane) = tie-land = Thailand
+  - number: 2
+    initials: B
+    clue: A load of balls. Literally. Someone's just dropped a box of small round balls all over the floor. Ball-ee. Everywhere.
+    answer: Bali
+    aliases:
+    - bali
+    reasoning: ball (sphere) + ee (sound) = ball-ee = Bali
+  - number: 3
+    initials: J
+    clue: Jay's got some jam. He's standing there in May. Jay, jam, May. He's having a lovely time. Sort of.
+    answer: Jamaica
+    aliases:
+    - jamaica
+    reasoning: jay (letter J sound) + may (month) + ca = jay-may-ca = Jamaica
 - id: holidaybusters-014
   enabled: true
   title: Holidaybusters
@@ -438,32 +425,31 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "More Holidaybusters. Number fourteen. These are all places where you can get sunburnt and eat chips at the same time."
-  prize: "Email in. Winner gets a hotel keycard that stopped working on day two and a postcard nobody sent."
+  - UK
+  intro: More Holidaybusters. Number fourteen. These are all places where you can get sunburnt and eat chips at the same time.
+  prize: Email in. Winner gets a hotel keycard that stopped working on day two and a postcard nobody sent.
   clues:
-    - number: 1
-      initials: E
-      clue: "Something ancient and underground. This fella's gone deep, into the earth. E-jipt. Deep into it. Very mysterious he is."
-      answer: Egypt
-      aliases:
-        - egypt
-      reasoning: "ee (long vowel) + jipt (past tense of jipt, like gripped) = ee-jipt = Egypt"
-    - number: 2
-      initials: M
-      clue: "That stone again. Someone's polished up a round rock and stuck a little flag on it. Mo-rock-o. The polished rock with a flag."
-      answer: Morocco
-      aliases:
-        - morocco
-      reasoning: "more (extra) + rock (stone) + o = mo-rock-o = Morocco"
-    - number: 3
-      initials: T
-      clue: "That woman Kay again. She's got a bird. A massive bird, right. A proper big turkey-type bird. Her bird. Kay's bird. Turkey."
-      answer: Turkey
-      aliases:
-        - turkey
-      reasoning: "tur (from turn) + key (used to open things) = tur-key = Turkey"
-
+  - number: 1
+    initials: E
+    clue: Something ancient and underground. This fella's gone deep, into the earth. E-jipt. Deep into it. Very mysterious he is.
+    answer: Egypt
+    aliases:
+    - egypt
+    reasoning: ee (long vowel) + jipt (past tense of jipt, like gripped) = ee-jipt = Egypt
+  - number: 2
+    initials: M
+    clue: That stone again. Someone's polished up a round rock and stuck a little flag on it. Mo-rock-o. The polished rock with a flag.
+    answer: Morocco
+    aliases:
+    - morocco
+    reasoning: more (extra) + rock (stone) + o = mo-rock-o = Morocco
+  - number: 3
+    initials: T
+    clue: That woman Kay again. She's got a bird. A massive bird, right. A proper big turkey-type bird. Her bird. Kay's bird. Turkey.
+    answer: Turkey
+    aliases:
+    - turkey
+    reasoning: tur (from turn) + key (used to open things) = tur-key = Turkey
 - id: holidaybusters-015
   enabled: true
   title: Holidaybusters
@@ -471,32 +457,31 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Holidaybusters fifteen. You're doing well. Or not. Hard to tell from here."
-  prize: "Email in. Winner gets a printed boarding pass from 2009 and a sun hat with someone else's name written inside."
+  - UK
+  intro: Holidaybusters fifteen. You're doing well. Or not. Hard to tell from here.
+  prize: Email in. Winner gets a printed boarding pass from 2009 and a sun hat with someone else's name written inside.
   clues:
-    - number: 1
-      initials: C
-      clue: "Right, there's a cube. Just a cube sat there on the table. Cube. And then someone adds a small ah sound at the end. Cyoo-ba. The cube."
-      answer: Cuba
-      aliases:
-        - cuba
-      reasoning: "cue (the sound, or billiard stick) + ba = cyoo-ba = Cuba"
-    - number: 2
-      initials: T
-      clue: "Too much. That's what he's said. Too much of everything, and his knee hurts, and someone called Sha is watching. All three at once."
-      answer: Tunisia
-      aliases:
-        - tunisia
-      reasoning: "too (excessive) + knee (joint) + sha (name) = too-nee-sha = Tunisia"
-    - number: 3
-      initials: B
-      clue: "This is a big one. There's a bay, right. With a bar across it. And someone called Dos is standing guard. Bar. Bay. Dos. Off you go."
-      answer: Barbados
-      aliases:
-        - barbados
-      reasoning: "bar (pub or rod) + bay (inlet of water) + dos (doing, or Spanish for two) = bar-bay-dos = Barbados"
-
+  - number: 1
+    initials: C
+    clue: Right, there's a cube. Just a cube sat there on the table. Cube. And then someone adds a small ah sound at the end. Cyoo-ba. The cube.
+    answer: Cuba
+    aliases:
+    - cuba
+    reasoning: cue (the sound, or billiard stick) + ba = cyoo-ba = Cuba
+  - number: 2
+    initials: T
+    clue: Too much. That's what he's said. Too much of everything, and his knee hurts, and someone called Sha is watching. All three at once.
+    answer: Tunisia
+    aliases:
+    - tunisia
+    reasoning: too (excessive) + knee (joint) + sha (name) = too-nee-sha = Tunisia
+  - number: 3
+    initials: B
+    clue: This is a big one. There's a bay, right. With a bar across it. And someone called Dos is standing guard. Bar. Bay. Dos. Off you go.
+    answer: Barbados
+    aliases:
+    - barbados
+    reasoning: bar (pub or rod) + bay (inlet of water) + dos (doing, or Spanish for two) = bar-bay-dos = Barbados
 - id: holidaybusters-016
   enabled: true
   title: Holidaybusters
@@ -504,32 +489,31 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Right then, Holidaybusters sixteen. Nearly there. All places on a long-haul flight or a two-hour Thomas Cook special."
-  prize: "Email in. Winner gets a Thomson holiday rep's polo shirt and a laminated menu from a buffet restaurant."
+  - UK
+  intro: Holidaybusters. All holiday destinations, all phonetic. Say each one out loud.
+  prize: Email in. Winner gets a Thomson holiday rep's polo shirt and a laminated menu from a buffet restaurant.
   clues:
-    - number: 1
-      initials: M
-      clue: "There's this woman called Bella. She's standing next to the sea. The mar. Mar. And she's called Bella. Mar-Bella. There she is."
-      answer: Marbella
-      aliases:
-        - marbella
-      reasoning: "mar (sea, Spanish) + Bella (woman's name) = mar-bella = Marbella"
-    - number: 2
-      initials: B
-      clue: "Ben again. He's back in the dormitory. He never left. Ben. In a dorm. Every single night. Just Ben. In his dorm."
-      answer: Benidorm
-      aliases:
-        - benidorm
-      reasoning: "Ben (name) + in + dorm (sleeping hall) = Benidorm"
-    - number: 3
-      initials: A
-      clue: "That garden of Al's. He's gone and put a gravel path through it. Right through the middle. Al's path. Algarve. His garden, his rules."
-      answer: Algarve
-      aliases:
-        - algarve
-      reasoning: "Al (name) + garve (sounds like carve, something done to a path) = al-garv = Algarve"
-
+  - number: 1
+    initials: M
+    clue: There's this woman called Bella. She's standing next to the sea. The mar. Mar. And she's called Bella. Mar-Bella. There she is.
+    answer: Marbella
+    aliases:
+    - marbella
+    reasoning: mar (sea, Spanish) + Bella (woman's name) = mar-bella = Marbella
+  - number: 2
+    initials: B
+    clue: Ben again. He's back in the dormitory. He never left. Ben. In a dorm. Every single night. Just Ben. In his dorm.
+    answer: Benidorm
+    aliases:
+    - benidorm
+    reasoning: Ben (name) + in + dorm (sleeping hall) = Benidorm
+  - number: 3
+    initials: A
+    clue: That garden of Al's. He's gone and put a gravel path through it. Right through the middle. Al's path. Algarve. His garden, his rules.
+    answer: Algarve
+    aliases:
+    - algarve
+    reasoning: Al (name) + garve (sounds like carve, something done to a path) = al-garv = Algarve
 - id: holidaybusters-017
   enabled: true
   title: Holidaybusters
@@ -537,33 +521,32 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Holidaybusters. Seventeen down, three to go. These are nice ones. Bit classy. Sort of."
-  prize: "Email in. Winner gets a laminated bookmark from a hotel gift shop and a small ceramic donkey."
+  - UK
+  intro: Holidaybusters. Seventeen down, three to go. These are nice ones. Bit classy. Sort of.
+  prize: Email in. Winner gets a laminated bookmark from a hotel gift shop and a small ceramic donkey.
   clues:
-    - number: 1
-      initials: T
-      clue: "That bloke with the tusk - like an elephant's tooth - he's met a woman called Canny. Tusk and Canny. Tusk-can-ee. Lovely couple."
-      answer: Tuscany
-      aliases:
-        - tuscany
-      reasoning: "tusk (elephant tooth) + can (is able to) + ee = tus-can-ee = Tuscany"
-    - number: 2
-      initials: A
-      clue: "There's a woman called Mal, yeah, and she's done something wrong with some fish. Amalfi. A-mal-fi. The fish have gone off, Mal."
-      answer: Amalfi
-      aliases:
-        - amalfi
-      reasoning: "a + Mal (name) + fi (fee sound) = a-mal-fee = Amalfi"
-    - number: 3
-      initials: M
-      clue: "Right, that woman Minnie - well, they're calling her Men now. And she's got an orca. A whale. Men or ca. Men-or-ca. Right."
-      answer: Menorca
-      aliases:
-        - menorca
-        - minorca
-      reasoning: "men (blokes, or name Men) + or + ca = men-or-ca = Menorca"
-
+  - number: 1
+    initials: T
+    clue: That bloke with the tusk - like an elephant's tooth - he's met a woman called Canny. Tusk and Canny. Tusk-can-ee. Lovely couple.
+    answer: Tuscany
+    aliases:
+    - tuscany
+    reasoning: tusk (elephant tooth) + can (is able to) + ee = tus-can-ee = Tuscany
+  - number: 2
+    initials: A
+    clue: There's a woman called Mal, yeah, and she's done something wrong with some fish. Amalfi. A-mal-fi. The fish have gone off, Mal.
+    answer: Amalfi
+    aliases:
+    - amalfi
+    reasoning: a + Mal (name) + fi (fee sound) = a-mal-fee = Amalfi
+  - number: 3
+    initials: M
+    clue: Right, that woman Minnie - well, they're calling her Men now. And she's got an orca. A whale. Men or ca. Men-or-ca. Right.
+    answer: Menorca
+    aliases:
+    - menorca
+    - minorca
+    reasoning: men (blokes, or name Men) + or + ca = men-or-ca = Menorca
 - id: holidaybusters-018
   enabled: true
   title: Holidaybusters
@@ -571,32 +554,31 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Right, three sets left. Holidaybusters eighteen. Keep going. You've come this far."
-  prize: "Email in. Winner gets a leaking travel mug and a miniature bottle of something from a hotel minibar."
+  - UK
+  intro: Holidaybusters. British holiday destinations abroad. Say each one out loud.
+  prize: Email in. Winner gets a leaking travel mug and a miniature bottle of something from a hotel minibar.
   clues:
-    - number: 1
-      initials: F
-      clue: "There's a bloke called Venter. He's going on an adventure. A proper big one. Fwer-tay-Venter. Fuerte-venture. That's him, off."
-      answer: Fuerteventura
-      aliases:
-        - fuerteventura
-      reasoning: "fuerte (sounds like fwer-tay, strong) + Venter (name, like venture) + a = Fuerteventura"
-    - number: 2
-      initials: C
-      clue: "That centre of the apple again. The core bit. He's pressing it. Pressing the core. Core-press. Say it faster. Go on."
-      answer: Cyprus
-      aliases:
-        - cyprus
-      reasoning: "sigh (exhale) + press (push) = sigh-press = Cyprus. Or: core (centre) + press = Cyprus near enough"
-    - number: 3
-      initials: G C
-      clue: "Right, a big old woman - not rude, just a big gran - and she's opened a can of something while singing opera. Gran. Can. Aria. Brilliant."
-      answer: Gran Canaria
-      aliases:
-        - gran canaria
-      reasoning: "gran (grandmother, large) + can (tin) + aria (operatic song) = Gran Canaria"
-
+  - number: 1
+    initials: F
+    clue: There's a bloke called Venter. He's going on an adventure. A proper big one. Fwer-tay-Venter. Fuerte-venture. That's him, off.
+    answer: Fuerteventura
+    aliases:
+    - fuerteventura
+    reasoning: fuerte (sounds like fwer-tay, strong) + Venter (name, like venture) + a = Fuerteventura
+  - number: 2
+    initials: C
+    clue: That centre of the apple again. The core bit. He's pressing it. Pressing the core. Core-press. Say it faster. Go on.
+    answer: Cyprus
+    aliases:
+    - cyprus
+    reasoning: 'sigh (exhale) + press (push) = sigh-press = Cyprus. Or: core (centre) + press = Cyprus near enough'
+  - number: 3
+    initials: G C
+    clue: Right, a big old woman - not rude, just a big gran - and she's opened a can of something while singing opera. Gran. Can. Aria. Brilliant.
+    answer: Gran Canaria
+    aliases:
+    - gran canaria
+    reasoning: gran (grandmother, large) + can (tin) + aria (operatic song) = Gran Canaria
 - id: holidaybusters-019
   enabled: true
   title: Holidaybusters
@@ -604,32 +586,31 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Nearly there. Holidaybusters nineteen. Two more after this. Stick with it."
-  prize: "Email in. Winner gets a free upgrade to nothing and a slightly damp towel from a hotel pool area."
+  - UK
+  intro: Holidaybusters. Three holiday destinations hiding in these phonetic clues. Have a go.
+  prize: Email in. Winner gets a free upgrade to nothing and a slightly damp towel from a hotel pool area.
   clues:
-    - number: 1
-      initials: C
-      clue: "Right, Crete. The stuff walls are made of. Concrete minus the con. What you're left with is just crete. Like a building material without the dodgy bit."
-      answer: Crete
-      aliases:
-        - crete
-      reasoning: "con + crete = concrete, remove con = Crete. The building material, minus the dodgy prefix."
-    - number: 2
-      initials: M
-      clue: "Someone's gone and stocked up on Maggie's leftovers. Maggie's gone, left, done a luff. Maga. Luf. Right."
-      answer: Magaluf
-      aliases:
-        - magaluf
-      reasoning: "Maga (shortened Maggie) + luf (leaving, luffing in sailing = turning away) = Maga-luf = Magaluf"
-    - number: 3
-      initials: M
-      clue: "That older woman - the gran. She can do it. She really can. She's capable, right. And she wants you to know it. Gran. Can. Aria and all."
-      answer: Gran Canaria
-      aliases:
-        - gran canaria
-      reasoning: "gran (old woman) + can (ability) + aria (operatic singing) = Gran-Can-Aria = Gran Canaria"
-
+  - number: 1
+    initials: C
+    clue: Right, Crete. The stuff walls are made of. Concrete minus the con. What you're left with is just crete. Like a building material without the dodgy bit.
+    answer: Crete
+    aliases:
+    - crete
+    reasoning: con + crete = concrete, remove con = Crete. The building material, minus the dodgy prefix.
+  - number: 2
+    initials: M
+    clue: Someone's gone and stocked up on Maggie's leftovers. Maggie's gone, left, done a luff. Maga. Luf. Right.
+    answer: Magaluf
+    aliases:
+    - magaluf
+    reasoning: Maga (shortened Maggie) + luf (leaving, luffing in sailing = turning away) = Maga-luf = Magaluf
+  - number: 3
+    initials: M
+    clue: That older woman - the gran. She can do it. She really can. She's capable, right. And she wants you to know it. Gran. Can. Aria and all.
+    answer: Gran Canaria
+    aliases:
+    - gran canaria
+    reasoning: gran (old woman) + can (ability) + aria (operatic singing) = Gran-Can-Aria = Gran Canaria
 - id: holidaybusters-020
   enabled: true
   title: Holidaybusters
@@ -637,28 +618,28 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Last one. Holidaybusters twenty. Final set. Three clues standing between you and the prize. Such as it is."
-  prize: "Email in. Winner gets a commemorative plate from a seaside gift shop and a 2002 Woolworths bag for life."
+  - UK
+  intro: Holidaybusters. Three clues, all holiday destinations. The prize is what it is.
+  prize: Email in. Winner gets a commemorative plate from a seaside gift shop and a 2002 Woolworths bag for life.
   clues:
-    - number: 1
-      initials: T
-      clue: "Right, there's a bloke and he's got ten things. Ten. And he hesitates. Ten... er... and then he remembers there's a reef nearby. Underwater reef."
-      answer: Tenerife
-      aliases:
-        - tenerife
-      reasoning: "ten (number) + er (pause, hesitation) + reef (coral underwater structure) = ten-er-reef = Tenerife"
-    - number: 2
-      initials: B
-      clue: "That fella with the balls again. He's on the island. Ball-ee. Everything on the island is ball-shaped. The trees. The shops. The lot."
-      answer: Bali
-      aliases:
-        - bali
-      reasoning: "ball (round object) + ee = ball-ee = Bali"
-    - number: 3
-      initials: R
-      clue: "Two roads. Parallel ones. Going somewhere. Someone's named them Rhodes. Just the roads. Both of them. That's where we're going. Down the Rhodes."
-      answer: Rhodes
-      aliases:
-        - rhodes
-      reasoning: "roads (paths for vehicles) sounds exactly like Rhodes = Rhodes"
+  - number: 1
+    initials: T
+    clue: Right, there's a bloke and he's got ten things. Ten. And he hesitates. Ten... er... and then he remembers there's a reef nearby. Underwater reef.
+    answer: Tenerife
+    aliases:
+    - tenerife
+    reasoning: ten (number) + er (pause, hesitation) + reef (coral underwater structure) = ten-er-reef = Tenerife
+  - number: 2
+    initials: B
+    clue: That fella with the balls again. He's on the island. Ball-ee. Everything on the island is ball-shaped. The trees. The shops. The lot.
+    answer: Bali
+    aliases:
+    - bali
+    reasoning: ball (round object) + ee = ball-ee = Bali
+  - number: 3
+    initials: R
+    clue: Two roads. Parallel ones. Going somewhere. Someone's named them Rhodes. Just the roads. Both of them. That's where we're going. Down the Rhodes.
+    answer: Rhodes
+    aliases:
+    - rhodes
+    reasoning: roads (paths for vehicles) sounds exactly like Rhodes = Rhodes

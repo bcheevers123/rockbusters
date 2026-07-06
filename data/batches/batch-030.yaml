@@ -5,34 +5,33 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Bandbusters. Three pop groups hidden in these clues. Say them out loud and don't overthink it."
-  prize: "Email in. Winner gets a Now That's What I Call Music 52 cassette and a Blockbuster loyalty card."
+  - UK
+  intro: Bandbusters. Three pop groups hidden in these clues. Say them out loud and don't overthink it.
+  prize: Email in. Winner gets a Now That's What I Call Music 52 cassette and a Blockbuster loyalty card.
   clues:
-    - number: 1
-      initials: T T
-      clue: "Right, someone's grabbing hold of something and pointing at it at the same time. That's all it is."
-      answer: Take That
-      aliases:
-        - take that
-      reasoning: "take (grabbing) + that (pointing at it) = Take That"
-    - number: 2
-      initials: B
-      clue: "Some lad's wandered into an area he's not allowed in. Got a sign and everything. Off you go, son."
-      answer: Boyzone
-      aliases:
-        - boyzone
-        - boy zone
-      reasoning: "boy (lad) + zone (restricted area) = Boyzone"
-    - number: 3
-      initials: W
-      clue: "The direction the sun sets, yeah? That's basically existence, that is. Think about it."
-      answer: Westlife
-      aliases:
-        - westlife
-        - west life
-      reasoning: "west (direction) + life (existence) = Westlife"
-
+  - number: 1
+    initials: T T
+    clue: Right, someone's grabbing hold of something and pointing at it at the same time. That's all it is.
+    answer: Take That
+    aliases:
+    - take that
+    reasoning: take (grabbing) + that (pointing at it) = Take That
+  - number: 2
+    initials: B
+    clue: Some lad's wandered into an area he's not allowed in. Got a sign and everything. Off you go, son.
+    answer: Boyzone
+    aliases:
+    - boyzone
+    - boy zone
+    reasoning: boy (lad) + zone (restricted area) = Boyzone
+  - number: 3
+    initials: W
+    clue: The direction the sun sets, yeah? That's basically existence, that is. Think about it.
+    answer: Westlife
+    aliases:
+    - westlife
+    - west life
+    reasoning: west (direction) + life (existence) = Westlife
 - id: bandbusters-042
   enabled: true
   title: Bandbusters
@@ -40,32 +39,31 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Right, Bandbusters. All pop groups. Listen carefully and say it out loud."
-  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists."
+  - UK
+  intro: Right, Bandbusters. All pop groups. Listen carefully and say it out loud.
+  prize: Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists.
   clues:
-    - number: 1
-      initials: S G
-      clue: "Those little jars in the rack, the ones that make your eyes water when you cook with them. But they're lasses."
-      answer: Spice Girls
-      aliases:
-        - spice girls
-      reasoning: "spice (the hot stuff in jars) + girls (lasses) = Spice Girls"
-    - number: 2
-      initials: G A
-      clue: "Some women, right, and they're not being quiet about it. Proper noisy lot."
-      answer: Girls Aloud
-      aliases:
-        - girls aloud
-      reasoning: "girls (women) + aloud (making noise) = Girls Aloud"
-    - number: 3
-      initials: A S
-      clue: "Every single one of them holy people. The whole lot. Not one sinner among them."
-      answer: All Saints
-      aliases:
-        - all saints
-      reasoning: "all (every one) + saints (holy people) = All Saints"
-
+  - number: 1
+    initials: S G
+    clue: Those little jars in the rack, the ones that make your eyes water when you cook with them. But they're lasses.
+    answer: Spice Girls
+    aliases:
+    - spice girls
+    reasoning: spice (the hot stuff in jars) + girls (lasses) = Spice Girls
+  - number: 2
+    initials: G A
+    clue: Some women, right, and they're not being quiet about it. Proper noisy lot.
+    answer: Girls Aloud
+    aliases:
+    - girls aloud
+    reasoning: girls (women) + aloud (making noise) = Girls Aloud
+  - number: 3
+    initials: A S
+    clue: Every single one of them holy people. The whole lot. Not one sinner among them.
+    answer: All Saints
+    aliases:
+    - all saints
+    reasoning: all (every one) + saints (holy people) = All Saints
 - id: bandbusters-043
   enabled: true
   title: Bandbusters
@@ -73,33 +71,32 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Bandbusters time. These are all famous pop groups. Phonetics, that's your friend here."
-  prize: "Email in. Winner gets a Shrek DVD from a petrol station and a lanyard nobody asked for."
+  - UK
+  intro: Bandbusters time. These are all famous pop groups. Phonetics, that's your friend here.
+  prize: Email in. Winner gets a Shrek DVD from a petrol station and a lanyard nobody asked for.
   clues:
-    - number: 1
-      initials: B B
-      clue: "The rear of a road. You know, round the back of a street. And there's some lads there as well."
-      answer: Backstreet Boys
-      aliases:
-        - backstreet boys
-        - back street boys
-      reasoning: "back (rear) + street (road) + boys (lads) = Backstreet Boys"
-    - number: 2
-      initials: N K O T B
-      clue: "Fresh young ones, right, and they're on top of a big wooden cube. Don't ask why, that's just where they are."
-      answer: New Kids on the Block
-      aliases:
-        - new kids on the block
-      reasoning: "new (fresh) + kids (young ones) + on the block (on a wooden cube) = New Kids on the Block"
-    - number: 3
-      initials: F
-      clue: "The number after four. That's it. Say it out loud. Near enough."
-      answer: Five
-      aliases:
-        - five
-      reasoning: "five (the number 5) = Five"
-
+  - number: 1
+    initials: B B
+    clue: The rear of a road. You know, round the back of a street. And there's some lads there as well.
+    answer: Backstreet Boys
+    aliases:
+    - backstreet boys
+    - back street boys
+    reasoning: back (rear) + street (road) + boys (lads) = Backstreet Boys
+  - number: 2
+    initials: N K O T B
+    clue: Fresh young ones, right, and they're on top of a big wooden cube. Don't ask why, that's just where they are.
+    answer: New Kids on the Block
+    aliases:
+    - new kids on the block
+    reasoning: new (fresh) + kids (young ones) + on the block (on a wooden cube) = New Kids on the Block
+  - number: 3
+    initials: F
+    clue: The number after four. That's it. Say it out loud. Near enough.
+    answer: Five
+    aliases:
+    - five
+    reasoning: five (the number 5) = Five
 - id: bandbusters-044
   enabled: true
   title: Bandbusters
@@ -107,34 +104,33 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Here's Bandbusters. Three groups, all phonetic clues. You know how this works."
-  prize: "Email in. Winner gets a printed photo from a disposable camera, framed, and some Value biscuits."
+  - UK
+  intro: Here's Bandbusters. Three groups, all phonetic clues. You know how this works.
+  prize: Email in. Winner gets a printed photo from a disposable camera, framed, and some Value biscuits.
   clues:
-    - number: 1
-      initials: S C 7
-      clue: "Right, there's the letter at the end of the alphabet before T, then there's a place you go for a drink, then it's the number between six and eight. Sort of works."
-      answer: S Club 7
-      aliases:
-        - s club 7
-        - s club seven
-      reasoning: "S (the letter) + club (drinking venue) + 7 (the number) = S Club 7"
-    - number: 2
-      initials: A K
-      clue: "One tiny little cat. Not a big cat. A very small one. Bit radioactive sounding, if anything."
-      answer: Atomic Kitten
-      aliases:
-        - atomic kitten
-      reasoning: "atomic (nuclear-sounding) + kitten (tiny cat) = Atomic Kitten"
-    - number: 3
-      initials: B W
-      clue: "She's gone and put a spell on something. Got her pointed hat on. The whole business."
-      answer: B Witched
-      aliases:
-        - b witched
-        - bewitched
-      reasoning: "be + witched (had a spell put on) = B*Witched"
-
+  - number: 1
+    initials: S C 7
+    clue: Right, there's the letter at the end of the alphabet before T, then there's a place you go for a drink, then it's the number between six and eight. Sort of works.
+    answer: S Club 7
+    aliases:
+    - s club 7
+    - s club seven
+    reasoning: S (the letter) + club (drinking venue) + 7 (the number) = S Club 7
+  - number: 2
+    initials: A K
+    clue: One tiny little cat. Not a big cat. A very small one. Bit radioactive sounding, if anything.
+    answer: Atomic Kitten
+    aliases:
+    - atomic kitten
+    reasoning: atomic (nuclear-sounding) + kitten (tiny cat) = Atomic Kitten
+  - number: 3
+    initials: B W
+    clue: She's gone and put a spell on something. Got her pointed hat on. The whole business.
+    answer: B Witched
+    aliases:
+    - b witched
+    - bewitched
+    reasoning: be + witched (had a spell put on) = B*Witched
 - id: bandbusters-045
   enabled: true
   title: Bandbusters
@@ -142,33 +138,32 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Bandbusters. Pop groups and bands. Say the clue out loud, that's the whole trick."
-  prize: "Email in. Winner gets a DVD copy of The Full Monty and a stress ball from a building society."
+  - UK
+  intro: Bandbusters. Pop groups and bands. Say the clue out loud, that's the whole trick.
+  prize: Email in. Winner gets a DVD copy of The Full Monty and a stress ball from a building society.
   clues:
-    - number: 1
-      initials: S
-      clue: "Right, she's put loads of the white granulated stuff in her tea. The sweet one. Too much of it."
-      answer: Sugababes
-      aliases:
-        - sugababes
-        - sugar babes
-      reasoning: "sugar (the sweet white stuff) + babes (babies, attractive people) = Sugababes"
-    - number: 2
-      initials: O D
-      clue: "You've won something, right. And now someone's pointing you the way to go. Off you go. That direction."
-      answer: One Direction
-      aliases:
-        - one direction
-      reasoning: "one (won, came first) + direction (the way to go) = One Direction"
-    - number: 3
-      initials: T W
-      clue: "Law enforcement's got a poster up. Someone's done something wrong and they're after them. Bit dramatic."
-      answer: The Wanted
-      aliases:
-        - the wanted
-      reasoning: "the + wanted (on a wanted poster, sought by police) = The Wanted"
-
+  - number: 1
+    initials: S
+    clue: Right, she's put loads of the white granulated stuff in her tea. The sweet one. Too much of it.
+    answer: Sugababes
+    aliases:
+    - sugababes
+    - sugar babes
+    reasoning: sugar (the sweet white stuff) + babes (babies, attractive people) = Sugababes
+  - number: 2
+    initials: O D
+    clue: You've won something, right. And now someone's pointing you the way to go. Off you go. That direction.
+    answer: One Direction
+    aliases:
+    - one direction
+    reasoning: one (won, came first) + direction (the way to go) = One Direction
+  - number: 3
+    initials: T W
+    clue: Law enforcement's got a poster up. Someone's done something wrong and they're after them. Bit dramatic.
+    answer: The Wanted
+    aliases:
+    - the wanted
+    reasoning: the + wanted (on a wanted poster, sought by police) = The Wanted
 - id: bandbusters-046
   enabled: true
   title: Bandbusters
@@ -176,33 +171,32 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Alright, Bandbusters. All bands. Phonetic clues, say it out loud, job done."
-  prize: "Email in. Winner gets a set of highlighters and a cassette single from a charity shop."
+  - UK
+  intro: Alright, Bandbusters. All bands. Phonetic clues, say it out loud, job done.
+  prize: Email in. Winner gets a set of highlighters and a cassette single from a charity shop.
   clues:
-    - number: 1
-      initials: L M
-      clue: "Something small, right, and it's been chucked in a blender with a load of other things. Bit of a muddle."
-      answer: Little Mix
-      aliases:
-        - little mix
-      reasoning: "little (small) + mix (blended together) = Little Mix"
-    - number: 2
-      initials: E 17
-      clue: "The direction the sun comes up, and a number that's a teenager. That's your lot."
-      answer: East 17
-      aliases:
-        - east 17
-        - east seventeen
-      reasoning: "east (direction of sunrise) + 17 (teenage number) = East 17"
-    - number: 3
-      initials: L L
-      clue: "You've opened the cage, haven't you. And now whatever was in there has gone off running. Couldn't stop it."
-      answer: Let Loose
-      aliases:
-        - let loose
-      reasoning: "let (allowed) + loose (freed, running wild) = Let Loose"
-
+  - number: 1
+    initials: L M
+    clue: Something small, right, and it's been chucked in a blender with a load of other things. Bit of a muddle.
+    answer: Little Mix
+    aliases:
+    - little mix
+    reasoning: little (small) + mix (blended together) = Little Mix
+  - number: 2
+    initials: E 17
+    clue: The direction the sun comes up, and a number that's a teenager. That's your lot.
+    answer: East 17
+    aliases:
+    - east 17
+    - east seventeen
+    reasoning: east (direction of sunrise) + 17 (teenage number) = East 17
+  - number: 3
+    initials: L L
+    clue: You've opened the cage, haven't you. And now whatever was in there has gone off running. Couldn't stop it.
+    answer: Let Loose
+    aliases:
+    - let loose
+    reasoning: let (allowed) + loose (freed, running wild) = Let Loose
 - id: bandbusters-047
   enabled: true
   title: Bandbusters
@@ -210,37 +204,36 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Right, Bandbusters. Pop groups. Three of them. Have a listen and say it out loud."
-  prize: "Email in. Winner gets a signed headshot of someone from Hollyoaks and a travel sewing kit."
+  - UK
+  intro: Right, Bandbusters. Pop groups. Three of them. Have a listen and say it out loud.
+  prize: Email in. Winner gets a signed headshot of someone from Hollyoaks and a travel sewing kit.
   clues:
-    - number: 1
-      initials: N S
-      clue: "Everything's perfectly timed. All together. Not one of them is out of step. Proper coordinated."
-      answer: N Sync
-      aliases:
-        - n sync
-        - nsync
-        - in sync
-      reasoning: "in + sync (perfectly timed together) = *NSYNC"
-    - number: 2
-      initials: H S
-      clue: "You listen to a thing, then you say a thing about it. Word gets around. That's gossip, that is."
-      answer: Hear'Say
-      aliases:
-        - hear say
-        - hearsay
-        - hear'say
-      reasoning: "hear (listen) + say (speak about it) = Hear'Say"
-    - number: 3
-      initials: L X
-      clue: "Freedom, right. Like you've been released. And then there's your old partner stood there looking a bit awkward."
-      answer: Liberty X
-      aliases:
-        - liberty x
-        - liberty ex
-      reasoning: "liberty (freedom) + X (ex, former partner) = Liberty X"
-
+  - number: 1
+    initials: N S
+    clue: Everything's perfectly timed. All together. Not one of them is out of step. Proper coordinated.
+    answer: N Sync
+    aliases:
+    - n sync
+    - nsync
+    - in sync
+    reasoning: in + sync (perfectly timed together) = *NSYNC
+  - number: 2
+    initials: H S
+    clue: You listen to a thing, then you say a thing about it. Word gets around. That's gossip, that is.
+    answer: Hear'Say
+    aliases:
+    - hear say
+    - hearsay
+    - hear'say
+    reasoning: hear (listen) + say (speak about it) = Hear'Say
+  - number: 3
+    initials: L X
+    clue: Freedom, right. Like you've been released. And then there's your old partner stood there looking a bit awkward.
+    answer: Liberty X
+    aliases:
+    - liberty x
+    - liberty ex
+    reasoning: liberty (freedom) + X (ex, former partner) = Liberty X
 - id: bandbusters-048
   enabled: true
   title: Bandbusters
@@ -248,33 +241,32 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Bandbusters. Say the clue out loud and you'll get there. Three pop acts, off you go."
-  prize: "Email in. Winner gets a copy of Shrek 2 on VHS and a pen that sort of works."
+  - UK
+  intro: Bandbusters. Say the clue out loud and you'll get there. Three pop acts, off you go.
+  prize: Email in. Winner gets a copy of Shrek 2 on VHS and a pen that sort of works.
   clues:
-    - number: 1
-      initials: T T
-      clue: "Someone's come along and picked something up. And then they've pointed at it as well. That's all they're doing."
-      answer: Take That
-      aliases:
-        - take that
-      reasoning: "take (pick up) + that (pointing at the thing) = Take That"
-    - number: 2
-      initials: B
-      clue: "That colour, like the sky on a nice day. Or the sea. Sad, some people call it. Say it out loud. Easy one."
-      answer: Blue
-      aliases:
-        - blue
-      reasoning: "blue (the colour, sounds exactly like the band) = Blue"
-    - number: 3
-      initials: W
-      clue: "The part of the world where the sun disappears at the end of the day. And then the fact that you're alive. Put it together."
-      answer: Westlife
-      aliases:
-        - westlife
-        - west life
-      reasoning: "west (where sun sets) + life (being alive) = Westlife"
-
+  - number: 1
+    initials: T T
+    clue: Someone's come along and picked something up. And then they've pointed at it as well. That's all they're doing.
+    answer: Take That
+    aliases:
+    - take that
+    reasoning: take (pick up) + that (pointing at the thing) = Take That
+  - number: 2
+    initials: B
+    clue: That colour, like the sky on a nice day. Or the sea. Sad, some people call it. Say it out loud. Easy one.
+    answer: Blue
+    aliases:
+    - blue
+    reasoning: blue (the colour, sounds exactly like the band) = Blue
+  - number: 3
+    initials: W
+    clue: The part of the world where the sun disappears at the end of the day. And then the fact that you're alive. Put it together.
+    answer: Westlife
+    aliases:
+    - westlife
+    - west life
+    reasoning: west (where sun sets) + life (being alive) = Westlife
 - id: bandbusters-049
   enabled: true
   title: Bandbusters
@@ -282,33 +274,32 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Alright, it's Bandbusters. Pop groups only. You know the drill, say it out loud."
-  prize: "Email in. Winner gets a Woolworths bag-for-life and a half-used gift card."
+  - UK
+  intro: Alright, it's Bandbusters. Pop groups only. You know the drill, say it out loud.
+  prize: Email in. Winner gets a Woolworths bag-for-life and a half-used gift card.
   clues:
-    - number: 1
-      initials: B Z
-      clue: "He's a lad, right, and he's standing in one of them restricted areas. The ones with the cones."
-      answer: Boyzone
-      aliases:
-        - boyzone
-        - boy zone
-      reasoning: "boy (lad) + zone (restricted area with cones) = Boyzone"
-    - number: 2
-      initials: S G
-      clue: "The stuff in them little jars that make your curry taste nice. And then some women as well."
-      answer: Spice Girls
-      aliases:
-        - spice girls
-      reasoning: "spice (curry seasoning) + girls (women) = Spice Girls"
-    - number: 3
-      initials: A K
-      clue: "It's like nuclear, but it's also a tiny little cat that's not grown up yet. Bit of an odd combination."
-      answer: Atomic Kitten
-      aliases:
-        - atomic kitten
-      reasoning: "atomic (nuclear) + kitten (young small cat) = Atomic Kitten"
-
+  - number: 1
+    initials: B Z
+    clue: He's a lad, right, and he's standing in one of them restricted areas. The ones with the cones.
+    answer: Boyzone
+    aliases:
+    - boyzone
+    - boy zone
+    reasoning: boy (lad) + zone (restricted area with cones) = Boyzone
+  - number: 2
+    initials: S G
+    clue: The stuff in them little jars that make your curry taste nice. And then some women as well.
+    answer: Spice Girls
+    aliases:
+    - spice girls
+    reasoning: spice (curry seasoning) + girls (women) = Spice Girls
+  - number: 3
+    initials: A K
+    clue: It's like nuclear, but it's also a tiny little cat that's not grown up yet. Bit of an odd combination.
+    answer: Atomic Kitten
+    aliases:
+    - atomic kitten
+    reasoning: atomic (nuclear) + kitten (young small cat) = Atomic Kitten
 - id: bandbusters-050
   enabled: true
   title: Bandbusters
@@ -316,33 +307,32 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Here's Bandbusters. Three groups hidden in phonetic clues. Don't overthink it."
-  prize: "Email in. Winner gets a Freeview box that needs a retune and a 2004 calendar from a dentist."
+  - UK
+  intro: Here's Bandbusters. Three groups hidden in phonetic clues. Don't overthink it.
+  prize: Email in. Winner gets a Freeview box that needs a retune and a 2004 calendar from a dentist.
   clues:
-    - number: 1
-      initials: N K O T B
-      clue: "Young ones, fresh out the box, stood on top of a large cube. Nobody's explained why."
-      answer: New Kids on the Block
-      aliases:
-        - new kids on the block
-      reasoning: "new (fresh) + kids (young ones) + on the block (on a cube) = New Kids on the Block"
-    - number: 2
-      initials: E 17
-      clue: "That way, towards where it gets light in the morning. And the age you are just before you turn eighteen."
-      answer: East 17
-      aliases:
-        - east 17
-        - east seventeen
-      reasoning: "east (morning direction) + 17 (age before eighteen) = East 17"
-    - number: 3
-      initials: F
-      clue: "One hand, all five fingers out. The number of them. That's your answer. Say it."
-      answer: Five
-      aliases:
-        - five
-      reasoning: "five (the number, five fingers) = Five"
-
+  - number: 1
+    initials: N K O T B
+    clue: Young ones, fresh out the box, stood on top of a large cube. Nobody's explained why.
+    answer: New Kids on the Block
+    aliases:
+    - new kids on the block
+    reasoning: new (fresh) + kids (young ones) + on the block (on a cube) = New Kids on the Block
+  - number: 2
+    initials: E 17
+    clue: That way, towards where it gets light in the morning. And the age you are just before you turn eighteen.
+    answer: East 17
+    aliases:
+    - east 17
+    - east seventeen
+    reasoning: east (morning direction) + 17 (age before eighteen) = East 17
+  - number: 3
+    initials: F
+    clue: One hand, all five fingers out. The number of them. That's your answer. Say it.
+    answer: Five
+    aliases:
+    - five
+    reasoning: five (the number, five fingers) = Five
 - id: bandbusters-051
   enabled: true
   title: Bandbusters
@@ -350,33 +340,32 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Bandbusters. Pop acts from the charts. Say these out loud and they'll come to you."
-  prize: "Email in. Winner gets a CD single that's scratched in exactly the wrong place and a bookmark."
+  - UK
+  intro: Bandbusters. Pop acts from the charts. Say these out loud and they'll come to you.
+  prize: Email in. Winner gets a CD single that's scratched in exactly the wrong place and a bookmark.
   clues:
-    - number: 1
-      initials: G A
-      clue: "A group of women being very vocal about things. Proper speaking their minds, they are."
-      answer: Girls Aloud
-      aliases:
-        - girls aloud
-      reasoning: "girls (group of women) + aloud (vocally, out loud) = Girls Aloud"
-    - number: 2
-      initials: L M
-      clue: "It's tiny, right, and it's all mixed up together. Could be a cake, could be a band. Could be both."
-      answer: Little Mix
-      aliases:
-        - little mix
-      reasoning: "little (tiny) + mix (mixed together) = Little Mix"
-    - number: 3
-      initials: S
-      clue: "The woman's made her cup of tea way too sweet. Proper loaded it up with the white stuff. That's her lot."
-      answer: Sugababes
-      aliases:
-        - sugababes
-        - sugar babes
-      reasoning: "sugar (sweet white stuff) + babes (informal for babies or attractive people) = Sugababes"
-
+  - number: 1
+    initials: G A
+    clue: A group of women being very vocal about things. Proper speaking their minds, they are.
+    answer: Girls Aloud
+    aliases:
+    - girls aloud
+    reasoning: girls (group of women) + aloud (vocally, out loud) = Girls Aloud
+  - number: 2
+    initials: L M
+    clue: It's tiny, right, and it's all mixed up together. Could be a cake, could be a band. Could be both.
+    answer: Little Mix
+    aliases:
+    - little mix
+    reasoning: little (tiny) + mix (mixed together) = Little Mix
+  - number: 3
+    initials: S
+    clue: The woman's made her cup of tea way too sweet. Proper loaded it up with the white stuff. That's her lot.
+    answer: Sugababes
+    aliases:
+    - sugababes
+    - sugar babes
+    reasoning: sugar (sweet white stuff) + babes (informal for babies or attractive people) = Sugababes
 - id: bandbusters-052
   enabled: true
   title: Bandbusters
@@ -384,33 +373,32 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Right then, Bandbusters. All pop groups. Three clues, phonetic, say it out loud."
-  prize: "Email in. Winner gets a Smash Hits annual from 2002 and a pen with a company logo on it."
+  - UK
+  intro: Right then, Bandbusters. All pop groups. Three clues, phonetic, say it out loud.
+  prize: Email in. Winner gets a Smash Hits annual from 2002 and a pen with a company logo on it.
   clues:
-    - number: 1
-      initials: A S
-      clue: "The complete set of them holy ones, every single blessed person. Not a sinner in the bunch."
-      answer: All Saints
-      aliases:
-        - all saints
-      reasoning: "all (complete set) + saints (holy people) = All Saints"
-    - number: 2
-      initials: B B
-      clue: "It's the lane at the back of the houses, right, and there's a load of young lads hanging about. As they do."
-      answer: Backstreet Boys
-      aliases:
-        - backstreet boys
-        - back street boys
-      reasoning: "back (rear) + street (road/lane) + boys (lads) = Backstreet Boys"
-    - number: 3
-      initials: T W
-      clue: "There's a poster on the wall with a face on it. Police want someone. They're after them. Reward and everything."
-      answer: The Wanted
-      aliases:
-        - the wanted
-      reasoning: "the + wanted (on a police wanted poster) = The Wanted"
-
+  - number: 1
+    initials: A S
+    clue: The complete set of them holy ones, every single blessed person. Not a sinner in the bunch.
+    answer: All Saints
+    aliases:
+    - all saints
+    reasoning: all (complete set) + saints (holy people) = All Saints
+  - number: 2
+    initials: B B
+    clue: It's the lane at the back of the houses, right, and there's a load of young lads hanging about. As they do.
+    answer: Backstreet Boys
+    aliases:
+    - backstreet boys
+    - back street boys
+    reasoning: back (rear) + street (road/lane) + boys (lads) = Backstreet Boys
+  - number: 3
+    initials: T W
+    clue: There's a poster on the wall with a face on it. Police want someone. They're after them. Reward and everything.
+    answer: The Wanted
+    aliases:
+    - the wanted
+    reasoning: the + wanted (on a police wanted poster) = The Wanted
 - id: bandbusters-053
   enabled: true
   title: Bandbusters
@@ -418,36 +406,35 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Bandbusters time. Pop groups, phonetic clues. You know what you're doing."
-  prize: "Email in. Winner gets a keyring from a service station and a copy of Heat magazine from three years ago."
+  - UK
+  intro: Bandbusters time. Pop groups, phonetic clues. You know what you're doing.
+  prize: Email in. Winner gets a keyring from a service station and a copy of Heat magazine from three years ago.
   clues:
-    - number: 1
-      initials: N S
-      clue: "They're all moving at exactly the same time. In perfect rhythm. Not one of them is off. Clockwork."
-      answer: N Sync
-      aliases:
-        - n sync
-        - nsync
-        - in sync
-      reasoning: "in + sync (perfect timing, all together) = *NSYNC"
-    - number: 2
-      initials: O D
-      clue: "You've finished first in a race, and now someone's pointing you down a road. That way, they're saying. Off you go."
-      answer: One Direction
-      aliases:
-        - one direction
-      reasoning: "one (finished first, won) + direction (pointed way) = One Direction"
-    - number: 3
-      initials: H S
-      clue: "Someone's listened to a bit of news, then they've passed it on. It's going round. That's how these things spread."
-      answer: Hear'Say
-      aliases:
-        - hear say
-        - hearsay
-        - hear'say
-      reasoning: "hear (listened to) + say (passed it on) = Hear'Say"
-
+  - number: 1
+    initials: N S
+    clue: They're all moving at exactly the same time. In perfect rhythm. Not one of them is off. Clockwork.
+    answer: N Sync
+    aliases:
+    - n sync
+    - nsync
+    - in sync
+    reasoning: in + sync (perfect timing, all together) = *NSYNC
+  - number: 2
+    initials: O D
+    clue: You've finished first in a race, and now someone's pointing you down a road. That way, they're saying. Off you go.
+    answer: One Direction
+    aliases:
+    - one direction
+    reasoning: one (finished first, won) + direction (pointed way) = One Direction
+  - number: 3
+    initials: H S
+    clue: Someone's listened to a bit of news, then they've passed it on. It's going round. That's how these things spread.
+    answer: Hear'Say
+    aliases:
+    - hear say
+    - hearsay
+    - hear'say
+    reasoning: hear (listened to) + say (passed it on) = Hear'Say
 - id: bandbusters-054
   enabled: true
   title: Bandbusters
@@ -455,33 +442,32 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Alright, Bandbusters. All pop groups and bands. Phonetics. Have a go."
-  prize: "Email in. Winner gets a commemorative mug and a gel pen that's nearly run out."
+  - UK
+  intro: Alright, Bandbusters. All pop groups and bands. Phonetics. Have a go.
+  prize: Email in. Winner gets a commemorative mug and a gel pen that's nearly run out.
   clues:
-    - number: 1
-      initials: B
-      clue: "That colour, right, the one people say when they're feeling a bit down. Sky-coloured. The sea, maybe. Say it."
-      answer: Blue
-      aliases:
-        - blue
-      reasoning: "blue (colour of sky and sea, also meaning sad) = Blue"
-    - number: 2
-      initials: L X
-      clue: "She's free, isn't she. Proper independent. And then there's her old fella, her ex, just stood there."
-      answer: Liberty X
-      aliases:
-        - liberty x
-        - liberty ex
-      reasoning: "liberty (freedom, independence) + X (ex-partner) = Liberty X"
-    - number: 3
-      initials: L L
-      clue: "Someone's undone the latch on the pen, and now that animal has gone running off into the field. Couldn't stop it."
-      answer: Let Loose
-      aliases:
-        - let loose
-      reasoning: "let (allowed, undid the latch) + loose (freed, running off) = Let Loose"
-
+  - number: 1
+    initials: B
+    clue: That colour, right, the one people say when they're feeling a bit down. Sky-coloured. The sea, maybe. Say it.
+    answer: Blue
+    aliases:
+    - blue
+    reasoning: blue (colour of sky and sea, also meaning sad) = Blue
+  - number: 2
+    initials: L X
+    clue: She's free, isn't she. Proper independent. And then there's her old fella, her ex, just stood there.
+    answer: Liberty X
+    aliases:
+    - liberty x
+    - liberty ex
+    reasoning: liberty (freedom, independence) + X (ex-partner) = Liberty X
+  - number: 3
+    initials: L L
+    clue: Someone's undone the latch on the pen, and now that animal has gone running off into the field. Couldn't stop it.
+    answer: Let Loose
+    aliases:
+    - let loose
+    reasoning: let (allowed, undid the latch) + loose (freed, running off) = Let Loose
 - id: bandbusters-055
   enabled: true
   title: Bandbusters
@@ -489,35 +475,34 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Right, Bandbusters. Classic pop groups. Three clues. Say them out loud."
-  prize: "Email in. Winner gets a tamagotchi with no batteries and a loyalty card stamped once."
+  - UK
+  intro: Right, Bandbusters. Classic pop groups. Three clues. Say them out loud.
+  prize: Email in. Winner gets a tamagotchi with no batteries and a loyalty card stamped once.
   clues:
-    - number: 1
-      initials: W
-      clue: "That direction, the one where everything goes dark at the end of the day. And then you're alive, aren't you. That's your life."
-      answer: Westlife
-      aliases:
-        - westlife
-        - west life
-      reasoning: "west (where sun sets, end of day direction) + life (being alive) = Westlife"
-    - number: 2
-      initials: B Z
-      clue: "There's a young fella stood in one of them marked-off sections. The sort with the lines on the ground. Security's watching."
-      answer: Boyzone
-      aliases:
-        - boyzone
-        - boy zone
-      reasoning: "boy (young fella) + zone (marked-off section) = Boyzone"
-    - number: 3
-      initials: B W
-      clue: "Something's had a hex put on it. Proper bewitched. Someone in a pointy hat's had a go at it."
-      answer: B Witched
-      aliases:
-        - b witched
-        - bewitched
-      reasoning: "be + witched (had a spell or hex put on it) = B*Witched"
-
+  - number: 1
+    initials: W
+    clue: That direction, the one where everything goes dark at the end of the day. And then you're alive, aren't you. That's your life.
+    answer: Westlife
+    aliases:
+    - westlife
+    - west life
+    reasoning: west (where sun sets, end of day direction) + life (being alive) = Westlife
+  - number: 2
+    initials: B Z
+    clue: There's a young fella stood in one of them marked-off sections. The sort with the lines on the ground. Security's watching.
+    answer: Boyzone
+    aliases:
+    - boyzone
+    - boy zone
+    reasoning: boy (young fella) + zone (marked-off section) = Boyzone
+  - number: 3
+    initials: B W
+    clue: Something's had a hex put on it. Proper bewitched. Someone in a pointy hat's had a go at it.
+    answer: B Witched
+    aliases:
+    - b witched
+    - bewitched
+    reasoning: be + witched (had a spell or hex put on it) = B*Witched
 - id: bandbusters-056
   enabled: true
   title: Bandbusters
@@ -525,33 +510,32 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Here's Bandbusters. These are all proper famous pop acts. Say the clues out loud."
-  prize: "Email in. Winner gets a Boots Advantage card with fourteen points on it and a trial-size shampoo."
+  - UK
+  intro: Here's Bandbusters. These are all proper famous pop acts. Say the clues out loud.
+  prize: Email in. Winner gets a Boots Advantage card with fourteen points on it and a trial-size shampoo.
   clues:
-    - number: 1
-      initials: S C 7
-      clue: "There's a letter, the one that looks like a curly snake. Then a place where you go for a drink with a jukebox. Then count up from six."
-      answer: S Club 7
-      aliases:
-        - s club 7
-        - s club seven
-      reasoning: "S (the letter) + club (venue with drinks and a jukebox) + 7 (one more than six) = S Club 7"
-    - number: 2
-      initials: T T
-      clue: "You've grabbed something off a shelf. And you're pointing at it as well, for some reason. Both at once."
-      answer: Take That
-      aliases:
-        - take that
-      reasoning: "take (grabbed it) + that (pointing at it) = Take That"
-    - number: 3
-      initials: S G
-      clue: "Them hot powders in the spice rack, all of them, and they've all turned into women somehow. Don't ask."
-      answer: Spice Girls
-      aliases:
-        - spice girls
-      reasoning: "spice (hot powders in the rack) + girls (women) = Spice Girls"
-
+  - number: 1
+    initials: S C 7
+    clue: There's a letter, the one that looks like a curly snake. Then a place where you go for a drink with a jukebox. Then count up from six.
+    answer: S Club 7
+    aliases:
+    - s club 7
+    - s club seven
+    reasoning: S (the letter) + club (venue with drinks and a jukebox) + 7 (one more than six) = S Club 7
+  - number: 2
+    initials: T T
+    clue: You've grabbed something off a shelf. And you're pointing at it as well, for some reason. Both at once.
+    answer: Take That
+    aliases:
+    - take that
+    reasoning: take (grabbed it) + that (pointing at it) = Take That
+  - number: 3
+    initials: S G
+    clue: Them hot powders in the spice rack, all of them, and they've all turned into women somehow. Don't ask.
+    answer: Spice Girls
+    aliases:
+    - spice girls
+    reasoning: spice (hot powders in the rack) + girls (women) = Spice Girls
 - id: bandbusters-057
   enabled: true
   title: Bandbusters
@@ -559,33 +543,32 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Bandbusters. Pop groups. Phonetic clues. You've done this before, you'll be fine."
-  prize: "Email in. Winner gets a Lemsip and a Radio Times from December 2003."
+  - UK
+  intro: Bandbusters. Pop groups. Phonetic clues. You've done this before, you'll be fine.
+  prize: Email in. Winner gets a Lemsip and a Radio Times from December 2003.
   clues:
-    - number: 1
-      initials: A S
-      clue: "Right, every single one of them is a holy person. The lot of them. Not one bad egg among them. Every last one."
-      answer: All Saints
-      aliases:
-        - all saints
-      reasoning: "all (every single one) + saints (holy people with no bad eggs) = All Saints"
-    - number: 2
-      initials: G A
-      clue: "Some women making themselves heard. Properly loud. You can hear them from the next room and all."
-      answer: Girls Aloud
-      aliases:
-        - girls aloud
-      reasoning: "girls (women) + aloud (loudly, making themselves heard) = Girls Aloud"
-    - number: 3
-      initials: S
-      clue: "Too much of the sweet white granules in that recipe. They've overdone it. Now everything tastes of sugar and babies apparently."
-      answer: Sugababes
-      aliases:
-        - sugababes
-        - sugar babes
-      reasoning: "sugar (sweet white granules) + babes (babies) = Sugababes"
-
+  - number: 1
+    initials: A S
+    clue: Right, every single one of them is a holy person. The lot of them. Not one bad egg among them. Every last one.
+    answer: All Saints
+    aliases:
+    - all saints
+    reasoning: all (every single one) + saints (holy people with no bad eggs) = All Saints
+  - number: 2
+    initials: G A
+    clue: Some women making themselves heard. Properly loud. You can hear them from the next room and all.
+    answer: Girls Aloud
+    aliases:
+    - girls aloud
+    reasoning: girls (women) + aloud (loudly, making themselves heard) = Girls Aloud
+  - number: 3
+    initials: S
+    clue: Too much of the sweet white granules in that recipe. They've overdone it. Now everything tastes of sugar and babies apparently.
+    answer: Sugababes
+    aliases:
+    - sugababes
+    - sugar babes
+    reasoning: sugar (sweet white granules) + babes (babies) = Sugababes
 - id: bandbusters-058
   enabled: true
   title: Bandbusters
@@ -593,33 +576,32 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Right then, Bandbusters. Pop acts. Three clues. Say it out loud, that's your method."
-  prize: "Email in. Winner gets a mini dictionary from 1998 and a promotional ruler from a mortgage company."
+  - UK
+  intro: Right then, Bandbusters. Pop acts. Three clues. Say it out loud, that's your method.
+  prize: Email in. Winner gets a mini dictionary from 1998 and a promotional ruler from a mortgage company.
   clues:
-    - number: 1
-      initials: L M
-      clue: "Small thing. Tiny. And it's all jumbled up together with other things. Bit of everything. Sort of blended."
-      answer: Little Mix
-      aliases:
-        - little mix
-      reasoning: "little (small, tiny) + mix (jumbled, blended together) = Little Mix"
-    - number: 2
-      initials: O D
-      clue: "You came first, didn't you. Number one. And now they're pointing you off that way. Follow the signs."
-      answer: One Direction
-      aliases:
-        - one direction
-      reasoning: "one (first place, came first) + direction (pointed that way) = One Direction"
-    - number: 3
-      initials: E 17
-      clue: "Go that way, towards the morning. And how old you are when you're nearly old enough to vote."
-      answer: East 17
-      aliases:
-        - east 17
-        - east seventeen
-      reasoning: "east (direction of morning) + 17 (nearly old enough to vote) = East 17"
-
+  - number: 1
+    initials: L M
+    clue: Small thing. Tiny. And it's all jumbled up together with other things. Bit of everything. Sort of blended.
+    answer: Little Mix
+    aliases:
+    - little mix
+    reasoning: little (small, tiny) + mix (jumbled, blended together) = Little Mix
+  - number: 2
+    initials: O D
+    clue: You came first, didn't you. Number one. And now they're pointing you off that way. Follow the signs.
+    answer: One Direction
+    aliases:
+    - one direction
+    reasoning: one (first place, came first) + direction (pointed that way) = One Direction
+  - number: 3
+    initials: E 17
+    clue: Go that way, towards the morning. And how old you are when you're nearly old enough to vote.
+    answer: East 17
+    aliases:
+    - east 17
+    - east seventeen
+    reasoning: east (direction of morning) + 17 (nearly old enough to vote) = East 17
 - id: bandbusters-059
   enabled: true
   title: Bandbusters
@@ -627,33 +609,32 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Bandbusters. Last few now. Pop groups, phonetic clues. Have a good listen."
-  prize: "Email in. Winner gets a 2-for-1 Harvester voucher from 2005 and a phone case that doesn't fit anything."
+  - UK
+  intro: Bandbusters. Last few now. Pop groups, phonetic clues. Have a good listen.
+  prize: Email in. Winner gets a 2-for-1 Harvester voucher from 2005 and a phone case that doesn't fit anything.
   clues:
-    - number: 1
-      initials: B B
-      clue: "Round the back of them houses, the alley bit, and there's a load of lads standing about looking shifty."
-      answer: Backstreet Boys
-      aliases:
-        - backstreet boys
-        - back street boys
-      reasoning: "back (round the back) + street (alley, road) + boys (lads looking shifty) = Backstreet Boys"
-    - number: 2
-      initials: T W
-      clue: "There's a notice gone up with a face on it. The police are after someone. Wanted, it says at the top. That's it."
-      answer: The Wanted
-      aliases:
-        - the wanted
-      reasoning: "the + wanted (police notice, wanted poster) = The Wanted"
-    - number: 3
-      initials: F
-      clue: "One more than four. Fingers on one hand minus the thumb, if you want. Just say the number."
-      answer: Five
-      aliases:
-        - five
-      reasoning: "five (the number, one more than four) = Five"
-
+  - number: 1
+    initials: B B
+    clue: Round the back of them houses, the alley bit, and there's a load of lads standing about looking shifty.
+    answer: Backstreet Boys
+    aliases:
+    - backstreet boys
+    - back street boys
+    reasoning: back (round the back) + street (alley, road) + boys (lads looking shifty) = Backstreet Boys
+  - number: 2
+    initials: T W
+    clue: There's a notice gone up with a face on it. The police are after someone. Wanted, it says at the top. That's it.
+    answer: The Wanted
+    aliases:
+    - the wanted
+    reasoning: the + wanted (police notice, wanted poster) = The Wanted
+  - number: 3
+    initials: F
+    clue: One more than four. Fingers on one hand minus the thumb, if you want. Just say the number.
+    answer: Five
+    aliases:
+    - five
+    reasoning: five (the number, one more than four) = Five
 - id: bandbusters-060
   enabled: true
   title: Bandbusters
@@ -661,32 +642,32 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Right, last Bandbusters set. Pop groups. Three clues. Off you go."
-  prize: "Email in. Winner gets a branded stress ball and a DVD copy of Bridget Jones from a charity shop."
+  - UK
+  intro: Bandbusters. Pop groups hiding in the phonetic clues. Say them out loud.
+  prize: Email in. Winner gets a branded stress ball and a DVD copy of Bridget Jones from a charity shop.
   clues:
-    - number: 1
-      initials: N S
-      clue: "They're all doing it at exactly the same time. Perfect rhythm. Like they've rehearsed it loads. All in time."
-      answer: N Sync
-      aliases:
-        - n sync
-        - nsync
-        - in sync
-      reasoning: "in + sync (all doing it at the same time, perfect rhythm) = *NSYNC"
-    - number: 2
-      initials: L L
-      clue: "They've opened the gate, haven't they, and now whatever was penned in there is off across the field. Gone."
-      answer: Let Loose
-      aliases:
-        - let loose
-      reasoning: "let (opened the gate, allowed) + loose (running free across the field) = Let Loose"
-    - number: 3
-      initials: H S
-      clue: "You've overheard something and now you're telling everyone about it. It's going round. That's what people do."
-      answer: Hear'Say
-      aliases:
-        - hear say
-        - hearsay
-        - hear'say
-      reasoning: "hear (overheard) + say (telling everyone) = Hear'Say"
+  - number: 1
+    initials: N S
+    clue: They're all doing it at exactly the same time. Perfect rhythm. Like they've rehearsed it loads. All in time.
+    answer: N Sync
+    aliases:
+    - n sync
+    - nsync
+    - in sync
+    reasoning: in + sync (all doing it at the same time, perfect rhythm) = *NSYNC
+  - number: 2
+    initials: L L
+    clue: They've opened the gate, haven't they, and now whatever was penned in there is off across the field. Gone.
+    answer: Let Loose
+    aliases:
+    - let loose
+    reasoning: let (opened the gate, allowed) + loose (running free across the field) = Let Loose
+  - number: 3
+    initials: H S
+    clue: You've overheard something and now you're telling everyone about it. It's going round. That's what people do.
+    answer: Hear'Say
+    aliases:
+    - hear say
+    - hearsay
+    - hear'say
+    reasoning: hear (overheard) + say (telling everyone) = Hear'Say

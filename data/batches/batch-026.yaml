@@ -5,32 +5,31 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Right, Snackbusters. All crisps, biscuits, and snacks. Say the clues out loud - that's the whole game."
-  prize: "Email in. Winner gets a Blockbuster loyalty card and a bag of Monster Munch that expired in 2003."
+  - UK
+  intro: Right, Snackbusters. All crisps, biscuits, and snacks. Say the clues out loud - that's the whole game.
+  prize: Email in. Winner gets a Blockbuster loyalty card and a bag of Monster Munch that expired in 2003.
   clues:
-    - number: 1
-      initials: P
-      clue: "Right, there's royalty involved. A young prince, right, and he's somehow become a collection of seabirds. Just go with it."
-      answer: Pringles
-      aliases:
-        - pringles
-      reasoning: "pring (like prince without the ce, sounds like spring minus S) + gulls (seabirds) = Pringles"
-    - number: 2
-      initials: W
-      clue: "Someone's pointing at something and going, erm, you know - what IS that thing? Over and over. Bit confused."
-      answer: Wotsits
-      aliases:
-        - wotsits
-      reasoning: "what's it's said quick = Wotsits"
-    - number: 3
-      initials: Q
-      clue: "That flat bit of stone down at the harbour where the boats tie up - it's gone head to head with something. A proper standoff."
-      answer: Quavers
-      aliases:
-        - quavers
-      reasoning: "quay (harbour platform) + vers (versus, head to head) = Quavers"
-
+  - number: 1
+    initials: P
+    clue: Right, there's royalty involved. A young prince, right, and he's somehow become a collection of seabirds. Just go with it.
+    answer: Pringles
+    aliases:
+    - pringles
+    reasoning: pring (like prince without the ce, sounds like spring minus S) + gulls (seabirds) = Pringles
+  - number: 2
+    initials: W
+    clue: Someone's pointing at something and going, erm, you know - what IS that thing? Over and over. Bit confused.
+    answer: Wotsits
+    aliases:
+    - wotsits
+    reasoning: what's it's said quick = Wotsits
+  - number: 3
+    initials: Q
+    clue: That flat bit of stone down at the harbour where the boats tie up - it's gone head to head with something. A proper standoff.
+    answer: Quavers
+    aliases:
+    - quavers
+    reasoning: quay (harbour platform) + vers (versus, head to head) = Quavers
 - id: snackbusters-002
   enabled: true
   title: Snackbusters
@@ -38,32 +37,31 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Snackbusters is back. All snack-related answers. Don't overthink it - say the clue out loud."
-  prize: "Email in. Winner gets a printed photo from a disposable camera and a half-eaten tube of Pringles, framed."
+  - UK
+  intro: Snackbusters is back. All snack-related answers. Don't overthink it - say the clue out loud.
+  prize: Email in. Winner gets a printed photo from a disposable camera and a half-eaten tube of Pringles, framed.
   clues:
-    - number: 1
-      initials: H H
-      clue: "Some woman's doing that dance where you spin a big ring round your middle, yeah, but she's doing it through a series of circles. Bit ambitious."
-      answer: Hula Hoops
-      aliases:
-        - hula hoops
-      reasoning: "hula (the spinning dance) + hoops (the circles) = Hula Hoops"
-    - number: 2
-      initials: S
-      clue: "Easy one this. A child going down the road on one foot, then the other, all happy. That's literally it."
-      answer: Skips
-      aliases:
-        - skips
-      reasoning: "skips (the act of skipping along) = Skips"
-    - number: 3
-      initials: M M
-      clue: "Right, there's a creature, big scary thing, and it's just sat there eating something. Loudly. Bit rude."
-      answer: Monster Munch
-      aliases:
-        - monster munch
-      reasoning: "monster (big scary creature) + munch (eating loudly) = Monster Munch"
-
+  - number: 1
+    initials: H H
+    clue: Some woman's doing that dance where you spin a big ring round your middle, yeah, but she's doing it through a series of circles. Bit ambitious.
+    answer: Hula Hoops
+    aliases:
+    - hula hoops
+    reasoning: hula (the spinning dance) + hoops (the circles) = Hula Hoops
+  - number: 2
+    initials: S
+    clue: Easy one this. A child going down the road on one foot, then the other, all happy. That's literally it.
+    answer: Skips
+    aliases:
+    - skips
+    reasoning: skips (the act of skipping along) = Skips
+  - number: 3
+    initials: M M
+    clue: Right, there's a creature, big scary thing, and it's just sat there eating something. Loudly. Bit rude.
+    answer: Monster Munch
+    aliases:
+    - monster munch
+    reasoning: monster (big scary creature) + munch (eating loudly) = Monster Munch
 - id: snackbusters-003
   enabled: true
   title: Snackbusters
@@ -71,32 +69,31 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Snackbusters, round three. Every answer is something you'd find in the snack aisle. You know what to do."
-  prize: "Email in. Winner gets an AOL trial disc and a crinkle-cut crisp that's been laminated."
+  - UK
+  intro: Snackbusters, round three. Every answer is something you'd find in the snack aisle. You know what to do.
+  prize: Email in. Winner gets an AOL trial disc and a crinkle-cut crisp that's been laminated.
   clues:
-    - number: 1
-      initials: D
-      clue: "Someone's pointing at these cows going, them ones, over there, them ones. Not the others. Them."
-      answer: Discos
-      aliases:
-        - discos
-      reasoning: "dis (this/them) + coes (cows in a regional accent) = Discos"
-    - number: 2
-      initials: D
-      clue: "Right, there's a door, yeah, and sticking out the bottom of it are a pair of feet. The toe bits specifically. Odd situation."
-      answer: Doritos
-      aliases:
-        - doritos
-      reasoning: "door + ee + toes = Doritos"
-    - number: 3
-      initials: K C
-      clue: "That thing you boil water in - it's gone and produced some fried potato slices. No idea how. It just has."
-      answer: Kettle Chips
-      aliases:
-        - kettle chips
-      reasoning: "kettle (the boiling water thing) + chips (fried potato slices) = Kettle Chips"
-
+  - number: 1
+    initials: D
+    clue: Someone's pointing at these cows going, them ones, over there, them ones. Not the others. Them.
+    answer: Discos
+    aliases:
+    - discos
+    reasoning: dis (this/them) + coes (cows in a regional accent) = Discos
+  - number: 2
+    initials: D
+    clue: Right, there's a door, yeah, and sticking out the bottom of it are a pair of feet. The toe bits specifically. Odd situation.
+    answer: Doritos
+    aliases:
+    - doritos
+    reasoning: door + ee + toes = Doritos
+  - number: 3
+    initials: K C
+    clue: That thing you boil water in - it's gone and produced some fried potato slices. No idea how. It just has.
+    answer: Kettle Chips
+    aliases:
+    - kettle chips
+    reasoning: kettle (the boiling water thing) + chips (fried potato slices) = Kettle Chips
 - id: snackbusters-004
   enabled: true
   title: Snackbusters
@@ -104,33 +101,32 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Four rounds in. Still all snacks and crisps. Still the same rules. Say it out loud if you're stuck."
-  prize: "Email in. Winner gets a DVD copy of Shrek and a voucher for 10p off a multipack."
+  - UK
+  intro: Four rounds in. Still all snacks and crisps. Still the same rules. Say it out loud if you're stuck.
+  prize: Email in. Winner gets a DVD copy of Shrek and a voucher for 10p off a multipack.
   clues:
-    - number: 1
-      initials: M
-      clue: "There's a bloke, right - he belongs to me, yeah - and he's being a right coy fish about the whole thing. Not saying much."
-      answer: McCoys
-      aliases:
-        - mccoys
-      reasoning: "me (belonging to me, mc sounds like me) + coys (koi fish, being coy) = McCoys"
-    - number: 2
-      initials: F
-      clue: "Someone's had it up to here with everything - completely worn out and frayed at the edges. And there's loads of them. Sort of works."
-      answer: Frazzles
-      aliases:
-        - frazzles
-      reasoning: "frazzled (worn out, frayed) sounds like frazzles = Frazzles"
-    - number: 3
-      initials: N N
-      clue: "Right, someone's nicking little ornaments and trinkets off a shelf. Just pocketing them one by one. Brazen."
-      answer: Nik Naks
-      aliases:
-        - nik naks
-        - nik-naks
-      reasoning: "nick (to steal) + knacks (small ornamental objects) = Nik Naks"
-
+  - number: 1
+    initials: M
+    clue: There's a bloke, right - he belongs to me, yeah - and he's being a right coy fish about the whole thing. Not saying much.
+    answer: McCoys
+    aliases:
+    - mccoys
+    reasoning: me (belonging to me, mc sounds like me) + coys (koi fish, being coy) = McCoys
+  - number: 2
+    initials: F
+    clue: Someone's had it up to here with everything - completely worn out and frayed at the edges. And there's loads of them. Sort of works.
+    answer: Frazzles
+    aliases:
+    - frazzles
+    reasoning: frazzled (worn out, frayed) sounds like frazzles = Frazzles
+  - number: 3
+    initials: N N
+    clue: Right, someone's nicking little ornaments and trinkets off a shelf. Just pocketing them one by one. Brazen.
+    answer: Nik Naks
+    aliases:
+    - nik naks
+    - nik-naks
+    reasoning: nick (to steal) + knacks (small ornamental objects) = Nik Naks
 - id: snackbusters-005
   enabled: true
   title: Snackbusters
@@ -138,34 +134,33 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Snackbusters five. These are the easy ones. If you can't get these you need to go back to school, and I mean that kindly."
-  prize: "Email in. Winner gets a Now 58 cassette and a crisp sandwich in a zip-lock bag."
+  - UK
+  intro: Snackbusters five. These are the easy ones. If you can't get these you need to go back to school, and I mean that kindly.
+  prize: Email in. Winner gets a Now 58 cassette and a crisp sandwich in a zip-lock bag.
   clues:
-    - number: 1
-      initials: T
-      clue: "Some little branches, yeah, tiny ones - and they're being allowed to do something. Someone said it was fine. Alright."
-      answer: Twiglets
-      aliases:
-        - twiglets
-      reasoning: "twig (small branch) + lets (is allowed to) = Twiglets"
-    - number: 2
-      initials: J C
-      clue: "That orange town in the Middle East - somewhere near Israel - and it's gone and produced a load of baked goods. Nice of it."
-      answer: Jaffa Cakes
-      aliases:
-        - jaffa cakes
-        - jaffa cake
-      reasoning: "Jaffa (city in Israel/Palestine, orange variety) + cakes (baked goods) = Jaffa Cakes"
-    - number: 3
-      initials: C B
-      clue: "There's a nightclub, right, and inside it there's one of those hard flat things you dip in your tea. Don't overthink it."
-      answer: Club Biscuit
-      aliases:
-        - club biscuit
-        - club
-      reasoning: "club (nightclub) + biscuit (hard flat baked thing) = Club Biscuit"
-
+  - number: 1
+    initials: T
+    clue: Some little branches, yeah, tiny ones - and they're being allowed to do something. Someone said it was fine. Alright.
+    answer: Twiglets
+    aliases:
+    - twiglets
+    reasoning: twig (small branch) + lets (is allowed to) = Twiglets
+  - number: 2
+    initials: J C
+    clue: That orange town in the Middle East - somewhere near Israel - and it's gone and produced a load of baked goods. Nice of it.
+    answer: Jaffa Cakes
+    aliases:
+    - jaffa cakes
+    - jaffa cake
+    reasoning: Jaffa (city in Israel/Palestine, orange variety) + cakes (baked goods) = Jaffa Cakes
+  - number: 3
+    initials: C B
+    clue: There's a nightclub, right, and inside it there's one of those hard flat things you dip in your tea. Don't overthink it.
+    answer: Club Biscuit
+    aliases:
+    - club biscuit
+    - club
+    reasoning: club (nightclub) + biscuit (hard flat baked thing) = Club Biscuit
 - id: snackbusters-006
   enabled: true
   title: Snackbusters
@@ -173,34 +168,33 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Right, more Snackbusters. Six in now. You're doing well if you've got them all. You're doing badly if you haven't."
-  prize: "Email in. Winner gets a Blockbuster Video card and six Bourbon biscuits in a sandwich bag."
+  - UK
+  intro: Right, more Snackbusters. Six in now. You're doing well if you've got them all. You're doing badly if you haven't.
+  prize: Email in. Winner gets a Blockbuster Video card and six Bourbon biscuits in a sandwich bag.
   clues:
-    - number: 1
-      initials: P
-      clue: "There's a woman called Gwen, right, and she's got a biro. Just sitting there with her pen. That's the whole clue."
-      answer: Penguin
-      aliases:
-        - penguin
-      reasoning: "pen (biro) + Gwen (woman's name, sounds like guin) = Penguin"
-    - number: 2
-      initials: B
-      clue: "That prickly thing you get on a jumper, like a bit of rough fluff - it's attached itself to a bread roll. Scratchy breakfast, that."
-      answer: Bourbon
-      aliases:
-        - bourbon
-        - bourbon biscuit
-      reasoning: "bur (the prickly fluff on a jumper) + bun (bread roll) = Bourbon"
-    - number: 3
-      initials: C C
-      clue: "Right, this thing your nan puts on puddings - the yellow eggy stuff - it's gone and teamed up with the thick white dairy stuff. Pair of them."
-      answer: Custard Cream
-      aliases:
-        - custard cream
-        - custard creams
-      reasoning: "custard (yellow eggy pudding stuff) + cream (thick white dairy stuff) = Custard Cream"
-
+  - number: 1
+    initials: P
+    clue: There's a woman called Gwen, right, and she's got a biro. Just sitting there with her pen. That's the whole clue.
+    answer: Penguin
+    aliases:
+    - penguin
+    reasoning: pen (biro) + Gwen (woman's name, sounds like guin) = Penguin
+  - number: 2
+    initials: B
+    clue: That prickly thing you get on a jumper, like a bit of rough fluff - it's attached itself to a bread roll. Scratchy breakfast, that.
+    answer: Bourbon
+    aliases:
+    - bourbon
+    - bourbon biscuit
+    reasoning: bur (the prickly fluff on a jumper) + bun (bread roll) = Bourbon
+  - number: 3
+    initials: C C
+    clue: Right, this thing your nan puts on puddings - the yellow eggy stuff - it's gone and teamed up with the thick white dairy stuff. Pair of them.
+    answer: Custard Cream
+    aliases:
+    - custard cream
+    - custard creams
+    reasoning: custard (yellow eggy pudding stuff) + cream (thick white dairy stuff) = Custard Cream
 - id: snackbusters-007
   enabled: true
   title: Snackbusters
@@ -208,35 +202,34 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Snackbusters seven. Nearly halfway. Keep going. Say them out loud - it really works."
-  prize: "Email in. Winner gets a Tamagotchi that needs the battery changing and a packet of Rich Tea."
+  - UK
+  intro: Snackbusters. Say them out loud — it really works.
+  prize: Email in. Winner gets a Tamagotchi that needs the battery changing and a packet of Rich Tea.
   clues:
-    - number: 1
-      initials: G
-      clue: "There's a fella called Gary, yeah, and he's got a ball, and he's gone off somewhere. Dee dee dee. That's it."
-      answer: Garibaldi
-      aliases:
-        - garibaldi
-        - garibaldi biscuit
-      reasoning: "Gary (fella's name) + ball (round thing) + dee (gone off somewhere) = Garibaldi"
-    - number: 2
-      initials: J D
-      clue: "Someone's spread that thick fruit stuff on something and now they're legging it away from the situation. Classic."
-      answer: Jammy Dodger
-      aliases:
-        - jammy dodger
-        - jammy dodgers
-      reasoning: "jammy (covered in jam, also meaning lucky/sly) + dodger (someone who legs it) = Jammy Dodger"
-    - number: 3
-      initials: R T
-      clue: "That bloke Rich - not loaded rich, just his name - he's having a cup of something hot. That's literally the whole thing."
-      answer: Rich Tea
-      aliases:
-        - rich tea
-        - rich tea biscuit
-      reasoning: "Rich (man's name) + tea (hot drink) = Rich Tea"
-
+  - number: 1
+    initials: G
+    clue: There's a fella called Gary, yeah, and he's got a ball, and he's gone off somewhere. Dee dee dee. That's it.
+    answer: Garibaldi
+    aliases:
+    - garibaldi
+    - garibaldi biscuit
+    reasoning: Gary (fella's name) + ball (round thing) + dee (gone off somewhere) = Garibaldi
+  - number: 2
+    initials: J D
+    clue: Someone's spread that thick fruit stuff on something and now they're legging it away from the situation. Classic.
+    answer: Jammy Dodger
+    aliases:
+    - jammy dodger
+    - jammy dodgers
+    reasoning: jammy (covered in jam, also meaning lucky/sly) + dodger (someone who legs it) = Jammy Dodger
+  - number: 3
+    initials: R T
+    clue: That bloke Rich - not loaded rich, just his name - he's having a cup of something hot. That's literally the whole thing.
+    answer: Rich Tea
+    aliases:
+    - rich tea
+    - rich tea biscuit
+    reasoning: Rich (man's name) + tea (hot drink) = Rich Tea
 - id: snackbusters-008
   enabled: true
   title: Snackbusters
@@ -244,37 +237,36 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Eight sets in. Still going. All snacks, all phonetic, all a bit silly. You know the drill."
-  prize: "Email in. Winner gets a Fanta from a warm fridge and a Hobnob in a presentation envelope."
+  - UK
+  intro: Eight sets in. Still going. All snacks, all phonetic, all a bit silly. You know the drill.
+  prize: Email in. Winner gets a Fanta from a warm fridge and a Hobnob in a presentation envelope.
   clues:
-    - number: 1
-      initials: H
-      clue: "Right, there's a lad, and his name is Rob. And he's been at it again - knocking things. Bit of a habit."
-      answer: Hobnob
-      aliases:
-        - hobnob
-        - hobnobs
-      reasoning: "hob (the cooker top thing, also sounds like knocking) + nob (Rob without the R, sounds like nob) = Hobnob"
-    - number: 2
-      initials: D
-      clue: "That thing your stomach does when it breaks food down - all the acids and that. Someone's written a guide to it. Sort of educational."
-      answer: Digestive
-      aliases:
-        - digestive
-        - digestives
-        - digestive biscuit
-      reasoning: "digest (break food down in stomach) + ive (suffix) = Digestive"
-    - number: 3
-      initials: G N
-      clue: "Some fella called Ginger - not real ginger, just what they call him at work - he's tied a knot in something. Don't know what. A rope probably."
-      answer: Ginger Nut
-      aliases:
-        - ginger nut
-        - ginger nuts
-        - gingernut
-      reasoning: "ginger (the spice, or nickname for red-haired person) + nut (a knot-shaped thing, also the hard crunchy thing) = Ginger Nut"
-
+  - number: 1
+    initials: H
+    clue: Right, there's a lad, and his name is Rob. And he's been at it again - knocking things. Bit of a habit.
+    answer: Hobnob
+    aliases:
+    - hobnob
+    - hobnobs
+    reasoning: hob (the cooker top thing, also sounds like knocking) + nob (Rob without the R, sounds like nob) = Hobnob
+  - number: 2
+    initials: D
+    clue: That thing your stomach does when it breaks food down - all the acids and that. Someone's written a guide to it. Sort of educational.
+    answer: Digestive
+    aliases:
+    - digestive
+    - digestives
+    - digestive biscuit
+    reasoning: digest (break food down in stomach) + ive (suffix) = Digestive
+  - number: 3
+    initials: G N
+    clue: Some fella called Ginger - not real ginger, just what they call him at work - he's tied a knot in something. Don't know what. A rope probably.
+    answer: Ginger Nut
+    aliases:
+    - ginger nut
+    - ginger nuts
+    - gingernut
+    reasoning: ginger (the spice, or nickname for red-haired person) + nut (a knot-shaped thing, also the hard crunchy thing) = Ginger Nut
 - id: snackbusters-009
   enabled: true
   title: Snackbusters
@@ -282,33 +274,32 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Snackbusters nine. Nearly at double figures. Every answer is something you'd eat from a packet. Or a box."
-  prize: "Email in. Winner gets a loyalty stamp card for a coffee shop that shut in 2009 and two Digestives."
+  - UK
+  intro: Snackbusters nine. Nearly at double figures. Every answer is something you'd eat from a packet. Or a box.
+  prize: Email in. Winner gets a loyalty stamp card for a coffee shop that shut in 2009 and two Digestives.
   clues:
-    - number: 1
-      initials: C W
-      clue: "There's a toffee stuff on top - the kind that comes from cooking sugar - and it's sat on one of them thin crispy layered things. Nice."
-      answer: Caramel Wafer
-      aliases:
-        - caramel wafer
-        - caramel wafers
-      reasoning: "caramel (cooked sugar toffee stuff) + wafer (thin crispy layered biscuit thing) = Caramel Wafer"
-    - number: 2
-      initials: P
-      clue: "Right, a young prince again - but this time he's lost the end of his title and he's just sort of hanging there. Sort of regal. Sort of not."
-      answer: Pringles
-      aliases:
-        - pringles
-      reasoning: "prince minus the ce + gull sounds = Pringles. Different clue angle for same answer used earlier in set 1."
-    - number: 3
-      initials: W
-      clue: "Someone keeps asking what a thing is. Again and again. What is it? What is it? And there's loads of the things. That's it."
-      answer: Wotsits
-      aliases:
-        - wotsits
-      reasoning: "what's it's (quickly said) = Wotsits"
-
+  - number: 1
+    initials: C W
+    clue: There's a toffee stuff on top - the kind that comes from cooking sugar - and it's sat on one of them thin crispy layered things. Nice.
+    answer: Caramel Wafer
+    aliases:
+    - caramel wafer
+    - caramel wafers
+    reasoning: caramel (cooked sugar toffee stuff) + wafer (thin crispy layered biscuit thing) = Caramel Wafer
+  - number: 2
+    initials: P
+    clue: Right, a young prince again - but this time he's lost the end of his title and he's just sort of hanging there. Sort of regal. Sort of not.
+    answer: Pringles
+    aliases:
+    - pringles
+    reasoning: prince minus the ce + gull sounds = Pringles. Different clue angle for same answer used earlier in set 1.
+  - number: 3
+    initials: W
+    clue: Someone keeps asking what a thing is. Again and again. What is it? What is it? And there's loads of the things. That's it.
+    answer: Wotsits
+    aliases:
+    - wotsits
+    reasoning: what's it's (quickly said) = Wotsits
 - id: snackbusters-010
   enabled: true
   title: Snackbusters
@@ -316,32 +307,31 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Double figures. Ten sets of Snackbusters. Halfway point. Reward yourself with an actual snack."
-  prize: "Email in. Winner gets a signed photo of someone from Hollyoaks, probably, and a family pack of Quavers."
+  - UK
+  intro: Snackbusters. Reward yourself with an actual snack after this one.
+  prize: Email in. Winner gets a signed photo of someone from Hollyoaks, probably, and a family pack of Quavers.
   clues:
-    - number: 1
-      initials: H H
-      clue: "That spinning dance with the big plastic ring - someone's doing it but they keep going through more rings. It's like a challenge course."
-      answer: Hula Hoops
-      aliases:
-        - hula hoops
-      reasoning: "hula (spinning dance) + hoops (rings/circles) = Hula Hoops"
-    - number: 2
-      initials: D
-      clue: "A door, right, and coming out from under it there's a pair of toes. Proper sticking out. Someone's having a lie-in."
-      answer: Doritos
-      aliases:
-        - doritos
-      reasoning: "door + ee + toes = Doritos"
-    - number: 3
-      initials: M M
-      clue: "Big scary thing from a film - the kind with teeth and claws - just eating. Properly going for it. Crunching away."
-      answer: Monster Munch
-      aliases:
-        - monster munch
-      reasoning: "monster (scary creature) + munch (eating noisily) = Monster Munch"
-
+  - number: 1
+    initials: H H
+    clue: That spinning dance with the big plastic ring - someone's doing it but they keep going through more rings. It's like a challenge course.
+    answer: Hula Hoops
+    aliases:
+    - hula hoops
+    reasoning: hula (spinning dance) + hoops (rings/circles) = Hula Hoops
+  - number: 2
+    initials: D
+    clue: A door, right, and coming out from under it there's a pair of toes. Proper sticking out. Someone's having a lie-in.
+    answer: Doritos
+    aliases:
+    - doritos
+    reasoning: door + ee + toes = Doritos
+  - number: 3
+    initials: M M
+    clue: Big scary thing from a film - the kind with teeth and claws - just eating. Properly going for it. Crunching away.
+    answer: Monster Munch
+    aliases:
+    - monster munch
+    reasoning: monster (scary creature) + munch (eating noisily) = Monster Munch
 - id: snackbusters-011
   enabled: true
   title: Snackbusters
@@ -349,33 +339,32 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Snackbusters eleven. The theme is still snacks. I know you know. Keep going."
-  prize: "Email in. Winner gets a 2004 cinema ticket stub and a Penguin biscuit that's been individually wrapped in tin foil."
+  - UK
+  intro: Snackbusters. The theme is still snacks. Say them out loud.
+  prize: Email in. Winner gets a 2004 cinema ticket stub and a Penguin biscuit that's been individually wrapped in tin foil.
   clues:
-    - number: 1
-      initials: K C
-      clue: "The thing that sits on your cooker and goes whistle - it's somehow produced a load of thin sliced fried potato. Doesn't usually do that."
-      answer: Kettle Chips
-      aliases:
-        - kettle chips
-      reasoning: "kettle (whistle-y water boiler) + chips (thin fried potato slices) = Kettle Chips"
-    - number: 2
-      initials: N N
-      clue: "Someone's at it again - lifting little ornaments, knick-knacks, off shelves. Very casual about it. Just nicking them."
-      answer: Nik Naks
-      aliases:
-        - nik naks
-        - nik-naks
-      reasoning: "nick (steal) + knacks (small ornamental objects) = Nik Naks"
-    - number: 3
-      initials: T
-      clue: "Small bits of a tree - the thin sticking-out parts - and they've been given permission. To do something. What, I don't know. They're just allowed."
-      answer: Twiglets
-      aliases:
-        - twiglets
-      reasoning: "twig (thin tree branch bit) + lets (is allowed to, gives permission) = Twiglets"
-
+  - number: 1
+    initials: K C
+    clue: The thing that sits on your cooker and goes whistle - it's somehow produced a load of thin sliced fried potato. Doesn't usually do that.
+    answer: Kettle Chips
+    aliases:
+    - kettle chips
+    reasoning: kettle (whistle-y water boiler) + chips (thin fried potato slices) = Kettle Chips
+  - number: 2
+    initials: N N
+    clue: Someone's at it again - lifting little ornaments, knick-knacks, off shelves. Very casual about it. Just nicking them.
+    answer: Nik Naks
+    aliases:
+    - nik naks
+    - nik-naks
+    reasoning: nick (steal) + knacks (small ornamental objects) = Nik Naks
+  - number: 3
+    initials: T
+    clue: Small bits of a tree - the thin sticking-out parts - and they've been given permission. To do something. What, I don't know. They're just allowed.
+    answer: Twiglets
+    aliases:
+    - twiglets
+    reasoning: twig (thin tree branch bit) + lets (is allowed to, gives permission) = Twiglets
 - id: snackbusters-012
   enabled: true
   title: Snackbusters
@@ -383,32 +372,31 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Right, round twelve. Still Snackbusters. Still phonetic. You've been warned."
-  prize: "Email in. Winner gets a Tesco Clubcard from 2006 with seven points left on it and a Jaffa Cake."
+  - UK
+  intro: Right, round twelve. Still Snackbusters. Still phonetic. You've been warned.
+  prize: Email in. Winner gets a Tesco Clubcard from 2006 with seven points left on it and a Jaffa Cake.
   clues:
-    - number: 1
-      initials: F
-      clue: "Someone's completely had enough. Run ragged. Worn out to threads. And there's a group of them, all in the same state."
-      answer: Frazzles
-      aliases:
-        - frazzles
-      reasoning: "frazzled (completely worn out) + s (plural) = Frazzles"
-    - number: 2
-      initials: Q
-      clue: "That stone platform by the water - the one where the boats come in - it's taken on a rival. Squared up to someone. Bit dramatic."
-      answer: Quavers
-      aliases:
-        - quavers
-      reasoning: "quay (stone platform at harbour) + vers (versus, taken on a rival) = Quavers"
-    - number: 3
-      initials: S
-      clue: "A kid going along a path, alternating feet, arms swinging, happy. Doesn't care. Just going for it."
-      answer: Skips
-      aliases:
-        - skips
-      reasoning: "skips (the act of skipping, happy walking on alternate feet) = Skips"
-
+  - number: 1
+    initials: F
+    clue: Someone's completely had enough. Run ragged. Worn out to threads. And there's a group of them, all in the same state.
+    answer: Frazzles
+    aliases:
+    - frazzles
+    reasoning: frazzled (completely worn out) + s (plural) = Frazzles
+  - number: 2
+    initials: Q
+    clue: That stone platform by the water - the one where the boats come in - it's taken on a rival. Squared up to someone. Bit dramatic.
+    answer: Quavers
+    aliases:
+    - quavers
+    reasoning: quay (stone platform at harbour) + vers (versus, taken on a rival) = Quavers
+  - number: 3
+    initials: S
+    clue: A kid going along a path, alternating feet, arms swinging, happy. Doesn't care. Just going for it.
+    answer: Skips
+    aliases:
+    - skips
+    reasoning: skips (the act of skipping, happy walking on alternate feet) = Skips
 - id: snackbusters-013
   enabled: true
   title: Snackbusters
@@ -416,34 +404,33 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Thirteen. Unlucky for some but not for Snackbusters fans. All edible, all phonetic, all very silly."
-  prize: "Email in. Winner gets an early-2000s mobile phone wallpaper printed and laminated and a Bourbon biscuit."
+  - UK
+  intro: Thirteen. Unlucky for some but not for Snackbusters fans. All edible, all phonetic, all very silly.
+  prize: Email in. Winner gets an early-2000s mobile phone wallpaper printed and laminated and a Bourbon biscuit.
   clues:
-    - number: 1
-      initials: J C
-      clue: "There's a place in the Middle East - old city, oranges and that - and it's gone and baked a load of round spongy things. Nice."
-      answer: Jaffa Cakes
-      aliases:
-        - jaffa cakes
-        - jaffa cake
-      reasoning: "Jaffa (city, also the orange variety) + cakes (round baked sponge things) = Jaffa Cakes"
-    - number: 2
-      initials: C B
-      clue: "There's a venue - the kind with loud music and coloured lights - and it's got one of those hard dunking biscuits inside. Unusual venue policy."
-      answer: Club Biscuit
-      aliases:
-        - club biscuit
-        - club
-      reasoning: "club (music venue with lights) + biscuit (hard dunking thing) = Club Biscuit"
-    - number: 3
-      initials: P
-      clue: "A woman called Gwen, just sitting there, holding a pen. Looking at it. That's your lot."
-      answer: Penguin
-      aliases:
-        - penguin
-      reasoning: "pen (writing implement) + Gwen (woman's name, sounds like guin) = Penguin"
-
+  - number: 1
+    initials: J C
+    clue: There's a place in the Middle East - old city, oranges and that - and it's gone and baked a load of round spongy things. Nice.
+    answer: Jaffa Cakes
+    aliases:
+    - jaffa cakes
+    - jaffa cake
+    reasoning: Jaffa (city, also the orange variety) + cakes (round baked sponge things) = Jaffa Cakes
+  - number: 2
+    initials: C B
+    clue: There's a venue - the kind with loud music and coloured lights - and it's got one of those hard dunking biscuits inside. Unusual venue policy.
+    answer: Club Biscuit
+    aliases:
+    - club biscuit
+    - club
+    reasoning: club (music venue with lights) + biscuit (hard dunking thing) = Club Biscuit
+  - number: 3
+    initials: P
+    clue: A woman called Gwen, just sitting there, holding a pen. Looking at it. That's your lot.
+    answer: Penguin
+    aliases:
+    - penguin
+    reasoning: pen (writing implement) + Gwen (woman's name, sounds like guin) = Penguin
 - id: snackbusters-014
   enabled: true
   title: Snackbusters
@@ -451,35 +438,34 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Fourteen. Nearly there. Snackbusters is all about saying the clue out loud. If you're reading it silently you're doing it wrong."
-  prize: "Email in. Winner gets a copy of the Radio Times from a dentist's waiting room and a Ginger Nut biscuit."
+  - UK
+  intro: Snackbusters. All about saying the clue out loud. If you're reading it silently you're doing it wrong.
+  prize: Email in. Winner gets a copy of the Radio Times from a dentist's waiting room and a Ginger Nut biscuit.
   clues:
-    - number: 1
-      initials: B
-      clue: "That rough scratchy thing that gets stuck to your woolly jumper when you walk through a field - it's sat on top of a bread roll. Bizarre."
-      answer: Bourbon
-      aliases:
-        - bourbon
-        - bourbon biscuit
-      reasoning: "bur (prickly seed case that sticks to jumpers) + bun (soft bread roll) = Bourbon"
-    - number: 2
-      initials: C C
-      clue: "Right, that yellow wobbly pudding stuff your nan makes - it's gone and joined forces with the thick white dairy stuff. Together now."
-      answer: Custard Cream
-      aliases:
-        - custard cream
-        - custard creams
-      reasoning: "custard (yellow wobbly pudding stuff) + cream (thick white dairy) = Custard Cream"
-    - number: 3
-      initials: G
-      clue: "There's a Gary - just a normal Gary - he's got a ball in his hand and he's wandered off somewhere humming. Dee, he's going."
-      answer: Garibaldi
-      aliases:
-        - garibaldi
-        - garibaldi biscuit
-      reasoning: "Gar (Gary shortened) + ee + ball + dee = Garibaldi"
-
+  - number: 1
+    initials: B
+    clue: That rough scratchy thing that gets stuck to your woolly jumper when you walk through a field - it's sat on top of a bread roll. Bizarre.
+    answer: Bourbon
+    aliases:
+    - bourbon
+    - bourbon biscuit
+    reasoning: bur (prickly seed case that sticks to jumpers) + bun (soft bread roll) = Bourbon
+  - number: 2
+    initials: C C
+    clue: Right, that yellow wobbly pudding stuff your nan makes - it's gone and joined forces with the thick white dairy stuff. Together now.
+    answer: Custard Cream
+    aliases:
+    - custard cream
+    - custard creams
+    reasoning: custard (yellow wobbly pudding stuff) + cream (thick white dairy) = Custard Cream
+  - number: 3
+    initials: G
+    clue: There's a Gary - just a normal Gary - he's got a ball in his hand and he's wandered off somewhere humming. Dee, he's going.
+    answer: Garibaldi
+    aliases:
+    - garibaldi
+    - garibaldi biscuit
+    reasoning: Gar (Gary shortened) + ee + ball + dee = Garibaldi
 - id: snackbusters-015
   enabled: true
   title: Snackbusters
@@ -487,35 +473,34 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Fifteen sets. Snackbusters rolls on. Still crisps and biscuits. Still phonetic. Still a bit daft."
-  prize: "Email in. Winner gets a Snickers and a parking ticket from Wolverhampton that's been artistically framed."
+  - UK
+  intro: Fifteen sets. Snackbusters rolls on. Still crisps and biscuits. Still phonetic. Still a bit daft.
+  prize: Email in. Winner gets a Snickers and a parking ticket from Wolverhampton that's been artistically framed.
   clues:
-    - number: 1
-      initials: J D
-      clue: "Someone's smothered in that thick fruit preserve stuff - totally covered - and now they're running away from something. Evasive. Sticky."
-      answer: Jammy Dodger
-      aliases:
-        - jammy dodger
-        - jammy dodgers
-      reasoning: "jammy (covered in jam, slang for lucky/sly) + dodger (someone evading, running away) = Jammy Dodger"
-    - number: 2
-      initials: R T
-      clue: "A bloke called Rich - proper name, not a comment on his finances - he's put the kettle on. That's literally it. He's having a brew."
-      answer: Rich Tea
-      aliases:
-        - rich tea
-        - rich tea biscuit
-      reasoning: "Rich (man's first name) + tea (hot drink from a kettle) = Rich Tea"
-    - number: 3
-      initials: H
-      clue: "Right, that flat bit on the cooker - the hob - and there's a lad called Rob, yeah, but he's lost the R from his name. So he's just Ob. Or Nob. Knocking about."
-      answer: Hobnob
-      aliases:
-        - hobnob
-        - hobnobs
-      reasoning: "hob (cooker surface) + nob (Rob without the R, the nob sound) = Hobnob"
-
+  - number: 1
+    initials: J D
+    clue: Someone's smothered in that thick fruit preserve stuff - totally covered - and now they're running away from something. Evasive. Sticky.
+    answer: Jammy Dodger
+    aliases:
+    - jammy dodger
+    - jammy dodgers
+    reasoning: jammy (covered in jam, slang for lucky/sly) + dodger (someone evading, running away) = Jammy Dodger
+  - number: 2
+    initials: R T
+    clue: A bloke called Rich - proper name, not a comment on his finances - he's put the kettle on. That's literally it. He's having a brew.
+    answer: Rich Tea
+    aliases:
+    - rich tea
+    - rich tea biscuit
+    reasoning: Rich (man's first name) + tea (hot drink from a kettle) = Rich Tea
+  - number: 3
+    initials: H
+    clue: Right, that flat bit on the cooker - the hob - and there's a lad called Rob, yeah, but he's lost the R from his name. So he's just Ob. Or Nob. Knocking about.
+    answer: Hobnob
+    aliases:
+    - hobnob
+    - hobnobs
+    reasoning: hob (cooker surface) + nob (Rob without the R, the nob sound) = Hobnob
 - id: snackbusters-016
   enabled: true
   title: Snackbusters
@@ -523,37 +508,36 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Sixteen. Snackbusters keeps going. Like a really long biscuit aisle. You're nearly at the checkout."
-  prize: "Email in. Winner gets a miniature shopping trolley keyring and an unopened packet of Twiglets from a Christmas hamper."
+  - UK
+  intro: Snackbusters. More crisps and biscuits hiding in the phonetic clues. Say them out loud.
+  prize: Email in. Winner gets a miniature shopping trolley keyring and an unopened packet of Twiglets from a Christmas hamper.
   clues:
-    - number: 1
-      initials: D
-      clue: "Your body's doing what it does with food - breaking it all down, acids and enzymes and that - and someone's written it all up. Informative."
-      answer: Digestive
-      aliases:
-        - digestive
-        - digestives
-        - digestive biscuit
-      reasoning: "digest (what the stomach does with food) + ive = Digestive"
-    - number: 2
-      initials: G N
-      clue: "That fella they call Ginger at the office - red hair, you know the one - he's gone and tied something in a tight knot. A rope, probably."
-      answer: Ginger Nut
-      aliases:
-        - ginger nut
-        - ginger nuts
-        - gingernut
-      reasoning: "ginger (spice, or nickname) + nut (tied in a knot, hard round thing) = Ginger Nut"
-    - number: 3
-      initials: C W
-      clue: "That brown sugary stuff that goes soft and sticky when you heat it - it's on top of a thin crispy layered thing. Lovely combination really."
-      answer: Caramel Wafer
-      aliases:
-        - caramel wafer
-        - caramel wafers
-      reasoning: "caramel (heated sugar, goes soft and brown) + wafer (thin crispy layered biscuit) = Caramel Wafer"
-
+  - number: 1
+    initials: D
+    clue: Your body's doing what it does with food - breaking it all down, acids and enzymes and that - and someone's written it all up. Informative.
+    answer: Digestive
+    aliases:
+    - digestive
+    - digestives
+    - digestive biscuit
+    reasoning: digest (what the stomach does with food) + ive = Digestive
+  - number: 2
+    initials: G N
+    clue: That fella they call Ginger at the office - red hair, you know the one - he's gone and tied something in a tight knot. A rope, probably.
+    answer: Ginger Nut
+    aliases:
+    - ginger nut
+    - ginger nuts
+    - gingernut
+    reasoning: ginger (spice, or nickname) + nut (tied in a knot, hard round thing) = Ginger Nut
+  - number: 3
+    initials: C W
+    clue: That brown sugary stuff that goes soft and sticky when you heat it - it's on top of a thin crispy layered thing. Lovely combination really.
+    answer: Caramel Wafer
+    aliases:
+    - caramel wafer
+    - caramel wafers
+    reasoning: caramel (heated sugar, goes soft and brown) + wafer (thin crispy layered biscuit) = Caramel Wafer
 - id: snackbusters-017
   enabled: true
   title: Snackbusters
@@ -561,32 +545,31 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Snackbusters seventeen. Three to go after this. You've committed now. Might as well finish."
-  prize: "Email in. Winner gets a lanyard from a trade show in 2007 and a Discos multipack with one bag missing."
+  - UK
+  intro: Snackbusters seventeen. Three to go after this. You've committed now. Might as well finish.
+  prize: Email in. Winner gets a lanyard from a trade show in 2007 and a Discos multipack with one bag missing.
   clues:
-    - number: 1
-      initials: D
-      clue: "There's some cows, right - and someone's pointing specifically at those ones. Not the others. Them lot over there. Those cows."
-      answer: Discos
-      aliases:
-        - discos
-      reasoning: "dis (them, those) + coes (cows in dialect) = Discos"
-    - number: 2
-      initials: M
-      clue: "He belongs to me, this fella. Mine, yeah. And he's being very coy about the whole business. Not giving much away."
-      answer: McCoys
-      aliases:
-        - mccoys
-      reasoning: "mc (sounds like me, belonging to me) + coys (koi carp, being coy) = McCoys"
-    - number: 3
-      initials: P
-      clue: "Right, there's a whole load of them stacked up, right, and if you look at the shape they make from the side it's sort of like a spring. A prince of springs."
-      answer: Pringles
-      aliases:
-        - pringles
-      reasoning: "pring (like spring without the S, or prince without the ce) + guls (gulls, seabirds) = Pringles"
-
+  - number: 1
+    initials: D
+    clue: There's some cows, right - and someone's pointing specifically at those ones. Not the others. Them lot over there. Those cows.
+    answer: Discos
+    aliases:
+    - discos
+    reasoning: dis (them, those) + coes (cows in dialect) = Discos
+  - number: 2
+    initials: M
+    clue: He belongs to me, this fella. Mine, yeah. And he's being very coy about the whole business. Not giving much away.
+    answer: McCoys
+    aliases:
+    - mccoys
+    reasoning: mc (sounds like me, belonging to me) + coys (koi carp, being coy) = McCoys
+  - number: 3
+    initials: P
+    clue: Right, there's a whole load of them stacked up, right, and if you look at the shape they make from the side it's sort of like a spring. A prince of springs.
+    answer: Pringles
+    aliases:
+    - pringles
+    reasoning: pring (like spring without the S, or prince without the ce) + guls (gulls, seabirds) = Pringles
 - id: snackbusters-018
   enabled: true
   title: Snackbusters
@@ -594,32 +577,31 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Right, Snackbusters eighteen. Nearly done. These are the classic ones. Should be easy."
-  prize: "Email in. Winner gets a set of fridge magnets from a place no one's heard of and a Custard Cream in a velvet pouch."
+  - UK
+  intro: Snackbusters. Classic snacks, all phonetic. Should be easy enough.
+  prize: Email in. Winner gets a set of fridge magnets from a place no one's heard of and a Custard Cream in a velvet pouch.
   clues:
-    - number: 1
-      initials: W
-      clue: "This again. Someone asking what something is. They keep going, what is it, what ARE those things - pointing at a load of them."
-      answer: Wotsits
-      aliases:
-        - wotsits
-      reasoning: "what's its said quickly and repeatedly = Wotsits"
-    - number: 2
-      initials: Q
-      clue: "That harbour platform - stone, flat, boats pull up to it - it's challenged something to a fight. Or a competition. Versus something."
-      answer: Quavers
-      aliases:
-        - quavers
-      reasoning: "quay (harbour platform) + vers (versus) = Quavers"
-    - number: 3
-      initials: S
-      clue: "Someone's having a skip down the road. Carefree. Both feet involved at different times. Happy as you like."
-      answer: Skips
-      aliases:
-        - skips
-      reasoning: "skips (the carefree walking hop thing) = Skips"
-
+  - number: 1
+    initials: W
+    clue: This again. Someone asking what something is. They keep going, what is it, what ARE those things - pointing at a load of them.
+    answer: Wotsits
+    aliases:
+    - wotsits
+    reasoning: what's its said quickly and repeatedly = Wotsits
+  - number: 2
+    initials: Q
+    clue: That harbour platform - stone, flat, boats pull up to it - it's challenged something to a fight. Or a competition. Versus something.
+    answer: Quavers
+    aliases:
+    - quavers
+    reasoning: quay (harbour platform) + vers (versus) = Quavers
+  - number: 3
+    initials: S
+    clue: Someone's having a skip down the road. Carefree. Both feet involved at different times. Happy as you like.
+    answer: Skips
+    aliases:
+    - skips
+    reasoning: skips (the carefree walking hop thing) = Skips
 - id: snackbusters-019
   enabled: true
   title: Snackbusters
@@ -627,33 +609,32 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Penultimate Snackbusters. Nineteen in. The end is in sight. Crack on."
-  prize: "Email in. Winner gets a 'World's Okayest Colleague' mug and a Garibaldi biscuit in a presentation box."
+  - UK
+  intro: Snackbusters. Crisps and biscuits hiding in these phonetic clues. Have a crack.
+  prize: Email in. Winner gets a 'World's Okayest Colleague' mug and a Garibaldi biscuit in a presentation box.
   clues:
-    - number: 1
-      initials: H H
-      clue: "She's spinning that big ring round her middle - the hip thing, the dance - but she keeps going through more rings. Ambitious."
-      answer: Hula Hoops
-      aliases:
-        - hula hoops
-      reasoning: "hula (hip-spinning dance with ring) + hoops (more rings to go through) = Hula Hoops"
-    - number: 2
-      initials: T
-      clue: "Tiny tree branch bits - the small sticking-out parts - and they've been permitted. They're allowed. Good for them."
-      answer: Twiglets
-      aliases:
-        - twiglets
-      reasoning: "twig (small branch) + lets (allowed, permitted) = Twiglets"
-    - number: 3
-      initials: J C
-      clue: "Old Middle Eastern city - famous for oranges and that - and it's gone and baked something. Round, spongy, bit of chocolate on top."
-      answer: Jaffa Cakes
-      aliases:
-        - jaffa cakes
-        - jaffa cake
-      reasoning: "Jaffa (Middle Eastern city, also orange variety) + cakes (baked goods) = Jaffa Cakes"
-
+  - number: 1
+    initials: H H
+    clue: She's spinning that big ring round her middle - the hip thing, the dance - but she keeps going through more rings. Ambitious.
+    answer: Hula Hoops
+    aliases:
+    - hula hoops
+    reasoning: hula (hip-spinning dance with ring) + hoops (more rings to go through) = Hula Hoops
+  - number: 2
+    initials: T
+    clue: Tiny tree branch bits - the small sticking-out parts - and they've been permitted. They're allowed. Good for them.
+    answer: Twiglets
+    aliases:
+    - twiglets
+    reasoning: twig (small branch) + lets (allowed, permitted) = Twiglets
+  - number: 3
+    initials: J C
+    clue: Old Middle Eastern city - famous for oranges and that - and it's gone and baked something. Round, spongy, bit of chocolate on top.
+    answer: Jaffa Cakes
+    aliases:
+    - jaffa cakes
+    - jaffa cake
+    reasoning: Jaffa (Middle Eastern city, also orange variety) + cakes (baked goods) = Jaffa Cakes
 - id: snackbusters-020
   enabled: true
   title: Snackbusters
@@ -661,30 +642,30 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Last one. Snackbusters twenty. The finale. Go out on a high."
-  prize: "Email in. Winner gets the complete Snackbusters trophy, which is a Pringles tube with a bow on it and a handwritten certificate."
+  - UK
+  intro: Snackbusters. Phonetic snack clues. Say each one out loud.
+  prize: Email in. Winner gets the complete Snackbusters trophy, which is a Pringles tube with a bow on it and a handwritten certificate.
   clues:
-    - number: 1
-      initials: F
-      clue: "Completely frazzled, the lot of them. Done in. Worn out to nothing. A whole group of them, all the same state. There's something almost poetic."
-      answer: Frazzles
-      aliases:
-        - frazzles
-      reasoning: "frazzled (completely worn out) = Frazzles"
-    - number: 2
-      initials: N N
-      clue: "Someone's having a field day nicking ornaments - little bits and bobs off shelves. Knick-knacks, yeah. Pocketing them left and right."
-      answer: Nik Naks
-      aliases:
-        - nik naks
-        - nik-naks
-      reasoning: "nick (to steal) + knacks (little ornamental objects, knick-knacks) = Nik Naks"
-    - number: 3
-      initials: C W
-      clue: "Right, the brown sticky sweet stuff from heated sugar - caramel, yeah - it's gone and sat itself on one of them thin crispy layered biscuit things. End of."
-      answer: Caramel Wafer
-      aliases:
-        - caramel wafer
-        - caramel wafers
-      reasoning: "caramel (brown sticky heated sugar stuff) + wafer (thin crispy layered biscuit) = Caramel Wafer"
+  - number: 1
+    initials: F
+    clue: Completely frazzled, the lot of them. Done in. Worn out to nothing. A whole group of them, all the same state. There's something almost poetic.
+    answer: Frazzles
+    aliases:
+    - frazzles
+    reasoning: frazzled (completely worn out) = Frazzles
+  - number: 2
+    initials: N N
+    clue: Someone's having a field day nicking ornaments - little bits and bobs off shelves. Knick-knacks, yeah. Pocketing them left and right.
+    answer: Nik Naks
+    aliases:
+    - nik naks
+    - nik-naks
+    reasoning: nick (to steal) + knacks (little ornamental objects, knick-knacks) = Nik Naks
+  - number: 3
+    initials: C W
+    clue: Right, the brown sticky sweet stuff from heated sugar - caramel, yeah - it's gone and sat itself on one of them thin crispy layered biscuit things. End of.
+    answer: Caramel Wafer
+    aliases:
+    - caramel wafer
+    - caramel wafers
+    reasoning: caramel (brown sticky heated sugar stuff) + wafer (thin crispy layered biscuit) = Caramel Wafer

@@ -5,34 +5,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Europe
-  intro: "Right, Citybusters. Rockbusters but every answer is a European city. Off you go."
-  prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
+  - UK
+  - US
+  - Europe
+  intro: Right, Citybusters. Rockbusters but every answer is a European city. Off you go.
+  prize: Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette.
   clues:
-    - number: 1
-      initials: B
-      clue: "Right, that big rod thing you hit a ball with, right, it's done something - it's gone and covered itself in a bit of a skin tone. Odd."
-      answer: Barcelona
-      aliases:
-        - barcelona
-      reasoning: "bar (rod you hit a ball with) + cell (skin thing) + ona = bar-cel-ona = Barcelona"
-    - number: 2
-      initials: V
-      clue: "Them curtains you put over the windows so no one can see in - they're going all see-through. Sort of defeats the point."
-      answer: Vienna
-      aliases:
-        - vienna
-      reasoning: "via (going through) + nna sounds like vee-in-a = Vienna"
-    - number: 3
-      initials: A
-      clue: "Some fella's saying he's a dam - like a wall holding water back. Bit full of himself, to be honest."
-      answer: Amsterdam
-      aliases:
-        - amsterdam
-      reasoning: "Amsterdam = am-ster-dam, sounds like 'I am a dam' = Amsterdam"
-
+  - number: 1
+    initials: B
+    clue: Right, that big rod thing you hit a ball with, right, it's done something - it's gone and covered itself in a bit of a skin tone. Odd.
+    answer: Barcelona
+    aliases:
+    - barcelona
+    reasoning: bar (rod you hit a ball with) + cell (skin thing) + ona = bar-cel-ona = Barcelona
+  - number: 2
+    initials: V
+    clue: Them curtains you put over the windows so no one can see in - they're going all see-through. Sort of defeats the point.
+    answer: Vienna
+    aliases:
+    - vienna
+    reasoning: via (going through) + nna sounds like vee-in-a = Vienna
+  - number: 3
+    initials: A
+    clue: Some fella's saying he's a dam - like a wall holding water back. Bit full of himself, to be honest.
+    answer: Amsterdam
+    aliases:
+    - amsterdam
+    reasoning: Amsterdam = am-ster-dam, sounds like 'I am a dam' = Amsterdam
 - id: citybusters-002
   enabled: true
   title: Citybusters
@@ -40,34 +39,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Europe
-  intro: "Citybusters is back. All European cities. Say the clue out loud - that's the trick."
-  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists."
+  - UK
+  - US
+  - Europe
+  intro: Citybusters is back. All European cities. Say the clue out loud - that's the trick.
+  prize: Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists.
   clues:
-    - number: 1
-      initials: B
-      clue: "There's a lad called Lin and he's been at the bins again. Said he'd help with the recycling. That's all."
-      answer: Berlin
-      aliases:
-        - berlin
-      reasoning: "ber (bear sounds) + Lin (lad's name) = Berlin"
-    - number: 2
-      initials: P
-      clue: "Easy one this. That thing you cook in - the big flat one - it's gone and turned itself into a bit of a scene. Sort of works."
-      answer: Prague
-      aliases:
-        - prague
-      reasoning: "pra (sounds like 'pra') + gue = Prague, sounds like 'pray-g' = Prague"
-    - number: 3
-      initials: W
-      clue: "Right, there's a bloke called Saw, and he's gone and got himself some material. Could be for a project. Don't ask."
-      answer: Warsaw
-      aliases:
-        - warsaw
-      reasoning: "war (conflict) + saw (a cutting tool) = Warsaw"
-
+  - number: 1
+    initials: B
+    clue: There's a lad called Lin and he's been at the bins again. Said he'd help with the recycling. That's all.
+    answer: Berlin
+    aliases:
+    - berlin
+    reasoning: ber (bear sounds) + Lin (lad's name) = Berlin
+  - number: 2
+    initials: P
+    clue: Easy one this. That thing you cook in - the big flat one - it's gone and turned itself into a bit of a scene. Sort of works.
+    answer: Prague
+    aliases:
+    - prague
+    reasoning: pra (sounds like 'pra') + gue = Prague, sounds like 'pray-g' = Prague
+  - number: 3
+    initials: W
+    clue: Right, there's a bloke called Saw, and he's gone and got himself some material. Could be for a project. Don't ask.
+    answer: Warsaw
+    aliases:
+    - warsaw
+    reasoning: war (conflict) + saw (a cutting tool) = Warsaw
 - id: citybusters-003
   enabled: true
   title: Citybusters
@@ -75,34 +73,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Europe
-  intro: "Three more cities. All European. Say them out loud and you'll get there. Probably."
-  prize: "Email in. Winner gets a printed photo from a disposable camera, framed."
+  - UK
+  - US
+  - Europe
+  intro: Three more cities. All European. Say them out loud and you'll get there. Probably.
+  prize: Email in. Winner gets a printed photo from a disposable camera, framed.
   clues:
-    - number: 1
-      initials: M
-      clue: "There's a lad called Rid and he's done something to some dogs. Can't say I'm not surprised."
-      answer: Madrid
-      aliases:
-        - madrid
-      reasoning: "ma (sounds like 'ma') + drid = Madrid, or 'ma-drid' = Madrid"
-    - number: 2
-      initials: B
-      clue: "Right, the fella's got some sprouts, and he's gone and put them in a big pot. His guts are going to be in bits later."
-      answer: Brussels
-      aliases:
-        - brussels
-      reasoning: "Brussels sounds like 'Brussels' - brus (brush) + sels = Brussels"
-    - number: 3
-      initials: L
-      clue: "The bloke's son has gone and started listening. Bit late for that, mind."
-      answer: Lisbon
-      aliases:
-        - lisbon
-      reasoning: "lis (listen) + bon (sounds like 'son') = Lisbon"
-
+  - number: 1
+    initials: M
+    clue: There's a lad called Rid and he's done something to some dogs. Can't say I'm not surprised.
+    answer: Madrid
+    aliases:
+    - madrid
+    reasoning: ma (sounds like 'ma') + drid = Madrid, or 'ma-drid' = Madrid
+  - number: 2
+    initials: B
+    clue: Right, the fella's got some sprouts, and he's gone and put them in a big pot. His guts are going to be in bits later.
+    answer: Brussels
+    aliases:
+    - brussels
+    reasoning: Brussels sounds like 'Brussels' - brus (brush) + sels = Brussels
+  - number: 3
+    initials: L
+    clue: The bloke's son has gone and started listening. Bit late for that, mind.
+    answer: Lisbon
+    aliases:
+    - lisbon
+    reasoning: lis (listen) + bon (sounds like 'son') = Lisbon
 - id: citybusters-004
   enabled: true
   title: Citybusters
@@ -110,34 +107,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Europe
-  intro: "Alright, Citybusters. Four sets in now. All European capitals and major cities."
-  prize: "Email in. Winner gets a DVD copy of The Full Monty and some Value biscuits."
+  - UK
+  - US
+  - Europe
+  intro: Alright, Citybusters. Four sets in now. All European capitals and major cities.
+  prize: Email in. Winner gets a DVD copy of The Full Monty and some Value biscuits.
   clues:
-    - number: 1
-      initials: B
-      clue: "Some fella called Pest is in a bit of a bother. And there's a bud involved somehow. Leave it."
-      answer: Budapest
-      aliases:
-        - budapest
-      reasoning: "bud (a bud, like a flower bud) + a + pest (bloke called Pest in bother) = Budapest"
-    - number: 2
-      initials: A
-      clue: "Right, that place where you check in for your holiday flight - it's having a bit of a Greek moment. Don't overthink it."
-      answer: Athens
-      aliases:
-        - athens
-      reasoning: "ath (sounds like 'at') + ens = Athens, or 'at-hens' = at the hens = Athens"
-    - number: 3
-      initials: D
-      clue: "Some fella called Lin is having a bit of a dub - like a rub with a cloth. Bit thorough."
-      answer: Dublin
-      aliases:
-        - dublin
-      reasoning: "dub (a rub/dub) + lin (lad called Lin) = Dublin"
-
+  - number: 1
+    initials: B
+    clue: Some fella called Pest is in a bit of a bother. And there's a bud involved somehow. Leave it.
+    answer: Budapest
+    aliases:
+    - budapest
+    reasoning: bud (a bud, like a flower bud) + a + pest (bloke called Pest in bother) = Budapest
+  - number: 2
+    initials: A
+    clue: Right, that place where you check in for your holiday flight - it's having a bit of a Greek moment. Don't overthink it.
+    answer: Athens
+    aliases:
+    - athens
+    reasoning: ath (sounds like 'at') + ens = Athens, or 'at-hens' = at the hens = Athens
+  - number: 3
+    initials: D
+    clue: Some fella called Lin is having a bit of a dub - like a rub with a cloth. Bit thorough.
+    answer: Dublin
+    aliases:
+    - dublin
+    reasoning: dub (a rub/dub) + lin (lad called Lin) = Dublin
 - id: citybusters-005
   enabled: true
   title: Citybusters
@@ -145,34 +141,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Europe
-  intro: "Here we go again. Citybusters. Say each clue out loud - the city is hiding in the sounds."
-  prize: "Email in. Winner gets a Shrek 2 DVD and a keyring from a motorway services."
+  - UK
+  - US
+  - Europe
+  intro: Here we go again. Citybusters. Say each clue out loud - the city is hiding in the sounds.
+  prize: Email in. Winner gets a Shrek 2 DVD and a keyring from a motorway services.
   clues:
-    - number: 1
-      initials: C
-      clue: "Right, a fella called Ken has got a copy. Not sure what of. He just has one."
-      answer: Copenhagen
-      aliases:
-        - copenhagen
-      reasoning: "co (sounds like 'co') + pen (a writing pen) + hagen = Copenhagen, or 'cope' + 'n' + 'hagen' = Copenhagen"
-    - number: 2
-      initials: S
-      clue: "There's loads of supplies - tins and that - but the bloke's keeping them all at his house. Won't share."
-      answer: Stockholm
-      aliases:
-        - stockholm
-      reasoning: "stock (supplies/stock) + holm (home/holm) = Stockholm"
-    - number: 3
-      initials: O
-      clue: "That little round thing you put on a pizza or a Greek salad - it's going a bit slow. Take its time."
-      answer: Oslo
-      aliases:
-        - oslo
-      reasoning: "os (sounds like 'oz') + lo (low/slow) = Oslo, or as-low = Oslo"
-
+  - number: 1
+    initials: C
+    clue: Right, a fella called Ken has got a copy. Not sure what of. He just has one.
+    answer: Copenhagen
+    aliases:
+    - copenhagen
+    reasoning: co (sounds like 'co') + pen (a writing pen) + hagen = Copenhagen, or 'cope' + 'n' + 'hagen' = Copenhagen
+  - number: 2
+    initials: S
+    clue: There's loads of supplies - tins and that - but the bloke's keeping them all at his house. Won't share.
+    answer: Stockholm
+    aliases:
+    - stockholm
+    reasoning: stock (supplies/stock) + holm (home/holm) = Stockholm
+  - number: 3
+    initials: O
+    clue: That little round thing you put on a pizza or a Greek salad - it's going a bit slow. Take its time.
+    answer: Oslo
+    aliases:
+    - oslo
+    reasoning: os (sounds like 'oz') + lo (low/slow) = Oslo, or as-low = Oslo
 - id: citybusters-006
   enabled: true
   title: Citybusters
@@ -180,34 +175,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Europe
-  intro: "Citybusters number six. European cities. Three clues, three initials, three answers."
-  prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
+  - UK
+  - US
+  - Europe
+  intro: Citybusters number six. European cities. Three clues, three initials, three answers.
+  prize: Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station.
   clues:
-    - number: 1
-      initials: H
-      clue: "Some fella called Sinky has gone to the gym. No one asked him to. That's all."
-      answer: Helsinki
-      aliases:
-        - helsinki
-      reasoning: "hel (sounds like 'hell') + sinki (sinky, going to the gym/sinking) = Helsinki"
-    - number: 2
-      initials: E
-      clue: "Right, the capital of Scotland's got a burgh on the end of it. Which it sort of has. Near enough."
-      answer: Edinburgh
-      aliases:
-        - edinburgh
-      reasoning: "Edin (sounds like 'Eden') + burgh = Edinburgh"
-    - number: 3
-      initials: C
-      clue: "That place where you park your trolley, right, but it's in Wales. Sort of makes sense if you think about it."
-      answer: Cardiff
-      aliases:
-        - cardiff
-      reasoning: "car (vehicle/car) + diff (diff, as in different) = Cardiff"
-
+  - number: 1
+    initials: H
+    clue: Some fella called Sinky has gone to the gym. No one asked him to. That's all.
+    answer: Helsinki
+    aliases:
+    - helsinki
+    reasoning: hel (sounds like 'hell') + sinki (sinky, going to the gym/sinking) = Helsinki
+  - number: 2
+    initials: E
+    clue: Right, the capital of Scotland's got a burgh on the end of it. Which it sort of has. Near enough.
+    answer: Edinburgh
+    aliases:
+    - edinburgh
+    reasoning: Edin (sounds like 'Eden') + burgh = Edinburgh
+  - number: 3
+    initials: C
+    clue: That place where you park your trolley, right, but it's in Wales. Sort of makes sense if you think about it.
+    answer: Cardiff
+    aliases:
+    - cardiff
+    reasoning: car (vehicle/car) + diff (diff, as in different) = Cardiff
 - id: citybusters-007
   enabled: true
   title: Citybusters
@@ -215,35 +209,34 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Europe
-  intro: "Citybusters. Round seven. Same rules apply. Say it out loud. City name hiding in the sounds."
-  prize: "Email in. Winner gets an OK magazine from 2003 and a novelty pen."
+  - UK
+  - US
+  - Europe
+  intro: Citybusters. Round seven. Same rules apply. Say it out loud. City name hiding in the sounds.
+  prize: Email in. Winner gets an OK magazine from 2003 and a novelty pen.
   clues:
-    - number: 1
-      initials: L
-      clue: "Right, a bloke called Lee has got himself a lion. Just the one. Standing there."
-      answer: Lyon
-      aliases:
-        - lyon
-        - lyons
-      reasoning: "ly (sounds like 'lie') + on = Lyon, or 'lion' with a French twist = Lyon"
-    - number: 2
-      initials: M
-      clue: "Some fella's got loads of mills - like for grinding grain - and they're all his. Won't share."
-      answer: Milan
-      aliases:
-        - milan
-      reasoning: "mi (sounds like 'me') + lan = Milan, or 'me-lan' = Milan"
-    - number: 3
-      initials: N
-      clue: "That's quite a tidy-looking place, isn't it. Someone's been round with a cloth. Say it out loud."
-      answer: Naples
-      aliases:
-        - naples
-      reasoning: "nap (a sleep) + les (sounds like 'les') = Naples"
-
+  - number: 1
+    initials: L
+    clue: Right, a bloke called Lee has got himself a lion. Just the one. Standing there.
+    answer: Lyon
+    aliases:
+    - lyon
+    - lyons
+    reasoning: ly (sounds like 'lie') + on = Lyon, or 'lion' with a French twist = Lyon
+  - number: 2
+    initials: M
+    clue: Some fella's got loads of mills - like for grinding grain - and they're all his. Won't share.
+    answer: Milan
+    aliases:
+    - milan
+    reasoning: mi (sounds like 'me') + lan = Milan, or 'me-lan' = Milan
+  - number: 3
+    initials: N
+    clue: That's quite a tidy-looking place, isn't it. Someone's been round with a cloth. Say it out loud.
+    answer: Naples
+    aliases:
+    - naples
+    reasoning: nap (a sleep) + les (sounds like 'les') = Naples
 - id: citybusters-008
   enabled: true
   title: Citybusters
@@ -251,34 +244,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Europe
-  intro: "Right then. Citybusters eight. All European. Phonetic riddles - the answer is in the sounds, not the spelling."
-  prize: "Email in. Winner gets a Woolworths gift card, no longer redeemable."
+  - UK
+  - US
+  - Europe
+  intro: Right then. Citybusters eight. All European. Phonetic riddles - the answer is in the sounds, not the spelling.
+  prize: Email in. Winner gets a Woolworths gift card, no longer redeemable.
   clues:
-    - number: 1
-      initials: P
-      clue: "Some fella's at the harbour, pouring something out. Bit wasteful if you ask me."
-      answer: Porto
-      aliases:
-        - porto
-      reasoning: "port (a harbour) + o = Porto"
-    - number: 2
-      initials: S
-      clue: "Right, there's a bloke called Sev, and he'll do. He's alright. Good enough."
-      answer: Seville
-      aliases:
-        - seville
-      reasoning: "sev (sounds like 'sev') + ille = Seville, or 'sev-ill' = Seville"
-    - number: 3
-      initials: V
-      clue: "Someone's been in the water with a nice flat bottomed boat. Getting a bit romantic about it."
-      answer: Venice
-      aliases:
-        - venice
-      reasoning: "Ven (sounds like 'ven') + ice = Venice"
-
+  - number: 1
+    initials: P
+    clue: Some fella's at the harbour, pouring something out. Bit wasteful if you ask me.
+    answer: Porto
+    aliases:
+    - porto
+    reasoning: port (a harbour) + o = Porto
+  - number: 2
+    initials: S
+    clue: Right, there's a bloke called Sev, and he'll do. He's alright. Good enough.
+    answer: Seville
+    aliases:
+    - seville
+    reasoning: sev (sounds like 'sev') + ille = Seville, or 'sev-ill' = Seville
+  - number: 3
+    initials: V
+    clue: Someone's been in the water with a nice flat bottomed boat. Getting a bit romantic about it.
+    answer: Venice
+    aliases:
+    - venice
+    reasoning: Ven (sounds like 'ven') + ice = Venice
 - id: citybusters-009
   enabled: true
   title: Citybusters
@@ -286,34 +278,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Europe
-  intro: "Citybusters, round nine. Three more European cities. Sounds, not spelling - remember that."
-  prize: "Email in. Winner gets a signed photo of someone off Hollyoaks, possibly."
+  - UK
+  - US
+  - Europe
+  intro: Citybusters, round nine. Three more European cities. Sounds, not spelling - remember that.
+  prize: Email in. Winner gets a signed photo of someone off Hollyoaks, possibly.
   clues:
-    - number: 1
-      initials: F
-      clue: "Right, some lass called Flo has got herself some rent to pay. She's a bit worried about it."
-      answer: Florence
-      aliases:
-        - florence
-      reasoning: "Flo (short for Florence) + rence (sounds like 'rents') = Florence"
-    - number: 2
-      initials: N
-      clue: "That's a very pleasant-looking spot, isn't it. Someone would say it's quite nice. Which it is."
-      answer: Nice
-      aliases:
-        - nice
-      reasoning: "Nice sounds like 'nice' = Nice (the city in France)"
-    - number: 3
-      initials: B
-      clue: "There's a fella called Bruge. He's just sort of... there. Standing around. That's it."
-      answer: Bruges
-      aliases:
-        - bruges
-      reasoning: "Bruges sounds like 'brooj' = Bruges"
-
+  - number: 1
+    initials: F
+    clue: Right, some lass called Flo has got herself some rent to pay. She's a bit worried about it.
+    answer: Florence
+    aliases:
+    - florence
+    reasoning: Flo (short for Florence) + rence (sounds like 'rents') = Florence
+  - number: 2
+    initials: N
+    clue: That's a very pleasant-looking spot, isn't it. Someone would say it's quite nice. Which it is.
+    answer: Nice
+    aliases:
+    - nice
+    reasoning: Nice sounds like 'nice' = Nice (the city in France)
+  - number: 3
+    initials: B
+    clue: There's a fella called Bruge. He's just sort of... there. Standing around. That's it.
+    answer: Bruges
+    aliases:
+    - bruges
+    reasoning: Bruges sounds like 'brooj' = Bruges
 - id: citybusters-010
   enabled: true
   title: Citybusters
@@ -321,35 +312,34 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Europe
-  intro: "Ten sets of Citybusters now. Still all European cities. Phonetic riddles - you know the drill."
-  prize: "Email in. Winner gets a mini fridge magnet set and a bag of mixed sweets."
+  - UK
+  - US
+  - Europe
+  intro: Ten sets of Citybusters now. Still all European cities. Phonetic riddles - you know the drill.
+  prize: Email in. Winner gets a mini fridge magnet set and a bag of mixed sweets.
   clues:
-    - number: 1
-      initials: D
-      clue: "That city in Croatia, right, it's got something really negative going on at the front of it. Double negative, if anything."
-      answer: Dubrovnik
-      aliases:
-        - dubrovnik
-      reasoning: "dub (sounds like 'dub') + rov + nik = Dubrovnik"
-    - number: 2
-      initials: R
-      clue: "Right, that place that sounds like it's got ice in the name. And it has. Because it's in Iceland. Bit on the nose."
-      answer: Reykjavik
-      aliases:
-        - reykjavik
-      reasoning: "Reyk (sounds like 'rake') + ja + vik = Reykjavik"
-    - number: 3
-      initials: T
-      clue: "Some fella called Tallin has gone and done it. Bit thin on detail but that's what's happened."
-      answer: Tallinn
-      aliases:
-        - tallinn
-        - tallin
-      reasoning: "tall (height) + inn (a pub) = Tallinn"
-
+  - number: 1
+    initials: D
+    clue: That city in Croatia, right, it's got something really negative going on at the front of it. Double negative, if anything.
+    answer: Dubrovnik
+    aliases:
+    - dubrovnik
+    reasoning: dub (sounds like 'dub') + rov + nik = Dubrovnik
+  - number: 2
+    initials: R
+    clue: Right, that place that sounds like it's got ice in the name. And it has. Because it's in Iceland. Bit on the nose.
+    answer: Reykjavik
+    aliases:
+    - reykjavik
+    reasoning: Reyk (sounds like 'rake') + ja + vik = Reykjavik
+  - number: 3
+    initials: T
+    clue: Some fella called Tallin has gone and done it. Bit thin on detail but that's what's happened.
+    answer: Tallinn
+    aliases:
+    - tallinn
+    - tallin
+    reasoning: tall (height) + inn (a pub) = Tallinn
 - id: citybusters-011
   enabled: true
   title: Citybusters
@@ -357,35 +347,34 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Europe
-  intro: "Citybusters eleven. Same theme, same rules. European city hiding in every clue."
-  prize: "Email in. Winner gets a stack of Hotel key cards and a complimentary shower cap."
+  - UK
+  - US
+  - Europe
+  intro: Citybusters eleven. Same theme, same rules. European city hiding in every clue.
+  prize: Email in. Winner gets a stack of Hotel key cards and a complimentary shower cap.
   clues:
-    - number: 1
-      initials: R
-      clue: "Right, that woman's got a really high fence around her garden. Keeps the deer out and that."
-      answer: Riga
-      aliases:
-        - riga
-      reasoning: "rig (a structure/rig) + a = Riga"
-    - number: 2
-      initials: V
-      clue: "There's a fella called Lin who's gone a bit wild. A bit free. Don't know what's got into him."
-      answer: Vilnius
-      aliases:
-        - vilnius
-      reasoning: "vil (sounds like 'vil') + nius = Vilnius"
-    - number: 3
-      initials: B
-      clue: "Some lad called Ern has had a nap. Just a short one. In the middle of the afternoon. Fair enough."
-      answer: Bern
-      aliases:
-        - bern
-        - berne
-      reasoning: "bern sounds like 'burn' but also like 'Bern' = Bern"
-
+  - number: 1
+    initials: R
+    clue: Right, that woman's got a really high fence around her garden. Keeps the deer out and that.
+    answer: Riga
+    aliases:
+    - riga
+    reasoning: rig (a structure/rig) + a = Riga
+  - number: 2
+    initials: V
+    clue: There's a fella called Lin who's gone a bit wild. A bit free. Don't know what's got into him.
+    answer: Vilnius
+    aliases:
+    - vilnius
+    reasoning: vil (sounds like 'vil') + nius = Vilnius
+  - number: 3
+    initials: B
+    clue: Some lad called Ern has had a nap. Just a short one. In the middle of the afternoon. Fair enough.
+    answer: Bern
+    aliases:
+    - bern
+    - berne
+    reasoning: bern sounds like 'burn' but also like 'Bern' = Bern
 - id: citybusters-012
   enabled: true
   title: Citybusters
@@ -393,34 +382,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Europe
-  intro: "Right, Citybusters twelve. We're going strong. Three more phonetic city riddles."
-  prize: "Email in. Winner gets a copy of Bridget Jones Diary on VHS and a box of Roses."
+  - UK
+  - US
+  - Europe
+  intro: Right, Citybusters twelve. We're going strong. Three more phonetic city riddles.
+  prize: Email in. Winner gets a copy of Bridget Jones Diary on VHS and a box of Roses.
   clues:
-    - number: 1
-      initials: Z
-      clue: "There's a lad called Rich and he's gone and done a bit of a sketch. Drawn something. On paper."
-      answer: Zurich
-      aliases:
-        - zurich
-      reasoning: "zu (sounds like 'zoo') + rich (wealthy) = Zurich"
-    - number: 2
-      initials: G
-      clue: "Right, a fella called Eve is sitting by a lake being a bit poetic about it. Just staring at the water."
-      answer: Geneva
-      aliases:
-        - geneva
-      reasoning: "gen (sounds like 'gen') + eva (sounds like 'Eva') = Geneva"
-    - number: 3
-      initials: A
-      clue: "There's a bloke called Twerp and something's thrown off his thinking a bit. A bit off, is Twerp."
-      answer: Antwerp
-      aliases:
-        - antwerp
-      reasoning: "ant (insect) + werp = Antwerp, or 'Ant' + 'werp' sounds like 'ant-werp' = Antwerp"
-
+  - number: 1
+    initials: Z
+    clue: There's a lad called Rich and he's gone and done a bit of a sketch. Drawn something. On paper.
+    answer: Zurich
+    aliases:
+    - zurich
+    reasoning: zu (sounds like 'zoo') + rich (wealthy) = Zurich
+  - number: 2
+    initials: G
+    clue: Right, a fella called Eve is sitting by a lake being a bit poetic about it. Just staring at the water.
+    answer: Geneva
+    aliases:
+    - geneva
+    reasoning: gen (sounds like 'gen') + eva (sounds like 'Eva') = Geneva
+  - number: 3
+    initials: A
+    clue: There's a bloke called Twerp and something's thrown off his thinking a bit. A bit off, is Twerp.
+    answer: Antwerp
+    aliases:
+    - antwerp
+    reasoning: ant (insect) + werp = Antwerp, or 'Ant' + 'werp' sounds like 'ant-werp' = Antwerp
 - id: citybusters-013
   enabled: true
   title: Citybusters
@@ -428,35 +416,34 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Europe
-  intro: "Citybusters, baker's dozen. Still all European cities. Say the clues out loud."
-  prize: "Email in. Winner gets an Encyclopaedia Britannica volume 7 and a travel pillow."
+  - UK
+  - US
+  - Europe
+  intro: Citybusters, baker's dozen. Still all European cities. Say the clues out loud.
+  prize: Email in. Winner gets an Encyclopaedia Britannica volume 7 and a travel pillow.
   clues:
-    - number: 1
-      initials: R
-      clue: "Right, some fella's gone and spun the wheels on his car really fast. Left some rubber on the road. That's all."
-      answer: Rotterdam
-      aliases:
-        - rotterdam
-      reasoning: "rotter (a bad egg) + dam (a water barrier) = Rotterdam"
-    - number: 2
-      initials: M
-      clue: "Someone's gone and put their sea in a massive jar. Right in the middle of a shelf."
-      answer: Marseille
-      aliases:
-        - marseille
-        - marseilles
-      reasoning: "mar (sea in French) + seille = Marseille, or sounds like 'mar-say' = Marseille"
-    - number: 3
-      initials: B
-      clue: "Right, there's a fella called Slava and he's had a bit of a falling out. A bit of brat energy, if you ask me."
-      answer: Bratislava
-      aliases:
-        - bratislava
-      reasoning: "brat (a naughty child) + is + lava = Bratislava"
-
+  - number: 1
+    initials: R
+    clue: Right, some fella's gone and spun the wheels on his car really fast. Left some rubber on the road. That's all.
+    answer: Rotterdam
+    aliases:
+    - rotterdam
+    reasoning: rotter (a bad egg) + dam (a water barrier) = Rotterdam
+  - number: 2
+    initials: M
+    clue: Someone's gone and put their sea in a massive jar. Right in the middle of a shelf.
+    answer: Marseille
+    aliases:
+    - marseille
+    - marseilles
+    reasoning: mar (sea in French) + seille = Marseille, or sounds like 'mar-say' = Marseille
+  - number: 3
+    initials: B
+    clue: Right, there's a fella called Slava and he's had a bit of a falling out. A bit of brat energy, if you ask me.
+    answer: Bratislava
+    aliases:
+    - bratislava
+    reasoning: brat (a naughty child) + is + lava = Bratislava
 - id: citybusters-014
   enabled: true
   title: Citybusters
@@ -464,34 +451,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Europe
-  intro: "Fourteen in. Citybusters. Three more European cities hidden in these phonetic clues. Have a go."
-  prize: "Email in. Winner gets a Littlewoods catalogue from 2001 and some Haribo."
+  - UK
+  - US
+  - Europe
+  intro: Fourteen in. Citybusters. Three more European cities hidden in these phonetic clues. Have a go.
+  prize: Email in. Winner gets a Littlewoods catalogue from 2001 and some Haribo.
   clues:
-    - number: 1
-      initials: B
-      clue: "That woman's doing archery but her arrow's hit the mark. Right in the middle. Couldn't have aimed better."
-      answer: Barcelona
-      aliases:
-        - barcelona
-      reasoning: "bar (a bar, like a rod) + cell (like a body cell) + ona = Barcelona"
-    - number: 2
-      initials: S
-      clue: "A fella called Ven has done something a bit dodgy. Let's say he's been a bit slippery about it."
-      answer: Stockholm
-      aliases:
-        - stockholm
-      reasoning: "stock (stock, like supplies) + holm (sounds like 'home') = Stockholm"
-    - number: 3
-      initials: V
-      clue: "There's a lad and he's gone all vague about his curtain situation. Sort of waffling. Can't commit."
-      answer: Vienna
-      aliases:
-        - vienna
-      reasoning: "vi (sounds like 'vie') + enna = Vienna, sounds like 'vee-enna' = Vienna"
-
+  - number: 1
+    initials: B
+    clue: That woman's doing archery but her arrow's hit the mark. Right in the middle. Couldn't have aimed better.
+    answer: Barcelona
+    aliases:
+    - barcelona
+    reasoning: bar (a bar, like a rod) + cell (like a body cell) + ona = Barcelona
+  - number: 2
+    initials: S
+    clue: A fella called Ven has done something a bit dodgy. Let's say he's been a bit slippery about it.
+    answer: Stockholm
+    aliases:
+    - stockholm
+    reasoning: stock (stock, like supplies) + holm (sounds like 'home') = Stockholm
+  - number: 3
+    initials: V
+    clue: There's a lad and he's gone all vague about his curtain situation. Sort of waffling. Can't commit.
+    answer: Vienna
+    aliases:
+    - vienna
+    reasoning: vi (sounds like 'vie') + enna = Vienna, sounds like 'vee-enna' = Vienna
 - id: citybusters-015
   enabled: true
   title: Citybusters
@@ -499,34 +485,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Europe
-  intro: "Citybusters fifteen. Halfway through the second batch. All European cities. Off you go."
-  prize: "Email in. Winner gets a mini Toblerone and a phone charger that doesn't quite fit anything."
+  - UK
+  - US
+  - Europe
+  intro: Citybusters. All European cities, phonetic clues. Off you go.
+  prize: Email in. Winner gets a mini Toblerone and a phone charger that doesn't quite fit anything.
   clues:
-    - number: 1
-      initials: P
-      clue: "Right, some couple, right, and they just exist. Just a pair of them. Being there. That's it."
-      answer: Paris
-      aliases:
-        - paris
-      reasoning: "pair (a couple) + is (just being there) = Paris"
-    - number: 2
-      initials: R
-      clue: "The Pope's doing a bit of a stroll. Round his garden. Bit chilly but he's got the big hat on."
-      answer: Rome
-      aliases:
-        - rome
-      reasoning: "roam (to walk around) = Rome"
-    - number: 3
-      initials: L
-      clue: "Right, a bloke called Burg is really enjoying his lager. A proper Lux moment."
-      answer: Luxembourg
-      aliases:
-        - luxembourg
-      reasoning: "lux (light/luxury) + em + bourg (sounds like 'berg') = Luxembourg"
-
+  - number: 1
+    initials: P
+    clue: Right, some couple, right, and they just exist. Just a pair of them. Being there. That's it.
+    answer: Paris
+    aliases:
+    - paris
+    reasoning: pair (a couple) + is (just being there) = Paris
+  - number: 2
+    initials: R
+    clue: The Pope's doing a bit of a stroll. Round his garden. Bit chilly but he's got the big hat on.
+    answer: Rome
+    aliases:
+    - rome
+    reasoning: roam (to walk around) = Rome
+  - number: 3
+    initials: L
+    clue: Right, a bloke called Burg is really enjoying his lager. A proper Lux moment.
+    answer: Luxembourg
+    aliases:
+    - luxembourg
+    reasoning: lux (light/luxury) + em + bourg (sounds like 'berg') = Luxembourg
 - id: citybusters-016
   enabled: true
   title: Citybusters
@@ -534,35 +519,34 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Europe
-  intro: "Citybusters sixteen. Four to go after this. Still all European cities, still phonetic riddles."
-  prize: "Email in. Winner gets a fondue set still in the box and a selection of instant coffees."
+  - UK
+  - US
+  - Europe
+  intro: Citybusters sixteen. Four to go after this. Still all European cities, still phonetic riddles.
+  prize: Email in. Winner gets a fondue set still in the box and a selection of instant coffees.
   clues:
-    - number: 1
-      initials: S
-      clue: "There's a girl called Nia and she's in a van, going around. Sort of delivering things."
-      answer: Slovenia
-      aliases:
-        - slovenia
-      reasoning: "slo (slow) + ven (van) + ia = Slovenia, or 'slow-veen-ya' = Slovenia"
-    - number: 2
-      initials: K
-      clue: "Right, a fella called Rack has gone and done something to some crackers. Cracked them, presumably."
-      answer: Krakow
-      aliases:
-        - krakow
-        - cracow
-      reasoning: "krak (crack/cracker) + ow (sound of pain) = Krakow"
-    - number: 3
-      initials: T
-      clue: "Some bloke called Rana has got himself a big hill. Just sits there being a hill."
-      answer: Tirana
-      aliases:
-        - tirana
-      reasoning: "ti (sounds like 'tea') + rana (sounds like 'Rana') = Tirana"
-
+  - number: 1
+    initials: S
+    clue: There's a girl called Nia and she's in a van, going around. Sort of delivering things.
+    answer: Slovenia
+    aliases:
+    - slovenia
+    reasoning: slo (slow) + ven (van) + ia = Slovenia, or 'slow-veen-ya' = Slovenia
+  - number: 2
+    initials: K
+    clue: Right, a fella called Rack has gone and done something to some crackers. Cracked them, presumably.
+    answer: Krakow
+    aliases:
+    - krakow
+    - cracow
+    reasoning: krak (crack/cracker) + ow (sound of pain) = Krakow
+  - number: 3
+    initials: T
+    clue: Some bloke called Rana has got himself a big hill. Just sits there being a hill.
+    answer: Tirana
+    aliases:
+    - tirana
+    reasoning: ti (sounds like 'tea') + rana (sounds like 'Rana') = Tirana
 - id: citybusters-017
   enabled: true
   title: Citybusters
@@ -570,34 +554,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Europe
-  intro: "Three more to go after this one. Citybusters seventeen. All European. You know what to do."
-  prize: "Email in. Winner gets a signed letter from someone off Emmerdale, possibly."
+  - UK
+  - US
+  - Europe
+  intro: Three more to go after this one. Citybusters seventeen. All European. You know what to do.
+  prize: Email in. Winner gets a signed letter from someone off Emmerdale, possibly.
   clues:
-    - number: 1
-      initials: S
-      clue: "Right, some fella called Raj has gone and got himself a blowout. Fancy dinner, the lot."
-      answer: Sarajevo
-      aliases:
-        - sarajevo
-      reasoning: "sara (sounds like 'Sarah') + jev (sounds like 'Jev') + o = Sarajevo"
-    - number: 2
-      initials: S
-      clue: "There's a lad called Pli and he's split something down the middle. Clean down the middle. Two halves."
-      answer: Split
-      aliases:
-        - split
-      reasoning: "split (divided in two) = Split (the Croatian city)"
-    - number: 3
-      initials: P
-      clue: "That fella's gone and dyed himself. He's had a coating. Bit of a paint situation."
-      answer: Plovdiv
-      aliases:
-        - plovdiv
-      reasoning: "plov (sounds like 'plov') + div = Plovdiv"
-
+  - number: 1
+    initials: S
+    clue: Right, some fella called Raj has gone and got himself a blowout. Fancy dinner, the lot.
+    answer: Sarajevo
+    aliases:
+    - sarajevo
+    reasoning: sara (sounds like 'Sarah') + jev (sounds like 'Jev') + o = Sarajevo
+  - number: 2
+    initials: S
+    clue: There's a lad called Pli and he's split something down the middle. Clean down the middle. Two halves.
+    answer: Split
+    aliases:
+    - split
+    reasoning: split (divided in two) = Split (the Croatian city)
+  - number: 3
+    initials: P
+    clue: That fella's gone and dyed himself. He's had a coating. Bit of a paint situation.
+    answer: Plovdiv
+    aliases:
+    - plovdiv
+    reasoning: plov (sounds like 'plov') + div = Plovdiv
 - id: citybusters-018
   enabled: true
   title: Citybusters
@@ -605,35 +588,34 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Europe
-  intro: "Citybusters eighteen. Nearly there. Same rules - European city, phonetic clue, say it out loud."
-  prize: "Email in. Winner gets a DVD copy of Calendar Girls and a travel mug."
+  - UK
+  - US
+  - Europe
+  intro: Citybusters. European city, phonetic clue, say it out loud.
+  prize: Email in. Winner gets a DVD copy of Calendar Girls and a travel mug.
   clues:
-    - number: 1
-      initials: G
-      clue: "Right, a massive drop, sort of a waterfall type situation, and it's saying yes at the same time. Just going for it."
-      answer: Gdansk
-      aliases:
-        - gdansk
-        - danzig
-      reasoning: "g + dansk = Gdansk, sounds like 'g-darnsk' = Gdansk"
-    - number: 2
-      initials: P
-      clue: "There's something going on that sounds a bit like a snore crossed with a sneeze. Don't overthink it."
-      answer: Poznan
-      aliases:
-        - poznan
-      reasoning: "poz (sounds like 'poz') + nan (a flatbread/nan) = Poznan"
-    - number: 3
-      initials: B
-      clue: "Some fella called Odo has had a bit of a win. He's delighted. Probably won something in Bordeaux. Near enough."
-      answer: Bordeaux
-      aliases:
-        - bordeaux
-      reasoning: "bor (sounds like 'bore') + deaux (sounds like 'doh') = Bordeaux"
-
+  - number: 1
+    initials: G
+    clue: Right, a massive drop, sort of a waterfall type situation, and it's saying yes at the same time. Just going for it.
+    answer: Gdansk
+    aliases:
+    - gdansk
+    - danzig
+    reasoning: g + dansk = Gdansk, sounds like 'g-darnsk' = Gdansk
+  - number: 2
+    initials: P
+    clue: There's something going on that sounds a bit like a snore crossed with a sneeze. Don't overthink it.
+    answer: Poznan
+    aliases:
+    - poznan
+    reasoning: poz (sounds like 'poz') + nan (a flatbread/nan) = Poznan
+  - number: 3
+    initials: B
+    clue: Some fella called Odo has had a bit of a win. He's delighted. Probably won something in Bordeaux. Near enough.
+    answer: Bordeaux
+    aliases:
+    - bordeaux
+    reasoning: bor (sounds like 'bore') + deaux (sounds like 'doh') = Bordeaux
 - id: citybusters-019
   enabled: true
   title: Citybusters
@@ -641,35 +623,34 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Europe
-  intro: "Penultimate Citybusters. Number nineteen. Three more European cities. Go on then."
-  prize: "Email in. Winner gets a commemorative tin from the Queen's Jubilee and some chocolate fingers."
+  - UK
+  - US
+  - Europe
+  intro: Citybusters. Three more European cities hiding in the phonetics. Go on then.
+  prize: Email in. Winner gets a commemorative tin from the Queen's Jubilee and some chocolate fingers.
   clues:
-    - number: 1
-      initials: S
-      clue: "Right, that big Greek monument - the ancient one everyone goes to look at - it's gone a bit unwell."
-      answer: Salonica
-      aliases:
-        - salonica
-        - thessaloniki
-      reasoning: "sal (salt) + on + ica = Salonica"
-    - number: 2
-      initials: N
-      clue: "Someone's had a nap and a drink of something fizzy. Both at once, somehow. Fair enough."
-      answer: Nicosia
-      aliases:
-        - nicosia
-      reasoning: "nico (sounds like 'Nico') + sia (sounds like 'see-ah') = Nicosia"
-    - number: 3
-      initials: V
-      clue: "There's a man called Aduz and he's being quite specific about which one he is. He's the one. The actual one."
-      answer: Vaduz
-      aliases:
-        - vaduz
-      reasoning: "va (sounds like 'va') + duz (sounds like 'does') = Vaduz"
-
+  - number: 1
+    initials: S
+    clue: Right, that big Greek monument - the ancient one everyone goes to look at - it's gone a bit unwell.
+    answer: Salonica
+    aliases:
+    - salonica
+    - thessaloniki
+    reasoning: sal (salt) + on + ica = Salonica
+  - number: 2
+    initials: N
+    clue: Someone's had a nap and a drink of something fizzy. Both at once, somehow. Fair enough.
+    answer: Nicosia
+    aliases:
+    - nicosia
+    reasoning: nico (sounds like 'Nico') + sia (sounds like 'see-ah') = Nicosia
+  - number: 3
+    initials: V
+    clue: There's a man called Aduz and he's being quite specific about which one he is. He's the one. The actual one.
+    answer: Vaduz
+    aliases:
+    - vaduz
+    reasoning: va (sounds like 'va') + duz (sounds like 'does') = Vaduz
 - id: citybusters-020
   enabled: true
   title: Citybusters
@@ -677,30 +658,30 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Europe
-  intro: "Last one. Citybusters twenty. The final round of European cities. Go out on a high."
-  prize: "Email in. Winner gets a copy of Harry Potter on audio cassette, read by Stephen Fry, missing tape four."
+  - UK
+  - US
+  - Europe
+  intro: Citybusters. European cities hiding in the phonetic clues. Say them out loud.
+  prize: Email in. Winner gets a copy of Harry Potter on audio cassette, read by Stephen Fry, missing tape four.
   clues:
-    - number: 1
-      initials: S
-      clue: "Right, that fish is making a really deep sound. A low, booming sort of sound. Bit impressive for a fish."
-      answer: Salzburg
-      aliases:
-        - salzburg
-      reasoning: "salz (sounds like 'salts') + burg (sounds like 'berg/burg') = Salzburg"
-    - number: 2
-      initials: G
-      clue: "There's a lad called Raz, and something's been done to him that he did not ask for. He's been grazed."
-      answer: Graz
-      aliases:
-        - graz
-      reasoning: "graz (sounds like 'graze') = Graz"
-    - number: 3
-      initials: I
-      clue: "Some fella's been calling himself a capital. Bit presumptuous. But he sort of is one, in a way."
-      answer: Innsbruck
-      aliases:
-        - innsbruck
-      reasoning: "inns (like pubs/inns) + bruck (sounds like 'brook/brick') = Innsbruck"
+  - number: 1
+    initials: S
+    clue: Right, that fish is making a really deep sound. A low, booming sort of sound. Bit impressive for a fish.
+    answer: Salzburg
+    aliases:
+    - salzburg
+    reasoning: salz (sounds like 'salts') + burg (sounds like 'berg/burg') = Salzburg
+  - number: 2
+    initials: G
+    clue: There's a lad called Raz, and something's been done to him that he did not ask for. He's been grazed.
+    answer: Graz
+    aliases:
+    - graz
+    reasoning: graz (sounds like 'graze') = Graz
+  - number: 3
+    initials: I
+    clue: Some fella's been calling himself a capital. Bit presumptuous. But he sort of is one, in a way.
+    answer: Innsbruck
+    aliases:
+    - innsbruck
+    reasoning: inns (like pubs/inns) + bruck (sounds like 'brook/brick') = Innsbruck

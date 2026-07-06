@@ -5,32 +5,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Teambusters. Rockbusters but every answer is a football club or sports team. Easy one to start."
-  prize: "Email in. Winner gets a Subbuteo player with a broken leg and a Panini sticker of someone you've never heard of."
+  - UK
+  intro: Teambusters. Rockbusters but every answer is a football club or sports team. Easy one to start.
+  prize: Email in. Winner gets a Subbuteo player with a broken leg and a Panini sticker of someone you've never heard of.
   clues:
-    - number: 1
-      initials: MU
-      clue: "Right, that bloke who makes jumpers - he's got a man, and the man's bound together. All wrapped up."
-      answer: Manchester United
-      aliases:
-        - manchester united
-      reasoning: "man (a bloke) + chest (bound together, ribcage) + er (him) + united (wrapped up together) = Manchester United"
-    - number: 2
-      initials: L
-      clue: "There's a pool, right, and it's got a lid on it. Sealed right up. That's your lot."
-      answer: Liverpool
-      aliases:
-        - liverpool
-      reasoning: "liver (lid-er, sounds like liver) + pool (a pool) = Liverpool"
-    - number: 3
-      initials: A
-      clue: "Someone's gone and fired a cannon at a little garden plot. Don't know why. Bit much."
-      answer: Arsenal
-      aliases:
-        - arsenal
-      reasoning: "arse (back end) + en (sounds like in) + al (a name) = Arsenal. Or: ar-sen-al, the plot of land (allotment) hit by a cannon (arsenal)"
-
+  - number: 1
+    initials: MU
+    clue: Right, that bloke who makes jumpers - he's got a man, and the man's bound together. All wrapped up.
+    answer: Manchester United
+    aliases:
+    - manchester united
+    reasoning: man (a bloke) + chest (bound together, ribcage) + er (him) + united (wrapped up together) = Manchester United
+  - number: 2
+    initials: L
+    clue: There's a pool, right, and it's got a lid on it. Sealed right up. That's your lot.
+    answer: Liverpool
+    aliases:
+    - liverpool
+    reasoning: liver (lid-er, sounds like liver) + pool (a pool) = Liverpool
+  - number: 3
+    initials: A
+    clue: Someone's gone and fired a cannon at a little garden plot. Don't know why. Bit much.
+    answer: Arsenal
+    aliases:
+    - arsenal
+    reasoning: 'arse (back end) + en (sounds like in) + al (a name) = Arsenal. Or: ar-sen-al, the plot of land (allotment) hit by a cannon (arsenal)'
 - id: teambusters-002
   enabled: true
   title: Teambusters
@@ -38,32 +37,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "More Teambusters. Three more football clubs. Say the clues out loud - that's the trick."
-  prize: "Email in. Winner gets a foam finger from a sport nobody remembers and a packet of value crisps."
+  - UK
+  intro: More Teambusters. Three more football clubs. Say the clues out loud - that's the trick.
+  prize: Email in. Winner gets a foam finger from a sport nobody remembers and a packet of value crisps.
   clues:
-    - number: 1
-      initials: C
-      clue: "That posh bird who does the modelling, she's gone and sat down in the sea. Just there. Soaking."
-      answer: Chelsea
-      aliases:
-        - chelsea
-      reasoning: "Chel (shell) + sea (the sea) = Chelsea. Shell-sea, posh name, sitting in the sea."
-    - number: 2
-      initials: E
-      clue: "Right, there's this bloke called Evan, and he's been put on top of something. Perched up there. Bit odd."
-      answer: Everton
-      aliases:
-        - everton
-      reasoning: "Ever (Evan-ish, sounds like ever) + ton (on top, a unit of weight) = Everton"
-    - number: 3
-      initials: BH
-      clue: "Some fella's gone really bright - like glowing - and he's found himself in a seaside place. Luminous, he is."
-      answer: Brighton
-      aliases:
-        - brighton
-      reasoning: "bright (glowing) + on (in a place) = Brighton"
-
+  - number: 1
+    initials: C
+    clue: That posh bird who does the modelling, she's gone and sat down in the sea. Just there. Soaking.
+    answer: Chelsea
+    aliases:
+    - chelsea
+    reasoning: Chel (shell) + sea (the sea) = Chelsea. Shell-sea, posh name, sitting in the sea.
+  - number: 2
+    initials: E
+    clue: Right, there's this bloke called Evan, and he's been put on top of something. Perched up there. Bit odd.
+    answer: Everton
+    aliases:
+    - everton
+    reasoning: Ever (Evan-ish, sounds like ever) + ton (on top, a unit of weight) = Everton
+  - number: 3
+    initials: BH
+    clue: Some fella's gone really bright - like glowing - and he's found himself in a seaside place. Luminous, he is.
+    answer: Brighton
+    aliases:
+    - brighton
+    reasoning: bright (glowing) + on (in a place) = Brighton
 - id: teambusters-003
   enabled: true
   title: Teambusters
@@ -71,32 +69,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Alright, Teambusters round three. All sports teams, all phonetic. Don't overthink it."
-  prize: "Email in. Winner gets a replica kit two sizes too small and a lukewarm Bovril."
+  - UK
+  intro: Alright, Teambusters round three. All sports teams, all phonetic. Don't overthink it.
+  prize: Email in. Winner gets a replica kit two sizes too small and a lukewarm Bovril.
   clues:
-    - number: 1
-      initials: NU
-      clue: "There's a baby horse, right, and it's just decided to become one unit. All joined together. Near enough."
-      answer: Newcastle United
-      aliases:
-        - newcastle united
-      reasoning: "new (baby, just born) + castle (like a fortress) + united (all joined together) = Newcastle United"
-    - number: 2
-      initials: AV
-      clue: "That big old country house - you know, the one with the gardens - it's got a town attached to it now. Estate agents would love it."
-      answer: Aston Villa
-      aliases:
-        - aston villa
-      reasoning: "Aston (a place name, sounds like 'has-ton') + Villa (a posh house, villa) = Aston Villa"
-    - number: 3
-      initials: LU
-      clue: "Some bloke's threading something through a needle, and he's doing it while all his mates watch. Together, like."
-      answer: Leeds United
-      aliases:
-        - leeds united
-      reasoning: "Leeds (leads, threading) + united (together, mates watching) = Leeds United"
-
+  - number: 1
+    initials: NU
+    clue: There's a baby horse, right, and it's just decided to become one unit. All joined together. Near enough.
+    answer: Newcastle United
+    aliases:
+    - newcastle united
+    reasoning: new (baby, just born) + castle (like a fortress) + united (all joined together) = Newcastle United
+  - number: 2
+    initials: AV
+    clue: That big old country house - you know, the one with the gardens - it's got a town attached to it now. Estate agents would love it.
+    answer: Aston Villa
+    aliases:
+    - aston villa
+    reasoning: Aston (a place name, sounds like 'has-ton') + Villa (a posh house, villa) = Aston Villa
+  - number: 3
+    initials: LU
+    clue: Some bloke's threading something through a needle, and he's doing it while all his mates watch. Together, like.
+    answer: Leeds United
+    aliases:
+    - leeds united
+    reasoning: Leeds (leads, threading) + united (together, mates watching) = Leeds United
 - id: teambusters-004
   enabled: true
   title: Teambusters
@@ -104,35 +101,34 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Right then, Teambusters. Say each clue out loud. Hear the team name hiding in there."
-  prize: "Email in. Winner gets a match programme from 1994 and a half-eaten tube of Pringles, original flavour."
+  - UK
+  intro: Right then, Teambusters. Say each clue out loud. Hear the team name hiding in there.
+  prize: Email in. Winner gets a match programme from 1994 and a half-eaten tube of Pringles, original flavour.
   clues:
-    - number: 1
-      initials: TH
-      clue: "There's a total bloke, right, bit dense - and he's gone and put his foot through a spur. Like from a cowboy boot. Ouch."
-      answer: Tottenham Hotspur
-      aliases:
-        - tottenham hotspur
-        - tottenham
-        - spurs
-      reasoning: "Tottenham (tot-en-ham, total ham?) + Hot (hot) + spur (cowboy spur) = Tottenham Hotspur"
-    - number: 2
-      initials: WH
-      clue: "Over to the west side of the city, there's a bloke with a pig on his back. Just carrying it about."
-      answer: West Ham
-      aliases:
-        - west ham
-      reasoning: "West (west side) + Ham (pig meat, a ham) = West Ham"
-    - number: 3
-      initials: LC
-      clue: "Someone's renting a place out - and it's not just any city, it's a polished, smart one. Proper tidy."
-      answer: Leicester City
-      aliases:
-        - leicester city
-        - leicester
-      reasoning: "Lester (Leicester sounds like Lester) + City (a city) = Leicester City"
-
+  - number: 1
+    initials: TH
+    clue: There's a total bloke, right, bit dense - and he's gone and put his foot through a spur. Like from a cowboy boot. Ouch.
+    answer: Tottenham Hotspur
+    aliases:
+    - tottenham hotspur
+    - tottenham
+    - spurs
+    reasoning: Tottenham (tot-en-ham, total ham?) + Hot (hot) + spur (cowboy spur) = Tottenham Hotspur
+  - number: 2
+    initials: WH
+    clue: Over to the west side of the city, there's a bloke with a pig on his back. Just carrying it about.
+    answer: West Ham
+    aliases:
+    - west ham
+    reasoning: West (west side) + Ham (pig meat, a ham) = West Ham
+  - number: 3
+    initials: LC
+    clue: Someone's renting a place out - and it's not just any city, it's a polished, smart one. Proper tidy.
+    answer: Leicester City
+    aliases:
+    - leicester city
+    - leicester
+    reasoning: Lester (Leicester sounds like Lester) + City (a city) = Leicester City
 - id: teambusters-005
   enabled: true
   title: Teambusters
@@ -140,33 +136,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Teambusters five. Three more football clubs, all phonetic. You know what to do."
-  prize: "Email in. Winner gets a football card binder with most of the cards missing and a pen that almost works."
+  - UK
+  intro: Teambusters five. Three more football clubs, all phonetic. You know what to do.
+  prize: Email in. Winner gets a football card binder with most of the cards missing and a pen that almost works.
   clues:
-    - number: 1
-      initials: SC
-      clue: "That place down south - right on the water - some bloke there has docked his boat at the mouth of a river. Southerly, like."
-      answer: Southampton
-      aliases:
-        - southampton
-      reasoning: "South (down south) + amp (amplifier, a unit) + ton (a weight, a place ending) = Southampton"
-    - number: 2
-      initials: MC
-      clue: "Right, there's a bloke called Man, and he's in a city - proper urban, loads of buildings. And he's sat in it."
-      answer: Manchester City
-      aliases:
-        - manchester city
-      reasoning: "man (a man) + chest (chest, ribcage) + er (him) + city (urban place) = Manchester City"
-    - number: 3
-      initials: NF
-      clue: "Someone's gone to knock on a door in the middle of the trees. Forested area. Bit dark in there."
-      answer: Nottingham Forest
-      aliases:
-        - nottingham forest
-        - nottingham
-      reasoning: "Notting (knocking) + ham (pig meat) + Forest (forest, trees) = Nottingham Forest"
-
+  - number: 1
+    initials: SC
+    clue: That place down south - right on the water - some bloke there has docked his boat at the mouth of a river. Southerly, like.
+    answer: Southampton
+    aliases:
+    - southampton
+    reasoning: South (down south) + amp (amplifier, a unit) + ton (a weight, a place ending) = Southampton
+  - number: 2
+    initials: MC
+    clue: Right, there's a bloke called Man, and he's in a city - proper urban, loads of buildings. And he's sat in it.
+    answer: Manchester City
+    aliases:
+    - manchester city
+    reasoning: man (a man) + chest (chest, ribcage) + er (him) + city (urban place) = Manchester City
+  - number: 3
+    initials: NF
+    clue: Someone's gone to knock on a door in the middle of the trees. Forested area. Bit dark in there.
+    answer: Nottingham Forest
+    aliases:
+    - nottingham forest
+    - nottingham
+    reasoning: Notting (knocking) + ham (pig meat) + Forest (forest, trees) = Nottingham Forest
 - id: teambusters-006
   enabled: true
   title: Teambusters
@@ -174,33 +169,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Teambusters six. Could be a footballer, could be a whole club. All phonetic, mind."
-  prize: "Email in. Winner gets a yellow and green Norwich City bucket hat from a charity shop."
+  - UK
+  intro: Teambusters six. Could be a footballer, could be a whole club. All phonetic, mind.
+  prize: Email in. Winner gets a yellow and green Norwich City bucket hat from a charity shop.
   clues:
-    - number: 1
-      initials: NC
-      clue: "Someone's knocking. On a witch. She's not happy about it, but there's a city nearby so that's nice."
-      answer: Norwich City
-      aliases:
-        - norwich city
-        - norwich
-      reasoning: "Nor (knocking, nor-) + witch (a witch) + City (a city) = Norwich City"
-    - number: 2
-      initials: CP
-      clue: "It's a clear blue day, right, and there's a palace. Shining, it is. Crystal, almost. Dead posh."
-      answer: Crystal Palace
-      aliases:
-        - crystal palace
-      reasoning: "Crystal (crystal, clear and shiny) + Palace (a palace, dead posh) = Crystal Palace"
-    - number: 3
-      initials: B
-      clue: "There's a lad called Brett, right, and he's been asked to look after some property in west London. He's in charge of it now."
-      answer: Brentford
-      aliases:
-        - brentford
-      reasoning: "Brent (Brett-ish, Brent is a place) + ford (a crossing, shallow water) = Brentford"
-
+  - number: 1
+    initials: NC
+    clue: Someone's knocking. On a witch. She's not happy about it, but there's a city nearby so that's nice.
+    answer: Norwich City
+    aliases:
+    - norwich city
+    - norwich
+    reasoning: Nor (knocking, nor-) + witch (a witch) + City (a city) = Norwich City
+  - number: 2
+    initials: CP
+    clue: It's a clear blue day, right, and there's a palace. Shining, it is. Crystal, almost. Dead posh.
+    answer: Crystal Palace
+    aliases:
+    - crystal palace
+    reasoning: Crystal (crystal, clear and shiny) + Palace (a palace, dead posh) = Crystal Palace
+  - number: 3
+    initials: B
+    clue: There's a lad called Brett, right, and he's been asked to look after some property in west London. He's in charge of it now.
+    answer: Brentford
+    aliases:
+    - brentford
+    reasoning: Brent (Brett-ish, Brent is a place) + ford (a crossing, shallow water) = Brentford
 - id: teambusters-007
   enabled: true
   title: Teambusters
@@ -208,34 +202,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Alright, Teambusters seven. Say each clue out loud, slowly. The team's in there somewhere."
-  prize: "Email in. Winner gets a referee's whistle and a copy of Football Focus from 2003."
+  - UK
+  intro: Alright, Teambusters seven. Say each clue out loud, slowly. The team's in there somewhere.
+  prize: Email in. Winner gets a referee's whistle and a copy of Football Focus from 2003.
   clues:
-    - number: 1
-      initials: SU
-      clue: "Some tools, right - like a spade and that - they've all decided to work as one. All together now. Unified."
-      answer: Sheffield United
-      aliases:
-        - sheffield united
-        - sheffield
-      reasoning: "Shed (a shed, tools live there) + field (a field) + United (all together) = Sheffield United"
-    - number: 2
-      initials: B
-      clue: "That place where you get your hair done - it's gone and set itself on fire. Just smouldering away in Lancashire."
-      answer: Burnley
-      aliases:
-        - burnley
-      reasoning: "burn (on fire, burning) + ley (a ley line, an old place ending) = Burnley"
-    - number: 3
-      initials: M
-      clue: "Right in the middle of England, there's a place where the weather's a bit rough and the people are fairly solid. The borough's just sat there being stoic."
-      answer: Middlesbrough
-      aliases:
-        - middlesbrough
-        - middlesbrough fc
-      reasoning: "Middle (in the middle) + s (just an s) + brough (borough, a town) = Middlesbrough"
-
+  - number: 1
+    initials: SU
+    clue: Some tools, right - like a spade and that - they've all decided to work as one. All together now. Unified.
+    answer: Sheffield United
+    aliases:
+    - sheffield united
+    - sheffield
+    reasoning: Shed (a shed, tools live there) + field (a field) + United (all together) = Sheffield United
+  - number: 2
+    initials: B
+    clue: That place where you get your hair done - it's gone and set itself on fire. Just smouldering away in Lancashire.
+    answer: Burnley
+    aliases:
+    - burnley
+    reasoning: burn (on fire, burning) + ley (a ley line, an old place ending) = Burnley
+  - number: 3
+    initials: M
+    clue: Right in the middle of England, there's a place where the weather's a bit rough and the people are fairly solid. The borough's just sat there being stoic.
+    answer: Middlesbrough
+    aliases:
+    - middlesbrough
+    - middlesbrough fc
+    reasoning: Middle (in the middle) + s (just an s) + brough (borough, a town) = Middlesbrough
 - id: teambusters-008
   enabled: true
   title: Teambusters
@@ -243,36 +236,35 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Teambusters eight. More phonetic football. Don't try to spell it - just listen."
-  prize: "Email in. Winner gets an old Shoot! magazine and a football sticker that's been stuck to a wall and peeled off again."
+  - UK
+  intro: Teambusters eight. More phonetic football. Don't try to spell it - just listen.
+  prize: Email in. Winner gets an old Shoot! magazine and a football sticker that's been stuck to a wall and peeled off again.
   clues:
-    - number: 1
-      initials: WW
-      clue: "Right, there's a pack of the growling four-legged things, and they're wandering about near a place with a big bridge. Over the hills and that."
-      answer: Wolverhampton Wanderers
-      aliases:
-        - wolverhampton wanderers
-        - wolves
-        - wolverhampton
-      reasoning: "Wolve (wolf, growling four-legged thing) + r (a rolled r) + hampton (a place with a big bridge) + Wanderers (wandering about) = Wolverhampton Wanderers"
-    - number: 2
-      initials: LU
-      clue: "The thread's going through the eye again - someone's doing needlework - and all his pals are joining in. Good lads."
-      answer: Leeds United
-      aliases:
-        - leeds united
-        - leeds
-      reasoning: "Leeds (leads, threading needle) + United (all joining in, united) = Leeds United"
-    - number: 3
-      initials: NU
-      clue: "A brand new fortress has just been built, and everything inside it has come together perfectly. All as one."
-      answer: Newcastle United
-      aliases:
-        - newcastle united
-        - newcastle
-      reasoning: "New (brand new) + castle (a fortress) + United (all as one, together) = Newcastle United"
-
+  - number: 1
+    initials: WW
+    clue: Right, there's a pack of the growling four-legged things, and they're wandering about near a place with a big bridge. Over the hills and that.
+    answer: Wolverhampton Wanderers
+    aliases:
+    - wolverhampton wanderers
+    - wolves
+    - wolverhampton
+    reasoning: Wolve (wolf, growling four-legged thing) + r (a rolled r) + hampton (a place with a big bridge) + Wanderers (wandering about) = Wolverhampton Wanderers
+  - number: 2
+    initials: LU
+    clue: The thread's going through the eye again - someone's doing needlework - and all his pals are joining in. Good lads.
+    answer: Leeds United
+    aliases:
+    - leeds united
+    - leeds
+    reasoning: Leeds (leads, threading needle) + United (all joining in, united) = Leeds United
+  - number: 3
+    initials: NU
+    clue: A brand new fortress has just been built, and everything inside it has come together perfectly. All as one.
+    answer: Newcastle United
+    aliases:
+    - newcastle united
+    - newcastle
+    reasoning: New (brand new) + castle (a fortress) + United (all as one, together) = Newcastle United
 - id: teambusters-009
   enabled: true
   title: Teambusters
@@ -280,34 +272,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Nine down, loads to go. Teambusters. Say the clues out loud. The team name sounds like what's being described."
-  prize: "Email in. Winner gets a bobble hat with a pom-pom missing and a two-for-one voucher that expired in 2007."
+  - UK
+  intro: Nine down, loads to go. Teambusters. Say the clues out loud. The team name sounds like what's being described.
+  prize: Email in. Winner gets a bobble hat with a pom-pom missing and a two-for-one voucher that expired in 2007.
   clues:
-    - number: 1
-      initials: A
-      clue: "There's a load of weapons just sitting in a big building. A whole stock of them. Not subtle."
-      answer: Arsenal
-      aliases:
-        - arsenal
-      reasoning: "Arsenal = a place that stores weapons and military supplies, sounds like ar-sen-al = Arsenal"
-    - number: 2
-      initials: C
-      clue: "She's very well-to-do, this woman, and she keeps walking into the water at the seaside. Every time. In she goes."
-      answer: Chelsea
-      aliases:
-        - chelsea
-      reasoning: "Chel (shell-like, posh shell) + sea (the sea, she walks into it) = Chelsea"
-    - number: 3
-      initials: TH
-      clue: "Some kid's eaten a whole load of pig sandwiches and now he's done something sharp to his foot. Serve him right, really."
-      answer: Tottenham Hotspur
-      aliases:
-        - tottenham hotspur
-        - tottenham
-        - spurs
-      reasoning: "Tottenham (tot-en-ham, a kid who's had loads of ham) + Hot (heated) + spur (sharp thing in his foot) = Tottenham Hotspur"
-
+  - number: 1
+    initials: A
+    clue: There's a load of weapons just sitting in a big building. A whole stock of them. Not subtle.
+    answer: Arsenal
+    aliases:
+    - arsenal
+    reasoning: Arsenal = a place that stores weapons and military supplies, sounds like ar-sen-al = Arsenal
+  - number: 2
+    initials: C
+    clue: She's very well-to-do, this woman, and she keeps walking into the water at the seaside. Every time. In she goes.
+    answer: Chelsea
+    aliases:
+    - chelsea
+    reasoning: Chel (shell-like, posh shell) + sea (the sea, she walks into it) = Chelsea
+  - number: 3
+    initials: TH
+    clue: Some kid's eaten a whole load of pig sandwiches and now he's done something sharp to his foot. Serve him right, really.
+    answer: Tottenham Hotspur
+    aliases:
+    - tottenham hotspur
+    - tottenham
+    - spurs
+    reasoning: Tottenham (tot-en-ham, a kid who's had loads of ham) + Hot (heated) + spur (sharp thing in his foot) = Tottenham Hotspur
 - id: teambusters-010
   enabled: true
   title: Teambusters
@@ -315,32 +306,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Teambusters ten. Halfway through. Still all football clubs. Still all phonetic."
-  prize: "Email in. Winner gets a signed photo of a mascot nobody can identify and a complimentary bag of salted peanuts."
+  - UK
+  intro: Teambusters. Still all football clubs, still all phonetic. Say them out loud.
+  prize: Email in. Winner gets a signed photo of a mascot nobody can identify and a complimentary bag of salted peanuts.
   clues:
-    - number: 1
-      initials: SC
-      clue: "That bloke's gone all the way down to the bottom - right to the south - and pitched his tent by the docks."
-      answer: Southampton
-      aliases:
-        - southampton
-      reasoning: "South (gone south, bottom) + amp (pitched, amped up) + ton (weight, a town) = Southampton"
-    - number: 2
-      initials: E
-      clue: "He keeps on going, this fella - never gives up - and the sheer weight of him is something else. Solid unit."
-      answer: Everton
-      aliases:
-        - everton
-      reasoning: "Ever (keeps on going, forever) + ton (a unit of weight, massive) = Everton"
-    - number: 3
-      initials: NF
-      clue: "Someone's done a right hard knock on a door deep in the woods. Echoed right through the trees, that did."
-      answer: Nottingham Forest
-      aliases:
-        - nottingham forest
-      reasoning: "Knott (a hard knock) + ing (doing it) + ham (pig meat, a place) + Forest (the woods, deep in the trees) = Nottingham Forest"
-
+  - number: 1
+    initials: SC
+    clue: That bloke's gone all the way down to the bottom - right to the south - and pitched his tent by the docks.
+    answer: Southampton
+    aliases:
+    - southampton
+    reasoning: South (gone south, bottom) + amp (pitched, amped up) + ton (weight, a town) = Southampton
+  - number: 2
+    initials: E
+    clue: He keeps on going, this fella - never gives up - and the sheer weight of him is something else. Solid unit.
+    answer: Everton
+    aliases:
+    - everton
+    reasoning: Ever (keeps on going, forever) + ton (a unit of weight, massive) = Everton
+  - number: 3
+    initials: NF
+    clue: Someone's done a right hard knock on a door deep in the woods. Echoed right through the trees, that did.
+    answer: Nottingham Forest
+    aliases:
+    - nottingham forest
+    reasoning: Knott (a hard knock) + ing (doing it) + ham (pig meat, a place) + Forest (the woods, deep in the trees) = Nottingham Forest
 - id: teambusters-011
   enabled: true
   title: Teambusters
@@ -348,33 +338,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Right, Teambusters eleven. Three clues, three football clubs. You know the drill."
-  prize: "Email in. Winner gets a Ceefax printout of yesterday's scores and a KitKat from a vending machine."
+  - UK
+  intro: Right, Teambusters eleven. Three clues, three football clubs. You know the drill.
+  prize: Email in. Winner gets a Ceefax printout of yesterday's scores and a KitKat from a vending machine.
   clues:
-    - number: 1
-      initials: BH
-      clue: "Some bloke's shining a torch in a town on the coast. Bright, he is. Very lit up."
-      answer: Brighton
-      aliases:
-        - brighton
-      reasoning: "Bright (shining, lit up) + on (in a place, on the coast) = Brighton"
-    - number: 2
-      initials: WH
-      clue: "There's a smoked leg of something over by the old docks on the east side of London. Just hanging there."
-      answer: West Ham
-      aliases:
-        - west ham
-      reasoning: "West (west... wait, east side but the club is West Ham) + Ham (smoked leg, a ham joint) = West Ham"
-    - number: 3
-      initials: LC
-      clue: "That posh silk material - the smooth stuff - it's been given its own city. Because it deserves one, apparently."
-      answer: Leicester City
-      aliases:
-        - leicester city
-        - leicester
-      reasoning: "Lester (Leicester, sounds like Lester) + City (a city, an urban area) = Leicester City"
-
+  - number: 1
+    initials: BH
+    clue: Some bloke's shining a torch in a town on the coast. Bright, he is. Very lit up.
+    answer: Brighton
+    aliases:
+    - brighton
+    reasoning: Bright (shining, lit up) + on (in a place, on the coast) = Brighton
+  - number: 2
+    initials: WH
+    clue: There's a smoked leg of something over by the old docks on the east side of London. Just hanging there.
+    answer: West Ham
+    aliases:
+    - west ham
+    reasoning: West (west... wait, east side but the club is West Ham) + Ham (smoked leg, a ham joint) = West Ham
+  - number: 3
+    initials: LC
+    clue: That posh silk material - the smooth stuff - it's been given its own city. Because it deserves one, apparently.
+    answer: Leicester City
+    aliases:
+    - leicester city
+    - leicester
+    reasoning: Lester (Leicester, sounds like Lester) + City (a city, an urban area) = Leicester City
 - id: teambusters-012
   enabled: true
   title: Teambusters
@@ -382,33 +371,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Teambusters twelve. Don't spell it - say it. The sounds are what matter."
-  prize: "Email in. Winner gets a football bedspread from the 90s and a bottle of Lucozade Sport that's gone flat."
+  - UK
+  intro: Teambusters twelve. Don't spell it - say it. The sounds are what matter.
+  prize: Email in. Winner gets a football bedspread from the 90s and a bottle of Lucozade Sport that's gone flat.
   clues:
-    - number: 1
-      initials: CP
-      clue: "She's completely see-through, this woman - like glass - and she lives in a very grand house. Bit draughty, I'd imagine."
-      answer: Crystal Palace
-      aliases:
-        - crystal palace
-      reasoning: "Crystal (see-through, like glass) + Palace (a very grand house) = Crystal Palace"
-    - number: 2
-      initials: NC
-      clue: "He's not a witch, right - definitely not - but he's standing next to one and there's a city just down the road."
-      answer: Norwich City
-      aliases:
-        - norwich city
-        - norwich
-      reasoning: "Nor (not, nor a witch) + witch (standing next to one) + City (down the road) = Norwich City"
-    - number: 3
-      initials: B
-      clue: "That road crossing - the shallow bit of the river - someone's gone and named it after a lad called Brent. That's all."
-      answer: Brentford
-      aliases:
-        - brentford
-      reasoning: "Brent (a lad called Brent, a place name) + ford (a shallow river crossing) = Brentford"
-
+  - number: 1
+    initials: CP
+    clue: She's completely see-through, this woman - like glass - and she lives in a very grand house. Bit draughty, I'd imagine.
+    answer: Crystal Palace
+    aliases:
+    - crystal palace
+    reasoning: Crystal (see-through, like glass) + Palace (a very grand house) = Crystal Palace
+  - number: 2
+    initials: NC
+    clue: He's not a witch, right - definitely not - but he's standing next to one and there's a city just down the road.
+    answer: Norwich City
+    aliases:
+    - norwich city
+    - norwich
+    reasoning: Nor (not, nor a witch) + witch (standing next to one) + City (down the road) = Norwich City
+  - number: 3
+    initials: B
+    clue: That road crossing - the shallow bit of the river - someone's gone and named it after a lad called Brent. That's all.
+    answer: Brentford
+    aliases:
+    - brentford
+    reasoning: Brent (a lad called Brent, a place name) + ford (a shallow river crossing) = Brentford
 - id: teambusters-013
   enabled: true
   title: Teambusters
@@ -416,33 +404,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Lucky thirteen. Teambusters. Three football clubs, all hidden in the clues as sounds."
-  prize: "Email in. Winner gets a half-time draw ticket that didn't win and a cold Bovril in a polystyrene cup."
+  - UK
+  intro: Lucky thirteen. Teambusters. Three football clubs, all hidden in the clues as sounds.
+  prize: Email in. Winner gets a half-time draw ticket that didn't win and a cold Bovril in a polystyrene cup.
   clues:
-    - number: 1
-      initials: SU
-      clue: "There's a big open field, right, and in the middle of it there's a hut with all the gardening stuff. And they've all agreed to muck in together."
-      answer: Sheffield United
-      aliases:
-        - sheffield united
-        - sheffield
-      reasoning: "Shed (hut with gardening stuff) + field (open field) + United (all agreed to muck in) = Sheffield United"
-    - number: 2
-      initials: M
-      clue: "Bang in the middle of a borough, there's a fella who won't stop going on about how central he is. Fair enough, really."
-      answer: Middlesbrough
-      aliases:
-        - middlesbrough
-      reasoning: "Middle (bang in the middle, central) + s + brough (a borough, a town) = Middlesbrough"
-    - number: 3
-      initials: B
-      clue: "Lancashire town, right, and the whole place is just on fire. Everything. Just burning away."
-      answer: Burnley
-      aliases:
-        - burnley
-      reasoning: "Burn (on fire, burning) + ley (old English place name ending, a Lancashire town) = Burnley"
-
+  - number: 1
+    initials: SU
+    clue: There's a big open field, right, and in the middle of it there's a hut with all the gardening stuff. And they've all agreed to muck in together.
+    answer: Sheffield United
+    aliases:
+    - sheffield united
+    - sheffield
+    reasoning: Shed (hut with gardening stuff) + field (open field) + United (all agreed to muck in) = Sheffield United
+  - number: 2
+    initials: M
+    clue: Bang in the middle of a borough, there's a fella who won't stop going on about how central he is. Fair enough, really.
+    answer: Middlesbrough
+    aliases:
+    - middlesbrough
+    reasoning: Middle (bang in the middle, central) + s + brough (a borough, a town) = Middlesbrough
+  - number: 3
+    initials: B
+    clue: Lancashire town, right, and the whole place is just on fire. Everything. Just burning away.
+    answer: Burnley
+    aliases:
+    - burnley
+    reasoning: Burn (on fire, burning) + ley (old English place name ending, a Lancashire town) = Burnley
 - id: teambusters-014
   enabled: true
   title: Teambusters
@@ -450,35 +437,34 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Teambusters fourteen. Getting through them. All football clubs. Phonetic, as always."
-  prize: "Email in. Winner gets a pub quiz answer sheet from a Tuesday night and a bag of dry roasted peanuts."
+  - UK
+  intro: Teambusters fourteen. Getting through them. All football clubs. Phonetic, as always.
+  prize: Email in. Winner gets a pub quiz answer sheet from a Tuesday night and a bag of dry roasted peanuts.
   clues:
-    - number: 1
-      initials: MU
-      clue: "There's this fella, right, and his whole ribcage has been tied together with string. Everything bound tight."
-      answer: Manchester United
-      aliases:
-        - manchester united
-        - man united
-        - man utd
-      reasoning: "Man (a fella) + chest (ribcage) + er (him) + United (tied together, bound tight) = Manchester United"
-    - number: 2
-      initials: AV
-      clue: "Right, there's a lovely holiday home in Italy and it's in a place that sounds like it was built on something. Solid foundations."
-      answer: Aston Villa
-      aliases:
-        - aston villa
-        - aston
-      reasoning: "Aston (has-ton, built on something solid) + Villa (a holiday home in Italy, a villa) = Aston Villa"
-    - number: 3
-      initials: L
-      clue: "It's a swimming bath, but the water in it looks a bit, well, biological. Sort of organic coloured."
-      answer: Liverpool
-      aliases:
-        - liverpool
-      reasoning: "Liver (the organ, biological and coloured) + pool (a swimming bath, a pool) = Liverpool"
-
+  - number: 1
+    initials: MU
+    clue: There's this fella, right, and his whole ribcage has been tied together with string. Everything bound tight.
+    answer: Manchester United
+    aliases:
+    - manchester united
+    - man united
+    - man utd
+    reasoning: Man (a fella) + chest (ribcage) + er (him) + United (tied together, bound tight) = Manchester United
+  - number: 2
+    initials: AV
+    clue: Right, there's a lovely holiday home in Italy and it's in a place that sounds like it was built on something. Solid foundations.
+    answer: Aston Villa
+    aliases:
+    - aston villa
+    - aston
+    reasoning: Aston (has-ton, built on something solid) + Villa (a holiday home in Italy, a villa) = Aston Villa
+  - number: 3
+    initials: L
+    clue: It's a swimming bath, but the water in it looks a bit, well, biological. Sort of organic coloured.
+    answer: Liverpool
+    aliases:
+    - liverpool
+    reasoning: Liver (the organ, biological and coloured) + pool (a swimming bath, a pool) = Liverpool
 - id: teambusters-015
   enabled: true
   title: Teambusters
@@ -486,34 +472,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Teambusters fifteen. Nearly there. Say each clue out loud - the team's in the sound of it."
-  prize: "Email in. Winner gets a 1998 World Cup sticker book, three pages stuck together, and a free transfer to use."
+  - UK
+  intro: Teambusters. Say each clue out loud — the team's in the sound of it.
+  prize: Email in. Winner gets a 1998 World Cup sticker book, three pages stuck together, and a free transfer to use.
   clues:
-    - number: 1
-      initials: WW
-      clue: "There's a load of them wild dog things, howling away, and they keep drifting off on their own. Can't stay put."
-      answer: Wolverhampton Wanderers
-      aliases:
-        - wolverhampton wanderers
-        - wolves
-      reasoning: "Wolverhampton (wolverine + hampton, big wild dogs near a riverside town) + Wanderers (drifting off, can't stay put) = Wolverhampton Wanderers"
-    - number: 2
-      initials: E
-      clue: "Eternal, this fella. Just keeps going and going. And he weighs an absolute ton. Massive lad."
-      answer: Everton
-      aliases:
-        - everton
-      reasoning: "Ever (eternal, keeps going) + ton (weighs a ton, massive) = Everton"
-    - number: 3
-      initials: MC
-      clue: "Big fella with a broad chest - proper wide - and he's moved to the city. Urban life suits him."
-      answer: Manchester City
-      aliases:
-        - manchester city
-        - man city
-      reasoning: "Man (a big fella) + chest (broad chest) + er (him) + City (moved to the city) = Manchester City"
-
+  - number: 1
+    initials: WW
+    clue: There's a load of them wild dog things, howling away, and they keep drifting off on their own. Can't stay put.
+    answer: Wolverhampton Wanderers
+    aliases:
+    - wolverhampton wanderers
+    - wolves
+    reasoning: Wolverhampton (wolverine + hampton, big wild dogs near a riverside town) + Wanderers (drifting off, can't stay put) = Wolverhampton Wanderers
+  - number: 2
+    initials: E
+    clue: Eternal, this fella. Just keeps going and going. And he weighs an absolute ton. Massive lad.
+    answer: Everton
+    aliases:
+    - everton
+    reasoning: Ever (eternal, keeps going) + ton (weighs a ton, massive) = Everton
+  - number: 3
+    initials: MC
+    clue: Big fella with a broad chest - proper wide - and he's moved to the city. Urban life suits him.
+    answer: Manchester City
+    aliases:
+    - manchester city
+    - man city
+    reasoning: Man (a big fella) + chest (broad chest) + er (him) + City (moved to the city) = Manchester City
 - id: teambusters-016
   enabled: true
   title: Teambusters
@@ -521,34 +506,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Sixteen in. Teambusters. Three more clubs. Don't think about the spelling, just say it."
-  prize: "Email in. Winner gets a club crest iron-on patch that nobody wants to put on anything and a mint Polo from a coat pocket."
+  - UK
+  intro: Sixteen in. Teambusters. Three more clubs. Don't think about the spelling, just say it.
+  prize: Email in. Winner gets a club crest iron-on patch that nobody wants to put on anything and a mint Polo from a coat pocket.
   clues:
-    - number: 1
-      initials: LU
-      clue: "The string's going through the eye - someone's sewing - and their whole family's joined in. Nice one."
-      answer: Leeds United
-      aliases:
-        - leeds united
-        - leeds
-      reasoning: "Leeds (leads, string threading) + United (whole family joined in, united) = Leeds United"
-    - number: 2
-      initials: NU
-      clue: "Fresh out the box, this castle is. Never been used. And everyone inside it is working as a team."
-      answer: Newcastle United
-      aliases:
-        - newcastle united
-        - newcastle
-      reasoning: "New (fresh out the box, brand new) + castle (a castle, fresh) + United (working as a team) = Newcastle United"
-    - number: 3
-      initials: SC
-      clue: "She's called Hannah, she lives right at the bottom of the country by the water, and she's very, very southern."
-      answer: Southampton
-      aliases:
-        - southampton
-      reasoning: "South (very southern, bottom of the country) + Hampton (a place name, Hannah-ish) = Southampton"
-
+  - number: 1
+    initials: LU
+    clue: The string's going through the eye - someone's sewing - and their whole family's joined in. Nice one.
+    answer: Leeds United
+    aliases:
+    - leeds united
+    - leeds
+    reasoning: Leeds (leads, string threading) + United (whole family joined in, united) = Leeds United
+  - number: 2
+    initials: NU
+    clue: Fresh out the box, this castle is. Never been used. And everyone inside it is working as a team.
+    answer: Newcastle United
+    aliases:
+    - newcastle united
+    - newcastle
+    reasoning: New (fresh out the box, brand new) + castle (a castle, fresh) + United (working as a team) = Newcastle United
+  - number: 3
+    initials: SC
+    clue: She's called Hannah, she lives right at the bottom of the country by the water, and she's very, very southern.
+    answer: Southampton
+    aliases:
+    - southampton
+    reasoning: South (very southern, bottom of the country) + Hampton (a place name, Hannah-ish) = Southampton
 - id: teambusters-017
   enabled: true
   title: Teambusters
@@ -556,32 +540,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Teambusters seventeen. Three phonetic football clubs. You've been good at this."
-  prize: "Email in. Winner gets a squeaky foam hand pointing upward and a tray of chips that have gone a bit soft."
+  - UK
+  intro: Teambusters seventeen. Three phonetic football clubs. You've been good at this.
+  prize: Email in. Winner gets a squeaky foam hand pointing upward and a tray of chips that have gone a bit soft.
   clues:
-    - number: 1
-      initials: NF
-      clue: "That lad who's always banging on things - real knocker - he's moved into a cottage deep in the trees. Hammering away in the forest."
-      answer: Nottingham Forest
-      aliases:
-        - nottingham forest
-      reasoning: "Knott (a knocker, banging things) + ing (doing it) + ham (a cottage, pig reference) + Forest (deep in the trees) = Nottingham Forest"
-    - number: 2
-      initials: CP
-      clue: "That royal residence, right - big, impressive - it's been built entirely out of frozen water. Spectacular, mind you."
-      answer: Crystal Palace
-      aliases:
-        - crystal palace
-      reasoning: "Crystal (frozen, like ice crystals) + Palace (royal residence, big and impressive) = Crystal Palace"
-    - number: 3
-      initials: BH
-      clue: "That lad's gone radiant - just glowing - and he's moved to the coast. Very lit up, the whole town is."
-      answer: Brighton
-      aliases:
-        - brighton
-      reasoning: "Bright (radiant, glowing) + on (at the coast, settled there) = Brighton"
-
+  - number: 1
+    initials: NF
+    clue: That lad who's always banging on things - real knocker - he's moved into a cottage deep in the trees. Hammering away in the forest.
+    answer: Nottingham Forest
+    aliases:
+    - nottingham forest
+    reasoning: Knott (a knocker, banging things) + ing (doing it) + ham (a cottage, pig reference) + Forest (deep in the trees) = Nottingham Forest
+  - number: 2
+    initials: CP
+    clue: That royal residence, right - big, impressive - it's been built entirely out of frozen water. Spectacular, mind you.
+    answer: Crystal Palace
+    aliases:
+    - crystal palace
+    reasoning: Crystal (frozen, like ice crystals) + Palace (royal residence, big and impressive) = Crystal Palace
+  - number: 3
+    initials: BH
+    clue: That lad's gone radiant - just glowing - and he's moved to the coast. Very lit up, the whole town is.
+    answer: Brighton
+    aliases:
+    - brighton
+    reasoning: Bright (radiant, glowing) + on (at the coast, settled there) = Brighton
 - id: teambusters-018
   enabled: true
   title: Teambusters
@@ -589,33 +572,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Right then, Teambusters eighteen. Two more after this. All phonetic, all football clubs."
-  prize: "Email in. Winner gets a commemorative mug with the wrong year on it and a packet of those biscuits nobody chose."
+  - UK
+  intro: Right then, Teambusters eighteen. Two more after this. All phonetic, all football clubs.
+  prize: Email in. Winner gets a commemorative mug with the wrong year on it and a packet of those biscuits nobody chose.
   clues:
-    - number: 1
-      initials: WH
-      clue: "On the other side - opposite end of the city - there's a big cured joint of meat just sitting there. Bit suspicious."
-      answer: West Ham
-      aliases:
-        - west ham
-      reasoning: "West (the other side, western end) + Ham (a big cured joint, a ham) = West Ham"
-    - number: 2
-      initials: B
-      clue: "Right, Brent - some borough up north of the river - and he's trying to get across the water. Found a shallow bit."
-      answer: Brentford
-      aliases:
-        - brentford
-      reasoning: "Brent (a borough, a name) + ford (a shallow river crossing) = Brentford"
-    - number: 3
-      initials: LC
-      clue: "That fella Les - quiet sort, good at rugby - he's bought a flat in an actual city. Bit of an upgrade for him."
-      answer: Leicester City
-      aliases:
-        - leicester city
-        - leicester
-      reasoning: "Leicester (sounds like Lester, Les-ter) + City (an actual city, Les has moved up) = Leicester City"
-
+  - number: 1
+    initials: WH
+    clue: On the other side - opposite end of the city - there's a big cured joint of meat just sitting there. Bit suspicious.
+    answer: West Ham
+    aliases:
+    - west ham
+    reasoning: West (the other side, western end) + Ham (a big cured joint, a ham) = West Ham
+  - number: 2
+    initials: B
+    clue: Right, Brent - some borough up north of the river - and he's trying to get across the water. Found a shallow bit.
+    answer: Brentford
+    aliases:
+    - brentford
+    reasoning: Brent (a borough, a name) + ford (a shallow river crossing) = Brentford
+  - number: 3
+    initials: LC
+    clue: That fella Les - quiet sort, good at rugby - he's bought a flat in an actual city. Bit of an upgrade for him.
+    answer: Leicester City
+    aliases:
+    - leicester city
+    - leicester
+    reasoning: Leicester (sounds like Lester, Les-ter) + City (an actual city, Les has moved up) = Leicester City
 - id: teambusters-019
   enabled: true
   title: Teambusters
@@ -623,33 +605,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Nearly done. Teambusters nineteen. Three more football clubs hiding in the sounds."
-  prize: "Email in. Winner gets a penalty shootout coin toss coin and a laminated certificate with nothing on it."
+  - UK
+  intro: Teambusters. Three more football clubs hiding in the sounds. Say them out loud.
+  prize: Email in. Winner gets a penalty shootout coin toss coin and a laminated certificate with nothing on it.
   clues:
-    - number: 1
-      initials: SU
-      clue: "There's this massive grassy patch, and at the back of it there's a wooden outhouse. And everything in that garden has come together as one."
-      answer: Sheffield United
-      aliases:
-        - sheffield united
-        - sheffield
-      reasoning: "Shed (wooden outhouse) + field (massive grassy patch) + United (come together as one) = Sheffield United"
-    - number: 2
-      initials: A
-      clue: "Big old collection of weapons, this is. Cannons and everything. Someone's very prepared."
-      answer: Arsenal
-      aliases:
-        - arsenal
-      reasoning: "Arsenal = ar-sen-al, a large collection of military weapons and equipment = Arsenal"
-    - number: 3
-      initials: M
-      clue: "Smack in the centre, there's a proper solid town. The sort of place that doesn't move. Just there, in the middle of a borough."
-      answer: Middlesbrough
-      aliases:
-        - middlesbrough
-      reasoning: "Middle (smack in the centre) + s + brough (a solid town, a borough) = Middlesbrough"
-
+  - number: 1
+    initials: SU
+    clue: There's this massive grassy patch, and at the back of it there's a wooden outhouse. And everything in that garden has come together as one.
+    answer: Sheffield United
+    aliases:
+    - sheffield united
+    - sheffield
+    reasoning: Shed (wooden outhouse) + field (massive grassy patch) + United (come together as one) = Sheffield United
+  - number: 2
+    initials: A
+    clue: Big old collection of weapons, this is. Cannons and everything. Someone's very prepared.
+    answer: Arsenal
+    aliases:
+    - arsenal
+    reasoning: Arsenal = ar-sen-al, a large collection of military weapons and equipment = Arsenal
+  - number: 3
+    initials: M
+    clue: Smack in the centre, there's a proper solid town. The sort of place that doesn't move. Just there, in the middle of a borough.
+    answer: Middlesbrough
+    aliases:
+    - middlesbrough
+    reasoning: Middle (smack in the centre) + s + brough (a solid town, a borough) = Middlesbrough
 - id: teambusters-020
   enabled: true
   title: Teambusters
@@ -657,30 +638,30 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Last one. Teambusters twenty. Three final football clubs. End on a high."
-  prize: "Email in. Winner gets a full set of 2002 World Cup Panini stickers, mostly duplicates, and a biro."
+  - UK
+  intro: Teambusters. Three football clubs hiding in the sounds. Say each one out loud.
+  prize: Email in. Winner gets a full set of 2002 World Cup Panini stickers, mostly duplicates, and a biro.
   clues:
-    - number: 1
-      initials: L
-      clue: "The puddle's massive - you could swim in it, actually - and it's gone a peculiar dark reddish colour. Biology, probably."
-      answer: Liverpool
-      aliases:
-        - liverpool
-      reasoning: "Liver (dark reddish organ, biological) + pool (massive puddle you could swim in) = Liverpool"
-    - number: 2
-      initials: B
-      clue: "She's gone up in flames, has this whole town in Lancashire. Everything's just burning. The whole ley."
-      answer: Burnley
-      aliases:
-        - burnley
-      reasoning: "Burn (gone up in flames, burning) + ley (Lancashire place name ending, the whole ley) = Burnley"
-    - number: 3
-      initials: MU
-      clue: "This bloke's got an enormous chest - like a barrel - and everyone round him has decided to stick together. All as one."
-      answer: Manchester United
-      aliases:
-        - manchester united
-        - man united
-        - man utd
-      reasoning: "Man (a bloke) + chest (enormous chest, barrel) + er (him, around him) + United (stuck together, all as one) = Manchester United"
+  - number: 1
+    initials: L
+    clue: The puddle's massive - you could swim in it, actually - and it's gone a peculiar dark reddish colour. Biology, probably.
+    answer: Liverpool
+    aliases:
+    - liverpool
+    reasoning: Liver (dark reddish organ, biological) + pool (massive puddle you could swim in) = Liverpool
+  - number: 2
+    initials: B
+    clue: She's gone up in flames, has this whole town in Lancashire. Everything's just burning. The whole ley.
+    answer: Burnley
+    aliases:
+    - burnley
+    reasoning: Burn (gone up in flames, burning) + ley (Lancashire place name ending, the whole ley) = Burnley
+  - number: 3
+    initials: MU
+    clue: This bloke's got an enormous chest - like a barrel - and everyone round him has decided to stick together. All as one.
+    answer: Manchester United
+    aliases:
+    - manchester united
+    - man united
+    - man utd
+    reasoning: Man (a bloke) + chest (enormous chest, barrel) + er (him, around him) + United (stuck together, all as one) = Manchester United

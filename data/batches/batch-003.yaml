@@ -5,33 +5,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Right, Filmbusters. Rockbusters but the answers are all classic films. Should be easy this."
-  prize: "Email in. Winner gets a VHS copy of Titanic that's been rewound, probably."
+  - UK
+  - US
+  intro: Right, Filmbusters. Rockbusters but the answers are all classic films. Should be easy this.
+  prize: Email in. Winner gets a VHS copy of Titanic that's been rewound, probably.
   clues:
-    - number: 1
-      initials: J
-      clue: "Right, the lower half of someone's face, it belongs to a fella. That's it."
-      answer: Jaws
-      aliases:
-        - jaws
-      reasoning: "jaw's (lower part of face, belonging to someone) = Jaws"
-    - number: 2
-      initials: A
-      clue: "Someone who's not carrying any extra weight. Right trim they are. Say it out loud."
-      answer: Alien
-      aliases:
-        - alien
-      reasoning: "a lean (not carrying extra weight) = Alien"
-    - number: 3
-      initials: R
-      clue: "The path is absolutely covered in stones. Can't walk on it. Bit annoying."
-      answer: Rocky
-      aliases:
-        - rocky
-      reasoning: "rocky (covered in stones) = Rocky"
-
+  - number: 1
+    initials: J
+    clue: Right, the lower half of someone's face, it belongs to a fella. That's it.
+    answer: Jaws
+    aliases:
+    - jaws
+    reasoning: jaw's (lower part of face, belonging to someone) = Jaws
+  - number: 2
+    initials: A
+    clue: Someone who's not carrying any extra weight. Right trim they are. Say it out loud.
+    answer: Alien
+    aliases:
+    - alien
+    reasoning: a lean (not carrying extra weight) = Alien
+  - number: 3
+    initials: R
+    clue: The path is absolutely covered in stones. Can't walk on it. Bit annoying.
+    answer: Rocky
+    aliases:
+    - rocky
+    reasoning: rocky (covered in stones) = Rocky
 - id: filmbusters-002
   enabled: true
   title: Filmbusters
@@ -39,33 +38,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Filmbusters time. Classic cinema. If you haven't seen these you've been living under a rock, mate."
-  prize: "Email in. Winner gets a Blockbuster loyalty card with three stamps on it."
+  - UK
+  - US
+  intro: Filmbusters time. Classic cinema. If you haven't seen these you've been living under a rock, mate.
+  prize: Email in. Winner gets a Blockbuster loyalty card with three stamps on it.
   clues:
-    - number: 1
-      initials: P
-      clue: "The doctor's letting out a long breath, right, and he's working for a company. That's all."
-      answer: Psycho
-      aliases:
-        - psycho
-      reasoning: "sigh (long breath) + co (company) = Psycho"
-    - number: 2
-      initials: G
-      clue: "Some fella who's departed this world, right, he's gone and smashed up a vehicle. Just left it there."
-      answer: Ghostbusters
-      aliases:
-        - ghostbusters
-      reasoning: "ghost (departed this world) + bus (vehicle) + ters (sounds like 'ters') = Ghostbusters"
-    - number: 3
-      initials: F
-      clue: "You've got a long way to travel, then someone tells you to leave. Off you go then."
-      answer: Fargo
-      aliases:
-        - fargo
-      reasoning: "far (long way to travel) + go (leave) = Fargo"
-
+  - number: 1
+    initials: P
+    clue: The doctor's letting out a long breath, right, and he's working for a company. That's all.
+    answer: Psycho
+    aliases:
+    - psycho
+    reasoning: sigh (long breath) + co (company) = Psycho
+  - number: 2
+    initials: G
+    clue: Some fella who's departed this world, right, he's gone and smashed up a vehicle. Just left it there.
+    answer: Ghostbusters
+    aliases:
+    - ghostbusters
+    reasoning: ghost (departed this world) + bus (vehicle) + ters (sounds like 'ters') = Ghostbusters
+  - number: 3
+    initials: F
+    clue: You've got a long way to travel, then someone tells you to leave. Off you go then.
+    answer: Fargo
+    aliases:
+    - fargo
+    reasoning: far (long way to travel) + go (leave) = Fargo
 - id: filmbusters-003
   enabled: true
   title: Filmbusters
@@ -73,33 +71,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Here we go, Filmbusters. Three clues, three films. You've probably got the poster on your wall."
-  prize: "Email in. Winner gets an AOL trial disc and a Curly Wurly that's gone a bit white."
+  - UK
+  - US
+  intro: Here we go, Filmbusters. Three clues, three films. You've probably got the poster on your wall.
+  prize: Email in. Winner gets an AOL trial disc and a Curly Wurly that's gone a bit white.
   clues:
-    - number: 1
-      initials: D H
-      clue: "Someone's gone and coloured their hair, right, and it came out well stiff. Don't know why."
-      answer: Die Hard
-      aliases:
-        - die hard
-      reasoning: "dye (coloured their hair) + hard (well stiff) = Die Hard"
-    - number: 2
-      initials: S
-      clue: "A little wee. There, that's your clue. Near enough."
-      answer: Speed
-      aliases:
-        - speed
-      reasoning: "s + peed (a little wee) = Speed"
-    - number: 3
-      initials: H
-      clue: "That curved metal thing you hang your coat on. Just the one word. Leave it."
-      answer: Hook
-      aliases:
-        - hook
-      reasoning: "hook (curved metal thing for hanging coats) = Hook"
-
+  - number: 1
+    initials: D H
+    clue: Someone's gone and coloured their hair, right, and it came out well stiff. Don't know why.
+    answer: Die Hard
+    aliases:
+    - die hard
+    reasoning: dye (coloured their hair) + hard (well stiff) = Die Hard
+  - number: 2
+    initials: S
+    clue: A little wee. There, that's your clue. Near enough.
+    answer: Speed
+    aliases:
+    - speed
+    reasoning: s + peed (a little wee) = Speed
+  - number: 3
+    initials: H
+    clue: That curved metal thing you hang your coat on. Just the one word. Leave it.
+    answer: Hook
+    aliases:
+    - hook
+    reasoning: hook (curved metal thing for hanging coats) = Hook
 - id: filmbusters-004
   enabled: true
   title: Filmbusters
@@ -107,34 +104,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Alright, Filmbusters. All classic movies. Have a think, say them out loud, you'll get there."
-  prize: "Email in. Winner gets a signed photo of someone who might have been in Baywatch."
+  - UK
+  - US
+  intro: Alright, Filmbusters. All classic movies. Have a think, say them out loud, you'll get there.
+  prize: Email in. Winner gets a signed photo of someone who might have been in Baywatch.
   clues:
-    - number: 1
-      initials: T
-      clue: "Right, there's a fella called Mick, sort of squeezed into something tight. Looks uncomfortable."
-      answer: Titanic
-      aliases:
-        - titanic
-      reasoning: "tight (squeezed) + a (a) + Nick (name, like Mick) = Titanic"
-    - number: 2
-      initials: B
-      clue: "Someone's being very courageous, right, and then there's that pumping organ in their chest. Bit dramatic."
-      answer: Braveheart
-      aliases:
-        - braveheart
-      reasoning: "brave (very courageous) + heart (pumping organ in chest) = Braveheart"
-    - number: 3
-      initials: T
-      clue: "There's a lad called Mick, and he's going to finish something off later. He'll get round to it."
-      answer: Terminator
-      aliases:
-        - terminator
-        - the terminator
-      reasoning: "term in a (contained within) + tor / 'turn Mick later' sounds like Terminator"
-
+  - number: 1
+    initials: T
+    clue: Right, there's a fella called Mick, sort of squeezed into something tight. Looks uncomfortable.
+    answer: Titanic
+    aliases:
+    - titanic
+    reasoning: tight (squeezed) + a (a) + Nick (name, like Mick) = Titanic
+  - number: 2
+    initials: B
+    clue: Someone's being very courageous, right, and then there's that pumping organ in their chest. Bit dramatic.
+    answer: Braveheart
+    aliases:
+    - braveheart
+    reasoning: brave (very courageous) + heart (pumping organ in chest) = Braveheart
+  - number: 3
+    initials: T
+    clue: There's a lad called Mick, and he's going to finish something off later. He'll get round to it.
+    answer: Terminator
+    aliases:
+    - terminator
+    - the terminator
+    reasoning: term in a (contained within) + tor / 'turn Mick later' sounds like Terminator
 - id: filmbusters-005
   enabled: true
   title: Filmbusters
@@ -142,33 +138,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Filmbusters. Rockbusters with a cinematic twist. Get your thinking caps on, they're all films."
-  prize: "Email in. Winner gets a Now 38 cassette and a travel-size Lynx Africa."
+  - UK
+  - US
+  intro: Filmbusters. Rockbusters with a cinematic twist. Get your thinking caps on, they're all films.
+  prize: Email in. Winner gets a Now 38 cassette and a travel-size Lynx Africa.
   clues:
-    - number: 1
-      initials: F G
-      clue: "Right, there's a fella called Gump, but before him, someone else was meant to go first. That's sorted."
-      answer: Forrest Gump
-      aliases:
-        - forrest gump
-      reasoning: "for rest (before the others, meant to go first) + Gump (the name, it's in the answer) = Forrest Gump"
-    - number: 2
-      initials: R M
-      clue: "Water's coming down from the sky, and there's a bloke standing in it. Just standing there."
-      answer: Rain Man
-      aliases:
-        - rain man
-      reasoning: "rain (water from the sky) + man (a bloke) = Rain Man"
-    - number: 3
-      initials: G
-      clue: "These people are well-regarded. And then they tripped over, the lot of them. Same height though."
-      answer: Goodfellas
-      aliases:
-        - goodfellas
-      reasoning: "good (well-regarded) + fell (tripped over) + as (same height) = Goodfellas"
-
+  - number: 1
+    initials: F G
+    clue: Right, there's a fella called Gump, but before him, someone else was meant to go first. That's sorted.
+    answer: Forrest Gump
+    aliases:
+    - forrest gump
+    reasoning: for rest (before the others, meant to go first) + Gump (the name, it's in the answer) = Forrest Gump
+  - number: 2
+    initials: R M
+    clue: Water's coming down from the sky, and there's a bloke standing in it. Just standing there.
+    answer: Rain Man
+    aliases:
+    - rain man
+    reasoning: rain (water from the sky) + man (a bloke) = Rain Man
+  - number: 3
+    initials: G
+    clue: These people are well-regarded. And then they tripped over, the lot of them. Same height though.
+    answer: Goodfellas
+    aliases:
+    - goodfellas
+    reasoning: good (well-regarded) + fell (tripped over) + as (same height) = Goodfellas
 - id: filmbusters-006
   enabled: true
   title: Filmbusters
@@ -176,33 +171,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Right then, Filmbusters. All massive films, all from the 80s and 90s. You know these."
-  prize: "Email in. Winner gets a printed disposable camera photo from someone's 1997 holiday, framed."
+  - UK
+  - US
+  intro: Right then, Filmbusters. All massive films, all from the 80s and 90s. You know these.
+  prize: Email in. Winner gets a printed disposable camera photo from someone's 1997 holiday, framed.
   clues:
-    - number: 1
-      initials: P F
-      clue: "There's some soft mushy stuff, right, and it's making something up. Just inventing things."
-      answer: Pulp Fiction
-      aliases:
-        - pulp fiction
-      reasoning: "pulp (soft mushy stuff) + fiction (making something up, inventing) = Pulp Fiction"
-    - number: 2
-      initials: T S
-      clue: "A plaything, right, and it's gone up several floors in a building. Don't know how."
-      answer: Toy Story
-      aliases:
-        - toy story
-      reasoning: "toy (a plaything) + storey (floor of a building) = Toy Story"
-    - number: 3
-      initials: H A
-      clue: "You've gone back to your house, but someone's lent you something and now they've gone. Bit odd."
-      answer: Home Alone
-      aliases:
-        - home alone
-      reasoning: "home (back to your house) + a loan (something lent, now they're gone) = Home Alone"
-
+  - number: 1
+    initials: P F
+    clue: There's some soft mushy stuff, right, and it's making something up. Just inventing things.
+    answer: Pulp Fiction
+    aliases:
+    - pulp fiction
+    reasoning: pulp (soft mushy stuff) + fiction (making something up, inventing) = Pulp Fiction
+  - number: 2
+    initials: T S
+    clue: A plaything, right, and it's gone up several floors in a building. Don't know how.
+    answer: Toy Story
+    aliases:
+    - toy story
+    reasoning: toy (a plaything) + storey (floor of a building) = Toy Story
+  - number: 3
+    initials: H A
+    clue: You've gone back to your house, but someone's lent you something and now they've gone. Bit odd.
+    answer: Home Alone
+    aliases:
+    - home alone
+    reasoning: home (back to your house) + a loan (something lent, now they're gone) = Home Alone
 - id: filmbusters-007
   enabled: true
   title: Filmbusters
@@ -210,34 +204,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Filmbusters. Each answer is a film. Say the clue out loud and you'll hear it. Don't overthink it."
-  prize: "Email in. Winner gets a Woolworths pick and mix bag containing mostly toffees."
+  - UK
+  - US
+  intro: Filmbusters. Each answer is a film. Say the clue out loud and you'll hear it. Don't overthink it.
+  prize: Email in. Winner gets a Woolworths pick and mix bag containing mostly toffees.
   clues:
-    - number: 1
-      initials: M
-      clue: "Someone's being really tight with their money, right, and they're in a right state about it."
-      answer: Misery
-      aliases:
-        - misery
-      reasoning: "miser (tight with money) + y = Misery"
-    - number: 2
-      initials: J P
-      clue: "There's this outdoor green space, right, and it belongs to a court of law. Sort of."
-      answer: Jurassic Park
-      aliases:
-        - jurassic park
-        - the jurassic park
-      reasoning: "jury (court of law) + ass (backside, near enough) + ic + park (outdoor green space) = Jurassic Park"
-    - number: 3
-      initials: G
-      clue: "Right, it's grease, but it rhymes with something you wear over your shoulders. Or a country. Sort of."
-      answer: Grease
-      aliases:
-        - grease
-      reasoning: "grease (the cooking fat) sounds like Greece (the country) = Grease"
-
+  - number: 1
+    initials: M
+    clue: Someone's being really tight with their money, right, and they're in a right state about it.
+    answer: Misery
+    aliases:
+    - misery
+    reasoning: miser (tight with money) + y = Misery
+  - number: 2
+    initials: J P
+    clue: There's this outdoor green space, right, and it belongs to a court of law. Sort of.
+    answer: Jurassic Park
+    aliases:
+    - jurassic park
+    - the jurassic park
+    reasoning: jury (court of law) + ass (backside, near enough) + ic + park (outdoor green space) = Jurassic Park
+  - number: 3
+    initials: G
+    clue: Right, it's grease, but it rhymes with something you wear over your shoulders. Or a country. Sort of.
+    answer: Grease
+    aliases:
+    - grease
+    reasoning: grease (the cooking fat) sounds like Greece (the country) = Grease
 - id: filmbusters-008
   enabled: true
   title: Filmbusters
@@ -245,33 +238,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Here's Filmbusters. Three more films. These are proper classics, like."
-  prize: "Email in. Winner gets a mug from a company that went into administration in 2003."
+  - UK
+  - US
+  intro: Here's Filmbusters. Three more films. These are proper classics, like.
+  prize: Email in. Winner gets a mug from a company that went into administration in 2003.
   clues:
-    - number: 1
-      initials: B I
-      clue: "The foundation of something, right. And it's giving you a bad feeling. Not wrong, just instinctive."
-      answer: Basic Instinct
-      aliases:
-        - basic instinct
-      reasoning: "basic (the foundation of something) + instinct (bad feeling, gut feeling) = Basic Instinct"
-    - number: 2
-      initials: B J
-      clue: "There's a fella called Michael, and he's gone a bit odd. Quite loud. Making noises at everyone."
-      answer: Beetlejuice
-      aliases:
-        - beetlejuice
-      reasoning: "beetle (creepy crawly) + juice (liquid, Michael's a bit) = Beetlejuice. Or: bee +tle + juice. Say it: BEE-tul-JOOS"
-    - number: 3
-      initials: R
-      clue: "Someone's put a police officer in charge of a computer. Just left him running things."
-      answer: Robocop
-      aliases:
-        - robocop
-      reasoning: "robo (robot, like a computer) + cop (police officer) = Robocop"
-
+  - number: 1
+    initials: B I
+    clue: The foundation of something, right. And it's giving you a bad feeling. Not wrong, just instinctive.
+    answer: Basic Instinct
+    aliases:
+    - basic instinct
+    reasoning: basic (the foundation of something) + instinct (bad feeling, gut feeling) = Basic Instinct
+  - number: 2
+    initials: B J
+    clue: There's a fella called Michael, and he's gone a bit odd. Quite loud. Making noises at everyone.
+    answer: Beetlejuice
+    aliases:
+    - beetlejuice
+    reasoning: 'beetle (creepy crawly) + juice (liquid, Michael''s a bit) = Beetlejuice. Or: bee +tle + juice. Say it: BEE-tul-JOOS'
+  - number: 3
+    initials: R
+    clue: Someone's put a police officer in charge of a computer. Just left him running things.
+    answer: Robocop
+    aliases:
+    - robocop
+    reasoning: robo (robot, like a computer) + cop (police officer) = Robocop
 - id: filmbusters-009
   enabled: true
   title: Filmbusters
@@ -279,33 +271,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Alright, Filmbusters is back. Three films, all of them massive. You definitely know at least one."
-  prize: "Email in. Winner gets a Dial-Up internet connection starter kit and a stress ball."
+  - UK
+  - US
+  intro: Alright, Filmbusters is back. Three films, all of them massive. You definitely know at least one.
+  prize: Email in. Winner gets a Dial-Up internet connection starter kit and a stress ball.
   clues:
-    - number: 1
-      initials: T M
-      clue: "There's this covering you put on your face, right, and it belongs to someone. That's your clue."
-      answer: The Mask
-      aliases:
-        - the mask
-      reasoning: "the mask (face covering, belongs to someone) = The Mask"
-    - number: 2
-      initials: G
-      clue: "It's not been cold out, it got a bit warmer actually, and now the fat's all liquefied. Gone runny."
-      answer: Grease
-      aliases:
-        - grease
-      reasoning: "grease (fat gone runny when warm) = Grease. Sounds like Greece too."
-    - number: 3
-      initials: A
-      clue: "Some chap is not heavy, you know. Travelling light. Say it out loud, it'll come to you."
-      answer: Alien
-      aliases:
-        - alien
-      reasoning: "a lean (not heavy, travelling light) = Alien"
-
+  - number: 1
+    initials: T M
+    clue: There's this covering you put on your face, right, and it belongs to someone. That's your clue.
+    answer: The Mask
+    aliases:
+    - the mask
+    reasoning: the mask (face covering, belongs to someone) = The Mask
+  - number: 2
+    initials: G
+    clue: It's not been cold out, it got a bit warmer actually, and now the fat's all liquefied. Gone runny.
+    answer: Grease
+    aliases:
+    - grease
+    reasoning: grease (fat gone runny when warm) = Grease. Sounds like Greece too.
+  - number: 3
+    initials: A
+    clue: Some chap is not heavy, you know. Travelling light. Say it out loud, it'll come to you.
+    answer: Alien
+    aliases:
+    - alien
+    reasoning: a lean (not heavy, travelling light) = Alien
 - id: filmbusters-010
   enabled: true
   title: Filmbusters
@@ -313,33 +304,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Films again. Filmbusters. If you've ever sat in a cinema with a big bucket of popcorn, this one's for you."
-  prize: "Email in. Winner gets a Blockbuster Video membership and six late return fines waived."
+  - UK
+  - US
+  intro: Films again. Filmbusters. If you've ever sat in a cinema with a big bucket of popcorn, this one's for you.
+  prize: Email in. Winner gets a Blockbuster Video membership and six late return fines waived.
   clues:
-    - number: 1
-      initials: J
-      clue: "Right, the bottom part of your face, right, the bit that moves when you talk. It's gone somewhere."
-      answer: Jaws
-      aliases:
-        - jaws
-      reasoning: "jaw's (bottom of face, moves when talking, belongs to someone) = Jaws"
-    - number: 2
-      initials: S
-      clue: "The dog did something on the kitchen floor and everyone's a bit shaken about it. Move quick."
-      answer: Speed
-      aliases:
-        - speed
-      reasoning: "s + peed (the dog did something on the floor) = Speed"
-    - number: 3
-      initials: F
-      clue: "Miles away, over there, and now someone's telling you to leave. Cheers then."
-      answer: Fargo
-      aliases:
-        - fargo
-      reasoning: "far (miles away) + go (leave) = Fargo"
-
+  - number: 1
+    initials: J
+    clue: Right, the bottom part of your face, right, the bit that moves when you talk. It's gone somewhere.
+    answer: Jaws
+    aliases:
+    - jaws
+    reasoning: jaw's (bottom of face, moves when talking, belongs to someone) = Jaws
+  - number: 2
+    initials: S
+    clue: The dog did something on the kitchen floor and everyone's a bit shaken about it. Move quick.
+    answer: Speed
+    aliases:
+    - speed
+    reasoning: s + peed (the dog did something on the floor) = Speed
+  - number: 3
+    initials: F
+    clue: Miles away, over there, and now someone's telling you to leave. Cheers then.
+    answer: Fargo
+    aliases:
+    - fargo
+    reasoning: far (miles away) + go (leave) = Fargo
 - id: filmbusters-011
   enabled: true
   title: Filmbusters
@@ -347,33 +337,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Right, Filmbusters round eleven. Still going. All films, all classics, all from before the year 2000."
-  prize: "Email in. Winner gets a copy of Shrek on DVD and a spoon from a motorway services."
+  - UK
+  - US
+  intro: Right, Filmbusters round eleven. Still going. All films, all classics, all from before the year 2000.
+  prize: Email in. Winner gets a copy of Shrek on DVD and a spoon from a motorway services.
   clues:
-    - number: 1
-      initials: T
-      clue: "A fella called Nick's been squeezed into something well tight. Bit uncomfortable for him."
-      answer: Titanic
-      aliases:
-        - titanic
-      reasoning: "tight (squeezed) + a + Nick (fella's name) = Titanic"
-    - number: 2
-      initials: R
-      clue: "Covered in stones and pebbles, that path is. Wouldn't push a trolley down it."
-      answer: Rocky
-      aliases:
-        - rocky
-      reasoning: "rocky (covered in stones and pebbles) = Rocky"
-    - number: 3
-      initials: P
-      clue: "A doctor's letting out a big sigh and there's a company involved somewhere. That's the clue."
-      answer: Psycho
-      aliases:
-        - psycho
-      reasoning: "sigh (big breath out) + co (company) = Psycho. Say it: SY-co"
-
+  - number: 1
+    initials: T
+    clue: A fella called Nick's been squeezed into something well tight. Bit uncomfortable for him.
+    answer: Titanic
+    aliases:
+    - titanic
+    reasoning: tight (squeezed) + a + Nick (fella's name) = Titanic
+  - number: 2
+    initials: R
+    clue: Covered in stones and pebbles, that path is. Wouldn't push a trolley down it.
+    answer: Rocky
+    aliases:
+    - rocky
+    reasoning: rocky (covered in stones and pebbles) = Rocky
+  - number: 3
+    initials: P
+    clue: A doctor's letting out a big sigh and there's a company involved somewhere. That's the clue.
+    answer: Psycho
+    aliases:
+    - psycho
+    reasoning: 'sigh (big breath out) + co (company) = Psycho. Say it: SY-co'
 - id: filmbusters-012
   enabled: true
   title: Filmbusters
@@ -381,33 +370,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Filmbusters. Films. Rock-busters style. Say the clues out loud. You'll hear the film title in there."
-  prize: "Email in. Winner gets a free rental at a video shop that closed down years ago."
+  - UK
+  - US
+  intro: Filmbusters. Films. Rock-busters style. Say the clues out loud. You'll hear the film title in there.
+  prize: Email in. Winner gets a free rental at a video shop that closed down years ago.
   clues:
-    - number: 1
-      initials: D H
-      clue: "Someone's gone and put colour on their hair, and it turned out well tough. Sort of crispy."
-      answer: Die Hard
-      aliases:
-        - die hard
-      reasoning: "dye (hair colouring) + hard (tough, crispy) = Die Hard"
-    - number: 2
-      initials: G
-      clue: "These lads are decent enough, right, and then they all went over at the same time. Odd that."
-      answer: Goodfellas
-      aliases:
-        - goodfellas
-      reasoning: "good (decent enough) + fell (went over) + as (at the same time) = Goodfellas"
-    - number: 3
-      initials: B
-      clue: "The soldier was well courageous. Then he went and had a listen to his own chest. Heard something."
-      answer: Braveheart
-      aliases:
-        - braveheart
-      reasoning: "brave (courageous) + heart (the chest, the pumping thing) = Braveheart"
-
+  - number: 1
+    initials: D H
+    clue: Someone's gone and put colour on their hair, and it turned out well tough. Sort of crispy.
+    answer: Die Hard
+    aliases:
+    - die hard
+    reasoning: dye (hair colouring) + hard (tough, crispy) = Die Hard
+  - number: 2
+    initials: G
+    clue: These lads are decent enough, right, and then they all went over at the same time. Odd that.
+    answer: Goodfellas
+    aliases:
+    - goodfellas
+    reasoning: good (decent enough) + fell (went over) + as (at the same time) = Goodfellas
+  - number: 3
+    initials: B
+    clue: The soldier was well courageous. Then he went and had a listen to his own chest. Heard something.
+    answer: Braveheart
+    aliases:
+    - braveheart
+    reasoning: brave (courageous) + heart (the chest, the pumping thing) = Braveheart
 - id: filmbusters-013
   enabled: true
   title: Filmbusters
@@ -415,33 +403,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Back again with Filmbusters. Three more. These are films that everyone's heard of. Off you go."
-  prize: "Email in. Winner gets a set of fridge magnets and a Mix 98 compilation on CD."
+  - UK
+  - US
+  intro: Back again with Filmbusters. Three more. These are films that everyone's heard of. Off you go.
+  prize: Email in. Winner gets a set of fridge magnets and a Mix 98 compilation on CD.
   clues:
-    - number: 1
-      initials: P F
-      clue: "Oranges have been squeezed into a liquid, right, and then someone's gone and invented a story about it."
-      answer: Pulp Fiction
-      aliases:
-        - pulp fiction
-      reasoning: "pulp (the orange stuff, squeezed) + fiction (invented story) = Pulp Fiction"
-    - number: 2
-      initials: H A
-      clue: "Went back to the house, didn't they. But someone's lent them something and then cleared off. Just by themselves."
-      answer: Home Alone
-      aliases:
-        - home alone
-      reasoning: "home (back to the house) + a loan (something lent, then they cleared off) = Home Alone"
-    - number: 3
-      initials: T S
-      clue: "It's a little plaything, right, and it's somehow made it up to the third floor. Nobody knows how."
-      answer: Toy Story
-      aliases:
-        - toy story
-      reasoning: "toy (plaything) + storey (floor of a building) = Toy Story"
-
+  - number: 1
+    initials: P F
+    clue: Oranges have been squeezed into a liquid, right, and then someone's gone and invented a story about it.
+    answer: Pulp Fiction
+    aliases:
+    - pulp fiction
+    reasoning: pulp (the orange stuff, squeezed) + fiction (invented story) = Pulp Fiction
+  - number: 2
+    initials: H A
+    clue: Went back to the house, didn't they. But someone's lent them something and then cleared off. Just by themselves.
+    answer: Home Alone
+    aliases:
+    - home alone
+    reasoning: home (back to the house) + a loan (something lent, then they cleared off) = Home Alone
+  - number: 3
+    initials: T S
+    clue: It's a little plaything, right, and it's somehow made it up to the third floor. Nobody knows how.
+    answer: Toy Story
+    aliases:
+    - toy story
+    reasoning: toy (plaything) + storey (floor of a building) = Toy Story
 - id: filmbusters-014
   enabled: true
   title: Filmbusters
@@ -449,33 +436,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Filmbusters fourteen. We're still going. All films, all between 1970 and 2000. Have a go."
-  prize: "Email in. Winner gets a used cinema ticket stub and a Freddo bar, slightly melted."
+  - UK
+  - US
+  intro: Filmbusters fourteen. We're still going. All films, all between 1970 and 2000. Have a go.
+  prize: Email in. Winner gets a used cinema ticket stub and a Freddo bar, slightly melted.
   clues:
-    - number: 1
-      initials: R M
-      clue: "It's tipping it down outside and there's a bloke in it. Just stood there getting soaked."
-      answer: Rain Man
-      aliases:
-        - rain man
-      reasoning: "rain (tipping it down) + man (a bloke) = Rain Man"
-    - number: 2
-      initials: M
-      clue: "She's well tight with money. And she's also got a lot of problems. Can't help her."
-      answer: Misery
-      aliases:
-        - misery
-      reasoning: "miser (tight with money) + y = Misery"
-    - number: 3
-      initials: J
-      clue: "Mouth's wide open, that one. Belongs to someone and they're in a right state."
-      answer: Jaws
-      aliases:
-        - jaws
-      reasoning: "jaw's (open mouth, belongs to someone) = Jaws"
-
+  - number: 1
+    initials: R M
+    clue: It's tipping it down outside and there's a bloke in it. Just stood there getting soaked.
+    answer: Rain Man
+    aliases:
+    - rain man
+    reasoning: rain (tipping it down) + man (a bloke) = Rain Man
+  - number: 2
+    initials: M
+    clue: She's well tight with money. And she's also got a lot of problems. Can't help her.
+    answer: Misery
+    aliases:
+    - misery
+    reasoning: miser (tight with money) + y = Misery
+  - number: 3
+    initials: J
+    clue: Mouth's wide open, that one. Belongs to someone and they're in a right state.
+    answer: Jaws
+    aliases:
+    - jaws
+    reasoning: jaw's (open mouth, belongs to someone) = Jaws
 - id: filmbusters-015
   enabled: true
   title: Filmbusters
@@ -483,33 +469,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Filmbusters, fifteen. Nearly there. All classic films, all very famous. Email in with your answers."
-  prize: "Email in. Winner gets a Sky Movies guide from 1999 and a half-used scratch card."
+  - UK
+  - US
+  intro: Filmbusters. All classic films, all very famous. Say them out loud.
+  prize: Email in. Winner gets a Sky Movies guide from 1999 and a half-used scratch card.
   clues:
-    - number: 1
-      initials: G
-      clue: "Someone's departed, right, and they've gone and wrecked a big vehicle. Just left it there in bits."
-      answer: Ghostbusters
-      aliases:
-        - ghostbusters
-      reasoning: "ghost (departed) + bus (big vehicle) + ters = Ghostbusters"
-    - number: 2
-      initials: R
-      clue: "A police officer's been connected up to some machinery. He's running the place now."
-      answer: Robocop
-      aliases:
-        - robocop
-      reasoning: "robo (machinery, robot) + cop (police officer) = Robocop"
-    - number: 3
-      initials: B J
-      clue: "That small crawly insect thing, right, and then some kind of drink. Put them together, say it fast."
-      answer: Beetlejuice
-      aliases:
-        - beetlejuice
-      reasoning: "beetle (small crawly insect) + juice (a drink) = Beetlejuice"
-
+  - number: 1
+    initials: G
+    clue: Someone's departed, right, and they've gone and wrecked a big vehicle. Just left it there in bits.
+    answer: Ghostbusters
+    aliases:
+    - ghostbusters
+    reasoning: ghost (departed) + bus (big vehicle) + ters = Ghostbusters
+  - number: 2
+    initials: R
+    clue: A police officer's been connected up to some machinery. He's running the place now.
+    answer: Robocop
+    aliases:
+    - robocop
+    reasoning: robo (machinery, robot) + cop (police officer) = Robocop
+  - number: 3
+    initials: B J
+    clue: That small crawly insect thing, right, and then some kind of drink. Put them together, say it fast.
+    answer: Beetlejuice
+    aliases:
+    - beetlejuice
+    reasoning: beetle (small crawly insect) + juice (a drink) = Beetlejuice
 - id: filmbusters-016
   enabled: true
   title: Filmbusters
@@ -517,34 +502,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Alright, sixteen of these now. Filmbusters. All films, all proper well-known ones. Give it a go."
-  prize: "Email in. Winner gets a promotional ruler from a building society that merged with someone else."
+  - UK
+  - US
+  intro: Alright, sixteen of these now. Filmbusters. All films, all proper well-known ones. Give it a go.
+  prize: Email in. Winner gets a promotional ruler from a building society that merged with someone else.
   clues:
-    - number: 1
-      initials: T
-      clue: "The lad in charge is going to sort something out later, but he keeps delaying it. He'll do it, mind."
-      answer: Terminator
-      aliases:
-        - terminator
-        - the terminator
-      reasoning: "term in a (contained in a period) + tor / 'terminate' + or = Terminator. Turn Mick later, near enough."
-    - number: 2
-      initials: F G
-      clue: "Something's meant to rest, and then there's a bloke called Gump. That's your lot."
-      answer: Forrest Gump
-      aliases:
-        - forrest gump
-      reasoning: "for rest (meant to rest) + Gump = Forrest Gump"
-    - number: 3
-      initials: H
-      clue: "That bit of metal that bends round, right. You hang things on it. One word. Easy."
-      answer: Hook
-      aliases:
-        - hook
-      reasoning: "hook (bent metal for hanging things) = Hook"
-
+  - number: 1
+    initials: T
+    clue: The lad in charge is going to sort something out later, but he keeps delaying it. He'll do it, mind.
+    answer: Terminator
+    aliases:
+    - terminator
+    - the terminator
+    reasoning: term in a (contained in a period) + tor / 'terminate' + or = Terminator. Turn Mick later, near enough.
+  - number: 2
+    initials: F G
+    clue: Something's meant to rest, and then there's a bloke called Gump. That's your lot.
+    answer: Forrest Gump
+    aliases:
+    - forrest gump
+    reasoning: for rest (meant to rest) + Gump = Forrest Gump
+  - number: 3
+    initials: H
+    clue: That bit of metal that bends round, right. You hang things on it. One word. Easy.
+    answer: Hook
+    aliases:
+    - hook
+    reasoning: hook (bent metal for hanging things) = Hook
 - id: filmbusters-017
   enabled: true
   title: Filmbusters
@@ -552,33 +536,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Filmbusters. We keep making them and you keep sending in your answers. Three more classic films."
-  prize: "Email in. Winner gets a laminated certificate saying well done and a Penguin bar."
+  - UK
+  - US
+  intro: Filmbusters. We keep making them and you keep sending in your answers. Three more classic films.
+  prize: Email in. Winner gets a laminated certificate saying well done and a Penguin bar.
   clues:
-    - number: 1
-      initials: B I
-      clue: "Something simple, right, just the essentials. And there's a gut feeling involved. Something's not right."
-      answer: Basic Instinct
-      aliases:
-        - basic instinct
-      reasoning: "basic (simple, the essentials) + instinct (gut feeling) = Basic Instinct"
-    - number: 2
-      initials: A
-      clue: "That bloke's well slim. Not an ounce on him. Travels light. Say it out loud."
-      answer: Alien
-      aliases:
-        - alien
-      reasoning: "a lean (well slim, not an ounce on him) = Alien"
-    - number: 3
-      initials: J P
-      clue: "There's a big green space, and somehow a jury has gone and parked up near it. Don't ask."
-      answer: Jurassic Park
-      aliases:
-        - jurassic park
-      reasoning: "jury (a court jury) + ass (backside) + ic + park (green space) = Jurassic Park. Say it fast."
-
+  - number: 1
+    initials: B I
+    clue: Something simple, right, just the essentials. And there's a gut feeling involved. Something's not right.
+    answer: Basic Instinct
+    aliases:
+    - basic instinct
+    reasoning: basic (simple, the essentials) + instinct (gut feeling) = Basic Instinct
+  - number: 2
+    initials: A
+    clue: That bloke's well slim. Not an ounce on him. Travels light. Say it out loud.
+    answer: Alien
+    aliases:
+    - alien
+    reasoning: a lean (well slim, not an ounce on him) = Alien
+  - number: 3
+    initials: J P
+    clue: There's a big green space, and somehow a jury has gone and parked up near it. Don't ask.
+    answer: Jurassic Park
+    aliases:
+    - jurassic park
+    reasoning: jury (a court jury) + ass (backside) + ic + park (green space) = Jurassic Park. Say it fast.
 - id: filmbusters-018
   enabled: true
   title: Filmbusters
@@ -586,33 +569,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Here's Filmbusters eighteen. Getting towards the end now. Three more films, all massive ones."
-  prize: "Email in. Winner gets a video rental late fee receipt and a Travel Scrabble with two tiles missing."
+  - UK
+  - US
+  intro: Here's Filmbusters eighteen. Getting towards the end now. Three more films, all massive ones.
+  prize: Email in. Winner gets a video rental late fee receipt and a Travel Scrabble with two tiles missing.
   clues:
-    - number: 1
-      initials: T M
-      clue: "There's a face covering, right, and it belongs to someone specific. That's your clue."
-      answer: The Mask
-      aliases:
-        - the mask
-      reasoning: "the mask (face covering belonging to someone) = The Mask"
-    - number: 2
-      initials: G
-      clue: "The cooking fat's gone all runny because it warmed up. Left it on the hob too long."
-      answer: Grease
-      aliases:
-        - grease
-      reasoning: "grease (cooking fat gone runny) = Grease. Also sounds like Greece."
-    - number: 3
-      initials: R
-      clue: "The path up to the house is absolutely covered in stones. Not maintained at all."
-      answer: Rocky
-      aliases:
-        - rocky
-      reasoning: "rocky (covered in stones, not maintained) = Rocky"
-
+  - number: 1
+    initials: T M
+    clue: There's a face covering, right, and it belongs to someone specific. That's your clue.
+    answer: The Mask
+    aliases:
+    - the mask
+    reasoning: the mask (face covering belonging to someone) = The Mask
+  - number: 2
+    initials: G
+    clue: The cooking fat's gone all runny because it warmed up. Left it on the hob too long.
+    answer: Grease
+    aliases:
+    - grease
+    reasoning: grease (cooking fat gone runny) = Grease. Also sounds like Greece.
+  - number: 3
+    initials: R
+    clue: The path up to the house is absolutely covered in stones. Not maintained at all.
+    answer: Rocky
+    aliases:
+    - rocky
+    reasoning: rocky (covered in stones, not maintained) = Rocky
 - id: filmbusters-019
   enabled: true
   title: Filmbusters
@@ -620,33 +602,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Nearly at the end. Filmbusters nineteen. Three clues, three classic films. Shouldn't take you long."
-  prize: "Email in. Winner gets a Netscape Navigator installation disc and a biro from a hotel."
+  - UK
+  - US
+  intro: Nearly at the end. Filmbusters nineteen. Three clues, three classic films. Shouldn't take you long.
+  prize: Email in. Winner gets a Netscape Navigator installation disc and a biro from a hotel.
   clues:
-    - number: 1
-      initials: D H
-      clue: "Someone's gone and tinted their hair, and it's set rock solid. Can't get a comb through it."
-      answer: Die Hard
-      aliases:
-        - die hard
-      reasoning: "dye (tinted their hair) + hard (rock solid, can't comb through) = Die Hard"
-    - number: 2
-      initials: S
-      clue: "The cat's been on the rug and now everyone's moving quickly to deal with it. Urgently."
-      answer: Speed
-      aliases:
-        - speed
-      reasoning: "s + peed (the cat's been on the rug) = Speed"
-    - number: 3
-      initials: F
-      clue: "You've sent something a very long distance, and now you're telling it to move along. Off it goes."
-      answer: Fargo
-      aliases:
-        - fargo
-      reasoning: "far (very long distance) + go (move along) = Fargo"
-
+  - number: 1
+    initials: D H
+    clue: Someone's gone and tinted their hair, and it's set rock solid. Can't get a comb through it.
+    answer: Die Hard
+    aliases:
+    - die hard
+    reasoning: dye (tinted their hair) + hard (rock solid, can't comb through) = Die Hard
+  - number: 2
+    initials: S
+    clue: The cat's been on the rug and now everyone's moving quickly to deal with it. Urgently.
+    answer: Speed
+    aliases:
+    - speed
+    reasoning: s + peed (the cat's been on the rug) = Speed
+  - number: 3
+    initials: F
+    clue: You've sent something a very long distance, and now you're telling it to move along. Off it goes.
+    answer: Fargo
+    aliases:
+    - fargo
+    reasoning: far (very long distance) + go (move along) = Fargo
 - id: filmbusters-020
   enabled: true
   title: Filmbusters
@@ -654,29 +635,29 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Last one. Filmbusters twenty. Final set. Three films. See if you can get all three. Good luck."
-  prize: "Email in. Winner gets a commemorative plate from a high street bank and a box of Value tea bags."
+  - UK
+  - US
+  intro: Filmbusters. Three films hiding in the phonetic clues. See if you can get all three.
+  prize: Email in. Winner gets a commemorative plate from a high street bank and a box of Value tea bags.
   clues:
-    - number: 1
-      initials: B
-      clue: "The lad was really courageous out there, and then his heart gave a little thump. Bit emotional."
-      answer: Braveheart
-      aliases:
-        - braveheart
-      reasoning: "brave (really courageous) + heart (the thumping organ) = Braveheart"
-    - number: 2
-      initials: G
-      clue: "There's a spirit, like a see-through figure, and it's smashed up a bus. Caused carnage."
-      answer: Ghostbusters
-      aliases:
-        - ghostbusters
-      reasoning: "ghost (see-through spirit) + bus (vehicle, smashed up) + ters = Ghostbusters"
-    - number: 3
-      initials: P F
-      clue: "The stuff left over from squeezing fruit, right. And it's all made up. None of it's true."
-      answer: Pulp Fiction
-      aliases:
-        - pulp fiction
-      reasoning: "pulp (leftover from squeezing fruit) + fiction (made up, not true) = Pulp Fiction"
+  - number: 1
+    initials: B
+    clue: The lad was really courageous out there, and then his heart gave a little thump. Bit emotional.
+    answer: Braveheart
+    aliases:
+    - braveheart
+    reasoning: brave (really courageous) + heart (the thumping organ) = Braveheart
+  - number: 2
+    initials: G
+    clue: There's a spirit, like a see-through figure, and it's smashed up a bus. Caused carnage.
+    answer: Ghostbusters
+    aliases:
+    - ghostbusters
+    reasoning: ghost (see-through spirit) + bus (vehicle, smashed up) + ters = Ghostbusters
+  - number: 3
+    initials: P F
+    clue: The stuff left over from squeezing fruit, right. And it's all made up. None of it's true.
+    answer: Pulp Fiction
+    aliases:
+    - pulp fiction
+    reasoning: pulp (leftover from squeezing fruit) + fiction (made up, not true) = Pulp Fiction

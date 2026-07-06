@@ -5,35 +5,34 @@
   difficulty: hard
   office_safe: true
   region_relevance:
-    - Global
-  intro: "Right, Wonderbusters. Phonetic clues about famous landmarks and world wonders. Say them out loud. The sound is the thing, not how it's written."
-  prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
+  - Global
+  intro: Right, Wonderbusters. Phonetic clues about famous landmarks and world wonders. Say them out loud. The sound is the thing, not how it's written.
+  prize: Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station.
   clues:
-    - number: 1
-      initials: G W O C
-      clue: "A large bloke has knocked on a door and shouted at a very little bloke, like a wall between them made of importance. Very Chinese energy about it. Old wall. Long wall."
-      answer: Great Wall of China
-      aliases:
-        - great wall of china
-        - the great wall
-      reasoning: "great (a large, impressive bloke) + wall (a barrier between people, a wall you shout over) + of (connector) + China (Chinese energy, the country) = Great Wall of China"
-    - number: 2
-      initials: M P
-      clue: "A small man has been to a lot of trouble to get to the top of something and he's now doing a little portrait. Very high up. Very small man. Peru, somehow."
-      answer: Machu Picchu
-      aliases:
-        - machu picchu
-        - machu pichu
-      reasoning: "machu (sounds like 'match-oo', a small amount, or 'much-oo') + picchu (sounds like 'pick-choo', as in to pick a choo-choo, or Pikachu, or to pick and choose) = Machu Picchu"
-    - number: 3
-      initials: C
-      clue: "Someone in Rome has got a building shaped like a big ring and they're asking everyone to come in. Very enthusiastically. The word 'come' keeps cropping up. And 'see um'. Odd tour guide."
-      answer: Colosseum
-      aliases:
-        - colosseum
-        - coliseum
-      reasoning: "col (sounds like 'call', to call out) + os (sounds like 'oz', or 'oss') + se (sounds like 'see') + um (sounds like 'um', hesitation) = Col-os-se-um = Colosseum"
-
+  - number: 1
+    initials: G W O C
+    clue: A large bloke has knocked on a door and shouted at a very little bloke, like a wall between them made of importance. Very Chinese energy about it. Old wall. Long wall.
+    answer: Great Wall of China
+    aliases:
+    - great wall of china
+    - the great wall
+    reasoning: great (a large, impressive bloke) + wall (a barrier between people, a wall you shout over) + of (connector) + China (Chinese energy, the country) = Great Wall of China
+  - number: 2
+    initials: M P
+    clue: A small man has been to a lot of trouble to get to the top of something and he's now doing a little portrait. Very high up. Very small man. Peru, somehow.
+    answer: Machu Picchu
+    aliases:
+    - machu picchu
+    - machu pichu
+    reasoning: machu (sounds like 'match-oo', a small amount, or 'much-oo') + picchu (sounds like 'pick-choo', as in to pick a choo-choo, or Pikachu, or to pick and choose) = Machu Picchu
+  - number: 3
+    initials: C
+    clue: Someone in Rome has got a building shaped like a big ring and they're asking everyone to come in. Very enthusiastically. The word 'come' keeps cropping up. And 'see um'. Odd tour guide.
+    answer: Colosseum
+    aliases:
+    - colosseum
+    - coliseum
+    reasoning: col (sounds like 'call', to call out) + os (sounds like 'oz', or 'oss') + se (sounds like 'see') + um (sounds like 'um', hesitation) = Col-os-se-um = Colosseum
 - id: wonderbusters-002
   enabled: true
   title: Wonderbusters
@@ -41,35 +40,34 @@
   difficulty: hard
   office_safe: true
   region_relevance:
-    - Global
-  intro: "Wonderbusters two. More famous landmarks hidden in phonetic clues. Say them out loud and have a think."
-  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists."
+  - Global
+  intro: Wonderbusters two. More famous landmarks hidden in phonetic clues. Say them out loud and have a think.
+  prize: Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists.
   clues:
-    - number: 1
-      initials: C I
-      clue: "A woman called Chichi has been sizing people up at the entrance to somewhere in Mexico. Very intense. She keeps saying 'it-za' like she's about to sneeze."
-      answer: Chichen Itza
-      aliases:
-        - chichen itza
-        - chichén itzá
-      reasoning: "chichen (sounds like 'chichi-en', a woman called Chichi going in) + itza (sounds like 'it-za', as in 'it's a' with a sneeze quality) = Chichen Itza"
-    - number: 2
-      initials: T M
-      clue: "A fella called Taj has found himself on a very big hill and he's done something wrong. His ma is not best pleased. Very marble. Very India."
-      answer: Taj Mahal
-      aliases:
-        - taj mahal
-        - the taj mahal
-      reasoning: "taj (sounds like 'taj', a crown or a bloke's name) + ma (sounds like 'ma', mother) + hal (sounds like 'hal', short for Harold, or just a bloke) = Taj Ma-hal = Taj Mahal"
-    - number: 3
-      initials: C T R
-      clue: "A man with his arms wide open has annoyed a Christian fella called Chris. The whole thing has turned into a scene. Very dramatic. Very Brazilian."
-      answer: Christ the Redeemer
-      aliases:
-        - christ the redeemer
-        - cristo redentor
-      reasoning: "christ (sounds like 'Chris-t', a Christian bloke called Chris) + the (the) + redeemer (sounds like 're-deem-er', someone doing the redeeming, or a person called Deem) = Christ the Redeemer"
-
+  - number: 1
+    initials: C I
+    clue: A woman called Chichi has been sizing people up at the entrance to somewhere in Mexico. Very intense. She keeps saying 'it-za' like she's about to sneeze.
+    answer: Chichen Itza
+    aliases:
+    - chichen itza
+    - chichén itzá
+    reasoning: chichen (sounds like 'chichi-en', a woman called Chichi going in) + itza (sounds like 'it-za', as in 'it's a' with a sneeze quality) = Chichen Itza
+  - number: 2
+    initials: T M
+    clue: A fella called Taj has found himself on a very big hill and he's done something wrong. His ma is not best pleased. Very marble. Very India.
+    answer: Taj Mahal
+    aliases:
+    - taj mahal
+    - the taj mahal
+    reasoning: taj (sounds like 'taj', a crown or a bloke's name) + ma (sounds like 'ma', mother) + hal (sounds like 'hal', short for Harold, or just a bloke) = Taj Ma-hal = Taj Mahal
+  - number: 3
+    initials: C T R
+    clue: A man with his arms wide open has annoyed a Christian fella called Chris. The whole thing has turned into a scene. Very dramatic. Very Brazilian.
+    answer: Christ the Redeemer
+    aliases:
+    - christ the redeemer
+    - cristo redentor
+    reasoning: christ (sounds like 'Chris-t', a Christian bloke called Chris) + the (the) + redeemer (sounds like 're-deem-er', someone doing the redeeming, or a person called Deem) = Christ the Redeemer
 - id: wonderbusters-003
   enabled: true
   title: Wonderbusters
@@ -77,29 +75,29 @@
   difficulty: hard
   office_safe: true
   region_relevance:
-    - Global
-  intro: "Three in. Wonderbusters three. Last set. All famous landmarks, all phonetic. Have a go."
-  prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
+  - Global
+  intro: Wonderbusters. All famous landmarks, all phonetic. Have a go.
+  prize: Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette.
   clues:
-    - number: 1
-      initials: P
-      clue: "A pet called Peter has gone to a shop (a very rocky one, carved into a cliff face) and come back with something. In Jordan. He went through a narrow gap to get there. Didn't explain why."
-      answer: Petra
-      aliases:
-        - petra
-      reasoning: "pet (a domestic animal, or someone's pet) + ra (sounds like 'ra', Egyptian sun god, or just a sound) = Pet-ra = Petra"
-    - number: 2
-      initials: A W
-      clue: "A bloke has gone a bit quiet (not quite an angry quiet, more of a thoughtful quiet) and he's now sitting in a very large temple in Cambodia. Something's caught his attention."
-      answer: Angkor Wat
-      aliases:
-        - angkor wat
-        - angkor vat
-      reasoning: "angkor (sounds like 'anchor', something that keeps you still and quiet) + wat (sounds like 'what', an expression of mild confusion) = Angkor Wat"
-    - number: 3
-      initials: S
-      clue: "A group of blokes have rolled up some very heavy rocks in England, right out in a field, and then arranged them in a circle. Nobody knows why. The rocks are not saying."
-      answer: Stonehenge
-      aliases:
-        - stonehenge
-      reasoning: "stone (a rock, something heavy and silent) + henge (sounds like 'henge', as in to hinge, or to hang something) = Stone-henge = Stonehenge"
+  - number: 1
+    initials: P
+    clue: A pet called Peter has gone to a shop (a very rocky one, carved into a cliff face) and come back with something. In Jordan. He went through a narrow gap to get there. Didn't explain why.
+    answer: Petra
+    aliases:
+    - petra
+    reasoning: pet (a domestic animal, or someone's pet) + ra (sounds like 'ra', Egyptian sun god, or just a sound) = Pet-ra = Petra
+  - number: 2
+    initials: A W
+    clue: A bloke has gone a bit quiet (not quite an angry quiet, more of a thoughtful quiet) and he's now sitting in a very large temple in Cambodia. Something's caught his attention.
+    answer: Angkor Wat
+    aliases:
+    - angkor wat
+    - angkor vat
+    reasoning: angkor (sounds like 'anchor', something that keeps you still and quiet) + wat (sounds like 'what', an expression of mild confusion) = Angkor Wat
+  - number: 3
+    initials: S
+    clue: A group of blokes have rolled up some very heavy rocks in England, right out in a field, and then arranged them in a circle. Nobody knows why. The rocks are not saying.
+    answer: Stonehenge
+    aliases:
+    - stonehenge
+    reasoning: stone (a rock, something heavy and silent) + henge (sounds like 'henge', as in to hinge, or to hang something) = Stone-henge = Stonehenge

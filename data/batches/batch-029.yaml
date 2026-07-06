@@ -5,33 +5,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Right, Historybusters. Rockbusters but it's all famous people from history."
-  prize: "Email in. Winner gets a VHS copy of Gladiator and a Roman-themed pencil case."
+  - UK
+  - US
+  intro: Right, Historybusters. Rockbusters but it's all famous people from history.
+  prize: Email in. Winner gets a VHS copy of Gladiator and a Roman-themed pencil case.
   clues:
-    - number: 1
-      initials: J C
-      clue: "That bloke said July belongs to him personally. Personally. And then he walked into the senate."
-      answer: Julius Caesar
-      aliases:
-        - julius caesar
-      reasoning: "July + us = Julius, seize + her = Caesar. July-us Seize-her."
-    - number: 2
-      initials: N B
-      clue: "Right, someone had a little kip on top of a skeleton. Bit morbid. That's all."
-      answer: Napoleon Bonaparte
-      aliases:
-        - napoleon bonaparte
-      reasoning: "nap + on = Napoleon, bone + apart = Bonaparte. Nap-on-bone-apart."
-    - number: 3
-      initials: A T G
-      clue: "That lad Alex is holding a conjunction in one hand and a metal cooking thing in the other. Don't ask."
-      answer: Alexander the Great
-      aliases:
-        - alexander the great
-      reasoning: "Alex + and + er = Alexander, the + grate = the Great. Alex-and-er-the-Grate."
-
+  - number: 1
+    initials: J C
+    clue: That bloke said July belongs to him personally. Personally. And then he walked into the senate.
+    answer: Julius Caesar
+    aliases:
+    - julius caesar
+    reasoning: July + us = Julius, seize + her = Caesar. July-us Seize-her.
+  - number: 2
+    initials: N B
+    clue: Right, someone had a little kip on top of a skeleton. Bit morbid. That's all.
+    answer: Napoleon Bonaparte
+    aliases:
+    - napoleon bonaparte
+    reasoning: nap + on = Napoleon, bone + apart = Bonaparte. Nap-on-bone-apart.
+  - number: 3
+    initials: A T G
+    clue: That lad Alex is holding a conjunction in one hand and a metal cooking thing in the other. Don't ask.
+    answer: Alexander the Great
+    aliases:
+    - alexander the great
+    reasoning: Alex + and + er = Alexander, the + grate = the Great. Alex-and-er-the-Grate.
 - id: historybusters-002
   enabled: true
   title: Historybusters
@@ -39,33 +38,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Historybusters. Three clues, three famous faces from the past. Say them out loud."
-  prize: "Email in. Winner gets a Horrible Histories book and a Blockbuster loyalty card."
+  - UK
+  - US
+  intro: Historybusters. Three clues, three famous faces from the past. Say them out loud.
+  prize: Email in. Winner gets a Horrible Histories book and a Blockbuster loyalty card.
   clues:
-    - number: 1
-      initials: C
-      clue: "She's unlocked the door with a tiny decorative object. Little gold thing. Job done."
-      answer: Cleopatra
-      aliases:
-        - cleopatra
-      reasoning: "clee + oh + pat + ra = Cleopatra. Key-oh-pat-ra."
-    - number: 2
-      initials: C C
-      clue: "That crispy baked snack is making an offer to somebody. Take it or leave it, the biscuit says."
-      answer: Christopher Columbus
-      aliases:
-        - christopher columbus
-      reasoning: "crisp + offer = Christopher, column + bus = Columbus. Crisp-offer-column-bus."
-    - number: 3
-      initials: G G
-      clue: "Right, a young woman who isn't feeling well has done something twice. Bit repetitive."
-      answer: Galileo Galilei
-      aliases:
-        - galileo galilei
-      reasoning: "gal + ill + ee + oh repeated = Galileo Galilei. Gal-ill-ee-oh gal-ill-lay."
-
+  - number: 1
+    initials: C
+    clue: She's unlocked the door with a tiny decorative object. Little gold thing. Job done.
+    answer: Cleopatra
+    aliases:
+    - cleopatra
+    reasoning: clee + oh + pat + ra = Cleopatra. Key-oh-pat-ra.
+  - number: 2
+    initials: C C
+    clue: That crispy baked snack is making an offer to somebody. Take it or leave it, the biscuit says.
+    answer: Christopher Columbus
+    aliases:
+    - christopher columbus
+    reasoning: crisp + offer = Christopher, column + bus = Columbus. Crisp-offer-column-bus.
+  - number: 3
+    initials: G G
+    clue: Right, a young woman who isn't feeling well has done something twice. Bit repetitive.
+    answer: Galileo Galilei
+    aliases:
+    - galileo galilei
+    reasoning: gal + ill + ee + oh repeated = Galileo Galilei. Gal-ill-ee-oh gal-ill-lay.
 - id: historybusters-003
   enabled: true
   title: Historybusters
@@ -73,33 +71,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Three more from the history books. Could be ancient, could be recent. Good luck."
-  prize: "Email in. Winner gets an AOL trial disc and a fridge magnet shaped like Big Ben."
+  - UK
+  - US
+  intro: Three more from the history books. Could be ancient, could be recent. Good luck.
+  prize: Email in. Winner gets an AOL trial disc and a fridge magnet shaped like Big Ben.
   clues:
-    - number: 1
-      initials: I N
-      clue: "He's got a bag, right, and he's chucking out everything in it. Brand new container. Empty."
-      answer: Isaac Newton
-      aliases:
-        - isaac newton
-      reasoning: "I + sack = Isaac, new + ton = Newton. I-sack-new-ton."
-    - number: 2
-      initials: C D
-      clue: "There's less of him than before, and somehow he came out on top. Sort of works."
-      answer: Charles Darwin
-      aliases:
-        - charles darwin
-      reasoning: "char + less = Charles, dark + win = Darwin. Char-less-dark-win."
-    - number: 3
-      initials: A E
-      clue: "That big pub at the end of the road, everything's there except the letters. It's just the eye and the building."
-      answer: Albert Einstein
-      aliases:
-        - albert einstein
-      reasoning: "all + bert = Albert, eye + n + stein = Einstein. All-bert-eye-n-stein."
-
+  - number: 1
+    initials: I N
+    clue: He's got a bag, right, and he's chucking out everything in it. Brand new container. Empty.
+    answer: Isaac Newton
+    aliases:
+    - isaac newton
+    reasoning: I + sack = Isaac, new + ton = Newton. I-sack-new-ton.
+  - number: 2
+    initials: C D
+    clue: There's less of him than before, and somehow he came out on top. Sort of works.
+    answer: Charles Darwin
+    aliases:
+    - charles darwin
+    reasoning: char + less = Charles, dark + win = Darwin. Char-less-dark-win.
+  - number: 3
+    initials: A E
+    clue: That big pub at the end of the road, everything's there except the letters. It's just the eye and the building.
+    answer: Albert Einstein
+    aliases:
+    - albert einstein
+    reasoning: all + bert = Albert, eye + n + stein = Einstein. All-bert-eye-n-stein.
 - id: historybusters-004
   enabled: true
   title: Historybusters
@@ -107,34 +104,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Alright, Historybusters. Phonetic clues about folk who made the history books."
-  prize: "Email in. Winner gets a Now 47 CD and a mini Churchill nodding dog."
+  - UK
+  - US
+  intro: Alright, Historybusters. Phonetic clues about folk who made the history books.
+  prize: Email in. Winner gets a Now 47 CD and a mini Churchill nodding dog.
   clues:
-    - number: 1
-      initials: W C
-      clue: "He's beaten the competition and then gone off to a religious building on top of a hill. Right."
-      answer: Winston Churchill
-      aliases:
-        - winston churchill
-      reasoning: "wins + ton = Winston, church + hill = Churchill. Wins-ton-Church-hill."
-    - number: 2
-      initials: A H
-      clue: "Take something away from it and then someone's gone and struck the leftovers. Bit confusing."
-      answer: Adolf Hitler
-      aliases:
-        - adolf hitler
-      reasoning: "add + off = Adolf, hit + ler = Hitler. Add-off-hit-ler."
-    - number: 3
-      initials: J S
-      clue: "That tall stick thing is just standing there doing nothing in a stable. Horse is ignoring it."
-      answer: Joseph Stalin
-      aliases:
-        - joseph stalin
-        - joseph stalin
-      reasoning: "Joe + sef = Joseph, stall + in = Stalin. Joe-sef-stall-in."
-
+  - number: 1
+    initials: W C
+    clue: He's beaten the competition and then gone off to a religious building on top of a hill. Right.
+    answer: Winston Churchill
+    aliases:
+    - winston churchill
+    reasoning: wins + ton = Winston, church + hill = Churchill. Wins-ton-Church-hill.
+  - number: 2
+    initials: A H
+    clue: Take something away from it and then someone's gone and struck the leftovers. Bit confusing.
+    answer: Adolf Hitler
+    aliases:
+    - adolf hitler
+    reasoning: add + off = Adolf, hit + ler = Hitler. Add-off-hit-ler.
+  - number: 3
+    initials: J S
+    clue: That tall stick thing is just standing there doing nothing in a stable. Horse is ignoring it.
+    answer: Joseph Stalin
+    aliases:
+    - joseph stalin
+    - joseph stalin
+    reasoning: Joe + sef = Joseph, stall + in = Stalin. Joe-sef-stall-in.
 - id: historybusters-005
   enabled: true
   title: Historybusters
@@ -142,33 +138,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Right, more Historybusters. These ones go back a fair bit. Say each one out loud, that's key."
-  prize: "Email in. Winner gets a printed map of the Roman Empire, laminated."
+  - UK
+  - US
+  intro: Right, more Historybusters. These ones go back a fair bit. Say each one out loud, that's key.
+  prize: Email in. Winner gets a printed map of the Roman Empire, laminated.
   clues:
-    - number: 1
-      initials: G K
-      clue: "Someone's offered him a glass of mother's ruin but spelt it wrong on the label. He's not fussed."
-      answer: Genghis Khan
-      aliases:
-        - genghis khan
-      reasoning: "gen + giss = Genghis, con = Khan. Gen-giss-con."
-    - number: 2
-      initials: A T H
-      clue: "She's not quite arrived at the spinning thing. She's there, just not fully there. And a hundred's involved somehow."
-      answer: Attila the Hun
-      aliases:
-        - attila the hun
-      reasoning: "at + till + a = Attila, the + hun (hundred) = the Hun. At-till-a-the-hun."
-    - number: 3
-      initials: R T L
-      clue: "He's minted, right, and then there's a big cat and a vital organ. All three together. Medieval."
-      answer: Richard the Lionheart
-      aliases:
-        - richard the lionheart
-      reasoning: "rich + ard = Richard, the + lion + heart = the Lionheart. Rich-ard-the-lion-heart."
-
+  - number: 1
+    initials: G K
+    clue: Someone's offered him a glass of mother's ruin but spelt it wrong on the label. He's not fussed.
+    answer: Genghis Khan
+    aliases:
+    - genghis khan
+    reasoning: gen + giss = Genghis, con = Khan. Gen-giss-con.
+  - number: 2
+    initials: A T H
+    clue: She's not quite arrived at the spinning thing. She's there, just not fully there. And a hundred's involved somehow.
+    answer: Attila the Hun
+    aliases:
+    - attila the hun
+    reasoning: at + till + a = Attila, the + hun (hundred) = the Hun. At-till-a-the-hun.
+  - number: 3
+    initials: R T L
+    clue: He's minted, right, and then there's a big cat and a vital organ. All three together. Medieval.
+    answer: Richard the Lionheart
+    aliases:
+    - richard the lionheart
+    reasoning: rich + ard = Richard, the + lion + heart = the Lionheart. Rich-ard-the-lion-heart.
 - id: historybusters-006
   enabled: true
   title: Historybusters
@@ -176,35 +171,34 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Historybusters. British edition this one, mostly. Should be right up your street."
-  prize: "Email in. Winner gets a Cadbury's Roses tin and a 1998 wall calendar."
+  - UK
+  - US
+  intro: Historybusters. British edition this one, mostly. Should be right up your street.
+  prize: Email in. Winner gets a Cadbury's Roses tin and a 1998 wall calendar.
   clues:
-    - number: 1
-      initials: H
-      clue: "That farmyard bird keeps saying the number eight out loud. Every single time. The other animals are sick of it."
-      answer: Henry VIII
-      aliases:
-        - henry viii
-        - henry the eighth
-      reasoning: "hen + ree = Henry, VIII = eight. Hen-ree-eight."
-    - number: 2
-      initials: E I
-      clue: "The snake-like thing is a bit drunk, and then there's a single unit just standing there at the end. Alright?"
-      answer: Elizabeth I
-      aliases:
-        - elizabeth i
-        - elizabeth the first
-      reasoning: "ee + liz + a + beth = Elizabeth, I = the First. Ee-liz-a-beth-one."
-    - number: 3
-      initials: M Q O S
-      clue: "She got wed, right, then a monarch in a line, and then what those people up north wear on their legs. Near enough."
-      answer: Mary Queen of Scots
-      aliases:
-        - mary queen of scots
-      reasoning: "marry = Mary, queen = Queen, of + Scots (the tartan trouser people) = of Scots. Marry-Queen-of-Scots."
-
+  - number: 1
+    initials: H
+    clue: That farmyard bird keeps saying the number eight out loud. Every single time. The other animals are sick of it.
+    answer: Henry VIII
+    aliases:
+    - henry viii
+    - henry the eighth
+    reasoning: hen + ree = Henry, VIII = eight. Hen-ree-eight.
+  - number: 2
+    initials: E I
+    clue: The snake-like thing is a bit drunk, and then there's a single unit just standing there at the end. Alright?
+    answer: Elizabeth I
+    aliases:
+    - elizabeth i
+    - elizabeth the first
+    reasoning: ee + liz + a + beth = Elizabeth, I = the First. Ee-liz-a-beth-one.
+  - number: 3
+    initials: M Q O S
+    clue: She got wed, right, then a monarch in a line, and then what those people up north wear on their legs. Near enough.
+    answer: Mary Queen of Scots
+    aliases:
+    - mary queen of scots
+    reasoning: marry = Mary, queen = Queen, of + Scots (the tartan trouser people) = of Scots. Marry-Queen-of-Scots.
 - id: historybusters-007
   enabled: true
   title: Historybusters
@@ -212,33 +206,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Easy one to start, gets harder. Or might get easier. Depends how you look at it."
-  prize: "Email in. Winner gets a Tamagotchi that's probably dead and a tin of Celebrations."
+  - UK
+  - US
+  intro: Easy one to start, gets harder. Or might get easier. Depends how you look at it.
+  prize: Email in. Winner gets a Tamagotchi that's probably dead and a tin of Celebrations.
   clues:
-    - number: 1
-      initials: O C
-      clue: "There's a small piece of that green fruit in a shaft that goes down really deep. Has a bucket."
-      answer: Oliver Cromwell
-      aliases:
-        - oliver cromwell
-      reasoning: "olive + er = Oliver, crom + well = Cromwell. Olive-er-crom-well."
-    - number: 2
-      initials: W T C
-      clue: "There's a bloke called Will doing something, and then an expert has arrived to deal with a hard round object. That's all."
-      answer: William the Conqueror
-      aliases:
-        - william the conqueror
-      reasoning: "will + I + am = William, the + conker + er = the Conqueror. Will-I-am-the-conker-er."
-    - number: 3
-      initials: J C
-      clue: "It belongs to July, apparently, and then someone's grabbed something off someone else. Done it twice."
-      answer: Julius Caesar
-      aliases:
-        - julius caesar
-      reasoning: "July + us = Julius, seize + her = Caesar. July-us-seize-her."
-
+  - number: 1
+    initials: O C
+    clue: There's a small piece of that green fruit in a shaft that goes down really deep. Has a bucket.
+    answer: Oliver Cromwell
+    aliases:
+    - oliver cromwell
+    reasoning: olive + er = Oliver, crom + well = Cromwell. Olive-er-crom-well.
+  - number: 2
+    initials: W T C
+    clue: There's a bloke called Will doing something, and then an expert has arrived to deal with a hard round object. That's all.
+    answer: William the Conqueror
+    aliases:
+    - william the conqueror
+    reasoning: will + I + am = William, the + conker + er = the Conqueror. Will-I-am-the-conker-er.
+  - number: 3
+    initials: J C
+    clue: It belongs to July, apparently, and then someone's grabbed something off someone else. Done it twice.
+    answer: Julius Caesar
+    aliases:
+    - julius caesar
+    reasoning: July + us = Julius, seize + her = Caesar. July-us-seize-her.
 - id: historybusters-008
   enabled: true
   title: Historybusters
@@ -246,33 +239,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Rockbusters, history style. You know the drill. Say the clue out loud and something famous should pop into your head."
-  prize: "Email in. Winner gets a DVD box set of Blackadder and a pen that doesn't work."
+  - UK
+  - US
+  intro: Rockbusters, history style. You know the drill. Say the clue out loud and something famous should pop into your head.
+  prize: Email in. Winner gets a DVD box set of Blackadder and a pen that doesn't work.
   clues:
-    - number: 1
-      initials: A T G
-      clue: "That bloke Alex has joined things together before going off to a metal grilling device. Classic."
-      answer: Alexander the Great
-      aliases:
-        - alexander the great
-      reasoning: "Alex + and + er = Alexander, the + grate = the Great. Alex-and-er-the-Grate."
-    - number: 2
-      initials: C
-      clue: "The tap's been opened, right, and then someone's given a friendly pat to a young animal. Quickly now."
-      answer: Cleopatra
-      aliases:
-        - cleopatra
-      reasoning: "clee (key) + oh + pat + ra = Cleopatra. Clee-oh-pat-ra."
-    - number: 3
-      initials: I N
-      clue: "He's dismissed someone, then presented them with a shiny untouched metal container. Just like that."
-      answer: Isaac Newton
-      aliases:
-        - isaac newton
-      reasoning: "I + sack = Isaac, new + ton = Newton. I-sack-new-ton."
-
+  - number: 1
+    initials: A T G
+    clue: That bloke Alex has joined things together before going off to a metal grilling device. Classic.
+    answer: Alexander the Great
+    aliases:
+    - alexander the great
+    reasoning: Alex + and + er = Alexander, the + grate = the Great. Alex-and-er-the-Grate.
+  - number: 2
+    initials: C
+    clue: The tap's been opened, right, and then someone's given a friendly pat to a young animal. Quickly now.
+    answer: Cleopatra
+    aliases:
+    - cleopatra
+    reasoning: clee (key) + oh + pat + ra = Cleopatra. Clee-oh-pat-ra.
+  - number: 3
+    initials: I N
+    clue: He's dismissed someone, then presented them with a shiny untouched metal container. Just like that.
+    answer: Isaac Newton
+    aliases:
+    - isaac newton
+    reasoning: I + sack = Isaac, new + ton = Newton. I-sack-new-ton.
 - id: historybusters-009
   enabled: true
   title: Historybusters
@@ -280,33 +272,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Historybusters, round nine. These are the ones that shaped the world, apparently. See what you can do."
-  prize: "Email in. Winner gets a set of Tudor colouring pencils and a mini magnetic whiteboard."
+  - UK
+  - US
+  intro: Historybusters, round nine. These are the ones that shaped the world, apparently. See what you can do.
+  prize: Email in. Winner gets a set of Tudor colouring pencils and a mini magnetic whiteboard.
   clues:
-    - number: 1
-      initials: N B
-      clue: "He had a rest on top of some remains. Could've been anywhere. Just had a little lie down on the bones."
-      answer: Napoleon Bonaparte
-      aliases:
-        - napoleon bonaparte
-      reasoning: "nap + on = Napoleon, bone + apart = Bonaparte. Nap-on-bone-apart."
-    - number: 2
-      initials: C D
-      clue: "There's less of the bloke, but somehow he still managed a victory. Took a while though."
-      answer: Charles Darwin
-      aliases:
-        - charles darwin
-      reasoning: "char + less = Charles, dark + win = Darwin. Char-less-dar-win."
-    - number: 3
-      initials: G G
-      clue: "The lass is poorly so she repeated herself. Twice. Said the same thing twice. That's just how it came out."
-      answer: Galileo Galilei
-      aliases:
-        - galileo galilei
-      reasoning: "gal + ill + ee + oh = Galileo, gal + ill + ay = Galilei. Gal-ill-ee-oh, Gal-ill-ay."
-
+  - number: 1
+    initials: N B
+    clue: He had a rest on top of some remains. Could've been anywhere. Just had a little lie down on the bones.
+    answer: Napoleon Bonaparte
+    aliases:
+    - napoleon bonaparte
+    reasoning: nap + on = Napoleon, bone + apart = Bonaparte. Nap-on-bone-apart.
+  - number: 2
+    initials: C D
+    clue: There's less of the bloke, but somehow he still managed a victory. Took a while though.
+    answer: Charles Darwin
+    aliases:
+    - charles darwin
+    reasoning: char + less = Charles, dark + win = Darwin. Char-less-dar-win.
+  - number: 3
+    initials: G G
+    clue: The lass is poorly so she repeated herself. Twice. Said the same thing twice. That's just how it came out.
+    answer: Galileo Galilei
+    aliases:
+    - galileo galilei
+    reasoning: gal + ill + ee + oh = Galileo, gal + ill + ay = Galilei. Gal-ill-ee-oh, Gal-ill-ay.
 - id: historybusters-010
   enabled: true
   title: Historybusters
@@ -314,34 +305,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Ten sets in. Right, three more for you. History ones. You should know these."
-  prize: "Email in. Winner gets a tea towel with all the monarchs on it and some Rich Tea biscuits."
+  - UK
+  - US
+  intro: Ten sets in. Right, three more for you. History ones. You should know these.
+  prize: Email in. Winner gets a tea towel with all the monarchs on it and some Rich Tea biscuits.
   clues:
-    - number: 1
-      initials: W C
-      clue: "Someone took the trophy and legged it up a slope with a holy building at the top. Strong finish."
-      answer: Winston Churchill
-      aliases:
-        - winston churchill
-      reasoning: "wins + ton = Winston, church + hill = Churchill. Wins-ton-Church-hill."
-    - number: 2
-      initials: R T L
-      clue: "Loaded bloke, a big cat, and an organ that keeps you alive. All in the name. Medieval sort."
-      answer: Richard the Lionheart
-      aliases:
-        - richard the lionheart
-      reasoning: "rich + ard = Richard, the + lion + heart = the Lionheart. Rich-ard-the-lion-heart."
-    - number: 3
-      initials: H
-      clue: "The chicken kept squawking out the Roman numeral for eight. Over and over. Didn't stop."
-      answer: Henry VIII
-      aliases:
-        - henry viii
-        - henry the eighth
-      reasoning: "hen + ree = Henry, VIII = eight. Hen-ree-eight."
-
+  - number: 1
+    initials: W C
+    clue: Someone took the trophy and legged it up a slope with a holy building at the top. Strong finish.
+    answer: Winston Churchill
+    aliases:
+    - winston churchill
+    reasoning: wins + ton = Winston, church + hill = Churchill. Wins-ton-Church-hill.
+  - number: 2
+    initials: R T L
+    clue: Loaded bloke, a big cat, and an organ that keeps you alive. All in the name. Medieval sort.
+    answer: Richard the Lionheart
+    aliases:
+    - richard the lionheart
+    reasoning: rich + ard = Richard, the + lion + heart = the Lionheart. Rich-ard-the-lion-heart.
+  - number: 3
+    initials: H
+    clue: The chicken kept squawking out the Roman numeral for eight. Over and over. Didn't stop.
+    answer: Henry VIII
+    aliases:
+    - henry viii
+    - henry the eighth
+    reasoning: hen + ree = Henry, VIII = eight. Hen-ree-eight.
 - id: historybusters-011
   enabled: true
   title: Historybusters
@@ -349,33 +339,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Alright. Bit of ancient history for you first, then we move forward. Off you go."
-  prize: "Email in. Winner gets a copy of Who Wants to Be a Millionaire on PC and a half-used gift card."
+  - UK
+  - US
+  intro: Alright. Bit of ancient history for you first, then we move forward. Off you go.
+  prize: Email in. Winner gets a copy of Who Wants to Be a Millionaire on PC and a half-used gift card.
   clues:
-    - number: 1
-      initials: G K
-      clue: "Somebody's poured out what sounds like the wrong kind of spirit and written it down phonetically. Still not right."
-      answer: Genghis Khan
-      aliases:
-        - genghis khan
-      reasoning: "gen + giss = Genghis, con = Khan. Gen-giss-con."
-    - number: 2
-      initials: A T H
-      clue: "She's nearly at the loom, and then there's one of them old Germanic words for a hundred chasing her."
-      answer: Attila the Hun
-      aliases:
-        - attila the hun
-      reasoning: "at + till + a = Attila, the + hun = the Hun. At-till-a-the-hun."
-    - number: 3
-      initials: C C
-      clue: "That snack food is making promises to someone across the Atlantic. Bit ambitious for a biscuit."
-      answer: Christopher Columbus
-      aliases:
-        - christopher columbus
-      reasoning: "crisp + offer = Christopher, column + bus = Columbus. Crisp-offer-column-bus."
-
+  - number: 1
+    initials: G K
+    clue: Somebody's poured out what sounds like the wrong kind of spirit and written it down phonetically. Still not right.
+    answer: Genghis Khan
+    aliases:
+    - genghis khan
+    reasoning: gen + giss = Genghis, con = Khan. Gen-giss-con.
+  - number: 2
+    initials: A T H
+    clue: She's nearly at the loom, and then there's one of them old Germanic words for a hundred chasing her.
+    answer: Attila the Hun
+    aliases:
+    - attila the hun
+    reasoning: at + till + a = Attila, the + hun = the Hun. At-till-a-the-hun.
+  - number: 3
+    initials: C C
+    clue: That snack food is making promises to someone across the Atlantic. Bit ambitious for a biscuit.
+    answer: Christopher Columbus
+    aliases:
+    - christopher columbus
+    reasoning: crisp + offer = Christopher, column + bus = Columbus. Crisp-offer-column-bus.
 - id: historybusters-012
   enabled: true
   title: Historybusters
@@ -383,33 +372,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Historybusters twelve. You're either getting good at this or you've been cheating. Either way, here we go."
-  prize: "Email in. Winner gets a signed photo of someone from a 2003 quiz show and a packet of Hobnobs."
+  - UK
+  - US
+  intro: Historybusters twelve. You're either getting good at this or you've been cheating. Either way, here we go.
+  prize: Email in. Winner gets a signed photo of someone from a 2003 quiz show and a packet of Hobnobs.
   clues:
-    - number: 1
-      initials: A E
-      clue: "All of them are there, and then a man named Bert, and then just an eyeball in a German pub glass. Right."
-      answer: Albert Einstein
-      aliases:
-        - albert einstein
-      reasoning: "all + bert = Albert, eye + n + stein = Einstein. All-bert-eye-n-stein."
-    - number: 2
-      initials: J S
-      clue: "Joe's gone to work in the stables, and he's staying put. Nobody's moving him on."
-      answer: Joseph Stalin
-      aliases:
-        - joseph stalin
-      reasoning: "Joe + sef = Joseph, stall + in = Stalin. Joe-sef-stall-in."
-    - number: 3
-      initials: A H
-      clue: "You've put some extra in, and then you've whacked what's left over. Weird arithmetic."
-      answer: Adolf Hitler
-      aliases:
-        - adolf hitler
-      reasoning: "add + off = Adolf, hit + ler = Hitler. Add-off-hit-ler."
-
+  - number: 1
+    initials: A E
+    clue: All of them are there, and then a man named Bert, and then just an eyeball in a German pub glass. Right.
+    answer: Albert Einstein
+    aliases:
+    - albert einstein
+    reasoning: all + bert = Albert, eye + n + stein = Einstein. All-bert-eye-n-stein.
+  - number: 2
+    initials: J S
+    clue: Joe's gone to work in the stables, and he's staying put. Nobody's moving him on.
+    answer: Joseph Stalin
+    aliases:
+    - joseph stalin
+    reasoning: Joe + sef = Joseph, stall + in = Stalin. Joe-sef-stall-in.
+  - number: 3
+    initials: A H
+    clue: You've put some extra in, and then you've whacked what's left over. Weird arithmetic.
+    answer: Adolf Hitler
+    aliases:
+    - adolf hitler
+    reasoning: add + off = Adolf, hit + ler = Hitler. Add-off-hit-ler.
 - id: historybusters-013
   enabled: true
   title: Historybusters
@@ -417,34 +405,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Three phonetic puzzles. All historical. All famous. Should be doable if you say them out loud."
-  prize: "Email in. Winner gets a Horrible Histories board game with one piece missing and a 2p coin from 1987."
+  - UK
+  - US
+  intro: Three phonetic puzzles. All historical. All famous. Should be doable if you say them out loud.
+  prize: Email in. Winner gets a Horrible Histories board game with one piece missing and a 2p coin from 1987.
   clues:
-    - number: 1
-      initials: O C
-      clue: "Half of a green salad ingredient is sitting at the bottom of a very deep hole with a rope and bucket. That's all."
-      answer: Oliver Cromwell
-      aliases:
-        - oliver cromwell
-      reasoning: "olive + er = Oliver, crom + well = Cromwell. Olive-er-crom-well."
-    - number: 2
-      initials: E I
-      clue: "The slippery thing's had a bit of wine, and then one unit standing alone at the end of the line."
-      answer: Elizabeth I
-      aliases:
-        - elizabeth i
-        - elizabeth the first
-      reasoning: "ee + liz + a + beth = Elizabeth, I = First. Ee-liz-a-beth-one."
-    - number: 3
-      initials: M Q O S
-      clue: "She said her vows, then a person with a crown joined in, then a load of people in tartan arrived."
-      answer: Mary Queen of Scots
-      aliases:
-        - mary queen of scots
-      reasoning: "marry = Mary, queen = Queen, of Scots (tartan folk) = of Scots. Marry-Queen-of-Scots."
-
+  - number: 1
+    initials: O C
+    clue: Half of a green salad ingredient is sitting at the bottom of a very deep hole with a rope and bucket. That's all.
+    answer: Oliver Cromwell
+    aliases:
+    - oliver cromwell
+    reasoning: olive + er = Oliver, crom + well = Cromwell. Olive-er-crom-well.
+  - number: 2
+    initials: E I
+    clue: The slippery thing's had a bit of wine, and then one unit standing alone at the end of the line.
+    answer: Elizabeth I
+    aliases:
+    - elizabeth i
+    - elizabeth the first
+    reasoning: ee + liz + a + beth = Elizabeth, I = First. Ee-liz-a-beth-one.
+  - number: 3
+    initials: M Q O S
+    clue: She said her vows, then a person with a crown joined in, then a load of people in tartan arrived.
+    answer: Mary Queen of Scots
+    aliases:
+    - mary queen of scots
+    reasoning: marry = Mary, queen = Queen, of Scots (tartan folk) = of Scots. Marry-Queen-of-Scots.
 - id: historybusters-014
   enabled: true
   title: Historybusters
@@ -452,33 +439,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Right. Mixed bag of historical figures here. Ancient to recent. You might get one, you might get all three."
-  prize: "Email in. Winner gets a disposable camera with two photos left on it and some travel sweets."
+  - UK
+  - US
+  intro: Right. Mixed bag of historical figures here. Ancient to recent. You might get one, you might get all three.
+  prize: Email in. Winner gets a disposable camera with two photos left on it and some travel sweets.
   clues:
-    - number: 1
-      initials: W T C
-      clue: "That singer off telly is somehow involved, and then a nuts expert has turned up. Medieval setting."
-      answer: William the Conqueror
-      aliases:
-        - william the conqueror
-      reasoning: "will + I + am = William, the + conker + er = the Conqueror. Will-I-am-the-conker-er."
-    - number: 2
-      initials: J C
-      clue: "Seventh month, possessive, then someone's gone and taken something. Roman bloke."
-      answer: Julius Caesar
-      aliases:
-        - julius caesar
-      reasoning: "July + us = Julius, seize + her = Caesar. July-us-seize-her."
-    - number: 3
-      initials: N B
-      clue: "Had a nap did he, right on top of a pile of old bones. French bloke. Emperor type."
-      answer: Napoleon Bonaparte
-      aliases:
-        - napoleon bonaparte
-      reasoning: "nap + on = Napoleon, bone + apart = Bonaparte. Nap-on-bone-apart."
-
+  - number: 1
+    initials: W T C
+    clue: That singer off telly is somehow involved, and then a nuts expert has turned up. Medieval setting.
+    answer: William the Conqueror
+    aliases:
+    - william the conqueror
+    reasoning: will + I + am = William, the + conker + er = the Conqueror. Will-I-am-the-conker-er.
+  - number: 2
+    initials: J C
+    clue: Seventh month, possessive, then someone's gone and taken something. Roman bloke.
+    answer: Julius Caesar
+    aliases:
+    - julius caesar
+    reasoning: July + us = Julius, seize + her = Caesar. July-us-seize-her.
+  - number: 3
+    initials: N B
+    clue: Had a nap did he, right on top of a pile of old bones. French bloke. Emperor type.
+    answer: Napoleon Bonaparte
+    aliases:
+    - napoleon bonaparte
+    reasoning: nap + on = Napoleon, bone + apart = Bonaparte. Nap-on-bone-apart.
 - id: historybusters-015
   enabled: true
   title: Historybusters
@@ -486,33 +472,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Historybusters fifteen. Still going. Right, three clues, sound them out, see what you get."
-  prize: "Email in. Winner gets a Caesar salad recipe card and a novelty Roman centurion pen."
+  - UK
+  - US
+  intro: Historybusters fifteen. Still going. Right, three clues, sound them out, see what you get.
+  prize: Email in. Winner gets a Caesar salad recipe card and a novelty Roman centurion pen.
   clues:
-    - number: 1
-      initials: A T G
-      clue: "Young Alex has combined everything using a joining word, then stumbled upon an oven rack. That's him."
-      answer: Alexander the Great
-      aliases:
-        - alexander the great
-      reasoning: "Alex + and + er = Alexander, the + grate = the Great. Alex-and-er-the-Grate."
-    - number: 2
-      initials: C
-      clue: "She's unlocked it, oh she has, and then given a gentle tap to a young deer. Lovely. Egyptian."
-      answer: Cleopatra
-      aliases:
-        - cleopatra
-      reasoning: "clee (key) + oh + pat + ra (fawn-like sound) = Cleopatra. Clee-oh-pat-ra."
-    - number: 3
-      initials: G G
-      clue: "Same girl, still poorly, said the same thing again. Twice now. Italian astronomer this one."
-      answer: Galileo Galilei
-      aliases:
-        - galileo galilei
-      reasoning: "gal + ill + ee + oh = Galileo, gal + ill + ay = Galilei. Said it twice, slightly different ending."
-
+  - number: 1
+    initials: A T G
+    clue: Young Alex has combined everything using a joining word, then stumbled upon an oven rack. That's him.
+    answer: Alexander the Great
+    aliases:
+    - alexander the great
+    reasoning: Alex + and + er = Alexander, the + grate = the Great. Alex-and-er-the-Grate.
+  - number: 2
+    initials: C
+    clue: She's unlocked it, oh she has, and then given a gentle tap to a young deer. Lovely. Egyptian.
+    answer: Cleopatra
+    aliases:
+    - cleopatra
+    reasoning: clee (key) + oh + pat + ra (fawn-like sound) = Cleopatra. Clee-oh-pat-ra.
+  - number: 3
+    initials: G G
+    clue: Same girl, still poorly, said the same thing again. Twice now. Italian astronomer this one.
+    answer: Galileo Galilei
+    aliases:
+    - galileo galilei
+    reasoning: gal + ill + ee + oh = Galileo, gal + ill + ay = Galilei. Said it twice, slightly different ending.
 - id: historybusters-016
   enabled: true
   title: Historybusters
@@ -520,33 +505,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "More history. More phonetics. More fun, supposedly. Have a go."
-  prize: "Email in. Winner gets a pack of Tudor Top Trumps and a mini replica crown from a museum gift shop."
+  - UK
+  - US
+  intro: More history. More phonetics. More fun, supposedly. Have a go.
+  prize: Email in. Winner gets a pack of Tudor Top Trumps and a mini replica crown from a museum gift shop.
   clues:
-    - number: 1
-      initials: I N
-      clue: "Right, he fired someone, then handed them a brand new untouched metal storage unit. Just like that."
-      answer: Isaac Newton
-      aliases:
-        - isaac newton
-      reasoning: "I + sack = Isaac, new + ton = Newton. I-sack-new-ton."
-    - number: 2
-      initials: C D
-      clue: "Some of him has been burned away, and yet he still won. Survival of the whatever."
-      answer: Charles Darwin
-      aliases:
-        - charles darwin
-      reasoning: "char + less = Charles, dark + win = Darwin. Char-less-dar-win."
-    - number: 3
-      initials: W C
-      clue: "Victory in the bag, and he's off up that famous slope with the big old cathedral at the top."
-      answer: Winston Churchill
-      aliases:
-        - winston churchill
-      reasoning: "wins + ton = Winston, church + hill = Churchill. Wins-ton-Church-hill."
-
+  - number: 1
+    initials: I N
+    clue: Right, he fired someone, then handed them a brand new untouched metal storage unit. Just like that.
+    answer: Isaac Newton
+    aliases:
+    - isaac newton
+    reasoning: I + sack = Isaac, new + ton = Newton. I-sack-new-ton.
+  - number: 2
+    initials: C D
+    clue: Some of him has been burned away, and yet he still won. Survival of the whatever.
+    answer: Charles Darwin
+    aliases:
+    - charles darwin
+    reasoning: char + less = Charles, dark + win = Darwin. Char-less-dar-win.
+  - number: 3
+    initials: W C
+    clue: Victory in the bag, and he's off up that famous slope with the big old cathedral at the top.
+    answer: Winston Churchill
+    aliases:
+    - winston churchill
+    reasoning: wins + ton = Winston, church + hill = Churchill. Wins-ton-Church-hill.
 - id: historybusters-017
   enabled: true
   title: Historybusters
@@ -554,34 +538,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Three more from the past. Could be ancient, could be early modern. Say them out loud, that's the game."
-  prize: "Email in. Winner gets a Bayeux Tapestry tea towel and a packet of out-of-date chocolate coins."
+  - UK
+  - US
+  intro: Three more from the past. Could be ancient, could be early modern. Say them out loud, that's the game.
+  prize: Email in. Winner gets a Bayeux Tapestry tea towel and a packet of out-of-date chocolate coins.
   clues:
-    - number: 1
-      initials: H
-      clue: "That bird in the farmyard won't stop announcing a number. The Roman one. Repeatedly."
-      answer: Henry VIII
-      aliases:
-        - henry viii
-        - henry the eighth
-      reasoning: "hen + ree = Henry, VIII = eight. Hen-ree-eight."
-    - number: 2
-      initials: R T L
-      clue: "Got loads of money, this bloke, and he's carrying a big cat's vital organ round the field."
-      answer: Richard the Lionheart
-      aliases:
-        - richard the lionheart
-      reasoning: "rich + ard = Richard, the + lion + heart = the Lionheart. Rich-ard-the-lion-heart."
-    - number: 3
-      initials: A H
-      clue: "Mathematics gone wrong, then someone's taken a swing. German fella. Not a good one."
-      answer: Adolf Hitler
-      aliases:
-        - adolf hitler
-      reasoning: "add + off = Adolf, hit + ler = Hitler. Add-off-hit-ler."
-
+  - number: 1
+    initials: H
+    clue: That bird in the farmyard won't stop announcing a number. The Roman one. Repeatedly.
+    answer: Henry VIII
+    aliases:
+    - henry viii
+    - henry the eighth
+    reasoning: hen + ree = Henry, VIII = eight. Hen-ree-eight.
+  - number: 2
+    initials: R T L
+    clue: Got loads of money, this bloke, and he's carrying a big cat's vital organ round the field.
+    answer: Richard the Lionheart
+    aliases:
+    - richard the lionheart
+    reasoning: rich + ard = Richard, the + lion + heart = the Lionheart. Rich-ard-the-lion-heart.
+  - number: 3
+    initials: A H
+    clue: Mathematics gone wrong, then someone's taken a swing. German fella. Not a good one.
+    answer: Adolf Hitler
+    aliases:
+    - adolf hitler
+    reasoning: add + off = Adolf, hit + ler = Hitler. Add-off-hit-ler.
 - id: historybusters-018
   enabled: true
   title: Historybusters
@@ -589,33 +572,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Alright, nearly there. Historybusters eighteen. Last stretch now. Don't give up."
-  prize: "Email in. Winner gets an Alexander the Great fridge magnet and a slightly bent bookmark."
+  - UK
+  - US
+  intro: Historybusters. Three more famous faces from history. Say each one out loud.
+  prize: Email in. Winner gets an Alexander the Great fridge magnet and a slightly bent bookmark.
   clues:
-    - number: 1
-      initials: J S
-      clue: "That bloke Joe is parked in the stable and he's not shifting. Just standing there."
-      answer: Joseph Stalin
-      aliases:
-        - joseph stalin
-      reasoning: "Joe + sef = Joseph, stall + in = Stalin. Joe-sef-stall-in."
-    - number: 2
-      initials: O C
-      clue: "A bit of that green antipasto thing has ended up at the bottom of a well. Don't know how."
-      answer: Oliver Cromwell
-      aliases:
-        - oliver cromwell
-      reasoning: "olive + er = Oliver, crom + well = Cromwell. Olive-er-crom-well."
-    - number: 3
-      initials: M Q O S
-      clue: "Wedding bells, then a crowned head, then a load of folk in plaid. Clue's in the outfit really."
-      answer: Mary Queen of Scots
-      aliases:
-        - mary queen of scots
-      reasoning: "marry = Mary, queen = Queen, of Scots (plaid folk up north) = of Scots."
-
+  - number: 1
+    initials: J S
+    clue: That bloke Joe is parked in the stable and he's not shifting. Just standing there.
+    answer: Joseph Stalin
+    aliases:
+    - joseph stalin
+    reasoning: Joe + sef = Joseph, stall + in = Stalin. Joe-sef-stall-in.
+  - number: 2
+    initials: O C
+    clue: A bit of that green antipasto thing has ended up at the bottom of a well. Don't know how.
+    answer: Oliver Cromwell
+    aliases:
+    - oliver cromwell
+    reasoning: olive + er = Oliver, crom + well = Cromwell. Olive-er-crom-well.
+  - number: 3
+    initials: M Q O S
+    clue: Wedding bells, then a crowned head, then a load of folk in plaid. Clue's in the outfit really.
+    answer: Mary Queen of Scots
+    aliases:
+    - mary queen of scots
+    reasoning: marry = Mary, queen = Queen, of Scots (plaid folk up north) = of Scots.
 - id: historybusters-019
   enabled: true
   title: Historybusters
@@ -623,34 +605,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Penultimate set. Historybusters. You've come this far, might as well finish it off."
-  prize: "Email in. Winner gets a DVD of Elizabeth with Cate Blanchett and a box of Ritz crackers."
+  - UK
+  - US
+  intro: Historybusters. Famous people from history in these phonetic clues. Say them out loud.
+  prize: Email in. Winner gets a DVD of Elizabeth with Cate Blanchett and a box of Ritz crackers.
   clues:
-    - number: 1
-      initials: E I
-      clue: "Bit of a wobbly one, had some wine, and then a single solitary unit just stood there at the end. That's her."
-      answer: Elizabeth I
-      aliases:
-        - elizabeth i
-        - elizabeth the first
-      reasoning: "ee + liz + a + beth = Elizabeth, I = the First. Ee-liz-a-beth-one."
-    - number: 2
-      initials: A E
-      clue: "Every single one of them is present, and then a Bert, and then just one eye peering out of a German drinking vessel."
-      answer: Albert Einstein
-      aliases:
-        - albert einstein
-      reasoning: "all + bert = Albert, eye + n + stein = Einstein. All-bert-eye-n-stein."
-    - number: 3
-      initials: G K
-      clue: "Someone's served up a wrong kind of spirit and spelled it wrong twice. Mongolian sort of fella."
-      answer: Genghis Khan
-      aliases:
-        - genghis khan
-      reasoning: "gen + giss = Genghis, con = Khan. Gen-giss-con."
-
+  - number: 1
+    initials: E I
+    clue: Bit of a wobbly one, had some wine, and then a single solitary unit just stood there at the end. That's her.
+    answer: Elizabeth I
+    aliases:
+    - elizabeth i
+    - elizabeth the first
+    reasoning: ee + liz + a + beth = Elizabeth, I = the First. Ee-liz-a-beth-one.
+  - number: 2
+    initials: A E
+    clue: Every single one of them is present, and then a Bert, and then just one eye peering out of a German drinking vessel.
+    answer: Albert Einstein
+    aliases:
+    - albert einstein
+    reasoning: all + bert = Albert, eye + n + stein = Einstein. All-bert-eye-n-stein.
+  - number: 3
+    initials: G K
+    clue: Someone's served up a wrong kind of spirit and spelled it wrong twice. Mongolian sort of fella.
+    answer: Genghis Khan
+    aliases:
+    - genghis khan
+    reasoning: gen + giss = Genghis, con = Khan. Gen-giss-con.
 - id: historybusters-020
   enabled: true
   title: Historybusters
@@ -658,29 +639,29 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Last one. Set twenty. Historybusters. Give it your best shot and we'll call it done."
-  prize: "Email in. Winner gets a copy of Horrible Histories Terrifying Tudors and a broken compass."
+  - UK
+  - US
+  intro: Historybusters. Famous figures from history, all phonetic. Give it your best shot.
+  prize: Email in. Winner gets a copy of Horrible Histories Terrifying Tudors and a broken compass.
   clues:
-    - number: 1
-      initials: W T C
-      clue: "That pop act is here, and there's a bloke who knows his conkers standing next to a medieval castle."
-      answer: William the Conqueror
-      aliases:
-        - william the conqueror
-      reasoning: "will + I + am = William, the + conker + er = the Conqueror. Will-I-am-the-conker-er."
-    - number: 2
-      initials: C C
-      clue: "A crunchy snack has made a really bold promise to someone over the water. Brave move for a biscuit."
-      answer: Christopher Columbus
-      aliases:
-        - christopher columbus
-      reasoning: "crisp + offer = Christopher, column + bus = Columbus. Crisp-offer-column-bus."
-    - number: 3
-      initials: A T H
-      clue: "She's almost got to the weaving machine, and then a hundred of them showed up all at once. Chaos."
-      answer: Attila the Hun
-      aliases:
-        - attila the hun
-      reasoning: "at + till + a = Attila, the + hun (hundred) = the Hun. At-till-a-the-hun."
+  - number: 1
+    initials: W T C
+    clue: That pop act is here, and there's a bloke who knows his conkers standing next to a medieval castle.
+    answer: William the Conqueror
+    aliases:
+    - william the conqueror
+    reasoning: will + I + am = William, the + conker + er = the Conqueror. Will-I-am-the-conker-er.
+  - number: 2
+    initials: C C
+    clue: A crunchy snack has made a really bold promise to someone over the water. Brave move for a biscuit.
+    answer: Christopher Columbus
+    aliases:
+    - christopher columbus
+    reasoning: crisp + offer = Christopher, column + bus = Columbus. Crisp-offer-column-bus.
+  - number: 3
+    initials: A T H
+    clue: She's almost got to the weaving machine, and then a hundred of them showed up all at once. Chaos.
+    answer: Attila the Hun
+    aliases:
+    - attila the hun
+    reasoning: at + till + a = Attila, the + hun (hundred) = the Hun. At-till-a-the-hun.

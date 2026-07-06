@@ -5,36 +5,35 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Right, Animalbusters. Rockbusters but it's all land animals from around the world."
-  prize: "Email in. Winner gets a Blockbuster loyalty card and a bag of out-of-date popcorn."
+  - UK
+  - US
+  intro: Right, Animalbusters. Rockbusters but it's all land animals from around the world.
+  prize: Email in. Winner gets a Blockbuster loyalty card and a bag of out-of-date popcorn.
   clues:
-    - number: 1
-      initials: H
-      clue: "Right, that big round cooking vessel, the bloke who used to burn incense has gone and sat in it. Don't ask why."
-      answer: Hippopotamus
-      aliases:
-        - hippopotamus
-        - hippo
-      reasoning: "hippy (incense-burning bloke) + pot (big round cooking vessel) + a + mus (moose sound, near enough) = Hippopotamus"
-    - number: 2
-      initials: R
-      clue: "That bloke's got a proper sharp hooter on him, and he's absolutely covered in the stuff. Rough skin and that."
-      answer: Rhinoceros
-      aliases:
-        - rhinoceros
-        - rhino
-      reasoning: "rhino (sharp hooter) + ce + ros (rows, like rows of bumps) = Rhinoceros. Say it out loud."
-    - number: 3
-      initials: C
-      clue: "Some fella's frying pan's gone down the river and there's a letter Z sitting in it. Bit odd."
-      answer: Chimpanzee
-      aliases:
-        - chimpanzee
-        - chimp
-      reasoning: "chimp (little fella) + pan (frying pan) + zee (letter Z) = Chimpanzee"
-
+  - number: 1
+    initials: H
+    clue: Right, that big round cooking vessel, the bloke who used to burn incense has gone and sat in it. Don't ask why.
+    answer: Hippopotamus
+    aliases:
+    - hippopotamus
+    - hippo
+    reasoning: hippy (incense-burning bloke) + pot (big round cooking vessel) + a + mus (moose sound, near enough) = Hippopotamus
+  - number: 2
+    initials: R
+    clue: That bloke's got a proper sharp hooter on him, and he's absolutely covered in the stuff. Rough skin and that.
+    answer: Rhinoceros
+    aliases:
+    - rhinoceros
+    - rhino
+    reasoning: rhino (sharp hooter) + ce + ros (rows, like rows of bumps) = Rhinoceros. Say it out loud.
+  - number: 3
+    initials: C
+    clue: Some fella's frying pan's gone down the river and there's a letter Z sitting in it. Bit odd.
+    answer: Chimpanzee
+    aliases:
+    - chimpanzee
+    - chimp
+    reasoning: chimp (little fella) + pan (frying pan) + zee (letter Z) = Chimpanzee
 - id: animalbusters-002
   enabled: true
   title: Animalbusters
@@ -42,34 +41,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Alright, more animals. Rockbusters, land creatures edition. Off we go."
-  prize: "Email in. Winner gets an AOL trial disc and a keyring shaped like nothing in particular."
+  - UK
+  - US
+  intro: Alright, more animals. Rockbusters, land creatures edition. Off we go.
+  prize: Email in. Winner gets an AOL trial disc and a keyring shaped like nothing in particular.
   clues:
-    - number: 1
-      initials: C
-      clue: "That old footwear, the slip-on type, it's gone and rung someone up on the phone. Why would it do that."
-      answer: Crocodile
-      aliases:
-        - crocodile
-        - croc
-      reasoning: "croc (slip-on shoe) + o + dial (phone dial) = Crocodile"
-    - number: 2
-      initials: K
-      clue: "A walking stick, right, and next to it there's a bit of regret. The two of them just standing there."
-      answer: Kangaroo
-      aliases:
-        - kangaroo
-      reasoning: "cane (walking stick) + gar + oo, or cane + a + rue (regret) = Kangaroo. Near enough."
-    - number: 3
-      initials: C
-      clue: "She's being a bit sneaky about it, hasn't she. Proper two-faced. That's all."
-      answer: Cheetah
-      aliases:
-        - cheetah
-      reasoning: "cheat + a = Cheetah. She's a cheat, and that."
-
+  - number: 1
+    initials: C
+    clue: That old footwear, the slip-on type, it's gone and rung someone up on the phone. Why would it do that.
+    answer: Crocodile
+    aliases:
+    - crocodile
+    - croc
+    reasoning: croc (slip-on shoe) + o + dial (phone dial) = Crocodile
+  - number: 2
+    initials: K
+    clue: A walking stick, right, and next to it there's a bit of regret. The two of them just standing there.
+    answer: Kangaroo
+    aliases:
+    - kangaroo
+    reasoning: cane (walking stick) + gar + oo, or cane + a + rue (regret) = Kangaroo. Near enough.
+  - number: 3
+    initials: C
+    clue: She's being a bit sneaky about it, hasn't she. Proper two-faced. That's all.
+    answer: Cheetah
+    aliases:
+    - cheetah
+    reasoning: cheat + a = Cheetah. She's a cheat, and that.
 - id: animalbusters-003
   enabled: true
   title: Animalbusters
@@ -77,33 +75,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Animalbusters. Three clues, all animals. You know what to do."
-  prize: "Email in. Winner gets a copy of Shrek on DVD and a fridge magnet from somewhere abroad."
+  - UK
+  - US
+  intro: Animalbusters. Three clues, all animals. You know what to do.
+  prize: Email in. Winner gets a copy of Shrek on DVD and a fridge magnet from somewhere abroad.
   clues:
-    - number: 1
-      initials: F
-      clue: "Right, that thing's on fire, and it's gone somewhere. Just left. Walked off while burning."
-      answer: Flamingo
-      aliases:
-        - flamingo
-      reasoning: "flame (on fire) + in + go (gone somewhere) = Flamingo"
-    - number: 2
-      initials: P
-      clue: "The pig meat's for you, that is. And there's a tree involved. Bit of a spread."
-      answer: Porcupine
-      aliases:
-        - porcupine
-      reasoning: "pork (pig meat) + you + pine (tree) = Porcupine"
-    - number: 3
-      initials: G
-      clue: "That bloke Ralph, the one with the long neck, he's having a laugh, isn't he."
-      answer: Giraffe
-      aliases:
-        - giraffe
-      reasoning: "ji + raffe, sounds like jar + Ralph, or just Giraffe. Say the name Ralph with a soft laugh. Near enough."
-
+  - number: 1
+    initials: F
+    clue: Right, that thing's on fire, and it's gone somewhere. Just left. Walked off while burning.
+    answer: Flamingo
+    aliases:
+    - flamingo
+    reasoning: flame (on fire) + in + go (gone somewhere) = Flamingo
+  - number: 2
+    initials: P
+    clue: The pig meat's for you, that is. And there's a tree involved. Bit of a spread.
+    answer: Porcupine
+    aliases:
+    - porcupine
+    reasoning: pork (pig meat) + you + pine (tree) = Porcupine
+  - number: 3
+    initials: G
+    clue: That bloke Ralph, the one with the long neck, he's having a laugh, isn't he.
+    answer: Giraffe
+    aliases:
+    - giraffe
+    reasoning: ji + raffe, sounds like jar + Ralph, or just Giraffe. Say the name Ralph with a soft laugh. Near enough.
 - id: animalbusters-004
   enabled: true
   title: Animalbusters
@@ -111,33 +108,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Here we go then. More Animalbusters. Think phonetics, not spelling."
-  prize: "Email in. Winner gets a Now 47 on cassette and a biro that doesn't quite work."
+  - UK
+  - US
+  intro: Here we go then. More Animalbusters. Think phonetics, not spelling.
+  prize: Email in. Winner gets a Now 47 on cassette and a biro that doesn't quite work.
   clues:
-    - number: 1
-      initials: A
-      clue: "The limb, right, the one you wave at people, it's sitting next to a herb from the pickle jar. Mysterious."
-      answer: Armadillo
-      aliases:
-        - armadillo
-      reasoning: "arm (waving limb) + a + dill (pickle herb) + o = Armadillo"
-    - number: 2
-      initials: C
-      clue: "That bloke Lee, he arrived recently, and he's just sort of... on things. Everywhere."
-      answer: Chameleon
-      aliases:
-        - chameleon
-      reasoning: "came (arrived recently) + Lee (bloke called Lee) + on = Chameleon"
-    - number: 3
-      initials: P
-      clue: "Like a flat thing, but with a weird infection at the end. You wouldn't want it."
-      answer: Platypus
-      aliases:
-        - platypus
-      reasoning: "platty (flat-ish) + pus (infection stuff) = Platypus. Don't overthink it."
-
+  - number: 1
+    initials: A
+    clue: The limb, right, the one you wave at people, it's sitting next to a herb from the pickle jar. Mysterious.
+    answer: Armadillo
+    aliases:
+    - armadillo
+    reasoning: arm (waving limb) + a + dill (pickle herb) + o = Armadillo
+  - number: 2
+    initials: C
+    clue: That bloke Lee, he arrived recently, and he's just sort of... on things. Everywhere.
+    answer: Chameleon
+    aliases:
+    - chameleon
+    reasoning: came (arrived recently) + Lee (bloke called Lee) + on = Chameleon
+  - number: 3
+    initials: P
+    clue: Like a flat thing, but with a weird infection at the end. You wouldn't want it.
+    answer: Platypus
+    aliases:
+    - platypus
+    reasoning: platty (flat-ish) + pus (infection stuff) = Platypus. Don't overthink it.
 - id: animalbusters-005
   enabled: true
   title: Animalbusters
@@ -145,33 +141,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Right, Animalbusters round five. Same rules. Say it out loud, it'll come to you."
-  prize: "Email in. Winner gets a printed photo from a disposable camera and a DVD of something with Richard Gere in."
+  - UK
+  - US
+  intro: Right, Animalbusters round five. Same rules. Say it out loud, it'll come to you.
+  prize: Email in. Winner gets a printed photo from a disposable camera and a DVD of something with Richard Gere in.
   clues:
-    - number: 1
-      initials: C
-      clue: "Some big fella named Barry came in, sat on a hat, and disappeared into a bar. Busy day for him."
-      answer: Capybara
-      aliases:
-        - capybara
-      reasoning: "cap (hat) + e + bar (pub) + a = Capybara. Barry's had a long day."
-    - number: 2
-      initials: W
-      clue: "All that fabric from a sheep, right, and it's gone all tough and muscly. Like the hard stuff."
-      answer: Wolverine
-      aliases:
-        - wolverine
-      reasoning: "wool (sheep fabric) + ver + een, sounds like wool + of a reen, Wolverine. Say it quick."
-    - number: 3
-      initials: A
-      clue: "That's a tough one to say out loud. The opposite of soft-bark, isn't it. The dog's done a proper bark and it was difficult."
-      answer: Aardvark
-      aliases:
-        - aardvark
-      reasoning: "hard (not soft) + bark (dog noise) = Aardvark. Drop the H, you're there."
-
+  - number: 1
+    initials: C
+    clue: Some big fella named Barry came in, sat on a hat, and disappeared into a bar. Busy day for him.
+    answer: Capybara
+    aliases:
+    - capybara
+    reasoning: cap (hat) + e + bar (pub) + a = Capybara. Barry's had a long day.
+  - number: 2
+    initials: W
+    clue: All that fabric from a sheep, right, and it's gone all tough and muscly. Like the hard stuff.
+    answer: Wolverine
+    aliases:
+    - wolverine
+    reasoning: wool (sheep fabric) + ver + een, sounds like wool + of a reen, Wolverine. Say it quick.
+  - number: 3
+    initials: A
+    clue: That's a tough one to say out loud. The opposite of soft-bark, isn't it. The dog's done a proper bark and it was difficult.
+    answer: Aardvark
+    aliases:
+    - aardvark
+    reasoning: hard (not soft) + bark (dog noise) = Aardvark. Drop the H, you're there.
 - id: animalbusters-006
   enabled: true
   title: Animalbusters
@@ -179,33 +174,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Animalbusters, number six. Some of these are proper exotic. Sort of."
-  prize: "Email in. Winner gets a Woolworths loyalty card and a small calendar from a garage."
+  - UK
+  - US
+  intro: Animalbusters, number six. Some of these are proper exotic. Sort of.
+  prize: Email in. Winner gets a Woolworths loyalty card and a small calendar from a garage.
   clues:
-    - number: 1
-      initials: P
-      clue: "The pain, right, it's walking around somewhere, and there's a bloke called Lin there too. All a bit tense."
-      answer: Pangolin
-      aliases:
-        - pangolin
-      reasoning: "pang (pain) + o + Lin (bloke called Lin) = Pangolin"
-    - number: 2
-      initials: T D
-      clue: "The road in Australia is, apparently, mostly just evil in there. Bit grim."
-      answer: Tasmanian Devil
-      aliases:
-        - tasmanian devil
-      reasoning: "Tasmanian (from Tasmania, Australia) + devil (evil thing) = Tasmanian Devil"
-    - number: 3
-      initials: M
-      clue: "It's almost a cat, isn't it. Barely. Just look at the thing."
-      answer: Meerkat
-      aliases:
-        - meerkat
-      reasoning: "mere (barely, almost) + cat = Meerkat. Sort of works."
-
+  - number: 1
+    initials: P
+    clue: The pain, right, it's walking around somewhere, and there's a bloke called Lin there too. All a bit tense.
+    answer: Pangolin
+    aliases:
+    - pangolin
+    reasoning: pang (pain) + o + Lin (bloke called Lin) = Pangolin
+  - number: 2
+    initials: T D
+    clue: The road in Australia is, apparently, mostly just evil in there. Bit grim.
+    answer: Tasmanian Devil
+    aliases:
+    - tasmanian devil
+    reasoning: Tasmanian (from Tasmania, Australia) + devil (evil thing) = Tasmanian Devil
+  - number: 3
+    initials: M
+    clue: It's almost a cat, isn't it. Barely. Just look at the thing.
+    answer: Meerkat
+    aliases:
+    - meerkat
+    reasoning: mere (barely, almost) + cat = Meerkat. Sort of works.
 - id: animalbusters-007
   enabled: true
   title: Animalbusters
@@ -213,33 +207,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "More animals. Animalbusters, round seven. Karl would love this one."
-  prize: "Email in. Winner gets a Virgin Megastore bag with nothing in it and a Hotel Chocolat sample."
+  - UK
+  - US
+  intro: More animals. Animalbusters, round seven. Karl would love this one.
+  prize: Email in. Winner gets a Virgin Megastore bag with nothing in it and a Hotel Chocolat sample.
   clues:
-    - number: 1
-      initials: W
-      clue: "There's been a conflict, right, and the pig at the middle of it all just won't leave. Stubborn animal."
-      answer: Warthog
-      aliases:
-        - warthog
-      reasoning: "war (conflict) + hog (pig) = Warthog"
-    - number: 2
-      initials: H
-      clue: "Saying hello to a lady called Ena. Very politely and that."
-      answer: Hyena
-      aliases:
-        - hyena
-      reasoning: "hi (saying hello) + Ena (lady's name) = Hyena"
-    - number: 3
-      initials: G
-      clue: "Right, a pot that's been left out in the open, it's gone all wild. Just standing there being feral."
-      answer: Gorilla
-      aliases:
-        - gorilla
-      reasoning: "gor (like cor, exclamation) + ill + a, or gore + rilla, sounds like gorilla when said fast"
-
+  - number: 1
+    initials: W
+    clue: There's been a conflict, right, and the pig at the middle of it all just won't leave. Stubborn animal.
+    answer: Warthog
+    aliases:
+    - warthog
+    reasoning: war (conflict) + hog (pig) = Warthog
+  - number: 2
+    initials: H
+    clue: Saying hello to a lady called Ena. Very politely and that.
+    answer: Hyena
+    aliases:
+    - hyena
+    reasoning: hi (saying hello) + Ena (lady's name) = Hyena
+  - number: 3
+    initials: G
+    clue: Right, a pot that's been left out in the open, it's gone all wild. Just standing there being feral.
+    answer: Gorilla
+    aliases:
+    - gorilla
+    reasoning: gor (like cor, exclamation) + ill + a, or gore + rilla, sounds like gorilla when said fast
 - id: animalbusters-008
   enabled: true
   title: Animalbusters
@@ -247,33 +240,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Alright, Animalbusters eight. Get your thinking cap on. A proper one, not just a baseball cap."
-  prize: "Email in. Winner gets a signed letter from someone off Heartbeat, possibly, and a mug."
+  - UK
+  - US
+  intro: Alright, Animalbusters eight. Get your thinking cap on. A proper one, not just a baseball cap.
+  prize: Email in. Winner gets a signed letter from someone off Heartbeat, possibly, and a mug.
   clues:
-    - number: 1
-      initials: L
-      clue: "That thing that lives in a pond or a lake, the amphibious one, it's got an L in front of it. That's the size of it."
-      answer: Leopard
-      aliases:
-        - leopard
-      reasoning: "le + op + ard, sounds like leopard, lee + ard, the spotted cat"
-    - number: 2
-      initials: B
-      clue: "He's given it a proper bash, right, the punching type. Gone right in there."
-      answer: Bison
-      aliases:
-        - bison
-      reasoning: "buy + son, or bis + on = Bison. Say it. Bison."
-    - number: 3
-      initials: J
-      clue: "She's been hunting him down, hasn't she. The gu + are type. Very determined."
-      answer: Jaguar
-      aliases:
-        - jaguar
-      reasoning: "jag (sharp thing, or Scottish slang for injection) + you + ar = Jaguar"
-
+  - number: 1
+    initials: L
+    clue: That thing that lives in a pond or a lake, the amphibious one, it's got an L in front of it. That's the size of it.
+    answer: Leopard
+    aliases:
+    - leopard
+    reasoning: le + op + ard, sounds like leopard, lee + ard, the spotted cat
+  - number: 2
+    initials: B
+    clue: He's given it a proper bash, right, the punching type. Gone right in there.
+    answer: Bison
+    aliases:
+    - bison
+    reasoning: buy + son, or bis + on = Bison. Say it. Bison.
+  - number: 3
+    initials: J
+    clue: She's been hunting him down, hasn't she. The gu + are type. Very determined.
+    answer: Jaguar
+    aliases:
+    - jaguar
+    reasoning: jag (sharp thing, or Scottish slang for injection) + you + ar = Jaguar
 - id: animalbusters-009
   enabled: true
   title: Animalbusters
@@ -281,34 +273,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Nine down. Animalbusters keeps going. These ones are from further afield."
-  prize: "Email in. Winner gets a Nectar card with four points on and a Walkers variety pack."
+  - UK
+  - US
+  intro: Nine down. Animalbusters keeps going. These ones are from further afield.
+  prize: Email in. Winner gets a Nectar card with four points on and a Walkers variety pack.
   clues:
-    - number: 1
-      initials: M
-      clue: "That animal's a bit of a monk, isn't it. Proper contemplative. Sitting there thinking."
-      answer: Mongoose
-      aliases:
-        - mongoose
-      reasoning: "monk (contemplative type) + goose (another animal, near enough) = Mongoose. Don't ask."
-    - number: 2
-      initials: O
-      clue: "That's a proper big one, isn't it. Goes around in the long grass. The bloke keeps catching it."
-      answer: Ocelot
-      aliases:
-        - ocelot
-      reasoning: "os + e + lot, sounds like ocelot, a spotted wild cat. Say it out loud."
-    - number: 3
-      initials: B
-      clue: "Right, a young one, a baby badger type, but it's gone absolutely massive. Didn't see that coming."
-      answer: Boar
-      aliases:
-        - boar
-        - wild boar
-      reasoning: "bore (a dull one) sounds like boar (wild pig). Or just say it: boar."
-
+  - number: 1
+    initials: M
+    clue: That animal's a bit of a monk, isn't it. Proper contemplative. Sitting there thinking.
+    answer: Mongoose
+    aliases:
+    - mongoose
+    reasoning: monk (contemplative type) + goose (another animal, near enough) = Mongoose. Don't ask.
+  - number: 2
+    initials: O
+    clue: That's a proper big one, isn't it. Goes around in the long grass. The bloke keeps catching it.
+    answer: Ocelot
+    aliases:
+    - ocelot
+    reasoning: os + e + lot, sounds like ocelot, a spotted wild cat. Say it out loud.
+  - number: 3
+    initials: B
+    clue: Right, a young one, a baby badger type, but it's gone absolutely massive. Didn't see that coming.
+    answer: Boar
+    aliases:
+    - boar
+    - wild boar
+    reasoning: 'bore (a dull one) sounds like boar (wild pig). Or just say it: boar.'
 - id: animalbusters-010
   enabled: true
   title: Animalbusters
@@ -316,34 +307,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Round ten of Animalbusters. Double figures. Quite impressive really."
-  prize: "Email in. Winner gets a copy of Men Behaving Badly on VHS and a jar of Marmite."
+  - UK
+  - US
+  intro: Round ten of Animalbusters. Double figures. Quite impressive really.
+  prize: Email in. Winner gets a copy of Men Behaving Badly on VHS and a jar of Marmite.
   clues:
-    - number: 1
-      initials: C
-      clue: "Right, a female deer, and she's gone out for a wander. Just off out."
-      answer: Cougar
-      aliases:
-        - cougar
-        - puma
-      reasoning: "coo (like a dove) + gar, sounds like cougar. Say it soft."
-    - number: 2
-      initials: O
-      clue: "There's an old bloke called Rex, and he's wearing one of them horns they blow at football. The whole scene."
-      answer: Oryx
-      aliases:
-        - oryx
-      reasoning: "or + yx, sounds like oryx, the big horned antelope"
-    - number: 3
-      initials: M
-      clue: "A bit of flour and water, the dough type, but this one's got spots. Totally normal."
-      answer: Margay
-      aliases:
-        - margay
-      reasoning: "mar + gay, or mar + gey = margay, a spotted wild cat"
-
+  - number: 1
+    initials: C
+    clue: Right, a female deer, and she's gone out for a wander. Just off out.
+    answer: Cougar
+    aliases:
+    - cougar
+    - puma
+    reasoning: coo (like a dove) + gar, sounds like cougar. Say it soft.
+  - number: 2
+    initials: O
+    clue: There's an old bloke called Rex, and he's wearing one of them horns they blow at football. The whole scene.
+    answer: Oryx
+    aliases:
+    - oryx
+    reasoning: or + yx, sounds like oryx, the big horned antelope
+  - number: 3
+    initials: M
+    clue: A bit of flour and water, the dough type, but this one's got spots. Totally normal.
+    answer: Margay
+    aliases:
+    - margay
+    reasoning: mar + gay, or mar + gey = margay, a spotted wild cat
 - id: animalbusters-011
   enabled: true
   title: Animalbusters
@@ -351,33 +341,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Animalbusters eleven. Still going. Honestly didn't think we'd get this far."
-  prize: "Email in. Winner gets a Domino's Pizza loyalty stamp card and a small bottle of Tabasco from a hotel."
+  - UK
+  - US
+  intro: Animalbusters eleven. Still going. Honestly didn't think we'd get this far.
+  prize: Email in. Winner gets a Domino's Pizza loyalty stamp card and a small bottle of Tabasco from a hotel.
   clues:
-    - number: 1
-      initials: E
-      clue: "That bloke Eland, he's just sort of... landed, hasn't he. Touched down and that."
-      answer: Eland
-      aliases:
-        - eland
-      reasoning: "ee + land (touched down) = Eland, the big African antelope"
-    - number: 2
-      initials: T
-      clue: "Right, a bloke called Ap, he's been there for a while. Proper tapping away."
-      answer: Tapir
-      aliases:
-        - tapir
-      reasoning: "tap (tapping) + ir, sounds like tapir. The big-nosed South American animal."
-    - number: 3
-      initials: D
-      clue: "She's gone and dug it out, that big grey thing, from the earth. All trunk and that."
-      answer: Dhole
-      aliases:
-        - dhole
-      reasoning: "d + hole (dug out) = Dhole, the Indian wild dog"
-
+  - number: 1
+    initials: E
+    clue: That bloke Eland, he's just sort of... landed, hasn't he. Touched down and that.
+    answer: Eland
+    aliases:
+    - eland
+    reasoning: ee + land (touched down) = Eland, the big African antelope
+  - number: 2
+    initials: T
+    clue: Right, a bloke called Ap, he's been there for a while. Proper tapping away.
+    answer: Tapir
+    aliases:
+    - tapir
+    reasoning: tap (tapping) + ir, sounds like tapir. The big-nosed South American animal.
+  - number: 3
+    initials: D
+    clue: She's gone and dug it out, that big grey thing, from the earth. All trunk and that.
+    answer: Dhole
+    aliases:
+    - dhole
+    reasoning: d + hole (dug out) = Dhole, the Indian wild dog
 - id: animalbusters-012
   enabled: true
   title: Animalbusters
@@ -385,34 +374,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Right then, Animalbusters dozen. Twelve sets. The animals just keep coming."
-  prize: "Email in. Winner gets a Smash Hits magazine from 2003 and some value biscuits."
+  - UK
+  - US
+  intro: Right then, Animalbusters dozen. Twelve sets. The animals just keep coming.
+  prize: Email in. Winner gets a Smash Hits magazine from 2003 and some value biscuits.
   clues:
-    - number: 1
-      initials: P
-      clue: "Right, some bloke's giving a sermon, proper preaching he is, and at the end he's gone a bit weird. Said something odd."
-      answer: Pronghorn
-      aliases:
-        - pronghorn
-      reasoning: "prong (pointy bit) + horn (animal horn) = Pronghorn, the North American antelope"
-    - number: 2
-      initials: K
-      clue: "That dog, the spotty one, it's gone and eaten the whole thing. Dingo behaviour."
-      answer: Kudu
-      aliases:
-        - kudu
-      reasoning: "coo + do (like do-do), sounds like kudu, the striped African antelope"
-    - number: 3
-      initials: G
-      clue: "The bloke in the gnu field, right, he's gone all weird and starts moaning like a wildebeest. Uncomfortable."
-      answer: Gnu
-      aliases:
-        - gnu
-        - wildebeest
-      reasoning: "gnu sounds like new, or like you'd say it if you didn't know how"
-
+  - number: 1
+    initials: P
+    clue: Right, some bloke's giving a sermon, proper preaching he is, and at the end he's gone a bit weird. Said something odd.
+    answer: Pronghorn
+    aliases:
+    - pronghorn
+    reasoning: prong (pointy bit) + horn (animal horn) = Pronghorn, the North American antelope
+  - number: 2
+    initials: K
+    clue: That dog, the spotty one, it's gone and eaten the whole thing. Dingo behaviour.
+    answer: Kudu
+    aliases:
+    - kudu
+    reasoning: coo + do (like do-do), sounds like kudu, the striped African antelope
+  - number: 3
+    initials: G
+    clue: The bloke in the gnu field, right, he's gone all weird and starts moaning like a wildebeest. Uncomfortable.
+    answer: Gnu
+    aliases:
+    - gnu
+    - wildebeest
+    reasoning: gnu sounds like new, or like you'd say it if you didn't know how
 - id: animalbusters-013
   enabled: true
   title: Animalbusters
@@ -420,33 +408,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Unlucky for some, thirteen. Animalbusters. Let's just crack on."
-  prize: "Email in. Winner gets a DVD of The Full Monty and a tin of Quality Street from a service station."
+  - UK
+  - US
+  intro: Unlucky for some, thirteen. Animalbusters. Let's just crack on.
+  prize: Email in. Winner gets a DVD of The Full Monty and a tin of Quality Street from a service station.
   clues:
-    - number: 1
-      initials: S
-      clue: "The hoofed thing, right, he's gone off on his own. A proper loner. Just wandered into the trees."
-      answer: Springbok
-      aliases:
-        - springbok
-      reasoning: "spring (bouncy) + bok (buck sound) = Springbok, the South African antelope"
-    - number: 2
-      initials: I
-      clue: "The great big one, that African cat, it's gone to the coast. Sitting by the ocean now."
-      answer: Impala
-      aliases:
-        - impala
-      reasoning: "im + pala, sounds like impala, the African antelope, or the Chevy car"
-    - number: 3
-      initials: G
-      clue: "That bloke's gone and been a gazelle about the whole situation, hasn't he. Really nimble about it."
-      answer: Gazelle
-      aliases:
-        - gazelle
-      reasoning: "gaz + elle, sounds like gazelle. The elegant African antelope."
-
+  - number: 1
+    initials: S
+    clue: The hoofed thing, right, he's gone off on his own. A proper loner. Just wandered into the trees.
+    answer: Springbok
+    aliases:
+    - springbok
+    reasoning: spring (bouncy) + bok (buck sound) = Springbok, the South African antelope
+  - number: 2
+    initials: I
+    clue: The great big one, that African cat, it's gone to the coast. Sitting by the ocean now.
+    answer: Impala
+    aliases:
+    - impala
+    reasoning: im + pala, sounds like impala, the African antelope, or the Chevy car
+  - number: 3
+    initials: G
+    clue: That bloke's gone and been a gazelle about the whole situation, hasn't he. Really nimble about it.
+    answer: Gazelle
+    aliases:
+    - gazelle
+    reasoning: gaz + elle, sounds like gazelle. The elegant African antelope.
 - id: animalbusters-014
   enabled: true
   title: Animalbusters
@@ -454,36 +441,35 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Fourteen. Animalbusters. The exotic ones now. Pay attention."
-  prize: "Email in. Winner gets a copy of Robbie Williams' Swing When You're Winning on CD and a novelty pen."
+  - UK
+  - US
+  intro: Fourteen. Animalbusters. The exotic ones now. Pay attention.
+  prize: Email in. Winner gets a copy of Robbie Williams' Swing When You're Winning on CD and a novelty pen.
   clues:
-    - number: 1
-      initials: M
-      clue: "Right, some fella called Bra, he's arrived and he's standing by the big cats. Proud of himself."
-      answer: Mamba
-      aliases:
-        - mamba
-        - black mamba
-      reasoning: "mam (mum) + ba = mamba, the fast African snake"
-    - number: 2
-      initials: O
-      clue: "The possum thing, right, it's gone full digging mode. Proper burrowing away."
-      answer: Opossum
-      aliases:
-        - opossum
-        - possum
-      reasoning: "o + possum, sounds like opossum. Say it with an O in front."
-    - number: 3
-      initials: V
-      clue: "That bloke in the vest, he's gone up really high. Proper elevated. Bit cold up there."
-      answer: Vicuna
-      aliases:
-        - vicuna
-        - vicuña
-      reasoning: "vi + cuna, sounds like vicuna, the South American camelid"
-
+  - number: 1
+    initials: M
+    clue: Right, some fella called Bra, he's arrived and he's standing by the big cats. Proud of himself.
+    answer: Mamba
+    aliases:
+    - mamba
+    - black mamba
+    reasoning: mam (mum) + ba = mamba, the fast African snake
+  - number: 2
+    initials: O
+    clue: The possum thing, right, it's gone full digging mode. Proper burrowing away.
+    answer: Opossum
+    aliases:
+    - opossum
+    - possum
+    reasoning: o + possum, sounds like opossum. Say it with an O in front.
+  - number: 3
+    initials: V
+    clue: That bloke in the vest, he's gone up really high. Proper elevated. Bit cold up there.
+    answer: Vicuna
+    aliases:
+    - vicuna
+    - vicuña
+    reasoning: vi + cuna, sounds like vicuna, the South American camelid
 - id: animalbusters-015
   enabled: true
   title: Animalbusters
@@ -491,33 +477,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Right, fifteen animals in. Animalbusters. Still more to go."
-  prize: "Email in. Winner gets a tube of Pringles from a vending machine and a wristband from a concert no one remembers."
+  - UK
+  - US
+  intro: Right, fifteen animals in. Animalbusters. Still more to go.
+  prize: Email in. Winner gets a tube of Pringles from a vending machine and a wristband from a concert no one remembers.
   clues:
-    - number: 1
-      initials: N
-      clue: "The night time, right, and there's a female deer involved. The two of them are just there in the dark."
-      answer: Numbat
-      aliases:
-        - numbat
-      reasoning: "numb (like going numb) + at, sounds like numbat, the Australian marsupial"
-    - number: 2
-      initials: Q
-      clue: "Like a question at the top of a page, that round-the-corner thing. Some fella's put a bird in one."
-      answer: Quoll
-      aliases:
-        - quoll
-      reasoning: "quol + l, sounds like quoll, the spotted Australian marsupial"
-    - number: 3
-      initials: D
-      clue: "That bloke's been digging about in the bush, right, and he's come out all scratched. Typical."
-      answer: Dingo
-      aliases:
-        - dingo
-      reasoning: "din (noise) + go (leave) = Dingo. Or just say it: dingo."
-
+  - number: 1
+    initials: N
+    clue: The night time, right, and there's a female deer involved. The two of them are just there in the dark.
+    answer: Numbat
+    aliases:
+    - numbat
+    reasoning: numb (like going numb) + at, sounds like numbat, the Australian marsupial
+  - number: 2
+    initials: Q
+    clue: Like a question at the top of a page, that round-the-corner thing. Some fella's put a bird in one.
+    answer: Quoll
+    aliases:
+    - quoll
+    reasoning: quol + l, sounds like quoll, the spotted Australian marsupial
+  - number: 3
+    initials: D
+    clue: That bloke's been digging about in the bush, right, and he's come out all scratched. Typical.
+    answer: Dingo
+    aliases:
+    - dingo
+    reasoning: 'din (noise) + go (leave) = Dingo. Or just say it: dingo.'
 - id: animalbusters-016
   enabled: true
   title: Animalbusters
@@ -525,34 +510,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Animalbusters sixteen. Getting into the rarities now. Don't say you weren't warned."
-  prize: "Email in. Winner gets a Club biscuit and a Friends series one to six box set on DVD."
+  - UK
+  - US
+  intro: Animalbusters sixteen. Getting into the rarities now. Don't say you weren't warned.
+  prize: Email in. Winner gets a Club biscuit and a Friends series one to six box set on DVD.
   clues:
-    - number: 1
-      initials: F
-      clue: "A bloke called Oss, he's in charge of something. Proper boss energy. Something's died near him."
-      answer: Fossa
-      aliases:
-        - fossa
-      reasoning: "foss + a, sounds like fossa, the big Madagascar predator"
-    - number: 2
-      initials: T
-      clue: "Right, she's been on the telly, that one. Lives in the bush. Basically on all channels."
-      answer: Tenrec
-      aliases:
-        - tenrec
-      reasoning: "ten + rec (recreation, or recording) = tenrec, the Madagascar insectivore"
-    - number: 3
-      initials: A
-      clue: "That pointy-nosed thing, it's been on the eating-ants game for ages now. A proper specialist."
-      answer: Anteater
-      aliases:
-        - anteater
-        - giant anteater
-      reasoning: "ant + eater = anteater. Dead simple this one. Bit embarrassing really."
-
+  - number: 1
+    initials: F
+    clue: A bloke called Oss, he's in charge of something. Proper boss energy. Something's died near him.
+    answer: Fossa
+    aliases:
+    - fossa
+    reasoning: foss + a, sounds like fossa, the big Madagascar predator
+  - number: 2
+    initials: T
+    clue: Right, she's been on the telly, that one. Lives in the bush. Basically on all channels.
+    answer: Tenrec
+    aliases:
+    - tenrec
+    reasoning: ten + rec (recreation, or recording) = tenrec, the Madagascar insectivore
+  - number: 3
+    initials: A
+    clue: That pointy-nosed thing, it's been on the eating-ants game for ages now. A proper specialist.
+    answer: Anteater
+    aliases:
+    - anteater
+    - giant anteater
+    reasoning: ant + eater = anteater. Dead simple this one. Bit embarrassing really.
 - id: animalbusters-017
   enabled: true
   title: Animalbusters
@@ -560,33 +544,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Seventeen. Animalbusters. These ones might trip you up. They're a bit sneaky."
-  prize: "Email in. Winner gets a Cheesestring and a signed headshot from someone off a soap, unclear which one."
+  - UK
+  - US
+  intro: Seventeen. Animalbusters. These ones might trip you up. They're a bit sneaky.
+  prize: Email in. Winner gets a Cheesestring and a signed headshot from someone off a soap, unclear which one.
   clues:
-    - number: 1
-      initials: L
-      clue: "The whole lot of it, every single one. Right, that's gone a bit mad. Running around on all the legs."
-      answer: Lynx
-      aliases:
-        - lynx
-      reasoning: "links (connects everything) sounds like lynx. Or the deodorant, but that's a different thing."
-    - number: 2
-      initials: S
-      clue: "That bloke has gone and shunned the lot of them, right. Said no to all of it."
-      answer: Serval
-      aliases:
-        - serval
-      reasoning: "ser + val, sounds like serval, the long-legged African cat"
-    - number: 3
-      initials: C
-      clue: "Right, that thing cub scouts are in, it's gone wild and furry. Running about on all fours."
-      answer: Coyote
-      aliases:
-        - coyote
-      reasoning: "coy (shy, keeping back) + ote, sounds like coyote when said out loud"
-
+  - number: 1
+    initials: L
+    clue: The whole lot of it, every single one. Right, that's gone a bit mad. Running around on all the legs.
+    answer: Lynx
+    aliases:
+    - lynx
+    reasoning: links (connects everything) sounds like lynx. Or the deodorant, but that's a different thing.
+  - number: 2
+    initials: S
+    clue: That bloke has gone and shunned the lot of them, right. Said no to all of it.
+    answer: Serval
+    aliases:
+    - serval
+    reasoning: ser + val, sounds like serval, the long-legged African cat
+  - number: 3
+    initials: C
+    clue: Right, that thing cub scouts are in, it's gone wild and furry. Running about on all fours.
+    answer: Coyote
+    aliases:
+    - coyote
+    reasoning: coy (shy, keeping back) + ote, sounds like coyote when said out loud
 - id: animalbusters-018
   enabled: true
   title: Animalbusters
@@ -594,35 +577,34 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Nearly there. Animalbusters eighteen. Last few now. Give it one more go."
-  prize: "Email in. Winner gets a Boots Advantage card with twelve points and a biscuit tin shaped like a cottage."
+  - UK
+  - US
+  intro: Animalbusters. Three more animals hiding in the phonetic clues. Give it one more go.
+  prize: Email in. Winner gets a Boots Advantage card with twelve points and a biscuit tin shaped like a cottage.
   clues:
-    - number: 1
-      initials: B
-      clue: "That big shaggy thing from up north, right, it's gone all buffo about the situation. Puffed up."
-      answer: Buffalo
-      aliases:
-        - buffalo
-        - bison
-      reasoning: "buff + alo, sounds like buffalo. Or buff + a + low. Big horned thing."
-    - number: 2
-      initials: M
-      clue: "The mole, right, that underground digger, it's gone and got itself a ratt on the end. Bit grim."
-      answer: Mole Rat
-      aliases:
-        - mole rat
-        - naked mole rat
-      reasoning: "mole (underground digger) + rat (the other one) = Mole Rat"
-    - number: 3
-      initials: W
-      clue: "That lazy-looking one, it's just sitting there being all bearish in Australia. Taking its time."
-      answer: Wombat
-      aliases:
-        - wombat
-      reasoning: "wom + bat, sounds like wombat. The Australian burrowing marsupial."
-
+  - number: 1
+    initials: B
+    clue: That big shaggy thing from up north, right, it's gone all buffo about the situation. Puffed up.
+    answer: Buffalo
+    aliases:
+    - buffalo
+    - bison
+    reasoning: buff + alo, sounds like buffalo. Or buff + a + low. Big horned thing.
+  - number: 2
+    initials: M
+    clue: The mole, right, that underground digger, it's gone and got itself a ratt on the end. Bit grim.
+    answer: Mole Rat
+    aliases:
+    - mole rat
+    - naked mole rat
+    reasoning: mole (underground digger) + rat (the other one) = Mole Rat
+  - number: 3
+    initials: W
+    clue: That lazy-looking one, it's just sitting there being all bearish in Australia. Taking its time.
+    answer: Wombat
+    aliases:
+    - wombat
+    reasoning: wom + bat, sounds like wombat. The Australian burrowing marsupial.
 - id: animalbusters-019
   enabled: true
   title: Animalbusters
@@ -630,34 +612,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Animalbusters nineteen. One more after this. The penultimate animal round."
-  prize: "Email in. Winner gets a two-for-one Pizza Hut voucher from 2004 and a branded pen from an insurance company."
+  - UK
+  - US
+  intro: Animalbusters. Three more animals hiding in the sounds. Say each one out loud.
+  prize: Email in. Winner gets a two-for-one Pizza Hut voucher from 2004 and a branded pen from an insurance company.
   clues:
-    - number: 1
-      initials: P
-      clue: "A cat, right, but this one's gone completely black and it's in a tree somewhere dark. You'd miss it."
-      answer: Panther
-      aliases:
-        - panther
-        - black panther
-      reasoning: "pan (frying pan) + ther, sounds like panther. The black big cat."
-    - number: 2
-      initials: M
-      clue: "Right, a lady called Mbwa, she's done a proper mad thing with a motorbike. Wild behaviour."
-      answer: Mandrill
-      aliases:
-        - mandrill
-      reasoning: "man + drill (power tool) = Mandrill. The colourful African primate."
-    - number: 3
-      initials: O
-      clue: "The bloke from the nightclub, right, standing by the cape buffalo. Doesn't know what he's looking at."
-      answer: Okapi
-      aliases:
-        - okapi
-      reasoning: "o + kapi, sounds like okapi, the zebra-giraffe thing from the Congo"
-
+  - number: 1
+    initials: P
+    clue: A cat, right, but this one's gone completely black and it's in a tree somewhere dark. You'd miss it.
+    answer: Panther
+    aliases:
+    - panther
+    - black panther
+    reasoning: pan (frying pan) + ther, sounds like panther. The black big cat.
+  - number: 2
+    initials: M
+    clue: Right, a lady called Mbwa, she's done a proper mad thing with a motorbike. Wild behaviour.
+    answer: Mandrill
+    aliases:
+    - mandrill
+    reasoning: man + drill (power tool) = Mandrill. The colourful African primate.
+  - number: 3
+    initials: O
+    clue: The bloke from the nightclub, right, standing by the cape buffalo. Doesn't know what he's looking at.
+    answer: Okapi
+    aliases:
+    - okapi
+    reasoning: o + kapi, sounds like okapi, the zebra-giraffe thing from the Congo
 - id: animalbusters-020
   enabled: true
   title: Animalbusters
@@ -665,29 +646,29 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Last one. Animalbusters twenty. Final round. Make it count."
-  prize: "Email in. Winner gets a copy of Bridget Jones's Diary on DVD and a mini bottle of ketchup from a hotel room."
+  - UK
+  - US
+  intro: Animalbusters. Three animals hiding in the sounds. Say each clue out loud.
+  prize: Email in. Winner gets a copy of Bridget Jones's Diary on DVD and a mini bottle of ketchup from a hotel room.
   clues:
-    - number: 1
-      initials: H
-      clue: "Right, a bloke called Vark, he's had a really, really tough time of it. Poor lad."
-      answer: Aardvark
-      aliases:
-        - aardvark
-      reasoning: "ard (hard, tough) + vark (bloke called Vark) = Aardvark. Drop the H like you always do."
-    - number: 2
-      initials: P
-      clue: "That scaly thing, right, it's gone all pang and then Lin showed up and made it worse. Tense atmosphere."
-      answer: Pangolin
-      aliases:
-        - pangolin
-      reasoning: "pang (sharp pain) + o + lin (person called Lin) = Pangolin"
-    - number: 3
-      initials: T D
-      clue: "The island at the bottom of Australia, right. Whatever lives there is absolutely furious about something."
-      answer: Tasmanian Devil
-      aliases:
-        - tasmanian devil
-      reasoning: "Tasmanian (from Tasmania, the island) + devil (furious, evil-tempered) = Tasmanian Devil"
+  - number: 1
+    initials: H
+    clue: Right, a bloke called Vark, he's had a really, really tough time of it. Poor lad.
+    answer: Aardvark
+    aliases:
+    - aardvark
+    reasoning: ard (hard, tough) + vark (bloke called Vark) = Aardvark. Drop the H like you always do.
+  - number: 2
+    initials: P
+    clue: That scaly thing, right, it's gone all pang and then Lin showed up and made it worse. Tense atmosphere.
+    answer: Pangolin
+    aliases:
+    - pangolin
+    reasoning: pang (sharp pain) + o + lin (person called Lin) = Pangolin
+  - number: 3
+    initials: T D
+    clue: The island at the bottom of Australia, right. Whatever lives there is absolutely furious about something.
+    answer: Tasmanian Devil
+    aliases:
+    - tasmanian devil
+    reasoning: Tasmanian (from Tasmania, the island) + devil (furious, evil-tempered) = Tasmanian Devil

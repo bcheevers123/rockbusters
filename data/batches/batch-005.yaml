@@ -5,34 +5,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Right, Bandbusters. Classic British acts, phonetic clues, the usual nonsense."
-  prize: "Email in. Winner gets a Now That's What I Call Music 47 cassette and a complimentary biro."
+  - UK
+  intro: Right, Bandbusters. Classic British acts, phonetic clues, the usual nonsense.
+  prize: Email in. Winner gets a Now That's What I Call Music 47 cassette and a complimentary biro.
   clues:
-    - number: 1
-      initials: T B
-      clue: "Right, that thing you hit with a drumstick, you've just given it a proper whack, and there's a bloke called Les stood next to it. That's all."
-      answer: The Beatles
-      aliases:
-        - the beatles
-        - beatles
-      reasoning: "the + beat (whack) + Les = The Beatles"
-    - number: 2
-      initials: R S
-      clue: "Someone keeps moving these great big rocks. Just rolling them down a hill. Can't leave them alone."
-      answer: Rolling Stones
-      aliases:
-        - rolling stones
-        - the rolling stones
-      reasoning: "rolling + stones = Rolling Stones"
-    - number: 3
-      initials: L Z
-      clue: "They've melted some of that heavy grey metal and then gone and named a massive airship after it. Bit much."
-      answer: Led Zeppelin
-      aliases:
-        - led zeppelin
-      reasoning: "led (the metal, pronounced 'led') + Zeppelin (famous airship) = Led Zeppelin"
-
+  - number: 1
+    initials: T B
+    clue: Right, that thing you hit with a drumstick, you've just given it a proper whack, and there's a bloke called Les stood next to it. That's all.
+    answer: The Beatles
+    aliases:
+    - the beatles
+    - beatles
+    reasoning: the + beat (whack) + Les = The Beatles
+  - number: 2
+    initials: R S
+    clue: Someone keeps moving these great big rocks. Just rolling them down a hill. Can't leave them alone.
+    answer: Rolling Stones
+    aliases:
+    - rolling stones
+    - the rolling stones
+    reasoning: rolling + stones = Rolling Stones
+  - number: 3
+    initials: L Z
+    clue: They've melted some of that heavy grey metal and then gone and named a massive airship after it. Bit much.
+    answer: Led Zeppelin
+    aliases:
+    - led zeppelin
+    reasoning: led (the metal, pronounced 'led') + Zeppelin (famous airship) = Led Zeppelin
 - id: bandbusters-002
   enabled: true
   title: Bandbusters
@@ -40,33 +39,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Bandbusters again. Don't overthink it, just say the clue out loud."
-  prize: "Email in. Winner gets a Blockbuster loyalty card and a bag of Pick n Mix that's been open a while."
+  - UK
+  intro: Bandbusters again. Don't overthink it, just say the clue out loud.
+  prize: Email in. Winner gets a Blockbuster loyalty card and a bag of Pick n Mix that's been open a while.
   clues:
-    - number: 1
-      initials: P F
-      clue: "That fella who's gone a bit rosy-cheeked, the one who looks like he's been out in the cold, him and a bloke called Floyd. Off somewhere together."
-      answer: Pink Floyd
-      aliases:
-        - pink floyd
-      reasoning: "pink (rosy colour) + Floyd (bloke's name) = Pink Floyd"
-    - number: 2
-      initials: T C
-      clue: "Two shopping trolleys have gone and smashed into each other in the cereal aisle. Someone's going to have to sort that out."
-      answer: The Clash
-      aliases:
-        - the clash
-        - clash
-      reasoning: "the + clash (collision, smash) = The Clash"
-    - number: 3
-      initials: O
-      clue: "Right, you're in a desert, dead thirsty, and suddenly there it is. That thing with the palm tree and the water. One word. Near enough."
-      answer: Oasis
-      aliases:
-        - oasis
-      reasoning: "oasis (the desert water source, sounds exactly like the band) = Oasis"
-
+  - number: 1
+    initials: P F
+    clue: That fella who's gone a bit rosy-cheeked, the one who looks like he's been out in the cold, him and a bloke called Floyd. Off somewhere together.
+    answer: Pink Floyd
+    aliases:
+    - pink floyd
+    reasoning: pink (rosy colour) + Floyd (bloke's name) = Pink Floyd
+  - number: 2
+    initials: T C
+    clue: Two shopping trolleys have gone and smashed into each other in the cereal aisle. Someone's going to have to sort that out.
+    answer: The Clash
+    aliases:
+    - the clash
+    - clash
+    reasoning: the + clash (collision, smash) = The Clash
+  - number: 3
+    initials: O
+    clue: Right, you're in a desert, dead thirsty, and suddenly there it is. That thing with the palm tree and the water. One word. Near enough.
+    answer: Oasis
+    aliases:
+    - oasis
+    reasoning: oasis (the desert water source, sounds exactly like the band) = Oasis
 - id: bandbusters-003
   enabled: true
   title: Bandbusters
@@ -74,33 +72,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Here's another Bandbusters. All British, all phonetic, all a bit daft."
-  prize: "Email in. Winner gets an AOL free trial disc and a supermarket own-brand chocolate orange."
+  - UK
+  intro: Here's another Bandbusters. All British, all phonetic, all a bit daft.
+  prize: Email in. Winner gets an AOL free trial disc and a supermarket own-brand chocolate orange.
   clues:
-    - number: 1
-      initials: D B
-      clue: "A bloke named Dave, David, full name, he's holding a bow and arrow. Not sure why. He's just stood there with it."
-      answer: David Bowie
-      aliases:
-        - david bowie
-        - bowie
-      reasoning: "David + bow (archery bow) + ee (the letter) = David Bowie"
-    - number: 2
-      initials: B
-      clue: "You're trying to read the sign but it's gone all smudgy. Everything's a bit fuzzy. Can't make it out. One word, that's your lot."
-      answer: Blur
-      aliases:
-        - blur
-      reasoning: "blur (smudgy, out of focus) = Blur"
-    - number: 3
-      initials: R
-      clue: "There's a transistor radio, right, and it's just sort of sitting on someone's head. Balanced there. No reason given."
-      answer: Radiohead
-      aliases:
-        - radiohead
-      reasoning: "radio + head = Radiohead"
-
+  - number: 1
+    initials: D B
+    clue: A bloke named Dave, David, full name, he's holding a bow and arrow. Not sure why. He's just stood there with it.
+    answer: David Bowie
+    aliases:
+    - david bowie
+    - bowie
+    reasoning: David + bow (archery bow) + ee (the letter) = David Bowie
+  - number: 2
+    initials: B
+    clue: You're trying to read the sign but it's gone all smudgy. Everything's a bit fuzzy. Can't make it out. One word, that's your lot.
+    answer: Blur
+    aliases:
+    - blur
+    reasoning: blur (smudgy, out of focus) = Blur
+  - number: 3
+    initials: R
+    clue: There's a transistor radio, right, and it's just sort of sitting on someone's head. Balanced there. No reason given.
+    answer: Radiohead
+    aliases:
+    - radiohead
+    reasoning: radio + head = Radiohead
 - id: bandbusters-004
   enabled: true
   title: Bandbusters
@@ -108,34 +105,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Bandbusters. Say each clue out loud. That's how it works."
-  prize: "Email in. Winner gets a DVD copy of Billy Elliot and a Werther's Original."
+  - UK
+  intro: Bandbusters. Say each clue out loud. That's how it works.
+  prize: Email in. Winner gets a DVD copy of Billy Elliot and a Werther's Original.
   clues:
-    - number: 1
-      initials: T P
-      clue: "Right, someone's given a child genius a little poke to get their attention. A prod, like. The kid's apparently very gifted."
-      answer: The Prodigy
-      aliases:
-        - the prodigy
-        - prodigy
-      reasoning: "the + prod (a poke) + igy sounds like prodigy = The Prodigy"
-    - number: 2
-      initials: A M
-      clue: "A woman called Amy's aiming at something, she's lined it up, very focused, and behind her there's a house full of wine bottles. Bit of a state."
-      answer: Amy Winehouse
-      aliases:
-        - amy winehouse
-        - winehouse
-      reasoning: "Amy + wine + house = Amy Winehouse"
-    - number: 3
-      initials: A
-      clue: "It's that letter A, right, and then someone's said the word 'dell' after it. Like a small valley. Together. Say it out loud. There you go."
-      answer: Adele
-      aliases:
-        - adele
-      reasoning: "A + dell (a small wooded valley) = Adele"
-
+  - number: 1
+    initials: T P
+    clue: Right, someone's given a child genius a little poke to get their attention. A prod, like. The kid's apparently very gifted.
+    answer: The Prodigy
+    aliases:
+    - the prodigy
+    - prodigy
+    reasoning: the + prod (a poke) + igy sounds like prodigy = The Prodigy
+  - number: 2
+    initials: A M
+    clue: A woman called Amy's aiming at something, she's lined it up, very focused, and behind her there's a house full of wine bottles. Bit of a state.
+    answer: Amy Winehouse
+    aliases:
+    - amy winehouse
+    - winehouse
+    reasoning: Amy + wine + house = Amy Winehouse
+  - number: 3
+    initials: A
+    clue: It's that letter A, right, and then someone's said the word 'dell' after it. Like a small valley. Together. Say it out loud. There you go.
+    answer: Adele
+    aliases:
+    - adele
+    reasoning: A + dell (a small wooded valley) = Adele
 - id: bandbusters-005
   enabled: true
   title: Bandbusters
@@ -143,34 +139,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Alright, Bandbusters. British music legends this one."
-  prize: "Email in. Winner gets a printed MSN Messenger conversation, framed."
+  - UK
+  intro: Alright, Bandbusters. British music legends this one.
+  prize: Email in. Winner gets a printed MSN Messenger conversation, framed.
   clues:
-    - number: 1
-      initials: C
-      clue: "The swimming pool's gone freezing and there's a load of kids in there still splashing about. Absolutely brass monkeys. That's the clue."
-      answer: Coldplay
-      aliases:
-        - coldplay
-      reasoning: "cold + play (kids playing) = Coldplay"
-    - number: 2
-      initials: A M
-      clue: "Someone's drawn a great big curved shape, like the bottom of a bridge, and it's got a tick on it, and inside there's a monkey holding a bunch of keys. Take your time."
-      answer: Arctic Monkeys
-      aliases:
-        - arctic monkeys
-        - the arctic monkeys
-      reasoning: "arc + tic + monkey + s = Arctic Monkeys"
-    - number: 3
-      initials: T K
-      clue: "There's a hosepipe, right, and it's got a right nasty bend in it. Won't flow properly. Annoying."
-      answer: The Kinks
-      aliases:
-        - the kinks
-        - kinks
-      reasoning: "the + kinks (bends, tangles) = The Kinks"
-
+  - number: 1
+    initials: C
+    clue: The swimming pool's gone freezing and there's a load of kids in there still splashing about. Absolutely brass monkeys. That's the clue.
+    answer: Coldplay
+    aliases:
+    - coldplay
+    reasoning: cold + play (kids playing) = Coldplay
+  - number: 2
+    initials: A M
+    clue: Someone's drawn a great big curved shape, like the bottom of a bridge, and it's got a tick on it, and inside there's a monkey holding a bunch of keys. Take your time.
+    answer: Arctic Monkeys
+    aliases:
+    - arctic monkeys
+    - the arctic monkeys
+    reasoning: arc + tic + monkey + s = Arctic Monkeys
+  - number: 3
+    initials: T K
+    clue: There's a hosepipe, right, and it's got a right nasty bend in it. Won't flow properly. Annoying.
+    answer: The Kinks
+    aliases:
+    - the kinks
+    - kinks
+    reasoning: the + kinks (bends, tangles) = The Kinks
 - id: bandbusters-006
   enabled: true
   title: Bandbusters
@@ -178,33 +173,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Bandbusters. British bands this time. Don't overthink it."
-  prize: "Email in. Winner gets a Milky Way and a loyalty card for a shop that closed in 2009."
+  - UK
+  intro: Bandbusters. British bands this time. Don't overthink it.
+  prize: Email in. Winner gets a Milky Way and a loyalty card for a shop that closed in 2009.
   clues:
-    - number: 1
-      initials: T S
-      clue: "Right, you've got a load of blacksmiths, you know, the ones who bash metal and shoe horses, and they've all turned up at once. A whole group of them."
-      answer: The Smiths
-      aliases:
-        - the smiths
-        - smiths
-      reasoning: "the + smiths (blacksmiths, metalworkers) = The Smiths"
-    - number: 2
-      initials: P
-      clue: "You've squeezed an orange too hard and the white stringy bits are floating about in the juice. That's the clue. One word."
-      answer: Pulp
-      aliases:
-        - pulp
-      reasoning: "pulp (the fibrous bits in orange juice, or to pulp something) = Pulp"
-    - number: 3
-      initials: S
-      clue: "Superman's had a look at next door's lawn and he thinks it's exceptional. Really first rate. Says so an' all."
-      answer: Supergrass
-      aliases:
-        - supergrass
-      reasoning: "super + grass (lawn) = Supergrass"
-
+  - number: 1
+    initials: T S
+    clue: Right, you've got a load of blacksmiths, you know, the ones who bash metal and shoe horses, and they've all turned up at once. A whole group of them.
+    answer: The Smiths
+    aliases:
+    - the smiths
+    - smiths
+    reasoning: the + smiths (blacksmiths, metalworkers) = The Smiths
+  - number: 2
+    initials: P
+    clue: You've squeezed an orange too hard and the white stringy bits are floating about in the juice. That's the clue. One word.
+    answer: Pulp
+    aliases:
+    - pulp
+    reasoning: pulp (the fibrous bits in orange juice, or to pulp something) = Pulp
+  - number: 3
+    initials: S
+    clue: Superman's had a look at next door's lawn and he thinks it's exceptional. Really first rate. Says so an' all.
+    answer: Supergrass
+    aliases:
+    - supergrass
+    reasoning: super + grass (lawn) = Supergrass
 - id: bandbusters-007
   enabled: true
   title: Bandbusters
@@ -212,32 +206,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Here we go, Bandbusters. All British, all phonetic. Have a go."
-  prize: "Email in. Winner gets a Sunny Delight bottle (empty) and a HMV gift voucher from 2004."
+  - UK
+  intro: Here we go, Bandbusters. All British, all phonetic. Have a go.
+  prize: Email in. Winner gets a Sunny Delight bottle (empty) and a HMV gift voucher from 2004.
   clues:
-    - number: 1
-      initials: P
-      clue: "You've arrived in a harbour town, right, and you order a glass of that dark fortified wine they do, and the barman just says it is. Like that's the whole answer."
-      answer: Portishead
-      aliases:
-        - portishead
-      reasoning: "port (harbour / drink) + is + head = Portishead"
-    - number: 2
-      initials: M A
-      clue: "Someone's got a really big something, enormous, massive, and it's come at them at full speed. That's the whole situation."
-      answer: Massive Attack
-      aliases:
-        - massive attack
-      reasoning: "massive + attack = Massive Attack"
-    - number: 3
-      initials: E
-      clue: "A woman called Ella's doing a stretchy exercise class, really going for it, and she's made of elastic. Near enough."
-      answer: Elastica
-      aliases:
-        - elastica
-      reasoning: "Ella + stic + a sounds like Elastica = Elastica"
-
+  - number: 1
+    initials: P
+    clue: You've arrived in a harbour town, right, and you order a glass of that dark fortified wine they do, and the barman just says it is. Like that's the whole answer.
+    answer: Portishead
+    aliases:
+    - portishead
+    reasoning: port (harbour / drink) + is + head = Portishead
+  - number: 2
+    initials: M A
+    clue: Someone's got a really big something, enormous, massive, and it's come at them at full speed. That's the whole situation.
+    answer: Massive Attack
+    aliases:
+    - massive attack
+    reasoning: massive + attack = Massive Attack
+  - number: 3
+    initials: E
+    clue: A woman called Ella's doing a stretchy exercise class, really going for it, and she's made of elastic. Near enough.
+    answer: Elastica
+    aliases:
+    - elastica
+    reasoning: Ella + stic + a sounds like Elastica = Elastica
 - id: bandbusters-008
   enabled: true
   title: Bandbusters
@@ -245,34 +238,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Bandbusters. Phonetic clues, British music. Off we go."
-  prize: "Email in. Winner gets a copy of Shrek on DVD and a branded pen from a financial services company."
+  - UK
+  intro: Bandbusters. Phonetic clues, British music. Off we go.
+  prize: Email in. Winner gets a copy of Shrek on DVD and a branded pen from a financial services company.
   clues:
-    - number: 1
-      initials: T C
-      clue: "Right, you've got someone who looks after a place, a guard, like, and his name's Ian. Someone's keeping an eye on Ian. Sort of ironic."
-      answer: The Cure
-      aliases:
-        - the cure
-        - cure
-      reasoning: "the + cure (the + kyoor). Actually: the + Ian sounds like... let me redo. The Cure: the + cure (a remedy). A doctor's prescribed it and someone's going 'that's the remedy for it, that is.'"
-    - number: 2
-      initials: T J
-      clue: "You've got a jar full of something, jam, like, and it's a very particular jar. A special one. The jam. That's it."
-      answer: The Jam
-      aliases:
-        - the jam
-        - jam
-      reasoning: "the + jam (fruit preserve in a jar) = The Jam"
-    - number: 3
-      initials: D M
-      clue: "Someone's slipped into a really deep sort of mood, kind of gloomy, a bit dramatic, and they've gone off to stand near some synthesisers. Bit theatrical."
-      answer: Depeche Mode
-      aliases:
-        - depeche mode
-      reasoning: "de-peche (dispatch, French) + mode (fashion/style), sounds like 'depesh mode' = Depeche Mode"
-
+  - number: 1
+    initials: T C
+    clue: Right, you've got someone who looks after a place, a guard, like, and his name's Ian. Someone's keeping an eye on Ian. Sort of ironic.
+    answer: The Cure
+    aliases:
+    - the cure
+    - cure
+    reasoning: 'the + cure (the + kyoor). Actually: the + Ian sounds like... let me redo. The Cure: the + cure (a remedy). A doctor''s prescribed it and someone''s going ''that''s the remedy for it, that is.'''
+  - number: 2
+    initials: T J
+    clue: You've got a jar full of something, jam, like, and it's a very particular jar. A special one. The jam. That's it.
+    answer: The Jam
+    aliases:
+    - the jam
+    - jam
+    reasoning: the + jam (fruit preserve in a jar) = The Jam
+  - number: 3
+    initials: D M
+    clue: Someone's slipped into a really deep sort of mood, kind of gloomy, a bit dramatic, and they've gone off to stand near some synthesisers. Bit theatrical.
+    answer: Depeche Mode
+    aliases:
+    - depeche mode
+    reasoning: de-peche (dispatch, French) + mode (fashion/style), sounds like 'depesh mode' = Depeche Mode
 - id: bandbusters-009
   enabled: true
   title: Bandbusters
@@ -280,33 +272,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Another Bandbusters. Say the clue out loud, that's always the trick."
-  prize: "Email in. Winner gets a six-pack of Sunny D and a Tamagotchi with flat batteries."
+  - UK
+  intro: Another Bandbusters. Say the clue out loud, that's always the trick.
+  prize: Email in. Winner gets a six-pack of Sunny D and a Tamagotchi with flat batteries.
   clues:
-    - number: 1
-      initials: P S
-      clue: "The first one on offer, the screaming at the beginning, the initial burst, it's primal, they reckon. Very raw."
-      answer: Primal Scream
-      aliases:
-        - primal scream
-      reasoning: "primal + scream = Primal Scream"
-    - number: 2
-      initials: S
-      clue: "A bloke's wearing a really nice suit, very elegant, bit fancy, and someone's asked where it's from. Just one word."
-      answer: Suede
-      aliases:
-        - suede
-      reasoning: "suede (the soft leather fabric, sounds exactly like the band) = Suede"
-    - number: 3
-      initials: E S
-      clue: "Right, someone called Ed is standing there with a pair of scissors. Just cutting things. Snip snip. Carries them everywhere apparently."
-      answer: Ed Sheeran
-      aliases:
-        - ed sheeran
-        - sheeran
-      reasoning: "Ed + shear (to cut/trim) + an = Ed Sheeran"
-
+  - number: 1
+    initials: P S
+    clue: The first one on offer, the screaming at the beginning, the initial burst, it's primal, they reckon. Very raw.
+    answer: Primal Scream
+    aliases:
+    - primal scream
+    reasoning: primal + scream = Primal Scream
+  - number: 2
+    initials: S
+    clue: A bloke's wearing a really nice suit, very elegant, bit fancy, and someone's asked where it's from. Just one word.
+    answer: Suede
+    aliases:
+    - suede
+    reasoning: suede (the soft leather fabric, sounds exactly like the band) = Suede
+  - number: 3
+    initials: E S
+    clue: Right, someone called Ed is standing there with a pair of scissors. Just cutting things. Snip snip. Carries them everywhere apparently.
+    answer: Ed Sheeran
+    aliases:
+    - ed sheeran
+    - sheeran
+    reasoning: Ed + shear (to cut/trim) + an = Ed Sheeran
 - id: bandbusters-010
   enabled: true
   title: Bandbusters
@@ -314,33 +305,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Bandbusters. Ten in now. Still going. Have a go at these."
-  prize: "Email in. Winner gets a Reader's Digest from 2001 and a travel-sized Lynx Africa."
+  - UK
+  intro: Bandbusters. Ten in now. Still going. Have a go at these.
+  prize: Email in. Winner gets a Reader's Digest from 2001 and a travel-sized Lynx Africa.
   clues:
-    - number: 1
-      initials: T B
-      clue: "A bloke called Paul's been doing a lot of drumming, tapping away on the table, can't stop, and this time he's gone ahead and played the actual beat. Loud."
-      answer: The Beatles
-      aliases:
-        - the beatles
-        - beatles
-      reasoning: "the + beat + les (Paul Les, or just 'les') = The Beatles"
-    - number: 2
-      initials: R
-      clue: "You're tuned into the broadcast, it's coming through clear as anything, and it's coming from inside someone's skull. Bit odd."
-      answer: Radiohead
-      aliases:
-        - radiohead
-      reasoning: "radio + head = Radiohead"
-    - number: 3
-      initials: G
-      clue: "Right, there's a bloke called Gene just sat there. That's it. His name's Gene. One word. Easy one this."
-      answer: Gene
-      aliases:
-        - gene
-      reasoning: "Gene (sounds like 'jean' the fabric or just the name Gene) = Gene"
-
+  - number: 1
+    initials: T B
+    clue: A bloke called Paul's been doing a lot of drumming, tapping away on the table, can't stop, and this time he's gone ahead and played the actual beat. Loud.
+    answer: The Beatles
+    aliases:
+    - the beatles
+    - beatles
+    reasoning: the + beat + les (Paul Les, or just 'les') = The Beatles
+  - number: 2
+    initials: R
+    clue: You're tuned into the broadcast, it's coming through clear as anything, and it's coming from inside someone's skull. Bit odd.
+    answer: Radiohead
+    aliases:
+    - radiohead
+    reasoning: radio + head = Radiohead
+  - number: 3
+    initials: G
+    clue: Right, there's a bloke called Gene just sat there. That's it. His name's Gene. One word. Easy one this.
+    answer: Gene
+    aliases:
+    - gene
+    reasoning: Gene (sounds like 'jean' the fabric or just the name Gene) = Gene
 - id: bandbusters-011
   enabled: true
   title: Bandbusters
@@ -348,32 +338,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Right, more Bandbusters. British music this one. Take your time."
-  prize: "Email in. Winner gets a NOW 52 CD and a keyring shaped like something from a motorway services."
+  - UK
+  intro: Right, more Bandbusters. British music this one. Take your time.
+  prize: Email in. Winner gets a NOW 52 CD and a keyring shaped like something from a motorway services.
   clues:
-    - number: 1
-      initials: L Z
-      clue: "They've used the soft grey metal for the wiring, right, and then some German fella's gone and attached it to one of them enormous floating balloon ships. Very on brand."
-      answer: Led Zeppelin
-      aliases:
-        - led zeppelin
-      reasoning: "led (soft grey metal, pronounced 'led') + Zeppelin (Count Zeppelin's airship) = Led Zeppelin"
-    - number: 2
-      initials: O
-      clue: "Middle of the desert, miles from anywhere, and suddenly there's a pool of clean water and a palm tree. You'd be well chuffed."
-      answer: Oasis
-      aliases:
-        - oasis
-      reasoning: "oasis (desert water source) = Oasis"
-    - number: 3
-      initials: P F
-      clue: "He's gone bright pink, this Floyd, from being in the sun too long. Serves him right."
-      answer: Pink Floyd
-      aliases:
-        - pink floyd
-      reasoning: "pink (colour, sunburnt) + Floyd (bloke's name) = Pink Floyd"
-
+  - number: 1
+    initials: L Z
+    clue: They've used the soft grey metal for the wiring, right, and then some German fella's gone and attached it to one of them enormous floating balloon ships. Very on brand.
+    answer: Led Zeppelin
+    aliases:
+    - led zeppelin
+    reasoning: led (soft grey metal, pronounced 'led') + Zeppelin (Count Zeppelin's airship) = Led Zeppelin
+  - number: 2
+    initials: O
+    clue: Middle of the desert, miles from anywhere, and suddenly there's a pool of clean water and a palm tree. You'd be well chuffed.
+    answer: Oasis
+    aliases:
+    - oasis
+    reasoning: oasis (desert water source) = Oasis
+  - number: 3
+    initials: P F
+    clue: He's gone bright pink, this Floyd, from being in the sun too long. Serves him right.
+    answer: Pink Floyd
+    aliases:
+    - pink floyd
+    reasoning: pink (colour, sunburnt) + Floyd (bloke's name) = Pink Floyd
 - id: bandbusters-012
   enabled: true
   title: Bandbusters
@@ -381,32 +370,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Bandbusters. Don't write in the spelling, just say it out loud."
-  prize: "Email in. Winner gets a Freeview box from a charity shop and an out-of-date Boots advantage card."
+  - UK
+  intro: Bandbusters. Don't write in the spelling, just say it out loud.
+  prize: Email in. Winner gets a Freeview box from a charity shop and an out-of-date Boots advantage card.
   clues:
-    - number: 1
-      initials: A
-      clue: "A bloke called Del has gone and put a letter in front of his name. The first one. 'A-Dell.' That's what he's going by now."
-      answer: Adele
-      aliases:
-        - adele
-      reasoning: "A + dell (a wooded hollow, or the name Del) = Adele"
-    - number: 2
-      initials: C
-      clue: "The swimming baths have gone below zero. Kids are still having a play in there. Parents are mental."
-      answer: Coldplay
-      aliases:
-        - coldplay
-      reasoning: "cold + play = Coldplay"
-    - number: 3
-      initials: B
-      clue: "Everything's gone a bit smudgy. Can't focus. The whole scene is fuzzy and indistinct. Just one word, this one."
-      answer: Blur
-      aliases:
-        - blur
-      reasoning: "blur (out of focus, smeared) = Blur"
-
+  - number: 1
+    initials: A
+    clue: A bloke called Del has gone and put a letter in front of his name. The first one. 'A-Dell.' That's what he's going by now.
+    answer: Adele
+    aliases:
+    - adele
+    reasoning: A + dell (a wooded hollow, or the name Del) = Adele
+  - number: 2
+    initials: C
+    clue: The swimming baths have gone below zero. Kids are still having a play in there. Parents are mental.
+    answer: Coldplay
+    aliases:
+    - coldplay
+    reasoning: cold + play = Coldplay
+  - number: 3
+    initials: B
+    clue: Everything's gone a bit smudgy. Can't focus. The whole scene is fuzzy and indistinct. Just one word, this one.
+    answer: Blur
+    aliases:
+    - blur
+    reasoning: blur (out of focus, smeared) = Blur
 - id: bandbusters-013
   enabled: true
   title: Bandbusters
@@ -414,34 +402,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Alright, Bandbusters thirteen. Unlucky for some. Not for you though."
-  prize: "Email in. Winner gets a mini bottle of HP Sauce and a Cadbury Highlights sachets box, mostly full."
+  - UK
+  intro: Alright, Bandbusters thirteen. Unlucky for some. Not for you though.
+  prize: Email in. Winner gets a mini bottle of HP Sauce and a Cadbury Highlights sachets box, mostly full.
   clues:
-    - number: 1
-      initials: T S
-      clue: "That bloke in the kitchen, the one who makes stuff out of metal, shoes horses, all that, he's not alone. There's loads of them. Whole family."
-      answer: The Smiths
-      aliases:
-        - the smiths
-        - smiths
-      reasoning: "the + smiths (metalworkers, farriers) = The Smiths"
-    - number: 2
-      initials: T K
-      clue: "There's a wire, right, all twisted up, can't get it straight. Full of kinks. Annoying. The whole thing."
-      answer: The Kinks
-      aliases:
-        - the kinks
-        - kinks
-      reasoning: "the + kinks (twists and bends in a wire) = The Kinks"
-    - number: 3
-      initials: P
-      clue: "You've put the orange in a press and you've gone too hard. Now it's all white stringy bits floating about. That's what comes out."
-      answer: Pulp
-      aliases:
-        - pulp
-      reasoning: "pulp (the fibrous material from crushed fruit) = Pulp"
-
+  - number: 1
+    initials: T S
+    clue: That bloke in the kitchen, the one who makes stuff out of metal, shoes horses, all that, he's not alone. There's loads of them. Whole family.
+    answer: The Smiths
+    aliases:
+    - the smiths
+    - smiths
+    reasoning: the + smiths (metalworkers, farriers) = The Smiths
+  - number: 2
+    initials: T K
+    clue: There's a wire, right, all twisted up, can't get it straight. Full of kinks. Annoying. The whole thing.
+    answer: The Kinks
+    aliases:
+    - the kinks
+    - kinks
+    reasoning: the + kinks (twists and bends in a wire) = The Kinks
+  - number: 3
+    initials: P
+    clue: You've put the orange in a press and you've gone too hard. Now it's all white stringy bits floating about. That's what comes out.
+    answer: Pulp
+    aliases:
+    - pulp
+    reasoning: pulp (the fibrous material from crushed fruit) = Pulp
 - id: bandbusters-014
   enabled: true
   title: Bandbusters
@@ -449,33 +436,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Here's Bandbusters fourteen. British bands all the way through."
-  prize: "Email in. Winner gets a gift set from Superdrug, probably from the sale, and a pack of Fox's Glacier Mints."
+  - UK
+  intro: Here's Bandbusters fourteen. British bands all the way through.
+  prize: Email in. Winner gets a gift set from Superdrug, probably from the sale, and a pack of Fox's Glacier Mints.
   clues:
-    - number: 1
-      initials: D M
-      clue: "Right, someone's sent a message using the French word for dispatch, and the way they've delivered it is very fashionable. Very of the moment."
-      answer: Depeche Mode
-      aliases:
-        - depeche mode
-      reasoning: "depeche (French for dispatch/send) + mode (fashion, a manner) = Depeche Mode"
-    - number: 2
-      initials: T J
-      clue: "You've opened a jar of strawberry preserve. It's a good one. A proper jar. The best one in the cupboard."
-      answer: The Jam
-      aliases:
-        - the jam
-        - jam
-      reasoning: "the + jam (fruit preserve) = The Jam"
-    - number: 3
-      initials: M A
-      clue: "It's an absolutely enormous assault. Really huge. Came from nowhere. Massive thing altogether."
-      answer: Massive Attack
-      aliases:
-        - massive attack
-      reasoning: "massive + attack = Massive Attack"
-
+  - number: 1
+    initials: D M
+    clue: Right, someone's sent a message using the French word for dispatch, and the way they've delivered it is very fashionable. Very of the moment.
+    answer: Depeche Mode
+    aliases:
+    - depeche mode
+    reasoning: depeche (French for dispatch/send) + mode (fashion, a manner) = Depeche Mode
+  - number: 2
+    initials: T J
+    clue: You've opened a jar of strawberry preserve. It's a good one. A proper jar. The best one in the cupboard.
+    answer: The Jam
+    aliases:
+    - the jam
+    - jam
+    reasoning: the + jam (fruit preserve) = The Jam
+  - number: 3
+    initials: M A
+    clue: It's an absolutely enormous assault. Really huge. Came from nowhere. Massive thing altogether.
+    answer: Massive Attack
+    aliases:
+    - massive attack
+    reasoning: massive + attack = Massive Attack
 - id: bandbusters-015
   enabled: true
   title: Bandbusters
@@ -483,32 +469,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Bandbusters. Round fifteen. Getting on a bit now but still going."
-  prize: "Email in. Winner gets a copy of The Full Monty on VHS and a multipurpose pen with a torch on it."
+  - UK
+  intro: Bandbusters. Round fifteen. Getting on a bit now but still going.
+  prize: Email in. Winner gets a copy of The Full Monty on VHS and a multipurpose pen with a torch on it.
   clues:
-    - number: 1
-      initials: P S
-      clue: "Before anything else, right at the very start, the most basic and raw noise a human can make, someone's done one. At full volume."
-      answer: Primal Scream
-      aliases:
-        - primal scream
-      reasoning: "primal (most basic, first/primitive) + scream (a loud yell) = Primal Scream"
-    - number: 2
-      initials: S
-      clue: "That jacket is very soft and brushed. The material on it. Very nice texture. You'd want to stroke it."
-      answer: Suede
-      aliases:
-        - suede
-      reasoning: "suede (the soft napped leather fabric, sounds like the band name) = Suede"
-    - number: 3
-      initials: P
-      clue: "You've gone and arrived at the docks. There's a port there. And it IS the head. That's where you are. Portishead. Bit niche."
-      answer: Portishead
-      aliases:
-        - portishead
-      reasoning: "port (a harbour) + is + head (a headland) = Portishead"
-
+  - number: 1
+    initials: P S
+    clue: Before anything else, right at the very start, the most basic and raw noise a human can make, someone's done one. At full volume.
+    answer: Primal Scream
+    aliases:
+    - primal scream
+    reasoning: primal (most basic, first/primitive) + scream (a loud yell) = Primal Scream
+  - number: 2
+    initials: S
+    clue: That jacket is very soft and brushed. The material on it. Very nice texture. You'd want to stroke it.
+    answer: Suede
+    aliases:
+    - suede
+    reasoning: suede (the soft napped leather fabric, sounds like the band name) = Suede
+  - number: 3
+    initials: P
+    clue: You've gone and arrived at the docks. There's a port there. And it IS the head. That's where you are. Portishead. Bit niche.
+    answer: Portishead
+    aliases:
+    - portishead
+    reasoning: port (a harbour) + is + head (a headland) = Portishead
 - id: bandbusters-016
   enabled: true
   title: Bandbusters
@@ -516,34 +501,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Right, Bandbusters sixteen. More British music. Don't overthink it."
-  prize: "Email in. Winner gets a phone case for a Nokia 3310 and a mini bottle of Tabasco."
+  - UK
+  intro: Right, Bandbusters sixteen. More British music. Don't overthink it.
+  prize: Email in. Winner gets a phone case for a Nokia 3310 and a mini bottle of Tabasco.
   clues:
-    - number: 1
-      initials: E S
-      clue: "A bloke called Ed's gone and got a pair of shears, the big garden ones, and he's trimming everything. Can't stop himself. Edward Scissorhands vibes."
-      answer: Ed Sheeran
-      aliases:
-        - ed sheeran
-        - sheeran
-      reasoning: "Ed + shear (to clip/cut) + an = Ed Sheeran"
-    - number: 2
-      initials: A W
-      clue: "A woman called Amy's built her house entirely out of bottles of the red stuff. Bit impractical but that's her choice."
-      answer: Amy Winehouse
-      aliases:
-        - amy winehouse
-        - winehouse
-      reasoning: "Amy + wine + house = Amy Winehouse"
-    - number: 3
-      initials: E
-      clue: "A woman called Ella's doing one of them stretchy workouts, all bendy and flexible. She IS the material. Near enough."
-      answer: Elastica
-      aliases:
-        - elastica
-      reasoning: "Ella + stic + a sounds like Elastica = Elastica"
-
+  - number: 1
+    initials: E S
+    clue: A bloke called Ed's gone and got a pair of shears, the big garden ones, and he's trimming everything. Can't stop himself. Edward Scissorhands vibes.
+    answer: Ed Sheeran
+    aliases:
+    - ed sheeran
+    - sheeran
+    reasoning: Ed + shear (to clip/cut) + an = Ed Sheeran
+  - number: 2
+    initials: A W
+    clue: A woman called Amy's built her house entirely out of bottles of the red stuff. Bit impractical but that's her choice.
+    answer: Amy Winehouse
+    aliases:
+    - amy winehouse
+    - winehouse
+    reasoning: Amy + wine + house = Amy Winehouse
+  - number: 3
+    initials: E
+    clue: A woman called Ella's doing one of them stretchy workouts, all bendy and flexible. She IS the material. Near enough.
+    answer: Elastica
+    aliases:
+    - elastica
+    reasoning: Ella + stic + a sounds like Elastica = Elastica
 - id: bandbusters-017
   enabled: true
   title: Bandbusters
@@ -551,34 +535,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Bandbusters. All British acts. Give it a go."
-  prize: "Email in. Winner gets an A-Z of Birmingham (2002 edition) and a packet of Bourbon biscuits."
+  - UK
+  intro: Bandbusters. All British acts. Give it a go.
+  prize: Email in. Winner gets an A-Z of Birmingham (2002 edition) and a packet of Bourbon biscuits.
   clues:
-    - number: 1
-      initials: T C
-      clue: "There's been a remedy found. The doctor's written it down, given it to the chemist. That's it. They've found the thing that fixes it."
-      answer: The Cure
-      aliases:
-        - the cure
-        - cure
-      reasoning: "the + cure (a remedy, a fix for an illness) = The Cure"
-    - number: 2
-      initials: A M
-      clue: "Right, there's a curved shape like the bottom of a bridge, a proper arc, and on top of it there's a tiny tick, and a monkey's holding a ring of keys. Don't ask."
-      answer: Arctic Monkeys
-      aliases:
-        - arctic monkeys
-        - the arctic monkeys
-      reasoning: "arc + tic + monkey + s = Arctic Monkeys"
-    - number: 3
-      initials: S
-      clue: "The lawn at the front's been done up lovely. Superman's had a look and he's very impressed. Called it super."
-      answer: Supergrass
-      aliases:
-        - supergrass
-      reasoning: "super + grass (a lawn or the informer slang) = Supergrass"
-
+  - number: 1
+    initials: T C
+    clue: There's been a remedy found. The doctor's written it down, given it to the chemist. That's it. They've found the thing that fixes it.
+    answer: The Cure
+    aliases:
+    - the cure
+    - cure
+    reasoning: the + cure (a remedy, a fix for an illness) = The Cure
+  - number: 2
+    initials: A M
+    clue: Right, there's a curved shape like the bottom of a bridge, a proper arc, and on top of it there's a tiny tick, and a monkey's holding a ring of keys. Don't ask.
+    answer: Arctic Monkeys
+    aliases:
+    - arctic monkeys
+    - the arctic monkeys
+    reasoning: arc + tic + monkey + s = Arctic Monkeys
+  - number: 3
+    initials: S
+    clue: The lawn at the front's been done up lovely. Superman's had a look and he's very impressed. Called it super.
+    answer: Supergrass
+    aliases:
+    - supergrass
+    reasoning: super + grass (a lawn or the informer slang) = Supergrass
 - id: bandbusters-018
   enabled: true
   title: Bandbusters
@@ -586,35 +569,34 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Nearly there. Bandbusters eighteen. British music phonetic riddles."
-  prize: "Email in. Winner gets a framed printout of their own MSN display name and a Twix."
+  - UK
+  intro: Bandbusters. British music phonetic riddles. Say them out loud.
+  prize: Email in. Winner gets a framed printout of their own MSN display name and a Twix.
   clues:
-    - number: 1
-      initials: R S
-      clue: "Right, someone keeps bowling these massive boulders down the hill. Can't stop them. They're just going. Rolling away."
-      answer: Rolling Stones
-      aliases:
-        - rolling stones
-        - the rolling stones
-      reasoning: "rolling + stones = Rolling Stones"
-    - number: 2
-      initials: D B
-      clue: "A bloke named David's standing in a field with a bow and arrow. Very focused. Won't put it down."
-      answer: David Bowie
-      aliases:
-        - david bowie
-        - bowie
-      reasoning: "David + bow-y (bow + the ee sound) = David Bowie"
-    - number: 3
-      initials: T P
-      clue: "Someone's given a very gifted young child a bit of a nudge to get them moving. A prod, like. The child's some kind of genius apparently."
-      answer: The Prodigy
-      aliases:
-        - the prodigy
-        - prodigy
-      reasoning: "the + prod + igy (sounds like prodigy) = The Prodigy"
-
+  - number: 1
+    initials: R S
+    clue: Right, someone keeps bowling these massive boulders down the hill. Can't stop them. They're just going. Rolling away.
+    answer: Rolling Stones
+    aliases:
+    - rolling stones
+    - the rolling stones
+    reasoning: rolling + stones = Rolling Stones
+  - number: 2
+    initials: D B
+    clue: A bloke named David's standing in a field with a bow and arrow. Very focused. Won't put it down.
+    answer: David Bowie
+    aliases:
+    - david bowie
+    - bowie
+    reasoning: David + bow-y (bow + the ee sound) = David Bowie
+  - number: 3
+    initials: T P
+    clue: Someone's given a very gifted young child a bit of a nudge to get them moving. A prod, like. The child's some kind of genius apparently.
+    answer: The Prodigy
+    aliases:
+    - the prodigy
+    - prodigy
+    reasoning: the + prod + igy (sounds like prodigy) = The Prodigy
 - id: bandbusters-019
   enabled: true
   title: Bandbusters
@@ -622,34 +604,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Bandbusters nineteen. One more after this. Stick with it."
-  prize: "Email in. Winner gets a Greggs loyalty card (nearly full) and a miniature Union Jack on a stick."
+  - UK
+  intro: Bandbusters. Three more phonetic music acts. Say each one out loud.
+  prize: Email in. Winner gets a Greggs loyalty card (nearly full) and a miniature Union Jack on a stick.
   clues:
-    - number: 1
-      initials: T B
-      clue: "Right, the bloke in charge of making sure nobody gets in, that guard fella, his name happens to be Ian. Someone's keeping watch over Ian. Bit meta."
-      answer: The Beatles
-      aliases:
-        - the beatles
-        - beatles
-      reasoning: "the + beat (a security beat/patrol) + les = The Beatles"
-    - number: 2
-      initials: T C
-      clue: "Two cars have come round the corner at the same time and gone straight into each other. Big collision. Right mess."
-      answer: The Clash
-      aliases:
-        - the clash
-        - clash
-      reasoning: "the + clash (collision, impact) = The Clash"
-    - number: 3
-      initials: G
-      clue: "His name's just Gene. That's it. Nothing else to it. Easy one this. You've probably got it."
-      answer: Gene
-      aliases:
-        - gene
-      reasoning: "Gene (the name, one syllable, sounds exactly like the band name) = Gene"
-
+  - number: 1
+    initials: T B
+    clue: Right, the bloke in charge of making sure nobody gets in, that guard fella, his name happens to be Ian. Someone's keeping watch over Ian. Bit meta.
+    answer: The Beatles
+    aliases:
+    - the beatles
+    - beatles
+    reasoning: the + beat (a security beat/patrol) + les = The Beatles
+  - number: 2
+    initials: T C
+    clue: Two cars have come round the corner at the same time and gone straight into each other. Big collision. Right mess.
+    answer: The Clash
+    aliases:
+    - the clash
+    - clash
+    reasoning: the + clash (collision, impact) = The Clash
+  - number: 3
+    initials: G
+    clue: His name's just Gene. That's it. Nothing else to it. Easy one this. You've probably got it.
+    answer: Gene
+    aliases:
+    - gene
+    reasoning: Gene (the name, one syllable, sounds exactly like the band name) = Gene
 - id: bandbusters-020
   enabled: true
   title: Bandbusters
@@ -657,28 +638,28 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Last one. Bandbusters twenty. British music. End on a high."
-  prize: "Email in. Winner gets a commemorative mug from somewhere that's closed down and a signed photo of someone from a reality show, unconfirmed."
+  - UK
+  intro: Bandbusters. British bands and artists hiding in the phonetic clues. Say them out loud.
+  prize: Email in. Winner gets a commemorative mug from somewhere that's closed down and a signed photo of someone from a reality show, unconfirmed.
   clues:
-    - number: 1
-      initials: L Z
-      clue: "Someone's gone and wired the whole thing in soft grey metal, used it for all the connections, and then named this enormous balloon airship after themselves. Both things together."
-      answer: Led Zeppelin
-      aliases:
-        - led zeppelin
-      reasoning: "led (soft grey conductive metal) + Zeppelin (massive German airship) = Led Zeppelin"
-    - number: 2
-      initials: P
-      clue: "You've squeezed that fruit too hard, haven't you. All the stringy white bits have come out. Floating about in there now."
-      answer: Pulp
-      aliases:
-        - pulp
-      reasoning: "pulp (fibrous material from crushed fruit) = Pulp"
-    - number: 3
-      initials: S
-      clue: "Someone's gone and built a whole house out of wine at the docks. Port wine. And it's got a head on it. Right at the front."
-      answer: Portishead
-      aliases:
-        - portishead
-      reasoning: "port (harbour/port wine) + is + head (a headland/promontory) = Portishead"
+  - number: 1
+    initials: L Z
+    clue: Someone's gone and wired the whole thing in soft grey metal, used it for all the connections, and then named this enormous balloon airship after themselves. Both things together.
+    answer: Led Zeppelin
+    aliases:
+    - led zeppelin
+    reasoning: led (soft grey conductive metal) + Zeppelin (massive German airship) = Led Zeppelin
+  - number: 2
+    initials: P
+    clue: You've squeezed that fruit too hard, haven't you. All the stringy white bits have come out. Floating about in there now.
+    answer: Pulp
+    aliases:
+    - pulp
+    reasoning: pulp (fibrous material from crushed fruit) = Pulp
+  - number: 3
+    initials: S
+    clue: Someone's gone and built a whole house out of wine at the docks. Port wine. And it's got a head on it. Right at the front.
+    answer: Portishead
+    aliases:
+    - portishead
+    reasoning: port (harbour/port wine) + is + head (a headland/promontory) = Portishead

@@ -5,33 +5,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Right, Bandbusters. Three music acts hidden in phonetic clues. Say them out loud."
-  prize: "Email in. Winner gets a Now That's What I Call Music 54 on cassette and a biro."
+  - UK
+  - US
+  intro: Right, Bandbusters. Three music acts hidden in phonetic clues. Say them out loud.
+  prize: Email in. Winner gets a Now That's What I Call Music 54 on cassette and a biro.
   clues:
-    - number: 1
-      initials: N
-      clue: "You're almost touching that white transit thing. Nearly there, just a whisker off it."
-      answer: Nirvana
-      aliases:
-        - nirvana
-      reasoning: "near + van + a = Nirvana"
-    - number: 2
-      initials: T S
-      clue: "The fella who takes in your trousers is in a right hurry. Legs going like the clappers."
-      answer: Taylor Swift
-      aliases:
-        - taylor swift
-      reasoning: "tailor (person who sews and alters clothes) + swift (moving very fast) = Taylor Swift"
-    - number: 3
-      initials: D
-      clue: "That's a male duck, that is. Just a male duck. That's the whole thing."
-      answer: Drake
-      aliases:
-        - drake
-      reasoning: "drake (a male duck) = Drake"
-
+  - number: 1
+    initials: N
+    clue: You're almost touching that white transit thing. Nearly there, just a whisker off it.
+    answer: Nirvana
+    aliases:
+    - nirvana
+    reasoning: near + van + a = Nirvana
+  - number: 2
+    initials: T S
+    clue: The fella who takes in your trousers is in a right hurry. Legs going like the clappers.
+    answer: Taylor Swift
+    aliases:
+    - taylor swift
+    reasoning: tailor (person who sews and alters clothes) + swift (moving very fast) = Taylor Swift
+  - number: 3
+    initials: D
+    clue: That's a male duck, that is. Just a male duck. That's the whole thing.
+    answer: Drake
+    aliases:
+    - drake
+    reasoning: drake (a male duck) = Drake
 - id: bandbusters-022
   enabled: true
   title: Bandbusters
@@ -39,33 +38,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Bandbusters time. Music acts, phonetic clues. Don't overthink it."
-  prize: "Email in. Winner gets an AOL free trial disc and a pen with a hotel name on it."
+  - UK
+  - US
+  intro: Bandbusters time. Music acts, phonetic clues. Don't overthink it.
+  prize: Email in. Winner gets an AOL free trial disc and a pen with a hotel name on it.
   clues:
-    - number: 1
-      initials: E
-      clue: "Right, there's a letter of the alphabet, and it's gone inside another one, which happens to be the same letter. Bit weird."
-      answer: Eminem
-      aliases:
-        - eminem
-      reasoning: "M + in + M (the letter M is inside another M) = Eminem"
-    - number: 2
-      initials: R
-      clue: "The back end of a woman called Anna. That's it. Near enough."
-      answer: Rihanna
-      aliases:
-        - rihanna
-      reasoning: "rear + Anna = Rihanna"
-    - number: 3
-      initials: K L
-      clue: "Young Kenneth's pulled off a cheeky move, right, and now he's standing by the water going, yeah, that'll do."
-      answer: Kendrick Lamar
-      aliases:
-        - kendrick lamar
-      reasoning: "Ken + drick (sounds like trick) + la + mar (the sea, like la mer, near enough) = Kendrick Lamar"
-
+  - number: 1
+    initials: E
+    clue: Right, there's a letter of the alphabet, and it's gone inside another one, which happens to be the same letter. Bit weird.
+    answer: Eminem
+    aliases:
+    - eminem
+    reasoning: M + in + M (the letter M is inside another M) = Eminem
+  - number: 2
+    initials: R
+    clue: The back end of a woman called Anna. That's it. Near enough.
+    answer: Rihanna
+    aliases:
+    - rihanna
+    reasoning: rear + Anna = Rihanna
+  - number: 3
+    initials: K L
+    clue: Young Kenneth's pulled off a cheeky move, right, and now he's standing by the water going, yeah, that'll do.
+    answer: Kendrick Lamar
+    aliases:
+    - kendrick lamar
+    reasoning: Ken + drick (sounds like trick) + la + mar (the sea, like la mer, near enough) = Kendrick Lamar
 - id: bandbusters-023
   enabled: true
   title: Bandbusters
@@ -73,33 +71,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Here's Bandbusters. Three music acts. Say the clues out loud, that's where the answers are."
-  prize: "Email in. Winner gets a Blockbuster Video loyalty card and a sachet of ketchup from a kitchen drawer."
+  - UK
+  - US
+  intro: Here's Bandbusters. Three music acts. Say the clues out loud, that's where the answers are.
+  prize: Email in. Winner gets a Blockbuster Video loyalty card and a sachet of ketchup from a kitchen drawer.
   clues:
-    - number: 1
-      initials: B
-      clue: "There's a bee, right, and it's just sitting on top of someone, and that someone's in the middle of saying something. Say it out loud."
-      answer: Beyonce
-      aliases:
-        - beyonce
-      reasoning: "be (a bee) + on + say (saying something) = Beyonce"
-    - number: 2
-      initials: L G
-      clue: "A woman's having a lie down, and a baby wanders over making that noise. You know the one. That sound babies make."
-      answer: Lady Gaga
-      aliases:
-        - lady gaga
-      reasoning: "lady (a woman, having a rest) + gaga (the noise babies make) = Lady Gaga"
-    - number: 3
-      initials: M J
-      clue: "That lad Michael's gone and put a car-lifting device underneath his youngest. Don't ask why."
-      answer: Michael Jackson
-      aliases:
-        - michael jackson
-      reasoning: "Michael + jack (a car jack, for lifting cars) + son (his boy, his youngest) = Michael Jackson"
-
+  - number: 1
+    initials: B
+    clue: There's a bee, right, and it's just sitting on top of someone, and that someone's in the middle of saying something. Say it out loud.
+    answer: Beyonce
+    aliases:
+    - beyonce
+    reasoning: be (a bee) + on + say (saying something) = Beyonce
+  - number: 2
+    initials: L G
+    clue: A woman's having a lie down, and a baby wanders over making that noise. You know the one. That sound babies make.
+    answer: Lady Gaga
+    aliases:
+    - lady gaga
+    reasoning: lady (a woman, having a rest) + gaga (the noise babies make) = Lady Gaga
+  - number: 3
+    initials: M J
+    clue: That lad Michael's gone and put a car-lifting device underneath his youngest. Don't ask why.
+    answer: Michael Jackson
+    aliases:
+    - michael jackson
+    reasoning: Michael + jack (a car jack, for lifting cars) + son (his boy, his youngest) = Michael Jackson
 - id: bandbusters-024
   enabled: true
   title: Bandbusters
@@ -107,33 +104,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Bandbusters. It's all music acts. Phonetic clues, you know how this works."
-  prize: "Email in. Winner gets a printed photo from a disposable camera, slightly out of focus, framed."
+  - UK
+  - US
+  intro: Bandbusters. It's all music acts. Phonetic clues, you know how this works.
+  prize: Email in. Winner gets a printed photo from a disposable camera, slightly out of focus, framed.
   clues:
-    - number: 1
-      initials: A
-      clue: "Right, someone's got really solid stomach muscles, and then a sheep's wandered over making that noise sheep make. Odd combination."
-      answer: ABBA
-      aliases:
-        - abba
-      reasoning: "abs (stomach muscles) + baa (the noise a sheep makes) = ABBA"
-    - number: 2
-      initials: M
-      clue: "Your mum's spotted a woman called Donna across the street and she's waving her over. That's all."
-      answer: Madonna
-      aliases:
-        - madonna
-      reasoning: "ma (mum) + Donna (a woman's name) = Madonna"
-    - number: 3
-      initials: F M
-      clue: "The whole navy's turned up, they've brought a plank with them, and someone's chucked a raincoat over the lot of it."
-      answer: Fleetwood Mac
-      aliases:
-        - fleetwood mac
-      reasoning: "fleet (a fleet of ships, the navy) + wood (a plank) + mac (a raincoat) = Fleetwood Mac"
-
+  - number: 1
+    initials: A
+    clue: Right, someone's got really solid stomach muscles, and then a sheep's wandered over making that noise sheep make. Odd combination.
+    answer: ABBA
+    aliases:
+    - abba
+    reasoning: abs (stomach muscles) + baa (the noise a sheep makes) = ABBA
+  - number: 2
+    initials: M
+    clue: Your mum's spotted a woman called Donna across the street and she's waving her over. That's all.
+    answer: Madonna
+    aliases:
+    - madonna
+    reasoning: ma (mum) + Donna (a woman's name) = Madonna
+  - number: 3
+    initials: F M
+    clue: The whole navy's turned up, they've brought a plank with them, and someone's chucked a raincoat over the lot of it.
+    answer: Fleetwood Mac
+    aliases:
+    - fleetwood mac
+    reasoning: fleet (a fleet of ships, the navy) + wood (a plank) + mac (a raincoat) = Fleetwood Mac
 - id: bandbusters-025
   enabled: true
   title: Bandbusters
@@ -141,36 +137,35 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "It's Bandbusters. Music acts hiding in plain sound. Have a go."
-  prize: "Email in. Winner gets a DVD copy of The Full Monty and a packet of Rich Tea biscuits, two missing."
+  - UK
+  - US
+  intro: It's Bandbusters. Music acts hiding in plain sound. Have a go.
+  prize: Email in. Winner gets a DVD copy of The Full Monty and a packet of Rich Tea biscuits, two missing.
   clues:
-    - number: 1
-      initials: K W
-      clue: "You've got an empty tin, and someone nearby's going yeah alright, and they're pointing off towards the setting sun. Sort of works."
-      answer: Kanye West
-      aliases:
-        - kanye west
-      reasoning: "can (an empty tin) + yeah (someone agreeing) + west (direction of the setting sun) = Kanye West"
-    - number: 2
-      initials: J Z
-      clue: "One of them little birds, a jay, it's perched itself right on top of the very last letter of the alphabet. Just sitting there."
-      answer: Jay Z
-      aliases:
-        - jay z
-        - jay-z
-      reasoning: "jay (the bird) + Z (last letter of the alphabet) = Jay Z"
-    - number: 3
-      initials: G N R
-      clue: "A load of weapons, and between them and the flowers there's just a little word holding it all together. Leave it."
-      answer: Guns N Roses
-      aliases:
-        - guns n roses
-        - guns and roses
-        - guns n' roses
-      reasoning: "guns (weapons) + n (and) + roses (flowers) = Guns N Roses"
-
+  - number: 1
+    initials: K W
+    clue: You've got an empty tin, and someone nearby's going yeah alright, and they're pointing off towards the setting sun. Sort of works.
+    answer: Kanye West
+    aliases:
+    - kanye west
+    reasoning: can (an empty tin) + yeah (someone agreeing) + west (direction of the setting sun) = Kanye West
+  - number: 2
+    initials: J Z
+    clue: One of them little birds, a jay, it's perched itself right on top of the very last letter of the alphabet. Just sitting there.
+    answer: Jay Z
+    aliases:
+    - jay z
+    - jay-z
+    reasoning: jay (the bird) + Z (last letter of the alphabet) = Jay Z
+  - number: 3
+    initials: G N R
+    clue: A load of weapons, and between them and the flowers there's just a little word holding it all together. Leave it.
+    answer: Guns N Roses
+    aliases:
+    - guns n roses
+    - guns and roses
+    - guns n' roses
+    reasoning: guns (weapons) + n (and) + roses (flowers) = Guns N Roses
 - id: bandbusters-026
   enabled: true
   title: Bandbusters
@@ -178,33 +173,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Bandbusters is back. Three more music acts. You know the drill."
-  prize: "Email in. Winner gets a Shrek on DVD and a keyring from a service station on the M6."
+  - UK
+  - US
+  intro: Bandbusters is back. Three more music acts. You know the drill.
+  prize: Email in. Winner gets a Shrek on DVD and a keyring from a service station on the M6.
   clues:
-    - number: 1
-      initials: B S
-      clue: "Someone's got a right nasty mark on their arm from a knock, right, and now they're somehow standing inside a big coiled metal thing. Looks uncomfortable."
-      answer: Bruce Springsteen
-      aliases:
-        - bruce springsteen
-      reasoning: "bruise (a mark from a knock or bump) + spring (a coiled metal spring) + steen (rhymes with the end of Springsteen) = Bruce Springsteen"
-    - number: 2
-      initials: G D
-      clue: "The colour of grass. And then a day of the week. That's it."
-      answer: Green Day
-      aliases:
-        - green day
-      reasoning: "green (the colour of grass) + day (a day) = Green Day"
-    - number: 3
-      initials: P J
-      clue: "A round precious thing from an oyster has fallen into a pot of strawberry preserve. What a waste."
-      answer: Pearl Jam
-      aliases:
-        - pearl jam
-      reasoning: "pearl (the precious round thing from an oyster) + jam (strawberry preserve) = Pearl Jam"
-
+  - number: 1
+    initials: B S
+    clue: Someone's got a right nasty mark on their arm from a knock, right, and now they're somehow standing inside a big coiled metal thing. Looks uncomfortable.
+    answer: Bruce Springsteen
+    aliases:
+    - bruce springsteen
+    reasoning: bruise (a mark from a knock or bump) + spring (a coiled metal spring) + steen (rhymes with the end of Springsteen) = Bruce Springsteen
+  - number: 2
+    initials: G D
+    clue: The colour of grass. And then a day of the week. That's it.
+    answer: Green Day
+    aliases:
+    - green day
+    reasoning: green (the colour of grass) + day (a day) = Green Day
+  - number: 3
+    initials: P J
+    clue: A round precious thing from an oyster has fallen into a pot of strawberry preserve. What a waste.
+    answer: Pearl Jam
+    aliases:
+    - pearl jam
+    reasoning: pearl (the precious round thing from an oyster) + jam (strawberry preserve) = Pearl Jam
 - id: bandbusters-027
   enabled: true
   title: Bandbusters
@@ -212,34 +206,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Right then, Bandbusters. Say the clues out loud. That's where the answer lives."
-  prize: "Email in. Winner gets a mug from a company that no longer exists and a slightly squashed cereal bar."
+  - UK
+  - US
+  intro: Right then, Bandbusters. Say the clues out loud. That's where the answer lives.
+  prize: Email in. Winner gets a mug from a company that no longer exists and a slightly squashed cereal bar.
   clues:
-    - number: 1
-      initials: A C D C
-      clue: "You're going through the alphabet, pick the first one, skip to the third, then the fourth, then back to the third again. Say them out one at a time."
-      answer: AC DC
-      aliases:
-        - ac dc
-        - ac/dc
-      reasoning: "A + C + D + C (the letters of the alphabet said one at a time) = AC DC"
-    - number: 2
-      initials: M
-      clue: "Someone's bumped into a woman called Alice and before they could finish their sentence they were already off. Met her, started to say something, and gone."
-      answer: Metallica
-      aliases:
-        - metallica
-      reasoning: "met (bumped into someone) + Alice (a woman's name) + a (the start of a word they never finished) = Metallica"
-    - number: 3
-      initials: D P
-      clue: "He's a bit soft in the head, this lad, and he's well into that rebellious underground music. You'd have a word with him."
-      answer: Daft Punk
-      aliases:
-        - daft punk
-      reasoning: "daft (soft in the head, a bit silly) + punk (rebellious underground music genre) = Daft Punk"
-
+  - number: 1
+    initials: A C D C
+    clue: You're going through the alphabet, pick the first one, skip to the third, then the fourth, then back to the third again. Say them out one at a time.
+    answer: AC DC
+    aliases:
+    - ac dc
+    - ac/dc
+    reasoning: A + C + D + C (the letters of the alphabet said one at a time) = AC DC
+  - number: 2
+    initials: M
+    clue: Someone's bumped into a woman called Alice and before they could finish their sentence they were already off. Met her, started to say something, and gone.
+    answer: Metallica
+    aliases:
+    - metallica
+    reasoning: met (bumped into someone) + Alice (a woman's name) + a (the start of a word they never finished) = Metallica
+  - number: 3
+    initials: D P
+    clue: He's a bit soft in the head, this lad, and he's well into that rebellious underground music. You'd have a word with him.
+    answer: Daft Punk
+    aliases:
+    - daft punk
+    reasoning: daft (soft in the head, a bit silly) + punk (rebellious underground music genre) = Daft Punk
 - id: bandbusters-028
   enabled: true
   title: Bandbusters
@@ -247,35 +240,34 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Bandbusters. All music, all phonetic. Give your ears a go."
-  prize: "Email in. Winner gets a signed letter from someone off Hollyoaks, probably, and a biscuit."
+  - UK
+  - US
+  intro: Bandbusters. All music, all phonetic. Give your ears a go.
+  prize: Email in. Winner gets a signed letter from someone off Hollyoaks, probably, and a biscuit.
   clues:
-    - number: 1
-      initials: E
-      clue: "The fifth letter of the alphabet, right, and then a load of them screaming seaside birds. Put them together."
-      answer: Eagles
-      aliases:
-        - eagles
-        - the eagles
-      reasoning: "E (fifth letter of the alphabet) + gulls (screaming birds you get at the seaside) = Eagles"
-    - number: 2
-      initials: S G
-      clue: "There's a noise coming from underneath where Gordon grows his veg. From right under the flowerbed."
-      answer: Soundgarden
-      aliases:
-        - soundgarden
-      reasoning: "sound (a noise) + garden (where Gordon grows his veg) = Soundgarden"
-    - number: 3
-      initials: B 182
-      clue: "You've shut your eyes and opened them again, and when you do, someone's gone and written a hundred and eighty-two on the wall. No explanation."
-      answer: Blink 182
-      aliases:
-        - blink 182
-        - blink-182
-      reasoning: "blink (shutting and opening eyes quickly) + 182 (the number on the wall) = Blink 182"
-
+  - number: 1
+    initials: E
+    clue: The fifth letter of the alphabet, right, and then a load of them screaming seaside birds. Put them together.
+    answer: Eagles
+    aliases:
+    - eagles
+    - the eagles
+    reasoning: E (fifth letter of the alphabet) + gulls (screaming birds you get at the seaside) = Eagles
+  - number: 2
+    initials: S G
+    clue: There's a noise coming from underneath where Gordon grows his veg. From right under the flowerbed.
+    answer: Soundgarden
+    aliases:
+    - soundgarden
+    reasoning: sound (a noise) + garden (where Gordon grows his veg) = Soundgarden
+  - number: 3
+    initials: B 182
+    clue: You've shut your eyes and opened them again, and when you do, someone's gone and written a hundred and eighty-two on the wall. No explanation.
+    answer: Blink 182
+    aliases:
+    - blink 182
+    - blink-182
+    reasoning: blink (shutting and opening eyes quickly) + 182 (the number on the wall) = Blink 182
 - id: bandbusters-029
   enabled: true
   title: Bandbusters
@@ -283,34 +275,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Here's another round of Bandbusters. Phonetic clues, music answers. Off you go."
-  prize: "Email in. Winner gets a Now 58 compilation on CD and a pen that's nearly out of ink."
+  - UK
+  - US
+  intro: Here's another round of Bandbusters. Phonetic clues, music answers. Off you go.
+  prize: Email in. Winner gets a Now 58 compilation on CD and a pen that's nearly out of ink.
   clues:
-    - number: 1
-      initials: R H C P
-      clue: "Right, something's gone a vivid colour, it's piping hot, and it lives inside a spicy plant. That's your lot."
-      answer: Red Hot Chili Peppers
-      aliases:
-        - red hot chili peppers
-        - red hot chilli peppers
-      reasoning: "red (vivid colour) + hot (piping hot) + chili + peppers (spicy plants) = Red Hot Chili Peppers"
-    - number: 2
-      initials: F F
-      clue: "A load of idiots, right, all having a massive ruck with each other. Loads of them. What are they like."
-      answer: Foo Fighters
-      aliases:
-        - foo fighters
-      reasoning: "foo (sounds like fools, a bunch of idiots) + fighters (people having a ruck, a fight) = Foo Fighters"
-    - number: 3
-      initials: L Z
-      clue: "You've got the metal that old piping's made of, and it's right next to one of them massive sausage-shaped airships. Say it slow."
-      answer: Led Zeppelin
-      aliases:
-        - led zeppelin
-      reasoning: "led (the metal, like lead piping, pronounced led) + Zeppelin (the big sausage-shaped airship) = Led Zeppelin"
-
+  - number: 1
+    initials: R H C P
+    clue: Right, something's gone a vivid colour, it's piping hot, and it lives inside a spicy plant. That's your lot.
+    answer: Red Hot Chili Peppers
+    aliases:
+    - red hot chili peppers
+    - red hot chilli peppers
+    reasoning: red (vivid colour) + hot (piping hot) + chili + peppers (spicy plants) = Red Hot Chili Peppers
+  - number: 2
+    initials: F F
+    clue: A load of idiots, right, all having a massive ruck with each other. Loads of them. What are they like.
+    answer: Foo Fighters
+    aliases:
+    - foo fighters
+    reasoning: foo (sounds like fools, a bunch of idiots) + fighters (people having a ruck, a fight) = Foo Fighters
+  - number: 3
+    initials: L Z
+    clue: You've got the metal that old piping's made of, and it's right next to one of them massive sausage-shaped airships. Say it slow.
+    answer: Led Zeppelin
+    aliases:
+    - led zeppelin
+    reasoning: led (the metal, like lead piping, pronounced led) + Zeppelin (the big sausage-shaped airship) = Led Zeppelin
 - id: bandbusters-030
   enabled: true
   title: Bandbusters
@@ -318,34 +309,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Bandbusters thirty. Three more acts hiding in the clues. Say them out loud."
-  prize: "Email in. Winner gets a VHS copy of Space Jam and a voucher from a shop that closed in 2009."
+  - UK
+  - US
+  intro: Bandbusters thirty. Three more acts hiding in the clues. Say them out loud.
+  prize: Email in. Winner gets a VHS copy of Space Jam and a voucher from a shop that closed in 2009.
   clues:
-    - number: 1
-      initials: P F
-      clue: "There's a flower, right, and it's gone a sort of rosy colour. Just sitting on the wall. A pink one, with a fella's name."
-      answer: Pink Floyd
-      aliases:
-        - pink floyd
-      reasoning: "pink (a rosy colour) + Floyd (a fella's name) = Pink Floyd"
-    - number: 2
-      initials: U 2
-      clue: "The letter before V and the number after one. Easy one this."
-      answer: U2
-      aliases:
-        - u2
-        - u 2
-      reasoning: "U (the letter before V in the alphabet) + 2 (the number after one) = U2"
-    - number: 3
-      initials: Q
-      clue: "A load of people stood in a long line waiting for something, right, and then someone's added an N on the end. Don't overthink it."
-      answer: Queen
-      aliases:
-        - queen
-      reasoning: "queue (a line of people waiting) + n (the letter N added to the end) = Queen"
-
+  - number: 1
+    initials: P F
+    clue: There's a flower, right, and it's gone a sort of rosy colour. Just sitting on the wall. A pink one, with a fella's name.
+    answer: Pink Floyd
+    aliases:
+    - pink floyd
+    reasoning: pink (a rosy colour) + Floyd (a fella's name) = Pink Floyd
+  - number: 2
+    initials: U 2
+    clue: The letter before V and the number after one. Easy one this.
+    answer: U2
+    aliases:
+    - u2
+    - u 2
+    reasoning: U (the letter before V in the alphabet) + 2 (the number after one) = U2
+  - number: 3
+    initials: Q
+    clue: A load of people stood in a long line waiting for something, right, and then someone's added an N on the end. Don't overthink it.
+    answer: Queen
+    aliases:
+    - queen
+    reasoning: queue (a line of people waiting) + n (the letter N added to the end) = Queen
 - id: bandbusters-031
   enabled: true
   title: Bandbusters
@@ -353,34 +343,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Bandbusters thirty-one. More music, more phonetics. You know what to do."
-  prize: "Email in. Winner gets a travel alarm clock from a pound shop and a half-eaten tube of Smarties."
+  - UK
+  - US
+  intro: Bandbusters thirty-one. More music, more phonetics. You know what to do.
+  prize: Email in. Winner gets a travel alarm clock from a pound shop and a half-eaten tube of Smarties.
   clues:
-    - number: 1
-      initials: R S
-      clue: "Right, you've got some large bits of rock, and they're moving. Getting some momentum going. Rolling about."
-      answer: Rolling Stones
-      aliases:
-        - rolling stones
-        - the rolling stones
-      reasoning: "rolling (moving, gaining momentum) + stones (large bits of rock) = Rolling Stones"
-    - number: 2
-      initials: D B
-      clue: "Some fella called David's doing a little bow, like he's acknowledging applause. Leaning right forward and everything."
-      answer: David Bowie
-      aliases:
-        - david bowie
-      reasoning: "David + bow (a bow to acknowledge applause) + ee (the sound at the end) = David Bowie"
-    - number: 3
-      initials: O
-      clue: "In the middle of all that desert, there's a little patch where the ground's wet and plants are growing. Bit of a relief for everyone."
-      answer: Oasis
-      aliases:
-        - oasis
-      reasoning: "oasis (a fertile patch in the desert with water and plants) = Oasis"
-
+  - number: 1
+    initials: R S
+    clue: Right, you've got some large bits of rock, and they're moving. Getting some momentum going. Rolling about.
+    answer: Rolling Stones
+    aliases:
+    - rolling stones
+    - the rolling stones
+    reasoning: rolling (moving, gaining momentum) + stones (large bits of rock) = Rolling Stones
+  - number: 2
+    initials: D B
+    clue: Some fella called David's doing a little bow, like he's acknowledging applause. Leaning right forward and everything.
+    answer: David Bowie
+    aliases:
+    - david bowie
+    reasoning: David + bow (a bow to acknowledge applause) + ee (the sound at the end) = David Bowie
+  - number: 3
+    initials: O
+    clue: In the middle of all that desert, there's a little patch where the ground's wet and plants are growing. Bit of a relief for everyone.
+    answer: Oasis
+    aliases:
+    - oasis
+    reasoning: oasis (a fertile patch in the desert with water and plants) = Oasis
 - id: bandbusters-032
   enabled: true
   title: Bandbusters
@@ -388,33 +377,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Right, Bandbusters thirty-two. Three music acts. Get your ears working."
-  prize: "Email in. Winner gets a mini bottle of Tabasco from a hotel minibar and a car park ticket, two hours."
+  - UK
+  - US
+  intro: Right, Bandbusters thirty-two. Three music acts. Get your ears working.
+  prize: Email in. Winner gets a mini bottle of Tabasco from a hotel minibar and a car park ticket, two hours.
   clues:
-    - number: 1
-      initials: A W
-      clue: "There's a woman called Amy, right, and she lives in a building that's absolutely packed full of fermented grape stuff. Every room."
-      answer: Amy Winehouse
-      aliases:
-        - amy winehouse
-      reasoning: "Amy (a woman's name) + wine (fermented grape stuff) + house (a building) = Amy Winehouse"
-    - number: 2
-      initials: B D
-      clue: "Someone's done a little nod of the head, right, like they're agreeing with something. And the fella's name is Dylan."
-      answer: Bob Dylan
-      aliases:
-        - bob dylan
-      reasoning: "bob (a little up-and-down nod of the head) + Dylan (the name) = Bob Dylan"
-    - number: 3
-      initials: C
-      clue: "Someone's feeling a bit nippy. Not freezing, just a bit chilly. And they've gone for a bit of a play. That's all."
-      answer: Coldplay
-      aliases:
-        - coldplay
-      reasoning: "cold (a bit nippy, chilly) + play (going for a bit of a play) = Coldplay"
-
+  - number: 1
+    initials: A W
+    clue: There's a woman called Amy, right, and she lives in a building that's absolutely packed full of fermented grape stuff. Every room.
+    answer: Amy Winehouse
+    aliases:
+    - amy winehouse
+    reasoning: Amy (a woman's name) + wine (fermented grape stuff) + house (a building) = Amy Winehouse
+  - number: 2
+    initials: B D
+    clue: Someone's done a little nod of the head, right, like they're agreeing with something. And the fella's name is Dylan.
+    answer: Bob Dylan
+    aliases:
+    - bob dylan
+    reasoning: bob (a little up-and-down nod of the head) + Dylan (the name) = Bob Dylan
+  - number: 3
+    initials: C
+    clue: Someone's feeling a bit nippy. Not freezing, just a bit chilly. And they've gone for a bit of a play. That's all.
+    answer: Coldplay
+    aliases:
+    - coldplay
+    reasoning: cold (a bit nippy, chilly) + play (going for a bit of a play) = Coldplay
 - id: bandbusters-033
   enabled: true
   title: Bandbusters
@@ -422,34 +410,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Bandbusters thirty-three. Say each clue out loud and the answer should pop up."
-  prize: "Email in. Winner gets a dog-eared Argos catalogue from 2003 and a biro with no lid."
+  - UK
+  - US
+  intro: Bandbusters thirty-three. Say each clue out loud and the answer should pop up.
+  prize: Email in. Winner gets a dog-eared Argos catalogue from 2003 and a biro with no lid.
   clues:
-    - number: 1
-      initials: R
-      clue: "There's a broadcast coming from inside someone's head. Their actual thoughts are being transmitted through the airwaves. Bit alarming."
-      answer: Radiohead
-      aliases:
-        - radiohead
-      reasoning: "radio (a broadcast through the airwaves) + head (someone's noggin, their actual head) = Radiohead"
-    - number: 2
-      initials: P
-      clue: "A member of the royal family. Not the top one, the next one down. That one."
-      answer: Prince
-      aliases:
-        - prince
-      reasoning: "prince (a member of royalty, one step below the king or queen) = Prince"
-    - number: 3
-      initials: T B
-      clue: "Right, the rhythm's crawled inside a little insect. The insect that's basically already named after them. Sort of works."
-      answer: The Beatles
-      aliases:
-        - the beatles
-        - beatles
-      reasoning: "beat (a rhythm) + les (the sound at the end) = Beatles. The word beetles with beat replacing bee = Beatles"
-
+  - number: 1
+    initials: R
+    clue: There's a broadcast coming from inside someone's head. Their actual thoughts are being transmitted through the airwaves. Bit alarming.
+    answer: Radiohead
+    aliases:
+    - radiohead
+    reasoning: radio (a broadcast through the airwaves) + head (someone's noggin, their actual head) = Radiohead
+  - number: 2
+    initials: P
+    clue: A member of the royal family. Not the top one, the next one down. That one.
+    answer: Prince
+    aliases:
+    - prince
+    reasoning: prince (a member of royalty, one step below the king or queen) = Prince
+  - number: 3
+    initials: T B
+    clue: Right, the rhythm's crawled inside a little insect. The insect that's basically already named after them. Sort of works.
+    answer: The Beatles
+    aliases:
+    - the beatles
+    - beatles
+    reasoning: beat (a rhythm) + les (the sound at the end) = Beatles. The word beetles with beat replacing bee = Beatles
 - id: bandbusters-034
   enabled: true
   title: Bandbusters
@@ -457,33 +444,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Here's Bandbusters thirty-four. All music acts. Don't overthink the clues."
-  prize: "Email in. Winner gets a branded stress ball from a trade show and a lanyard with nothing on it."
+  - UK
+  - US
+  intro: Here's Bandbusters thirty-four. All music acts. Don't overthink the clues.
+  prize: Email in. Winner gets a branded stress ball from a trade show and a lanyard with nothing on it.
   clues:
-    - number: 1
-      initials: N I N
-      clue: "The number before ten, and then a unit of measurement, and then what you bash into wood with a hammer. Three bits, say them together."
-      answer: Nine Inch Nails
-      aliases:
-        - nine inch nails
-      reasoning: "nine (the number before ten) + inch (a unit of measurement) + nails (what you hammer into wood) = Nine Inch Nails"
-    - number: 2
-      initials: D M
-      clue: "Someone's sent a message, dispatched it, but the setting's all wrong. Wrong channel, wrong mode. It'll never get there."
-      answer: Depeche Mode
-      aliases:
-        - depeche mode
-      reasoning: "Depeche (sounds like dispatch, sending a message) + Mode (a setting or channel) = Depeche Mode"
-    - number: 3
-      initials: B M
-      clue: "There's a little nod, right, like when someone bobs their head, and the person doing it is called Marley. That's your lot."
-      answer: Bob Marley
-      aliases:
-        - bob marley
-      reasoning: "bob (a little nod, bobbing the head) + Marley (the name) = Bob Marley"
-
+  - number: 1
+    initials: N I N
+    clue: The number before ten, and then a unit of measurement, and then what you bash into wood with a hammer. Three bits, say them together.
+    answer: Nine Inch Nails
+    aliases:
+    - nine inch nails
+    reasoning: nine (the number before ten) + inch (a unit of measurement) + nails (what you hammer into wood) = Nine Inch Nails
+  - number: 2
+    initials: D M
+    clue: Someone's sent a message, dispatched it, but the setting's all wrong. Wrong channel, wrong mode. It'll never get there.
+    answer: Depeche Mode
+    aliases:
+    - depeche mode
+    reasoning: Depeche (sounds like dispatch, sending a message) + Mode (a setting or channel) = Depeche Mode
+  - number: 3
+    initials: B M
+    clue: There's a little nod, right, like when someone bobs their head, and the person doing it is called Marley. That's your lot.
+    answer: Bob Marley
+    aliases:
+    - bob marley
+    reasoning: bob (a little nod, bobbing the head) + Marley (the name) = Bob Marley
 - id: bandbusters-035
   enabled: true
   title: Bandbusters
@@ -491,34 +477,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Bandbusters thirty-five. Three acts, three phonetic clues. Away you go."
-  prize: "Email in. Winner gets a Seinfeld box set on DVD and a complimentary pen from a dentist."
+  - UK
+  - US
+  intro: Bandbusters thirty-five. Three acts, three phonetic clues. Away you go.
+  prize: Email in. Winner gets a Seinfeld box set on DVD and a complimentary pen from a dentist.
   clues:
-    - number: 1
-      initials: E S
-      clue: "A bloke called Ed. A woman ran off somewhere. Put them together and say it natural."
-      answer: Ed Sheeran
-      aliases:
-        - ed sheeran
-      reasoning: "Ed + she + ran (a woman, she, ran off somewhere) = Ed Sheeran"
-    - number: 2
-      initials: T C
-      clue: "Something's been fixed. Treated properly until it's all better. All sorted out. That's the act."
-      answer: The Cure
-      aliases:
-        - the cure
-        - cure
-      reasoning: "the + cure (a treatment that fixes something) = The Cure"
-    - number: 3
-      initials: B
-      clue: "Everything's gone a bit soft and fuzzy around the edges. Like a photo where nothing's quite in focus. That."
-      answer: Blur
-      aliases:
-        - blur
-      reasoning: "blur (when something is out of focus, soft and fuzzy) = Blur"
-
+  - number: 1
+    initials: E S
+    clue: A bloke called Ed. A woman ran off somewhere. Put them together and say it natural.
+    answer: Ed Sheeran
+    aliases:
+    - ed sheeran
+    reasoning: Ed + she + ran (a woman, she, ran off somewhere) = Ed Sheeran
+  - number: 2
+    initials: T C
+    clue: Something's been fixed. Treated properly until it's all better. All sorted out. That's the act.
+    answer: The Cure
+    aliases:
+    - the cure
+    - cure
+    reasoning: the + cure (a treatment that fixes something) = The Cure
+  - number: 3
+    initials: B
+    clue: Everything's gone a bit soft and fuzzy around the edges. Like a photo where nothing's quite in focus. That.
+    answer: Blur
+    aliases:
+    - blur
+    reasoning: blur (when something is out of focus, soft and fuzzy) = Blur
 - id: bandbusters-036
   enabled: true
   title: Bandbusters
@@ -526,34 +511,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Right, Bandbusters thirty-six. Phonetic clues, music acts. Say them out loud."
-  prize: "Email in. Winner gets a foam finger from a sports event and a half-full bottle of Lucozade."
+  - UK
+  - US
+  intro: Right, Bandbusters thirty-six. Phonetic clues, music acts. Say them out loud.
+  prize: Email in. Winner gets a foam finger from a sports event and a half-full bottle of Lucozade.
   clues:
-    - number: 1
-      initials: A
-      clue: "There's a small wooded hollow, right, and you're saying, oh, a small wooded hollow. A dell. Like that."
-      answer: Adele
-      aliases:
-        - adele
-      reasoning: "a + dell (a small wooded hollow or valley) = Adele"
-    - number: 2
-      initials: J T
-      clue: "Right, you've only just managed to get inside a load of wood, and there's a big body of water right next to it all."
-      answer: Justin Timberlake
-      aliases:
-        - justin timberlake
-        - timberlake
-      reasoning: "just + in + timber (a load of wood) + lake (a big body of water) = Justin Timberlake"
-    - number: 3
-      initials: S
-      clue: "Someone's having a good shake for a long period of time. A whole era of shaking. Bit much, really."
-      answer: Shakira
-      aliases:
-        - shakira
-      reasoning: "shake + era (a long period, an era of time) = Shakira"
-
+  - number: 1
+    initials: A
+    clue: There's a small wooded hollow, right, and you're saying, oh, a small wooded hollow. A dell. Like that.
+    answer: Adele
+    aliases:
+    - adele
+    reasoning: a + dell (a small wooded hollow or valley) = Adele
+  - number: 2
+    initials: J T
+    clue: Right, you've only just managed to get inside a load of wood, and there's a big body of water right next to it all.
+    answer: Justin Timberlake
+    aliases:
+    - justin timberlake
+    - timberlake
+    reasoning: just + in + timber (a load of wood) + lake (a big body of water) = Justin Timberlake
+  - number: 3
+    initials: S
+    clue: Someone's having a good shake for a long period of time. A whole era of shaking. Bit much, really.
+    answer: Shakira
+    aliases:
+    - shakira
+    reasoning: shake + era (a long period, an era of time) = Shakira
 - id: bandbusters-037
   enabled: true
   title: Bandbusters
@@ -561,35 +545,34 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Bandbusters thirty-seven. More phonetic music clues. Have a go."
-  prize: "Email in. Winner gets a commemorative spoon from a tourist shop and a packet of Werther's Originals."
+  - UK
+  - US
+  intro: Bandbusters thirty-seven. More phonetic music clues. Have a go.
+  prize: Email in. Winner gets a commemorative spoon from a tourist shop and a packet of Werther's Originals.
   clues:
-    - number: 1
-      initials: B S
-      clue: "A British person's knee, right, and there are some long pointy weapons sticking out of it. Bit grim."
-      answer: Britney Spears
-      aliases:
-        - britney spears
-        - brittney spears
-      reasoning: "Brit (a British person) + knee + spears (long pointy weapons) = Britney Spears"
-    - number: 2
-      initials: M J
-      clue: "There's a fella called Mick, right, and he's got a jagged notch on him. Like something's taken a little bite out of the edge."
-      answer: Mick Jagger
-      aliases:
-        - mick jagger
-      reasoning: "Mick + jag (a jagged notch, a sharp little bite out of something) + ger (the end of the word) = Mick Jagger"
-    - number: 3
-      initials: K P
-      clue: "There's a woman called Katy and she's drinking something fizzy made from fermented pears. Very refined."
-      answer: Katy Perry
-      aliases:
-        - katy perry
-        - katie perry
-      reasoning: "Katy + perry (a fizzy drink made from fermented pears, like cider but with pears) = Katy Perry"
-
+  - number: 1
+    initials: B S
+    clue: A British person's knee, right, and there are some long pointy weapons sticking out of it. Bit grim.
+    answer: Britney Spears
+    aliases:
+    - britney spears
+    - brittney spears
+    reasoning: Brit (a British person) + knee + spears (long pointy weapons) = Britney Spears
+  - number: 2
+    initials: M J
+    clue: There's a fella called Mick, right, and he's got a jagged notch on him. Like something's taken a little bite out of the edge.
+    answer: Mick Jagger
+    aliases:
+    - mick jagger
+    reasoning: Mick + jag (a jagged notch, a sharp little bite out of something) + ger (the end of the word) = Mick Jagger
+  - number: 3
+    initials: K P
+    clue: There's a woman called Katy and she's drinking something fizzy made from fermented pears. Very refined.
+    answer: Katy Perry
+    aliases:
+    - katy perry
+    - katie perry
+    reasoning: Katy + perry (a fizzy drink made from fermented pears, like cider but with pears) = Katy Perry
 - id: bandbusters-038
   enabled: true
   title: Bandbusters
@@ -597,34 +580,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Bandbusters thirty-eight. Three more acts. You know the drill by now."
-  prize: "Email in. Winner gets a mouse mat from a company that no longer exists and a Kit Kat that might be out of date."
+  - UK
+  - US
+  intro: Bandbusters thirty-eight. Three more acts. You know the drill by now.
+  prize: Email in. Winner gets a mouse mat from a company that no longer exists and a Kit Kat that might be out of date.
   clues:
-    - number: 1
-      initials: W H
-      clue: "That woman's leg joint has gone and got soaking wet, right, and she's from Texas. That's the whole clue."
-      answer: Whitney Houston
-      aliases:
-        - whitney houston
-      reasoning: "wet + knee (the leg joint, soaking wet) + Houston (a city in Texas) = Whitney Houston"
-    - number: 2
-      initials: M C
-      clue: "There's a woman called Maria, right, and she's carrying something heavy. Struggling a bit under the weight of it."
-      answer: Mariah Carey
-      aliases:
-        - mariah carey
-      reasoning: "Maria + h + carry (carrying something heavy) = Mariah Carey"
-    - number: 3
-      initials: J B
-      clue: "You've only just managed to get inside something, and there's a beaver right there waiting. Don't ask."
-      answer: Justin Bieber
-      aliases:
-        - justin bieber
-        - bieber
-      reasoning: "just + in + Bieber (sounds like beaver, the animal with the big flat tail) = Justin Bieber"
-
+  - number: 1
+    initials: W H
+    clue: That woman's leg joint has gone and got soaking wet, right, and she's from Texas. That's the whole clue.
+    answer: Whitney Houston
+    aliases:
+    - whitney houston
+    reasoning: wet + knee (the leg joint, soaking wet) + Houston (a city in Texas) = Whitney Houston
+  - number: 2
+    initials: M C
+    clue: There's a woman called Maria, right, and she's carrying something heavy. Struggling a bit under the weight of it.
+    answer: Mariah Carey
+    aliases:
+    - mariah carey
+    reasoning: Maria + h + carry (carrying something heavy) = Mariah Carey
+  - number: 3
+    initials: J B
+    clue: You've only just managed to get inside something, and there's a beaver right there waiting. Don't ask.
+    answer: Justin Bieber
+    aliases:
+    - justin bieber
+    - bieber
+    reasoning: just + in + Bieber (sounds like beaver, the animal with the big flat tail) = Justin Bieber
 - id: bandbusters-039
   enabled: true
   title: Bandbusters
@@ -632,35 +614,34 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Right, Bandbusters thirty-nine. Nearly done. Three more phonetic music acts."
-  prize: "Email in. Winner gets a beanie hat from a conference and a travel-size bottle of shampoo."
+  - UK
+  - US
+  intro: Bandbusters. Three more phonetic music acts hiding in the clues. Say them out loud.
+  prize: Email in. Winner gets a beanie hat from a conference and a travel-size bottle of shampoo.
   clues:
-    - number: 1
-      initials: E J
-      clue: "There's a Spanish word for the word the, right, and then a heavy weight sitting on top of a name that means toilet. Say it slow."
-      answer: Elton John
-      aliases:
-        - elton john
-        - sir elton john
-      reasoning: "El (Spanish for the) + ton (a heavy weight) + John (a name that also means toilet) = Elton John"
-    - number: 2
-      initials: B J
-      clue: "You've got a bill, like an invoice, right, and there's a sound of satisfaction at the end of it. And a bloke. A fella. Kind of works."
-      answer: Billy Joel
-      aliases:
-        - billy joel
-      reasoning: "Billy (a name, sounds like bill + ee) + Joel (sounds like jole, like a jowl, or joe + el) = Billy Joel"
-    - number: 3
-      initials: S W
-      clue: "There's a bloke called Steve, right, and he's genuinely amazed at something. Gobsmacked. Going, I wonder what that is."
-      answer: Stevie Wonder
-      aliases:
-        - stevie wonder
-        - stevie wonder
-      reasoning: "Stevie (Steve + ee) + Wonder (the feeling of amazement, going I wonder) = Stevie Wonder"
-
+  - number: 1
+    initials: E J
+    clue: There's a Spanish word for the word the, right, and then a heavy weight sitting on top of a name that means toilet. Say it slow.
+    answer: Elton John
+    aliases:
+    - elton john
+    - sir elton john
+    reasoning: El (Spanish for the) + ton (a heavy weight) + John (a name that also means toilet) = Elton John
+  - number: 2
+    initials: B J
+    clue: You've got a bill, like an invoice, right, and there's a sound of satisfaction at the end of it. And a bloke. A fella. Kind of works.
+    answer: Billy Joel
+    aliases:
+    - billy joel
+    reasoning: Billy (a name, sounds like bill + ee) + Joel (sounds like jole, like a jowl, or joe + el) = Billy Joel
+  - number: 3
+    initials: S W
+    clue: There's a bloke called Steve, right, and he's genuinely amazed at something. Gobsmacked. Going, I wonder what that is.
+    answer: Stevie Wonder
+    aliases:
+    - stevie wonder
+    - stevie wonder
+    reasoning: Stevie (Steve + ee) + Wonder (the feeling of amazement, going I wonder) = Stevie Wonder
 - id: bandbusters-040
   enabled: true
   title: Bandbusters
@@ -668,29 +649,29 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Last one. Bandbusters forty. Three final acts to find. Give it your best."
-  prize: "Email in. Winner gets a framed certificate of participation and a box of After Eights with some missing."
+  - UK
+  - US
+  intro: Bandbusters. Three acts to find. Say each clue out loud.
+  prize: Email in. Winner gets a framed certificate of participation and a box of After Eights with some missing.
   clues:
-    - number: 1
-      initials: B M
-      clue: "Right, there's a bloke called Bruno, and he's come from somewhere very far away to get to this point. Mars, near enough."
-      answer: Bruno Mars
-      aliases:
-        - bruno mars
-      reasoning: "Bruno + Mars (the planet, very far away) = Bruno Mars"
-    - number: 2
-      initials: S S
-      clue: "There's a fella called Sam, right, and he works metal. He's got his hammer and everything, going at the anvil."
-      answer: Sam Smith
-      aliases:
-        - sam smith
-      reasoning: "Sam + smith (someone who works metal, a blacksmith) = Sam Smith"
-    - number: 3
-      initials: L
-      clue: "A person with authority over other people. A proper title. Not a king or queen, but below that. One step down from royalty."
-      answer: Lorde
-      aliases:
-        - lorde
-      reasoning: "lorde (sounds like lord, a person of authority with a title, one step below royalty) = Lorde"
+  - number: 1
+    initials: B M
+    clue: Right, there's a bloke called Bruno, and he's come from somewhere very far away to get to this point. Mars, near enough.
+    answer: Bruno Mars
+    aliases:
+    - bruno mars
+    reasoning: Bruno + Mars (the planet, very far away) = Bruno Mars
+  - number: 2
+    initials: S S
+    clue: There's a fella called Sam, right, and he works metal. He's got his hammer and everything, going at the anvil.
+    answer: Sam Smith
+    aliases:
+    - sam smith
+    reasoning: Sam + smith (someone who works metal, a blacksmith) = Sam Smith
+  - number: 3
+    initials: L
+    clue: A person with authority over other people. A proper title. Not a king or queen, but below that. One step down from royalty.
+    answer: Lorde
+    aliases:
+    - lorde
+    reasoning: lorde (sounds like lord, a person of authority with a title, one step below royalty) = Lorde

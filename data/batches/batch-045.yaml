@@ -5,33 +5,32 @@
   difficulty: hard
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Right, Sciencebusters. All science answers hiding in the sounds. Say the clues out loud and the answer's in there."
-  prize: "Email in. Winner gets an AOL trial disc and a poster of the periodic table, slightly damp."
+  - UK
+  - US
+  intro: Right, Sciencebusters. All science answers hiding in the sounds. Say the clues out loud and the answer's in there.
+  prize: Email in. Winner gets an AOL trial disc and a poster of the periodic table, slightly damp.
   clues:
-    - number: 1
-      initials: B H
-      clue: "Right, there's a dark void - completely empty - and somehow it's gone and swallowed everything nearby. Nothing gets out. Bit of a nuisance."
-      answer: Black Hole
-      aliases:
-        - black hole
-      reasoning: "black (dark, no light) + hole (a void, an opening that swallows things) = Black Hole. Spoken aloud: 'black hole', strong and clean split."
-    - number: 2
-      initials: N S
-      clue: "A bloke called Newton's been put in charge of some stargazing. Apparently he's got a very dense sort of twinkler to keep an eye on."
-      answer: Neutron Star
-      aliases:
-        - neutron star
-      reasoning: "neutron (sounds like 'new-tron', or like Newton minus the w) + star (a twinkler in the sky) = Neutron Star. Spoken split: 'new-tron star'."
-    - number: 3
-      initials: S
-      clue: "That big celebrity fella - real show-off - has gone and exploded. Massive. Bits everywhere. Everyone saw it."
-      answer: Supernova
-      aliases:
-        - supernova
-      reasoning: "super (a show-off celebrity, big, flashy) + nova (new, or nova as in a new bright star) = Supernova. Sounds like 'SOO-per-NO-va'."
-
+  - number: 1
+    initials: B H
+    clue: Right, there's a dark void - completely empty - and somehow it's gone and swallowed everything nearby. Nothing gets out. Bit of a nuisance.
+    answer: Black Hole
+    aliases:
+    - black hole
+    reasoning: 'black (dark, no light) + hole (a void, an opening that swallows things) = Black Hole. Spoken aloud: ''black hole'', strong and clean split.'
+  - number: 2
+    initials: N S
+    clue: A bloke called Newton's been put in charge of some stargazing. Apparently he's got a very dense sort of twinkler to keep an eye on.
+    answer: Neutron Star
+    aliases:
+    - neutron star
+    reasoning: 'neutron (sounds like ''new-tron'', or like Newton minus the w) + star (a twinkler in the sky) = Neutron Star. Spoken split: ''new-tron star''.'
+  - number: 3
+    initials: S
+    clue: That big celebrity fella - real show-off - has gone and exploded. Massive. Bits everywhere. Everyone saw it.
+    answer: Supernova
+    aliases:
+    - supernova
+    reasoning: super (a show-off celebrity, big, flashy) + nova (new, or nova as in a new bright star) = Supernova. Sounds like 'SOO-per-NO-va'.
 - id: sciencebusters2-002
   enabled: true
   title: Sciencebusters
@@ -39,34 +38,33 @@
   difficulty: hard
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Sciencebusters two. Three more science answers hidden in these phonetic clues. Have a go."
-  prize: "Email in. Winner gets a Blockbuster loyalty card and a copy of Bill Nye the Science Guy on VHS."
+  - UK
+  - US
+  intro: Sciencebusters two. Three more science answers hidden in these phonetic clues. Have a go.
+  prize: Email in. Winner gets a Blockbuster loyalty card and a copy of Bill Nye the Science Guy on VHS.
   clues:
-    - number: 1
-      initials: P
-      clue: "Right, these plants are doing some sort of synthesis with light. Taking the sunshine and turning it into food. Clever really, if you think about it."
-      answer: Photosynthesis
-      aliases:
-        - photosynthesis
-      reasoning: "photo (light, like a photo taken with light) + synthesis (combining things, making something new) = Photosynthesis. Spoken: 'FOE-toe-SIN-thuh-sis'."
-    - number: 2
-      initials: M
-      clue: "There's a tiny part of a cell and it's where all the energy gets made. Dead important. The powerhouse of the thing, they call it."
-      answer: Mitochondria
-      aliases:
-        - mitochondria
-      reasoning: "mito (sounds like 'my toe') + chon (sounds like 'con') + dria (sounds like 'dree-uh') = Mitochondria. Phonetically: 'MY-toe-KON-dree-uh'."
-    - number: 3
-      initials: C
-      clue: "That colour between blue and green - aqua, sort of - and someone's made a rhyme out of it. A bit of a poem. Odd."
-      answer: Chromosomes
-      aliases:
-        - chromosomes
-        - chromosome
-      reasoning: "chroma (colour, from Greek) + somes (sounds like 'some', making it a near-rhyme scheme) = Chromosomes. Spoken: 'KROH-muh-soams'."
-
+  - number: 1
+    initials: P
+    clue: Right, these plants are doing some sort of synthesis with light. Taking the sunshine and turning it into food. Clever really, if you think about it.
+    answer: Photosynthesis
+    aliases:
+    - photosynthesis
+    reasoning: 'photo (light, like a photo taken with light) + synthesis (combining things, making something new) = Photosynthesis. Spoken: ''FOE-toe-SIN-thuh-sis''.'
+  - number: 2
+    initials: M
+    clue: There's a tiny part of a cell and it's where all the energy gets made. Dead important. The powerhouse of the thing, they call it.
+    answer: Mitochondria
+    aliases:
+    - mitochondria
+    reasoning: 'mito (sounds like ''my toe'') + chon (sounds like ''con'') + dria (sounds like ''dree-uh'') = Mitochondria. Phonetically: ''MY-toe-KON-dree-uh''.'
+  - number: 3
+    initials: C
+    clue: That colour between blue and green - aqua, sort of - and someone's made a rhyme out of it. A bit of a poem. Odd.
+    answer: Chromosomes
+    aliases:
+    - chromosomes
+    - chromosome
+    reasoning: 'chroma (colour, from Greek) + somes (sounds like ''some'', making it a near-rhyme scheme) = Chromosomes. Spoken: ''KROH-muh-soams''.'
 - id: sciencebusters2-003
   enabled: true
   title: Sciencebusters
@@ -74,35 +72,34 @@
   difficulty: hard
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Three more science clues. Sciencebusters three. The answer's hiding in the sounds, not the spelling."
-  prize: "Email in. Winner gets a printed photo from a disposable camera, framed, of someone's nan."
+  - UK
+  - US
+  intro: Three more science clues. Sciencebusters three. The answer's hiding in the sounds, not the spelling.
+  prize: Email in. Winner gets a printed photo from a disposable camera, framed, of someone's nan.
   clues:
-    - number: 1
-      initials: A
-      clue: "Right, there's these tiny fighters in your body - a whole army of them - and they've been given a specific target to deal with. And they're proper hostile about it."
-      answer: Antibiotics
-      aliases:
-        - antibiotics
-        - antibiotic
-      reasoning: "anti (against, hostile) + biotics (sounds like 'by-OT-ics', relating to life/biology) = Antibiotics. Spoken: 'AN-tee-by-OT-iks'."
-    - number: 2
-      initials: P
-      clue: "That fella Penn - from Penn and Teller - he's gone and found something mouldy in his kitchen. Changed medicine forever, apparently."
-      answer: Penicillin
-      aliases:
-        - penicillin
-      reasoning: "pen (Penn, the magician) + icillin (sounds like 'I-sil-in') = Penicillin. Spoken: 'PEN-ih-SIL-in'. Close enough to 'Penn-ih-sill-in'."
-    - number: 3
-      initials: V
-      clue: "Some doctor's got a whole station full of needles. Everyone's queuing up to get jabbed. Not happy about it but they're doing it anyway."
-      answer: Vaccination
-      aliases:
-        - vaccination
-        - vaccinations
-      reasoning: "vacci (sounds like 'vax-ee') + nation (a whole country full of people, all queuing up) = Vaccination. Spoken: 'vax-ih-NAY-shun'."
-
+  - number: 1
+    initials: A
+    clue: Right, there's these tiny fighters in your body - a whole army of them - and they've been given a specific target to deal with. And they're proper hostile about it.
+    answer: Antibiotics
+    aliases:
+    - antibiotics
+    - antibiotic
+    reasoning: 'anti (against, hostile) + biotics (sounds like ''by-OT-ics'', relating to life/biology) = Antibiotics. Spoken: ''AN-tee-by-OT-iks''.'
+  - number: 2
+    initials: P
+    clue: That fella Penn - from Penn and Teller - he's gone and found something mouldy in his kitchen. Changed medicine forever, apparently.
+    answer: Penicillin
+    aliases:
+    - penicillin
+    reasoning: 'pen (Penn, the magician) + icillin (sounds like ''I-sil-in'') = Penicillin. Spoken: ''PEN-ih-SIL-in''. Close enough to ''Penn-ih-sill-in''.'
+  - number: 3
+    initials: V
+    clue: Some doctor's got a whole station full of needles. Everyone's queuing up to get jabbed. Not happy about it but they're doing it anyway.
+    answer: Vaccination
+    aliases:
+    - vaccination
+    - vaccinations
+    reasoning: 'vacci (sounds like ''vax-ee'') + nation (a whole country full of people, all queuing up) = Vaccination. Spoken: ''vax-ih-NAY-shun''.'
 - id: sciencebusters2-004
   enabled: true
   title: Sciencebusters
@@ -110,35 +107,34 @@
   difficulty: hard
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Sciencebusters four. Say these out loud and the science term will come to you. Or it won't. Give it a go."
-  prize: "Email in. Winner gets a copy of Shrek on DVD and a novelty USB stick shaped like a test tube."
+  - UK
+  - US
+  intro: Sciencebusters four. Say these out loud and the science term will come to you. Or it won't. Give it a go.
+  prize: Email in. Winner gets a copy of Shrek on DVD and a novelty USB stick shaped like a test tube.
   clues:
-    - number: 1
-      initials: P
-      clue: "Right, there's this French fella - very thorough sort - who's been making milk really hot on purpose. Kills all the nasty stuff."
-      answer: Pasteurisation
-      aliases:
-        - pasteurisation
-        - pasteurization
-      reasoning: "Pasteur (Louis Pasteur, the French scientist) + isation (the process of doing something) = Pasteurisation. Spoken: 'PASS-cher-eye-ZAY-shun'."
-    - number: 2
-      initials: R
-      clue: "That woman, Marie, she's been glowing. Not in a happy way. More of a dangerous glow. Coming off the rocks she's been studying."
-      answer: Radioactivity
-      aliases:
-        - radioactivity
-        - radioactive
-      reasoning: "radio (radio waves, or the glow/emission) + activity (doing stuff, being active) = Radioactivity. Spoken: 'RAY-dee-oh-ak-TIV-ih-tee'."
-    - number: 3
-      initials: N F
-      clue: "A nuclear fella's split something right down the middle. Atom's had enough. Just gone in half. Bits flying everywhere."
-      answer: Nuclear Fission
-      aliases:
-        - nuclear fission
-      reasoning: "nuclear (relating to the atom's nucleus) + fission (splitting, from Latin 'fissio') = Nuclear Fission. Spoken: 'NEW-klee-uh FISH-un'."
-
+  - number: 1
+    initials: P
+    clue: Right, there's this French fella - very thorough sort - who's been making milk really hot on purpose. Kills all the nasty stuff.
+    answer: Pasteurisation
+    aliases:
+    - pasteurisation
+    - pasteurization
+    reasoning: 'Pasteur (Louis Pasteur, the French scientist) + isation (the process of doing something) = Pasteurisation. Spoken: ''PASS-cher-eye-ZAY-shun''.'
+  - number: 2
+    initials: R
+    clue: That woman, Marie, she's been glowing. Not in a happy way. More of a dangerous glow. Coming off the rocks she's been studying.
+    answer: Radioactivity
+    aliases:
+    - radioactivity
+    - radioactive
+    reasoning: 'radio (radio waves, or the glow/emission) + activity (doing stuff, being active) = Radioactivity. Spoken: ''RAY-dee-oh-ak-TIV-ih-tee''.'
+  - number: 3
+    initials: N F
+    clue: A nuclear fella's split something right down the middle. Atom's had enough. Just gone in half. Bits flying everywhere.
+    answer: Nuclear Fission
+    aliases:
+    - nuclear fission
+    reasoning: 'nuclear (relating to the atom''s nucleus) + fission (splitting, from Latin ''fissio'') = Nuclear Fission. Spoken: ''NEW-klee-uh FISH-un''.'
 - id: sciencebusters2-005
   enabled: true
   title: Sciencebusters
@@ -146,34 +142,33 @@
   difficulty: hard
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Alright, Sciencebusters five. Big science themes now. Three phonetic clues, all hiding a scientific concept."
-  prize: "Email in. Winner gets an Encyclopaedia Britannica, volume twelve only, and a highlighting pen."
+  - UK
+  - US
+  intro: Alright, Sciencebusters five. Big science themes now. Three phonetic clues, all hiding a scientific concept.
+  prize: Email in. Winner gets an Encyclopaedia Britannica, volume twelve only, and a highlighting pen.
   clues:
-    - number: 1
-      initials: Q M
-      clue: "Right, this mechanic, he works on extremely tiny things. Atoms and particles and that. Barely visible. Very fiddly job."
-      answer: Quantum Mechanics
-      aliases:
-        - quantum mechanics
-      reasoning: "quantum (the tiny discrete unit of energy) + mechanics (a person who fixes things, or the study of motion) = Quantum Mechanics. Spoken: 'KWON-tum muh-KAN-iks'."
-    - number: 2
-      initials: R
-      clue: "Everything's relative, apparently. This fella spent ages proving that. Bit philosophical for physics if you ask me."
-      answer: Relativity
-      aliases:
-        - relativity
-        - theory of relativity
-      reasoning: "relative (relating to something else, not absolute) + ity (the state of being) = Relativity. Spoken: 'rel-uh-TIV-ih-tee'."
-    - number: 3
-      initials: G
-      clue: "That apple fell off a tree. Bloke underneath got a knock on the head. Started thinking about why everything falls down. That's all it took, apparently."
-      answer: Gravity
-      aliases:
-        - gravity
-      reasoning: "grave (serious, weighty) + ity (the state of being) = Gravity. Or more directly: 'GRAV-ih-tee', the force that pulls things down."
-
+  - number: 1
+    initials: Q M
+    clue: Right, this mechanic, he works on extremely tiny things. Atoms and particles and that. Barely visible. Very fiddly job.
+    answer: Quantum Mechanics
+    aliases:
+    - quantum mechanics
+    reasoning: 'quantum (the tiny discrete unit of energy) + mechanics (a person who fixes things, or the study of motion) = Quantum Mechanics. Spoken: ''KWON-tum muh-KAN-iks''.'
+  - number: 2
+    initials: R
+    clue: Everything's relative, apparently. This fella spent ages proving that. Bit philosophical for physics if you ask me.
+    answer: Relativity
+    aliases:
+    - relativity
+    - theory of relativity
+    reasoning: 'relative (relating to something else, not absolute) + ity (the state of being) = Relativity. Spoken: ''rel-uh-TIV-ih-tee''.'
+  - number: 3
+    initials: G
+    clue: That apple fell off a tree. Bloke underneath got a knock on the head. Started thinking about why everything falls down. That's all it took, apparently.
+    answer: Gravity
+    aliases:
+    - gravity
+    reasoning: 'grave (serious, weighty) + ity (the state of being) = Gravity. Or more directly: ''GRAV-ih-tee'', the force that pulls things down.'
 - id: sciencebusters2-006
   enabled: true
   title: Sciencebusters
@@ -181,35 +176,34 @@
   difficulty: hard
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Sciencebusters six. Three more science concepts. All hiding in the sounds of these clues. Right then."
-  prize: "Email in. Winner gets a signed letter from someone off Tomorrow's World, possibly."
+  - UK
+  - US
+  intro: Sciencebusters six. Three more science concepts. All hiding in the sounds of these clues. Right then.
+  prize: Email in. Winner gets a signed letter from someone off Tomorrow's World, possibly.
   clues:
-    - number: 1
-      initials: E
-      clue: "Right, there's this massive force that connects magnets to electricity. They're related, it turns out. Who knew. Faraday probably knew."
-      answer: Electromagnetism
-      aliases:
-        - electromagnetism
-        - electro-magnetism
-      reasoning: "electro (electricity) + magnet (the thing that sticks to your fridge) + ism (a theory or force) = Electromagnetism. Spoken: 'ih-LEK-troh-MAG-nuh-tiz-um'."
-    - number: 2
-      initials: T
-      clue: "Some fella's got a lot of heat and he's got laws about what it does. Engines running on it and that. Very warm subject."
-      answer: Thermodynamics
-      aliases:
-        - thermodynamics
-      reasoning: "thermo (heat, like a thermometer) + dynamics (movement, energy, laws of motion) = Thermodynamics. Spoken: 'THER-moh-dy-NAM-iks'."
-    - number: 3
-      initials: P T
-      clue: "A Russian fella made a table. But not for eating at. All the elements lined up in it. Very organised sort."
-      answer: Periodic Table
-      aliases:
-        - periodic table
-        - the periodic table
-      reasoning: "periodic (recurring at intervals, like elements grouped by period) + table (a grid, like a dining table) = Periodic Table. Spoken: 'peer-ee-OD-ik TAY-bul'."
-
+  - number: 1
+    initials: E
+    clue: Right, there's this massive force that connects magnets to electricity. They're related, it turns out. Who knew. Faraday probably knew.
+    answer: Electromagnetism
+    aliases:
+    - electromagnetism
+    - electro-magnetism
+    reasoning: 'electro (electricity) + magnet (the thing that sticks to your fridge) + ism (a theory or force) = Electromagnetism. Spoken: ''ih-LEK-troh-MAG-nuh-tiz-um''.'
+  - number: 2
+    initials: T
+    clue: Some fella's got a lot of heat and he's got laws about what it does. Engines running on it and that. Very warm subject.
+    answer: Thermodynamics
+    aliases:
+    - thermodynamics
+    reasoning: 'thermo (heat, like a thermometer) + dynamics (movement, energy, laws of motion) = Thermodynamics. Spoken: ''THER-moh-dy-NAM-iks''.'
+  - number: 3
+    initials: P T
+    clue: A Russian fella made a table. But not for eating at. All the elements lined up in it. Very organised sort.
+    answer: Periodic Table
+    aliases:
+    - periodic table
+    - the periodic table
+    reasoning: 'periodic (recurring at intervals, like elements grouped by period) + table (a grid, like a dining table) = Periodic Table. Spoken: ''peer-ee-OD-ik TAY-bul''.'
 - id: sciencebusters2-007
   enabled: true
   title: Sciencebusters
@@ -217,35 +211,34 @@
   difficulty: hard
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Right, Sciencebusters seven. Scientists and mathematicians now. Three phonetic clues. You know the drill."
-  prize: "Email in. Winner gets a mug from a company that no longer exists and a geometry set."
+  - UK
+  - US
+  intro: Right, Sciencebusters seven. Scientists and mathematicians now. Three phonetic clues. You know the drill.
+  prize: Email in. Winner gets a mug from a company that no longer exists and a geometry set.
   clues:
-    - number: 1
-      initials: F
-      clue: "Right, there's this sequence of numbers where each one is the sum of the two before it. Italian fella came up with it. Very famous rabbit problem."
-      answer: Fibonacci
-      aliases:
-        - fibonacci
-        - fibonacci sequence
-      reasoning: "fib (a small lie) + on (continuing) + acci (sounds like 'ah-chee') = Fibonacci. Spoken: 'fib-uh-NAH-chee'. Phonetically: 'FIB-on-AH-chee'."
-    - number: 2
-      initials: P
-      clue: "That Greek fella who spent a lot of time looking at right-angled triangles. Worked out something about the longest side. Very pleased with himself."
-      answer: Pythagoras
-      aliases:
-        - pythagoras
-        - pythagoras theorem
-      reasoning: "pie (sounds like 'py', like pi the number) + thag (sounds like 'thag') + oras (sounds like 'oh-ras') = Pythagoras. Spoken: 'py-THAG-uh-rus'."
-    - number: 3
-      initials: A
-      clue: "That old Greek in his bath - had a bit of a revelation about water displacement - ran out into the street about it. Bit dramatic for a Tuesday."
-      answer: Archimedes
-      aliases:
-        - archimedes
-      reasoning: "archi (sounds like 'ark-ee') + medes (sounds like 'mee-deez') = Archimedes. Spoken: 'ark-ih-MEE-deez'. Famous for his bath moment."
-
+  - number: 1
+    initials: F
+    clue: Right, there's this sequence of numbers where each one is the sum of the two before it. Italian fella came up with it. Very famous rabbit problem.
+    answer: Fibonacci
+    aliases:
+    - fibonacci
+    - fibonacci sequence
+    reasoning: 'fib (a small lie) + on (continuing) + acci (sounds like ''ah-chee'') = Fibonacci. Spoken: ''fib-uh-NAH-chee''. Phonetically: ''FIB-on-AH-chee''.'
+  - number: 2
+    initials: P
+    clue: That Greek fella who spent a lot of time looking at right-angled triangles. Worked out something about the longest side. Very pleased with himself.
+    answer: Pythagoras
+    aliases:
+    - pythagoras
+    - pythagoras theorem
+    reasoning: 'pie (sounds like ''py'', like pi the number) + thag (sounds like ''thag'') + oras (sounds like ''oh-ras'') = Pythagoras. Spoken: ''py-THAG-uh-rus''.'
+  - number: 3
+    initials: A
+    clue: That old Greek in his bath - had a bit of a revelation about water displacement - ran out into the street about it. Bit dramatic for a Tuesday.
+    answer: Archimedes
+    aliases:
+    - archimedes
+    reasoning: 'archi (sounds like ''ark-ee'') + medes (sounds like ''mee-deez'') = Archimedes. Spoken: ''ark-ih-MEE-deez''. Famous for his bath moment.'
 - id: sciencebusters2-008
   enabled: true
   title: Sciencebusters
@@ -253,37 +246,36 @@
   difficulty: hard
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Sciencebusters eight. More scientists hiding in these sounds. Say them out loud and see what you get."
-  prize: "Email in. Winner gets a DVD of Cosmos: A Personal Voyage, missing discs two and four."
+  - UK
+  - US
+  intro: Sciencebusters eight. More scientists hiding in these sounds. Say them out loud and see what you get.
+  prize: 'Email in. Winner gets a DVD of Cosmos: A Personal Voyage, missing discs two and four.'
   clues:
-    - number: 1
-      initials: P
-      clue: "Right, this fella - French mathematician - invented a triangle made of numbers. Also a pressure law. Did a lot, Pascal."
-      answer: Pascal
-      aliases:
-        - pascal
-        - blaise pascal
-      reasoning: "pass (to go past something) + cal (sounds like 'kal') = Pascal. Spoken: 'PASS-kul'. Or 'pas-KAL' depending on accent."
-    - number: 2
-      initials: B
-      clue: "That Irish fella who worked out what gas does under pressure. Squash it and it gets smaller. Obvious when you think about it."
-      answer: Boyle
-      aliases:
-        - boyle
-        - boyle's law
-        - robert boyle
-      reasoning: "boil (to heat liquid until it bubbles) sounds like Boyle. Spoken: 'BOIL' = Boyle. Near enough for a phonetic riddle."
-    - number: 3
-      initials: N
-      clue: "Some bloke's been sitting under a fruit tree, thinking very hard about falling things and universal forces. Got a bit of a bump for his trouble."
-      answer: Newton
-      aliases:
-        - newton
-        - isaac newton
-      reasoning: "new (brand new) + ton (a unit of weight, heavy) = Newton. Spoken: 'NEW-ton'. Isaac Newton, gravity and that."
-
+  - number: 1
+    initials: P
+    clue: Right, this fella - French mathematician - invented a triangle made of numbers. Also a pressure law. Did a lot, Pascal.
+    answer: Pascal
+    aliases:
+    - pascal
+    - blaise pascal
+    reasoning: 'pass (to go past something) + cal (sounds like ''kal'') = Pascal. Spoken: ''PASS-kul''. Or ''pas-KAL'' depending on accent.'
+  - number: 2
+    initials: B
+    clue: That Irish fella who worked out what gas does under pressure. Squash it and it gets smaller. Obvious when you think about it.
+    answer: Boyle
+    aliases:
+    - boyle
+    - boyle's law
+    - robert boyle
+    reasoning: 'boil (to heat liquid until it bubbles) sounds like Boyle. Spoken: ''BOIL'' = Boyle. Near enough for a phonetic riddle.'
+  - number: 3
+    initials: N
+    clue: Some bloke's been sitting under a fruit tree, thinking very hard about falling things and universal forces. Got a bit of a bump for his trouble.
+    answer: Newton
+    aliases:
+    - newton
+    - isaac newton
+    reasoning: 'new (brand new) + ton (a unit of weight, heavy) = Newton. Spoken: ''NEW-ton''. Isaac Newton, gravity and that.'
 - id: sciencebusters2-009
   enabled: true
   title: Sciencebusters
@@ -291,35 +283,34 @@
   difficulty: hard
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Nine in. Sciencebusters. All science and discovery in these clues. Say it out loud."
-  prize: "Email in. Winner gets a Nobel Prize certificate, printed on an inkjet, laminated."
+  - UK
+  - US
+  intro: Nine in. Sciencebusters. All science and discovery in these clues. Say it out loud.
+  prize: Email in. Winner gets a Nobel Prize certificate, printed on an inkjet, laminated.
   clues:
-    - number: 1
-      initials: D H
-      clue: "Right, there's this twisted ladder shape - the one that carries all your genetic information - and it's all spiralling about. Very elegant, apparently."
-      answer: DNA Helix
-      aliases:
-        - dna helix
-        - double helix
-        - dna double helix
-      reasoning: "DNA (the genetic code) + helix (a spiral shape, like a twisted ladder) = DNA Helix. Spoken: 'dee-en-ay HEE-liks'."
-    - number: 2
-      initials: D M
-      clue: "There's some mysterious invisible stuff in the universe. Scientists know it's there but can't see it. Just sort of hanging about, causing gravity. Very antisocial."
-      answer: Dark Matter
-      aliases:
-        - dark matter
-      reasoning: "dark (invisible, can't see it) + matter (stuff, the physical substance of things) = Dark Matter. Spoken: 'DARK MAT-er'."
-    - number: 3
-      initials: Q M
-      clue: "This very small mechanic - works on the tiniest of scales - he's got laws for everything. Can't open a box without predicting what's inside."
-      answer: Quantum Mechanics
-      aliases:
-        - quantum mechanics
-      reasoning: "quantum (impossibly small units) + mechanics (a fixer, someone who understands how things work) = Quantum Mechanics."
-
+  - number: 1
+    initials: D H
+    clue: Right, there's this twisted ladder shape - the one that carries all your genetic information - and it's all spiralling about. Very elegant, apparently.
+    answer: DNA Helix
+    aliases:
+    - dna helix
+    - double helix
+    - dna double helix
+    reasoning: 'DNA (the genetic code) + helix (a spiral shape, like a twisted ladder) = DNA Helix. Spoken: ''dee-en-ay HEE-liks''.'
+  - number: 2
+    initials: D M
+    clue: There's some mysterious invisible stuff in the universe. Scientists know it's there but can't see it. Just sort of hanging about, causing gravity. Very antisocial.
+    answer: Dark Matter
+    aliases:
+    - dark matter
+    reasoning: 'dark (invisible, can''t see it) + matter (stuff, the physical substance of things) = Dark Matter. Spoken: ''DARK MAT-er''.'
+  - number: 3
+    initials: Q M
+    clue: This very small mechanic - works on the tiniest of scales - he's got laws for everything. Can't open a box without predicting what's inside.
+    answer: Quantum Mechanics
+    aliases:
+    - quantum mechanics
+    reasoning: quantum (impossibly small units) + mechanics (a fixer, someone who understands how things work) = Quantum Mechanics.
 - id: sciencebusters2-010
   enabled: true
   title: Sciencebusters
@@ -327,34 +318,33 @@
   difficulty: hard
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Sciencebusters ten. Halfway through. Three more science answers hiding in these phonetic clues. Off you go."
-  prize: "Email in. Winner gets a keyring from a science museum gift shop and a pencil."
+  - UK
+  - US
+  intro: Sciencebusters. Three more science answers hiding in these phonetic clues. Off you go.
+  prize: Email in. Winner gets a keyring from a science museum gift shop and a pencil.
   clues:
-    - number: 1
-      initials: P
-      clue: "Right, Archimedes is running down the street again. Wet. No clothes on. Shouting something about finding things out. Very excited."
-      answer: Pythagoras
-      aliases:
-        - pythagoras
-        - pythagoras theorem
-      reasoning: "pie (sounds like 'py') + thag (sounds like 'thag') + oras = Pythagoras. Different clue angle: the running Greek scholar image contrasted with the answer Pythagoras."
-    - number: 2
-      initials: S
-      clue: "A massive star's at the end of its life. Going out in spectacular fashion. Brightness of a billion suns for a bit. Then nothing. Bit like some people."
-      answer: Supernova
-      aliases:
-        - supernova
-      reasoning: "super (spectacular, bigger than everything) + nova (new, a new bright light appears) = Supernova. Spoken: 'SOO-per-NOH-vuh'."
-    - number: 3
-      initials: E
-      clue: "All the magnets have got together with the lightning people. They've formed a sort of alliance. Unified force. Very powerful group."
-      answer: Electromagnetism
-      aliases:
-        - electromagnetism
-      reasoning: "electro (electricity, lightning) + magnet (the things that attract) + ism (the unified theory or force) = Electromagnetism."
-
+  - number: 1
+    initials: P
+    clue: Right, Archimedes is running down the street again. Wet. No clothes on. Shouting something about finding things out. Very excited.
+    answer: Pythagoras
+    aliases:
+    - pythagoras
+    - pythagoras theorem
+    reasoning: 'pie (sounds like ''py'') + thag (sounds like ''thag'') + oras = Pythagoras. Different clue angle: the running Greek scholar image contrasted with the answer Pythagoras.'
+  - number: 2
+    initials: S
+    clue: A massive star's at the end of its life. Going out in spectacular fashion. Brightness of a billion suns for a bit. Then nothing. Bit like some people.
+    answer: Supernova
+    aliases:
+    - supernova
+    reasoning: 'super (spectacular, bigger than everything) + nova (new, a new bright light appears) = Supernova. Spoken: ''SOO-per-NOH-vuh''.'
+  - number: 3
+    initials: E
+    clue: All the magnets have got together with the lightning people. They've formed a sort of alliance. Unified force. Very powerful group.
+    answer: Electromagnetism
+    aliases:
+    - electromagnetism
+    reasoning: electro (electricity, lightning) + magnet (the things that attract) + ism (the unified theory or force) = Electromagnetism.
 - id: sciencebusters2-011
   enabled: true
   title: Sciencebusters
@@ -362,35 +352,34 @@
   difficulty: hard
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Sciencebusters eleven. Three more science concepts hidden in the sounds. Have a think."
-  prize: "Email in. Winner gets a copy of A Brief History of Time and a complimentary bookmark."
+  - UK
+  - US
+  intro: Sciencebusters eleven. Three more science concepts hidden in the sounds. Have a think.
+  prize: Email in. Winner gets a copy of A Brief History of Time and a complimentary bookmark.
   clues:
-    - number: 1
-      initials: P
-      clue: "Right, the French cheese man's been heating things up again. Doing it to the juice this time. Killing the germs. Very thorough."
-      answer: Pasteurisation
-      aliases:
-        - pasteurisation
-        - pasteurization
-      reasoning: "Pasteur (the French scientist, sounds like 'pass-tur') + isation (the process/suffix) = Pasteurisation. Spoken: 'PASS-chuh-rye-ZAY-shun'."
-    - number: 2
-      initials: M
-      clue: "That part inside the cell - the really important one where the energy comes from - it's like a little power station. Mitochondria, they call it."
-      answer: Mitochondria
-      aliases:
-        - mitochondria
-      reasoning: "mito (sounds like 'my toe') + chondria (sounds like 'KON-dree-uh') = Mitochondria. Spoken aloud: 'my-toe-KON-dree-uh'."
-    - number: 3
-      initials: P T
-      clue: "Mendeleev's done a grid. All the chemical elements. Very neat. Colour-coded. Hangs on every school wall. That's all."
-      answer: Periodic Table
-      aliases:
-        - periodic table
-        - the periodic table
-      reasoning: "periodic (at regular intervals, like the periods in the table) + table (the grid/chart) = Periodic Table."
-
+  - number: 1
+    initials: P
+    clue: Right, the French cheese man's been heating things up again. Doing it to the juice this time. Killing the germs. Very thorough.
+    answer: Pasteurisation
+    aliases:
+    - pasteurisation
+    - pasteurization
+    reasoning: 'Pasteur (the French scientist, sounds like ''pass-tur'') + isation (the process/suffix) = Pasteurisation. Spoken: ''PASS-chuh-rye-ZAY-shun''.'
+  - number: 2
+    initials: M
+    clue: That part inside the cell - the really important one where the energy comes from - it's like a little power station. Mitochondria, they call it.
+    answer: Mitochondria
+    aliases:
+    - mitochondria
+    reasoning: 'mito (sounds like ''my toe'') + chondria (sounds like ''KON-dree-uh'') = Mitochondria. Spoken aloud: ''my-toe-KON-dree-uh''.'
+  - number: 3
+    initials: P T
+    clue: Mendeleev's done a grid. All the chemical elements. Very neat. Colour-coded. Hangs on every school wall. That's all.
+    answer: Periodic Table
+    aliases:
+    - periodic table
+    - the periodic table
+    reasoning: periodic (at regular intervals, like the periods in the table) + table (the grid/chart) = Periodic Table.
 - id: sciencebusters2-012
   enabled: true
   title: Sciencebusters
@@ -398,35 +387,34 @@
   difficulty: hard
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Right, Sciencebusters twelve. Science clues, phonetic answers. Say it out loud and you'll get it. Maybe."
-  prize: "Email in. Winner gets a signed photo from someone off Brainiac: Science Abuse."
+  - UK
+  - US
+  intro: Right, Sciencebusters twelve. Science clues, phonetic answers. Say it out loud and you'll get it. Maybe.
+  prize: 'Email in. Winner gets a signed photo from someone off Brainiac: Science Abuse.'
   clues:
-    - number: 1
-      initials: A
-      clue: "Right, that Greek fella's been doing more maths. This time it's about circles. And he's worked out the volume of a sphere. In a bath. Of course."
-      answer: Archimedes
-      aliases:
-        - archimedes
-      reasoning: "archi (sounds like 'ark-ee') + medes (sounds like 'mee-deez') = Archimedes. Spoken: 'ARK-ih-MEE-deez'."
-    - number: 2
-      initials: V
-      clue: "There's a whole country being jabbed. All of them. Every single one. Bit of liquid and a needle and they're sorted. Lines round the block."
-      answer: Vaccination
-      aliases:
-        - vaccination
-        - vaccinations
-      reasoning: "vacci (sounds like 'VAKS-ee') + nation (a whole country of people) = Vaccination. Spoken: 'VAK-sih-NAY-shun'."
-    - number: 3
-      initials: N
-      clue: "That scientist who did a lot of work on light - prisms and colours and that - he's also quite heavy. By the unit."
-      answer: Newton
-      aliases:
-        - newton
-        - isaac newton
-      reasoning: "new (brand new) + ton (a unit of weight, very heavy) = Newton. Spoken: 'NEW-tun'. Isaac Newton, the unit of force."
-
+  - number: 1
+    initials: A
+    clue: Right, that Greek fella's been doing more maths. This time it's about circles. And he's worked out the volume of a sphere. In a bath. Of course.
+    answer: Archimedes
+    aliases:
+    - archimedes
+    reasoning: 'archi (sounds like ''ark-ee'') + medes (sounds like ''mee-deez'') = Archimedes. Spoken: ''ARK-ih-MEE-deez''.'
+  - number: 2
+    initials: V
+    clue: There's a whole country being jabbed. All of them. Every single one. Bit of liquid and a needle and they're sorted. Lines round the block.
+    answer: Vaccination
+    aliases:
+    - vaccination
+    - vaccinations
+    reasoning: 'vacci (sounds like ''VAKS-ee'') + nation (a whole country of people) = Vaccination. Spoken: ''VAK-sih-NAY-shun''.'
+  - number: 3
+    initials: N
+    clue: That scientist who did a lot of work on light - prisms and colours and that - he's also quite heavy. By the unit.
+    answer: Newton
+    aliases:
+    - newton
+    - isaac newton
+    reasoning: 'new (brand new) + ton (a unit of weight, very heavy) = Newton. Spoken: ''NEW-tun''. Isaac Newton, the unit of force.'
 - id: sciencebusters2-013
   enabled: true
   title: Sciencebusters
@@ -434,35 +422,34 @@
   difficulty: hard
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Sciencebusters thirteen. Three more science and discovery clues. Phonetic riddles, not spelling puzzles. Right then."
-  prize: "Email in. Winner gets a Now 62 CD and a poster of Albert Einstein sticking his tongue out."
+  - UK
+  - US
+  intro: Sciencebusters thirteen. Three more science and discovery clues. Phonetic riddles, not spelling puzzles. Right then.
+  prize: Email in. Winner gets a Now 62 CD and a poster of Albert Einstein sticking his tongue out.
   clues:
-    - number: 1
-      initials: B H
-      clue: "Everything's been sucked in. Light, matter, all of it. Nothing comes out the other side. Bit of a one-way situation. Bleak, really."
-      answer: Black Hole
-      aliases:
-        - black hole
-      reasoning: "black (no light, dark) + hole (a void, an opening you fall into) = Black Hole. Spoken: 'BLAK HOHL'. Very clean split."
-    - number: 2
-      initials: R
-      clue: "That Marie from Poland - with the glowing rocks - she spent years working out why everything was emitting energy. Two Nobel Prizes for it. Deserved."
-      answer: Radioactivity
-      aliases:
-        - radioactivity
-        - radioactive
-      reasoning: "radio (emissions, waves, energy going outward) + activity (doing things, being busy and active) = Radioactivity."
-    - number: 3
-      initials: F
-      clue: "This Italian fella's sequence starts with rabbits. One rabbit, then two, then three, then five, then eight. The numbers add up. Goes on forever."
-      answer: Fibonacci
-      aliases:
-        - fibonacci
-        - fibonacci sequence
-      reasoning: "fib (a small lie, or the start of the name) + on-acci (sounds like 'on-AH-chee') = Fibonacci. Spoken: 'FIB-uh-NAH-chee'."
-
+  - number: 1
+    initials: B H
+    clue: Everything's been sucked in. Light, matter, all of it. Nothing comes out the other side. Bit of a one-way situation. Bleak, really.
+    answer: Black Hole
+    aliases:
+    - black hole
+    reasoning: 'black (no light, dark) + hole (a void, an opening you fall into) = Black Hole. Spoken: ''BLAK HOHL''. Very clean split.'
+  - number: 2
+    initials: R
+    clue: That Marie from Poland - with the glowing rocks - she spent years working out why everything was emitting energy. Two Nobel Prizes for it. Deserved.
+    answer: Radioactivity
+    aliases:
+    - radioactivity
+    - radioactive
+    reasoning: radio (emissions, waves, energy going outward) + activity (doing things, being busy and active) = Radioactivity.
+  - number: 3
+    initials: F
+    clue: This Italian fella's sequence starts with rabbits. One rabbit, then two, then three, then five, then eight. The numbers add up. Goes on forever.
+    answer: Fibonacci
+    aliases:
+    - fibonacci
+    - fibonacci sequence
+    reasoning: 'fib (a small lie, or the start of the name) + on-acci (sounds like ''on-AH-chee'') = Fibonacci. Spoken: ''FIB-uh-NAH-chee''.'
 - id: sciencebusters2-014
   enabled: true
   title: Sciencebusters
@@ -470,34 +457,33 @@
   difficulty: hard
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Sciencebusters fourteen. Six to go. Three more science terms hiding in the sounds of these clues."
-  prize: "Email in. Winner gets a Bunsen burner that no longer works and a lab coat, medium."
+  - UK
+  - US
+  intro: Sciencebusters fourteen. Six to go. Three more science terms hiding in the sounds of these clues.
+  prize: Email in. Winner gets a Bunsen burner that no longer works and a lab coat, medium.
   clues:
-    - number: 1
-      initials: C
-      clue: "Right, there's some coloured stuff - pigments and that - and they've been bundled up into these little packages inside the cell. Holds all the genes."
-      answer: Chromosomes
-      aliases:
-        - chromosomes
-        - chromosome
-      reasoning: "chroma (colour, Greek for pigment - chromosomes were named because they took up coloured dye) + some (a body/package, Greek 'soma') = Chromosomes. Spoken: 'KROH-muh-sohmz'."
-    - number: 2
-      initials: G
-      clue: "Something very serious is pulling everything toward it. Can't fight it. Even light bends round it. Sort of a weighty situation."
-      answer: Gravity
-      aliases:
-        - gravity
-      reasoning: "grave (serious, heavy - 'gravitas' is Latin for weight) + ity (the state of being) = Gravity. Spoken: 'GRAV-ih-tee'."
-    - number: 3
-      initials: N F
-      clue: "The middle of the atom's been split. Happened in a big lab. Loads of energy came out. Not a small event. Sort of changed things."
-      answer: Nuclear Fission
-      aliases:
-        - nuclear fission
-      reasoning: "nuclear (of the nucleus, the atom's core) + fission (the splitting, from 'fissio') = Nuclear Fission. Spoken: 'NEW-klee-uh FISH-un'."
-
+  - number: 1
+    initials: C
+    clue: Right, there's some coloured stuff - pigments and that - and they've been bundled up into these little packages inside the cell. Holds all the genes.
+    answer: Chromosomes
+    aliases:
+    - chromosomes
+    - chromosome
+    reasoning: 'chroma (colour, Greek for pigment - chromosomes were named because they took up coloured dye) + some (a body/package, Greek ''soma'') = Chromosomes. Spoken: ''KROH-muh-sohmz''.'
+  - number: 2
+    initials: G
+    clue: Something very serious is pulling everything toward it. Can't fight it. Even light bends round it. Sort of a weighty situation.
+    answer: Gravity
+    aliases:
+    - gravity
+    reasoning: 'grave (serious, heavy - ''gravitas'' is Latin for weight) + ity (the state of being) = Gravity. Spoken: ''GRAV-ih-tee''.'
+  - number: 3
+    initials: N F
+    clue: The middle of the atom's been split. Happened in a big lab. Loads of energy came out. Not a small event. Sort of changed things.
+    answer: Nuclear Fission
+    aliases:
+    - nuclear fission
+    reasoning: 'nuclear (of the nucleus, the atom''s core) + fission (the splitting, from ''fissio'') = Nuclear Fission. Spoken: ''NEW-klee-uh FISH-un''.'
 - id: sciencebusters2-015
   enabled: true
   title: Sciencebusters
@@ -505,34 +491,33 @@
   difficulty: hard
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Sciencebusters fifteen. Five left. Science discoveries and big ideas hidden in every clue."
-  prize: "Email in. Winner gets a copy of The Selfish Gene with someone else's notes in the margins."
+  - UK
+  - US
+  intro: Sciencebusters fifteen. Five left. Science discoveries and big ideas hidden in every clue.
+  prize: Email in. Winner gets a copy of The Selfish Gene with someone else's notes in the margins.
   clues:
-    - number: 1
-      initials: P
-      clue: "Right, those tiny battle-ready things your doctor puts in your arm. Different one for each nasty bug. Trains your body up."
-      answer: Penicillin
-      aliases:
-        - penicillin
-      reasoning: "pen (sounds like 'pen') + ih + cillin (sounds like 'SIL-in') = Penicillin. Spoken: 'PEN-ih-SIL-in'. Fleming found it in the mould."
-    - number: 2
-      initials: P
-      clue: "That French fella who heated the milk. Done it to wine as well. Sorted out the bacteria. Very useful for the fridge."
-      answer: Pasteurisation
-      aliases:
-        - pasteurisation
-        - pasteurization
-      reasoning: "Pasteur (Louis Pasteur, French microbiologist) + isation (the process of applying something) = Pasteurisation."
-    - number: 3
-      initials: T
-      clue: "All that heat in the engine - the steam and the pressure - it follows rules apparently. Laws about what hot things will and won't do. Very strict."
-      answer: Thermodynamics
-      aliases:
-        - thermodynamics
-      reasoning: "thermo (heat, Greek 'thermos') + dynamics (the laws of energy and motion) = Thermodynamics. Spoken: 'THER-moh-dy-NAM-iks'."
-
+  - number: 1
+    initials: P
+    clue: Right, those tiny battle-ready things your doctor puts in your arm. Different one for each nasty bug. Trains your body up.
+    answer: Penicillin
+    aliases:
+    - penicillin
+    reasoning: 'pen (sounds like ''pen'') + ih + cillin (sounds like ''SIL-in'') = Penicillin. Spoken: ''PEN-ih-SIL-in''. Fleming found it in the mould.'
+  - number: 2
+    initials: P
+    clue: That French fella who heated the milk. Done it to wine as well. Sorted out the bacteria. Very useful for the fridge.
+    answer: Pasteurisation
+    aliases:
+    - pasteurisation
+    - pasteurization
+    reasoning: Pasteur (Louis Pasteur, French microbiologist) + isation (the process of applying something) = Pasteurisation.
+  - number: 3
+    initials: T
+    clue: All that heat in the engine - the steam and the pressure - it follows rules apparently. Laws about what hot things will and won't do. Very strict.
+    answer: Thermodynamics
+    aliases:
+    - thermodynamics
+    reasoning: 'thermo (heat, Greek ''thermos'') + dynamics (the laws of energy and motion) = Thermodynamics. Spoken: ''THER-moh-dy-NAM-iks''.'
 - id: sciencebusters2-016
   enabled: true
   title: Sciencebusters
@@ -540,36 +525,35 @@
   difficulty: hard
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Sciencebusters sixteen. Four left. Three science answers in every set. Say it out loud."
-  prize: "Email in. Winner gets a test tube full of something unidentified and a lab notebook."
+  - UK
+  - US
+  intro: Sciencebusters sixteen. Four left. Three science answers in every set. Say it out loud.
+  prize: Email in. Winner gets a test tube full of something unidentified and a lab notebook.
   clues:
-    - number: 1
-      initials: D M
-      clue: "Right, there's loads of invisible stuff all over the universe. Makes up most of the mass apparently. Nobody can see it. Just there, doing gravity, saying nothing."
-      answer: Dark Matter
-      aliases:
-        - dark matter
-      reasoning: "dark (invisible, no light interaction) + matter (physical stuff, mass) = Dark Matter. Spoken: 'DARK MAT-er'. Very clean split."
-    - number: 2
-      initials: A
-      clue: "Some little combatants in the body - the ones that recognise invaders - they've been switched on. Target acquired. Very focused."
-      answer: Antibiotics
-      aliases:
-        - antibiotics
-        - antibiotic
-      reasoning: "anti (against, hostile to the enemy) + biotics (life-related, from 'bios') = Antibiotics. Spoken: 'AN-tee-by-OT-iks'."
-    - number: 3
-      initials: B
-      clue: "That Irish scientist put a lid on his gas and squeezed it. Noted what happened. Pressure went up, volume went down. Basic, but important."
-      answer: Boyle
-      aliases:
-        - boyle
-        - boyle's law
-        - robert boyle
-      reasoning: "boil (what water does when heated - sounds exactly like Boyle) = Boyle. Spoken: 'BOYL'. Robert Boyle, gas laws."
-
+  - number: 1
+    initials: D M
+    clue: Right, there's loads of invisible stuff all over the universe. Makes up most of the mass apparently. Nobody can see it. Just there, doing gravity, saying nothing.
+    answer: Dark Matter
+    aliases:
+    - dark matter
+    reasoning: 'dark (invisible, no light interaction) + matter (physical stuff, mass) = Dark Matter. Spoken: ''DARK MAT-er''. Very clean split.'
+  - number: 2
+    initials: A
+    clue: Some little combatants in the body - the ones that recognise invaders - they've been switched on. Target acquired. Very focused.
+    answer: Antibiotics
+    aliases:
+    - antibiotics
+    - antibiotic
+    reasoning: 'anti (against, hostile to the enemy) + biotics (life-related, from ''bios'') = Antibiotics. Spoken: ''AN-tee-by-OT-iks''.'
+  - number: 3
+    initials: B
+    clue: That Irish scientist put a lid on his gas and squeezed it. Noted what happened. Pressure went up, volume went down. Basic, but important.
+    answer: Boyle
+    aliases:
+    - boyle
+    - boyle's law
+    - robert boyle
+    reasoning: 'boil (what water does when heated - sounds exactly like Boyle) = Boyle. Spoken: ''BOYL''. Robert Boyle, gas laws.'
 - id: sciencebusters2-017
   enabled: true
   title: Sciencebusters
@@ -577,36 +561,35 @@
   difficulty: hard
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Right, Sciencebusters seventeen. Three to go after this. Science terms, phonetically hidden. Have at it."
-  prize: "Email in. Winner gets a commemorative Stephen Hawking quote on a fridge magnet."
+  - UK
+  - US
+  intro: Right, Sciencebusters seventeen. Three to go after this. Science terms, phonetically hidden. Have at it.
+  prize: Email in. Winner gets a commemorative Stephen Hawking quote on a fridge magnet.
   clues:
-    - number: 1
-      initials: P
-      clue: "That French mathematician did a triangle of numbers. Each row adds up from the two above. Very neat little grid. Useful for probability and that."
-      answer: Pascal
-      aliases:
-        - pascal
-        - blaise pascal
-      reasoning: "pass (to move past, or 'pas' in French) + cal (sounds like 'kul') = Pascal. Spoken: 'PASS-kul'. Blaise Pascal, mathematician."
-    - number: 2
-      initials: N S
-      clue: "Right, it's barely slowed down since it collapsed. All the mass crammed in. Spinning very fast. Sending out pulses. Bit dramatic."
-      answer: Neutron Star
-      aliases:
-        - neutron star
-      reasoning: "neutron (the uncharged particle in the nucleus) + star (a massive stellar object) = Neutron Star. Spoken: 'NEW-tron STAR'."
-    - number: 3
-      initials: D H
-      clue: "That famous twisted ladder - carries all the instructions for building you - spiralling about with all your genetic information on it."
-      answer: DNA Helix
-      aliases:
-        - dna helix
-        - double helix
-        - dna double helix
-      reasoning: "DNA (deoxyribonucleic acid, the genetic molecule) + helix (spiral shape, the double helix structure) = DNA Helix."
-
+  - number: 1
+    initials: P
+    clue: That French mathematician did a triangle of numbers. Each row adds up from the two above. Very neat little grid. Useful for probability and that.
+    answer: Pascal
+    aliases:
+    - pascal
+    - blaise pascal
+    reasoning: 'pass (to move past, or ''pas'' in French) + cal (sounds like ''kul'') = Pascal. Spoken: ''PASS-kul''. Blaise Pascal, mathematician.'
+  - number: 2
+    initials: N S
+    clue: Right, it's barely slowed down since it collapsed. All the mass crammed in. Spinning very fast. Sending out pulses. Bit dramatic.
+    answer: Neutron Star
+    aliases:
+    - neutron star
+    reasoning: 'neutron (the uncharged particle in the nucleus) + star (a massive stellar object) = Neutron Star. Spoken: ''NEW-tron STAR''.'
+  - number: 3
+    initials: D H
+    clue: That famous twisted ladder - carries all the instructions for building you - spiralling about with all your genetic information on it.
+    answer: DNA Helix
+    aliases:
+    - dna helix
+    - double helix
+    - dna double helix
+    reasoning: DNA (deoxyribonucleic acid, the genetic molecule) + helix (spiral shape, the double helix structure) = DNA Helix.
 - id: sciencebusters2-018
   enabled: true
   title: Sciencebusters
@@ -614,37 +597,36 @@
   difficulty: hard
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Sciencebusters eighteen. Nearly there. Three more science answers hidden in these phonetic clues."
-  prize: "Email in. Winner gets a Petri dish and a slightly out-of-date copy of New Scientist."
+  - UK
+  - US
+  intro: Sciencebusters. Three more science answers hidden in these phonetic clues. Say them out loud.
+  prize: Email in. Winner gets a Petri dish and a slightly out-of-date copy of New Scientist.
   clues:
-    - number: 1
-      initials: P
-      clue: "Right, the plants are at it again. Doing that thing with sunlight and turning it into sugar. Quite clever when you think about it. That's all."
-      answer: Photosynthesis
-      aliases:
-        - photosynthesis
-      reasoning: "photo (light) + synthesis (the combining process, making something new from parts) = Photosynthesis. Spoken: 'FOH-toh-SIN-thuh-sis'."
-    - number: 2
-      initials: R
-      clue: "Einstein's been at it again. This time space and time are bending about. Everything depends on where you're standing apparently. Very flexible universe."
-      answer: Relativity
-      aliases:
-        - relativity
-        - theory of relativity
-        - general relativity
-        - special relativity
-      reasoning: "relative (depending on the observer, not fixed) + ity (the quality/state) = Relativity. Spoken: 'rel-uh-TIV-ih-tee'."
-    - number: 3
-      initials: F
-      clue: "That number sequence - one, one, two, three, five, eight, thirteen - keeps showing up in sunflowers and shells. Very smug about it."
-      answer: Fibonacci
-      aliases:
-        - fibonacci
-        - fibonacci sequence
-      reasoning: "fib (sounds like the start) + on (continuing sound) + acci (sounds like 'AH-chee') = Fibonacci. Spoken: 'FIB-uh-NAH-chee'."
-
+  - number: 1
+    initials: P
+    clue: Right, the plants are at it again. Doing that thing with sunlight and turning it into sugar. Quite clever when you think about it. That's all.
+    answer: Photosynthesis
+    aliases:
+    - photosynthesis
+    reasoning: 'photo (light) + synthesis (the combining process, making something new from parts) = Photosynthesis. Spoken: ''FOH-toh-SIN-thuh-sis''.'
+  - number: 2
+    initials: R
+    clue: Einstein's been at it again. This time space and time are bending about. Everything depends on where you're standing apparently. Very flexible universe.
+    answer: Relativity
+    aliases:
+    - relativity
+    - theory of relativity
+    - general relativity
+    - special relativity
+    reasoning: 'relative (depending on the observer, not fixed) + ity (the quality/state) = Relativity. Spoken: ''rel-uh-TIV-ih-tee''.'
+  - number: 3
+    initials: F
+    clue: That number sequence - one, one, two, three, five, eight, thirteen - keeps showing up in sunflowers and shells. Very smug about it.
+    answer: Fibonacci
+    aliases:
+    - fibonacci
+    - fibonacci sequence
+    reasoning: 'fib (sounds like the start) + on (continuing sound) + acci (sounds like ''AH-chee'') = Fibonacci. Spoken: ''FIB-uh-NAH-chee''.'
 - id: sciencebusters2-019
   enabled: true
   title: Sciencebusters
@@ -652,35 +634,34 @@
   difficulty: hard
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Sciencebusters nineteen. One after this. Three science terms, all phonetically hidden."
-  prize: "Email in. Winner gets a model of the solar system on a stick and a protractor."
+  - UK
+  - US
+  intro: Sciencebusters nineteen. One after this. Three science terms, all phonetically hidden.
+  prize: Email in. Winner gets a model of the solar system on a stick and a protractor.
   clues:
-    - number: 1
-      initials: P
-      clue: "That Greek triangle fella - he worked it out in a right angle - the square of the long side equals the squares of the other two. Wrote it down. Very helpful."
-      answer: Pythagoras
-      aliases:
-        - pythagoras
-        - pythagoras theorem
-      reasoning: "py (sounds like 'pie', the circular number) + thagoras (sounds like 'THAG-uh-rus') = Pythagoras. Spoken: 'py-THAG-uh-rus'."
-    - number: 2
-      initials: Q M
-      clue: "Right, a really small engineer's at work. On the level of atoms and electrons. The rules are completely different down there. Nothing makes sense."
-      answer: Quantum Mechanics
-      aliases:
-        - quantum mechanics
-      reasoning: "quantum (the smallest unit of energy, very tiny scale) + mechanics (engineering, the rules of how things work) = Quantum Mechanics."
-    - number: 3
-      initials: N
-      clue: "That bloke's got three laws. Laws of motion. Plus he sorted out gravity and light. And calculus. Did a lot really for someone who sat under a tree."
-      answer: Newton
-      aliases:
-        - newton
-        - isaac newton
-      reasoning: "new (brand new discovery) + ton (heavy, the unit of weight) = Newton. Spoken: 'NEW-tun'. Sir Isaac Newton."
-
+  - number: 1
+    initials: P
+    clue: That Greek triangle fella - he worked it out in a right angle - the square of the long side equals the squares of the other two. Wrote it down. Very helpful.
+    answer: Pythagoras
+    aliases:
+    - pythagoras
+    - pythagoras theorem
+    reasoning: 'py (sounds like ''pie'', the circular number) + thagoras (sounds like ''THAG-uh-rus'') = Pythagoras. Spoken: ''py-THAG-uh-rus''.'
+  - number: 2
+    initials: Q M
+    clue: Right, a really small engineer's at work. On the level of atoms and electrons. The rules are completely different down there. Nothing makes sense.
+    answer: Quantum Mechanics
+    aliases:
+    - quantum mechanics
+    reasoning: quantum (the smallest unit of energy, very tiny scale) + mechanics (engineering, the rules of how things work) = Quantum Mechanics.
+  - number: 3
+    initials: N
+    clue: That bloke's got three laws. Laws of motion. Plus he sorted out gravity and light. And calculus. Did a lot really for someone who sat under a tree.
+    answer: Newton
+    aliases:
+    - newton
+    - isaac newton
+    reasoning: 'new (brand new discovery) + ton (heavy, the unit of weight) = Newton. Spoken: ''NEW-tun''. Sir Isaac Newton.'
 - id: sciencebusters2-020
   enabled: true
   title: Sciencebusters
@@ -688,29 +669,29 @@
   difficulty: hard
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Last one. Sciencebusters twenty. The final round. Three science answers hiding in these clues. Go on then."
-  prize: "Email in. Winner gets a Woolworths gift card, no longer redeemable, and a periodic table tea towel."
+  - UK
+  - US
+  intro: Sciencebusters. Three science answers hiding in these clues. Go on then.
+  prize: Email in. Winner gets a Woolworths gift card, no longer redeemable, and a periodic table tea towel.
   clues:
-    - number: 1
-      initials: E
-      clue: "That Scottish fella Maxwell worked out that magnets and electricity were the same thing. Put them together in some equations. Four of them. Very tidy."
-      answer: Electromagnetism
-      aliases:
-        - electromagnetism
-      reasoning: "electro (electricity, from Maxwell's equations) + magnet (the attractive force) + ism (the unified theory) = Electromagnetism."
-    - number: 2
-      initials: T
-      clue: "Right, all the heat's following rules now. First law, second law, third law. Entropy keeps going up. That's just what happens. Nothing you can do."
-      answer: Thermodynamics
-      aliases:
-        - thermodynamics
-      reasoning: "thermo (heat, temperature - from 'thermos', Greek for hot) + dynamics (laws of motion and energy) = Thermodynamics."
-    - number: 3
-      initials: G
-      clue: "Everything with mass is pulling on everything else. The bigger the mass, the bigger the pull. That apple's fallen and now we've got a whole theory."
-      answer: Gravity
-      aliases:
-        - gravity
-      reasoning: "grave (serious, weighty - Latin 'gravitas' means weight) + ity (the state of being) = Gravity. Spoken: 'GRAV-ih-tee'."
+  - number: 1
+    initials: E
+    clue: That Scottish fella Maxwell worked out that magnets and electricity were the same thing. Put them together in some equations. Four of them. Very tidy.
+    answer: Electromagnetism
+    aliases:
+    - electromagnetism
+    reasoning: electro (electricity, from Maxwell's equations) + magnet (the attractive force) + ism (the unified theory) = Electromagnetism.
+  - number: 2
+    initials: T
+    clue: Right, all the heat's following rules now. First law, second law, third law. Entropy keeps going up. That's just what happens. Nothing you can do.
+    answer: Thermodynamics
+    aliases:
+    - thermodynamics
+    reasoning: thermo (heat, temperature - from 'thermos', Greek for hot) + dynamics (laws of motion and energy) = Thermodynamics.
+  - number: 3
+    initials: G
+    clue: Everything with mass is pulling on everything else. The bigger the mass, the bigger the pull. That apple's fallen and now we've got a whole theory.
+    answer: Gravity
+    aliases:
+    - gravity
+    reasoning: 'grave (serious, weighty - Latin ''gravitas'' means weight) + ity (the state of being) = Gravity. Spoken: ''GRAV-ih-tee''.'

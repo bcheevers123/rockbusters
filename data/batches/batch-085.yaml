@@ -5,32 +5,31 @@
   difficulty: hard
   office_safe: true
   region_relevance:
-    - Global
-  intro: "Right, Pokemonbusters. All the answers are Pokemon. Say the clues out loud - the name's hiding in the sounds somewhere."
-  prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
+  - Global
+  intro: Right, Pokemonbusters. All the answers are Pokemon. Say the clues out loud - the name's hiding in the sounds somewhere.
+  prize: Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station.
   clues:
-    - number: 1
-      initials: C
-      clue: "Right, there's a fella who drives a chariot - like in the old days, horses and that - and he's gone and set it on fire. Bit reckless. The lizard version."
-      answer: Charizard
-      aliases:
-        - charizard
-      reasoning: "char (to burn/set on fire) + iz + ard (sounds like 'hard' or a suffix from 'lizard') = Charizard. Char-iz-ard."
-    - number: 2
-      initials: S
-      clue: "There's a little fella, right, and he's done a bit of a squirm. Got himself in a twisty situation. Then he's had a little sit-down. Very small. Does it in a shell."
-      answer: Squirtle
-      aliases:
-        - squirtle
-      reasoning: "squirt (a small squirm, or a tiny squirt of water) + le = Squirtle. Squirt-ul."
-    - number: 3
-      initials: G
-      clue: "Someone's gone into a big empty hall - like a sports hall or a church - and done a big shout. Really let it out. Echoed everywhere. Bit ghostly."
-      answer: Gengar
-      aliases:
-        - gengar
-      reasoning: "gen (knowledge/info) + gar (sounds like 'gar', as in a loud echoing sound in a big space) = Gengar. Gen-gar."
-
+  - number: 1
+    initials: C
+    clue: Right, there's a fella who drives a chariot - like in the old days, horses and that - and he's gone and set it on fire. Bit reckless. The lizard version.
+    answer: Charizard
+    aliases:
+    - charizard
+    reasoning: char (to burn/set on fire) + iz + ard (sounds like 'hard' or a suffix from 'lizard') = Charizard. Char-iz-ard.
+  - number: 2
+    initials: S
+    clue: There's a little fella, right, and he's done a bit of a squirm. Got himself in a twisty situation. Then he's had a little sit-down. Very small. Does it in a shell.
+    answer: Squirtle
+    aliases:
+    - squirtle
+    reasoning: squirt (a small squirm, or a tiny squirt of water) + le = Squirtle. Squirt-ul.
+  - number: 3
+    initials: G
+    clue: Someone's gone into a big empty hall - like a sports hall or a church - and done a big shout. Really let it out. Echoed everywhere. Bit ghostly.
+    answer: Gengar
+    aliases:
+    - gengar
+    reasoning: gen (knowledge/info) + gar (sounds like 'gar', as in a loud echoing sound in a big space) = Gengar. Gen-gar.
 - id: pokemonbusters-002
   enabled: true
   title: Pokemonbusters
@@ -38,33 +37,32 @@
   difficulty: hard
   office_safe: true
   region_relevance:
-    - Global
-  intro: "Pokemonbusters two. Three more Pokemon names hidden in these clues. You'll need to say them out loud."
-  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists."
+  - Global
+  intro: Pokemonbusters two. Three more Pokemon names hidden in these clues. You'll need to say them out loud.
+  prize: Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists.
   clues:
-    - number: 1
-      initials: P
-      clue: "Right, there's a little yellow fella - very electric - and he's doing a sort of catch-you game. Running about. Can't pin him down. That's all."
-      answer: Pikachu
-      aliases:
-        - pikachu
-      reasoning: "peek (to look quickly, hide and seek style) + a + choo (sounds like 'chu', a small squeak or sneeze) = Pikachu. Peek-a-choo."
-    - number: 2
-      initials: M
-      clue: "There's two of something. Two of them. Identical. Like a copy but there's also an original. The copy's gone a bit mental. Psychic powers and that."
-      answer: Mewtwo
-      aliases:
-        - mewtwo
-        - mew two
-      reasoning: "mew (a soft cry, like a cat) + two (there's two of them, an original and a clone) = Mewtwo. Mew-two."
-    - number: 3
-      initials: A
-      clue: "Some fella's doing a card trick. Using loads of spoons. Bending them with his mind. Says he's called Al. Al's doing all the bending."
-      answer: Alakazam
-      aliases:
-        - alakazam
-      reasoning: "ala (sounds like a magician's setup, 'ala-') + ka + zam (the big magic reveal sound) = Alakazam. Al-a-ka-zam."
-
+  - number: 1
+    initials: P
+    clue: Right, there's a little yellow fella - very electric - and he's doing a sort of catch-you game. Running about. Can't pin him down. That's all.
+    answer: Pikachu
+    aliases:
+    - pikachu
+    reasoning: peek (to look quickly, hide and seek style) + a + choo (sounds like 'chu', a small squeak or sneeze) = Pikachu. Peek-a-choo.
+  - number: 2
+    initials: M
+    clue: There's two of something. Two of them. Identical. Like a copy but there's also an original. The copy's gone a bit mental. Psychic powers and that.
+    answer: Mewtwo
+    aliases:
+    - mewtwo
+    - mew two
+    reasoning: mew (a soft cry, like a cat) + two (there's two of them, an original and a clone) = Mewtwo. Mew-two.
+  - number: 3
+    initials: A
+    clue: Some fella's doing a card trick. Using loads of spoons. Bending them with his mind. Says he's called Al. Al's doing all the bending.
+    answer: Alakazam
+    aliases:
+    - alakazam
+    reasoning: ala (sounds like a magician's setup, 'ala-') + ka + zam (the big magic reveal sound) = Alakazam. Al-a-ka-zam.
 - id: pokemonbusters-003
   enabled: true
   title: Pokemonbusters
@@ -72,28 +70,28 @@
   difficulty: hard
   office_safe: true
   region_relevance:
-    - Global
-  intro: "Last set. Pokemonbusters three. Three more Pokemon lurking in these clues. Have a go."
-  prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
+  - Global
+  intro: Pokemonbusters. Three Pokemon lurking in these clues. Have a go.
+  prize: Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette.
   clues:
-    - number: 1
-      initials: S
-      clue: "Right, there's a massive fella. Enormous. Been asleep on the path blocking everything. Can't be moved. Just there, snoring. Blocking the whole road."
-      answer: Snorlax
-      aliases:
-        - snorlax
-      reasoning: "snor (sounds like 'snore', the big sleeping noise) + lax (laid back, relaxed, not moving) = Snorlax. Snor-lax."
-    - number: 2
-      initials: G
-      clue: "There's a big scary thing living in a lake. Massive. Like a proper sea monster but it went to the gym. Made itself enormous and terrifying."
-      answer: Gyarados
-      aliases:
-        - gyarados
-      reasoning: "gyar (sounds like a roar, or 'gyar' like a sea monster noise) + a + dos (like 'doss', to hang about) = Gyarados. Gee-ar-a-dos."
-    - number: 3
-      initials: L
-      clue: "Right, there's a woman - old fashioned name, sounds like a lamp post - and she's been on a boat. A luxury cruise. Very graceful. Bit like a dinosaur in the water."
-      answer: Lapras
-      aliases:
-        - lapras
-      reasoning: "lap (to lap up water, or a lap on a cruise) + ras (sounds like 'rass', a gentle smooth sound) = Lapras. Lap-rass."
+  - number: 1
+    initials: S
+    clue: Right, there's a massive fella. Enormous. Been asleep on the path blocking everything. Can't be moved. Just there, snoring. Blocking the whole road.
+    answer: Snorlax
+    aliases:
+    - snorlax
+    reasoning: snor (sounds like 'snore', the big sleeping noise) + lax (laid back, relaxed, not moving) = Snorlax. Snor-lax.
+  - number: 2
+    initials: G
+    clue: There's a big scary thing living in a lake. Massive. Like a proper sea monster but it went to the gym. Made itself enormous and terrifying.
+    answer: Gyarados
+    aliases:
+    - gyarados
+    reasoning: gyar (sounds like a roar, or 'gyar' like a sea monster noise) + a + dos (like 'doss', to hang about) = Gyarados. Gee-ar-a-dos.
+  - number: 3
+    initials: L
+    clue: Right, there's a woman - old fashioned name, sounds like a lamp post - and she's been on a boat. A luxury cruise. Very graceful. Bit like a dinosaur in the water.
+    answer: Lapras
+    aliases:
+    - lapras
+    reasoning: lap (to lap up water, or a lap on a cruise) + ras (sounds like 'rass', a gentle smooth sound) = Lapras. Lap-rass.

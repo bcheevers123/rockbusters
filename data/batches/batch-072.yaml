@@ -5,33 +5,32 @@
   difficulty: hard
   office_safe: true
   region_relevance:
-    - Global
-  intro: "Right, Mathbusters. Rockbusters but it's all maths. Don't panic. You don't need to do any actual sums. Just say the clues out loud and the answer will come to you. Or it won't."
-  prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
+  - Global
+  intro: Right, Mathbusters. Rockbusters but it's all maths. Don't panic. You don't need to do any actual sums. Just say the clues out loud and the answer will come to you. Or it won't.
+  prize: Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station.
   clues:
-    - number: 1
-      initials: P
-      clue: "An ancient Greek bloke has turned up with a set of triangles and he's very smug about the long side. Won't stop going on about it."
-      answer: Pythagoras
-      aliases:
-        - pythagoras
-      reasoning: "pie (a pastry circle, or the Greek Pi symbol connection) + tha (sounds like 'the') + gore (a bit grim, gory) + us (us, you and me) = Pie-tha-gore-us = Pythagoras"
-    - number: 2
-      initials: L
-      clue: "There's a wooden cabin in a forest and someone's doing a sum in there. Very slow sum. Took most of the afternoon."
-      answer: Logarithm
-      aliases:
-        - logarithm
-        - log
-      reasoning: "log (a piece of wood, also a cabin) + a (the article) + rith (sounds like 'rhythm', a beat) + m (just the letter sound at the end) = Log-a-rith-m = Logarithm"
-    - number: 3
-      initials: H
-      clue: "A nun called Hippa has gone on a bit of a mission. She's crossing the longest side of a triangle and she's going to be a while."
-      answer: Hypotenuse
-      aliases:
-        - hypotenuse
-      reasoning: "hypo (sounds like 'hippo', a large animal, or 'hypa') + ten (the number 10) + use (to use something) = Hypo-ten-use = Hypotenuse"
-
+  - number: 1
+    initials: P
+    clue: An ancient Greek bloke has turned up with a set of triangles and he's very smug about the long side. Won't stop going on about it.
+    answer: Pythagoras
+    aliases:
+    - pythagoras
+    reasoning: pie (a pastry circle, or the Greek Pi symbol connection) + tha (sounds like 'the') + gore (a bit grim, gory) + us (us, you and me) = Pie-tha-gore-us = Pythagoras
+  - number: 2
+    initials: L
+    clue: There's a wooden cabin in a forest and someone's doing a sum in there. Very slow sum. Took most of the afternoon.
+    answer: Logarithm
+    aliases:
+    - logarithm
+    - log
+    reasoning: log (a piece of wood, also a cabin) + a (the article) + rith (sounds like 'rhythm', a beat) + m (just the letter sound at the end) = Log-a-rith-m = Logarithm
+  - number: 3
+    initials: H
+    clue: A nun called Hippa has gone on a bit of a mission. She's crossing the longest side of a triangle and she's going to be a while.
+    answer: Hypotenuse
+    aliases:
+    - hypotenuse
+    reasoning: hypo (sounds like 'hippo', a large animal, or 'hypa') + ten (the number 10) + use (to use something) = Hypo-ten-use = Hypotenuse
 - id: mathbusters-002
   enabled: true
   title: Mathbusters
@@ -39,34 +38,33 @@
   difficulty: hard
   office_safe: true
   region_relevance:
-    - Global
-  intro: "Mathbusters two. Three more maths terms hidden in here somewhere. They sound like ordinary words if you say them right. Which you probably won't, but give it a go."
-  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists."
+  - Global
+  intro: Mathbusters two. Three more maths terms hidden in here somewhere. They sound like ordinary words if you say them right. Which you probably won't, but give it a go.
+  prize: Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists.
   clues:
-    - number: 1
-      initials: T
-      clue: "A bloke's been told to try going on a trip. Something to do with trigonometry, apparently. He's taken three sides of something and gone round them. Seemed unnecessary."
-      answer: Trigonometry
-      aliases:
-        - trigonometry
-        - trig
-      reasoning: "trig (sounds like 'trig', a shortened casual word) + on (on top of) + om (sounds like 'om', a meditation sound) + et (sounds like 'it' or 'et') + ry (sounds like 'ree') = Trig-on-om-et-ry = Trigonometry"
-    - number: 2
-      initials: F
-      clue: "An Italian bloke, quite old, medieval sort, has been adding up rabbits. Keeps starting with one and then adding them together. He looks very satisfied."
-      answer: Fibonacci
-      aliases:
-        - fibonacci
-        - fibonacci sequence
-      reasoning: "fee (a charge, money) + bon (French for good, sounds like 'bon') + ach (sounds like 'ach', a mild exclamation) + ee (the sound at the end) = Fee-bon-ach-ee = Fibonacci"
-    - number: 3
-      initials: C
-      clue: "Someone's worked out the distance round the outside of a circle. It's taken ages. They're measuring the rim of a large wheel. Very focused."
-      answer: Circumference
-      aliases:
-        - circumference
-      reasoning: "sir (a polite address, like knighthood) + come (to arrive) + fer (sounds like 'fur', an animal coat) + ence (sounds like 'ense' or 'ents') = Sir-come-fer-ence = Circumference"
-
+  - number: 1
+    initials: T
+    clue: A bloke's been told to try going on a trip. Something to do with trigonometry, apparently. He's taken three sides of something and gone round them. Seemed unnecessary.
+    answer: Trigonometry
+    aliases:
+    - trigonometry
+    - trig
+    reasoning: trig (sounds like 'trig', a shortened casual word) + on (on top of) + om (sounds like 'om', a meditation sound) + et (sounds like 'it' or 'et') + ry (sounds like 'ree') = Trig-on-om-et-ry = Trigonometry
+  - number: 2
+    initials: F
+    clue: An Italian bloke, quite old, medieval sort, has been adding up rabbits. Keeps starting with one and then adding them together. He looks very satisfied.
+    answer: Fibonacci
+    aliases:
+    - fibonacci
+    - fibonacci sequence
+    reasoning: fee (a charge, money) + bon (French for good, sounds like 'bon') + ach (sounds like 'ach', a mild exclamation) + ee (the sound at the end) = Fee-bon-ach-ee = Fibonacci
+  - number: 3
+    initials: C
+    clue: Someone's worked out the distance round the outside of a circle. It's taken ages. They're measuring the rim of a large wheel. Very focused.
+    answer: Circumference
+    aliases:
+    - circumference
+    reasoning: sir (a polite address, like knighthood) + come (to arrive) + fer (sounds like 'fur', an animal coat) + ence (sounds like 'ense' or 'ents') = Sir-come-fer-ence = Circumference
 - id: mathbusters-003
   enabled: true
   title: Mathbusters
@@ -74,29 +72,29 @@
   difficulty: hard
   office_safe: true
   region_relevance:
-    - Global
-  intro: "Three in. Mathbusters three. Last set of maths terms. If you've got this far without walking off you deserve something. Though the prize isn't brilliant."
-  prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
+  - Global
+  intro: Mathbusters. Maths terms hiding in the phonetics. If you've got this far without walking off you deserve something. Though the prize isn't brilliant.
+  prize: Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette.
   clues:
-    - number: 1
-      initials: T
-      clue: "A bloke called Trap has been out to sea in a small boat. He's come back with four sides but two of them are parallel. Says it's fine."
-      answer: Trapezium
-      aliases:
-        - trapezium
-        - trapezoid
-      reasoning: "trap (to trap, or a trap door, or a bloke called Trap) + ease (to ease off, relax) + ee (the vowel sound) + um (the thinking noise) = Trap-ease-ee-um = Trapezium"
-    - number: 2
-      initials: R
-      clue: "A diamond-shaped fella from the housing estate, everyone round there knows him, has got four equal sides and he's not apologising for any of them."
-      answer: Rhombus
-      aliases:
-        - rhombus
-      reasoning: "rom (sounds like 'Rome', the city, or 'rom' as in romance) + bus (a large vehicle for passengers) = Rom-bus = Rhombus"
-    - number: 3
-      initials: P
-      clue: "Someone's been told they've got many terms to deal with. Multiple. Could be any number really. They don't look thrilled about it."
-      answer: Polynomial
-      aliases:
-        - polynomial
-      reasoning: "poly (sounds like 'Polly', a name, or poly meaning many) + no (the word no) + mee (sounds like 'me') + al (the name Al) = Poly-no-mee-al = Polynomial"
+  - number: 1
+    initials: T
+    clue: A bloke called Trap has been out to sea in a small boat. He's come back with four sides but two of them are parallel. Says it's fine.
+    answer: Trapezium
+    aliases:
+    - trapezium
+    - trapezoid
+    reasoning: trap (to trap, or a trap door, or a bloke called Trap) + ease (to ease off, relax) + ee (the vowel sound) + um (the thinking noise) = Trap-ease-ee-um = Trapezium
+  - number: 2
+    initials: R
+    clue: A diamond-shaped fella from the housing estate, everyone round there knows him, has got four equal sides and he's not apologising for any of them.
+    answer: Rhombus
+    aliases:
+    - rhombus
+    reasoning: rom (sounds like 'Rome', the city, or 'rom' as in romance) + bus (a large vehicle for passengers) = Rom-bus = Rhombus
+  - number: 3
+    initials: P
+    clue: Someone's been told they've got many terms to deal with. Multiple. Could be any number really. They don't look thrilled about it.
+    answer: Polynomial
+    aliases:
+    - polynomial
+    reasoning: poly (sounds like 'Polly', a name, or poly meaning many) + no (the word no) + mee (sounds like 'me') + al (the name Al) = Poly-no-mee-al = Polynomial

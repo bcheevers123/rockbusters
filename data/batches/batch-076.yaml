@@ -5,37 +5,36 @@
   difficulty: hard
   office_safe: true
   region_relevance:
-    - Global
-  intro: "Riverbusters. All rivers from around the world, hiding in phonetic clues. Say them out loud. It's what they sound like, not how they're spelled. Get your ear in."
-  prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
+  - Global
+  intro: Riverbusters. All rivers from around the world, hiding in phonetic clues. Say them out loud. It's what they sound like, not how they're spelled. Get your ear in.
+  prize: Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station.
   clues:
-    - number: 1
-      initials: Y
-      clue: "A bloke in China has found a river so long he's had a proper think about his life by the time he reaches the end of it. He started young. He's finished old. His trousers were wet the whole time."
-      answer: Yangtze
-      aliases:
-        - yangtze
-        - yangtze river
-        - chang jiang
-      reasoning: "yang (sounds like 'yang', as in yin and yang) + tze (sounds like 'tse', a buzzing fly sound, or just 'tsee') = Yang-tze = Yangtze"
-    - number: 2
-      initials: G
-      clue: "A woman from India has gone into a river she considers extremely holy and come out feeling brilliant. Her socks are soaked but she's spiritually very sorted. A bloke nearby has his hands together going yes, that's the one."
-      answer: Ganges
-      aliases:
-        - ganges
-        - ganges river
-        - ganga
-      reasoning: "gang (sounds like 'gang', a group of people, bit intimidating) + eez (sounds like 'ease', no trouble at all) = Gang-eez = Ganges"
-    - number: 3
-      initials: O
-      clue: "In Venezuela, someone has ordered something and it's come round, looped back and gone past them again. Very circular situation. They're confused but they keep ordering. The waiter has done about four laps now."
-      answer: Orinoco
-      aliases:
-        - orinoco
-        - orinoco river
-      reasoning: "ori (sounds like 'or-ee', a hesitant sort of noise) + no (the word no, said twice, very decisive) + co (sounds like 'co', as in company, a bit formal) = Or-ee-no-co = Orinoco"
-
+  - number: 1
+    initials: Y
+    clue: A bloke in China has found a river so long he's had a proper think about his life by the time he reaches the end of it. He started young. He's finished old. His trousers were wet the whole time.
+    answer: Yangtze
+    aliases:
+    - yangtze
+    - yangtze river
+    - chang jiang
+    reasoning: yang (sounds like 'yang', as in yin and yang) + tze (sounds like 'tse', a buzzing fly sound, or just 'tsee') = Yang-tze = Yangtze
+  - number: 2
+    initials: G
+    clue: A woman from India has gone into a river she considers extremely holy and come out feeling brilliant. Her socks are soaked but she's spiritually very sorted. A bloke nearby has his hands together going yes, that's the one.
+    answer: Ganges
+    aliases:
+    - ganges
+    - ganges river
+    - ganga
+    reasoning: gang (sounds like 'gang', a group of people, bit intimidating) + eez (sounds like 'ease', no trouble at all) = Gang-eez = Ganges
+  - number: 3
+    initials: O
+    clue: In Venezuela, someone has ordered something and it's come round, looped back and gone past them again. Very circular situation. They're confused but they keep ordering. The waiter has done about four laps now.
+    answer: Orinoco
+    aliases:
+    - orinoco
+    - orinoco river
+    reasoning: ori (sounds like 'or-ee', a hesitant sort of noise) + no (the word no, said twice, very decisive) + co (sounds like 'co', as in company, a bit formal) = Or-ee-no-co = Orinoco
 - id: riverbusters-002
   enabled: true
   title: Riverbusters
@@ -43,35 +42,34 @@
   difficulty: hard
   office_safe: true
   region_relevance:
-    - Global
-  intro: "Riverbusters two. More rivers. Say each clue out loud, don't look at the spelling, the spelling's got nothing to do with it. The sounds are what matters."
-  prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
+  - Global
+  intro: Riverbusters two. More rivers. Say each clue out loud, don't look at the spelling, the spelling's got nothing to do with it. The sounds are what matters.
+  prize: Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette.
   clues:
-    - number: 1
-      initials: E
-      clue: "In ancient Mesopotamia, someone has had an incredibly long bath. Been in it for weeks. Very relaxed about the whole thing. Civilisations have risen and fallen while he's just been lying there. Took the phrase 'you fret too much' very seriously."
-      answer: Euphrates
-      aliases:
-        - euphrates
-        - euphrates river
-      reasoning: "you (the word 'you', pointing at someone) + fray (sounds like 'fray', a fight or worn fabric) + tees (sounds like 'tees', the golf peg, or T-shirts) = You-fray-tees = Euphrates"
-    - number: 2
-      initials: Z
-      clue: "In southern Africa, a bloke has tried to spell something out loud and made it sound like a sneeze in the middle. He's finished the sentence and looked quite pleased with himself. Everyone else is baffled but polite about it."
-      answer: Zambezi
-      aliases:
-        - zambezi
-        - zambezi river
-      reasoning: "zam (sounds like 'zam', a made-up sound, or 'Sam' with a Z) + be (the word 'be', to exist) + zee (sounds like 'zee', the American Z, or just 'ze') = Zam-be-zee = Zambezi"
-    - number: 3
-      initials: V
-      clue: "A Russian bloke has had a look at Europe's longest river and gone, right, that's ours. Very proprietary about it. He's standing at the bank with his arms folded. The river carries on regardless."
-      answer: Volga
-      aliases:
-        - volga
-        - volga river
-      reasoning: "vol (sounds like 'vol', as in volume, quite loud) + ga (sounds like 'ga', a baby noise, or just a short grunt) = Vol-ga = Volga"
-
+  - number: 1
+    initials: E
+    clue: In ancient Mesopotamia, someone has had an incredibly long bath. Been in it for weeks. Very relaxed about the whole thing. Civilisations have risen and fallen while he's just been lying there. Took the phrase 'you fret too much' very seriously.
+    answer: Euphrates
+    aliases:
+    - euphrates
+    - euphrates river
+    reasoning: you (the word 'you', pointing at someone) + fray (sounds like 'fray', a fight or worn fabric) + tees (sounds like 'tees', the golf peg, or T-shirts) = You-fray-tees = Euphrates
+  - number: 2
+    initials: Z
+    clue: In southern Africa, a bloke has tried to spell something out loud and made it sound like a sneeze in the middle. He's finished the sentence and looked quite pleased with himself. Everyone else is baffled but polite about it.
+    answer: Zambezi
+    aliases:
+    - zambezi
+    - zambezi river
+    reasoning: zam (sounds like 'zam', a made-up sound, or 'Sam' with a Z) + be (the word 'be', to exist) + zee (sounds like 'zee', the American Z, or just 'ze') = Zam-be-zee = Zambezi
+  - number: 3
+    initials: V
+    clue: A Russian bloke has had a look at Europe's longest river and gone, right, that's ours. Very proprietary about it. He's standing at the bank with his arms folded. The river carries on regardless.
+    answer: Volga
+    aliases:
+    - volga
+    - volga river
+    reasoning: vol (sounds like 'vol', as in volume, quite loud) + ga (sounds like 'ga', a baby noise, or just a short grunt) = Vol-ga = Volga
 - id: riverbusters-003
   enabled: true
   title: Riverbusters
@@ -79,31 +77,31 @@
   difficulty: hard
   office_safe: true
   region_relevance:
-    - Global
-  intro: "Last set. Riverbusters three. All rivers, all phonetic clues. Say them out loud, close your eyes if it helps, and the answer'll surface eventually like a duck that's been underwater too long."
-  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists."
+  - Global
+  intro: Riverbusters. All rivers, all phonetic clues. Say them out loud, close your eyes if it helps, and the answer'll surface eventually like a duck that's been underwater too long.
+  prize: Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists.
   clues:
-    - number: 1
-      initials: M
-      clue: "In Southeast Asia, someone has gone for a long wander and ended up eating something halfway through. Very much on the go. They're still chewing. The river doesn't care, it just keeps moving."
-      answer: Mekong
-      aliases:
-        - mekong
-        - mekong river
-      reasoning: "me (the word 'me', very self-centred) + kong (sounds like 'Kong', as in King Kong, big and tropical) = Me-kong = Mekong"
-    - number: 2
-      initials: L
-      clue: "A bloke in southern Africa has had a look at this river and said something that sounds like it belongs to a Kipling poem. He's said it with great confidence. Nobody's questioned him. The hippopotamus nearby did not react."
-      answer: Limpopo
-      aliases:
-        - limpopo
-        - limpopo river
-      reasoning: "limp (sounds like 'limp', walking oddly, not very fast) + o (the letter O, round shape) + po (sounds like 'po', a chamber pot, very old-fashioned) = Limp-o-po = Limpopo"
-    - number: 3
-      initials: T
-      clue: "In Iraq, someone has spotted a very old river and said, that one's got his name on it. Very possessive. The tiger in question was not consulted. It just flows on, quietly ignoring the whole dispute."
-      answer: Tigris
-      aliases:
-        - tigris
-        - tigris river
-      reasoning: "tie (sounds like 'tie', the thing you wear round your neck at weddings) + gris (sounds like 'gris', grey in French, or just 'griss') = Tie-gris = Tigris"
+  - number: 1
+    initials: M
+    clue: In Southeast Asia, someone has gone for a long wander and ended up eating something halfway through. Very much on the go. They're still chewing. The river doesn't care, it just keeps moving.
+    answer: Mekong
+    aliases:
+    - mekong
+    - mekong river
+    reasoning: me (the word 'me', very self-centred) + kong (sounds like 'Kong', as in King Kong, big and tropical) = Me-kong = Mekong
+  - number: 2
+    initials: L
+    clue: A bloke in southern Africa has had a look at this river and said something that sounds like it belongs to a Kipling poem. He's said it with great confidence. Nobody's questioned him. The hippopotamus nearby did not react.
+    answer: Limpopo
+    aliases:
+    - limpopo
+    - limpopo river
+    reasoning: limp (sounds like 'limp', walking oddly, not very fast) + o (the letter O, round shape) + po (sounds like 'po', a chamber pot, very old-fashioned) = Limp-o-po = Limpopo
+  - number: 3
+    initials: T
+    clue: In Iraq, someone has spotted a very old river and said, that one's got his name on it. Very possessive. The tiger in question was not consulted. It just flows on, quietly ignoring the whole dispute.
+    answer: Tigris
+    aliases:
+    - tigris
+    - tigris river
+    reasoning: tie (sounds like 'tie', the thing you wear round your neck at weddings) + gris (sounds like 'gris', grey in French, or just 'griss') = Tie-gris = Tigris

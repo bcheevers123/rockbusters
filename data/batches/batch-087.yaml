@@ -5,33 +5,32 @@
   difficulty: hard
   office_safe: true
   region_relevance:
-    - Global
-  intro: "Right. Chefbusters. All celebrity chefs hiding in phonetic clues. Don't read them, say them out loud. The answer's in the sounds, not the letters. It's not a spelling test, it's more of a hearing test."
-  prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
+  - Global
+  intro: Right. Chefbusters. All celebrity chefs hiding in phonetic clues. Don't read them, say them out loud. The answer's in the sounds, not the letters. It's not a spelling test, it's more of a hearing test.
+  prize: Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station.
   clues:
-    - number: 1
-      initials: G R
-      clue: "A bloke with a very grand title (like a Don, a proper important one) has walked into a field and come face to face with a male sheep that's started talking. The sheep says something. Nobody knows what."
-      answer: Gordon Ramsay
-      aliases:
-        - gordon ramsay
-        - gordon ramsey
-      reasoning: "Gor (sounds like 'cor', an exclamation, bit surprised) + don (a powerful title, like a Don) + Ram (a male sheep, horns and everything) + say (to speak, to say a thing out loud) = Gor-don Ram-say = Gordon Ramsay"
-    - number: 2
-      initials: H B
-      clue: "Someone's weighed out exactly a ton of flowers that have just come into bloom and they're standing there feeling very philosophical about the whole thing. Taken ages. Lot of petals involved."
-      answer: Heston Blumenthal
-      aliases:
-        - heston blumenthal
-      reasoning: "Hes (sounds like 'he's', short for he is) + ton (a unit of weight, very heavy) + Bloom (when a flower opens up) + en (a small sound, like 'un') + thal (sounds like 'thal', a bit like 'thaw' or 'Neanderthal') = Hes-ton Bloom-en-thal = Heston Blumenthal"
-    - number: 3
-      initials: N L
-      clue: "There's a kid who keeps saying no, very insistent about it, and they've gone all wobbly like a dessert at a children's party. Meanwhile someone's had a row with the police and won. Which is unusual."
-      answer: Nigella Lawson
-      aliases:
-        - nigella lawson
-      reasoning: "Nye (sounds like 'nye', as in the letter N said out loud, or just a no-ish sound) + jell + a (sounds like 'jella', like jelly gone wobbly) + Law (the police, rules, order) + son (a male child, your boy) = Nye-jell-a Law-son = Nigella Lawson"
-
+  - number: 1
+    initials: G R
+    clue: A bloke with a very grand title (like a Don, a proper important one) has walked into a field and come face to face with a male sheep that's started talking. The sheep says something. Nobody knows what.
+    answer: Gordon Ramsay
+    aliases:
+    - gordon ramsay
+    - gordon ramsey
+    reasoning: Gor (sounds like 'cor', an exclamation, bit surprised) + don (a powerful title, like a Don) + Ram (a male sheep, horns and everything) + say (to speak, to say a thing out loud) = Gor-don Ram-say = Gordon Ramsay
+  - number: 2
+    initials: H B
+    clue: Someone's weighed out exactly a ton of flowers that have just come into bloom and they're standing there feeling very philosophical about the whole thing. Taken ages. Lot of petals involved.
+    answer: Heston Blumenthal
+    aliases:
+    - heston blumenthal
+    reasoning: Hes (sounds like 'he's', short for he is) + ton (a unit of weight, very heavy) + Bloom (when a flower opens up) + en (a small sound, like 'un') + thal (sounds like 'thal', a bit like 'thaw' or 'Neanderthal') = Hes-ton Bloom-en-thal = Heston Blumenthal
+  - number: 3
+    initials: N L
+    clue: There's a kid who keeps saying no, very insistent about it, and they've gone all wobbly like a dessert at a children's party. Meanwhile someone's had a row with the police and won. Which is unusual.
+    answer: Nigella Lawson
+    aliases:
+    - nigella lawson
+    reasoning: Nye (sounds like 'nye', as in the letter N said out loud, or just a no-ish sound) + jell + a (sounds like 'jella', like jelly gone wobbly) + Law (the police, rules, order) + son (a male child, your boy) = Nye-jell-a Law-son = Nigella Lawson
 - id: chefbusters-002
   enabled: true
   title: Chefbusters
@@ -39,32 +38,31 @@
   difficulty: hard
   office_safe: true
   region_relevance:
-    - Global
-  intro: "Chefbusters two. More celebrity chefs. Same rules. Say them out loud, don't try to read your way to the answer. That won't work. Your ears are more useful here than your eyes."
-  prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
+  - Global
+  intro: Chefbusters two. More celebrity chefs. Same rules. Say them out loud, don't try to read your way to the answer. That won't work. Your ears are more useful here than your eyes.
+  prize: Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette.
   clues:
-    - number: 1
-      initials: J O
-      clue: "A bird (big blue one, sits in trees, makes a racket) has gone and borrowed something of yours. Just helped itself. And there's a bloke called Ollie standing nearby who's gone a bit green. Might be the bird's fault."
-      answer: Jamie Oliver
-      aliases:
-        - jamie oliver
-      reasoning: "Jay (a noisy blue bird, sits about in gardens) + me (belonging to you, your thing) + Oli (short for Oliver, a name, a bloke called Oli) + ver (sounds like 'va' or 'ver', the end bit) = Jay-me Oli-ver = Jamie Oliver"
-    - number: 2
-      initials: N S
-      clue: "A lad keeps going no and going all stiff like he's set in jelly. Won't move. Very firm about it. Then someone comes in from the side and absolutely does him in. Very dramatic end to it all."
-      answer: Nigel Slater
-      aliases:
-        - nigel slater
-      reasoning: "Nye (sounds like 'nye', the no-ish sound again) + jel (sounds like 'jel', as in jelly going solid) + Slay (to absolutely finish something off, kill it) + ter (sounds like 'ta' or 'ter', a little ending sound) = Nye-jel Slay-ter = Nigel Slater"
-    - number: 3
-      initials: R S
-      clue: "A big stack of hay in a field has gone and bought itself a large German beer mug. Paid full price. Didn't even haggle. The other haystacks are a bit jealous."
-      answer: Rick Stein
-      aliases:
-        - rick stein
-      reasoning: "Rick (a large stack of hay in a field, old farming word) + Stein (a big heavy German beer mug, the ones with lids) = Rick-Stein = Rick Stein"
-
+  - number: 1
+    initials: J O
+    clue: A bird (big blue one, sits in trees, makes a racket) has gone and borrowed something of yours. Just helped itself. And there's a bloke called Ollie standing nearby who's gone a bit green. Might be the bird's fault.
+    answer: Jamie Oliver
+    aliases:
+    - jamie oliver
+    reasoning: Jay (a noisy blue bird, sits about in gardens) + me (belonging to you, your thing) + Oli (short for Oliver, a name, a bloke called Oli) + ver (sounds like 'va' or 'ver', the end bit) = Jay-me Oli-ver = Jamie Oliver
+  - number: 2
+    initials: N S
+    clue: A lad keeps going no and going all stiff like he's set in jelly. Won't move. Very firm about it. Then someone comes in from the side and absolutely does him in. Very dramatic end to it all.
+    answer: Nigel Slater
+    aliases:
+    - nigel slater
+    reasoning: Nye (sounds like 'nye', the no-ish sound again) + jel (sounds like 'jel', as in jelly going solid) + Slay (to absolutely finish something off, kill it) + ter (sounds like 'ta' or 'ter', a little ending sound) = Nye-jel Slay-ter = Nigel Slater
+  - number: 3
+    initials: R S
+    clue: A big stack of hay in a field has gone and bought itself a large German beer mug. Paid full price. Didn't even haggle. The other haystacks are a bit jealous.
+    answer: Rick Stein
+    aliases:
+    - rick stein
+    reasoning: Rick (a large stack of hay in a field, old farming word) + Stein (a big heavy German beer mug, the ones with lids) = Rick-Stein = Rick Stein
 - id: chefbusters-003
   enabled: true
   title: Chefbusters
@@ -72,28 +70,28 @@
   difficulty: hard
   office_safe: true
   region_relevance:
-    - Global
-  intro: "Last set. Chefbusters three. Still celebrity chefs, still phonetic, still requires you to actually say the words out loud rather than just staring at them. Off you go then."
-  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists."
+  - Global
+  intro: Chefbusters. Celebrity chefs, phonetic clues, and yes, you do have to say the words out loud rather than just staring at them. Off you go then.
+  prize: Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists.
   clues:
-    - number: 1
-      initials: D S
-      clue: "The letter that makes the dee sound has gone on holiday to somewhere sheltered from the wind (very calm there, protected) and when it got back it had become a blacksmith. Made a few horseshoes. Seemed pleased."
-      answer: Delia Smith
-      aliases:
-        - delia smith
-      reasoning: "Dee (the letter D, said aloud) + lee (the sheltered side of something, out of the wind) + a (just the letter a, small sound) + Smith (a blacksmith, someone who works metal, bang bang) = Dee-lee-a Smith = Delia Smith"
-    - number: 2
-      initials: M B
-      clue: "A female horse has come in and it's gone a bit red in the face, embarrassed about something. And there's a small round fruit (soft, grows on a bush) sitting there looking very smug about the whole situation."
-      answer: Mary Berry
-      aliases:
-        - mary berry
-      reasoning: "Mare (a female horse, the lady one) + ree (sounds like 'ree', a bit of a whinny sound, or just the tail end) + Ber (the start of the fruit, like 'ber' in berry) + ree (sounds like 'ree', the end of the fruit) = Mare-ree Ber-ree = Mary Berry"
-    - number: 3
-      initials: P H
-      clue: "A bloke who wrote a lot of letters to people, very important one, has gone for a walk into a forest but the trees aren't normal trees. They've got bright red berries and pointed leaves. He seems fine with this."
-      answer: Paul Hollywood
-      aliases:
-        - paul hollywood
-      reasoning: "Paul (the apostle, wrote loads of letters, very well-known) + Holly (the plant with red berries and prickly leaves, very Christmassy) + wood (trees and timber, a forest, woodland) = Paul Holly-wood = Paul Hollywood"
+  - number: 1
+    initials: D S
+    clue: The letter that makes the dee sound has gone on holiday to somewhere sheltered from the wind (very calm there, protected) and when it got back it had become a blacksmith. Made a few horseshoes. Seemed pleased.
+    answer: Delia Smith
+    aliases:
+    - delia smith
+    reasoning: Dee (the letter D, said aloud) + lee (the sheltered side of something, out of the wind) + a (just the letter a, small sound) + Smith (a blacksmith, someone who works metal, bang bang) = Dee-lee-a Smith = Delia Smith
+  - number: 2
+    initials: M B
+    clue: A female horse has come in and it's gone a bit red in the face, embarrassed about something. And there's a small round fruit (soft, grows on a bush) sitting there looking very smug about the whole situation.
+    answer: Mary Berry
+    aliases:
+    - mary berry
+    reasoning: Mare (a female horse, the lady one) + ree (sounds like 'ree', a bit of a whinny sound, or just the tail end) + Ber (the start of the fruit, like 'ber' in berry) + ree (sounds like 'ree', the end of the fruit) = Mare-ree Ber-ree = Mary Berry
+  - number: 3
+    initials: P H
+    clue: A bloke who wrote a lot of letters to people, very important one, has gone for a walk into a forest but the trees aren't normal trees. They've got bright red berries and pointed leaves. He seems fine with this.
+    answer: Paul Hollywood
+    aliases:
+    - paul hollywood
+    reasoning: Paul (the apostle, wrote loads of letters, very well-known) + Holly (the plant with red berries and prickly leaves, very Christmassy) + wood (trees and timber, a forest, woodland) = Paul Holly-wood = Paul Hollywood

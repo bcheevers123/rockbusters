@@ -5,33 +5,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Filmbusters. Three clues, all modern films. Phonetics, not spelling. Off you go."
-  prize: "Email in. Winner gets a Blockbuster loyalty card and a scratched DVD of something they've already seen."
+  - UK
+  - US
+  intro: Filmbusters. Three clues, all modern films. Phonetics, not spelling. Off you go.
+  prize: Email in. Winner gets a Blockbuster loyalty card and a scratched DVD of something they've already seen.
   clues:
-    - number: 1
-      initials: I
-      clue: "Right, that big ship's been going in, like actually into something. Slid right inside. You know what I mean."
-      answer: Inception
-      aliases:
-        - inception
-      reasoning: "in +ception (like reception, the going-in part) = Inception. Say it out loud."
-    - number: 2
-      initials: F N
-      clue: "That fish, right, it's gone missing. Someone's looking for it. The whole ocean's involved apparently."
-      answer: Finding Nemo
-      aliases:
-        - finding nemo
-      reasoning: "finding (gone missing, someone's looking) + Nemo (the fish) = Finding Nemo"
-    - number: 3
-      initials: A
-      clue: "He's only gone and turned himself into one of them big blue fellas with the tail. Don't ask why. Just has."
-      answer: Avatar
-      aliases:
-        - avatar
-      reasoning: "avatar (a-VAT-er) = Avatar. The whole-word phonetic is the answer itself, dressed up as a scene."
-
+  - number: 1
+    initials: I
+    clue: Right, that big ship's been going in, like actually into something. Slid right inside. You know what I mean.
+    answer: Inception
+    aliases:
+    - inception
+    reasoning: in +ception (like reception, the going-in part) = Inception. Say it out loud.
+  - number: 2
+    initials: F N
+    clue: That fish, right, it's gone missing. Someone's looking for it. The whole ocean's involved apparently.
+    answer: Finding Nemo
+    aliases:
+    - finding nemo
+    reasoning: finding (gone missing, someone's looking) + Nemo (the fish) = Finding Nemo
+  - number: 3
+    initials: A
+    clue: He's only gone and turned himself into one of them big blue fellas with the tail. Don't ask why. Just has.
+    answer: Avatar
+    aliases:
+    - avatar
+    reasoning: avatar (a-VAT-er) = Avatar. The whole-word phonetic is the answer itself, dressed up as a scene.
 - id: filmbusters-022
   enabled: true
   title: Filmbusters
@@ -39,33 +38,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Alright, Filmbusters round two. All films from the last twenty-odd years. Don't overthink it."
-  prize: "Email in. Winner gets an AOL trial disc and a bag of microwave popcorn that's been in a drawer since 2004."
+  - UK
+  - US
+  intro: Alright, Filmbusters round two. All films from the last twenty-odd years. Don't overthink it.
+  prize: Email in. Winner gets an AOL trial disc and a bag of microwave popcorn that's been in a drawer since 2004.
   clues:
-    - number: 1
-      initials: S
-      clue: "Big green fella, bit smelly, lives in a swamp. Everyone leaves him alone. That's all."
-      answer: Shrek
-      aliases:
-        - shrek
-      reasoning: "Shrek sounds like 'shriek' almost but is its own thing. The green lad from the swamp = Shrek"
-    - number: 2
-      initials: E
-      clue: "Right, a bloke's gone to work in one of them workshops up north, very far north, and he's made entirely of Christmas. Sort of."
-      answer: Elf
-      aliases:
-        - elf
-      reasoning: "elf (workshop, Christmas, very north) = Elf"
-    - number: 3
-      initials: F
-      clue: "Everything's gone solid and cold and there's a queen involved. She's not best pleased but she's made her peace with it. Near enough."
-      answer: Frozen
-      aliases:
-        - frozen
-      reasoning: "frozen (solid, cold, ice queen) = Frozen"
-
+  - number: 1
+    initials: S
+    clue: Big green fella, bit smelly, lives in a swamp. Everyone leaves him alone. That's all.
+    answer: Shrek
+    aliases:
+    - shrek
+    reasoning: Shrek sounds like 'shriek' almost but is its own thing. The green lad from the swamp = Shrek
+  - number: 2
+    initials: E
+    clue: Right, a bloke's gone to work in one of them workshops up north, very far north, and he's made entirely of Christmas. Sort of.
+    answer: Elf
+    aliases:
+    - elf
+    reasoning: elf (workshop, Christmas, very north) = Elf
+  - number: 3
+    initials: F
+    clue: Everything's gone solid and cold and there's a queen involved. She's not best pleased but she's made her peace with it. Near enough.
+    answer: Frozen
+    aliases:
+    - frozen
+    reasoning: frozen (solid, cold, ice queen) = Frozen
 - id: filmbusters-023
   enabled: true
   title: Filmbusters
@@ -73,34 +71,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Right, Filmbusters. Three film titles hidden in dodgy phonetic clues. Say them out loud. Go on."
-  prize: "Email in. Winner gets a printed photo from a disposable camera, framed, and a Now 54 on CD."
+  - UK
+  - US
+  intro: Right, Filmbusters. Three film titles hidden in dodgy phonetic clues. Say them out loud. Go on.
+  prize: Email in. Winner gets a printed photo from a disposable camera, framed, and a Now 54 on CD.
   clues:
-    - number: 1
-      initials: M G
-      clue: "These girls, right, they're not very nice to each other. But they think they are. Secondary school, lots of hair. Bit cruel."
-      answer: Mean Girls
-      aliases:
-        - mean girls
-      reasoning: "mean (not very nice) + girls = Mean Girls"
-    - number: 2
-      initials: D
-      clue: "It's all sand and worms, massive ones, and everyone wants this one bit of spice. Bit of a trek to get there."
-      answer: Dune
-      aliases:
-        - dune
-      reasoning: "dune (sand, desert, massive sand hill) = Dune"
-    - number: 3
-      initials: J
-      clue: "That lad's gone all clowny and laughing but he doesn't mean it. White face, purple suit. You wouldn't want to meet him."
-      answer: Joker
-      aliases:
-        - joker
-        - the joker
-      reasoning: "joker (clown, laughing, doesn't mean it) = Joker"
-
+  - number: 1
+    initials: M G
+    clue: These girls, right, they're not very nice to each other. But they think they are. Secondary school, lots of hair. Bit cruel.
+    answer: Mean Girls
+    aliases:
+    - mean girls
+    reasoning: mean (not very nice) + girls = Mean Girls
+  - number: 2
+    initials: D
+    clue: It's all sand and worms, massive ones, and everyone wants this one bit of spice. Bit of a trek to get there.
+    answer: Dune
+    aliases:
+    - dune
+    reasoning: dune (sand, desert, massive sand hill) = Dune
+  - number: 3
+    initials: J
+    clue: That lad's gone all clowny and laughing but he doesn't mean it. White face, purple suit. You wouldn't want to meet him.
+    answer: Joker
+    aliases:
+    - joker
+    - the joker
+    reasoning: joker (clown, laughing, doesn't mean it) = Joker
 - id: filmbusters-024
   enabled: true
   title: Filmbusters
@@ -108,33 +105,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Filmbusters. All big films, all since the year two thousand. Three clues. Easy as anything, probably."
-  prize: "Email in. Winner gets a DVD of Mamma Mia and a voucher for a restaurant that closed in 2009."
+  - UK
+  - US
+  intro: Filmbusters. All big films, all since the year two thousand. Three clues. Easy as anything, probably.
+  prize: Email in. Winner gets a DVD of Mamma Mia and a voucher for a restaurant that closed in 2009.
   clues:
-    - number: 1
-      initials: I
-      clue: "Between the stars, right, just floating. Long way from the shops. Very quiet out there."
-      answer: Interstellar
-      aliases:
-        - interstellar
-      reasoning: "inter (between) + stellar (stars) = Interstellar. Between the stars, that's all."
-    - number: 2
-      initials: T R
-      clue: "That bloke's coming back. He's been through a lot, bit beardy, covered in snow. Someone's left a candle in the window for him."
-      answer: The Revenant
-      aliases:
-        - the revenant
-      reasoning: "the + revenant (one who returns, comes back from near-death) = The Revenant"
-    - number: 3
-      initials: B P
-      clue: "That big cat fella, he's from Africa, very important, everyone's counting on him. There's a lot going on with the vibranium."
-      answer: Black Panther
-      aliases:
-        - black panther
-      reasoning: "black (colour) + panther (big cat) = Black Panther"
-
+  - number: 1
+    initials: I
+    clue: Between the stars, right, just floating. Long way from the shops. Very quiet out there.
+    answer: Interstellar
+    aliases:
+    - interstellar
+    reasoning: inter (between) + stellar (stars) = Interstellar. Between the stars, that's all.
+  - number: 2
+    initials: T R
+    clue: That bloke's coming back. He's been through a lot, bit beardy, covered in snow. Someone's left a candle in the window for him.
+    answer: The Revenant
+    aliases:
+    - the revenant
+    reasoning: the + revenant (one who returns, comes back from near-death) = The Revenant
+  - number: 3
+    initials: B P
+    clue: That big cat fella, he's from Africa, very important, everyone's counting on him. There's a lot going on with the vibranium.
+    answer: Black Panther
+    aliases:
+    - black panther
+    reasoning: black (colour) + panther (big cat) = Black Panther
 - id: filmbusters-025
   enabled: true
   title: Filmbusters
@@ -142,33 +138,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Here's Filmbusters. All phonetic, all films. The clues are a bit daft but the answers are real. Promise."
-  prize: "Email in. Winner gets a Fandango gift card for a cinema that's now a Lidl."
+  - UK
+  - US
+  intro: Here's Filmbusters. All phonetic, all films. The clues are a bit daft but the answers are real. Promise.
+  prize: Email in. Winner gets a Fandango gift card for a cinema that's now a Lidl.
   clues:
-    - number: 1
-      initials: D
-      clue: "This fella's had his face done, all red, very chatty, a bit violent. Keeps breaking the rules of films. Bit of a law unto himself."
-      answer: Deadpool
-      aliases:
-        - deadpool
-      reasoning: "dead + pool (like a swimming pool, but red) = Deadpool"
-    - number: 2
-      initials: C
-      clue: "Right, this little lad's died but he's in Mexico and it's all colourful and his family's there doing music. Bit emotional."
-      answer: Coco
-      aliases:
-        - coco
-      reasoning: "Coco (the name, sounds like cocoa or the music film) = Coco"
-    - number: 3
-      initials: P
-      clue: "Korean family, big house, they're sort of living inside someone else's life. Gets messy. Someone wins an award for it."
-      answer: Parasite
-      aliases:
-        - parasite
-      reasoning: "parasite (living inside someone else's setup) = Parasite"
-
+  - number: 1
+    initials: D
+    clue: This fella's had his face done, all red, very chatty, a bit violent. Keeps breaking the rules of films. Bit of a law unto himself.
+    answer: Deadpool
+    aliases:
+    - deadpool
+    reasoning: dead + pool (like a swimming pool, but red) = Deadpool
+  - number: 2
+    initials: C
+    clue: Right, this little lad's died but he's in Mexico and it's all colourful and his family's there doing music. Bit emotional.
+    answer: Coco
+    aliases:
+    - coco
+    reasoning: Coco (the name, sounds like cocoa or the music film) = Coco
+  - number: 3
+    initials: P
+    clue: Korean family, big house, they're sort of living inside someone else's life. Gets messy. Someone wins an award for it.
+    answer: Parasite
+    aliases:
+    - parasite
+    reasoning: parasite (living inside someone else's setup) = Parasite
 - id: filmbusters-026
   enabled: true
   title: Filmbusters
@@ -176,33 +171,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Alright then, Filmbusters. Phonetic clues, film answers, all from this century. You know the drill."
-  prize: "Email in. Winner gets a Cineworld loyalty stamp card. Needs forty-seven more stamps for a free medium Sprite."
+  - UK
+  - US
+  intro: Alright then, Filmbusters. Phonetic clues, film answers, all from this century. You know the drill.
+  prize: Email in. Winner gets a Cineworld loyalty stamp card. Needs forty-seven more stamps for a free medium Sprite.
   clues:
-    - number: 1
-      initials: O
-      clue: "Some bloke's built a whopping big bomb and now everyone's a bit worried about what he's done. Lot of hats and suits in it."
-      answer: Oppenheimer
-      aliases:
-        - oppenheimer
-      reasoning: "Oppenheimer (the bomb man): open + heimer, but the whole thing sounds like 'open-high-mer', the physicist = Oppenheimer"
-    - number: 2
-      initials: B
-      clue: "She's all pink and plastic and lives in a big house in Malibu. Everything's perfect. A bit too perfect, actually."
-      answer: Barbie
-      aliases:
-        - barbie
-      reasoning: "Barbie (the doll, the film) = Barbie. The bar + bee split: there's a bar and a bee near it. Sort of works."
-    - number: 3
-      initials: W
-      clue: "This fella in the big top hat's showing everyone round his sweet shop. It's all a bit strange but the chocolate's good."
-      answer: Wonka
-      aliases:
-        - wonka
-      reasoning: "Wonka (won + ka) = Wonka. Won something, then said 'ka' like you do. Near enough."
-
+  - number: 1
+    initials: O
+    clue: Some bloke's built a whopping big bomb and now everyone's a bit worried about what he's done. Lot of hats and suits in it.
+    answer: Oppenheimer
+    aliases:
+    - oppenheimer
+    reasoning: 'Oppenheimer (the bomb man): open + heimer, but the whole thing sounds like ''open-high-mer'', the physicist = Oppenheimer'
+  - number: 2
+    initials: B
+    clue: She's all pink and plastic and lives in a big house in Malibu. Everything's perfect. A bit too perfect, actually.
+    answer: Barbie
+    aliases:
+    - barbie
+    reasoning: 'Barbie (the doll, the film) = Barbie. The bar + bee split: there''s a bar and a bee near it. Sort of works.'
+  - number: 3
+    initials: W
+    clue: This fella in the big top hat's showing everyone round his sweet shop. It's all a bit strange but the chocolate's good.
+    answer: Wonka
+    aliases:
+    - wonka
+    reasoning: Wonka (won + ka) = Wonka. Won something, then said 'ka' like you do. Near enough.
 - id: filmbusters-027
   enabled: true
   title: Filmbusters
@@ -210,33 +204,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Filmbusters. Right. Three clues, three films. Say the clue out loud and the answer sort of falls out. Go."
-  prize: "Email in. Winner gets a signed photo of someone off a reality show, possibly from 2003."
+  - UK
+  - US
+  intro: Filmbusters. Right. Three clues, three films. Say the clue out loud and the answer sort of falls out. Go.
+  prize: Email in. Winner gets a signed photo of someone off a reality show, possibly from 2003.
   clues:
-    - number: 1
-      initials: S
-      clue: "Someone's burned the bottom of the kettle, right on the base where it sits. Black as anything. Don't know how."
-      answer: Saltburn
-      aliases:
-        - saltburn
-      reasoning: "salt (seasoning) + burn (on fire, scorched) = Saltburn. Salt the burn, or burnt the salt. One of them."
-    - number: 2
-      initials: P T
-      clue: "Rubbish things, lots of them, and someone's sorted through all of them and found something worth keeping. Set in the cold."
-      answer: Poor Things
-      aliases:
-        - poor things
-      reasoning: "poor (not much money, rubbish situation) + things (stuff, objects) = Poor Things"
-    - number: 3
-      initials: B R
-      clue: "There's a singer, right, and he's doing very well, and his songs are ace, and everyone's going a bit mad for him. Big teeth. Lots of hair."
-      answer: Bohemian Rhapsody
-      aliases:
-        - bohemian rhapsody
-      reasoning: "bohemian (arty, free-spirited) + rhapsody (big musical thing) = Bohemian Rhapsody"
-
+  - number: 1
+    initials: S
+    clue: Someone's burned the bottom of the kettle, right on the base where it sits. Black as anything. Don't know how.
+    answer: Saltburn
+    aliases:
+    - saltburn
+    reasoning: salt (seasoning) + burn (on fire, scorched) = Saltburn. Salt the burn, or burnt the salt. One of them.
+  - number: 2
+    initials: P T
+    clue: Rubbish things, lots of them, and someone's sorted through all of them and found something worth keeping. Set in the cold.
+    answer: Poor Things
+    aliases:
+    - poor things
+    reasoning: poor (not much money, rubbish situation) + things (stuff, objects) = Poor Things
+  - number: 3
+    initials: B R
+    clue: There's a singer, right, and he's doing very well, and his songs are ace, and everyone's going a bit mad for him. Big teeth. Lots of hair.
+    answer: Bohemian Rhapsody
+    aliases:
+    - bohemian rhapsody
+    reasoning: bohemian (arty, free-spirited) + rhapsody (big musical thing) = Bohemian Rhapsody
 - id: filmbusters-028
   enabled: true
   title: Filmbusters
@@ -244,34 +237,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Here we go, Filmbusters. Modern films, phonetic clues, three of them. Warm up your ears."
-  prize: "Email in. Winner gets a copy of Four Weddings on VHS and some value-range biscuits."
+  - UK
+  - US
+  intro: Here we go, Filmbusters. Modern films, phonetic clues, three of them. Warm up your ears.
+  prize: Email in. Winner gets a copy of Four Weddings on VHS and some value-range biscuits.
   clues:
-    - number: 1
-      initials: R
-      clue: "That fella from Wolverhampton, or wherever, he's gone into space on a big rocket. Bit of a journey. Very loud on the way up."
-      answer: Rocketman
-      aliases:
-        - rocketman
-      reasoning: "rocket (big space tube) + man (a bloke) = Rocketman"
-    - number: 2
-      initials: Y
-      clue: "It was only the day before today, right, but this bloke can't remember if it happened or not. He keeps going on about it."
-      answer: Yesterday
-      aliases:
-        - yesterday
-      reasoning: "yester (the day before) + day = Yesterday. That bloke who thinks he's the only one who knows The Beatles."
-    - number: 3
-      initials: M M
-      clue: "These ladies are on a Greek island singing ABBA songs. There's more than one of them. It's very loud. The men are confused."
-      answer: Mamma Mia
-      aliases:
-        - mamma mia
-        - mama mia
-      reasoning: "mamma (mum) + mia (a name, sounds like 'me-a') = Mamma Mia. Also an ABBA song, sort of gives it away."
-
+  - number: 1
+    initials: R
+    clue: That fella from Wolverhampton, or wherever, he's gone into space on a big rocket. Bit of a journey. Very loud on the way up.
+    answer: Rocketman
+    aliases:
+    - rocketman
+    reasoning: rocket (big space tube) + man (a bloke) = Rocketman
+  - number: 2
+    initials: Y
+    clue: It was only the day before today, right, but this bloke can't remember if it happened or not. He keeps going on about it.
+    answer: Yesterday
+    aliases:
+    - yesterday
+    reasoning: yester (the day before) + day = Yesterday. That bloke who thinks he's the only one who knows The Beatles.
+  - number: 3
+    initials: M M
+    clue: These ladies are on a Greek island singing ABBA songs. There's more than one of them. It's very loud. The men are confused.
+    answer: Mamma Mia
+    aliases:
+    - mamma mia
+    - mama mia
+    reasoning: mamma (mum) + mia (a name, sounds like 'me-a') = Mamma Mia. Also an ABBA song, sort of gives it away.
 - id: filmbusters-029
   enabled: true
   title: Filmbusters
@@ -279,34 +271,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Right, Filmbusters is back. Say each clue out loud. If it doesn't make sense written down, that's fine. That's the point."
-  prize: "Email in. Winner gets a Odeon Limitless card for one month in 2007 and a box of Maltesers."
+  - UK
+  - US
+  intro: Right, Filmbusters is back. Say each clue out loud. If it doesn't make sense written down, that's fine. That's the point.
+  prize: Email in. Winner gets a Odeon Limitless card for one month in 2007 and a box of Maltesers.
   clues:
-    - number: 1
-      initials: B
-      clue: "This little bear's turned up in London with a suitcase and a jar of marmalade. Nobody knows what to do with him. He's very polite."
-      answer: Paddington
-      aliases:
-        - paddington
-        - paddington bear
-      reasoning: "Paddington (the bear, the station, the area) = Paddington. Pad + ing + ton. He's from Peru, ends up at the station."
-    - number: 2
-      initials: B
-      clue: "That Irish city, well the Northern one, in the middle of winter. Everything's a bit grey and tense. Beautiful though."
-      answer: Belfast
-      aliases:
-        - belfast
-      reasoning: "Belfast (bell + fast) = Belfast. A bell going very quickly, or that city up north. Say it fast."
-    - number: 3
-      initials: S
-      clue: "That princess, right, she's gone off on her own to a big house in the countryside and she's not having a good time of it. Bit isolated."
-      answer: Spencer
-      aliases:
-        - spencer
-      reasoning: "Spencer (spend + sir, or spend + a) = Spencer. Her family name. The film about Diana at Christmas. Quiet and cold."
-
+  - number: 1
+    initials: B
+    clue: This little bear's turned up in London with a suitcase and a jar of marmalade. Nobody knows what to do with him. He's very polite.
+    answer: Paddington
+    aliases:
+    - paddington
+    - paddington bear
+    reasoning: Paddington (the bear, the station, the area) = Paddington. Pad + ing + ton. He's from Peru, ends up at the station.
+  - number: 2
+    initials: B
+    clue: That Irish city, well the Northern one, in the middle of winter. Everything's a bit grey and tense. Beautiful though.
+    answer: Belfast
+    aliases:
+    - belfast
+    reasoning: Belfast (bell + fast) = Belfast. A bell going very quickly, or that city up north. Say it fast.
+  - number: 3
+    initials: S
+    clue: That princess, right, she's gone off on her own to a big house in the countryside and she's not having a good time of it. Bit isolated.
+    answer: Spencer
+    aliases:
+    - spencer
+    reasoning: Spencer (spend + sir, or spend + a) = Spencer. Her family name. The film about Diana at Christmas. Quiet and cold.
 - id: filmbusters-030
   enabled: true
   title: Filmbusters
@@ -314,33 +305,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Filmbusters. Ten past ten, three clues. All modern films. Have a go. You might get one."
-  prize: "Email in. Winner gets a Netflix DVD envelope from the original postal service and a lukewarm cup of tea."
+  - UK
+  - US
+  intro: Filmbusters. Ten past ten, three clues. All modern films. Have a go. You might get one.
+  prize: Email in. Winner gets a Netflix DVD envelope from the original postal service and a lukewarm cup of tea.
   clues:
-    - number: 1
-      initials: I
-      clue: "Right, this bloke keeps going deeper into people's dreams. Like, dreams inside dreams. You lose track after a bit. DiCaprio's in it."
-      answer: Inception
-      aliases:
-        - inception
-      reasoning: "in + ception (like reception but you're going IN) = Inception. The deeper you go, the more confused you get."
-    - number: 2
-      initials: T R
-      clue: "He's come back, this bloke, from somewhere really awful. Snow everywhere, a bear's had a go at him. Still walking though."
-      answer: The Revenant
-      aliases:
-        - the revenant
-      reasoning: "the + revenant (one who comes back from death or near-death) = The Revenant"
-    - number: 3
-      initials: D
-      clue: "This bloke with the red outfit keeps going on about chimichangas and breaking the fourth wall. Very full of himself. Sort of works."
-      answer: Deadpool
-      aliases:
-        - deadpool
-      reasoning: "dead (gone, not alive) + pool (swimming pool type shape, red in this case) = Deadpool"
-
+  - number: 1
+    initials: I
+    clue: Right, this bloke keeps going deeper into people's dreams. Like, dreams inside dreams. You lose track after a bit. DiCaprio's in it.
+    answer: Inception
+    aliases:
+    - inception
+    reasoning: in + ception (like reception but you're going IN) = Inception. The deeper you go, the more confused you get.
+  - number: 2
+    initials: T R
+    clue: He's come back, this bloke, from somewhere really awful. Snow everywhere, a bear's had a go at him. Still walking though.
+    answer: The Revenant
+    aliases:
+    - the revenant
+    reasoning: the + revenant (one who comes back from death or near-death) = The Revenant
+  - number: 3
+    initials: D
+    clue: This bloke with the red outfit keeps going on about chimichangas and breaking the fourth wall. Very full of himself. Sort of works.
+    answer: Deadpool
+    aliases:
+    - deadpool
+    reasoning: dead (gone, not alive) + pool (swimming pool type shape, red in this case) = Deadpool
 - id: filmbusters-031
   enabled: true
   title: Filmbusters
@@ -348,33 +338,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Filmbusters time. Three more film titles lurking inside these phonetic clues. Say them out loud, see what you get."
-  prize: "Email in. Winner gets a Shrek Forever After poster rolled up in a tube and two Penguin biscuits."
+  - UK
+  - US
+  intro: Filmbusters time. Three more film titles lurking inside these phonetic clues. Say them out loud, see what you get.
+  prize: Email in. Winner gets a Shrek Forever After poster rolled up in a tube and two Penguin biscuits.
   clues:
-    - number: 1
-      initials: F
-      clue: "It's all gone solid outside, ice and snow everywhere, and this one lass has just accepted that that's her thing now. She's fine."
-      answer: Frozen
-      aliases:
-        - frozen
-      reasoning: "frozen (ice, snow, cold, it's just her thing) = Frozen"
-    - number: 2
-      initials: A
-      clue: "Right, these massive blue creatures on another planet, tall they are, and some humans have gone over there and made a right mess."
-      answer: Avatar
-      aliases:
-        - avatar
-      reasoning: "avatar (digital or alien stand-in, the blue Na'vi) = Avatar"
-    - number: 3
-      initials: C
-      clue: "This lad's on a sort of Day of the Dead holiday, bit unusual, all marigolds and skeletons, and he wants to be a musician. Family's not keen."
-      answer: Coco
-      aliases:
-        - coco
-      reasoning: "Coco (the boy's name in the film, also sounds like cocoa) = Coco. The Pixar one with the guitars."
-
+  - number: 1
+    initials: F
+    clue: It's all gone solid outside, ice and snow everywhere, and this one lass has just accepted that that's her thing now. She's fine.
+    answer: Frozen
+    aliases:
+    - frozen
+    reasoning: frozen (ice, snow, cold, it's just her thing) = Frozen
+  - number: 2
+    initials: A
+    clue: Right, these massive blue creatures on another planet, tall they are, and some humans have gone over there and made a right mess.
+    answer: Avatar
+    aliases:
+    - avatar
+    reasoning: avatar (digital or alien stand-in, the blue Na'vi) = Avatar
+  - number: 3
+    initials: C
+    clue: This lad's on a sort of Day of the Dead holiday, bit unusual, all marigolds and skeletons, and he wants to be a musician. Family's not keen.
+    answer: Coco
+    aliases:
+    - coco
+    reasoning: Coco (the boy's name in the film, also sounds like cocoa) = Coco. The Pixar one with the guitars.
 - id: filmbusters-032
   enabled: true
   title: Filmbusters
@@ -382,33 +371,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Alright, Filmbusters. These clues are phonetic, which means they sound right even if they look wrong. Crack on."
-  prize: "Email in. Winner gets a commemorative mug from a bank that got bought out, and a packet of Revels."
+  - UK
+  - US
+  intro: Alright, Filmbusters. These clues are phonetic, which means they sound right even if they look wrong. Crack on.
+  prize: Email in. Winner gets a commemorative mug from a bank that got bought out, and a packet of Revels.
   clues:
-    - number: 1
-      initials: O
-      clue: "This scientist fella's built something massive and very dangerous and now he's just sort of standing there looking at it going, blimey."
-      answer: Oppenheimer
-      aliases:
-        - oppenheimer
-      reasoning: "Oppenheimer: open up something, then the -heimer bit. The bomb man. Lot of desert. Very serious."
-    - number: 2
-      initials: P
-      clue: "This South Korean family's moved in underneath another family, sort of. Very clever, very tense. Someone wins a big golden thing for it."
-      answer: Parasite
-      aliases:
-        - parasite
-      reasoning: "parasite (attaches itself to a host, living off someone else) = Parasite. That's the whole film, basically."
-    - number: 3
-      initials: S
-      clue: "That fella's got himself a big country house with a lake and he's invited some rich mates over and it's all going a bit peculiar. English summer."
-      answer: Saltburn
-      aliases:
-        - saltburn
-      reasoning: "salt + burn = Saltburn. Salt is seasoning, burn is scorching. Together they make a place name and a film."
-
+  - number: 1
+    initials: O
+    clue: This scientist fella's built something massive and very dangerous and now he's just sort of standing there looking at it going, blimey.
+    answer: Oppenheimer
+    aliases:
+    - oppenheimer
+    reasoning: 'Oppenheimer: open up something, then the -heimer bit. The bomb man. Lot of desert. Very serious.'
+  - number: 2
+    initials: P
+    clue: This South Korean family's moved in underneath another family, sort of. Very clever, very tense. Someone wins a big golden thing for it.
+    answer: Parasite
+    aliases:
+    - parasite
+    reasoning: parasite (attaches itself to a host, living off someone else) = Parasite. That's the whole film, basically.
+  - number: 3
+    initials: S
+    clue: That fella's got himself a big country house with a lake and he's invited some rich mates over and it's all going a bit peculiar. English summer.
+    answer: Saltburn
+    aliases:
+    - saltburn
+    reasoning: salt + burn = Saltburn. Salt is seasoning, burn is scorching. Together they make a place name and a film.
 - id: filmbusters-033
   enabled: true
   title: Filmbusters
@@ -416,33 +404,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Filmbusters, here we go. Three clues, three films. Don't think too hard. Just say it out loud."
-  prize: "Email in. Winner gets a Rymans gift card from 2006 and a mini bottle of Jagermeister nobody wants."
+  - UK
+  - US
+  intro: Filmbusters, here we go. Three clues, three films. Don't think too hard. Just say it out loud.
+  prize: Email in. Winner gets a Rymans gift card from 2006 and a mini bottle of Jagermeister nobody wants.
   clues:
-    - number: 1
-      initials: R
-      clue: "That singer, the real one, not made up, he's up in the air on a big rocket thing and his whole life is flashing past. Elton John type situation."
-      answer: Rocketman
-      aliases:
-        - rocketman
-      reasoning: "rocket (big flying thing, goes up) + man (a bloke, the singer) = Rocketman. The Elton John biopic."
-    - number: 2
-      initials: W
-      clue: "This young fella in the enormous hat is handing out sweets and showing people round his factory. Everything smells of chocolate."
-      answer: Wonka
-      aliases:
-        - wonka
-      reasoning: "Wonka: won (like winning) + ka (that click sound). Or just: the chocolate man. That's all."
-    - number: 3
-      initials: B
-      clue: "She's plastic and everything is pink and her boyfriend's into horses. Then it all gets a bit existential. More pink than you'd expect."
-      answer: Barbie
-      aliases:
-        - barbie
-      reasoning: "Barbie: bar (like a bar of something) + bee (the flying insect). A bee is near a bar. Say it: bar-bee = Barbie."
-
+  - number: 1
+    initials: R
+    clue: That singer, the real one, not made up, he's up in the air on a big rocket thing and his whole life is flashing past. Elton John type situation.
+    answer: Rocketman
+    aliases:
+    - rocketman
+    reasoning: rocket (big flying thing, goes up) + man (a bloke, the singer) = Rocketman. The Elton John biopic.
+  - number: 2
+    initials: W
+    clue: This young fella in the enormous hat is handing out sweets and showing people round his factory. Everything smells of chocolate.
+    answer: Wonka
+    aliases:
+    - wonka
+    reasoning: 'Wonka: won (like winning) + ka (that click sound). Or just: the chocolate man. That''s all.'
+  - number: 3
+    initials: B
+    clue: She's plastic and everything is pink and her boyfriend's into horses. Then it all gets a bit existential. More pink than you'd expect.
+    answer: Barbie
+    aliases:
+    - barbie
+    reasoning: 'Barbie: bar (like a bar of something) + bee (the flying insect). A bee is near a bar. Say it: bar-bee = Barbie.'
 - id: filmbusters-034
   enabled: true
   title: Filmbusters
@@ -450,33 +437,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Here's Filmbusters. Phonetic clues, all modern films. Read them out loud to yourself, that's the only way."
-  prize: "Email in. Winner gets a HMV loyalty card with one stamp and a copy of Catch Me If You Can on DVD."
+  - UK
+  - US
+  intro: Here's Filmbusters. Phonetic clues, all modern films. Read them out loud to yourself, that's the only way.
+  prize: Email in. Winner gets a HMV loyalty card with one stamp and a copy of Catch Me If You Can on DVD.
   clues:
-    - number: 1
-      initials: M G
-      clue: "These teenage girls are absolutely vicious to each other in the corridors. Smiling while they do it. Very American. Bit much."
-      answer: Mean Girls
-      aliases:
-        - mean girls
-      reasoning: "mean (not nice, vicious) + girls (teenage females) = Mean Girls"
-    - number: 2
-      initials: D
-      clue: "All sand, massive worms underground, bloke in a robe walking around looking serious. Spice is involved. Very important spice apparently."
-      answer: Dune
-      aliases:
-        - dune
-      reasoning: "dune (a big sand hill in the desert) = Dune. The whole film is basically about sand and spice."
-    - number: 3
-      initials: P T
-      clue: "Strange woman, lots of experiments, set in the olden days but not really. She's making the best of a weird situation. It's odd but good."
-      answer: Poor Things
-      aliases:
-        - poor things
-      reasoning: "poor (not well off, pitiful) + things (objects, bits and bobs) = Poor Things"
-
+  - number: 1
+    initials: M G
+    clue: These teenage girls are absolutely vicious to each other in the corridors. Smiling while they do it. Very American. Bit much.
+    answer: Mean Girls
+    aliases:
+    - mean girls
+    reasoning: mean (not nice, vicious) + girls (teenage females) = Mean Girls
+  - number: 2
+    initials: D
+    clue: All sand, massive worms underground, bloke in a robe walking around looking serious. Spice is involved. Very important spice apparently.
+    answer: Dune
+    aliases:
+    - dune
+    reasoning: dune (a big sand hill in the desert) = Dune. The whole film is basically about sand and spice.
+  - number: 3
+    initials: P T
+    clue: Strange woman, lots of experiments, set in the olden days but not really. She's making the best of a weird situation. It's odd but good.
+    answer: Poor Things
+    aliases:
+    - poor things
+    reasoning: poor (not well off, pitiful) + things (objects, bits and bobs) = Poor Things
 - id: filmbusters-035
   enabled: true
   title: Filmbusters
@@ -484,34 +470,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Right then. Filmbusters. All big films, all phonetic clues. Three of them. Off you go, see how you get on."
-  prize: "Email in. Winner gets a 2001 cinema listing from the local paper, framed, and a bag of Tangfastics."
+  - UK
+  - US
+  intro: Right then. Filmbusters. All big films, all phonetic clues. Three of them. Off you go, see how you get on.
+  prize: Email in. Winner gets a 2001 cinema listing from the local paper, framed, and a bag of Tangfastics.
   clues:
-    - number: 1
-      initials: I
-      clue: "These astronauts have gone off to find a new planet because this one's had it. Loads of space and time travel and a massive organ going. Very loud."
-      answer: Interstellar
-      aliases:
-        - interstellar
-      reasoning: "inter (between, in the middle of) + stellar (stars, space) = Interstellar. Between the stars."
-    - number: 2
-      initials: B P
-      clue: "There's a king who's died and someone's got to take over and everything's in Africa and the suits are incredible. Very serious, very good."
-      answer: Black Panther
-      aliases:
-        - black panther
-      reasoning: "black (the colour) + panther (big cat, sleek) = Black Panther. Wakanda and all that."
-    - number: 3
-      initials: J
-      clue: "He's laughing but he shouldn't be, sort of uncontrollable, poor fella. White face paint, green hair, purple coat. Not having a great time of it."
-      answer: Joker
-      aliases:
-        - joker
-        - the joker
-      reasoning: "joker (the card, the clown, the laughing one) = Joker. Laugh in the dark, that's the film."
-
+  - number: 1
+    initials: I
+    clue: These astronauts have gone off to find a new planet because this one's had it. Loads of space and time travel and a massive organ going. Very loud.
+    answer: Interstellar
+    aliases:
+    - interstellar
+    reasoning: inter (between, in the middle of) + stellar (stars, space) = Interstellar. Between the stars.
+  - number: 2
+    initials: B P
+    clue: There's a king who's died and someone's got to take over and everything's in Africa and the suits are incredible. Very serious, very good.
+    answer: Black Panther
+    aliases:
+    - black panther
+    reasoning: black (the colour) + panther (big cat, sleek) = Black Panther. Wakanda and all that.
+  - number: 3
+    initials: J
+    clue: He's laughing but he shouldn't be, sort of uncontrollable, poor fella. White face paint, green hair, purple coat. Not having a great time of it.
+    answer: Joker
+    aliases:
+    - joker
+    - the joker
+    reasoning: joker (the card, the clown, the laughing one) = Joker. Laugh in the dark, that's the film.
 - id: filmbusters-036
   enabled: true
   title: Filmbusters
@@ -519,33 +504,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Filmbusters. Go on then. Three clues, all from the last couple of decades. You probably know all of these."
-  prize: "Email in. Winner gets a Greggs loyalty card with three stamps and a Bollywood Blockbuster poster."
+  - UK
+  - US
+  intro: Filmbusters. Go on then. Three clues, all from the last couple of decades. You probably know all of these.
+  prize: Email in. Winner gets a Greggs loyalty card with three stamps and a Bollywood Blockbuster poster.
   clues:
-    - number: 1
-      initials: S
-      clue: "This woman's gone to a big country pile and there's a lake and a bath and she's not supposed to be there but she sort of is. English, very tense."
-      answer: Saltburn
-      aliases:
-        - saltburn
-      reasoning: "salt (the seasoning, white crystals) + burn (scorched, on fire) = Saltburn. A country house with a lake."
-    - number: 2
-      initials: Y
-      clue: "The bloke's woken up and the whole world has forgotten a famous band ever existed. Just him left who knows the songs. What's all that about."
-      answer: Yesterday
-      aliases:
-        - yesterday
-      reasoning: "yester (day before) + day (daytime) = Yesterday. The Beatles film with Jack and Ellie."
-    - number: 3
-      initials: B
-      clue: "Right, there's a big ship, old one, and it's going very fast and it shouldn't be and everyone's in formal wear. You know this one."
-      answer: Belfast
-      aliases:
-        - belfast
-      reasoning: "bell (the ringing thing) + fast (going quickly) = Belfast. That or the Kenneth Branagh film in black and white."
-
+  - number: 1
+    initials: S
+    clue: This woman's gone to a big country pile and there's a lake and a bath and she's not supposed to be there but she sort of is. English, very tense.
+    answer: Saltburn
+    aliases:
+    - saltburn
+    reasoning: salt (the seasoning, white crystals) + burn (scorched, on fire) = Saltburn. A country house with a lake.
+  - number: 2
+    initials: Y
+    clue: The bloke's woken up and the whole world has forgotten a famous band ever existed. Just him left who knows the songs. What's all that about.
+    answer: Yesterday
+    aliases:
+    - yesterday
+    reasoning: yester (day before) + day (daytime) = Yesterday. The Beatles film with Jack and Ellie.
+  - number: 3
+    initials: B
+    clue: Right, there's a big ship, old one, and it's going very fast and it shouldn't be and everyone's in formal wear. You know this one.
+    answer: Belfast
+    aliases:
+    - belfast
+    reasoning: bell (the ringing thing) + fast (going quickly) = Belfast. That or the Kenneth Branagh film in black and white.
 - id: filmbusters-037
   enabled: true
   title: Filmbusters
@@ -553,35 +537,34 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Filmbusters again. More phonetic riddles, more films. Don't read these, say them. That's where the answer is."
-  prize: "Email in. Winner gets a printed MapQuest direction sheet and a Toblerone from an airport in 2005."
+  - UK
+  - US
+  intro: Filmbusters again. More phonetic riddles, more films. Don't read these, say them. That's where the answer is.
+  prize: Email in. Winner gets a printed MapQuest direction sheet and a Toblerone from an airport in 2005.
   clues:
-    - number: 1
-      initials: P
-      clue: "Small Peruvian lad, he's in London now, got a red hat on and a suitcase. Jam on everything. Very well-mannered for a bear."
-      answer: Paddington
-      aliases:
-        - paddington
-        - paddington bear
-      reasoning: "Paddington (pad + ing + ton) = Paddington. The bear from Peru, ends up at the London station."
-    - number: 2
-      initials: B R
-      clue: "Four lads in tight trousers playing very big rock music and one of them's incredible and they all want to know if he's real or fantasy. Sort of both."
-      answer: Bohemian Rhapsody
-      aliases:
-        - bohemian rhapsody
-      reasoning: "bohemian (free-spirited arty type) + rhapsody (big dramatic musical piece) = Bohemian Rhapsody"
-    - number: 3
-      initials: M M
-      clue: "There's a wedding on a Greek island, and three possible dads, and ABBA songs keep coming on. Nobody's particularly calm about any of it."
-      answer: Mamma Mia
-      aliases:
-        - mamma mia
-        - mama mia
-      reasoning: "mamma (mother) + mia (sounds like me-ah, also an Italian exclamation) = Mamma Mia"
-
+  - number: 1
+    initials: P
+    clue: Small Peruvian lad, he's in London now, got a red hat on and a suitcase. Jam on everything. Very well-mannered for a bear.
+    answer: Paddington
+    aliases:
+    - paddington
+    - paddington bear
+    reasoning: Paddington (pad + ing + ton) = Paddington. The bear from Peru, ends up at the London station.
+  - number: 2
+    initials: B R
+    clue: Four lads in tight trousers playing very big rock music and one of them's incredible and they all want to know if he's real or fantasy. Sort of both.
+    answer: Bohemian Rhapsody
+    aliases:
+    - bohemian rhapsody
+    reasoning: bohemian (free-spirited arty type) + rhapsody (big dramatic musical piece) = Bohemian Rhapsody
+  - number: 3
+    initials: M M
+    clue: There's a wedding on a Greek island, and three possible dads, and ABBA songs keep coming on. Nobody's particularly calm about any of it.
+    answer: Mamma Mia
+    aliases:
+    - mamma mia
+    - mama mia
+    reasoning: mamma (mother) + mia (sounds like me-ah, also an Italian exclamation) = Mamma Mia
 - id: filmbusters-038
   enabled: true
   title: Filmbusters
@@ -589,33 +572,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Alright, Filmbusters. Last few of the week. Phonetic clues, film answers. Have a go."
-  prize: "Email in. Winner gets a rental receipt from Blockbuster Video with the late fee still on it."
+  - UK
+  - US
+  intro: Alright, Filmbusters. Last few of the week. Phonetic clues, film answers. Have a go.
+  prize: Email in. Winner gets a rental receipt from Blockbuster Video with the late fee still on it.
   clues:
-    - number: 1
-      initials: S
-      clue: "Right, there's this big green fella and he just wants to be left alone in his swamp. But people keep turning up. Bit annoying for him."
-      answer: Shrek
-      aliases:
-        - shrek
-      reasoning: "Shrek: sounds like a shriek but grumpier. The green ogre. Lives in a swamp. That's him."
-    - number: 2
-      initials: S
-      clue: "That royal lady, she's at a big house over Christmas and she's not having it. Walks through the grounds in her coat looking sad. Very elegant though."
-      answer: Spencer
-      aliases:
-        - spencer
-      reasoning: "Spencer (spend + sir, or spend a) = Spencer. Her surname. The Diana film with Kristen Stewart."
-    - number: 3
-      initials: F N
-      clue: "A little orange fish has gone missing in the ocean and his dad won't stop looking for him. Very worried fish dad. Lot of water involved."
-      answer: Finding Nemo
-      aliases:
-        - finding nemo
-      reasoning: "finding (searching for something lost) + Nemo (the name of the missing fish) = Finding Nemo"
-
+  - number: 1
+    initials: S
+    clue: Right, there's this big green fella and he just wants to be left alone in his swamp. But people keep turning up. Bit annoying for him.
+    answer: Shrek
+    aliases:
+    - shrek
+    reasoning: 'Shrek: sounds like a shriek but grumpier. The green ogre. Lives in a swamp. That''s him.'
+  - number: 2
+    initials: S
+    clue: That royal lady, she's at a big house over Christmas and she's not having it. Walks through the grounds in her coat looking sad. Very elegant though.
+    answer: Spencer
+    aliases:
+    - spencer
+    reasoning: Spencer (spend + sir, or spend a) = Spencer. Her surname. The Diana film with Kristen Stewart.
+  - number: 3
+    initials: F N
+    clue: A little orange fish has gone missing in the ocean and his dad won't stop looking for him. Very worried fish dad. Lot of water involved.
+    answer: Finding Nemo
+    aliases:
+    - finding nemo
+    reasoning: finding (searching for something lost) + Nemo (the name of the missing fish) = Finding Nemo
 - id: filmbusters-039
   enabled: true
   title: Filmbusters
@@ -623,33 +605,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Right, Filmbusters. Nearly there. Three clues. All films you've probably seen. Or at least heard of."
-  prize: "Email in. Winner gets a Cineworld stamp card from 2011 and a Mini Milk that's been in the freezer since then."
+  - UK
+  - US
+  intro: Filmbusters. Three clues, all films you've probably seen. Or at least heard of.
+  prize: Email in. Winner gets a Cineworld stamp card from 2011 and a Mini Milk that's been in the freezer since then.
   clues:
-    - number: 1
-      initials: E
-      clue: "This big tall fella's been raised by elves up at the North Pole and now he's in New York looking for his dad. Very enthusiastic. Yellow tights."
-      answer: Elf
-      aliases:
-        - elf
-      reasoning: "elf (the Christmas workshop creature) = Elf. Will Ferrell in yellow tights. That's all you need to know."
-    - number: 2
-      initials: C
-      clue: "There's a dead kid in Mexico and he wants to meet his great-great-grandmother and it's very colourful and there are songs. You'll cry. Don't deny it."
-      answer: Coco
-      aliases:
-        - coco
-      reasoning: "Coco (the name, like cocoa) = Coco. The Pixar one. Day of the Dead. Very good."
-    - number: 3
-      initials: P
-      clue: "This Korean family, right, they've worked their way into this rich family's house, tutoring, driving, the lot, and it all goes wrong. Very tense film."
-      answer: Parasite
-      aliases:
-        - parasite
-      reasoning: "parasite (an organism that lives inside or off a host) = Parasite. The host family doesn't know. That's the whole thing."
-
+  - number: 1
+    initials: E
+    clue: This big tall fella's been raised by elves up at the North Pole and now he's in New York looking for his dad. Very enthusiastic. Yellow tights.
+    answer: Elf
+    aliases:
+    - elf
+    reasoning: elf (the Christmas workshop creature) = Elf. Will Ferrell in yellow tights. That's all you need to know.
+  - number: 2
+    initials: C
+    clue: There's a dead kid in Mexico and he wants to meet his great-great-grandmother and it's very colourful and there are songs. You'll cry. Don't deny it.
+    answer: Coco
+    aliases:
+    - coco
+    reasoning: Coco (the name, like cocoa) = Coco. The Pixar one. Day of the Dead. Very good.
+  - number: 3
+    initials: P
+    clue: This Korean family, right, they've worked their way into this rich family's house, tutoring, driving, the lot, and it all goes wrong. Very tense film.
+    answer: Parasite
+    aliases:
+    - parasite
+    reasoning: parasite (an organism that lives inside or off a host) = Parasite. The host family doesn't know. That's the whole thing.
 - id: filmbusters-040
   enabled: true
   title: Filmbusters
@@ -657,29 +638,29 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Last Filmbusters of the batch. Three clues. Big films. You know these. Go on then."
-  prize: "Email in. Winner gets a copy of Bohemian Rhapsody on Blu-ray and a set of coasters nobody asked for."
+  - UK
+  - US
+  intro: Filmbusters. Three clues, all big films. You know these. Go on then.
+  prize: Email in. Winner gets a copy of Bohemian Rhapsody on Blu-ray and a set of coasters nobody asked for.
   clues:
-    - number: 1
-      initials: I
-      clue: "He's going into someone's dream, inside the head while they're asleep, and planting an idea in there. Very complicated. Just go with it."
-      answer: Inception
-      aliases:
-        - inception
-      reasoning: "inception (the beginning, the going-in moment, in + ception like reception) = Inception"
-    - number: 2
-      initials: B P
-      clue: "This king's died, right, and the young lad has to come back and take over because no one else can do it. Big African kingdom, lots of ceremony."
-      answer: Black Panther
-      aliases:
-        - black panther
-      reasoning: "black (the colour, dark) + panther (the big cat, sleek and powerful) = Black Panther"
-    - number: 3
-      initials: B R
-      clue: "This rock band's singer is absolutely unbelievable live, huge voice, huge crowd, huge teeth, and this is the story of how he got there. True story."
-      answer: Bohemian Rhapsody
-      aliases:
-        - bohemian rhapsody
-      reasoning: "bohemian (free-spirited, artistic, unconventional) + rhapsody (an epic musical composition) = Bohemian Rhapsody"
+  - number: 1
+    initials: I
+    clue: He's going into someone's dream, inside the head while they're asleep, and planting an idea in there. Very complicated. Just go with it.
+    answer: Inception
+    aliases:
+    - inception
+    reasoning: inception (the beginning, the going-in moment, in + ception like reception) = Inception
+  - number: 2
+    initials: B P
+    clue: This king's died, right, and the young lad has to come back and take over because no one else can do it. Big African kingdom, lots of ceremony.
+    answer: Black Panther
+    aliases:
+    - black panther
+    reasoning: black (the colour, dark) + panther (the big cat, sleek and powerful) = Black Panther
+  - number: 3
+    initials: B R
+    clue: This rock band's singer is absolutely unbelievable live, huge voice, huge crowd, huge teeth, and this is the story of how he got there. True story.
+    answer: Bohemian Rhapsody
+    aliases:
+    - bohemian rhapsody
+    reasoning: bohemian (free-spirited, artistic, unconventional) + rhapsody (an epic musical composition) = Bohemian Rhapsody

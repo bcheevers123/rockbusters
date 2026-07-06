@@ -5,37 +5,36 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Global
-  intro: "Right, Foodbusters. Rockbusters but it's all food from around the world. Say the clues out loud. The answer's hiding in the sounds somewhere."
-  prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
+  - UK
+  - US
+  - Global
+  intro: Right, Foodbusters. Rockbusters but it's all food from around the world. Say the clues out loud. The answer's hiding in the sounds somewhere.
+  prize: Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station.
   clues:
-    - number: 1
-      initials: F A C
-      clue: "A fin, like off a fish, has done something rude and then a bloke called Chip has turned up. Bit of an odd sequence."
-      answer: Fish and Chips
-      aliases:
-        - fish and chips
-        - fish & chips
-      reasoning: "fish (a fin belongs to a fish) + and (and) + chips (a bloke called Chip, Chips) = Fish and Chips"
-    - number: 2
-      initials: C T M
-      clue: "A bird wearing a tea cosy has gone into a mosque for a bit of a think. Not sure what the connection is."
-      answer: Chicken Tikka Masala
-      aliases:
-        - chicken tikka masala
-        - tikka masala
-      reasoning: "chicken (a bird) + tikka (sounds like 'tea-ka', a tea cosy sort of sound) + masala (sounds like 'mosque-ala', going into a mosque) = Chicken Tikka Masala"
-    - number: 3
-      initials: B B
-      clue: "A cow has applied for a job in the entertainment industry. Quite serious about it. Got a proper CV and everything."
-      answer: Beef Burger
-      aliases:
-        - beef burger
-        - burger
-      reasoning: "beef (a cow, cattle) + burger (sounds like 'burgher', someone important in a town, or one who 'burgs', an entertainer doing the rounds) = Beef Burger"
-
+  - number: 1
+    initials: F A C
+    clue: A fin, like off a fish, has done something rude and then a bloke called Chip has turned up. Bit of an odd sequence.
+    answer: Fish and Chips
+    aliases:
+    - fish and chips
+    - fish & chips
+    reasoning: fish (a fin belongs to a fish) + and (and) + chips (a bloke called Chip, Chips) = Fish and Chips
+  - number: 2
+    initials: C T M
+    clue: A bird wearing a tea cosy has gone into a mosque for a bit of a think. Not sure what the connection is.
+    answer: Chicken Tikka Masala
+    aliases:
+    - chicken tikka masala
+    - tikka masala
+    reasoning: chicken (a bird) + tikka (sounds like 'tea-ka', a tea cosy sort of sound) + masala (sounds like 'mosque-ala', going into a mosque) = Chicken Tikka Masala
+  - number: 3
+    initials: B B
+    clue: A cow has applied for a job in the entertainment industry. Quite serious about it. Got a proper CV and everything.
+    answer: Beef Burger
+    aliases:
+    - beef burger
+    - burger
+    reasoning: beef (a cow, cattle) + burger (sounds like 'burgher', someone important in a town, or one who 'burgs', an entertainer doing the rounds) = Beef Burger
 - id: foodbusters-002
   enabled: true
   title: Foodbusters
@@ -43,36 +42,35 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Global
-  intro: "Foodbusters two. More food hidden in phonetic clues. Say them out loud and you'll get there."
-  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists."
+  - UK
+  - US
+  - Global
+  intro: Foodbusters two. More food hidden in phonetic clues. Say them out loud and you'll get there.
+  prize: Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists.
   clues:
-    - number: 1
-      initials: S B
-      clue: "Bits of spaghetti are being flung around by a fella who's completely lost it. Right at the end of his tether. Bolo-ing all over the place."
-      answer: Spaghetti Bolognese
-      aliases:
-        - spaghetti bolognese
-        - spag bol
-      reasoning: "spaghetti (the pasta) + Bolognese (sounds like 'bolo-nyeze', a city in Italy) = Spaghetti Bolognese"
-    - number: 2
-      initials: P T
-      clue: "There's a Thai fella paying for something, quite a lot, actually. He's a bit annoyed about the price."
-      answer: Pad Thai
-      aliases:
-        - pad thai
-      reasoning: "pad (to pay, to pad out a bill) + Thai (someone from Thailand) = Pad Thai"
-    - number: 3
-      initials: P D
-      clue: "A man called Pete is in Peking (or Beijing as it's now called) and he's just arrived with a duck. Didn't say why."
-      answer: Peking Duck
-      aliases:
-        - peking duck
-        - beijing duck
-      reasoning: "Peking (the old name for Beijing) + duck (the bird) = Peking Duck"
-
+  - number: 1
+    initials: S B
+    clue: Bits of spaghetti are being flung around by a fella who's completely lost it. Right at the end of his tether. Bolo-ing all over the place.
+    answer: Spaghetti Bolognese
+    aliases:
+    - spaghetti bolognese
+    - spag bol
+    reasoning: spaghetti (the pasta) + Bolognese (sounds like 'bolo-nyeze', a city in Italy) = Spaghetti Bolognese
+  - number: 2
+    initials: P T
+    clue: There's a Thai fella paying for something, quite a lot, actually. He's a bit annoyed about the price.
+    answer: Pad Thai
+    aliases:
+    - pad thai
+    reasoning: pad (to pay, to pad out a bill) + Thai (someone from Thailand) = Pad Thai
+  - number: 3
+    initials: P D
+    clue: A man called Pete is in Peking (or Beijing as it's now called) and he's just arrived with a duck. Didn't say why.
+    answer: Peking Duck
+    aliases:
+    - peking duck
+    - beijing duck
+    reasoning: Peking (the old name for Beijing) + duck (the bird) = Peking Duck
 - id: foodbusters-003
   enabled: true
   title: Foodbusters
@@ -80,34 +78,33 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Global
-  intro: "Three in. Foodbusters three. All international food. Say these out loud and see if the sounds add up."
-  prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
+  - UK
+  - US
+  - Global
+  intro: Foodbusters. All international food. Say these out loud and see if the sounds add up.
+  prize: Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette.
   clues:
-    - number: 1
-      initials: D S
-      clue: "Right, a person called Dim has turned up to a get-together. Very polite. Brought something to share. Everyone seems pleased."
-      answer: Dim Sum
-      aliases:
-        - dim sum
-      reasoning: "dim (the name Dim, or not very bright) + sum (a get-together, or a sum of parts) = Dim Sum"
-    - number: 2
-      initials: N
-      clue: "A place in Mexico where nachos come from, and someone keeps saying no but they actually mean a sort of cheesy crisp. Odd conversation."
-      answer: Nachos
-      aliases:
-        - nachos
-      reasoning: "na (no in various languages) + chos (sounds like 'chose' or 'chows') = Nachos. Or just: sounds like someone called Nacho who owns some."
-    - number: 3
-      initials: B
-      clue: "A donkey's decided to go around to everyone's houses. One by one. Just knocking and going in. Very thorough."
-      answer: Burrito
-      aliases:
-        - burrito
-      reasoning: "burr (a donkey sound, or burro, Spanish for donkey) + ito (Spanish diminutive, little one) = Burr-ito = Burrito"
-
+  - number: 1
+    initials: D S
+    clue: Right, a person called Dim has turned up to a get-together. Very polite. Brought something to share. Everyone seems pleased.
+    answer: Dim Sum
+    aliases:
+    - dim sum
+    reasoning: dim (the name Dim, or not very bright) + sum (a get-together, or a sum of parts) = Dim Sum
+  - number: 2
+    initials: N
+    clue: A place in Mexico where nachos come from, and someone keeps saying no but they actually mean a sort of cheesy crisp. Odd conversation.
+    answer: Nachos
+    aliases:
+    - nachos
+    reasoning: 'na (no in various languages) + chos (sounds like ''chose'' or ''chows'') = Nachos. Or just: sounds like someone called Nacho who owns some.'
+  - number: 3
+    initials: B
+    clue: A donkey's decided to go around to everyone's houses. One by one. Just knocking and going in. Very thorough.
+    answer: Burrito
+    aliases:
+    - burrito
+    reasoning: burr (a donkey sound, or burro, Spanish for donkey) + ito (Spanish diminutive, little one) = Burr-ito = Burrito
 - id: foodbusters-004
   enabled: true
   title: Foodbusters
@@ -115,34 +112,33 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Global
-  intro: "Foodbusters four. All global grub. Phonetic clues. What they sound like is what they are."
-  prize: "Email in. Winner gets a printed photo from a disposable camera, framed."
+  - UK
+  - US
+  - Global
+  intro: Foodbusters four. All global grub. Phonetic clues. What they sound like is what they are.
+  prize: Email in. Winner gets a printed photo from a disposable camera, framed.
   clues:
-    - number: 1
-      initials: E
-      clue: "A woman called Enid has gone on a long trip but she's been told she has to go. She's not happy about it."
-      answer: Enchilada
-      aliases:
-        - enchilada
-      reasoning: "en (in, or going in) + chil (sounds like 'chill', calm down) + ada (a woman's name, Ada) = En-chil-ada = Enchilada"
-    - number: 2
-      initials: P
-      clue: "A fella in Spain has made a right pig's ear of something while a load of yellow rice is sitting in a massive pan. Nobody seems bothered."
-      answer: Paella
-      aliases:
-        - paella
-      reasoning: "pie (a pie, pastry) + ay (a sound of mild surprise) + a (the article) + lla (ya sound) = Pie-ay-a = Paella"
-    - number: 3
-      initials: M
-      clue: "A mouse has gone to see someone, and there's been a bit of a scene. The word 'moose' keeps coming up. In a Greek restaurant, somehow."
-      answer: Moussaka
-      aliases:
-        - moussaka
-      reasoning: "mouss (sounds like 'moose', a large antlered animal) + aka (also known as) = Mouss-aka = Moussaka"
-
+  - number: 1
+    initials: E
+    clue: A woman called Enid has gone on a long trip but she's been told she has to go. She's not happy about it.
+    answer: Enchilada
+    aliases:
+    - enchilada
+    reasoning: en (in, or going in) + chil (sounds like 'chill', calm down) + ada (a woman's name, Ada) = En-chil-ada = Enchilada
+  - number: 2
+    initials: P
+    clue: A fella in Spain has made a right pig's ear of something while a load of yellow rice is sitting in a massive pan. Nobody seems bothered.
+    answer: Paella
+    aliases:
+    - paella
+    reasoning: pie (a pie, pastry) + ay (a sound of mild surprise) + a (the article) + lla (ya sound) = Pie-ay-a = Paella
+  - number: 3
+    initials: M
+    clue: A mouse has gone to see someone, and there's been a bit of a scene. The word 'moose' keeps coming up. In a Greek restaurant, somehow.
+    answer: Moussaka
+    aliases:
+    - moussaka
+    reasoning: mouss (sounds like 'moose', a large antlered animal) + aka (also known as) = Mouss-aka = Moussaka
 - id: foodbusters-005
   enabled: true
   title: Foodbusters
@@ -150,35 +146,34 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Global
-  intro: "Five in. Foodbusters five. Three more international dishes hiding in here. Don't overthink it."
-  prize: "Email in. Winner gets a signed letter from someone off Emmerdale, possibly."
+  - UK
+  - US
+  - Global
+  intro: Five in. Foodbusters five. Three more international dishes hiding in here. Don't overthink it.
+  prize: Email in. Winner gets a signed letter from someone off Emmerdale, possibly.
   clues:
-    - number: 1
-      initials: S
-      clue: "A man from the Middle East is waving at people while rotating slowly. Very slowly. Like he's on a spit. Friendly though."
-      answer: Shawarma
-      aliases:
-        - shawarma
-      reasoning: "sha (a sound, like shh) + war (a conflict) + ma (mother, or just 'ma') = Sha-war-ma = Shawarma"
-    - number: 2
-      initials: F
-      clue: "A person who is unsteady on their feet has made a ball out of chickpeas. They've done it while wobbling. It's fallen on the floor."
-      answer: Falafel
-      aliases:
-        - falafel
-      reasoning: "fal (fall, to stumble) + a (the article) + fel (sounds like 'fell', past tense of fall) = Fal-a-fel = Falafel"
-    - number: 3
-      initials: H
-      clue: "Right, a crowd of people have gone very quiet in a bus shelter. They're all just humming something. Nobody knows the tune."
-      answer: Hummus
-      aliases:
-        - hummus
-        - houmous
-      reasoning: "hum (to hum a tune, to make a quiet noise) + mus (sounds like 'muss', a mess, or just the ending) = Hum-mus = Hummus"
-
+  - number: 1
+    initials: S
+    clue: A man from the Middle East is waving at people while rotating slowly. Very slowly. Like he's on a spit. Friendly though.
+    answer: Shawarma
+    aliases:
+    - shawarma
+    reasoning: sha (a sound, like shh) + war (a conflict) + ma (mother, or just 'ma') = Sha-war-ma = Shawarma
+  - number: 2
+    initials: F
+    clue: A person who is unsteady on their feet has made a ball out of chickpeas. They've done it while wobbling. It's fallen on the floor.
+    answer: Falafel
+    aliases:
+    - falafel
+    reasoning: fal (fall, to stumble) + a (the article) + fel (sounds like 'fell', past tense of fall) = Fal-a-fel = Falafel
+  - number: 3
+    initials: H
+    clue: Right, a crowd of people have gone very quiet in a bus shelter. They're all just humming something. Nobody knows the tune.
+    answer: Hummus
+    aliases:
+    - hummus
+    - houmous
+    reasoning: hum (to hum a tune, to make a quiet noise) + mus (sounds like 'muss', a mess, or just the ending) = Hum-mus = Hummus
 - id: foodbusters-006
   enabled: true
   title: Foodbusters
@@ -186,35 +181,34 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Global
-  intro: "Foodbusters six. All world cuisine hidden in phonetic clues. Say them out loud. That's the key."
-  prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
+  - UK
+  - US
+  - Global
+  intro: Foodbusters six. All world cuisine hidden in phonetic clues. Say them out loud. That's the key.
+  prize: Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station.
   clues:
-    - number: 1
-      initials: T
-      clue: "A train has gone into a narrow passage and come out in North Africa. Not sure how. The driver seems fine with it."
-      answer: Tagine
-      aliases:
-        - tagine
-        - tajine
-      reasoning: "tag (a label, or to tag along) + een (a train sound, or the ending) = Tag-een = Tagine"
-    - number: 2
-      initials: J C
-      clue: "There's a bloke who's been very rude about someone, really jerked them around, and they're now a bird. A cooked one. Caribbean situation."
-      answer: Jerk Chicken
-      aliases:
-        - jerk chicken
-      reasoning: "jerk (to be rude, to jerk someone around) + chicken (a bird, a coward) = Jerk Chicken"
-    - number: 3
-      initials: P
-      clue: "Someone in Vietnam has done something wrong and got chased by someone called Fred. Fred's catching up."
-      answer: Pho
-      aliases:
-        - pho
-      reasoning: "pho (sounds like 'fuh' or 'foe') = Pho. As in: foe, someone chasing you = Pho"
-
+  - number: 1
+    initials: T
+    clue: A train has gone into a narrow passage and come out in North Africa. Not sure how. The driver seems fine with it.
+    answer: Tagine
+    aliases:
+    - tagine
+    - tajine
+    reasoning: tag (a label, or to tag along) + een (a train sound, or the ending) = Tag-een = Tagine
+  - number: 2
+    initials: J C
+    clue: There's a bloke who's been very rude about someone, really jerked them around, and they're now a bird. A cooked one. Caribbean situation.
+    answer: Jerk Chicken
+    aliases:
+    - jerk chicken
+    reasoning: jerk (to be rude, to jerk someone around) + chicken (a bird, a coward) = Jerk Chicken
+  - number: 3
+    initials: P
+    clue: Someone in Vietnam has done something wrong and got chased by someone called Fred. Fred's catching up.
+    answer: Pho
+    aliases:
+    - pho
+    reasoning: 'pho (sounds like ''fuh'' or ''foe'') = Pho. As in: foe, someone chasing you = Pho'
 - id: foodbusters-007
   enabled: true
   title: Foodbusters
@@ -222,34 +216,33 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Global
-  intro: "Foodbusters seven. All phonetic. All food. You know the score by now."
-  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists."
+  - UK
+  - US
+  - Global
+  intro: Foodbusters seven. All phonetic. All food. You know the score by now.
+  prize: Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists.
   clues:
-    - number: 1
-      initials: B
-      clue: "A Korean fella is mixing everything up in his bowl. Everything. Rice, veg, the lot. All going in together. He looks satisfied."
-      answer: Bibimbap
-      aliases:
-        - bibimbap
-      reasoning: "bibim (sounds like 'bibbim', mixing things up) + bap (a bread roll, or Korean for rice) = Bibim-bap = Bibimbap"
-    - number: 2
-      initials: R
-      clue: "It's been raining a lot in Japan and someone's decided to make something warm out of noodles. Very logical in the circumstances."
-      answer: Ramen
-      aliases:
-        - ramen
-      reasoning: "ra (sounds like 'rah', a cheer) + men (blokes, men) = Ra-men = Ramen. Or: rainy men needing soup."
-    - number: 3
-      initials: T
-      clue: "A shrimp has been dropped into very hot oil by someone in Tokyo. It came out wearing a light coat. Nobody asked it to."
-      answer: Tempura
-      aliases:
-        - tempura
-      reasoning: "temp (temporary, just a quick dip) + ura (sounds like 'hurra', a cheer in Japanese) = Temp-ura = Tempura"
-
+  - number: 1
+    initials: B
+    clue: A Korean fella is mixing everything up in his bowl. Everything. Rice, veg, the lot. All going in together. He looks satisfied.
+    answer: Bibimbap
+    aliases:
+    - bibimbap
+    reasoning: bibim (sounds like 'bibbim', mixing things up) + bap (a bread roll, or Korean for rice) = Bibim-bap = Bibimbap
+  - number: 2
+    initials: R
+    clue: It's been raining a lot in Japan and someone's decided to make something warm out of noodles. Very logical in the circumstances.
+    answer: Ramen
+    aliases:
+    - ramen
+    reasoning: 'ra (sounds like ''rah'', a cheer) + men (blokes, men) = Ra-men = Ramen. Or: rainy men needing soup.'
+  - number: 3
+    initials: T
+    clue: A shrimp has been dropped into very hot oil by someone in Tokyo. It came out wearing a light coat. Nobody asked it to.
+    answer: Tempura
+    aliases:
+    - tempura
+    reasoning: temp (temporary, just a quick dip) + ura (sounds like 'hurra', a cheer in Japanese) = Temp-ura = Tempura
 - id: foodbusters-008
   enabled: true
   title: Foodbusters
@@ -257,34 +250,33 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Global
-  intro: "Eight in. Foodbusters eight. Three more dishes from around the world. Say them out loud."
-  prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
+  - UK
+  - US
+  - Global
+  intro: Eight in. Foodbusters eight. Three more dishes from around the world. Say them out loud.
+  prize: Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette.
   clues:
-    - number: 1
-      initials: S
-      clue: "A bloke in Japan is doing something very carefully with raw fish and rice. He's very particular about it. Won't be rushed."
-      answer: Sushi
-      aliases:
-        - sushi
-      reasoning: "su (sounds like 'sue', to take legal action) + shi (sounds like 'she', a woman) = Su-shi = Sushi"
-    - number: 2
-      initials: S
-      clue: "A German bloke has had a bang to the shin. Not a bad one. Just a tap. He's saying 'schnitz' repeatedly, which isn't helping."
-      answer: Schnitzel
-      aliases:
-        - schnitzel
-      reasoning: "schnitz (sounds like 'snitz' or 'schnitts', a German-sounding whack) + el (the Spanish 'the', or a sound) = Schnitz-el = Schnitzel"
-    - number: 3
-      initials: B
-      clue: "A man in Munich has decided to sit in a field of grass in his best outfit. Very formal. Very grassy. Sausage involved somewhere."
-      answer: Bratwurst
-      aliases:
-        - bratwurst
-      reasoning: "brat (an unruly child, or the German word for fried) + wurst (German for sausage, sounds like 'worst') = Brat-wurst = Bratwurst"
-
+  - number: 1
+    initials: S
+    clue: A bloke in Japan is doing something very carefully with raw fish and rice. He's very particular about it. Won't be rushed.
+    answer: Sushi
+    aliases:
+    - sushi
+    reasoning: su (sounds like 'sue', to take legal action) + shi (sounds like 'she', a woman) = Su-shi = Sushi
+  - number: 2
+    initials: S
+    clue: A German bloke has had a bang to the shin. Not a bad one. Just a tap. He's saying 'schnitz' repeatedly, which isn't helping.
+    answer: Schnitzel
+    aliases:
+    - schnitzel
+    reasoning: schnitz (sounds like 'snitz' or 'schnitts', a German-sounding whack) + el (the Spanish 'the', or a sound) = Schnitz-el = Schnitzel
+  - number: 3
+    initials: B
+    clue: A man in Munich has decided to sit in a field of grass in his best outfit. Very formal. Very grassy. Sausage involved somewhere.
+    answer: Bratwurst
+    aliases:
+    - bratwurst
+    reasoning: brat (an unruly child, or the German word for fried) + wurst (German for sausage, sounds like 'worst') = Brat-wurst = Bratwurst
 - id: foodbusters-009
   enabled: true
   title: Foodbusters
@@ -292,35 +284,34 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Global
-  intro: "Foodbusters nine. All world food. Three clues. The answers are hiding in the sounds."
-  prize: "Email in. Winner gets a printed photo from a disposable camera, framed."
+  - UK
+  - US
+  - Global
+  intro: Foodbusters nine. All world food. Three clues. The answers are hiding in the sounds.
+  prize: Email in. Winner gets a printed photo from a disposable camera, framed.
   clues:
-    - number: 1
-      initials: P
-      clue: "Someone from Poland has made a little pocket out of dough and put things inside. Very neat. Very compact. Everyone's impressed."
-      answer: Pierogi
-      aliases:
-        - pierogi
-        - pierogies
-      reasoning: "pier (a seaside jetty, or Pierre) + ogi (sounds like 'ogi', a Welsh nickname, or 'oh-gee') = Pier-ogi = Pierogi"
-    - number: 2
-      initials: G
-      clue: "A Hungarian man has gone a bit red in the face while explaining something about beef. It's quite a passionate story. There's paprika involved."
-      answer: Goulash
-      aliases:
-        - goulash
-      reasoning: "gou (sounds like 'goo', a thick sticky substance) + lash (to lash out, or a whip) = Gou-lash = Goulash"
-    - number: 3
-      initials: C A V
-      clue: "A French rooster has had a bit too much grape juice and is now in the wine. Literally in it. Cooking slowly."
-      answer: Coq au Vin
-      aliases:
-        - coq au vin
-      reasoning: "coq (French for rooster, sounds like 'cok') + au (French for in the, sounds like 'oh') + vin (French for wine, sounds like 'van') = Coq au Vin"
-
+  - number: 1
+    initials: P
+    clue: Someone from Poland has made a little pocket out of dough and put things inside. Very neat. Very compact. Everyone's impressed.
+    answer: Pierogi
+    aliases:
+    - pierogi
+    - pierogies
+    reasoning: pier (a seaside jetty, or Pierre) + ogi (sounds like 'ogi', a Welsh nickname, or 'oh-gee') = Pier-ogi = Pierogi
+  - number: 2
+    initials: G
+    clue: A Hungarian man has gone a bit red in the face while explaining something about beef. It's quite a passionate story. There's paprika involved.
+    answer: Goulash
+    aliases:
+    - goulash
+    reasoning: gou (sounds like 'goo', a thick sticky substance) + lash (to lash out, or a whip) = Gou-lash = Goulash
+  - number: 3
+    initials: C A V
+    clue: A French rooster has had a bit too much grape juice and is now in the wine. Literally in it. Cooking slowly.
+    answer: Coq au Vin
+    aliases:
+    - coq au vin
+    reasoning: coq (French for rooster, sounds like 'cok') + au (French for in the, sounds like 'oh') + vin (French for wine, sounds like 'van') = Coq au Vin
 - id: foodbusters-010
   enabled: true
   title: Foodbusters
@@ -328,35 +319,34 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Global
-  intro: "Halfway there. Foodbusters ten. Keep going. All international grub, all phonetic."
-  prize: "Email in. Winner gets a signed letter from someone off Emmerdale, possibly."
+  - UK
+  - US
+  - Global
+  intro: Foodbusters. All international grub, all phonetic. Say them out loud.
+  prize: Email in. Winner gets a signed letter from someone off Emmerdale, possibly.
   clues:
-    - number: 1
-      initials: B
-      clue: "A French fisherman has made a stew with everything he couldn't sell. Absolutely everything went in. He seems pleased with himself."
-      answer: Bouillabaisse
-      aliases:
-        - bouillabaisse
-      reasoning: "bouill (sounds like 'boil', to boil things) + a (the article) + baisse (sounds like 'base', the bottom of something) = Bouill-a-baisse = Bouillabaisse"
-    - number: 2
-      initials: C
-      clue: "A French fella called Chateaux has gone and branded a steak. His own name on it. Very extravagant. Very French."
-      answer: Chateaubriand
-      aliases:
-        - chateaubriand
-        - chateaubriand steak
-      reasoning: "chateau (a French castle) + briand (sounds like 'bree-on', or Brian with a French twist) = Chateau-briand = Chateaubriand"
-    - number: 3
-      initials: E B
-      clue: "A man called Ed has been told off and is now sitting on a very small cushion waiting for his eggs. He doesn't look guilty."
-      answer: Eggs Benedict
-      aliases:
-        - eggs benedict
-      reasoning: "eggs (the things you crack into a pan) + bene (good in Latin, sounds like 'bennie') + dict (to dictate, to speak firmly) = Eggs Bene-dict = Eggs Benedict"
-
+  - number: 1
+    initials: B
+    clue: A French fisherman has made a stew with everything he couldn't sell. Absolutely everything went in. He seems pleased with himself.
+    answer: Bouillabaisse
+    aliases:
+    - bouillabaisse
+    reasoning: bouill (sounds like 'boil', to boil things) + a (the article) + baisse (sounds like 'base', the bottom of something) = Bouill-a-baisse = Bouillabaisse
+  - number: 2
+    initials: C
+    clue: A French fella called Chateaux has gone and branded a steak. His own name on it. Very extravagant. Very French.
+    answer: Chateaubriand
+    aliases:
+    - chateaubriand
+    - chateaubriand steak
+    reasoning: chateau (a French castle) + briand (sounds like 'bree-on', or Brian with a French twist) = Chateau-briand = Chateaubriand
+  - number: 3
+    initials: E B
+    clue: A man called Ed has been told off and is now sitting on a very small cushion waiting for his eggs. He doesn't look guilty.
+    answer: Eggs Benedict
+    aliases:
+    - eggs benedict
+    reasoning: eggs (the things you crack into a pan) + bene (good in Latin, sounds like 'bennie') + dict (to dictate, to speak firmly) = Eggs Bene-dict = Eggs Benedict
 - id: foodbusters-011
   enabled: true
   title: Foodbusters
@@ -364,36 +354,35 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Global
-  intro: "Foodbusters eleven. Three more international dishes. Say the clues out loud. It's all in the sounds."
-  prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
+  - UK
+  - US
+  - Global
+  intro: Foodbusters eleven. Three more international dishes. Say the clues out loud. It's all in the sounds.
+  prize: Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station.
   clues:
-    - number: 1
-      initials: F A C
-      clue: "Something's swum up to the surface in a British seaside town and it wants a side order. Very specific about it."
-      answer: Fish and Chips
-      aliases:
-        - fish and chips
-        - fish & chips
-      reasoning: "fish (swum up from the sea) + and (the connector) + chips (a side order, the potato kind) = Fish and Chips"
-    - number: 2
-      initials: P T
-      clue: "A Thai person has had a very full-on day and has only just managed to get through it. They're exhausted but they paid for the meal."
-      answer: Pad Thai
-      aliases:
-        - pad thai
-      reasoning: "pad (to pad through something, to make it through) + Thai (from Thailand) = Pad Thai"
-    - number: 3
-      initials: T
-      clue: "A Moroccan man has got a pointy clay lid on his head and he's just walking around. Very calm about it. Smells of spices."
-      answer: Tagine
-      aliases:
-        - tagine
-        - tajine
-      reasoning: "tag (a label, or to follow someone) + een (a sound) = Tag-een = Tagine. The conical lid is the giveaway."
-
+  - number: 1
+    initials: F A C
+    clue: Something's swum up to the surface in a British seaside town and it wants a side order. Very specific about it.
+    answer: Fish and Chips
+    aliases:
+    - fish and chips
+    - fish & chips
+    reasoning: fish (swum up from the sea) + and (the connector) + chips (a side order, the potato kind) = Fish and Chips
+  - number: 2
+    initials: P T
+    clue: A Thai person has had a very full-on day and has only just managed to get through it. They're exhausted but they paid for the meal.
+    answer: Pad Thai
+    aliases:
+    - pad thai
+    reasoning: pad (to pad through something, to make it through) + Thai (from Thailand) = Pad Thai
+  - number: 3
+    initials: T
+    clue: A Moroccan man has got a pointy clay lid on his head and he's just walking around. Very calm about it. Smells of spices.
+    answer: Tagine
+    aliases:
+    - tagine
+    - tajine
+    reasoning: tag (a label, or to follow someone) + een (a sound) = Tag-een = Tagine. The conical lid is the giveaway.
 - id: foodbusters-012
   enabled: true
   title: Foodbusters
@@ -401,35 +390,34 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Global
-  intro: "Foodbusters twelve. Getting on a bit now. Three more world dishes in phonetic form."
-  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists."
+  - UK
+  - US
+  - Global
+  intro: Foodbusters twelve. Getting on a bit now. Three more world dishes in phonetic form.
+  prize: Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists.
   clues:
-    - number: 1
-      initials: S B
-      clue: "A load of long thin pasta has ended up in the city of Bologna and it's gone all meaty. Nobody's surprised."
-      answer: Spaghetti Bolognese
-      aliases:
-        - spaghetti bolognese
-        - spag bol
-      reasoning: "spaghetti (long thin pasta) + Bolognese (from Bologna, the Italian city) = Spaghetti Bolognese"
-    - number: 2
-      initials: S
-      clue: "A Japanese fella is doing something careful with a knife and he's being very quiet about it. Very precise. Very silent."
-      answer: Sushi
-      aliases:
-        - sushi
-      reasoning: "su (quiet, hushed) + shi (she, silent) = Su-shi = Sushi"
-    - number: 3
-      initials: M
-      clue: "A Greek grandmother has made something in layers and covered it in a white sauce. She's done it confidently. No recipe needed."
-      answer: Moussaka
-      aliases:
-        - moussaka
-      reasoning: "mous (sounds like 'moose', large animal) + aka (also known as) = Mous-aka = Moussaka"
-
+  - number: 1
+    initials: S B
+    clue: A load of long thin pasta has ended up in the city of Bologna and it's gone all meaty. Nobody's surprised.
+    answer: Spaghetti Bolognese
+    aliases:
+    - spaghetti bolognese
+    - spag bol
+    reasoning: spaghetti (long thin pasta) + Bolognese (from Bologna, the Italian city) = Spaghetti Bolognese
+  - number: 2
+    initials: S
+    clue: A Japanese fella is doing something careful with a knife and he's being very quiet about it. Very precise. Very silent.
+    answer: Sushi
+    aliases:
+    - sushi
+    reasoning: su (quiet, hushed) + shi (she, silent) = Su-shi = Sushi
+  - number: 3
+    initials: M
+    clue: A Greek grandmother has made something in layers and covered it in a white sauce. She's done it confidently. No recipe needed.
+    answer: Moussaka
+    aliases:
+    - moussaka
+    reasoning: mous (sounds like 'moose', large animal) + aka (also known as) = Mous-aka = Moussaka
 - id: foodbusters-013
   enabled: true
   title: Foodbusters
@@ -437,34 +425,33 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Global
-  intro: "Thirteen in. Foodbusters thirteen. Unlucky for some but not for anyone who likes food from around the world."
-  prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
+  - UK
+  - US
+  - Global
+  intro: Thirteen in. Foodbusters thirteen. Unlucky for some but not for anyone who likes food from around the world.
+  prize: Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette.
   clues:
-    - number: 1
-      initials: D S
-      clue: "A not-very-bright fella has done a calculation and arrived at an answer. In a Hong Kong tea house. There are dumplings."
-      answer: Dim Sum
-      aliases:
-        - dim sum
-      reasoning: "dim (not very bright) + sum (a calculation, a maths answer) = Dim Sum"
-    - number: 2
-      initials: R
-      clue: "A Japanese bloke called Ray has had enough of men. Just had it with them. He's making broth instead. Very wise."
-      answer: Ramen
-      aliases:
-        - ramen
-      reasoning: "ra (the sound, like Ray abbreviated) + men (blokes) = Ra-men = Ramen"
-    - number: 3
-      initials: G
-      clue: "Something thick and sticky has lashed out at someone in Budapest. Completely unprovoked. Beef involved."
-      answer: Goulash
-      aliases:
-        - goulash
-      reasoning: "gou (sounds like 'goo', thick sticky stuff) + lash (to lash out) = Gou-lash = Goulash"
-
+  - number: 1
+    initials: D S
+    clue: A not-very-bright fella has done a calculation and arrived at an answer. In a Hong Kong tea house. There are dumplings.
+    answer: Dim Sum
+    aliases:
+    - dim sum
+    reasoning: dim (not very bright) + sum (a calculation, a maths answer) = Dim Sum
+  - number: 2
+    initials: R
+    clue: A Japanese bloke called Ray has had enough of men. Just had it with them. He's making broth instead. Very wise.
+    answer: Ramen
+    aliases:
+    - ramen
+    reasoning: ra (the sound, like Ray abbreviated) + men (blokes) = Ra-men = Ramen
+  - number: 3
+    initials: G
+    clue: Something thick and sticky has lashed out at someone in Budapest. Completely unprovoked. Beef involved.
+    answer: Goulash
+    aliases:
+    - goulash
+    reasoning: gou (sounds like 'goo', thick sticky stuff) + lash (to lash out) = Gou-lash = Goulash
 - id: foodbusters-014
   enabled: true
   title: Foodbusters
@@ -472,34 +459,33 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Global
-  intro: "Foodbusters fourteen. Six more to go after this. Three world dishes hiding in the sounds."
-  prize: "Email in. Winner gets a printed photo from a disposable camera, framed."
+  - UK
+  - US
+  - Global
+  intro: Foodbusters fourteen. Six more to go after this. Three world dishes hiding in the sounds.
+  prize: Email in. Winner gets a printed photo from a disposable camera, framed.
   clues:
-    - number: 1
-      initials: J C
-      clue: "Someone's being a right nuisance in Jamaica and there's a bird nearby looking nervous. The bird's got good reason to worry."
-      answer: Jerk Chicken
-      aliases:
-        - jerk chicken
-      reasoning: "jerk (a nuisance, or the Jamaican spice method) + chicken (a bird, also slang for coward) = Jerk Chicken"
-    - number: 2
-      initials: S
-      clue: "A Middle Eastern bloke has been rotating on the spot for about four hours. Very slowly. He's been selling slices to passers-by."
-      answer: Shawarma
-      aliases:
-        - shawarma
-      reasoning: "sha (sounds like 'shaw', a thicket) + war (a conflict) + ma (mum) = Sha-war-ma = Shawarma"
-    - number: 3
-      initials: F
-      clue: "A nervous person has made a small ball out of chickpeas and then tripped over while carrying it. The ball survived."
-      answer: Falafel
-      aliases:
-        - falafel
-      reasoning: "fal (to fall, stumble) + a + fel (fell, past tense) = Fal-a-fel = Falafel"
-
+  - number: 1
+    initials: J C
+    clue: Someone's being a right nuisance in Jamaica and there's a bird nearby looking nervous. The bird's got good reason to worry.
+    answer: Jerk Chicken
+    aliases:
+    - jerk chicken
+    reasoning: jerk (a nuisance, or the Jamaican spice method) + chicken (a bird, also slang for coward) = Jerk Chicken
+  - number: 2
+    initials: S
+    clue: A Middle Eastern bloke has been rotating on the spot for about four hours. Very slowly. He's been selling slices to passers-by.
+    answer: Shawarma
+    aliases:
+    - shawarma
+    reasoning: sha (sounds like 'shaw', a thicket) + war (a conflict) + ma (mum) = Sha-war-ma = Shawarma
+  - number: 3
+    initials: F
+    clue: A nervous person has made a small ball out of chickpeas and then tripped over while carrying it. The ball survived.
+    answer: Falafel
+    aliases:
+    - falafel
+    reasoning: fal (to fall, stumble) + a + fel (fell, past tense) = Fal-a-fel = Falafel
 - id: foodbusters-015
   enabled: true
   title: Foodbusters
@@ -507,34 +493,33 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Global
-  intro: "Foodbusters fifteen. Five more after this one. All world food. Say these out loud."
-  prize: "Email in. Winner gets a signed letter from someone off Emmerdale, possibly."
+  - UK
+  - US
+  - Global
+  intro: Foodbusters fifteen. Five more after this one. All world food. Say these out loud.
+  prize: Email in. Winner gets a signed letter from someone off Emmerdale, possibly.
   clues:
-    - number: 1
-      initials: P
-      clue: "A Spanish fella has dropped a very large flat pan and everything yellow has flown off in different directions. He's not bothered."
-      answer: Paella
-      aliases:
-        - paella
-      reasoning: "pa (dad, a paternal sound) + ell (a unit of measurement, or just the sound) + a (the article) = Pa-ell-a = Paella"
-    - number: 2
-      initials: B
-      clue: "A small donkey in Mexico has put everything into a flour wrapper and handed it to someone. Very organised little donkey."
-      answer: Burrito
-      aliases:
-        - burrito
-      reasoning: "burr (a donkey sound, or burro, Spanish for donkey) + ito (Spanish diminutive meaning 'little') = Burr-ito = Burrito"
-    - number: 3
-      initials: E
-      clue: "Someone's going in, definitely going in, but it's going to require them to stay calm and there's a woman called Ada involved somehow."
-      answer: Enchilada
-      aliases:
-        - enchilada
-      reasoning: "en (in, going in) + chil (chill, stay calm) + ada (a name, Ada) = En-chil-ada = Enchilada"
-
+  - number: 1
+    initials: P
+    clue: A Spanish fella has dropped a very large flat pan and everything yellow has flown off in different directions. He's not bothered.
+    answer: Paella
+    aliases:
+    - paella
+    reasoning: pa (dad, a paternal sound) + ell (a unit of measurement, or just the sound) + a (the article) = Pa-ell-a = Paella
+  - number: 2
+    initials: B
+    clue: A small donkey in Mexico has put everything into a flour wrapper and handed it to someone. Very organised little donkey.
+    answer: Burrito
+    aliases:
+    - burrito
+    reasoning: burr (a donkey sound, or burro, Spanish for donkey) + ito (Spanish diminutive meaning 'little') = Burr-ito = Burrito
+  - number: 3
+    initials: E
+    clue: Someone's going in, definitely going in, but it's going to require them to stay calm and there's a woman called Ada involved somehow.
+    answer: Enchilada
+    aliases:
+    - enchilada
+    reasoning: en (in, going in) + chil (chill, stay calm) + ada (a name, Ada) = En-chil-ada = Enchilada
 - id: foodbusters-016
   enabled: true
   title: Foodbusters
@@ -542,35 +527,34 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Global
-  intro: "Sixteen in. Foodbusters sixteen. All world cuisine. The answers are all in the phonetics."
-  prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
+  - UK
+  - US
+  - Global
+  intro: Sixteen in. Foodbusters sixteen. All world cuisine. The answers are all in the phonetics.
+  prize: Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station.
   clues:
-    - number: 1
-      initials: P
-      clue: "A Vietnamese woman has done something that her enemy considers deeply wrong. She's slurping noodles while he fumes."
-      answer: Pho
-      aliases:
-        - pho
-      reasoning: "pho (sounds like 'foe', an enemy) = Pho"
-    - number: 2
-      initials: B
-      clue: "A Korean student has mixed up all their revision notes and they're eating rice out of a bowl. Everything is mixed. The notes, the rice, the veg."
-      answer: Bibimbap
-      aliases:
-        - bibimbap
-      reasoning: "bibim (sounds like 'bibbim', to mix everything up) + bap (a bun, or Korean rice) = Bibim-bap = Bibimbap"
-    - number: 3
-      initials: C T M
-      clue: "A bird has got itself tangled in a tea towel and ended up in a room full of spices. Very fragrant bird. Quite confused."
-      answer: Chicken Tikka Masala
-      aliases:
-        - chicken tikka masala
-        - tikka masala
-      reasoning: "chicken (a bird) + tikka (sounds like 'tik-a', tangled in a tick, or tea towel) + masala (spice mix, sounds like 'ma-sala') = Chicken Tikka Masala"
-
+  - number: 1
+    initials: P
+    clue: A Vietnamese woman has done something that her enemy considers deeply wrong. She's slurping noodles while he fumes.
+    answer: Pho
+    aliases:
+    - pho
+    reasoning: pho (sounds like 'foe', an enemy) = Pho
+  - number: 2
+    initials: B
+    clue: A Korean student has mixed up all their revision notes and they're eating rice out of a bowl. Everything is mixed. The notes, the rice, the veg.
+    answer: Bibimbap
+    aliases:
+    - bibimbap
+    reasoning: bibim (sounds like 'bibbim', to mix everything up) + bap (a bun, or Korean rice) = Bibim-bap = Bibimbap
+  - number: 3
+    initials: C T M
+    clue: A bird has got itself tangled in a tea towel and ended up in a room full of spices. Very fragrant bird. Quite confused.
+    answer: Chicken Tikka Masala
+    aliases:
+    - chicken tikka masala
+    - tikka masala
+    reasoning: chicken (a bird) + tikka (sounds like 'tik-a', tangled in a tick, or tea towel) + masala (spice mix, sounds like 'ma-sala') = Chicken Tikka Masala
 - id: foodbusters-017
   enabled: true
   title: Foodbusters
@@ -578,36 +562,35 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Global
-  intro: "Nearly done. Foodbusters seventeen. Three more world dishes. The answer's somewhere in the sounds."
-  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists."
+  - UK
+  - US
+  - Global
+  intro: Foodbusters. Three more world dishes. The answer's somewhere in the sounds.
+  prize: Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists.
   clues:
-    - number: 1
-      initials: H
-      clue: "A large crowd has gone very quiet in a Lebanese restaurant. They're all humming the same note. The dip is excellent."
-      answer: Hummus
-      aliases:
-        - hummus
-        - houmous
-      reasoning: "hum (to hum quietly) + mus (sounds like 'muss', a light mess) = Hum-mus = Hummus"
-    - number: 2
-      initials: P
-      clue: "A Polish man has rolled out some dough and then looked very confused about what to put inside. He stood there a while. Then he put cheese in."
-      answer: Pierogi
-      aliases:
-        - pierogi
-        - pierogies
-      reasoning: "pier (a seaside walkway, or the name Pierre) + ogi (sounds like 'oh-gee', mild surprise) = Pier-ogi = Pierogi"
-    - number: 3
-      initials: T
-      clue: "A prawn has had a brief holiday, just a quick one, temporary, in Japan and come back wearing breadcrumbs. Nobody asked."
-      answer: Tempura
-      aliases:
-        - tempura
-      reasoning: "temp (temporary, a brief stint) + ura (sounds like 'hurra' or 'ura', a cheer) = Temp-ura = Tempura"
-
+  - number: 1
+    initials: H
+    clue: A large crowd has gone very quiet in a Lebanese restaurant. They're all humming the same note. The dip is excellent.
+    answer: Hummus
+    aliases:
+    - hummus
+    - houmous
+    reasoning: hum (to hum quietly) + mus (sounds like 'muss', a light mess) = Hum-mus = Hummus
+  - number: 2
+    initials: P
+    clue: A Polish man has rolled out some dough and then looked very confused about what to put inside. He stood there a while. Then he put cheese in.
+    answer: Pierogi
+    aliases:
+    - pierogi
+    - pierogies
+    reasoning: pier (a seaside walkway, or the name Pierre) + ogi (sounds like 'oh-gee', mild surprise) = Pier-ogi = Pierogi
+  - number: 3
+    initials: T
+    clue: A prawn has had a brief holiday, just a quick one, temporary, in Japan and come back wearing breadcrumbs. Nobody asked.
+    answer: Tempura
+    aliases:
+    - tempura
+    reasoning: temp (temporary, a brief stint) + ura (sounds like 'hurra' or 'ura', a cheer) = Temp-ura = Tempura
 - id: foodbusters-018
   enabled: true
   title: Foodbusters
@@ -615,35 +598,34 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Global
-  intro: "Foodbusters eighteen. Two more after this. All world food. Phonetic clues. Say them out loud."
-  prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
+  - UK
+  - US
+  - Global
+  intro: Foodbusters eighteen. Two more after this. All world food. Phonetic clues. Say them out loud.
+  prize: Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette.
   clues:
-    - number: 1
-      initials: C A V
-      clue: "A French rooster has had a glass of red and is feeling very mellow. He's in a pot. He went in himself. Entirely his decision."
-      answer: Coq au Vin
-      aliases:
-        - coq au vin
-      reasoning: "coq (French rooster, sounds like 'cock') + au (French for in the) + vin (French for wine, sounds like 'van') = Coq au Vin"
-    - number: 2
-      initials: B B
-      clue: "A cow has turned up at an open-air music festival in Germany and is looking for work. Sausage-adjacent employment."
-      answer: Beef Burger
-      aliases:
-        - beef burger
-        - burger
-      reasoning: "beef (a cow, cattle) + burger (sounds like 'burgher', a town dweller, or a festival-goer in a burg) = Beef Burger"
-    - number: 3
-      initials: S
-      clue: "A German chef has hit his thumb with something quite hard and made a sharp noise. He's put a thin piece of meat in breadcrumbs straight after. The two things may be connected."
-      answer: Schnitzel
-      aliases:
-        - schnitzel
-      reasoning: "schnitz (sounds like 'schnitz', a sharp tap or cut) + el (diminutive, or just the ending) = Schnitz-el = Schnitzel"
-
+  - number: 1
+    initials: C A V
+    clue: A French rooster has had a glass of red and is feeling very mellow. He's in a pot. He went in himself. Entirely his decision.
+    answer: Coq au Vin
+    aliases:
+    - coq au vin
+    reasoning: coq (French rooster, sounds like 'cock') + au (French for in the) + vin (French for wine, sounds like 'van') = Coq au Vin
+  - number: 2
+    initials: B B
+    clue: A cow has turned up at an open-air music festival in Germany and is looking for work. Sausage-adjacent employment.
+    answer: Beef Burger
+    aliases:
+    - beef burger
+    - burger
+    reasoning: beef (a cow, cattle) + burger (sounds like 'burgher', a town dweller, or a festival-goer in a burg) = Beef Burger
+  - number: 3
+    initials: S
+    clue: A German chef has hit his thumb with something quite hard and made a sharp noise. He's put a thin piece of meat in breadcrumbs straight after. The two things may be connected.
+    answer: Schnitzel
+    aliases:
+    - schnitzel
+    reasoning: schnitz (sounds like 'schnitz', a sharp tap or cut) + el (diminutive, or just the ending) = Schnitz-el = Schnitzel
 - id: foodbusters-019
   enabled: true
   title: Foodbusters
@@ -651,35 +633,34 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Global
-  intro: "Penultimate one. Foodbusters nineteen. One more after this. Three last dishes hiding in the sounds."
-  prize: "Email in. Winner gets a printed photo from a disposable camera, framed."
+  - UK
+  - US
+  - Global
+  intro: Foodbusters. Three world dishes hiding in the sounds. Say them out loud.
+  prize: Email in. Winner gets a printed photo from a disposable camera, framed.
   clues:
-    - number: 1
-      initials: P D
-      clue: "A bloke in China with a very old-fashioned name, the kind you'd have in Peking, has turned up with a bird tucked under his arm. Thin pancakes as well."
-      answer: Peking Duck
-      aliases:
-        - peking duck
-        - beijing duck
-      reasoning: "Peking (old name for Beijing) + duck (a bird, also to duck down) = Peking Duck"
-    - number: 2
-      initials: B
-      clue: "A stew from North Africa has arrived on a train wearing a pointy hat. It got on at Casablanca. Very fragrant journey."
-      answer: Bouillabaisse
-      aliases:
-        - bouillabaisse
-      reasoning: "bouill (sounds like 'boil') + a (the article) + baisse (sounds like 'base') = Bouill-a-baisse = Bouillabaisse. (Here used as a mismatch puzzle to stretch the phonetic)"
-    - number: 3
-      initials: N
-      clue: "A Mexican bloke called Nacho has made something cheesy and crispy and covered it in stuff. He's named it after himself. Fair enough."
-      answer: Nachos
-      aliases:
-        - nachos
-      reasoning: "Nacho (a Mexican name, where nachos come from) + s (plural) = Nachos"
-
+  - number: 1
+    initials: P D
+    clue: A bloke in China with a very old-fashioned name, the kind you'd have in Peking, has turned up with a bird tucked under his arm. Thin pancakes as well.
+    answer: Peking Duck
+    aliases:
+    - peking duck
+    - beijing duck
+    reasoning: Peking (old name for Beijing) + duck (a bird, also to duck down) = Peking Duck
+  - number: 2
+    initials: B
+    clue: A stew from North Africa has arrived on a train wearing a pointy hat. It got on at Casablanca. Very fragrant journey.
+    answer: Bouillabaisse
+    aliases:
+    - bouillabaisse
+    reasoning: bouill (sounds like 'boil') + a (the article) + baisse (sounds like 'base') = Bouill-a-baisse = Bouillabaisse. (Here used as a mismatch puzzle to stretch the phonetic)
+  - number: 3
+    initials: N
+    clue: A Mexican bloke called Nacho has made something cheesy and crispy and covered it in stuff. He's named it after himself. Fair enough.
+    answer: Nachos
+    aliases:
+    - nachos
+    reasoning: Nacho (a Mexican name, where nachos come from) + s (plural) = Nachos
 - id: foodbusters-020
   enabled: true
   title: Foodbusters
@@ -687,31 +668,31 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Global
-  intro: "Last one. Foodbusters twenty. Final set. Three more world dishes and then we're done. You've been brilliant."
-  prize: "Email in. Winner gets a signed letter from someone off Emmerdale, possibly."
+  - UK
+  - US
+  - Global
+  intro: Foodbusters. Three world dishes hiding in the sounds. Say them out loud.
+  prize: Email in. Winner gets a signed letter from someone off Emmerdale, possibly.
   clues:
-    - number: 1
-      initials: C
-      clue: "A French bloke called Brian (or possibly Bree-on) has a castle. And he's got a steak with his name on it. Quite literally."
-      answer: Chateaubriand
-      aliases:
-        - chateaubriand
-        - chateaubriand steak
-      reasoning: "chateau (a French castle, a grand house) + briand (sounds like 'Bree-on', a French name, like the cheese Brie + an) = Chateau-briand = Chateaubriand"
-    - number: 2
-      initials: E B
-      clue: "A man called Eddie is being very firm about what he wants for breakfast. He's dictating the whole thing. Hollandaise sauce. Poached eggs. He will not be moved."
-      answer: Eggs Benedict
-      aliases:
-        - eggs benedict
-      reasoning: "eggs (the breakfast item) + bene (Latin for good, sounds like 'bennie') + dict (to dictate, to be firm about something) = Eggs Bene-dict = Eggs Benedict"
-    - number: 3
-      initials: B
-      clue: "A German lad has behaved very badly at a sausage festival. His behaviour has been the worst. Everyone's disappointed."
-      answer: Bratwurst
-      aliases:
-        - bratwurst
-      reasoning: "brat (a badly-behaved child) + wurst (German for sausage, also sounds like 'worst', the most bad) = Brat-wurst = Bratwurst"
+  - number: 1
+    initials: C
+    clue: A French bloke called Brian (or possibly Bree-on) has a castle. And he's got a steak with his name on it. Quite literally.
+    answer: Chateaubriand
+    aliases:
+    - chateaubriand
+    - chateaubriand steak
+    reasoning: chateau (a French castle, a grand house) + briand (sounds like 'Bree-on', a French name, like the cheese Brie + an) = Chateau-briand = Chateaubriand
+  - number: 2
+    initials: E B
+    clue: A man called Eddie is being very firm about what he wants for breakfast. He's dictating the whole thing. Hollandaise sauce. Poached eggs. He will not be moved.
+    answer: Eggs Benedict
+    aliases:
+    - eggs benedict
+    reasoning: eggs (the breakfast item) + bene (Latin for good, sounds like 'bennie') + dict (to dictate, to be firm about something) = Eggs Bene-dict = Eggs Benedict
+  - number: 3
+    initials: B
+    clue: A German lad has behaved very badly at a sausage festival. His behaviour has been the worst. Everyone's disappointed.
+    answer: Bratwurst
+    aliases:
+    - bratwurst
+    reasoning: brat (a badly-behaved child) + wurst (German for sausage, also sounds like 'worst', the most bad) = Brat-wurst = Bratwurst

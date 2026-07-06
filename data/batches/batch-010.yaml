@@ -5,34 +5,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Right, Foodbusters. Rockbusters but it's all British grub this week."
-  prize: "Email in. Winner gets a tin of Quality Street from a petrol station and a free pen."
+  - UK
+  intro: Right, Foodbusters. Rockbusters but it's all British grub this week.
+  prize: Email in. Winner gets a tin of Quality Street from a petrol station and a free pen.
   clues:
-    - number: 1
-      initials: F C
-      clue: "Right, that flat swimming thing's landed in a pile of them chunky fried potato slabs. Sort of a mess."
-      answer: Fish and Chips
-      aliases:
-        - fish and chips
-        - fish & chips
-      reasoning: "fish (flat swimming thing) + and + chips (chunky fried potato slabs) = Fish and Chips"
-    - number: 2
-      initials: S E
-      clue: "Och, the bloke from north of the border's sitting on an egg. No idea why."
-      answer: Scotch Egg
-      aliases:
-        - scotch egg
-        - scotch eggs
-      reasoning: "Scotch (from Scotland, north of the border) + egg = Scotch Egg"
-    - number: 3
-      initials: B W
-      clue: "Some beef, right, and it's gone to see the Duke. Famous one. Has a boot named after him."
-      answer: Beef Wellington
-      aliases:
-        - beef wellington
-      reasoning: "beef + Wellington (famous Duke, the boot) = Beef Wellington"
-
+  - number: 1
+    initials: F C
+    clue: Right, that flat swimming thing's landed in a pile of them chunky fried potato slabs. Sort of a mess.
+    answer: Fish and Chips
+    aliases:
+    - fish and chips
+    - fish & chips
+    reasoning: fish (flat swimming thing) + and + chips (chunky fried potato slabs) = Fish and Chips
+  - number: 2
+    initials: S E
+    clue: Och, the bloke from north of the border's sitting on an egg. No idea why.
+    answer: Scotch Egg
+    aliases:
+    - scotch egg
+    - scotch eggs
+    reasoning: Scotch (from Scotland, north of the border) + egg = Scotch Egg
+  - number: 3
+    initials: B W
+    clue: Some beef, right, and it's gone to see the Duke. Famous one. Has a boot named after him.
+    answer: Beef Wellington
+    aliases:
+    - beef wellington
+    reasoning: beef + Wellington (famous Duke, the boot) = Beef Wellington
 - id: foodbusters-002
   enabled: true
   title: Foodbusters
@@ -40,34 +39,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Foodbusters. All British grub. Say the clues out loud and have a think."
-  prize: "Email in. Winner gets a Blockbuster loyalty card and a cereal box toy."
+  - UK
+  intro: Foodbusters. All British grub. Say the clues out loud and have a think.
+  prize: Email in. Winner gets a Blockbuster loyalty card and a cereal box toy.
   clues:
-    - number: 1
-      initials: Y P
-      clue: "That county up north, famous for flat caps, and there's a little hollow baked thing involved. Don't overthink it."
-      answer: Yorkshire Pudding
-      aliases:
-        - yorkshire pudding
-      reasoning: "Yorkshire (county up north) + pudding (hollow baked thing) = Yorkshire Pudding"
-    - number: 2
-      initials: S P
-      clue: "Right, someone looking after a flock of woolly things has gone and made a pie. A whole pie. Out of them."
-      answer: Shepherds Pie
-      aliases:
-        - shepherds pie
-        - shepherd's pie
-      reasoning: "shepherd (looks after sheep) + pie = Shepherds Pie"
-    - number: 3
-      initials: C P
-      clue: "Down in that bit of England that sticks out into the sea, the miners used to take these pasty things in their lunch tins. Near enough."
-      answer: Cornish Pasty
-      aliases:
-        - cornish pasty
-        - cornish pasties
-      reasoning: "Cornish (from Cornwall, bit that sticks out) + pasty = Cornish Pasty"
-
+  - number: 1
+    initials: Y P
+    clue: That county up north, famous for flat caps, and there's a little hollow baked thing involved. Don't overthink it.
+    answer: Yorkshire Pudding
+    aliases:
+    - yorkshire pudding
+    reasoning: Yorkshire (county up north) + pudding (hollow baked thing) = Yorkshire Pudding
+  - number: 2
+    initials: S P
+    clue: Right, someone looking after a flock of woolly things has gone and made a pie. A whole pie. Out of them.
+    answer: Shepherds Pie
+    aliases:
+    - shepherds pie
+    - shepherd's pie
+    reasoning: shepherd (looks after sheep) + pie = Shepherds Pie
+  - number: 3
+    initials: C P
+    clue: Down in that bit of England that sticks out into the sea, the miners used to take these pasty things in their lunch tins. Near enough.
+    answer: Cornish Pasty
+    aliases:
+    - cornish pasty
+    - cornish pasties
+    reasoning: Cornish (from Cornwall, bit that sticks out) + pasty = Cornish Pasty
 - id: foodbusters-003
   enabled: true
   title: Foodbusters
@@ -75,34 +73,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Three British dishes hiding in these clues. It's Foodbusters. Give it a go."
-  prize: "Email in. Winner gets a DVD copy of Notting Hill and a Value pack of Digestives."
+  - UK
+  intro: Foodbusters. All international food. Say these out loud and see if the sounds add up.
+  prize: Email in. Winner gets a DVD copy of Notting Hill and a Value pack of Digestives.
   clues:
-    - number: 1
-      initials: B M
-      clue: "Right, them sausages have gone all explodey on the plate, and underneath them there's a big pile of that mashed potato stuff. Bit of a state."
-      answer: Bangers and Mash
-      aliases:
-        - bangers and mash
-        - bangers and mashed potato
-      reasoning: "bangers (explodey sausages) + and + mash (mashed potato) = Bangers and Mash"
-    - number: 2
-      initials: T H
-      clue: "A toad, right, but it's hiding inside a gap. Like it's gone and buried itself in there. Weird animal."
-      answer: Toad in the Hole
-      aliases:
-        - toad in the hole
-      reasoning: "toad + in the + hole (gap, buried in there) = Toad in the Hole"
-    - number: 3
-      initials: W R
-      clue: "That country to the left of England, the one with the dragon on the flag, and it's got something a bit rare happening. Not often you see it."
-      answer: Welsh Rarebit
-      aliases:
-        - welsh rarebit
-        - welsh rabbit
-      reasoning: "Welsh (country with dragon flag) + rarebit (rare + bit, something rare) = Welsh Rarebit"
-
+  - number: 1
+    initials: B M
+    clue: Right, them sausages have gone all explodey on the plate, and underneath them there's a big pile of that mashed potato stuff. Bit of a state.
+    answer: Bangers and Mash
+    aliases:
+    - bangers and mash
+    - bangers and mashed potato
+    reasoning: bangers (explodey sausages) + and + mash (mashed potato) = Bangers and Mash
+  - number: 2
+    initials: T H
+    clue: A toad, right, but it's hiding inside a gap. Like it's gone and buried itself in there. Weird animal.
+    answer: Toad in the Hole
+    aliases:
+    - toad in the hole
+    reasoning: toad + in the + hole (gap, buried in there) = Toad in the Hole
+  - number: 3
+    initials: W R
+    clue: That country to the left of England, the one with the dragon on the flag, and it's got something a bit rare happening. Not often you see it.
+    answer: Welsh Rarebit
+    aliases:
+    - welsh rarebit
+    - welsh rabbit
+    reasoning: Welsh (country with dragon flag) + rarebit (rare + bit, something rare) = Welsh Rarebit
 - id: foodbusters-004
   enabled: true
   title: Foodbusters
@@ -110,33 +107,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Alright, Foodbusters is back. British food classics in phonetic clue form. Off you go."
-  prize: "Email in. Winner gets a printed photo from a disposable camera, framed."
+  - UK
+  intro: Alright, Foodbusters is back. British food classics in phonetic clue form. Off you go.
+  prize: Email in. Winner gets a printed photo from a disposable camera, framed.
   clues:
-    - number: 1
-      initials: S D
-      clue: "Right, them little circles with marks on them, the pudding's got them all over it. Bit spotty that."
-      answer: Spotted Dick
-      aliases:
-        - spotted dick
-      reasoning: "spotted (covered in spots/marks) + Dick (short name for Richard) = Spotted Dick"
-    - number: 2
-      initials: S T P
-      clue: "There's something clingy and sweet from a tin, and it's combined with that dessert thing you have after your main. Pair of them together."
-      answer: Sticky Toffee Pudding
-      aliases:
-        - sticky toffee pudding
-      reasoning: "sticky + toffee (clingy sweet from a tin) + pudding (dessert) = Sticky Toffee Pudding"
-    - number: 3
-      initials: J R P
-      clue: "Some jam, right, and it's been rolled up. Like a little cylinder. Then it's gone in the oven and it's sort of a poly shape thing. Sort of round."
-      answer: Jam Roly Poly
-      aliases:
-        - jam roly poly
-        - jam roly-poly
-      reasoning: "jam + roly poly (rolled up, round shape) = Jam Roly Poly"
-
+  - number: 1
+    initials: S D
+    clue: Right, them little circles with marks on them, the pudding's got them all over it. Bit spotty that.
+    answer: Spotted Dick
+    aliases:
+    - spotted dick
+    reasoning: spotted (covered in spots/marks) + Dick (short name for Richard) = Spotted Dick
+  - number: 2
+    initials: S T P
+    clue: There's something clingy and sweet from a tin, and it's combined with that dessert thing you have after your main. Pair of them together.
+    answer: Sticky Toffee Pudding
+    aliases:
+    - sticky toffee pudding
+    reasoning: sticky + toffee (clingy sweet from a tin) + pudding (dessert) = Sticky Toffee Pudding
+  - number: 3
+    initials: J R P
+    clue: Some jam, right, and it's been rolled up. Like a little cylinder. Then it's gone in the oven and it's sort of a poly shape thing. Sort of round.
+    answer: Jam Roly Poly
+    aliases:
+    - jam roly poly
+    - jam roly-poly
+    reasoning: jam + roly poly (rolled up, round shape) = Jam Roly Poly
 - id: foodbusters-005
   enabled: true
   title: Foodbusters
@@ -144,32 +140,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Foodbusters. It's all British grub again. Three clues, three dishes. Say it out loud."
-  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists."
+  - UK
+  intro: Foodbusters. It's all British grub again. Three clues, three dishes. Say it out loud.
+  prize: Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists.
   clues:
-    - number: 1
-      initials: B B P
-      clue: "You've got some bread, yeah, and someone's put butter on it, and then it's all been chucked in a dish with some eggy milk stuff. It's a pudding. Obviously."
-      answer: Bread and Butter Pudding
-      aliases:
-        - bread and butter pudding
-      reasoning: "bread + and + butter + pudding = Bread and Butter Pudding"
-    - number: 2
-      initials: C C
-      clue: "That white vegetable, the one that looks like a brain, it's been smothered in something yellow from a block. Sits heavy."
-      answer: Cauliflower Cheese
-      aliases:
-        - cauliflower cheese
-      reasoning: "cauliflower (white brain-looking vegetable) + cheese (yellow from a block) = Cauliflower Cheese"
-    - number: 3
-      initials: C T M
-      clue: "Right, there's a bird, and it's been given a little Indian-style spa treatment. All orange and fragrant. Big in Britain."
-      answer: Chicken Tikka Masala
-      aliases:
-        - chicken tikka masala
-      reasoning: "chicken (bird) + tikka masala (Indian-style sauce, orange and fragrant) = Chicken Tikka Masala"
-
+  - number: 1
+    initials: B B P
+    clue: You've got some bread, yeah, and someone's put butter on it, and then it's all been chucked in a dish with some eggy milk stuff. It's a pudding. Obviously.
+    answer: Bread and Butter Pudding
+    aliases:
+    - bread and butter pudding
+    reasoning: bread + and + butter + pudding = Bread and Butter Pudding
+  - number: 2
+    initials: C C
+    clue: That white vegetable, the one that looks like a brain, it's been smothered in something yellow from a block. Sits heavy.
+    answer: Cauliflower Cheese
+    aliases:
+    - cauliflower cheese
+    reasoning: cauliflower (white brain-looking vegetable) + cheese (yellow from a block) = Cauliflower Cheese
+  - number: 3
+    initials: C T M
+    clue: Right, there's a bird, and it's been given a little Indian-style spa treatment. All orange and fragrant. Big in Britain.
+    answer: Chicken Tikka Masala
+    aliases:
+    - chicken tikka masala
+    reasoning: chicken (bird) + tikka masala (Indian-style sauce, orange and fragrant) = Chicken Tikka Masala
 - id: foodbusters-006
   enabled: true
   title: Foodbusters
@@ -177,33 +172,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "It's Foodbusters. British classics only. Don't go getting fancy on me."
-  prize: "Email in. Winner gets a Shrek on DVD and a biro from a conference."
+  - UK
+  intro: It's Foodbusters. British classics only. Don't go getting fancy on me.
+  prize: Email in. Winner gets a Shrek on DVD and a biro from a conference.
   clues:
-    - number: 1
-      initials: M C
-      clue: "Tube-shaped pasta, right, and it's got something from a yellow block melted all over it. Students eat it. Everyone eats it."
-      answer: Macaroni Cheese
-      aliases:
-        - macaroni cheese
-        - mac and cheese
-      reasoning: "macaroni (tube-shaped pasta) + cheese (yellow melted stuff) = Macaroni Cheese"
-    - number: 2
-      initials: C P
-      clue: "Right, there's a little house and some beef has moved in. It's got a pastry roof. Very compact."
-      answer: Cottage Pie
-      aliases:
-        - cottage pie
-      reasoning: "cottage (little house) + pie (pastry dish) = Cottage Pie"
-    - number: 3
-      initials: B S
-      clue: "Right, there are two things squeaking. Both of them are bubbles. It's a bit odd but that's what it's called."
-      answer: Bubble and Squeak
-      aliases:
-        - bubble and squeak
-      reasoning: "bubble (something bubbling) + and + squeak (high squeaky noise) = Bubble and Squeak"
-
+  - number: 1
+    initials: M C
+    clue: Tube-shaped pasta, right, and it's got something from a yellow block melted all over it. Students eat it. Everyone eats it.
+    answer: Macaroni Cheese
+    aliases:
+    - macaroni cheese
+    - mac and cheese
+    reasoning: macaroni (tube-shaped pasta) + cheese (yellow melted stuff) = Macaroni Cheese
+  - number: 2
+    initials: C P
+    clue: Right, there's a little house and some beef has moved in. It's got a pastry roof. Very compact.
+    answer: Cottage Pie
+    aliases:
+    - cottage pie
+    reasoning: cottage (little house) + pie (pastry dish) = Cottage Pie
+  - number: 3
+    initials: B S
+    clue: Right, there are two things squeaking. Both of them are bubbles. It's a bit odd but that's what it's called.
+    answer: Bubble and Squeak
+    aliases:
+    - bubble and squeak
+    reasoning: bubble (something bubbling) + and + squeak (high squeaky noise) = Bubble and Squeak
 - id: foodbusters-007
   enabled: true
   title: Foodbusters
@@ -211,35 +205,34 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Foodbusters. All British food. Give these a go, see how you get on."
-  prize: "Email in. Winner gets a copy of The Full Monty on DVD and a packet of Value biscuits."
+  - UK
+  intro: Foodbusters. All British food. Give these a go, see how you get on.
+  prize: Email in. Winner gets a copy of The Full Monty on DVD and a packet of Value biscuits.
   clues:
-    - number: 1
-      initials: P L
-      clue: "Some fella with a plough, right, he's had his midday meal. Cheese and pickle and that. Sitting in a field."
-      answer: Ploughmans Lunch
-      aliases:
-        - ploughmans lunch
-        - ploughman's lunch
-      reasoning: "ploughman (fella with a plough) + lunch (midday meal) = Ploughmans Lunch"
-    - number: 2
-      initials: P N
-      clue: "There's a cooking vessel, right, and it's got noodles in it, and they're all instant. Student staple. Bit sad."
-      answer: Pot Noodle
-      aliases:
-        - pot noodle
-        - pot noodles
-      reasoning: "pot (cooking vessel) + noodle (instant noodles) = Pot Noodle"
-    - number: 3
-      initials: F C
-      clue: "A flat swimming thing's had a run-in with some chunky fried potato bits. Classic combo."
-      answer: Fish and Chips
-      aliases:
-        - fish and chips
-        - fish & chips
-      reasoning: "fish (flat swimming thing) + and + chips (chunky fried bits) = Fish and Chips"
-
+  - number: 1
+    initials: P L
+    clue: Some fella with a plough, right, he's had his midday meal. Cheese and pickle and that. Sitting in a field.
+    answer: Ploughmans Lunch
+    aliases:
+    - ploughmans lunch
+    - ploughman's lunch
+    reasoning: ploughman (fella with a plough) + lunch (midday meal) = Ploughmans Lunch
+  - number: 2
+    initials: P N
+    clue: There's a cooking vessel, right, and it's got noodles in it, and they're all instant. Student staple. Bit sad.
+    answer: Pot Noodle
+    aliases:
+    - pot noodle
+    - pot noodles
+    reasoning: pot (cooking vessel) + noodle (instant noodles) = Pot Noodle
+  - number: 3
+    initials: F C
+    clue: A flat swimming thing's had a run-in with some chunky fried potato bits. Classic combo.
+    answer: Fish and Chips
+    aliases:
+    - fish and chips
+    - fish & chips
+    reasoning: fish (flat swimming thing) + and + chips (chunky fried bits) = Fish and Chips
 - id: foodbusters-008
   enabled: true
   title: Foodbusters
@@ -247,33 +240,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Right then. Foodbusters. British food classics. Three of them. Off you go."
-  prize: "Email in. Winner gets a signed letter from someone off Emmerdale, possibly."
+  - UK
+  intro: Right then. Foodbusters. British food classics. Three of them. Off you go.
+  prize: Email in. Winner gets a signed letter from someone off Emmerdale, possibly.
   clues:
-    - number: 1
-      initials: B W
-      clue: "A big lump of cow, right, and it's gone and put on the Duke's boots. Famous Duke. Iron man."
-      answer: Beef Wellington
-      aliases:
-        - beef wellington
-      reasoning: "beef (lump of cow) + Wellington (the Duke, iron duke, the boot) = Beef Wellington"
-    - number: 2
-      initials: Y P
-      clue: "Up north, in that big county, there's a baked thing. Hollow inside. Used to catch gravy. Alright?"
-      answer: Yorkshire Pudding
-      aliases:
-        - yorkshire pudding
-      reasoning: "Yorkshire (big county up north) + pudding (hollow baked gravy-catcher) = Yorkshire Pudding"
-    - number: 3
-      initials: W R
-      clue: "Dragon country's got something on toast. Something melted and yellow. A bit fancy."
-      answer: Welsh Rarebit
-      aliases:
-        - welsh rarebit
-        - welsh rabbit
-      reasoning: "Welsh (dragon country) + rarebit (rare + bit, something unusual on toast) = Welsh Rarebit"
-
+  - number: 1
+    initials: B W
+    clue: A big lump of cow, right, and it's gone and put on the Duke's boots. Famous Duke. Iron man.
+    answer: Beef Wellington
+    aliases:
+    - beef wellington
+    reasoning: beef (lump of cow) + Wellington (the Duke, iron duke, the boot) = Beef Wellington
+  - number: 2
+    initials: Y P
+    clue: Up north, in that big county, there's a baked thing. Hollow inside. Used to catch gravy. Alright?
+    answer: Yorkshire Pudding
+    aliases:
+    - yorkshire pudding
+    reasoning: Yorkshire (big county up north) + pudding (hollow baked gravy-catcher) = Yorkshire Pudding
+  - number: 3
+    initials: W R
+    clue: Dragon country's got something on toast. Something melted and yellow. A bit fancy.
+    answer: Welsh Rarebit
+    aliases:
+    - welsh rarebit
+    - welsh rabbit
+    reasoning: Welsh (dragon country) + rarebit (rare + bit, something unusual on toast) = Welsh Rarebit
 - id: foodbusters-009
   enabled: true
   title: Foodbusters
@@ -281,33 +273,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Foodbusters is here again. Three British dishes in phonetic form. Have a go."
-  prize: "Email in. Winner gets a Now 48 on CD and a promotional pen from a bank."
+  - UK
+  intro: Foodbusters is here again. Three British dishes in phonetic form. Have a go.
+  prize: Email in. Winner gets a Now 48 on CD and a promotional pen from a bank.
   clues:
-    - number: 1
-      initials: S P
-      clue: "Someone who looks after a load of woolly things in a field has baked a pie. Sort of commemorating them."
-      answer: Shepherds Pie
-      aliases:
-        - shepherds pie
-        - shepherd's pie
-      reasoning: "shepherd (looks after woolly sheep) + pie = Shepherds Pie"
-    - number: 2
-      initials: T H
-      clue: "An amphibian's gone and buried itself inside a gap. Just sat there in a hole. Bit dramatic."
-      answer: Toad in the Hole
-      aliases:
-        - toad in the hole
-      reasoning: "toad (amphibian) + in the + hole (gap) = Toad in the Hole"
-    - number: 3
-      initials: S D
-      clue: "There's blotches all over this dessert thing. Dotted all over it. And it's got a name like someone's uncle."
-      answer: Spotted Dick
-      aliases:
-        - spotted dick
-      reasoning: "spotted (covered in blotches/dots) + Dick (name like someone's uncle) = Spotted Dick"
-
+  - number: 1
+    initials: S P
+    clue: Someone who looks after a load of woolly things in a field has baked a pie. Sort of commemorating them.
+    answer: Shepherds Pie
+    aliases:
+    - shepherds pie
+    - shepherd's pie
+    reasoning: shepherd (looks after woolly sheep) + pie = Shepherds Pie
+  - number: 2
+    initials: T H
+    clue: An amphibian's gone and buried itself inside a gap. Just sat there in a hole. Bit dramatic.
+    answer: Toad in the Hole
+    aliases:
+    - toad in the hole
+    reasoning: toad (amphibian) + in the + hole (gap) = Toad in the Hole
+  - number: 3
+    initials: S D
+    clue: There's blotches all over this dessert thing. Dotted all over it. And it's got a name like someone's uncle.
+    answer: Spotted Dick
+    aliases:
+    - spotted dick
+    reasoning: spotted (covered in blotches/dots) + Dick (name like someone's uncle) = Spotted Dick
 - id: foodbusters-010
   enabled: true
   title: Foodbusters
@@ -315,33 +306,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Alright, Foodbusters. Classic British grub, phonetic clues. You know how this works."
-  prize: "Email in. Winner gets a copy of Shrek 2 on VHS and a mug with a logo on it."
+  - UK
+  intro: Foodbusters. All international grub, all phonetic. Say them out loud.
+  prize: Email in. Winner gets a copy of Shrek 2 on VHS and a mug with a logo on it.
   clues:
-    - number: 1
-      initials: C T M
-      clue: "A bird, right, and some fella's given it a proper spicy makeover. All orange. Very popular in Britain. More popular than anything else."
-      answer: Chicken Tikka Masala
-      aliases:
-        - chicken tikka masala
-      reasoning: "chicken (bird) + tikka masala (spicy orange sauce) = Chicken Tikka Masala"
-    - number: 2
-      initials: B B P
-      clue: "Right, you've got sliced bread, someone's buttered it, and it's all been baked in a dish with eggy stuff. Classic comfort that."
-      answer: Bread and Butter Pudding
-      aliases:
-        - bread and butter pudding
-      reasoning: "bread + and + butter + pudding = Bread and Butter Pudding"
-    - number: 3
-      initials: S E
-      clue: "There's an egg, yeah, and it's been wrapped up in something meaty and rolled in breadcrumbs. Scottish connection. Allegedly."
-      answer: Scotch Egg
-      aliases:
-        - scotch egg
-        - scotch eggs
-      reasoning: "Scotch (Scottish connection) + egg (wrapped in meat) = Scotch Egg"
-
+  - number: 1
+    initials: C T M
+    clue: A bird, right, and some fella's given it a proper spicy makeover. All orange. Very popular in Britain. More popular than anything else.
+    answer: Chicken Tikka Masala
+    aliases:
+    - chicken tikka masala
+    reasoning: chicken (bird) + tikka masala (spicy orange sauce) = Chicken Tikka Masala
+  - number: 2
+    initials: B B P
+    clue: Right, you've got sliced bread, someone's buttered it, and it's all been baked in a dish with eggy stuff. Classic comfort that.
+    answer: Bread and Butter Pudding
+    aliases:
+    - bread and butter pudding
+    reasoning: bread + and + butter + pudding = Bread and Butter Pudding
+  - number: 3
+    initials: S E
+    clue: There's an egg, yeah, and it's been wrapped up in something meaty and rolled in breadcrumbs. Scottish connection. Allegedly.
+    answer: Scotch Egg
+    aliases:
+    - scotch egg
+    - scotch eggs
+    reasoning: Scotch (Scottish connection) + egg (wrapped in meat) = Scotch Egg
 - id: foodbusters-011
   enabled: true
   title: Foodbusters
@@ -349,33 +339,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Right, Foodbusters. It's all British food this week. Three clues, have a think."
-  prize: "Email in. Winner gets a Woolworths gift card that probably no longer works."
+  - UK
+  intro: Right, Foodbusters. It's all British food this week. Three clues, have a think.
+  prize: Email in. Winner gets a Woolworths gift card that probably no longer works.
   clues:
-    - number: 1
-      initials: J R P
-      clue: "Some jam's been rolled up into a tube shape and baked. Bit like a little log but fruity. Say it out loud."
-      answer: Jam Roly Poly
-      aliases:
-        - jam roly poly
-        - jam roly-poly
-      reasoning: "jam + roly poly (rolled up, tubular shape) = Jam Roly Poly"
-    - number: 2
-      initials: C C
-      clue: "That vegetable that looks like it's been designed by accident. The white broccoli one. Smothered in yellow stuff."
-      answer: Cauliflower Cheese
-      aliases:
-        - cauliflower cheese
-      reasoning: "cauliflower (white accidental-looking veg) + cheese (yellow smothering) = Cauliflower Cheese"
-    - number: 3
-      initials: M C
-      clue: "Little bent tubes of pasta, right, and they're swimming in something that came off a yellow block. Students love it."
-      answer: Macaroni Cheese
-      aliases:
-        - macaroni cheese
-      reasoning: "macaroni (bent tube pasta) + cheese (from a yellow block) = Macaroni Cheese"
-
+  - number: 1
+    initials: J R P
+    clue: Some jam's been rolled up into a tube shape and baked. Bit like a little log but fruity. Say it out loud.
+    answer: Jam Roly Poly
+    aliases:
+    - jam roly poly
+    - jam roly-poly
+    reasoning: jam + roly poly (rolled up, tubular shape) = Jam Roly Poly
+  - number: 2
+    initials: C C
+    clue: That vegetable that looks like it's been designed by accident. The white broccoli one. Smothered in yellow stuff.
+    answer: Cauliflower Cheese
+    aliases:
+    - cauliflower cheese
+    reasoning: cauliflower (white accidental-looking veg) + cheese (yellow smothering) = Cauliflower Cheese
+  - number: 3
+    initials: M C
+    clue: Little bent tubes of pasta, right, and they're swimming in something that came off a yellow block. Students love it.
+    answer: Macaroni Cheese
+    aliases:
+    - macaroni cheese
+    reasoning: macaroni (bent tube pasta) + cheese (from a yellow block) = Macaroni Cheese
 - id: foodbusters-012
   enabled: true
   title: Foodbusters
@@ -383,34 +372,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Foodbusters. British food, phonetic clues. Don't be put off by the daft descriptions."
-  prize: "Email in. Winner gets a mini bottle of shower gel from a hotel stay and a fridge magnet."
+  - UK
+  intro: Foodbusters. British food, phonetic clues. Don't be put off by the daft descriptions.
+  prize: Email in. Winner gets a mini bottle of shower gel from a hotel stay and a fridge magnet.
   clues:
-    - number: 1
-      initials: B S
-      clue: "There's a bubbling noise, then a squeaky noise. Leftovers from Sunday dinner, fried up. That's it."
-      answer: Bubble and Squeak
-      aliases:
-        - bubble and squeak
-      reasoning: "bubble (bubbling noise) + and + squeak (squeaky noise) = Bubble and Squeak"
-    - number: 2
-      initials: P N
-      clue: "A container you'd boil things in, right, and inside it there are long thin noodle things. All instant. Just add water."
-      answer: Pot Noodle
-      aliases:
-        - pot noodle
-        - pot noodles
-      reasoning: "pot (container for boiling) + noodle (long thin instant thing) = Pot Noodle"
-    - number: 3
-      initials: C P
-      clue: "Down where the sea comes in from both sides and they've got clotted cream, there's a hand-held pastry thing. Miners used to eat the crust last."
-      answer: Cornish Pasty
-      aliases:
-        - cornish pasty
-        - cornish pasties
-      reasoning: "Cornish (from Cornwall, the peninsula) + pasty (hand-held pastry) = Cornish Pasty"
-
+  - number: 1
+    initials: B S
+    clue: There's a bubbling noise, then a squeaky noise. Leftovers from Sunday dinner, fried up. That's it.
+    answer: Bubble and Squeak
+    aliases:
+    - bubble and squeak
+    reasoning: bubble (bubbling noise) + and + squeak (squeaky noise) = Bubble and Squeak
+  - number: 2
+    initials: P N
+    clue: A container you'd boil things in, right, and inside it there are long thin noodle things. All instant. Just add water.
+    answer: Pot Noodle
+    aliases:
+    - pot noodle
+    - pot noodles
+    reasoning: pot (container for boiling) + noodle (long thin instant thing) = Pot Noodle
+  - number: 3
+    initials: C P
+    clue: Down where the sea comes in from both sides and they've got clotted cream, there's a hand-held pastry thing. Miners used to eat the crust last.
+    answer: Cornish Pasty
+    aliases:
+    - cornish pasty
+    - cornish pasties
+    reasoning: Cornish (from Cornwall, the peninsula) + pasty (hand-held pastry) = Cornish Pasty
 - id: foodbusters-013
   enabled: true
   title: Foodbusters
@@ -418,33 +406,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Foodbusters is on. British grub, bad phonetic descriptions. Give it a go."
-  prize: "Email in. Winner gets a Woolworths Pick 'n' Mix voucher that definitely won't work."
+  - UK
+  intro: Foodbusters is on. British grub, bad phonetic descriptions. Give it a go.
+  prize: Email in. Winner gets a Woolworths Pick 'n' Mix voucher that definitely won't work.
   clues:
-    - number: 1
-      initials: P L
-      clue: "A fella's been out ploughing all morning, right, and now he's sat down with a hunk of cheese and some pickle. That's his lunch. That's it."
-      answer: Ploughmans Lunch
-      aliases:
-        - ploughmans lunch
-        - ploughman's lunch
-      reasoning: "ploughman (fella who ploughs) + lunch = Ploughmans Lunch"
-    - number: 2
-      initials: B M
-      clue: "Sausages, yeah, and they've exploded a bit. On top of something that used to be potatoes but now it's all squashed up."
-      answer: Bangers and Mash
-      aliases:
-        - bangers and mash
-      reasoning: "bangers (explodey sausages) + and + mash (squashed potatoes) = Bangers and Mash"
-    - number: 3
-      initials: S T P
-      clue: "Something sweet and tacky, right. The kind that sticks to your teeth. And it's a dessert. Warm one. Very British."
-      answer: Sticky Toffee Pudding
-      aliases:
-        - sticky toffee pudding
-      reasoning: "sticky (tacky, sticks to teeth) + toffee (sweet sticky stuff) + pudding (warm dessert) = Sticky Toffee Pudding"
-
+  - number: 1
+    initials: P L
+    clue: A fella's been out ploughing all morning, right, and now he's sat down with a hunk of cheese and some pickle. That's his lunch. That's it.
+    answer: Ploughmans Lunch
+    aliases:
+    - ploughmans lunch
+    - ploughman's lunch
+    reasoning: ploughman (fella who ploughs) + lunch = Ploughmans Lunch
+  - number: 2
+    initials: B M
+    clue: Sausages, yeah, and they've exploded a bit. On top of something that used to be potatoes but now it's all squashed up.
+    answer: Bangers and Mash
+    aliases:
+    - bangers and mash
+    reasoning: bangers (explodey sausages) + and + mash (squashed potatoes) = Bangers and Mash
+  - number: 3
+    initials: S T P
+    clue: Something sweet and tacky, right. The kind that sticks to your teeth. And it's a dessert. Warm one. Very British.
+    answer: Sticky Toffee Pudding
+    aliases:
+    - sticky toffee pudding
+    reasoning: sticky (tacky, sticks to teeth) + toffee (sweet sticky stuff) + pudding (warm dessert) = Sticky Toffee Pudding
 - id: foodbusters-014
   enabled: true
   title: Foodbusters
@@ -452,33 +439,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Right then. Foodbusters. All British food. Say the clues out loud, that's the key."
-  prize: "Email in. Winner gets a pack of Value custard creams and a stress ball from a trade show."
+  - UK
+  intro: Right then. Foodbusters. All British food. Say the clues out loud, that's the key.
+  prize: Email in. Winner gets a pack of Value custard creams and a stress ball from a trade show.
   clues:
-    - number: 1
-      initials: C P
-      clue: "There's a small dwelling, right, and inside it there's mince beef. With a mashed potato roof. Snug."
-      answer: Cottage Pie
-      aliases:
-        - cottage pie
-      reasoning: "cottage (small dwelling) + pie (mashed potato roof over filling) = Cottage Pie"
-    - number: 2
-      initials: F C
-      clue: "Right, a flat water creature and some chunky golden potato sticks. That's your lot. Classic British dinner."
-      answer: Fish and Chips
-      aliases:
-        - fish and chips
-        - fish & chips
-      reasoning: "fish (flat water creature) + and + chips (chunky golden potato sticks) = Fish and Chips"
-    - number: 3
-      initials: C T M
-      clue: "There's a bird, and it's had an Indian marinade treatment, and it's now in a sauce that's quite orange. Britain's favourite, apparently."
-      answer: Chicken Tikka Masala
-      aliases:
-        - chicken tikka masala
-      reasoning: "chicken (bird) + tikka masala (Indian marinade, orange sauce) = Chicken Tikka Masala"
-
+  - number: 1
+    initials: C P
+    clue: There's a small dwelling, right, and inside it there's mince beef. With a mashed potato roof. Snug.
+    answer: Cottage Pie
+    aliases:
+    - cottage pie
+    reasoning: cottage (small dwelling) + pie (mashed potato roof over filling) = Cottage Pie
+  - number: 2
+    initials: F C
+    clue: Right, a flat water creature and some chunky golden potato sticks. That's your lot. Classic British dinner.
+    answer: Fish and Chips
+    aliases:
+    - fish and chips
+    - fish & chips
+    reasoning: fish (flat water creature) + and + chips (chunky golden potato sticks) = Fish and Chips
+  - number: 3
+    initials: C T M
+    clue: There's a bird, and it's had an Indian marinade treatment, and it's now in a sauce that's quite orange. Britain's favourite, apparently.
+    answer: Chicken Tikka Masala
+    aliases:
+    - chicken tikka masala
+    reasoning: chicken (bird) + tikka masala (Indian marinade, orange sauce) = Chicken Tikka Masala
 - id: foodbusters-015
   enabled: true
   title: Foodbusters
@@ -486,33 +472,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Foodbusters. It's phonetic riddles about British food. Say it out loud, it'll click."
-  prize: "Email in. Winner gets a DVD copy of Calendar Girls and a travel-size bottle of something."
+  - UK
+  intro: Foodbusters. It's phonetic riddles about British food. Say it out loud, it'll click.
+  prize: Email in. Winner gets a DVD copy of Calendar Girls and a travel-size bottle of something.
   clues:
-    - number: 1
-      initials: S P
-      clue: "Someone who herds woolly animals in a field has baked something in a dish. With a potato roof. In their memory, sort of."
-      answer: Shepherds Pie
-      aliases:
-        - shepherds pie
-        - shepherd's pie
-      reasoning: "shepherd (herds woolly animals) + pie (baked dish with potato roof) = Shepherds Pie"
-    - number: 2
-      initials: Y P
-      clue: "Big county in the north of England. Great Dales. Famous flat-cap types. And there's a baked hollow thing that goes with roast beef."
-      answer: Yorkshire Pudding
-      aliases:
-        - yorkshire pudding
-      reasoning: "Yorkshire (big northern county) + pudding (hollow baked thing with roast beef) = Yorkshire Pudding"
-    - number: 3
-      initials: B B P
-      clue: "Right, you've sliced some bread, buttered it, layered it in a dish with raisins and eggy custard stuff, and baked it. Classic that."
-      answer: Bread and Butter Pudding
-      aliases:
-        - bread and butter pudding
-      reasoning: "bread + and + butter + pudding = Bread and Butter Pudding"
-
+  - number: 1
+    initials: S P
+    clue: Someone who herds woolly animals in a field has baked something in a dish. With a potato roof. In their memory, sort of.
+    answer: Shepherds Pie
+    aliases:
+    - shepherds pie
+    - shepherd's pie
+    reasoning: shepherd (herds woolly animals) + pie (baked dish with potato roof) = Shepherds Pie
+  - number: 2
+    initials: Y P
+    clue: Big county in the north of England. Great Dales. Famous flat-cap types. And there's a baked hollow thing that goes with roast beef.
+    answer: Yorkshire Pudding
+    aliases:
+    - yorkshire pudding
+    reasoning: Yorkshire (big northern county) + pudding (hollow baked thing with roast beef) = Yorkshire Pudding
+  - number: 3
+    initials: B B P
+    clue: Right, you've sliced some bread, buttered it, layered it in a dish with raisins and eggy custard stuff, and baked it. Classic that.
+    answer: Bread and Butter Pudding
+    aliases:
+    - bread and butter pudding
+    reasoning: bread + and + butter + pudding = Bread and Butter Pudding
 - id: foodbusters-016
   enabled: true
   title: Foodbusters
@@ -520,34 +505,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Back with Foodbusters. British grub in phonetic clue form. Three today."
-  prize: "Email in. Winner gets an early-2000s mobile phone with a novelty case and some old Chewits."
+  - UK
+  intro: Back with Foodbusters. British grub in phonetic clue form. Three today.
+  prize: Email in. Winner gets an early-2000s mobile phone with a novelty case and some old Chewits.
   clues:
-    - number: 1
-      initials: W R
-      clue: "It's from that rainy country to the left that's got a dragon on its flag. And it's on toast. With cheese melted on top. Sort of posh beans on toast but cheesier."
-      answer: Welsh Rarebit
-      aliases:
-        - welsh rarebit
-        - welsh rabbit
-      reasoning: "Welsh (country with dragon flag) + rarebit (rare bit, something on toast) = Welsh Rarebit"
-    - number: 2
-      initials: T H
-      clue: "There's an amphibian, right, a warty one, and it's sitting inside a gap in something bready. Just... in there."
-      answer: Toad in the Hole
-      aliases:
-        - toad in the hole
-      reasoning: "toad (warty amphibian) + in the + hole (gap in bready batter) = Toad in the Hole"
-    - number: 3
-      initials: S E
-      clue: "Something from Scotland, and there's an egg in the middle of it. Wrapped in meat. Deep fried. Sort of Scottish in spirit."
-      answer: Scotch Egg
-      aliases:
-        - scotch egg
-        - scotch eggs
-      reasoning: "Scotch (Scottish) + egg (in the middle) = Scotch Egg"
-
+  - number: 1
+    initials: W R
+    clue: It's from that rainy country to the left that's got a dragon on its flag. And it's on toast. With cheese melted on top. Sort of posh beans on toast but cheesier.
+    answer: Welsh Rarebit
+    aliases:
+    - welsh rarebit
+    - welsh rabbit
+    reasoning: Welsh (country with dragon flag) + rarebit (rare bit, something on toast) = Welsh Rarebit
+  - number: 2
+    initials: T H
+    clue: There's an amphibian, right, a warty one, and it's sitting inside a gap in something bready. Just... in there.
+    answer: Toad in the Hole
+    aliases:
+    - toad in the hole
+    reasoning: toad (warty amphibian) + in the + hole (gap in bready batter) = Toad in the Hole
+  - number: 3
+    initials: S E
+    clue: Something from Scotland, and there's an egg in the middle of it. Wrapped in meat. Deep fried. Sort of Scottish in spirit.
+    answer: Scotch Egg
+    aliases:
+    - scotch egg
+    - scotch eggs
+    reasoning: Scotch (Scottish) + egg (in the middle) = Scotch Egg
 - id: foodbusters-017
   enabled: true
   title: Foodbusters
@@ -555,33 +539,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Alright, it's Foodbusters again. Three British food classics. You know the drill."
-  prize: "Email in. Winner gets a Boots two-for-one voucher that's expired and a miniature bottle of Tabasco."
+  - UK
+  intro: Foodbusters. Three more world dishes. The answer's somewhere in the sounds.
+  prize: Email in. Winner gets a Boots two-for-one voucher that's expired and a miniature bottle of Tabasco.
   clues:
-    - number: 1
-      initials: B S
-      clue: "Leftover veg, right. It's in a pan. Making two different noises. One is a round watery sound, one is a high-pitched squeal."
-      answer: Bubble and Squeak
-      aliases:
-        - bubble and squeak
-      reasoning: "bubble (round watery sound) + and + squeak (high-pitched squeal) = Bubble and Squeak"
-    - number: 2
-      initials: S D
-      clue: "A steamed pudding, and it's covered in blotches. All dotted. Named after a bloke called Richard. Bit of an unfortunate name."
-      answer: Spotted Dick
-      aliases:
-        - spotted dick
-      reasoning: "spotted (covered in blotches, dotted) + Dick (short for Richard) = Spotted Dick"
-    - number: 3
-      initials: J R P
-      clue: "There's some fruity red stuff, and it's been rolled into a log shape, then baked. Comes out looking cylindrical. That's it."
-      answer: Jam Roly Poly
-      aliases:
-        - jam roly poly
-        - jam roly-poly
-      reasoning: "jam (fruity red stuff) + roly poly (rolled into a log/cylinder) = Jam Roly Poly"
-
+  - number: 1
+    initials: B S
+    clue: Leftover veg, right. It's in a pan. Making two different noises. One is a round watery sound, one is a high-pitched squeal.
+    answer: Bubble and Squeak
+    aliases:
+    - bubble and squeak
+    reasoning: bubble (round watery sound) + and + squeak (high-pitched squeal) = Bubble and Squeak
+  - number: 2
+    initials: S D
+    clue: A steamed pudding, and it's covered in blotches. All dotted. Named after a bloke called Richard. Bit of an unfortunate name.
+    answer: Spotted Dick
+    aliases:
+    - spotted dick
+    reasoning: spotted (covered in blotches, dotted) + Dick (short for Richard) = Spotted Dick
+  - number: 3
+    initials: J R P
+    clue: There's some fruity red stuff, and it's been rolled into a log shape, then baked. Comes out looking cylindrical. That's it.
+    answer: Jam Roly Poly
+    aliases:
+    - jam roly poly
+    - jam roly-poly
+    reasoning: jam (fruity red stuff) + roly poly (rolled into a log/cylinder) = Jam Roly Poly
 - id: foodbusters-018
   enabled: true
   title: Foodbusters
@@ -589,32 +572,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "It's Foodbusters. Classic British grub, three phonetic clues. Don't be put off."
-  prize: "Email in. Winner gets a Coronation Street mug and a biscuit tin with a faded design."
+  - UK
+  intro: It's Foodbusters. Classic British grub, three phonetic clues. Don't be put off.
+  prize: Email in. Winner gets a Coronation Street mug and a biscuit tin with a faded design.
   clues:
-    - number: 1
-      initials: M C
-      clue: "Right, them bent little pasta tubes and they're drowning in something yellow and melted. Bit comforting."
-      answer: Macaroni Cheese
-      aliases:
-        - macaroni cheese
-      reasoning: "macaroni (bent little pasta tubes) + cheese (yellow melted) = Macaroni Cheese"
-    - number: 2
-      initials: C C
-      clue: "It's a big white vegetable. Looks a bit like a brain, honestly. And it's smothered in melted yellow dairy stuff."
-      answer: Cauliflower Cheese
-      aliases:
-        - cauliflower cheese
-      reasoning: "cauliflower (big white brain-like vegetable) + cheese (melted yellow dairy) = Cauliflower Cheese"
-    - number: 3
-      initials: B M
-      clue: "Little sausages, right, and they've burst a bit in the pan. Sitting on top of a mountain of squashed potato."
-      answer: Bangers and Mash
-      aliases:
-        - bangers and mash
-      reasoning: "bangers (burst sausages) + and + mash (squashed potato mountain) = Bangers and Mash"
-
+  - number: 1
+    initials: M C
+    clue: Right, them bent little pasta tubes and they're drowning in something yellow and melted. Bit comforting.
+    answer: Macaroni Cheese
+    aliases:
+    - macaroni cheese
+    reasoning: macaroni (bent little pasta tubes) + cheese (yellow melted) = Macaroni Cheese
+  - number: 2
+    initials: C C
+    clue: It's a big white vegetable. Looks a bit like a brain, honestly. And it's smothered in melted yellow dairy stuff.
+    answer: Cauliflower Cheese
+    aliases:
+    - cauliflower cheese
+    reasoning: cauliflower (big white brain-like vegetable) + cheese (melted yellow dairy) = Cauliflower Cheese
+  - number: 3
+    initials: B M
+    clue: Little sausages, right, and they've burst a bit in the pan. Sitting on top of a mountain of squashed potato.
+    answer: Bangers and Mash
+    aliases:
+    - bangers and mash
+    reasoning: bangers (burst sausages) + and + mash (squashed potato mountain) = Bangers and Mash
 - id: foodbusters-019
   enabled: true
   title: Foodbusters
@@ -622,34 +604,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Foodbusters. It's all British grub again. Three clues, give them a go."
-  prize: "Email in. Winner gets a tin of Roses chocolates from a charity raffle and a biro."
+  - UK
+  intro: Foodbusters. Three world dishes hiding in the sounds. Say them out loud.
+  prize: Email in. Winner gets a tin of Roses chocolates from a charity raffle and a biro.
   clues:
-    - number: 1
-      initials: C P
-      clue: "It's from down the bottom of England, where the land goes pointy into the sea. Pasty thing. In a pastry casing. Miners had them for lunch."
-      answer: Cornish Pasty
-      aliases:
-        - cornish pasty
-        - cornish pasties
-      reasoning: "Cornish (from Cornwall, pointy bit of England) + pasty (pastry casing) = Cornish Pasty"
-    - number: 2
-      initials: P L
-      clue: "Someone who's been out ploughing fields all morning, right, he's sat down for his midday meal. Bit of cheddar. Some pickle. Maybe a pickled onion."
-      answer: Ploughmans Lunch
-      aliases:
-        - ploughmans lunch
-        - ploughman's lunch
-      reasoning: "ploughman (field plougher) + lunch (midday meal with cheddar and pickle) = Ploughmans Lunch"
-    - number: 3
-      initials: S T P
-      clue: "It clings to the spoon, right. Sweet and warm. Caramel-ish. With sponge underneath. Served hot. Very comforting."
-      answer: Sticky Toffee Pudding
-      aliases:
-        - sticky toffee pudding
-      reasoning: "sticky (clings to spoon) + toffee (caramel-ish sweet) + pudding (warm sponge dessert) = Sticky Toffee Pudding"
-
+  - number: 1
+    initials: C P
+    clue: It's from down the bottom of England, where the land goes pointy into the sea. Pasty thing. In a pastry casing. Miners had them for lunch.
+    answer: Cornish Pasty
+    aliases:
+    - cornish pasty
+    - cornish pasties
+    reasoning: Cornish (from Cornwall, pointy bit of England) + pasty (pastry casing) = Cornish Pasty
+  - number: 2
+    initials: P L
+    clue: Someone who's been out ploughing fields all morning, right, he's sat down for his midday meal. Bit of cheddar. Some pickle. Maybe a pickled onion.
+    answer: Ploughmans Lunch
+    aliases:
+    - ploughmans lunch
+    - ploughman's lunch
+    reasoning: ploughman (field plougher) + lunch (midday meal with cheddar and pickle) = Ploughmans Lunch
+  - number: 3
+    initials: S T P
+    clue: It clings to the spoon, right. Sweet and warm. Caramel-ish. With sponge underneath. Served hot. Very comforting.
+    answer: Sticky Toffee Pudding
+    aliases:
+    - sticky toffee pudding
+    reasoning: sticky (clings to spoon) + toffee (caramel-ish sweet) + pudding (warm sponge dessert) = Sticky Toffee Pudding
 - id: foodbusters-020
   enabled: true
   title: Foodbusters
@@ -657,29 +638,29 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Last one for today. Foodbusters. Three British dishes hidden in plain sight. Have a go."
-  prize: "Email in. Winner gets a copy of Bridget Jones Diary on DVD and a travel-size shower gel."
+  - UK
+  intro: Foodbusters. Three world dishes hiding in the sounds. Say them out loud.
+  prize: Email in. Winner gets a copy of Bridget Jones Diary on DVD and a travel-size shower gel.
   clues:
-    - number: 1
-      initials: P N
-      clue: "Right, there's a cooking vessel, and noodles have been put inside it. But they're not fresh. They're the instant kind. Just add boiling water."
-      answer: Pot Noodle
-      aliases:
-        - pot noodle
-        - pot noodles
-      reasoning: "pot (cooking vessel) + noodle (instant noodles) = Pot Noodle"
-    - number: 2
-      initials: C P
-      clue: "A cottage, right. Small dwelling. And beef has moved in. Mashed potato on top, like a roof. Warm inside."
-      answer: Cottage Pie
-      aliases:
-        - cottage pie
-      reasoning: "cottage (small dwelling) + pie (with mashed potato roof) = Cottage Pie"
-    - number: 3
-      initials: B W
-      clue: "A big chunk of beef, right, and it's gone and wrapped itself up in pastry. Named after a famous Duke. He had boots named after him too. Bit greedy."
-      answer: Beef Wellington
-      aliases:
-        - beef wellington
-      reasoning: "beef (big chunk of cow) + Wellington (famous Duke with boots named after him) = Beef Wellington"
+  - number: 1
+    initials: P N
+    clue: Right, there's a cooking vessel, and noodles have been put inside it. But they're not fresh. They're the instant kind. Just add boiling water.
+    answer: Pot Noodle
+    aliases:
+    - pot noodle
+    - pot noodles
+    reasoning: pot (cooking vessel) + noodle (instant noodles) = Pot Noodle
+  - number: 2
+    initials: C P
+    clue: A cottage, right. Small dwelling. And beef has moved in. Mashed potato on top, like a roof. Warm inside.
+    answer: Cottage Pie
+    aliases:
+    - cottage pie
+    reasoning: cottage (small dwelling) + pie (with mashed potato roof) = Cottage Pie
+  - number: 3
+    initials: B W
+    clue: A big chunk of beef, right, and it's gone and wrapped itself up in pastry. Named after a famous Duke. He had boots named after him too. Bit greedy.
+    answer: Beef Wellington
+    aliases:
+    - beef wellington
+    reasoning: beef (big chunk of cow) + Wellington (famous Duke with boots named after him) = Beef Wellington

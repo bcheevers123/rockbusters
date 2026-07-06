@@ -5,34 +5,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Global
-  intro: "Animalbusters. All sea creatures and birds. Say them out loud, don't think too hard about the spelling."
-  prize: "Email in. Winner gets a dolphin-shaped eraser and a laminated bookmark from a gift shop that's probably shut now."
+  - UK
+  - US
+  - Global
+  intro: Animalbusters. All sea creatures and birds. Say them out loud, don't think too hard about the spelling.
+  prize: Email in. Winner gets a dolphin-shaped eraser and a laminated bookmark from a gift shop that's probably shut now.
   clues:
-    - number: 1
-      initials: B W
-      clue: "Right, there's a bloke called Will, and he's covered head to toe in blue paint. Don't know why. That's him."
-      answer: Blue Whale
-      aliases:
-        - blue whale
-      reasoning: "blue (colour, covered in blue) + wail/whale (sounds like Will but long = whale) = Blue Whale. Blue + Will elongated = Blue Whale"
-    - number: 2
-      initials: P
-      clue: "That bloke with the big beak, right, he's got a massive bottom lip like a bucket. Keeps the shopping in there. Bit odd."
-      answer: Pelican
-      aliases:
-        - pelican
-      reasoning: "peli (sounds like belly) + can (a tin) = Pelican. Say it: PELL-ih-can, like a belly-can"
-    - number: 3
-      initials: O
-      clue: "Eight arms, right, and it sounds like you've got eight of something. October's got eight in it somewhere. Sort of works."
-      answer: Octopus
-      aliases:
-        - octopus
-      reasoning: "octo (eight, like October) + pus (sounds like puss, a cat) = Octopus"
-
+  - number: 1
+    initials: B W
+    clue: Right, there's a bloke called Will, and he's covered head to toe in blue paint. Don't know why. That's him.
+    answer: Blue Whale
+    aliases:
+    - blue whale
+    reasoning: blue (colour, covered in blue) + wail/whale (sounds like Will but long = whale) = Blue Whale. Blue + Will elongated = Blue Whale
+  - number: 2
+    initials: P
+    clue: That bloke with the big beak, right, he's got a massive bottom lip like a bucket. Keeps the shopping in there. Bit odd.
+    answer: Pelican
+    aliases:
+    - pelican
+    reasoning: 'peli (sounds like belly) + can (a tin) = Pelican. Say it: PELL-ih-can, like a belly-can'
+  - number: 3
+    initials: O
+    clue: Eight arms, right, and it sounds like you've got eight of something. October's got eight in it somewhere. Sort of works.
+    answer: Octopus
+    aliases:
+    - octopus
+    reasoning: octo (eight, like October) + pus (sounds like puss, a cat) = Octopus
 - id: animalbusters-022
   enabled: true
   title: Animalbusters
@@ -40,34 +39,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Global
-  intro: "More creatures. Some in the sea, some in the sky. All of them phonetic. Off you go."
-  prize: "Email in. Winner gets a Now 47 cassette and a stress ball shaped like a fish."
+  - UK
+  - US
+  - Global
+  intro: More creatures. Some in the sea, some in the sky. All of them phonetic. Off you go.
+  prize: Email in. Winner gets a Now 47 cassette and a stress ball shaped like a fish.
   clues:
-    - number: 1
-      initials: G W S
-      clue: "Right, it's a really impressive ivory-coloured fella going for a swim. Top of his game. Genuinely brilliant at what he does."
-      answer: Great White Shark
-      aliases:
-        - great white shark
-      reasoning: "great (impressive, top of his game) + white (ivory-coloured) + shark (going for a swim in a threatening way) = Great White Shark"
-    - number: 2
-      initials: K F
-      clue: "That king - right proper monarch - he's gone fishing. Caught something too. Sat there on a branch looking well chuffed."
-      answer: Kingfisher
-      aliases:
-        - kingfisher
-      reasoning: "king (monarch) + fisher (one who fishes) = Kingfisher"
-    - number: 3
-      initials: F
-      clue: "Say this one out loud. A group of them are standing in a pond, all pink, doing nothing. Flamey sort of colour. Go on."
-      answer: Flamingo
-      aliases:
-        - flamingo
-      reasoning: "flame (flamey, fiery colour) + ingo (sounds like in-go) = Flamingo. Flame + ingo = Flamingo"
-
+  - number: 1
+    initials: G W S
+    clue: Right, it's a really impressive ivory-coloured fella going for a swim. Top of his game. Genuinely brilliant at what he does.
+    answer: Great White Shark
+    aliases:
+    - great white shark
+    reasoning: great (impressive, top of his game) + white (ivory-coloured) + shark (going for a swim in a threatening way) = Great White Shark
+  - number: 2
+    initials: K F
+    clue: That king - right proper monarch - he's gone fishing. Caught something too. Sat there on a branch looking well chuffed.
+    answer: Kingfisher
+    aliases:
+    - kingfisher
+    reasoning: king (monarch) + fisher (one who fishes) = Kingfisher
+  - number: 3
+    initials: F
+    clue: Say this one out loud. A group of them are standing in a pond, all pink, doing nothing. Flamey sort of colour. Go on.
+    answer: Flamingo
+    aliases:
+    - flamingo
+    reasoning: flame (flamey, fiery colour) + ingo (sounds like in-go) = Flamingo. Flame + ingo = Flamingo
 - id: animalbusters-023
   enabled: true
   title: Animalbusters
@@ -75,34 +73,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Global
-  intro: "Animalbusters continues. Sea and sky, phonetic as ever. Don't overthink it."
-  prize: "Email in. Winner gets a Blockbuster loyalty card and a pelican-themed phone case from a market stall."
+  - UK
+  - US
+  - Global
+  intro: Animalbusters continues. Sea and sky, phonetic as ever. Don't overthink it.
+  prize: Email in. Winner gets a Blockbuster loyalty card and a pelican-themed phone case from a market stall.
   clues:
-    - number: 1
-      initials: H H S
-      clue: "A bloke's gone and balanced a tool for hitting nails on top of his head. Like a hat, but for DIY. Bit impractical."
-      answer: Hammerhead Shark
-      aliases:
-        - hammerhead shark
-      reasoning: "hammer (tool for hitting nails) + head (on top of his head) + shark (the fish) = Hammerhead Shark"
-    - number: 2
-      initials: A
-      clue: "Some fella called Al, right, he's gone completely across the ocean on his own. Massive wingspan. Just off. That's it."
-      answer: Albatross
-      aliases:
-        - albatross
-      reasoning: "Al (fella's name) + ba (sounds like baa, what a sheep says) + tross (sounds like across) = Albatross. Al-ba-tross"
-    - number: 3
-      initials: C
-      clue: "Right, you know that sound a crow makes? That bird's been at the beach all day picking at things. Near enough."
-      answer: Cormorant
-      aliases:
-        - cormorant
-      reasoning: "cor (exclamation, like cor blimey) + more (sounds like mor) + ant (small insect) = Cormorant. Say it: COR-mor-ant"
-
+  - number: 1
+    initials: H H S
+    clue: A bloke's gone and balanced a tool for hitting nails on top of his head. Like a hat, but for DIY. Bit impractical.
+    answer: Hammerhead Shark
+    aliases:
+    - hammerhead shark
+    reasoning: hammer (tool for hitting nails) + head (on top of his head) + shark (the fish) = Hammerhead Shark
+  - number: 2
+    initials: A
+    clue: Some fella called Al, right, he's gone completely across the ocean on his own. Massive wingspan. Just off. That's it.
+    answer: Albatross
+    aliases:
+    - albatross
+    reasoning: Al (fella's name) + ba (sounds like baa, what a sheep says) + tross (sounds like across) = Albatross. Al-ba-tross
+  - number: 3
+    initials: C
+    clue: Right, you know that sound a crow makes? That bird's been at the beach all day picking at things. Near enough.
+    answer: Cormorant
+    aliases:
+    - cormorant
+    reasoning: 'cor (exclamation, like cor blimey) + more (sounds like mor) + ant (small insect) = Cormorant. Say it: COR-mor-ant'
 - id: animalbusters-024
   enabled: true
   title: Animalbusters
@@ -110,33 +107,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - Global
-  intro: "Alright, Animalbusters. Three more. Sea creatures and birds. Say each one out loud before you answer."
-  prize: "Email in. Winner gets an AOL trial disc and a mug that says World's Okayest Birdwatcher."
+  - UK
+  - Global
+  intro: Alright, Animalbusters. Three more. Sea creatures and birds. Say each one out loud before you answer.
+  prize: Email in. Winner gets an AOL trial disc and a mug that says World's Okayest Birdwatcher.
   clues:
-    - number: 1
-      initials: M R
-      clue: "There's a bloke called Ray, right, and he's doing something incredible with his hands. Magical, like a proper showman. Bit flashy."
-      answer: Manta Ray
-      aliases:
-        - manta ray
-      reasoning: "manta (sounds like man-ta, like a man doing something with flair) + Ray (the bloke's name) = Manta Ray"
-    - number: 2
-      initials: P
-      clue: "Me mate's gone and bought a bird for the living room. It's got proper colourful tail feathers and it's just showing off. All day."
-      answer: Peacock
-      aliases:
-        - peacock
-      reasoning: "pea (sounds like pee, the vegetable) + cock (a cockerel, a male bird) = Peacock"
-    - number: 3
-      initials: G
-      clue: "Me nan's got a new candle. She says it smells lovely. Flowers and that. I dunno. It's just a bird in the end."
-      answer: Gannet
-      aliases:
-        - gannet
-      reasoning: "gan (sounds like gran, your nan) + net (a net) = Gannet. Gan-net"
-
+  - number: 1
+    initials: M R
+    clue: There's a bloke called Ray, right, and he's doing something incredible with his hands. Magical, like a proper showman. Bit flashy.
+    answer: Manta Ray
+    aliases:
+    - manta ray
+    reasoning: manta (sounds like man-ta, like a man doing something with flair) + Ray (the bloke's name) = Manta Ray
+  - number: 2
+    initials: P
+    clue: Me mate's gone and bought a bird for the living room. It's got proper colourful tail feathers and it's just showing off. All day.
+    answer: Peacock
+    aliases:
+    - peacock
+    reasoning: pea (sounds like pee, the vegetable) + cock (a cockerel, a male bird) = Peacock
+  - number: 3
+    initials: G
+    clue: Me nan's got a new candle. She says it smells lovely. Flowers and that. I dunno. It's just a bird in the end.
+    answer: Gannet
+    aliases:
+    - gannet
+    reasoning: gan (sounds like gran, your nan) + net (a net) = Gannet. Gan-net
 - id: animalbusters-025
   enabled: true
   title: Animalbusters
@@ -144,36 +140,35 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Global
-  intro: "Right, more Animalbusters. Mix of sea and birds again. Easy enough if you say it out loud."
-  prize: "Email in. Winner gets a Shrek 2 DVD and a promotional pen from a bank that merged with another bank."
+  - UK
+  - US
+  - Global
+  intro: Right, more Animalbusters. Mix of sea and birds again. Easy enough if you say it out loud.
+  prize: Email in. Winner gets a Shrek 2 DVD and a promotional pen from a bank that merged with another bank.
   clues:
-    - number: 1
-      initials: S H
-      clue: "That little horse, right, it's gone vertical. Standing upright in the water, totally dignified about it. Sort of majestic."
-      answer: Sea Horse
-      aliases:
-        - sea horse
-        - seahorse
-      reasoning: "sea (the ocean, water) + horse (a horse, but upright and tiny) = Sea Horse"
-    - number: 2
-      initials: T
-      clue: "Two-can. Like, you've got one tin but you need another. Two of them. That's your bird right there. Say it fast."
-      answer: Toucan
-      aliases:
-        - toucan
-      reasoning: "two (the number 2) + can (a tin) = Toucan. Two-can said fast = Toucan"
-    - number: 3
-      initials: J F
-      clue: "That jelly stuff from a jar, right, and a load of fish swimming about near it. Doesn't quite make sense but the sound does."
-      answer: Jellyfish
-      aliases:
-        - jellyfish
-        - jelly fish
-      reasoning: "jelly (the wobbly stuff) + fish (swimming things) = Jellyfish"
-
+  - number: 1
+    initials: S H
+    clue: That little horse, right, it's gone vertical. Standing upright in the water, totally dignified about it. Sort of majestic.
+    answer: Sea Horse
+    aliases:
+    - sea horse
+    - seahorse
+    reasoning: sea (the ocean, water) + horse (a horse, but upright and tiny) = Sea Horse
+  - number: 2
+    initials: T
+    clue: Two-can. Like, you've got one tin but you need another. Two of them. That's your bird right there. Say it fast.
+    answer: Toucan
+    aliases:
+    - toucan
+    reasoning: two (the number 2) + can (a tin) = Toucan. Two-can said fast = Toucan
+  - number: 3
+    initials: J F
+    clue: That jelly stuff from a jar, right, and a load of fish swimming about near it. Doesn't quite make sense but the sound does.
+    answer: Jellyfish
+    aliases:
+    - jellyfish
+    - jelly fish
+    reasoning: jelly (the wobbly stuff) + fish (swimming things) = Jellyfish
 - id: animalbusters-026
   enabled: true
   title: Animalbusters
@@ -181,35 +176,34 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Global
-  intro: "Animalbusters. All about things with fins, feathers, or tentacles. Over to you."
-  prize: "Email in. Winner gets a complimentary bottle opener from a trade show and a 2003 calendar with birds on it."
+  - UK
+  - US
+  - Global
+  intro: Animalbusters. All about things with fins, feathers, or tentacles. Over to you.
+  prize: Email in. Winner gets a complimentary bottle opener from a trade show and a 2003 calendar with birds on it.
   clues:
-    - number: 1
-      initials: B D
-      clue: "Right, there's a bottle, yeah, and a fella's got his nose right in the end of it. Like he's sniffing it. That's your creature."
-      answer: Bottlenose Dolphin
-      aliases:
-        - bottlenose dolphin
-      reasoning: "bottle (a bottle) + nose (a nose, sniffing it) + dol (sounds like dole) + fin (a fin) = Bottlenose Dolphin"
-    - number: 2
-      initials: H B
-      clue: "That tiny little bird, right, it hums. Not singing, just humming. Like it's heard a tune and can't quite remember the words."
-      answer: Hummingbird
-      aliases:
-        - hummingbird
-        - humming bird
-      reasoning: "humming (making a hum sound, not remembering words) + bird (a bird) = Hummingbird"
-    - number: 3
-      initials: L
-      clue: "Some fella called Rob, he's in the sea, and he's got enormous claws. Just sitting on the seabed looking menacing. Alright?"
-      answer: Lobster
-      aliases:
-        - lobster
-      reasoning: "lob (to throw, or sounds like Rob) + ster (sounds like star) = Lobster. Lob-ster"
-
+  - number: 1
+    initials: B D
+    clue: Right, there's a bottle, yeah, and a fella's got his nose right in the end of it. Like he's sniffing it. That's your creature.
+    answer: Bottlenose Dolphin
+    aliases:
+    - bottlenose dolphin
+    reasoning: bottle (a bottle) + nose (a nose, sniffing it) + dol (sounds like dole) + fin (a fin) = Bottlenose Dolphin
+  - number: 2
+    initials: H B
+    clue: That tiny little bird, right, it hums. Not singing, just humming. Like it's heard a tune and can't quite remember the words.
+    answer: Hummingbird
+    aliases:
+    - hummingbird
+    - humming bird
+    reasoning: humming (making a hum sound, not remembering words) + bird (a bird) = Hummingbird
+  - number: 3
+    initials: L
+    clue: Some fella called Rob, he's in the sea, and he's got enormous claws. Just sitting on the seabed looking menacing. Alright?
+    answer: Lobster
+    aliases:
+    - lobster
+    reasoning: lob (to throw, or sounds like Rob) + ster (sounds like star) = Lobster. Lob-ster
 - id: animalbusters-027
   enabled: true
   title: Animalbusters
@@ -217,34 +211,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Global
-  intro: "Three more from under the sea or up in the sky. Phonetic as ever. Say them out loud."
-  prize: "Email in. Winner gets a printed photo of a seagull taken on a disposable camera, framed."
+  - UK
+  - US
+  - Global
+  intro: Three more from under the sea or up in the sky. Phonetic as ever. Say them out loud.
+  prize: Email in. Winner gets a printed photo of a seagull taken on a disposable camera, framed.
   clues:
-    - number: 1
-      initials: S
-      clue: "That bloke who went squidging everything at the market - all soft and wobbly. Left ink everywhere. Nobody liked him."
-      answer: Squid
-      aliases:
-        - squid
-      reasoning: "squid (sounds like squid-ge, to squidgy something soft) = Squid. The word is its own phonetic self"
-    - number: 2
-      initials: P
-      clue: "A bird's gone and flown into some kind of cage or container - like a prison but for poultry. Bright colours. Talks back."
-      answer: Parrot
-      aliases:
-        - parrot
-      reasoning: "par (sounds like pair, or par in golf) + rot (something going off, decaying) = Parrot. Par-rot"
-    - number: 3
-      initials: P
-      clue: "Right, it's a small black and white bird, lives up north in cold places, looks like it's dressed for work. Sort of smart but also silly."
-      answer: Puffin
-      aliases:
-        - puffin
-      reasoning: "puff (to puff, like blowing out air) + in (inside) = Puffin. Puff-in"
-
+  - number: 1
+    initials: S
+    clue: That bloke who went squidging everything at the market - all soft and wobbly. Left ink everywhere. Nobody liked him.
+    answer: Squid
+    aliases:
+    - squid
+    reasoning: squid (sounds like squid-ge, to squidgy something soft) = Squid. The word is its own phonetic self
+  - number: 2
+    initials: P
+    clue: A bird's gone and flown into some kind of cage or container - like a prison but for poultry. Bright colours. Talks back.
+    answer: Parrot
+    aliases:
+    - parrot
+    reasoning: par (sounds like pair, or par in golf) + rot (something going off, decaying) = Parrot. Par-rot
+  - number: 3
+    initials: P
+    clue: Right, it's a small black and white bird, lives up north in cold places, looks like it's dressed for work. Sort of smart but also silly.
+    answer: Puffin
+    aliases:
+    - puffin
+    reasoning: puff (to puff, like blowing out air) + in (inside) = Puffin. Puff-in
 - id: animalbusters-028
   enabled: true
   title: Animalbusters
@@ -252,34 +245,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Global
-  intro: "Animalbusters again. Fins and feathers, phonetic riddles. Off you go then."
-  prize: "Email in. Winner gets a DVD copy of Finding Nemo and a fish-shaped stress toy from an aquarium gift shop."
+  - UK
+  - US
+  - Global
+  intro: Animalbusters again. Fins and feathers, phonetic riddles. Off you go then.
+  prize: Email in. Winner gets a DVD copy of Finding Nemo and a fish-shaped stress toy from an aquarium gift shop.
   clues:
-    - number: 1
-      initials: C
-      clue: "Easy this. Something's gone sideways - proper crabby about it too. Scuttling off in completely the wrong direction. That's them."
-      answer: Crab
-      aliases:
-        - crab
-      reasoning: "crab (sounds like crab-by, to be crabby or cross) = Crab. The word is phonetically self-contained"
-    - number: 2
-      initials: M
-      clue: "Right, there's a bird, and it's the most flashy tropical one you've ever seen. Sounds like it should be flying over the Amazon."
-      answer: Macaw
-      aliases:
-        - macaw
-      reasoning: "ma (sounds like mah, like your mum saying something) + caw (the sound a crow makes) = Macaw. Ma-caw"
-    - number: 3
-      initials: O
-      clue: "That mouth area in your shell, right - it's gone and made something valuable in there. All shiny. Takes ages apparently."
-      answer: Oyster
-      aliases:
-        - oyster
-      reasoning: "oy (like oi, exclamation) + ster (sounds like star) = Oyster. Oy-ster"
-
+  - number: 1
+    initials: C
+    clue: Easy this. Something's gone sideways - proper crabby about it too. Scuttling off in completely the wrong direction. That's them.
+    answer: Crab
+    aliases:
+    - crab
+    reasoning: crab (sounds like crab-by, to be crabby or cross) = Crab. The word is phonetically self-contained
+  - number: 2
+    initials: M
+    clue: Right, there's a bird, and it's the most flashy tropical one you've ever seen. Sounds like it should be flying over the Amazon.
+    answer: Macaw
+    aliases:
+    - macaw
+    reasoning: ma (sounds like mah, like your mum saying something) + caw (the sound a crow makes) = Macaw. Ma-caw
+  - number: 3
+    initials: O
+    clue: That mouth area in your shell, right - it's gone and made something valuable in there. All shiny. Takes ages apparently.
+    answer: Oyster
+    aliases:
+    - oyster
+    reasoning: oy (like oi, exclamation) + ster (sounds like star) = Oyster. Oy-ster
 - id: animalbusters-029
   enabled: true
   title: Animalbusters
@@ -287,34 +279,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Global
-  intro: "Right, Animalbusters. You know how this works by now. Say it out loud."
-  prize: "Email in. Winner gets a tote bag from a museum and a miniature bottle of Worcestershire sauce."
+  - UK
+  - US
+  - Global
+  intro: Right, Animalbusters. You know how this works by now. Say it out loud.
+  prize: Email in. Winner gets a tote bag from a museum and a miniature bottle of Worcestershire sauce.
   clues:
-    - number: 1
-      initials: G W S
-      clue: "Massive thing in the ocean, right, and it's truly outstanding at its job. White as anything. Not to be messed with."
-      answer: Great White Shark
-      aliases:
-        - great white shark
-      reasoning: "great (outstanding, brilliant) + white (white-coloured) + shark (ocean predator) = Great White Shark"
-    - number: 2
-      initials: P
-      clue: "Me gran's got a bird in her garden. It keeps turning up, very reliable, making that same cooing sound over and over. Devotion."
-      answer: Pigeon
-      aliases:
-        - pigeon
-      reasoning: "pig (an animal, also slang) + eon (a very long time) = Pigeon. Pig-eon"
-    - number: 3
-      initials: A
-      clue: "That famous fella from a film, Al, he's crossing something - maybe the road, maybe the sea. Big wingspan, very determined."
-      answer: Albatross
-      aliases:
-        - albatross
-      reasoning: "Al (name) + ba (baa sound) + tross (across without the ac) = Albatross"
-
+  - number: 1
+    initials: G W S
+    clue: Massive thing in the ocean, right, and it's truly outstanding at its job. White as anything. Not to be messed with.
+    answer: Great White Shark
+    aliases:
+    - great white shark
+    reasoning: great (outstanding, brilliant) + white (white-coloured) + shark (ocean predator) = Great White Shark
+  - number: 2
+    initials: P
+    clue: Me gran's got a bird in her garden. It keeps turning up, very reliable, making that same cooing sound over and over. Devotion.
+    answer: Pigeon
+    aliases:
+    - pigeon
+    reasoning: pig (an animal, also slang) + eon (a very long time) = Pigeon. Pig-eon
+  - number: 3
+    initials: A
+    clue: That famous fella from a film, Al, he's crossing something - maybe the road, maybe the sea. Big wingspan, very determined.
+    answer: Albatross
+    aliases:
+    - albatross
+    reasoning: Al (name) + ba (baa sound) + tross (across without the ac) = Albatross
 - id: animalbusters-030
   enabled: true
   title: Animalbusters
@@ -322,35 +313,34 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Global
-  intro: "Animalbusters. Three more phonetic creatures. Think sounds not spelling."
-  prize: "Email in. Winner gets a Garfield pencil case and a foam hand from a sporting event that wasn't very good."
+  - UK
+  - US
+  - Global
+  intro: Animalbusters. Three more phonetic creatures. Think sounds not spelling.
+  prize: Email in. Winner gets a Garfield pencil case and a foam hand from a sporting event that wasn't very good.
   clues:
-    - number: 1
-      initials: S
-      clue: "Right, something's been squeezed - all the ink's come out and it's made a right mess. Eight arms, probably."
-      answer: Squid
-      aliases:
-        - squid
-      reasoning: "squid (the act of squidging = squeezing) = Squid"
-    - number: 2
-      initials: S H
-      clue: "The ocean's got a small horse in it, swimming upright, not making a fuss. Just getting on with it. Sort of admirable."
-      answer: Sea Horse
-      aliases:
-        - seahorse
-        - sea horse
-      reasoning: "sea (the ocean) + horse (a horse, but tiny) = Sea Horse"
-    - number: 3
-      initials: K F
-      clue: "Alright, the king of this establishment has gone fishing. Caught one an' all. Sitting by the river looking very pleased."
-      answer: Kingfisher
-      aliases:
-        - kingfisher
-      reasoning: "king (a king, ruler) + fisher (someone who fishes) = Kingfisher"
-
+  - number: 1
+    initials: S
+    clue: Right, something's been squeezed - all the ink's come out and it's made a right mess. Eight arms, probably.
+    answer: Squid
+    aliases:
+    - squid
+    reasoning: squid (the act of squidging = squeezing) = Squid
+  - number: 2
+    initials: S H
+    clue: The ocean's got a small horse in it, swimming upright, not making a fuss. Just getting on with it. Sort of admirable.
+    answer: Sea Horse
+    aliases:
+    - seahorse
+    - sea horse
+    reasoning: sea (the ocean) + horse (a horse, but tiny) = Sea Horse
+  - number: 3
+    initials: K F
+    clue: Alright, the king of this establishment has gone fishing. Caught one an' all. Sitting by the river looking very pleased.
+    answer: Kingfisher
+    aliases:
+    - kingfisher
+    reasoning: king (a king, ruler) + fisher (someone who fishes) = Kingfisher
 - id: animalbusters-031
   enabled: true
   title: Animalbusters
@@ -358,34 +348,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Global
-  intro: "Still going with the creatures. Sea and sky. Don't let the easy ones trip you up."
-  prize: "Email in. Winner gets a scratched Coldplay CD and a miniature lighthouse from a seaside market."
+  - UK
+  - US
+  - Global
+  intro: Still going with the creatures. Sea and sky. Don't let the easy ones trip you up.
+  prize: Email in. Winner gets a scratched Coldplay CD and a miniature lighthouse from a seaside market.
   clues:
-    - number: 1
-      initials: M R
-      clue: "Some magician fella called Ray is doing tricks under the sea. Big flat hands, very dramatic about it all."
-      answer: Manta Ray
-      aliases:
-        - manta ray
-      reasoning: "manta (man + ta, like a magician's assistant saying ta-da) + Ray (the name) = Manta Ray"
-    - number: 2
-      initials: P
-      clue: "Two birds have got themselves into a proper fight - a real scrap. One of 'em started it, the other's just reacting."
-      answer: Parrot
-      aliases:
-        - parrot
-      reasoning: "par (like pair, two of something) + rot (going off, a scrap or row) = Parrot"
-    - number: 3
-      initials: B D
-      clue: "There's a glass container, right, and its nose end is all pointy. It's leapt out of the water looking very pleased with itself."
-      answer: Bottlenose Dolphin
-      aliases:
-        - bottlenose dolphin
-      reasoning: "bottle (glass container) + nose (pointy nose end) + dolphin (leaping from water) = Bottlenose Dolphin"
-
+  - number: 1
+    initials: M R
+    clue: Some magician fella called Ray is doing tricks under the sea. Big flat hands, very dramatic about it all.
+    answer: Manta Ray
+    aliases:
+    - manta ray
+    reasoning: manta (man + ta, like a magician's assistant saying ta-da) + Ray (the name) = Manta Ray
+  - number: 2
+    initials: P
+    clue: Two birds have got themselves into a proper fight - a real scrap. One of 'em started it, the other's just reacting.
+    answer: Parrot
+    aliases:
+    - parrot
+    reasoning: par (like pair, two of something) + rot (going off, a scrap or row) = Parrot
+  - number: 3
+    initials: B D
+    clue: There's a glass container, right, and its nose end is all pointy. It's leapt out of the water looking very pleased with itself.
+    answer: Bottlenose Dolphin
+    aliases:
+    - bottlenose dolphin
+    reasoning: bottle (glass container) + nose (pointy nose end) + dolphin (leaping from water) = Bottlenose Dolphin
 - id: animalbusters-032
   enabled: true
   title: Animalbusters
@@ -393,34 +382,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Global
-  intro: "Animalbusters. Three clues, all sea or sky. Phonetics only, no spelling. Go on then."
-  prize: "Email in. Winner gets a laminated map of the ocean floor and a souvenir spoon from a place nobody's heard of."
+  - UK
+  - US
+  - Global
+  intro: Animalbusters. Three clues, all sea or sky. Phonetics only, no spelling. Go on then.
+  prize: Email in. Winner gets a laminated map of the ocean floor and a souvenir spoon from a place nobody's heard of.
   clues:
-    - number: 1
-      initials: H B
-      clue: "Tiny little thing, it's making a noise but not a proper tune. Just a sort of vibrating hum while it works. Never stops."
-      answer: Hummingbird
-      aliases:
-        - hummingbird
-      reasoning: "humming (vibrating hum sound) + bird (a bird) = Hummingbird"
-    - number: 2
-      initials: J F
-      clue: "That wobbly transparent thing in the water, right, it drifts. Doesn't go anywhere in particular. Just floating about. Good for nothing."
-      answer: Jellyfish
-      aliases:
-        - jellyfish
-      reasoning: "jelly (wobbly transparent stuff) + fish (a fish, sort of) = Jellyfish"
-    - number: 3
-      initials: C
-      clue: "Right, some bloke's been well grumpy all day - couldn't find his keys, train was late, all of that. Sideways personality on him."
-      answer: Cormorant
-      aliases:
-        - cormorant
-      reasoning: "cor (exclamation, like cor blimey) + more (more of something) + ant (tiny insect) = Cormorant. Say it: COR-mor-ant"
-
+  - number: 1
+    initials: H B
+    clue: Tiny little thing, it's making a noise but not a proper tune. Just a sort of vibrating hum while it works. Never stops.
+    answer: Hummingbird
+    aliases:
+    - hummingbird
+    reasoning: humming (vibrating hum sound) + bird (a bird) = Hummingbird
+  - number: 2
+    initials: J F
+    clue: That wobbly transparent thing in the water, right, it drifts. Doesn't go anywhere in particular. Just floating about. Good for nothing.
+    answer: Jellyfish
+    aliases:
+    - jellyfish
+    reasoning: jelly (wobbly transparent stuff) + fish (a fish, sort of) = Jellyfish
+  - number: 3
+    initials: C
+    clue: Right, some bloke's been well grumpy all day - couldn't find his keys, train was late, all of that. Sideways personality on him.
+    answer: Cormorant
+    aliases:
+    - cormorant
+    reasoning: 'cor (exclamation, like cor blimey) + more (more of something) + ant (tiny insect) = Cormorant. Say it: COR-mor-ant'
 - id: animalbusters-033
   enabled: true
   title: Animalbusters
@@ -428,34 +416,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Global
-  intro: "Three more Animalbusters. All fins or feathers. You know the drill."
-  prize: "Email in. Winner gets a Boots Advantage Card with twelve points on it and a complimentary lanyard."
+  - UK
+  - US
+  - Global
+  intro: Three more Animalbusters. All fins or feathers. You know the drill.
+  prize: Email in. Winner gets a Boots Advantage Card with twelve points on it and a complimentary lanyard.
   clues:
-    - number: 1
-      initials: O
-      clue: "Right, there's eight of these things, all arms, sitting in a pot. Sounds like a number from Latin, and the pot's important."
-      answer: Octopus
-      aliases:
-        - octopus
-      reasoning: "octo (Latin for eight, like October) + pus (sounds like puss, a cat, or the pot) = Octopus"
-    - number: 2
-      initials: F
-      clue: "That bird, right, it's standing in shallow water on one leg, looking pink and dramatic. Very flashy. Like it's on the telly."
-      answer: Flamingo
-      aliases:
-        - flamingo
-      reasoning: "flame (fire, flamey) + in (inside, going in) + go (to go, to leave) = Flamingo. Flame-in-go"
-    - number: 3
-      initials: G
-      clue: "That seabird at the coast, mate - it'll eat your chips if you're not quick. Absolute gannet. There's a clue in that somewhere."
-      answer: Gannet
-      aliases:
-        - gannet
-      reasoning: "gan (sounds like gone) + net (a net, for fishing) = Gannet"
-
+  - number: 1
+    initials: O
+    clue: Right, there's eight of these things, all arms, sitting in a pot. Sounds like a number from Latin, and the pot's important.
+    answer: Octopus
+    aliases:
+    - octopus
+    reasoning: octo (Latin for eight, like October) + pus (sounds like puss, a cat, or the pot) = Octopus
+  - number: 2
+    initials: F
+    clue: That bird, right, it's standing in shallow water on one leg, looking pink and dramatic. Very flashy. Like it's on the telly.
+    answer: Flamingo
+    aliases:
+    - flamingo
+    reasoning: flame (fire, flamey) + in (inside, going in) + go (to go, to leave) = Flamingo. Flame-in-go
+  - number: 3
+    initials: G
+    clue: That seabird at the coast, mate - it'll eat your chips if you're not quick. Absolute gannet. There's a clue in that somewhere.
+    answer: Gannet
+    aliases:
+    - gannet
+    reasoning: gan (sounds like gone) + net (a net, for fishing) = Gannet
 - id: animalbusters-034
   enabled: true
   title: Animalbusters
@@ -463,34 +450,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Global
-  intro: "Alright, Animalbusters. More sea and sky creatures. Phonetics, not spelling. Easy when you hear it."
-  prize: "Email in. Winner gets a 2002 wildlife calendar and a disposable rain poncho still in the packet."
+  - UK
+  - US
+  - Global
+  intro: Alright, Animalbusters. More sea and sky creatures. Phonetics, not spelling. Easy when you hear it.
+  prize: Email in. Winner gets a 2002 wildlife calendar and a disposable rain poncho still in the packet.
   clues:
-    - number: 1
-      initials: P
-      clue: "Right, a small lad's gone up to the Arctic. Cold, black and white, looks like it's wearing a tiny suit. Very formal for a bird."
-      answer: Puffin
-      aliases:
-        - puffin
-      reasoning: "puff (a puff of air or smoke) + in (going in somewhere cold) = Puffin"
-    - number: 2
-      initials: L
-      clue: "Some fella's lobbed something into the sea - just launched it in there. It's got massive claws and it's boiling hot now."
-      answer: Lobster
-      aliases:
-        - lobster
-      reasoning: "lob (to lob, to throw) + ster (sounds like star, or -ster suffix) = Lobster"
-    - number: 3
-      initials: T
-      clue: "Two tins of something. You've got one and I've got one. That's two cans. That's your colourful tropical bird sorted."
-      answer: Toucan
-      aliases:
-        - toucan
-      reasoning: "two (the number 2) + can (a tin, a can) = Toucan. Say it fast: two-can"
-
+  - number: 1
+    initials: P
+    clue: Right, a small lad's gone up to the Arctic. Cold, black and white, looks like it's wearing a tiny suit. Very formal for a bird.
+    answer: Puffin
+    aliases:
+    - puffin
+    reasoning: puff (a puff of air or smoke) + in (going in somewhere cold) = Puffin
+  - number: 2
+    initials: L
+    clue: Some fella's lobbed something into the sea - just launched it in there. It's got massive claws and it's boiling hot now.
+    answer: Lobster
+    aliases:
+    - lobster
+    reasoning: lob (to lob, to throw) + ster (sounds like star, or -ster suffix) = Lobster
+  - number: 3
+    initials: T
+    clue: Two tins of something. You've got one and I've got one. That's two cans. That's your colourful tropical bird sorted.
+    answer: Toucan
+    aliases:
+    - toucan
+    reasoning: 'two (the number 2) + can (a tin, a can) = Toucan. Say it fast: two-can'
 - id: animalbusters-035
   enabled: true
   title: Animalbusters
@@ -498,34 +484,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Global
-  intro: "Animalbusters is back. All things with gills or beaks. Say the clue out loud."
-  prize: "Email in. Winner gets a seagull fridge magnet and a packet of Value digestives from a service station."
+  - UK
+  - US
+  - Global
+  intro: Animalbusters is back. All things with gills or beaks. Say the clue out loud.
+  prize: Email in. Winner gets a seagull fridge magnet and a packet of Value digestives from a service station.
   clues:
-    - number: 1
-      initials: H H S
-      clue: "That DIY tool for bashing nails - it's got a giant version of itself on top of its own head. Bit weird, but there it is."
-      answer: Hammerhead Shark
-      aliases:
-        - hammerhead shark
-      reasoning: "hammer (DIY tool for nails) + head (on top of its head) + shark (the creature) = Hammerhead Shark"
-    - number: 2
-      initials: P
-      clue: "That king of the garden birds, right, massive tail, all fanned out, well pleased with himself. Showing off at a wedding."
-      answer: Peacock
-      aliases:
-        - peacock
-      reasoning: "pea (the vegetable, a pea) + cock (a cockerel, a male bird) = Peacock"
-    - number: 3
-      initials: O
-      clue: "She's got a pearl inside her, sitting on the sea floor, very pleased about it. Fancy restaurant territory, this one."
-      answer: Oyster
-      aliases:
-        - oyster
-      reasoning: "oy (exclamation, like oi or oy vey) + ster (sounds like -ster) = Oyster"
-
+  - number: 1
+    initials: H H S
+    clue: That DIY tool for bashing nails - it's got a giant version of itself on top of its own head. Bit weird, but there it is.
+    answer: Hammerhead Shark
+    aliases:
+    - hammerhead shark
+    reasoning: hammer (DIY tool for nails) + head (on top of its head) + shark (the creature) = Hammerhead Shark
+  - number: 2
+    initials: P
+    clue: That king of the garden birds, right, massive tail, all fanned out, well pleased with himself. Showing off at a wedding.
+    answer: Peacock
+    aliases:
+    - peacock
+    reasoning: pea (the vegetable, a pea) + cock (a cockerel, a male bird) = Peacock
+  - number: 3
+    initials: O
+    clue: She's got a pearl inside her, sitting on the sea floor, very pleased about it. Fancy restaurant territory, this one.
+    answer: Oyster
+    aliases:
+    - oyster
+    reasoning: oy (exclamation, like oi or oy vey) + ster (sounds like -ster) = Oyster
 - id: animalbusters-036
   enabled: true
   title: Animalbusters
@@ -533,34 +518,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Global
-  intro: "Right then. Three more Animalbusters. Creatures from sea and sky. You're getting good at this."
-  prize: "Email in. Winner gets a Tamagotchi with flat batteries and a flyer from an aquarium that closed in 2009."
+  - UK
+  - US
+  - Global
+  intro: Right then. Three more Animalbusters. Creatures from sea and sky. You're getting good at this.
+  prize: Email in. Winner gets a Tamagotchi with flat batteries and a flyer from an aquarium that closed in 2009.
   clues:
-    - number: 1
-      initials: B W
-      clue: "The biggest thing in the ocean, and it's absolutely freezing - made of cold colour, just massive and slow. Drifting about."
-      answer: Blue Whale
-      aliases:
-        - blue whale
-      reasoning: "blue (cold colour, blue with cold) + whale (massive ocean creature) = Blue Whale"
-    - number: 2
-      initials: M
-      clue: "A crow's gone to the shops - said its mum needed something. Makes a cawing sound, tropical colours, lives in the rainforest."
-      answer: Macaw
-      aliases:
-        - macaw
-      reasoning: "ma (sounds like mum, ma) + caw (the sound a crow makes) = Macaw. Ma-caw"
-    - number: 3
-      initials: C
-      clue: "There's a bloke, right, and he's gone sideways. Not fallen over, just moving sideways on purpose. Bit stubborn about it."
-      answer: Crab
-      aliases:
-        - crab
-      reasoning: "crab (to crab, to move sideways, to be crabby) = Crab"
-
+  - number: 1
+    initials: B W
+    clue: The biggest thing in the ocean, and it's absolutely freezing - made of cold colour, just massive and slow. Drifting about.
+    answer: Blue Whale
+    aliases:
+    - blue whale
+    reasoning: blue (cold colour, blue with cold) + whale (massive ocean creature) = Blue Whale
+  - number: 2
+    initials: M
+    clue: A crow's gone to the shops - said its mum needed something. Makes a cawing sound, tropical colours, lives in the rainforest.
+    answer: Macaw
+    aliases:
+    - macaw
+    reasoning: ma (sounds like mum, ma) + caw (the sound a crow makes) = Macaw. Ma-caw
+  - number: 3
+    initials: C
+    clue: There's a bloke, right, and he's gone sideways. Not fallen over, just moving sideways on purpose. Bit stubborn about it.
+    answer: Crab
+    aliases:
+    - crab
+    reasoning: crab (to crab, to move sideways, to be crabby) = Crab
 - id: animalbusters-037
   enabled: true
   title: Animalbusters
@@ -568,34 +552,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Global
-  intro: "Nearly there with the creatures. Three more sea and sky phonetics. Go on."
-  prize: "Email in. Winner gets a National Trust leaflet and a bird feeder that was never assembled."
+  - UK
+  - US
+  - Global
+  intro: Animalbusters. Three more sea and sky phonetics. Go on.
+  prize: Email in. Winner gets a National Trust leaflet and a bird feeder that was never assembled.
   clues:
-    - number: 1
-      initials: A
-      clue: "Right, long journey over the ocean, big wingspan, never seems to land. Al's gone off again. Said he'd be back by Thursday."
-      answer: Albatross
-      aliases:
-        - albatross
-      reasoning: "Al (name) + ba (baa, sheep) + tross (sounds like across) = Albatross. Al-ba-tross"
-    - number: 2
-      initials: S
-      clue: "Someone at the fishmonger's squashed everything in that tray. Ink everywhere. Eight arms worth. Took ages to clean up."
-      answer: Squid
-      aliases:
-        - squid
-      reasoning: "squid (squidge = to squash, squid sounds like you've squidged something) = Squid"
-    - number: 3
-      initials: P
-      clue: "Big pouchy beak, stands by the water, catches fish in that bag under its chin. Bit smug about the whole operation."
-      answer: Pelican
-      aliases:
-        - pelican
-      reasoning: "peli (sounds like pelly, the belly) + can (a tin, a can) = Pelican"
-
+  - number: 1
+    initials: A
+    clue: Right, long journey over the ocean, big wingspan, never seems to land. Al's gone off again. Said he'd be back by Thursday.
+    answer: Albatross
+    aliases:
+    - albatross
+    reasoning: Al (name) + ba (baa, sheep) + tross (sounds like across) = Albatross. Al-ba-tross
+  - number: 2
+    initials: S
+    clue: Someone at the fishmonger's squashed everything in that tray. Ink everywhere. Eight arms worth. Took ages to clean up.
+    answer: Squid
+    aliases:
+    - squid
+    reasoning: squid (squidge = to squash, squid sounds like you've squidged something) = Squid
+  - number: 3
+    initials: P
+    clue: Big pouchy beak, stands by the water, catches fish in that bag under its chin. Bit smug about the whole operation.
+    answer: Pelican
+    aliases:
+    - pelican
+    reasoning: peli (sounds like pelly, the belly) + can (a tin, a can) = Pelican
 - id: animalbusters-038
   enabled: true
   title: Animalbusters
@@ -603,35 +586,34 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Global
-  intro: "Two more sets to go. Animalbusters, sea and sky. You know how this works."
-  prize: "Email in. Winner gets an old BT phonebook and a tropical bird poster from a travel agent that no longer exists."
+  - UK
+  - US
+  - Global
+  intro: Animalbusters. Sea creatures and birds hiding in the sounds. You know how this works.
+  prize: Email in. Winner gets an old BT phonebook and a tropical bird poster from a travel agent that no longer exists.
   clues:
-    - number: 1
-      initials: S H
-      clue: "The ocean's got a horse in it again. Upright, vertical, just swimming about with its snout in the current. Normal Tuesday."
-      answer: Sea Horse
-      aliases:
-        - seahorse
-        - sea horse
-      reasoning: "sea (the ocean) + horse (a horse but vertical and tiny) = Sea Horse"
-    - number: 2
-      initials: H B
-      clue: "Smallest bird you'll find, right, and it's just vibrating. Wings going so fast you can't see them. Makes a noise like an engine warming up."
-      answer: Hummingbird
-      aliases:
-        - hummingbird
-      reasoning: "humming (making a hum, vibrating sound) + bird (it's a bird) = Hummingbird"
-    - number: 3
-      initials: G W S
-      clue: "It's phenomenal, this thing. Totally white, absolutely massive, best in the sea at what it does. Don't go in the water."
-      answer: Great White Shark
-      aliases:
-        - great white shark
-      reasoning: "great (phenomenal, best at its job) + white (white-coloured) + shark (sea predator) = Great White Shark"
-
+  - number: 1
+    initials: S H
+    clue: The ocean's got a horse in it again. Upright, vertical, just swimming about with its snout in the current. Normal Tuesday.
+    answer: Sea Horse
+    aliases:
+    - seahorse
+    - sea horse
+    reasoning: sea (the ocean) + horse (a horse but vertical and tiny) = Sea Horse
+  - number: 2
+    initials: H B
+    clue: Smallest bird you'll find, right, and it's just vibrating. Wings going so fast you can't see them. Makes a noise like an engine warming up.
+    answer: Hummingbird
+    aliases:
+    - hummingbird
+    reasoning: humming (making a hum, vibrating sound) + bird (it's a bird) = Hummingbird
+  - number: 3
+    initials: G W S
+    clue: It's phenomenal, this thing. Totally white, absolutely massive, best in the sea at what it does. Don't go in the water.
+    answer: Great White Shark
+    aliases:
+    - great white shark
+    reasoning: great (phenomenal, best at its job) + white (white-coloured) + shark (sea predator) = Great White Shark
 - id: animalbusters-039
   enabled: true
   title: Animalbusters
@@ -639,34 +621,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Global
-  intro: "Penultimate Animalbusters. Nearly finished. Three more sea and sky creatures."
-  prize: "Email in. Winner gets a crumpled Interrail map and a badge from a wildlife park that's become a retail park."
+  - UK
+  - US
+  - Global
+  intro: Animalbusters. Three more sea and sky creatures hiding in the sounds. Say each one out loud.
+  prize: Email in. Winner gets a crumpled Interrail map and a badge from a wildlife park that's become a retail park.
   clues:
-    - number: 1
-      initials: O
-      clue: "All eight of its arms are reaching into a cooking pot. Sounds like a Roman number at the start. Say it out loud."
-      answer: Octopus
-      aliases:
-        - octopus
-      reasoning: "octo (Latin for eight, like in octagon) + pus (sounds like puss, a cat, or think of the pot) = Octopus"
-    - number: 2
-      initials: P
-      clue: "That colourful thing in the cage, right, keeps repeating everything you say back at you. Par for the course with those birds."
-      answer: Parrot
-      aliases:
-        - parrot
-      reasoning: "par (par for the course, a par in golf, pair) + rot (going off, nonsense talk) = Parrot"
-    - number: 3
-      initials: C
-      clue: "There's a bird that dives into the sea and comes up with fish. Goes all black and sleek. Spreads its wings out to dry after. Fair enough."
-      answer: Cormorant
-      aliases:
-        - cormorant
-      reasoning: "cor (cor blimey, an exclamation) + mor (sounds like more) + ant (a tiny ant insect) = Cormorant"
-
+  - number: 1
+    initials: O
+    clue: All eight of its arms are reaching into a cooking pot. Sounds like a Roman number at the start. Say it out loud.
+    answer: Octopus
+    aliases:
+    - octopus
+    reasoning: octo (Latin for eight, like in octagon) + pus (sounds like puss, a cat, or think of the pot) = Octopus
+  - number: 2
+    initials: P
+    clue: That colourful thing in the cage, right, keeps repeating everything you say back at you. Par for the course with those birds.
+    answer: Parrot
+    aliases:
+    - parrot
+    reasoning: par (par for the course, a par in golf, pair) + rot (going off, nonsense talk) = Parrot
+  - number: 3
+    initials: C
+    clue: There's a bird that dives into the sea and comes up with fish. Goes all black and sleek. Spreads its wings out to dry after. Fair enough.
+    answer: Cormorant
+    aliases:
+    - cormorant
+    reasoning: cor (cor blimey, an exclamation) + mor (sounds like more) + ant (a tiny ant insect) = Cormorant
 - id: animalbusters-040
   enabled: true
   title: Animalbusters
@@ -674,30 +655,30 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-    - Global
-  intro: "Last one. Final Animalbusters of this batch. Sea creatures and birds. Finish strong."
-  prize: "Email in. Winner gets a commemorative tin of biscuits from a royal occasion and a seabird identification leaflet."
+  - UK
+  - US
+  - Global
+  intro: Animalbusters. Sea creatures and birds hiding in the phonetic clues. Say each one out loud.
+  prize: Email in. Winner gets a commemorative tin of biscuits from a royal occasion and a seabird identification leaflet.
   clues:
-    - number: 1
-      initials: F
-      clue: "Right, that pink tropical bird standing on one leg in a lagoon - it's the colour of a sunset and looks like it's modelling. Dramatic about it."
-      answer: Flamingo
-      aliases:
-        - flamingo
-      reasoning: "flame (flamey colour, sunset pink) + in (going in somewhere) + go (to go) = Flamingo. Flame-in-go"
-    - number: 2
-      initials: J F
-      clue: "Wobbly. Transparent. Drifting. Stings you if you're unlucky. Not quite a fish, not quite anything. Just sort of there in the water."
-      answer: Jellyfish
-      aliases:
-        - jellyfish
-      reasoning: "jelly (wobbly transparent stuff, like the thing in a jar) + fish (a fish, loosely) = Jellyfish"
-    - number: 3
-      initials: B D
-      clue: "Last one. A glass container's been given a very long pointy nose. It's jumped out of the sea doing tricks and everyone clapped."
-      answer: Bottlenose Dolphin
-      aliases:
-        - bottlenose dolphin
-      reasoning: "bottle (a glass container) + nose (a long pointy nose) + dolphin (leaping sea mammal doing tricks) = Bottlenose Dolphin"
+  - number: 1
+    initials: F
+    clue: Right, that pink tropical bird standing on one leg in a lagoon - it's the colour of a sunset and looks like it's modelling. Dramatic about it.
+    answer: Flamingo
+    aliases:
+    - flamingo
+    reasoning: flame (flamey colour, sunset pink) + in (going in somewhere) + go (to go) = Flamingo. Flame-in-go
+  - number: 2
+    initials: J F
+    clue: Wobbly. Transparent. Drifting. Stings you if you're unlucky. Not quite a fish, not quite anything. Just sort of there in the water.
+    answer: Jellyfish
+    aliases:
+    - jellyfish
+    reasoning: jelly (wobbly transparent stuff, like the thing in a jar) + fish (a fish, loosely) = Jellyfish
+  - number: 3
+    initials: B D
+    clue: Last one. A glass container's been given a very long pointy nose. It's jumped out of the sea doing tricks and everyone clapped.
+    answer: Bottlenose Dolphin
+    aliases:
+    - bottlenose dolphin
+    reasoning: bottle (a glass container) + nose (a long pointy nose) + dolphin (leaping sea mammal doing tricks) = Bottlenose Dolphin

@@ -5,35 +5,34 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Right, Sweetbusters. Rockbusters but it's all UK sweets. Say the clues out loud - the answer's hiding in the sounds."
-  prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
+  - UK
+  intro: Right, Sweetbusters. Rockbusters but it's all UK sweets. Say the clues out loud - the answer's hiding in the sounds.
+  prize: Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station.
   clues:
-    - number: 1
-      initials: M
-      clue: "Right, that thing where you go up to a counter and pay - someone's done it wrong and ended up slightly bent out of shape. That's all."
-      answer: Maltesers
-      aliases:
-        - maltesers
-        - malteser
-      reasoning: "malt (malted barley) + ease + rs, sounds like 'malt-ee-zers' = Maltesers"
-    - number: 2
-      initials: S
-      clue: "Some fellas are being quite clever about things. Bit too smart, if you ask me. Think they know everything."
-      answer: Smarties
-      aliases:
-        - smarties
-        - smartie
-      reasoning: "smart (clever) + ies = Smarties"
-    - number: 3
-      initials: C W
-      clue: "That bloke's gone all twisty down at the gym. Like a pretzel but he used to be straight. Bit weird."
-      answer: Curly Wurly
-      aliases:
-        - curly wurly
-        - curly-wurly
-      reasoning: "curly (twisted/not straight) + wurly (sounds like 'whirly', spinning twisty thing) = Curly Wurly"
-
+  - number: 1
+    initials: M
+    clue: Right, that thing where you go up to a counter and pay - someone's done it wrong and ended up slightly bent out of shape. That's all.
+    answer: Maltesers
+    aliases:
+    - maltesers
+    - malteser
+    reasoning: malt (malted barley) + ease + rs, sounds like 'malt-ee-zers' = Maltesers
+  - number: 2
+    initials: S
+    clue: Some fellas are being quite clever about things. Bit too smart, if you ask me. Think they know everything.
+    answer: Smarties
+    aliases:
+    - smarties
+    - smartie
+    reasoning: smart (clever) + ies = Smarties
+  - number: 3
+    initials: C W
+    clue: That bloke's gone all twisty down at the gym. Like a pretzel but he used to be straight. Bit weird.
+    answer: Curly Wurly
+    aliases:
+    - curly wurly
+    - curly-wurly
+    reasoning: curly (twisted/not straight) + wurly (sounds like 'whirly', spinning twisty thing) = Curly Wurly
 - id: sweetbusters-002
   enabled: true
   title: Sweetbusters
@@ -41,34 +40,33 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Sweetbusters two. Three more UK sweets in phonetic clues. Have a go."
-  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists."
+  - UK
+  intro: Sweetbusters two. Three more UK sweets in phonetic clues. Have a go.
+  prize: Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists.
   clues:
-    - number: 1
-      initials: F P
-      clue: "Right, those little round things you squeeze - lots of different colours - they've gone and turned into something you'd do at a spa."
-      answer: Fruit Pastilles
-      aliases:
-        - fruit pastilles
-        - fruit pastille
-      reasoning: "fruit (the round colourful things) + pastilles (sounds like 'pass-teels', small lozenges) = Fruit Pastilles"
-    - number: 2
-      initials: S
-      clue: "A bunch of them, just hopping about. Landing all over the place. Different colours again. Won't stay still."
-      answer: Skittles
-      aliases:
-        - skittles
-        - skittle
-      reasoning: "skittles (the bowling pins, or those little coloured things that hop about) = Skittles"
-    - number: 3
-      initials: B
-      clue: "There's a fella who's had a real stroke of luck. Fortune's smiled on him. Jammy sort."
-      answer: Bounty
-      aliases:
-        - bounty
-      reasoning: "bounty (a reward, a stroke of luck, also a paradise island theme) = Bounty"
-
+  - number: 1
+    initials: F P
+    clue: Right, those little round things you squeeze - lots of different colours - they've gone and turned into something you'd do at a spa.
+    answer: Fruit Pastilles
+    aliases:
+    - fruit pastilles
+    - fruit pastille
+    reasoning: fruit (the round colourful things) + pastilles (sounds like 'pass-teels', small lozenges) = Fruit Pastilles
+  - number: 2
+    initials: S
+    clue: A bunch of them, just hopping about. Landing all over the place. Different colours again. Won't stay still.
+    answer: Skittles
+    aliases:
+    - skittles
+    - skittle
+    reasoning: skittles (the bowling pins, or those little coloured things that hop about) = Skittles
+  - number: 3
+    initials: B
+    clue: There's a fella who's had a real stroke of luck. Fortune's smiled on him. Jammy sort.
+    answer: Bounty
+    aliases:
+    - bounty
+    reasoning: bounty (a reward, a stroke of luck, also a paradise island theme) = Bounty
 - id: sweetbusters-003
   enabled: true
   title: Sweetbusters
@@ -76,34 +74,33 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Three more UK sweets. You know the drill by now. Phonetic clues, say them out loud."
-  prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
+  - UK
+  intro: Three more UK sweets. You know the drill by now. Phonetic clues, say them out loud.
+  prize: Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette.
   clues:
-    - number: 1
-      initials: K K
-      clue: "Right, that thing you do just before you eat - a bit of a tap on the door, isn't it. Doing it twice, mind. That's all."
-      answer: Kit Kat
-      aliases:
-        - kit kat
-        - kitkat
-        - kit-kat
-      reasoning: "kit (a set of tools/kit) + kat (sounds like 'cat', or a tap = kat) = Kit Kat"
-    - number: 2
-      initials: F
-      clue: "Some bits have broken off something. Bit crumbly. Just drifting about now. Sort of works if you think about it."
-      answer: Flake
-      aliases:
-        - flake
-      reasoning: "flake (a small thin piece that's broken off) = Flake"
-    - number: 3
-      initials: L B
-      clue: "That animal with the big mane has gone and done some roadworks. Got one of them yellow diggers out. Bit unexpected."
-      answer: Lion Bar
-      aliases:
-        - lion bar
-      reasoning: "lion (the big cat with a mane) + bar (a solid block, or a rod used in roadworks) = Lion Bar"
-
+  - number: 1
+    initials: K K
+    clue: Right, that thing you do just before you eat - a bit of a tap on the door, isn't it. Doing it twice, mind. That's all.
+    answer: Kit Kat
+    aliases:
+    - kit kat
+    - kitkat
+    - kit-kat
+    reasoning: kit (a set of tools/kit) + kat (sounds like 'cat', or a tap = kat) = Kit Kat
+  - number: 2
+    initials: F
+    clue: Some bits have broken off something. Bit crumbly. Just drifting about now. Sort of works if you think about it.
+    answer: Flake
+    aliases:
+    - flake
+    reasoning: flake (a small thin piece that's broken off) = Flake
+  - number: 3
+    initials: L B
+    clue: That animal with the big mane has gone and done some roadworks. Got one of them yellow diggers out. Bit unexpected.
+    answer: Lion Bar
+    aliases:
+    - lion bar
+    reasoning: lion (the big cat with a mane) + bar (a solid block, or a rod used in roadworks) = Lion Bar
 - id: sweetbusters-004
   enabled: true
   title: Sweetbusters
@@ -111,33 +108,32 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Alright, Sweetbusters four. Three more. These are all well-known UK chocolate bars or sweets."
-  prize: "Email in. Winner gets a printed photo from a disposable camera, framed."
+  - UK
+  intro: Alright, Sweetbusters four. Three more. These are all well-known UK chocolate bars or sweets.
+  prize: Email in. Winner gets a printed photo from a disposable camera, framed.
   clues:
-    - number: 1
-      initials: C
-      clue: "Right, that thing where you slam your teeth together - really hard - and something shatters. Bit violent. Done it with toast before."
-      answer: Crunchie
-      aliases:
-        - crunchie
-      reasoning: "crunch (the sound of biting something hard) + ie = Crunchie"
-    - number: 2
-      initials: D B
-      clue: "There's a fella called Dime who's doing a bit of scaffolding. Just the one bar. Standing there."
-      answer: Dime Bar
-      aliases:
-        - dime bar
-        - dime
-      reasoning: "dime (a small coin, or the name) + bar (a rod/scaffold bar) = Dime Bar"
-    - number: 3
-      initials: W
-      clue: "Someone's saying something very quietly. Barely got the energy to speak up. Just sort of... murmuring. Near enough."
-      answer: Wispa
-      aliases:
-        - wispa
-      reasoning: "whisper (speaking very quietly) = Wispa (sounds like 'whispa')"
-
+  - number: 1
+    initials: C
+    clue: Right, that thing where you slam your teeth together - really hard - and something shatters. Bit violent. Done it with toast before.
+    answer: Crunchie
+    aliases:
+    - crunchie
+    reasoning: crunch (the sound of biting something hard) + ie = Crunchie
+  - number: 2
+    initials: D B
+    clue: There's a fella called Dime who's doing a bit of scaffolding. Just the one bar. Standing there.
+    answer: Dime Bar
+    aliases:
+    - dime bar
+    - dime
+    reasoning: dime (a small coin, or the name) + bar (a rod/scaffold bar) = Dime Bar
+  - number: 3
+    initials: W
+    clue: Someone's saying something very quietly. Barely got the energy to speak up. Just sort of... murmuring. Near enough.
+    answer: Wispa
+    aliases:
+    - wispa
+    reasoning: whisper (speaking very quietly) = Wispa (sounds like 'whispa')
 - id: sweetbusters-005
   enabled: true
   title: Sweetbusters
@@ -145,33 +141,32 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Easy one this, Sweetbusters five. Well-known UK sweets and confectionery in every answer."
-  prize: "Email in. Winner gets a DVD copy of The Full Monty and some Value biscuits."
+  - UK
+  intro: Easy one this, Sweetbusters five. Well-known UK sweets and confectionery in every answer.
+  prize: Email in. Winner gets a DVD copy of The Full Monty and some Value biscuits.
   clues:
-    - number: 1
-      initials: T
-      clue: "Right, there's a massive triangular mountain and it's made of something Swiss. Don't overthink it. Say it out loud."
-      answer: Toblerone
-      aliases:
-        - toblerone
-      reasoning: "toblerone sounds like 'TOE-bler-OWN' - toe +bler + own = Toblerone (triangle-shaped Swiss chocolate)"
-    - number: 2
-      initials: A
-      clue: "That element in the sky - the stuff that's all around us - it's gone and got bubbly. Bit fizzy for air, but there you go."
-      answer: Aero
-      aliases:
-        - aero
-      reasoning: "aero (aerodynamic, of the air) = Aero (the bubbly chocolate bar)"
-    - number: 3
-      initials: M
-      clue: "That thing at the pub where they pull pints - it's gone a bit pale. White, almost. Not the usual colour for one of those."
-      answer: Milkybar
-      aliases:
-        - milkybar
-        - milky bar
-      reasoning: "milky (pale/white, like milk) + bar (pub bar / chocolate bar) = Milkybar"
-
+  - number: 1
+    initials: T
+    clue: Right, there's a massive triangular mountain and it's made of something Swiss. Don't overthink it. Say it out loud.
+    answer: Toblerone
+    aliases:
+    - toblerone
+    reasoning: toblerone sounds like 'TOE-bler-OWN' - toe +bler + own = Toblerone (triangle-shaped Swiss chocolate)
+  - number: 2
+    initials: A
+    clue: That element in the sky - the stuff that's all around us - it's gone and got bubbly. Bit fizzy for air, but there you go.
+    answer: Aero
+    aliases:
+    - aero
+    reasoning: aero (aerodynamic, of the air) = Aero (the bubbly chocolate bar)
+  - number: 3
+    initials: M
+    clue: That thing at the pub where they pull pints - it's gone a bit pale. White, almost. Not the usual colour for one of those.
+    answer: Milkybar
+    aliases:
+    - milkybar
+    - milky bar
+    reasoning: milky (pale/white, like milk) + bar (pub bar / chocolate bar) = Milkybar
 - id: sweetbusters-006
   enabled: true
   title: Sweetbusters
@@ -179,35 +174,34 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Sweetbusters six. Three more phonetic sweet clues. You know what to do."
-  prize: "Email in. Winner gets a Woolworths gift card, no longer redeemable."
+  - UK
+  intro: Sweetbusters six. Three more phonetic sweet clues. You know what to do.
+  prize: Email in. Winner gets a Woolworths gift card, no longer redeemable.
   clues:
-    - number: 1
-      initials: D D
-      clue: "Right, a fella's gone up a level. Had a promotion. Now he's two levels above where he started. Bit of an overachiever."
-      answer: Double Decker
-      aliases:
-        - double decker
-        - double-decker
-      reasoning: "double (twice as much) + decker (a level or deck, like a double-decker bus) = Double Decker"
-    - number: 2
-      initials: R C
-      clue: "That pink garden vegetable - the sour one that goes in crumble - has had a bit of a sit-down at the jail."
-      answer: Rhubarb and Custard
-      aliases:
-        - rhubarb and custard
-        - rhubarb & custard
-      reasoning: "rhubarb (the pink sour vegetable) + and + custard (the yellow sauce) = Rhubarb and Custard"
-    - number: 3
-      initials: C B
-      clue: "That fizzy drink they serve at parties - the dark one, from America - it's gone and put itself in little rubber things. Odd."
-      answer: Cola Bottles
-      aliases:
-        - cola bottles
-        - cola bottle
-      reasoning: "cola (the fizzy dark drink) + bottles (the containers it comes in) = Cola Bottles"
-
+  - number: 1
+    initials: D D
+    clue: Right, a fella's gone up a level. Had a promotion. Now he's two levels above where he started. Bit of an overachiever.
+    answer: Double Decker
+    aliases:
+    - double decker
+    - double-decker
+    reasoning: double (twice as much) + decker (a level or deck, like a double-decker bus) = Double Decker
+  - number: 2
+    initials: R C
+    clue: That pink garden vegetable - the sour one that goes in crumble - has had a bit of a sit-down at the jail.
+    answer: Rhubarb and Custard
+    aliases:
+    - rhubarb and custard
+    - rhubarb & custard
+    reasoning: rhubarb (the pink sour vegetable) + and + custard (the yellow sauce) = Rhubarb and Custard
+  - number: 3
+    initials: C B
+    clue: That fizzy drink they serve at parties - the dark one, from America - it's gone and put itself in little rubber things. Odd.
+    answer: Cola Bottles
+    aliases:
+    - cola bottles
+    - cola bottle
+    reasoning: cola (the fizzy dark drink) + bottles (the containers it comes in) = Cola Bottles
 - id: sweetbusters-007
   enabled: true
   title: Sweetbusters
@@ -215,34 +209,33 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Right, Sweetbusters seven. Retro sweets territory now. Three more hiding in these clues."
-  prize: "Email in. Winner gets an OK magazine from 2003 and a novelty pen."
+  - UK
+  intro: Right, Sweetbusters seven. Retro sweets territory now. Three more hiding in these clues.
+  prize: Email in. Winner gets an OK magazine from 2003 and a novelty pen.
   clues:
-    - number: 1
-      initials: P V
-      clue: "That Italian city with the canals - sounds like it - has gone a bit purple and flowery. Smells quite nice actually."
-      answer: Parma Violets
-      aliases:
-        - parma violets
-        - parma violet
-      reasoning: "Parma (Italian city) + violets (the purple flowers, or the colour/flavour) = Parma Violets"
-    - number: 2
-      initials: R
-      clue: "Someone's just had a good stretch and a bit of a spruce-up. Feeling brand new. That's all, really."
-      answer: Refreshers
-      aliases:
-        - refreshers
-        - refresher
-      reasoning: "refreshers (something that refreshes you, makes you feel brand new) = Refreshers"
-    - number: 3
-      initials: S
-      clue: "That thing that fires laser beams - in space films and that - it's just burst. Gone all colourful everywhere."
-      answer: Starburst
-      aliases:
-        - starburst
-      reasoning: "star (space thing, fires lasers in films) + burst (exploded/gone everywhere) = Starburst"
-
+  - number: 1
+    initials: P V
+    clue: That Italian city with the canals - sounds like it - has gone a bit purple and flowery. Smells quite nice actually.
+    answer: Parma Violets
+    aliases:
+    - parma violets
+    - parma violet
+    reasoning: Parma (Italian city) + violets (the purple flowers, or the colour/flavour) = Parma Violets
+  - number: 2
+    initials: R
+    clue: Someone's just had a good stretch and a bit of a spruce-up. Feeling brand new. That's all, really.
+    answer: Refreshers
+    aliases:
+    - refreshers
+    - refresher
+    reasoning: refreshers (something that refreshes you, makes you feel brand new) = Refreshers
+  - number: 3
+    initials: S
+    clue: That thing that fires laser beams - in space films and that - it's just burst. Gone all colourful everywhere.
+    answer: Starburst
+    aliases:
+    - starburst
+    reasoning: star (space thing, fires lasers in films) + burst (exploded/gone everywhere) = Starburst
 - id: sweetbusters-008
   enabled: true
   title: Sweetbusters
@@ -250,34 +243,33 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Sweetbusters eight. Old school sweet shop territory here. Three more UK sweets."
-  prize: "Email in. Winner gets a signed letter from someone off Emmerdale, possibly."
+  - UK
+  intro: Sweetbusters eight. Old school sweet shop territory here. Three more UK sweets.
+  prize: Email in. Winner gets a signed letter from someone off Emmerdale, possibly.
   clues:
-    - number: 1
-      initials: S F
-      clue: "Right, there's a fella who's been told he lives in a fountain. He's not happy about it. All fizzy and wet."
-      answer: Sherbet Fountain
-      aliases:
-        - sherbet fountain
-      reasoning: "sherbet (fizzy sweet powder) + fountain (a water feature, or where the fella's been told he lives) = Sherbet Fountain"
-    - number: 2
-      initials: G
-      clue: "Right, something's completely blocked up. Can't get through it. Stuck fast in there. Won't move."
-      answer: Gobstopper
-      aliases:
-        - gobstopper
-        - gobstoppers
-      reasoning: "gob (mouth) + stopper (something that blocks/stops things) = Gobstopper"
-    - number: 3
-      initials: H
-      clue: "These little fellas are wandering round in fog. Can't see where they're going. A bit disorientated. Sort of stumbling about."
-      answer: Humbugs
-      aliases:
-        - humbugs
-        - humbug
-      reasoning: "hum (a low confused sound, or to hum while lost) + bugs (small creatures wandering about) = Humbugs"
-
+  - number: 1
+    initials: S F
+    clue: Right, there's a fella who's been told he lives in a fountain. He's not happy about it. All fizzy and wet.
+    answer: Sherbet Fountain
+    aliases:
+    - sherbet fountain
+    reasoning: sherbet (fizzy sweet powder) + fountain (a water feature, or where the fella's been told he lives) = Sherbet Fountain
+  - number: 2
+    initials: G
+    clue: Right, something's completely blocked up. Can't get through it. Stuck fast in there. Won't move.
+    answer: Gobstopper
+    aliases:
+    - gobstopper
+    - gobstoppers
+    reasoning: gob (mouth) + stopper (something that blocks/stops things) = Gobstopper
+  - number: 3
+    initials: H
+    clue: These little fellas are wandering round in fog. Can't see where they're going. A bit disorientated. Sort of stumbling about.
+    answer: Humbugs
+    aliases:
+    - humbugs
+    - humbug
+    reasoning: hum (a low confused sound, or to hum while lost) + bugs (small creatures wandering about) = Humbugs
 - id: sweetbusters-009
   enabled: true
   title: Sweetbusters
@@ -285,36 +277,35 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Nine sets in. Sweetbusters nine. All UK confectionery, all phonetic. Off you go."
-  prize: "Email in. Winner gets a Shrek 2 DVD and a keyring from a motorway services."
+  - UK
+  intro: Nine sets in. Sweetbusters nine. All UK confectionery, all phonetic. Off you go.
+  prize: Email in. Winner gets a Shrek 2 DVD and a keyring from a motorway services.
   clues:
-    - number: 1
-      initials: P
-      clue: "Right, those circular things that go around your neck or wrist - jewellery and that - but they're mints. Bit fancy for a mint."
-      answer: Polos
-      aliases:
-        - polos
-        - polo
-        - polo mints
-      reasoning: "polo (as in polo neck, or polo shirt - a circular ring) = Polos (the mint with the hole)"
-    - number: 2
-      initials: B J
-      clue: "There's a fella called Jack, right, and he's gone completely black. Head to toe. Don't know what he's been doing."
-      answer: Black Jacks
-      aliases:
-        - black jacks
-        - blackjacks
-        - black jack
-      reasoning: "black (the colour, head to toe) + jacks (sounds like Jack's, or the name Jack) = Black Jacks"
-    - number: 3
-      initials: F S
-      clue: "That thing you eat at a picnic - the one with strawberries and that - it's gone and turned into something you'd put in a bowl with ice cream. Nice."
-      answer: Fruit Salad
-      aliases:
-        - fruit salad
-      reasoning: "fruit (the thing you eat at a picnic with strawberries) + salad (something you put in a bowl) = Fruit Salad"
-
+  - number: 1
+    initials: P
+    clue: Right, those circular things that go around your neck or wrist - jewellery and that - but they're mints. Bit fancy for a mint.
+    answer: Polos
+    aliases:
+    - polos
+    - polo
+    - polo mints
+    reasoning: polo (as in polo neck, or polo shirt - a circular ring) = Polos (the mint with the hole)
+  - number: 2
+    initials: B J
+    clue: There's a fella called Jack, right, and he's gone completely black. Head to toe. Don't know what he's been doing.
+    answer: Black Jacks
+    aliases:
+    - black jacks
+    - blackjacks
+    - black jack
+    reasoning: black (the colour, head to toe) + jacks (sounds like Jack's, or the name Jack) = Black Jacks
+  - number: 3
+    initials: F S
+    clue: That thing you eat at a picnic - the one with strawberries and that - it's gone and turned into something you'd put in a bowl with ice cream. Nice.
+    answer: Fruit Salad
+    aliases:
+    - fruit salad
+    reasoning: fruit (the thing you eat at a picnic with strawberries) + salad (something you put in a bowl) = Fruit Salad
 - id: sweetbusters-010
   enabled: true
   title: Sweetbusters
@@ -322,35 +313,34 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Ten sets in now. Sweetbusters ten. Halfway. Three more UK sweets hiding in these clues."
-  prize: "Email in. Winner gets a mini Toblerone and a phone charger that doesn't quite fit anything."
+  - UK
+  intro: Sweetbusters. Three more UK sweets hiding in these clues. Say them out loud.
+  prize: Email in. Winner gets a mini Toblerone and a phone charger that doesn't quite fit anything.
   clues:
-    - number: 1
-      initials: C
-      clue: "Right, something's been nibbled. Had a bit of a gnaw. Can't stop chewing on it. Going at it proper."
-      answer: Chewits
-      aliases:
-        - chewits
-        - chewit
-      reasoning: "chew (to gnaw/nibble) + its = Chewits"
-    - number: 2
-      initials: P D
-      clue: "That fruit that sounds like a teardrop - the green one - it's had a bit of a tumble. Fallen off something."
-      answer: Pear Drops
-      aliases:
-        - pear drops
-        - pear drop
-      reasoning: "pear (the teardrop-shaped green fruit) + drops (fallen off something/a drop) = Pear Drops"
-    - number: 3
-      initials: A B
-      clue: "Some little round things and they're rolling around like they're at the seaside. On the green stuff. Little black ones."
-      answer: Aniseed Balls
-      aliases:
-        - aniseed balls
-        - aniseed ball
-      reasoning: "aniseed (a flavouring, the little black seeds) + balls (round things rolling about) = Aniseed Balls"
-
+  - number: 1
+    initials: C
+    clue: Right, something's been nibbled. Had a bit of a gnaw. Can't stop chewing on it. Going at it proper.
+    answer: Chewits
+    aliases:
+    - chewits
+    - chewit
+    reasoning: chew (to gnaw/nibble) + its = Chewits
+  - number: 2
+    initials: P D
+    clue: That fruit that sounds like a teardrop - the green one - it's had a bit of a tumble. Fallen off something.
+    answer: Pear Drops
+    aliases:
+    - pear drops
+    - pear drop
+    reasoning: pear (the teardrop-shaped green fruit) + drops (fallen off something/a drop) = Pear Drops
+  - number: 3
+    initials: A B
+    clue: Some little round things and they're rolling around like they're at the seaside. On the green stuff. Little black ones.
+    answer: Aniseed Balls
+    aliases:
+    - aniseed balls
+    - aniseed ball
+    reasoning: aniseed (a flavouring, the little black seeds) + balls (round things rolling about) = Aniseed Balls
 - id: sweetbusters-011
   enabled: true
   title: Sweetbusters
@@ -358,35 +348,34 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Sweetbusters eleven. Back to the sweet shop. Three more in these phonetic clues."
-  prize: "Email in. Winner gets a stack of Hotel key cards and a complimentary shower cap."
+  - UK
+  intro: Sweetbusters eleven. Back to the sweet shop. Three more in these phonetic clues.
+  prize: Email in. Winner gets a stack of Hotel key cards and a complimentary shower cap.
   clues:
-    - number: 1
-      initials: L A
-      clue: "Right, they're all in a right state - a proper mix of shapes and colours - and they're lining up in a sort of orderly fashion. Bit random for something so neat."
-      answer: Liquorice Allsorts
-      aliases:
-        - liquorice allsorts
-        - licorice allsorts
-        - liquorice all sorts
-      reasoning: "liquorice (the black sweet) + allsorts (all different sorts, a mix) = Liquorice Allsorts"
-    - number: 2
-      initials: F
-      clue: "Someone's been a bit sneaky with the accounts. A bit of financial trickery. Near enough as a description."
-      answer: Fudge
-      aliases:
-        - fudge
-      reasoning: "fudge (to fudge the accounts = sneaky with money, or fudge the sweet) = Fudge"
-    - number: 3
-      initials: C
-      clue: "That thing in the ad with the lovely bubbly river and the nice music. Someone's very relaxed about it. Bit silky."
-      answer: Caramel
-      aliases:
-        - caramel
-        - caramels
-      reasoning: "caramel (the golden sweet, also the chocolate bar with the swimming girl) = Caramel"
-
+  - number: 1
+    initials: L A
+    clue: Right, they're all in a right state - a proper mix of shapes and colours - and they're lining up in a sort of orderly fashion. Bit random for something so neat.
+    answer: Liquorice Allsorts
+    aliases:
+    - liquorice allsorts
+    - licorice allsorts
+    - liquorice all sorts
+    reasoning: liquorice (the black sweet) + allsorts (all different sorts, a mix) = Liquorice Allsorts
+  - number: 2
+    initials: F
+    clue: Someone's been a bit sneaky with the accounts. A bit of financial trickery. Near enough as a description.
+    answer: Fudge
+    aliases:
+    - fudge
+    reasoning: fudge (to fudge the accounts = sneaky with money, or fudge the sweet) = Fudge
+  - number: 3
+    initials: C
+    clue: That thing in the ad with the lovely bubbly river and the nice music. Someone's very relaxed about it. Bit silky.
+    answer: Caramel
+    aliases:
+    - caramel
+    - caramels
+    reasoning: caramel (the golden sweet, also the chocolate bar with the swimming girl) = Caramel
 - id: sweetbusters-012
   enabled: true
   title: Sweetbusters
@@ -394,34 +383,33 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Right, Sweetbusters twelve. Three more UK sweets. Phonetic riddles - the answer's in the sounds."
-  prize: "Email in. Winner gets a copy of Bridget Jones Diary on VHS and a box of Roses."
+  - UK
+  intro: Right, Sweetbusters twelve. Three more UK sweets. Phonetic riddles - the answer's in the sounds.
+  prize: Email in. Winner gets a copy of Bridget Jones Diary on VHS and a box of Roses.
   clues:
-    - number: 1
-      initials: T
-      clue: "Someone's being very sticky about something. Won't let go. Proper clingy situation. That's all."
-      answer: Toffee
-      aliases:
-        - toffee
-        - toffees
-      reasoning: "toffee (the sticky chewy sweet) = Toffee"
-    - number: 2
-      initials: S D
-      clue: "Right, that thing in the cosmos - it pulls you in with its gravity - but it's gone all fizzy. Pops on your tongue."
-      answer: Space Dust
-      aliases:
-        - space dust
-      reasoning: "space (the cosmos, gravity and that) + dust (the tiny fizzy particles) = Space Dust"
-    - number: 3
-      initials: F S
-      clue: "These little vehicles, right, they're not built for speed or the road - more for landing on garden lawns. From above."
-      answer: Flying Saucers
-      aliases:
-        - flying saucers
-        - flying saucer
-      reasoning: "flying (in the air, from above) + saucers (little disc-shaped things, like UFOs) = Flying Saucers"
-
+  - number: 1
+    initials: T
+    clue: Someone's being very sticky about something. Won't let go. Proper clingy situation. That's all.
+    answer: Toffee
+    aliases:
+    - toffee
+    - toffees
+    reasoning: toffee (the sticky chewy sweet) = Toffee
+  - number: 2
+    initials: S D
+    clue: Right, that thing in the cosmos - it pulls you in with its gravity - but it's gone all fizzy. Pops on your tongue.
+    answer: Space Dust
+    aliases:
+    - space dust
+    reasoning: space (the cosmos, gravity and that) + dust (the tiny fizzy particles) = Space Dust
+  - number: 3
+    initials: F S
+    clue: These little vehicles, right, they're not built for speed or the road - more for landing on garden lawns. From above.
+    answer: Flying Saucers
+    aliases:
+    - flying saucers
+    - flying saucer
+    reasoning: flying (in the air, from above) + saucers (little disc-shaped things, like UFOs) = Flying Saucers
 - id: sweetbusters-013
   enabled: true
   title: Sweetbusters
@@ -429,35 +417,34 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Sweetbusters thirteen. Unlucky for some but not for these sweets. Three more phonetic clues."
-  prize: "Email in. Winner gets an Encyclopaedia Britannica volume 7 and a travel pillow."
+  - UK
+  intro: Sweetbusters thirteen. Unlucky for some but not for these sweets. Three more phonetic clues.
+  prize: Email in. Winner gets an Encyclopaedia Britannica volume 7 and a travel pillow.
   clues:
-    - number: 1
-      initials: C N
-      clue: "Right, some jewellery but it's edible. Bit of a waste of a necklace if you ask me. Around someone's neck, just hanging there."
-      answer: Candy Necklace
-      aliases:
-        - candy necklace
-        - candy necklaces
-      reasoning: "candy (sweet/edible) + necklace (jewellery worn around the neck) = Candy Necklace"
-    - number: 2
-      initials: J W
-      clue: "These little invertebrates have gone and got themselves into some proper wiggly business. Can't keep still. Very much alive and wriggling."
-      answer: Jelly Worms
-      aliases:
-        - jelly worms
-        - jelly worm
-      reasoning: "jelly (wobbly, like jelly) + worms (wiggly invertebrates) = Jelly Worms"
-    - number: 3
-      initials: F B
-      clue: "There's some strapping - like what you'd put round a parcel - and it's doing something acidic to your tongue. Bit of a sting."
-      answer: Fizzy Belts
-      aliases:
-        - fizzy belts
-        - fizzy belt
-      reasoning: "fizzy (acidic/tangy, fizzing on the tongue) + belts (strips/strapping, like a belt you wear) = Fizzy Belts"
-
+  - number: 1
+    initials: C N
+    clue: Right, some jewellery but it's edible. Bit of a waste of a necklace if you ask me. Around someone's neck, just hanging there.
+    answer: Candy Necklace
+    aliases:
+    - candy necklace
+    - candy necklaces
+    reasoning: candy (sweet/edible) + necklace (jewellery worn around the neck) = Candy Necklace
+  - number: 2
+    initials: J W
+    clue: These little invertebrates have gone and got themselves into some proper wiggly business. Can't keep still. Very much alive and wriggling.
+    answer: Jelly Worms
+    aliases:
+    - jelly worms
+    - jelly worm
+    reasoning: jelly (wobbly, like jelly) + worms (wiggly invertebrates) = Jelly Worms
+  - number: 3
+    initials: F B
+    clue: There's some strapping - like what you'd put round a parcel - and it's doing something acidic to your tongue. Bit of a sting.
+    answer: Fizzy Belts
+    aliases:
+    - fizzy belts
+    - fizzy belt
+    reasoning: fizzy (acidic/tangy, fizzing on the tongue) + belts (strips/strapping, like a belt you wear) = Fizzy Belts
 - id: sweetbusters-014
   enabled: true
   title: Sweetbusters
@@ -465,36 +452,35 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Fourteen in. Sweetbusters. All UK sweets. Say the clues out loud - the sweet is in there somewhere."
-  prize: "Email in. Winner gets a Littlewoods catalogue from 2001 and some Haribo."
+  - UK
+  intro: Fourteen in. Sweetbusters. All UK sweets. Say the clues out loud - the sweet is in there somewhere.
+  prize: Email in. Winner gets a Littlewoods catalogue from 2001 and some Haribo.
   clues:
-    - number: 1
-      initials: F S
-      clue: "Little sea creatures that have had something done to them involving bubbles. Very light. Slightly spongy."
-      answer: Foam Shrimps
-      aliases:
-        - foam shrimps
-        - foam shrimp
-      reasoning: "foam (bubbles, light and spongy) + shrimps (small sea creatures) = Foam Shrimps"
-    - number: 2
-      initials: W G
-      clue: "That bit in your mouth where the teeth sort of live - it's been at the red and white booze. What's gone on there."
-      answer: Wine Gums
-      aliases:
-        - wine gums
-        - wine gum
-        - winegums
-      reasoning: "wine (the red and white booze) + gums (where the teeth live in your mouth) = Wine Gums"
-    - number: 3
-      initials: J B
-      clue: "Right, small humans - very young ones - but they're all soft and wobbly. You wouldn't put one in a pram. They'd fall through it."
-      answer: Jelly Babies
-      aliases:
-        - jelly babies
-        - jelly baby
-      reasoning: "jelly (soft and wobbly) + babies (very small young humans) = Jelly Babies"
-
+  - number: 1
+    initials: F S
+    clue: Little sea creatures that have had something done to them involving bubbles. Very light. Slightly spongy.
+    answer: Foam Shrimps
+    aliases:
+    - foam shrimps
+    - foam shrimp
+    reasoning: foam (bubbles, light and spongy) + shrimps (small sea creatures) = Foam Shrimps
+  - number: 2
+    initials: W G
+    clue: That bit in your mouth where the teeth sort of live - it's been at the red and white booze. What's gone on there.
+    answer: Wine Gums
+    aliases:
+    - wine gums
+    - wine gum
+    - winegums
+    reasoning: wine (the red and white booze) + gums (where the teeth live in your mouth) = Wine Gums
+  - number: 3
+    initials: J B
+    clue: Right, small humans - very young ones - but they're all soft and wobbly. You wouldn't put one in a pram. They'd fall through it.
+    answer: Jelly Babies
+    aliases:
+    - jelly babies
+    - jelly baby
+    reasoning: jelly (soft and wobbly) + babies (very small young humans) = Jelly Babies
 - id: sweetbusters-015
   enabled: true
   title: Sweetbusters
@@ -502,34 +488,33 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Sweetbusters fifteen. Halfway through the second half. All UK sweets in these phonetic clues."
-  prize: "Email in. Winner gets a fondue set still in the box and a selection of instant coffees."
+  - UK
+  intro: Sweetbusters. All UK sweets in these phonetic clues. Say them out loud.
+  prize: Email in. Winner gets a fondue set still in the box and a selection of instant coffees.
   clues:
-    - number: 1
-      initials: D D
-      clue: "Someone's gone up a floor on the bus. Right to the top. Could see everything from up there."
-      answer: Double Decker
-      aliases:
-        - double decker
-        - double-decker
-      reasoning: "double (twice, as in two decks) + decker (a floor/deck, as on a bus) = Double Decker"
-    - number: 2
-      initials: M
-      clue: "Right, the stuff you make beer from - the grainy malted stuff - it's having a bit of a run. Going very fast."
-      answer: Maltesers
-      aliases:
-        - maltesers
-        - malteser
-      reasoning: "malt (the stuff you make beer from) + ease + rs = Maltesers (the malted milk chocolate balls)"
-    - number: 3
-      initials: T
-      clue: "Some fella's discovered his whole roof - the covering of his house - was made of chocolate. He's not sure what to do."
-      answer: Toblerone
-      aliases:
-        - toblerone
-      reasoning: "tob (sounds like 'top') + le + rone (sounds like 'own') = Toblerone (the triangular mountain-shaped chocolate)"
-
+  - number: 1
+    initials: D D
+    clue: Someone's gone up a floor on the bus. Right to the top. Could see everything from up there.
+    answer: Double Decker
+    aliases:
+    - double decker
+    - double-decker
+    reasoning: double (twice, as in two decks) + decker (a floor/deck, as on a bus) = Double Decker
+  - number: 2
+    initials: M
+    clue: Right, the stuff you make beer from - the grainy malted stuff - it's having a bit of a run. Going very fast.
+    answer: Maltesers
+    aliases:
+    - maltesers
+    - malteser
+    reasoning: malt (the stuff you make beer from) + ease + rs = Maltesers (the malted milk chocolate balls)
+  - number: 3
+    initials: T
+    clue: Some fella's discovered his whole roof - the covering of his house - was made of chocolate. He's not sure what to do.
+    answer: Toblerone
+    aliases:
+    - toblerone
+    reasoning: tob (sounds like 'top') + le + rone (sounds like 'own') = Toblerone (the triangular mountain-shaped chocolate)
 - id: sweetbusters-016
   enabled: true
   title: Sweetbusters
@@ -537,33 +522,32 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Sweetbusters sixteen. Four to go. Three UK sweets in every set, phonetically hidden."
-  prize: "Email in. Winner gets a commemorative tin from the Queen's Jubilee and some chocolate fingers."
+  - UK
+  intro: Sweetbusters sixteen. Four to go. Three UK sweets in every set, phonetically hidden.
+  prize: Email in. Winner gets a commemorative tin from the Queen's Jubilee and some chocolate fingers.
   clues:
-    - number: 1
-      initials: S
-      clue: "Right, that sport where you kick a ball about - one team's got a name that ends in a letter from the NATO alphabet - they've gone a bit fizzy. That's all."
-      answer: Skittles
-      aliases:
-        - skittles
-        - skittle
-      reasoning: "skittles (the game with pins you knock over with a ball) = Skittles"
-    - number: 2
-      initials: C
-      clue: "Someone's been through a lot but they're managing. Getting on with it. Coping. Near enough."
-      answer: Crunchie
-      aliases:
-        - crunchie
-      reasoning: "crunch (a difficult situation, 'under pressure') + ie = Crunchie"
-    - number: 3
-      initials: B
-      clue: "There's a bloke who's had a massive windfall. Really lucky. Like he's found treasure on a tropical beach."
-      answer: Bounty
-      aliases:
-        - bounty
-      reasoning: "bounty (a generous reward, or the Mutiny on the Bounty, or a tropical paradise sweet) = Bounty"
-
+  - number: 1
+    initials: S
+    clue: Right, that sport where you kick a ball about - one team's got a name that ends in a letter from the NATO alphabet - they've gone a bit fizzy. That's all.
+    answer: Skittles
+    aliases:
+    - skittles
+    - skittle
+    reasoning: skittles (the game with pins you knock over with a ball) = Skittles
+  - number: 2
+    initials: C
+    clue: Someone's been through a lot but they're managing. Getting on with it. Coping. Near enough.
+    answer: Crunchie
+    aliases:
+    - crunchie
+    reasoning: crunch (a difficult situation, 'under pressure') + ie = Crunchie
+  - number: 3
+    initials: B
+    clue: There's a bloke who's had a massive windfall. Really lucky. Like he's found treasure on a tropical beach.
+    answer: Bounty
+    aliases:
+    - bounty
+    reasoning: bounty (a generous reward, or the Mutiny on the Bounty, or a tropical paradise sweet) = Bounty
 - id: sweetbusters-017
   enabled: true
   title: Sweetbusters
@@ -571,34 +555,33 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Three more to go after this. Sweetbusters seventeen. All UK sweets, all phonetic."
-  prize: "Email in. Winner gets a signed photo of someone off Hollyoaks, possibly."
+  - UK
+  intro: Three more to go after this. Sweetbusters seventeen. All UK sweets, all phonetic.
+  prize: Email in. Winner gets a signed photo of someone off Hollyoaks, possibly.
   clues:
-    - number: 1
-      initials: P D
-      clue: "Right, that president of the United States who wasn't Trump - the one before Biden - he's had a bit of a fall. Tumbled."
-      answer: Pear Drops
-      aliases:
-        - pear drops
-        - pear drop
-      reasoning: "pear (sounds like 'pair', or the fruit shaped like a drop) + drops (tumbles/falls) = Pear Drops"
-    - number: 2
-      initials: L H
-      clue: "The thing that pumps blood round your body - it's gone and decided to be all nice about it. Sent a card and everything."
-      answer: Love Hearts
-      aliases:
-        - love hearts
-        - love heart
-      reasoning: "love (gone all nice, sent a card) + hearts (the pumping organ) = Love Hearts"
-    - number: 3
-      initials: S F
-      clue: "That powder you get in the little tubes - makes everything fizzy - it's come out of a thing that spits water in the park."
-      answer: Sherbet Fountain
-      aliases:
-        - sherbet fountain
-      reasoning: "sherbet (fizzy powder in tubes) + fountain (the thing that spits water in the park) = Sherbet Fountain"
-
+  - number: 1
+    initials: P D
+    clue: Right, that president of the United States who wasn't Trump - the one before Biden - he's had a bit of a fall. Tumbled.
+    answer: Pear Drops
+    aliases:
+    - pear drops
+    - pear drop
+    reasoning: pear (sounds like 'pair', or the fruit shaped like a drop) + drops (tumbles/falls) = Pear Drops
+  - number: 2
+    initials: L H
+    clue: The thing that pumps blood round your body - it's gone and decided to be all nice about it. Sent a card and everything.
+    answer: Love Hearts
+    aliases:
+    - love hearts
+    - love heart
+    reasoning: love (gone all nice, sent a card) + hearts (the pumping organ) = Love Hearts
+  - number: 3
+    initials: S F
+    clue: That powder you get in the little tubes - makes everything fizzy - it's come out of a thing that spits water in the park.
+    answer: Sherbet Fountain
+    aliases:
+    - sherbet fountain
+    reasoning: sherbet (fizzy powder in tubes) + fountain (the thing that spits water in the park) = Sherbet Fountain
 - id: sweetbusters-018
   enabled: true
   title: Sweetbusters
@@ -606,34 +589,33 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Sweetbusters eighteen. Nearly there. Still all UK sweets, still phonetic clues."
-  prize: "Email in. Winner gets a copy of Harry Potter on audio cassette, read by Stephen Fry, missing tape four."
+  - UK
+  intro: Sweetbusters. Still all UK sweets, still phonetic clues. Say them out loud.
+  prize: Email in. Winner gets a copy of Harry Potter on audio cassette, read by Stephen Fry, missing tape four.
   clues:
-    - number: 1
-      initials: A
-      clue: "Right, the sky's got bubbly. All those little holes in it now. Not sure what happened but it looks like a bar of something."
-      answer: Aero
-      aliases:
-        - aero
-      reasoning: "aero (of the air/sky) = Aero (the bubbly chocolate with air holes)"
-    - number: 2
-      initials: G
-      clue: "Someone's mouth has been completely sealed. Can't say a word. Been stopped up good and proper."
-      answer: Gobstopper
-      aliases:
-        - gobstopper
-        - gobstoppers
-      reasoning: "gob (mouth/face) + stopper (something that seals things up) = Gobstopper"
-    - number: 3
-      initials: R
-      clue: "Right, a bunch of people have just had a swim and a nice sit-down with a cold drink. Brand new, they are."
-      answer: Refreshers
-      aliases:
-        - refreshers
-        - refresher
-      reasoning: "refresh (to restore energy, like after a swim and a cold drink) + ers = Refreshers"
-
+  - number: 1
+    initials: A
+    clue: Right, the sky's got bubbly. All those little holes in it now. Not sure what happened but it looks like a bar of something.
+    answer: Aero
+    aliases:
+    - aero
+    reasoning: aero (of the air/sky) = Aero (the bubbly chocolate with air holes)
+  - number: 2
+    initials: G
+    clue: Someone's mouth has been completely sealed. Can't say a word. Been stopped up good and proper.
+    answer: Gobstopper
+    aliases:
+    - gobstopper
+    - gobstoppers
+    reasoning: gob (mouth/face) + stopper (something that seals things up) = Gobstopper
+  - number: 3
+    initials: R
+    clue: Right, a bunch of people have just had a swim and a nice sit-down with a cold drink. Brand new, they are.
+    answer: Refreshers
+    aliases:
+    - refreshers
+    - refresher
+    reasoning: refresh (to restore energy, like after a swim and a cold drink) + ers = Refreshers
 - id: sweetbusters-019
   enabled: true
   title: Sweetbusters
@@ -641,35 +623,34 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Penultimate Sweetbusters. Number nineteen. Three more UK sweets. Go on then."
-  prize: "Email in. Winner gets a DVD copy of Calendar Girls and a travel mug."
+  - UK
+  intro: Sweetbusters. Three more UK sweets hiding in the sounds. Go on then.
+  prize: Email in. Winner gets a DVD copy of Calendar Girls and a travel mug.
   clues:
-    - number: 1
-      initials: F B
-      clue: "There's some elastic - like what holds your trousers up - and it's doing something a bit acidic. Stinging a bit."
-      answer: Fizzy Belts
-      aliases:
-        - fizzy belts
-        - fizzy belt
-      reasoning: "fizzy (acidic, tangy) + belts (elastic straps that hold things up) = Fizzy Belts"
-    - number: 2
-      initials: C B
-      clue: "Right, that dark fizzy stuff you get in a can - the American one - it's been put in containers made of rubber. Bit pointless."
-      answer: Cola Bottles
-      aliases:
-        - cola bottles
-        - cola bottle
-      reasoning: "cola (the dark fizzy drink in a can) + bottles (rubber containers) = Cola Bottles"
-    - number: 3
-      initials: H
-      clue: "These tiny fellas are doing an impression of something. Not a very convincing one. All striped and twisty."
-      answer: Humbugs
-      aliases:
-        - humbugs
-        - humbug
-      reasoning: "hum (doing an impression, humming something) + bugs (tiny fellas) = Humbugs"
-
+  - number: 1
+    initials: F B
+    clue: There's some elastic - like what holds your trousers up - and it's doing something a bit acidic. Stinging a bit.
+    answer: Fizzy Belts
+    aliases:
+    - fizzy belts
+    - fizzy belt
+    reasoning: fizzy (acidic, tangy) + belts (elastic straps that hold things up) = Fizzy Belts
+  - number: 2
+    initials: C B
+    clue: Right, that dark fizzy stuff you get in a can - the American one - it's been put in containers made of rubber. Bit pointless.
+    answer: Cola Bottles
+    aliases:
+    - cola bottles
+    - cola bottle
+    reasoning: cola (the dark fizzy drink in a can) + bottles (rubber containers) = Cola Bottles
+  - number: 3
+    initials: H
+    clue: These tiny fellas are doing an impression of something. Not a very convincing one. All striped and twisty.
+    answer: Humbugs
+    aliases:
+    - humbugs
+    - humbug
+    reasoning: hum (doing an impression, humming something) + bugs (tiny fellas) = Humbugs
 - id: sweetbusters-020
   enabled: true
   title: Sweetbusters
@@ -677,31 +658,31 @@
   difficulty: easy
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Last one. Sweetbusters twenty. The final round of UK sweets. Go out on a high."
-  prize: "Email in. Winner gets a Woolworths pick-and-mix bag, unavailable since 2008."
+  - UK
+  intro: Sweetbusters. UK sweets hiding in these phonetic clues. Say them out loud.
+  prize: Email in. Winner gets a Woolworths pick-and-mix bag, unavailable since 2008.
   clues:
-    - number: 1
-      initials: P V
-      clue: "Right, there's a city in northern Italy - the one with the ham - and it's gone all purple and flowery. Smells lovely."
-      answer: Parma Violets
-      aliases:
-        - parma violets
-        - parma violet
-      reasoning: "Parma (Italian city famous for ham) + violets (purple flowers, or the sweet flavour) = Parma Violets"
-    - number: 2
-      initials: S D
-      clue: "That stuff floating about in the universe - tiny particles and that - it's gone all fizzy. Pops on your tongue like you wouldn't believe."
-      answer: Space Dust
-      aliases:
-        - space dust
-      reasoning: "space (the universe, where stuff floats about) + dust (tiny particles) = Space Dust"
-    - number: 3
-      initials: L A
-      clue: "Right, it's a right mixed bag in there. All different shapes and sizes. Can't predict what you're going to get. Bit of a lucky dip."
-      answer: Liquorice Allsorts
-      aliases:
-        - liquorice allsorts
-        - licorice allsorts
-        - liquorice all sorts
-      reasoning: "liquorice (the black sweet) + allsorts (all different sorts, mixed bag) = Liquorice Allsorts"
+  - number: 1
+    initials: P V
+    clue: Right, there's a city in northern Italy - the one with the ham - and it's gone all purple and flowery. Smells lovely.
+    answer: Parma Violets
+    aliases:
+    - parma violets
+    - parma violet
+    reasoning: Parma (Italian city famous for ham) + violets (purple flowers, or the sweet flavour) = Parma Violets
+  - number: 2
+    initials: S D
+    clue: That stuff floating about in the universe - tiny particles and that - it's gone all fizzy. Pops on your tongue like you wouldn't believe.
+    answer: Space Dust
+    aliases:
+    - space dust
+    reasoning: space (the universe, where stuff floats about) + dust (tiny particles) = Space Dust
+  - number: 3
+    initials: L A
+    clue: Right, it's a right mixed bag in there. All different shapes and sizes. Can't predict what you're going to get. Bit of a lucky dip.
+    answer: Liquorice Allsorts
+    aliases:
+    - liquorice allsorts
+    - licorice allsorts
+    - liquorice all sorts
+    reasoning: liquorice (the black sweet) + allsorts (all different sorts, mixed bag) = Liquorice Allsorts

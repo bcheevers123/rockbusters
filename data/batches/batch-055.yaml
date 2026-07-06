@@ -5,36 +5,35 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Right, Businessbusters. Rockbusters but it's all famous business people. Say the clues out loud - the answer's hiding in the sounds."
-  prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
+  - UK
+  - US
+  intro: Right, Businessbusters. Rockbusters but it's all famous business people. Say the clues out loud - the answer's hiding in the sounds.
+  prize: Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station.
   clues:
-    - number: 1
-      initials: R B
-      clue: "A very wealthy man, very firm about everything, is eating breakfast cereal with his young lad. Just the two of them. Sat there."
-      answer: Richard Branson
-      aliases:
-        - richard branson
-        - branson
-      reasoning: "rich (wealthy) + ard (hard, firm) + bran (breakfast cereal) + son (young lad) = Rich-ard Bran-son = Richard Branson"
-    - number: 2
-      initials: J B
-      clue: "A man called Jeff's only gone and put a load of bees on something. Just left them there. The bees are very settled."
-      answer: Jeff Bezos
-      aliases:
-        - jeff bezos
-        - bezos
-      reasoning: "Jeff (the name) + bee (an insect) + zos (sounds like 'those', or 'buzz' clipped) = Jeff Bee-zos = Jeff Bezos"
-    - number: 3
-      initials: B G
-      clue: "Someone's come to collect payment for something and they've ended up at an entrance. Just standing by the gate with an invoice."
-      answer: Bill Gates
-      aliases:
-        - bill gates
-        - gates
-      reasoning: "bill (an invoice, a payment demand) + gates (an entrance, a gate) = Bill Gates"
-
+  - number: 1
+    initials: R B
+    clue: A very wealthy man, very firm about everything, is eating breakfast cereal with his young lad. Just the two of them. Sat there.
+    answer: Richard Branson
+    aliases:
+    - richard branson
+    - branson
+    reasoning: rich (wealthy) + ard (hard, firm) + bran (breakfast cereal) + son (young lad) = Rich-ard Bran-son = Richard Branson
+  - number: 2
+    initials: J B
+    clue: A man called Jeff's only gone and put a load of bees on something. Just left them there. The bees are very settled.
+    answer: Jeff Bezos
+    aliases:
+    - jeff bezos
+    - bezos
+    reasoning: Jeff (the name) + bee (an insect) + zos (sounds like 'those', or 'buzz' clipped) = Jeff Bee-zos = Jeff Bezos
+  - number: 3
+    initials: B G
+    clue: Someone's come to collect payment for something and they've ended up at an entrance. Just standing by the gate with an invoice.
+    answer: Bill Gates
+    aliases:
+    - bill gates
+    - gates
+    reasoning: bill (an invoice, a payment demand) + gates (an entrance, a gate) = Bill Gates
 - id: businessbusters-002
   enabled: true
   title: Businessbusters
@@ -42,36 +41,35 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Businessbusters two. Three more business legends hidden in here. You know what to do."
-  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that doesn't exist anymore."
+  - UK
+  - US
+  intro: Businessbusters two. Three more business legends hidden in here. You know what to do.
+  prize: Email in. Winner gets an AOL trial disc and a mug from a company that doesn't exist anymore.
   clues:
-    - number: 1
-      initials: A S
-      clue: "Right, there's a fella called Al, and he's only gone and got himself completely covered in sweetener. Head to toe. Not sure how."
-      answer: Alan Sugar
-      aliases:
-        - alan sugar
-        - sugar
-      reasoning: "Al (short for Alan) + an (the word an) + sugar (sweetener, the white stuff) = Al-an Sugar = Alan Sugar"
-    - number: 2
-      initials: E M
-      clue: "There's an eel, right, and it's sitting on a bottle of men's cologne. Just perched there. Smells nice apparently."
-      answer: Elon Musk
-      aliases:
-        - elon musk
-        - musk
-      reasoning: "eel (a long fish) + on (sitting on top of) + musk (a musky cologne/fragrance) = Eel-on Musk = Elon Musk"
-    - number: 3
-      initials: S J
-      clue: "A fella called Steve has got about four different occupations on the go. Doing all of them at once. Very busy man."
-      answer: Steve Jobs
-      aliases:
-        - steve jobs
-        - jobs
-      reasoning: "Steve (the name) + jobs (multiple occupations/roles) = Steve Jobs"
-
+  - number: 1
+    initials: A S
+    clue: Right, there's a fella called Al, and he's only gone and got himself completely covered in sweetener. Head to toe. Not sure how.
+    answer: Alan Sugar
+    aliases:
+    - alan sugar
+    - sugar
+    reasoning: Al (short for Alan) + an (the word an) + sugar (sweetener, the white stuff) = Al-an Sugar = Alan Sugar
+  - number: 2
+    initials: E M
+    clue: There's an eel, right, and it's sitting on a bottle of men's cologne. Just perched there. Smells nice apparently.
+    answer: Elon Musk
+    aliases:
+    - elon musk
+    - musk
+    reasoning: eel (a long fish) + on (sitting on top of) + musk (a musky cologne/fragrance) = Eel-on Musk = Elon Musk
+  - number: 3
+    initials: S J
+    clue: A fella called Steve has got about four different occupations on the go. Doing all of them at once. Very busy man.
+    answer: Steve Jobs
+    aliases:
+    - steve jobs
+    - jobs
+    reasoning: Steve (the name) + jobs (multiple occupations/roles) = Steve Jobs
 - id: businessbusters-003
   enabled: true
   title: Businessbusters
@@ -79,36 +77,35 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Three in now. Businessbusters three. All famous business people hiding in these phonetic clues."
-  prize: "Email in. Winner gets a Blockbuster loyalty card and a laminated bookmark from WHSmith."
+  - UK
+  - US
+  intro: Businessbusters. Famous business people hiding in these phonetic clues. Say them out loud.
+  prize: Email in. Winner gets a Blockbuster loyalty card and a laminated bookmark from WHSmith.
   clues:
-    - number: 1
-      initials: M Z
-      clue: "Right, there's a mark - like a stain or something - on a person who's been making a right meal of that lolly. And it's cold. Like an iceberg situation."
-      answer: Mark Zuckerberg
-      aliases:
-        - mark zuckerberg
-        - zuckerberg
-      reasoning: "mark (a stain or blemish) + zucker (sounds like 'sucker', someone making a meal of a lolly) + berg (an iceberg, something cold and large) = Mark Zucker-berg = Mark Zuckerberg"
-    - number: 2
-      initials: W B
-      clue: "There's a rabbit's burrow and the resident's been polishing himself. He's buffed up lovely. Very glossy finish."
-      answer: Warren Buffett
-      aliases:
-        - warren buffett
-        - buffett
-      reasoning: "warren (a rabbit burrow/network of tunnels) + buff (to polish, to shine) + et (a little, a diminutive) = Warren Buff-et = Warren Buffett"
-    - number: 3
-      initials: J D
-      clue: "A man called James has only gone and dyed his son. Just the colour, not permanently. Still a bit unusual though."
-      answer: James Dyson
-      aliases:
-        - james dyson
-        - dyson
-      reasoning: "James (the name) + dye (to colour something) + son (a male child) = James Dye-son = James Dyson"
-
+  - number: 1
+    initials: M Z
+    clue: Right, there's a mark - like a stain or something - on a person who's been making a right meal of that lolly. And it's cold. Like an iceberg situation.
+    answer: Mark Zuckerberg
+    aliases:
+    - mark zuckerberg
+    - zuckerberg
+    reasoning: mark (a stain or blemish) + zucker (sounds like 'sucker', someone making a meal of a lolly) + berg (an iceberg, something cold and large) = Mark Zucker-berg = Mark Zuckerberg
+  - number: 2
+    initials: W B
+    clue: There's a rabbit's burrow and the resident's been polishing himself. He's buffed up lovely. Very glossy finish.
+    answer: Warren Buffett
+    aliases:
+    - warren buffett
+    - buffett
+    reasoning: warren (a rabbit burrow/network of tunnels) + buff (to polish, to shine) + et (a little, a diminutive) = Warren Buff-et = Warren Buffett
+  - number: 3
+    initials: J D
+    clue: A man called James has only gone and dyed his son. Just the colour, not permanently. Still a bit unusual though.
+    answer: James Dyson
+    aliases:
+    - james dyson
+    - dyson
+    reasoning: James (the name) + dye (to colour something) + son (a male child) = James Dye-son = James Dyson
 - id: businessbusters-004
   enabled: true
   title: Businessbusters
@@ -116,36 +113,35 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Businessbusters four. All moguls and founders hiding in the sounds. Say them out loud."
-  prize: "Email in. Winner gets a printed photo from a disposable camera, framed, and a tube of Pringles."
+  - UK
+  - US
+  intro: Businessbusters four. All moguls and founders hiding in the sounds. Say them out loud.
+  prize: Email in. Winner gets a printed photo from a disposable camera, framed, and a tube of Pringles.
   clues:
-    - number: 1
-      initials: O W
-      clue: "Right, this woman's had a win. Big win. And now she's free. Just completely free. Totally liberated by the whole thing."
-      answer: Oprah Winfrey
-      aliases:
-        - oprah winfrey
-        - winfrey
-      reasoning: "oh (an exclamation) + pra (sounds like 'prah') + win (to win something) + free (liberated, no longer bound) = Oh-pra Win-free = Oprah Winfrey"
-    - number: 2
-      initials: R M
-      clue: "A kangaroo who's being a bit cheeky has fetched up at the harbour. Just standing on the jetty being impertinent. Nobody knows why."
-      answer: Rupert Murdoch
-      aliases:
-        - rupert murdoch
-        - murdoch
-      reasoning: "roo (a kangaroo, informal) + pert (cheeky, impertinent) + mur (sounds like 'mur', a murmur) + dock (a harbour jetty) = Roo-pert Mur-dock = Rupert Murdoch"
-    - number: 3
-      initials: P J
-      clue: "There's a wet boggy bit of ground and a fella who's had a bit too much has fallen onto it. He's called Jones. Just lying there."
-      answer: Peter Jones
-      aliases:
-        - peter jones
-        - jones
-      reasoning: "peat (boggy wet ground, peat bog) + er (the sound) + Jones (a surname) = Peat-er Jones = Peter Jones"
-
+  - number: 1
+    initials: O W
+    clue: Right, this woman's had a win. Big win. And now she's free. Just completely free. Totally liberated by the whole thing.
+    answer: Oprah Winfrey
+    aliases:
+    - oprah winfrey
+    - winfrey
+    reasoning: oh (an exclamation) + pra (sounds like 'prah') + win (to win something) + free (liberated, no longer bound) = Oh-pra Win-free = Oprah Winfrey
+  - number: 2
+    initials: R M
+    clue: A kangaroo who's being a bit cheeky has fetched up at the harbour. Just standing on the jetty being impertinent. Nobody knows why.
+    answer: Rupert Murdoch
+    aliases:
+    - rupert murdoch
+    - murdoch
+    reasoning: roo (a kangaroo, informal) + pert (cheeky, impertinent) + mur (sounds like 'mur', a murmur) + dock (a harbour jetty) = Roo-pert Mur-dock = Rupert Murdoch
+  - number: 3
+    initials: P J
+    clue: There's a wet boggy bit of ground and a fella who's had a bit too much has fallen onto it. He's called Jones. Just lying there.
+    answer: Peter Jones
+    aliases:
+    - peter jones
+    - jones
+    reasoning: peat (boggy wet ground, peat bog) + er (the sound) + Jones (a surname) = Peat-er Jones = Peter Jones
 - id: businessbusters-005
   enabled: true
   title: Businessbusters
@@ -153,37 +149,36 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Five in. Businessbusters five. Three more business clues. The answer's in the sounds somewhere."
-  prize: "Email in. Winner gets a Now 58 cassette and a complimentary hotel shower cap."
+  - UK
+  - US
+  intro: Five in. Businessbusters five. Three more business clues. The answer's in the sounds somewhere.
+  prize: Email in. Winner gets a Now 58 cassette and a complimentary hotel shower cap.
   clues:
-    - number: 1
-      initials: P G
-      clue: "Right, there's a large container - one of those tanks - and someone called Phil has put a little flick in it. A small tap. Just touched it."
-      answer: Philip Green
-      aliases:
-        - philip green
-        - green
-        - sir philip green
-      reasoning: "fill (to fill something, like a tank) + ip (a small flick or tap) + green (the colour, or just the word green) = Fill-ip Green = Philip Green"
-    - number: 2
-      initials: D B
-      clue: "There's a young woman making her debut in society. Then there's another option. Then there's an exclamation of mild surprise. Then there's a meadow with some sort of hollow in it."
-      answer: Deborah Meaden
-      aliases:
-        - deborah meaden
-        - meaden
-      reasoning: "deb (a debutante, a young woman making her debut) + or (another option) + ah (a mild exclamation) + mead (a meadow, or the alcoholic drink) + en (the sound) = Deb-or-ah Mead-en = Deborah Meaden"
-    - number: 3
-      initials: M A
-      clue: "Someone's put a microphone through a pile of ash and it's come out the other side into a field. That's what's happened there."
-      answer: Mike Ashley
-      aliases:
-        - mike ashley
-        - ashley
-      reasoning: "mike (a microphone) + ash (burnt residue, ash) + lee (a meadow, a field - as in 'ley' meaning open land) = Mike Ash-lee = Mike Ashley"
-
+  - number: 1
+    initials: P G
+    clue: Right, there's a large container - one of those tanks - and someone called Phil has put a little flick in it. A small tap. Just touched it.
+    answer: Philip Green
+    aliases:
+    - philip green
+    - green
+    - sir philip green
+    reasoning: fill (to fill something, like a tank) + ip (a small flick or tap) + green (the colour, or just the word green) = Fill-ip Green = Philip Green
+  - number: 2
+    initials: D B
+    clue: There's a young woman making her debut in society. Then there's another option. Then there's an exclamation of mild surprise. Then there's a meadow with some sort of hollow in it.
+    answer: Deborah Meaden
+    aliases:
+    - deborah meaden
+    - meaden
+    reasoning: deb (a debutante, a young woman making her debut) + or (another option) + ah (a mild exclamation) + mead (a meadow, or the alcoholic drink) + en (the sound) = Deb-or-ah Mead-en = Deborah Meaden
+  - number: 3
+    initials: M A
+    clue: Someone's put a microphone through a pile of ash and it's come out the other side into a field. That's what's happened there.
+    answer: Mike Ashley
+    aliases:
+    - mike ashley
+    - ashley
+    reasoning: mike (a microphone) + ash (burnt residue, ash) + lee (a meadow, a field - as in 'ley' meaning open land) = Mike Ash-lee = Mike Ashley
 - id: businessbusters-006
   enabled: true
   title: Businessbusters
@@ -191,36 +186,35 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Six in. Businessbusters six. All business legends. Say these out loud - the answers are hiding in there."
-  prize: "Email in. Winner gets a DVD of Titanic and a promotional pen from a mortgage company."
+  - UK
+  - US
+  intro: Six in. Businessbusters six. All business legends. Say these out loud - the answers are hiding in there.
+  prize: Email in. Winner gets a DVD of Titanic and a promotional pen from a mortgage company.
   clues:
-    - number: 1
-      initials: D B
-      clue: "Right, someone's finished something - it's done - and they've put it in a metal container. And then they've banned a type of fruit. In that order."
-      answer: Duncan Bannatyne
-      aliases:
-        - duncan bannatyne
-        - bannatyne
-      reasoning: "dun (done, finished) + can (a metal container, a tin) + ban (to prohibit) + a + tyne (sounds like 'tine', a prong, or the River Tyne) = Dun-can Ban-a-tyne = Duncan Bannatyne"
-    - number: 2
-      initials: H S
-      clue: "There's a fella who wants to know something, right, and he's being quite dogged about asking. He's covered in salt as well for some reason."
-      answer: Howard Schultz
-      aliases:
-        - howard schultz
-        - schultz
-      reasoning: "how (asking a question, wanting to know) + ard (hard, dogged, persistent) + shultz (sounds like 'shults', salty/salt with a z) = How-ard Shultz = Howard Schultz"
-    - number: 3
-      initials: R K
-      clue: "A beam of sunshine has fallen directly on a large reptile with very big teeth. The crocodile seems pleased about it."
-      answer: Ray Kroc
-      aliases:
-        - ray kroc
-        - kroc
-      reasoning: "ray (a beam of light, a sunray) + croc (a crocodile, informal) = Ray Croc = Ray Kroc"
-
+  - number: 1
+    initials: D B
+    clue: Right, someone's finished something - it's done - and they've put it in a metal container. And then they've banned a type of fruit. In that order.
+    answer: Duncan Bannatyne
+    aliases:
+    - duncan bannatyne
+    - bannatyne
+    reasoning: dun (done, finished) + can (a metal container, a tin) + ban (to prohibit) + a + tyne (sounds like 'tine', a prong, or the River Tyne) = Dun-can Ban-a-tyne = Duncan Bannatyne
+  - number: 2
+    initials: H S
+    clue: There's a fella who wants to know something, right, and he's being quite dogged about asking. He's covered in salt as well for some reason.
+    answer: Howard Schultz
+    aliases:
+    - howard schultz
+    - schultz
+    reasoning: how (asking a question, wanting to know) + ard (hard, dogged, persistent) + shultz (sounds like 'shults', salty/salt with a z) = How-ard Shultz = Howard Schultz
+  - number: 3
+    initials: R K
+    clue: A beam of sunshine has fallen directly on a large reptile with very big teeth. The crocodile seems pleased about it.
+    answer: Ray Kroc
+    aliases:
+    - ray kroc
+    - kroc
+    reasoning: ray (a beam of light, a sunray) + croc (a crocodile, informal) = Ray Croc = Ray Kroc
 - id: businessbusters-007
   enabled: true
   title: Businessbusters
@@ -228,36 +222,35 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Businessbusters seven. Three more moguls hiding in here. Phonetic clues, you know the drill."
-  prize: "Email in. Winner gets a signed letter from someone off Watercolour Challenge, possibly."
+  - UK
+  - US
+  intro: Businessbusters seven. Three more moguls hiding in here. Phonetic clues, you know the drill.
+  prize: Email in. Winner gets a signed letter from someone off Watercolour Challenge, possibly.
   clues:
-    - number: 1
-      initials: W D
-      clue: "Right, someone's built a wall - a proper partition - and then said something rude about a young woman's knee. All in one go."
-      answer: Walt Disney
-      aliases:
-        - walt disney
-        - disney
-      reasoning: "wall (a partition) + t (the letter t, or 'twit') + dis (to disrespect, to say something rude) + knee (part of the leg) = Wall-t Dis-knee = Walt Disney"
-    - number: 2
-      initials: T P
-      clue: "A very devout person - very religious, uses thee and thou - has gone completely soft. Totally squishy. Like a cushion."
-      answer: Theo Paphitis
-      aliases:
-        - theo paphitis
-        - paphitis
-      reasoning: "thee (a religious/archaic form of you) + o (the sound) + paff (sounds like 'puff', soft and yielding) + it + is = Thee-o Paff-it-is = Theo Paphitis"
-    - number: 3
-      initials: C S
-      clue: "A small hard piece at the middle of something - like in fruit - has ended up in a pile of beach material. Just sitting there in all that sand."
-      answer: Colonel Sanders
-      aliases:
-        - colonel sanders
-        - sanders
-      reasoning: "kernel (the core or centre piece inside something) + sand (beach material) + ers (the sound) = Ker-nel Sand-ers = Colonel Sanders. Kernel sounds like Colonel."
-
+  - number: 1
+    initials: W D
+    clue: Right, someone's built a wall - a proper partition - and then said something rude about a young woman's knee. All in one go.
+    answer: Walt Disney
+    aliases:
+    - walt disney
+    - disney
+    reasoning: wall (a partition) + t (the letter t, or 'twit') + dis (to disrespect, to say something rude) + knee (part of the leg) = Wall-t Dis-knee = Walt Disney
+  - number: 2
+    initials: T P
+    clue: A very devout person - very religious, uses thee and thou - has gone completely soft. Totally squishy. Like a cushion.
+    answer: Theo Paphitis
+    aliases:
+    - theo paphitis
+    - paphitis
+    reasoning: thee (a religious/archaic form of you) + o (the sound) + paff (sounds like 'puff', soft and yielding) + it + is = Thee-o Paff-it-is = Theo Paphitis
+  - number: 3
+    initials: C S
+    clue: A small hard piece at the middle of something - like in fruit - has ended up in a pile of beach material. Just sitting there in all that sand.
+    answer: Colonel Sanders
+    aliases:
+    - colonel sanders
+    - sanders
+    reasoning: kernel (the core or centre piece inside something) + sand (beach material) + ers (the sound) = Ker-nel Sand-ers = Colonel Sanders. Kernel sounds like Colonel.
 - id: businessbusters-008
   enabled: true
   title: Businessbusters
@@ -265,36 +258,35 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Eight in. Businessbusters eight. Same deal - all business legends, all phonetic clues."
-  prize: "Email in. Winner gets an Encyclopaedia Britannica volume 14 and a key from a hotel room that's been checked out of."
+  - UK
+  - US
+  intro: Eight in. Businessbusters eight. Same deal - all business legends, all phonetic clues.
+  prize: Email in. Winner gets an Encyclopaedia Britannica volume 14 and a key from a hotel room that's been checked out of.
   clues:
-    - number: 1
-      initials: S W
-      clue: "Right, there's a woman called Sar, and she's very willing to do something. Very keen. She's going to do it in a place with a cured pork product in the name."
-      answer: Sarah Willingham
-      aliases:
-        - sarah willingham
-        - willingham
-      reasoning: "Sar (short for Sarah) + ah (the exclamation) + will (willing, keen to do something) + ing (the suffix) + ham (a cured pork product) = Sar-ah Will-ing-ham = Sarah Willingham"
-    - number: 2
-      initials: K H
-      clue: "A woman called Kelly is doing a little hop. Just the one hop. She's very enthusiastic about it. Bit odd."
-      answer: Kelly Hoppen
-      aliases:
-        - kelly hoppen
-        - hoppen
-      reasoning: "Kelly (the woman's name) + hop (a small jump) + pen (a writing instrument, or 'pen' as in enclosure) = Kelly Hop-pen = Kelly Hoppen"
-    - number: 3
-      initials: T S
-      clue: "There are two vehicles - two cars - and someone's taking a legal action against a man who's lying down flat. Just reclining there."
-      answer: Touker Suleyman
-      aliases:
-        - touker suleyman
-        - suleyman
-      reasoning: "too (two) + ker (car, informal) + sue (to take legal action against) + lay (to lie down flat) + man (a person) = Too-ker Sue-lay-man = Touker Suleyman"
-
+  - number: 1
+    initials: S W
+    clue: Right, there's a woman called Sar, and she's very willing to do something. Very keen. She's going to do it in a place with a cured pork product in the name.
+    answer: Sarah Willingham
+    aliases:
+    - sarah willingham
+    - willingham
+    reasoning: Sar (short for Sarah) + ah (the exclamation) + will (willing, keen to do something) + ing (the suffix) + ham (a cured pork product) = Sar-ah Will-ing-ham = Sarah Willingham
+  - number: 2
+    initials: K H
+    clue: A woman called Kelly is doing a little hop. Just the one hop. She's very enthusiastic about it. Bit odd.
+    answer: Kelly Hoppen
+    aliases:
+    - kelly hoppen
+    - hoppen
+    reasoning: Kelly (the woman's name) + hop (a small jump) + pen (a writing instrument, or 'pen' as in enclosure) = Kelly Hop-pen = Kelly Hoppen
+  - number: 3
+    initials: T S
+    clue: There are two vehicles - two cars - and someone's taking a legal action against a man who's lying down flat. Just reclining there.
+    answer: Touker Suleyman
+    aliases:
+    - touker suleyman
+    - suleyman
+    reasoning: too (two) + ker (car, informal) + sue (to take legal action against) + lay (to lie down flat) + man (a person) = Too-ker Sue-lay-man = Touker Suleyman
 - id: businessbusters-009
   enabled: true
   title: Businessbusters
@@ -302,36 +294,35 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Businessbusters nine. Three more business people hiding in the sounds. Have a listen."
-  prize: "Email in. Winner gets a Woolworths gift voucher, no longer redeemable, and a biscuit tin."
+  - UK
+  - US
+  intro: Businessbusters nine. Three more business people hiding in the sounds. Have a listen.
+  prize: Email in. Winner gets a Woolworths gift voucher, no longer redeemable, and a biscuit tin.
   clues:
-    - number: 1
-      initials: R B
-      clue: "He's got a lot of money, this fella, and he's quite tough about it. And he's eating his morning cereal with his boy. That's the scene."
-      answer: Richard Branson
-      aliases:
-        - richard branson
-        - branson
-      reasoning: "rich (having a lot of money) + ard (hard, tough) + bran (cereal, the morning stuff) + son (a boy, a male child) = Rich-ard Bran-son = Richard Branson"
-    - number: 2
-      initials: B G
-      clue: "The invoice has turned up at the garden gate. Just sitting there. Someone's going to have to pay it."
-      answer: Bill Gates
-      aliases:
-        - bill gates
-        - gates
-      reasoning: "bill (an invoice or demand for payment) + gates (the entrance, a garden gate) = Bill Gates"
-    - number: 3
-      initials: J B
-      clue: "Right, Jeff's gone and brought a load of bees. They're buzzing around something. I don't know what he expected to happen."
-      answer: Jeff Bezos
-      aliases:
-        - jeff bezos
-        - bezos
-      reasoning: "Jeff (the name) + bee (the insect) + zos (sounds like the buzz fading, or 'those' said quick) = Jeff Bee-zos = Jeff Bezos"
-
+  - number: 1
+    initials: R B
+    clue: He's got a lot of money, this fella, and he's quite tough about it. And he's eating his morning cereal with his boy. That's the scene.
+    answer: Richard Branson
+    aliases:
+    - richard branson
+    - branson
+    reasoning: rich (having a lot of money) + ard (hard, tough) + bran (cereal, the morning stuff) + son (a boy, a male child) = Rich-ard Bran-son = Richard Branson
+  - number: 2
+    initials: B G
+    clue: The invoice has turned up at the garden gate. Just sitting there. Someone's going to have to pay it.
+    answer: Bill Gates
+    aliases:
+    - bill gates
+    - gates
+    reasoning: bill (an invoice or demand for payment) + gates (the entrance, a garden gate) = Bill Gates
+  - number: 3
+    initials: J B
+    clue: Right, Jeff's gone and brought a load of bees. They're buzzing around something. I don't know what he expected to happen.
+    answer: Jeff Bezos
+    aliases:
+    - jeff bezos
+    - bezos
+    reasoning: Jeff (the name) + bee (the insect) + zos (sounds like the buzz fading, or 'those' said quick) = Jeff Bee-zos = Jeff Bezos
 - id: businessbusters-010
   enabled: true
   title: Businessbusters
@@ -339,36 +330,35 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Halfway. Businessbusters ten. All moguls. All phonetic. You've been doing alright so far."
-  prize: "Email in. Winner gets a printed calendar from 2009 and a small jar of artisan chutney."
+  - UK
+  - US
+  intro: Businessbusters. All moguls, all phonetic. Say them out loud.
+  prize: Email in. Winner gets a printed calendar from 2009 and a small jar of artisan chutney.
   clues:
-    - number: 1
-      initials: E M
-      clue: "There's an elongated wriggly fish and it's on top of something that smells very woody and musky. Just sitting on it."
-      answer: Elon Musk
-      aliases:
-        - elon musk
-        - musk
-      reasoning: "eel (a long wriggly fish) + on (on top of) + musk (a woody musky scent) = Eel-on Musk = Elon Musk"
-    - number: 2
-      initials: A S
-      clue: "A fella called Al has got his name down for something, and then he's fallen headfirst into a bowl of the sweet white stuff."
-      answer: Alan Sugar
-      aliases:
-        - alan sugar
-        - sugar
-      reasoning: "Al (short for Alan) + an (the word, as in 'booked an appointment') + sugar (the sweet white stuff, sweetener) = Al-an Sugar = Alan Sugar"
-    - number: 3
-      initials: M Z
-      clue: "There's a scratch on something, and the person who made it was really going to town on an ice lolly. Cold thing. Big one."
-      answer: Mark Zuckerberg
-      aliases:
-        - mark zuckerberg
-        - zuckerberg
-      reasoning: "mark (a scratch or blemish) + zucker (sounds like 'sucker', someone going to town on a lolly) + berg (a large block of ice, an iceberg) = Mark Zucker-berg = Mark Zuckerberg"
-
+  - number: 1
+    initials: E M
+    clue: There's an elongated wriggly fish and it's on top of something that smells very woody and musky. Just sitting on it.
+    answer: Elon Musk
+    aliases:
+    - elon musk
+    - musk
+    reasoning: eel (a long wriggly fish) + on (on top of) + musk (a woody musky scent) = Eel-on Musk = Elon Musk
+  - number: 2
+    initials: A S
+    clue: A fella called Al has got his name down for something, and then he's fallen headfirst into a bowl of the sweet white stuff.
+    answer: Alan Sugar
+    aliases:
+    - alan sugar
+    - sugar
+    reasoning: Al (short for Alan) + an (the word, as in 'booked an appointment') + sugar (the sweet white stuff, sweetener) = Al-an Sugar = Alan Sugar
+  - number: 3
+    initials: M Z
+    clue: There's a scratch on something, and the person who made it was really going to town on an ice lolly. Cold thing. Big one.
+    answer: Mark Zuckerberg
+    aliases:
+    - mark zuckerberg
+    - zuckerberg
+    reasoning: mark (a scratch or blemish) + zucker (sounds like 'sucker', someone going to town on a lolly) + berg (a large block of ice, an iceberg) = Mark Zucker-berg = Mark Zuckerberg
 - id: businessbusters-011
   enabled: true
   title: Businessbusters
@@ -376,36 +366,35 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Right then, Businessbusters eleven. Three more business clues, all phonetic. Say them out loud and you'll hear it."
-  prize: "Email in. Winner gets a signed photo of a Blue Peter presenter from 2002, condition unknown."
+  - UK
+  - US
+  intro: Right then, Businessbusters eleven. Three more business clues, all phonetic. Say them out loud and you'll hear it.
+  prize: Email in. Winner gets a signed photo of a Blue Peter presenter from 2002, condition unknown.
   clues:
-    - number: 1
-      initials: W B
-      clue: "A rabbit's underground network is full of a tenant who's been vigorously polishing things. Everything's gleaming in there."
-      answer: Warren Buffett
-      aliases:
-        - warren buffett
-        - buffett
-      reasoning: "warren (a rabbit's underground network) + buff (to polish vigorously) + et (a small French suffix, diminutive) = Warren Buff-et = Warren Buffett"
-    - number: 2
-      initials: O W
-      clue: "Someone's gone oh, and then they've done a sort of prayer sound, and then they've had a massive win and walked out the door without paying for anything."
-      answer: Oprah Winfrey
-      aliases:
-        - oprah winfrey
-        - winfrey
-      reasoning: "oh (exclamation) + pra (a prayer-like sound, like pra-yer clipped) + win (to win) + free (without paying, liberated) = Oh-pra Win-free = Oprah Winfrey"
-    - number: 3
-      initials: S J
-      clue: "There's a man called Steve and he's taken on about six different lines of work. All at the same time. Keeps himself busy."
-      answer: Steve Jobs
-      aliases:
-        - steve jobs
-        - jobs
-      reasoning: "Steve (a man's name) + jobs (multiple occupations, different lines of work) = Steve Jobs"
-
+  - number: 1
+    initials: W B
+    clue: A rabbit's underground network is full of a tenant who's been vigorously polishing things. Everything's gleaming in there.
+    answer: Warren Buffett
+    aliases:
+    - warren buffett
+    - buffett
+    reasoning: warren (a rabbit's underground network) + buff (to polish vigorously) + et (a small French suffix, diminutive) = Warren Buff-et = Warren Buffett
+  - number: 2
+    initials: O W
+    clue: Someone's gone oh, and then they've done a sort of prayer sound, and then they've had a massive win and walked out the door without paying for anything.
+    answer: Oprah Winfrey
+    aliases:
+    - oprah winfrey
+    - winfrey
+    reasoning: oh (exclamation) + pra (a prayer-like sound, like pra-yer clipped) + win (to win) + free (without paying, liberated) = Oh-pra Win-free = Oprah Winfrey
+  - number: 3
+    initials: S J
+    clue: There's a man called Steve and he's taken on about six different lines of work. All at the same time. Keeps himself busy.
+    answer: Steve Jobs
+    aliases:
+    - steve jobs
+    - jobs
+    reasoning: Steve (a man's name) + jobs (multiple occupations, different lines of work) = Steve Jobs
 - id: businessbusters-012
   enabled: true
   title: Businessbusters
@@ -413,36 +402,35 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Businessbusters twelve. Bit of a mix in here. All business legends, all phonetic."
-  prize: "Email in. Winner gets a DVD copy of Notting Hill and a commemorative spoon."
+  - UK
+  - US
+  intro: Businessbusters twelve. Bit of a mix in here. All business legends, all phonetic.
+  prize: Email in. Winner gets a DVD copy of Notting Hill and a commemorative spoon.
   clues:
-    - number: 1
-      initials: J D
-      clue: "Right, that bloke James has only gone and coloured his son. Not a permanent dye. More of a temporary thing. The son doesn't seem that bothered."
-      answer: James Dyson
-      aliases:
-        - james dyson
-        - dyson
-      reasoning: "James (the name) + dye (to colour, to stain temporarily) + son (a male child) = James Dye-son = James Dyson"
-    - number: 2
-      initials: R M
-      clue: "A kangaroo has turned up at the docks. Cheeky one. Standing there being impertinent to the harbour master. Won't move on."
-      answer: Rupert Murdoch
-      aliases:
-        - rupert murdoch
-        - murdoch
-      reasoning: "roo (informal for kangaroo) + pert (impertinent, cheeky) + mur (a murmuring sound) + dock (a harbour/jetty) = Roo-pert Mur-dock = Rupert Murdoch"
-    - number: 3
-      initials: P J
-      clue: "Someone's fallen into a peat bog. Fella called Jones. He's stuck. Not too panicked about it, just lying there in the wet ground."
-      answer: Peter Jones
-      aliases:
-        - peter jones
-        - jones
-      reasoning: "peat (boggy wet ground, a peat bog) + er (sound at the end) + Jones (a Welsh-sounding surname) = Peat-er Jones = Peter Jones"
-
+  - number: 1
+    initials: J D
+    clue: Right, that bloke James has only gone and coloured his son. Not a permanent dye. More of a temporary thing. The son doesn't seem that bothered.
+    answer: James Dyson
+    aliases:
+    - james dyson
+    - dyson
+    reasoning: James (the name) + dye (to colour, to stain temporarily) + son (a male child) = James Dye-son = James Dyson
+  - number: 2
+    initials: R M
+    clue: A kangaroo has turned up at the docks. Cheeky one. Standing there being impertinent to the harbour master. Won't move on.
+    answer: Rupert Murdoch
+    aliases:
+    - rupert murdoch
+    - murdoch
+    reasoning: roo (informal for kangaroo) + pert (impertinent, cheeky) + mur (a murmuring sound) + dock (a harbour/jetty) = Roo-pert Mur-dock = Rupert Murdoch
+  - number: 3
+    initials: P J
+    clue: Someone's fallen into a peat bog. Fella called Jones. He's stuck. Not too panicked about it, just lying there in the wet ground.
+    answer: Peter Jones
+    aliases:
+    - peter jones
+    - jones
+    reasoning: peat (boggy wet ground, a peat bog) + er (sound at the end) + Jones (a Welsh-sounding surname) = Peat-er Jones = Peter Jones
 - id: businessbusters-013
   enabled: true
   title: Businessbusters
@@ -450,37 +438,36 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Businessbusters thirteen. Unlucky for some but not for business trivia fans. Three more in here."
-  prize: "Email in. Winner gets a Now That's What I Call Music 61 CD and a selection of hotel toiletries."
+  - UK
+  - US
+  intro: Businessbusters thirteen. Unlucky for some but not for business trivia fans. Three more in here.
+  prize: Email in. Winner gets a Now That's What I Call Music 61 CD and a selection of hotel toiletries.
   clues:
-    - number: 1
-      initials: P G
-      clue: "A fella called Phil has given something a little flick - just a quick tap with the finger - and it's ended up being a nice green colour."
-      answer: Philip Green
-      aliases:
-        - philip green
-        - green
-        - sir philip green
-      reasoning: "fill (a man called Phil/Philip sounds like fill) + ip (a flick with the finger, a small tap) + green (the colour green) = Fill-ip Green = Philip Green"
-    - number: 2
-      initials: D B
-      clue: "A young woman at her first posh party has said or and then ah, and then she's wandered off into a meadow that's got a sort of dip in it."
-      answer: Deborah Meaden
-      aliases:
-        - deborah meaden
-        - meaden
-      reasoning: "deb (a debutante at her first posh party) + or (the conjunction) + ah (an exclamation) + mead (a meadow or the honey drink) + en (a sound) = Deb-or-ah Mead-en = Deborah Meaden"
-    - number: 3
-      initials: M A
-      clue: "Right, someone's gone through some ash - like bonfire ash - and come out the other side into a sort of sheltered clearing. Can't explain it."
-      answer: Mike Ashley
-      aliases:
-        - mike ashley
-        - ashley
-      reasoning: "mike (a microphone, or the name Mike) + ash (bonfire ash, the grey residue) + lee (a sheltered clearing or meadow) = Mike Ash-lee = Mike Ashley"
-
+  - number: 1
+    initials: P G
+    clue: A fella called Phil has given something a little flick - just a quick tap with the finger - and it's ended up being a nice green colour.
+    answer: Philip Green
+    aliases:
+    - philip green
+    - green
+    - sir philip green
+    reasoning: fill (a man called Phil/Philip sounds like fill) + ip (a flick with the finger, a small tap) + green (the colour green) = Fill-ip Green = Philip Green
+  - number: 2
+    initials: D B
+    clue: A young woman at her first posh party has said or and then ah, and then she's wandered off into a meadow that's got a sort of dip in it.
+    answer: Deborah Meaden
+    aliases:
+    - deborah meaden
+    - meaden
+    reasoning: deb (a debutante at her first posh party) + or (the conjunction) + ah (an exclamation) + mead (a meadow or the honey drink) + en (a sound) = Deb-or-ah Mead-en = Deborah Meaden
+  - number: 3
+    initials: M A
+    clue: Right, someone's gone through some ash - like bonfire ash - and come out the other side into a sort of sheltered clearing. Can't explain it.
+    answer: Mike Ashley
+    aliases:
+    - mike ashley
+    - ashley
+    reasoning: mike (a microphone, or the name Mike) + ash (bonfire ash, the grey residue) + lee (a sheltered clearing or meadow) = Mike Ash-lee = Mike Ashley
 - id: businessbusters-014
   enabled: true
   title: Businessbusters
@@ -488,36 +475,35 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Fourteen in. Businessbusters fourteen. Same deal - business founders in phonetic clues. Have a go."
-  prize: "Email in. Winner gets a Littlewoods catalogue from 2001 and a complimentary pen from a dental surgery."
+  - UK
+  - US
+  intro: Fourteen in. Businessbusters fourteen. Same deal - business founders in phonetic clues. Have a go.
+  prize: Email in. Winner gets a Littlewoods catalogue from 2001 and a complimentary pen from a dental surgery.
   clues:
-    - number: 1
-      initials: D B
-      clue: "It's been done - all finished - and it's been put in a tin. Then someone's gone and banned a tree. The whole thing banned. Seems extreme."
-      answer: Duncan Bannatyne
-      aliases:
-        - duncan bannatyne
-        - bannatyne
-      reasoning: "dun (done, completed) + can (a tin can, a metal container) + ban (to prohibit) + a (the article) + tyne (sounds like 'tine', a point or prong, or the place name) = Dun-can Ban-a-tyne = Duncan Bannatyne"
-    - number: 2
-      initials: H S
-      clue: "There's a persistent fella asking questions about how things work. He's relentless. And he's absolutely caked in salt. From head to toe."
-      answer: Howard Schultz
-      aliases:
-        - howard schultz
-        - schultz
-      reasoning: "how (a question word, asking how) + ard (hard, persistent, relentless) + shultz (sounds like 'shults', like salt with a slight German twist) = How-ard Shultz = Howard Schultz"
-    - number: 3
-      initials: W D
-      clue: "Someone's put up a partition - a proper wall - and then said something disrespectful to a young woman's kneecap. In that order."
-      answer: Walt Disney
-      aliases:
-        - walt disney
-        - disney
-      reasoning: "wall (a partition) + t (just the sound) + dis (to disrespect, to have a go at) + knee (the kneecap, part of the leg) = Wall-t Dis-knee = Walt Disney"
-
+  - number: 1
+    initials: D B
+    clue: It's been done - all finished - and it's been put in a tin. Then someone's gone and banned a tree. The whole thing banned. Seems extreme.
+    answer: Duncan Bannatyne
+    aliases:
+    - duncan bannatyne
+    - bannatyne
+    reasoning: dun (done, completed) + can (a tin can, a metal container) + ban (to prohibit) + a (the article) + tyne (sounds like 'tine', a point or prong, or the place name) = Dun-can Ban-a-tyne = Duncan Bannatyne
+  - number: 2
+    initials: H S
+    clue: There's a persistent fella asking questions about how things work. He's relentless. And he's absolutely caked in salt. From head to toe.
+    answer: Howard Schultz
+    aliases:
+    - howard schultz
+    - schultz
+    reasoning: how (a question word, asking how) + ard (hard, persistent, relentless) + shultz (sounds like 'shults', like salt with a slight German twist) = How-ard Shultz = Howard Schultz
+  - number: 3
+    initials: W D
+    clue: Someone's put up a partition - a proper wall - and then said something disrespectful to a young woman's kneecap. In that order.
+    answer: Walt Disney
+    aliases:
+    - walt disney
+    - disney
+    reasoning: wall (a partition) + t (just the sound) + dis (to disrespect, to have a go at) + knee (the kneecap, part of the leg) = Wall-t Dis-knee = Walt Disney
 - id: businessbusters-015
   enabled: true
   title: Businessbusters
@@ -525,36 +511,35 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Businessbusters fifteen. Five to go. All business clues. You know the drill by now."
-  prize: "Email in. Winner gets a copy of Mr Bean on VHS and a loyalty card for a shop that closed down."
+  - UK
+  - US
+  intro: Businessbusters fifteen. Five to go. All business clues. You know the drill by now.
+  prize: Email in. Winner gets a copy of Mr Bean on VHS and a loyalty card for a shop that closed down.
   clues:
-    - number: 1
-      initials: R K
-      clue: "Right, a beam of light - a proper sunny ray - has landed on a reptile with massive teeth. The crocodile doesn't seem to mind."
-      answer: Ray Kroc
-      aliases:
-        - ray kroc
-        - kroc
-      reasoning: "ray (a beam of light, a sunray) + croc (a crocodile, the large toothy reptile) = Ray Croc = Ray Kroc"
-    - number: 2
-      initials: C S
-      clue: "The hard bit in the middle of a piece of fruit - the bit you don't eat - has gone and landed in the sand. Just sitting there on the beach."
-      answer: Colonel Sanders
-      aliases:
-        - colonel sanders
-        - sanders
-      reasoning: "kernel (the hard inner core of a nut or fruit, sounds exactly like Colonel) + sand (beach material) + ers (the sound) = Kernel Sand-ers = Colonel Sanders"
-    - number: 3
-      initials: T P
-      clue: "A very pious person - very holy, uses old-fashioned language - has gone all soft and puffy. Completely lost their shape. Like an old cushion."
-      answer: Theo Paphitis
-      aliases:
-        - theo paphitis
-        - paphitis
-      reasoning: "thee (archaic/religious word for you, used by very pious people) + o (the sound) + paff (puffed up, soft and shapeless) + it + is = Thee-o Paff-it-is = Theo Paphitis"
-
+  - number: 1
+    initials: R K
+    clue: Right, a beam of light - a proper sunny ray - has landed on a reptile with massive teeth. The crocodile doesn't seem to mind.
+    answer: Ray Kroc
+    aliases:
+    - ray kroc
+    - kroc
+    reasoning: ray (a beam of light, a sunray) + croc (a crocodile, the large toothy reptile) = Ray Croc = Ray Kroc
+  - number: 2
+    initials: C S
+    clue: The hard bit in the middle of a piece of fruit - the bit you don't eat - has gone and landed in the sand. Just sitting there on the beach.
+    answer: Colonel Sanders
+    aliases:
+    - colonel sanders
+    - sanders
+    reasoning: kernel (the hard inner core of a nut or fruit, sounds exactly like Colonel) + sand (beach material) + ers (the sound) = Kernel Sand-ers = Colonel Sanders
+  - number: 3
+    initials: T P
+    clue: A very pious person - very holy, uses old-fashioned language - has gone all soft and puffy. Completely lost their shape. Like an old cushion.
+    answer: Theo Paphitis
+    aliases:
+    - theo paphitis
+    - paphitis
+    reasoning: thee (archaic/religious word for you, used by very pious people) + o (the sound) + paff (puffed up, soft and shapeless) + it + is = Thee-o Paff-it-is = Theo Paphitis
 - id: businessbusters-016
   enabled: true
   title: Businessbusters
@@ -562,36 +547,35 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Right, Businessbusters sixteen. Four to go. Three more business legends in phonetic clues."
-  prize: "Email in. Winner gets an OK magazine from 2004 and a novelty rubber."
+  - UK
+  - US
+  intro: Right, Businessbusters sixteen. Four to go. Three more business legends in phonetic clues.
+  prize: Email in. Winner gets an OK magazine from 2004 and a novelty rubber.
   clues:
-    - number: 1
-      initials: S W
-      clue: "A woman called Sar is very eager to get involved. Very willing. And the place she's heading involves a pork product. Ham in the name."
-      answer: Sarah Willingham
-      aliases:
-        - sarah willingham
-        - willingham
-      reasoning: "Sar (Sarah shortened) + ah (the sound) + will (to be willing, eager) + ing + ham (cured pork product) = Sar-ah Will-ing-ham = Sarah Willingham"
-    - number: 2
-      initials: K H
-      clue: "There's a woman called Kelly and she's doing a little hop. Just a small jump. She keeps doing it. Quite cheerful about it."
-      answer: Kelly Hoppen
-      aliases:
-        - kelly hoppen
-        - hoppen
-      reasoning: "Kelly (the name) + hop (a small jump) + pen (something to write with, or an enclosure) = Kelly Hop-pen = Kelly Hoppen"
-    - number: 3
-      initials: T S
-      clue: "Two motor vehicles have pulled up and someone's taking another person to court. The accused is just lying down flat on the pavement."
-      answer: Touker Suleyman
-      aliases:
-        - touker suleyman
-        - suleyman
-      reasoning: "too (two) + ker (car, informal British slang for vehicle) + sue (to take legal action, to take to court) + lay (lying down flat) + man (a person) = Too-ker Sue-lay-man = Touker Suleyman"
-
+  - number: 1
+    initials: S W
+    clue: A woman called Sar is very eager to get involved. Very willing. And the place she's heading involves a pork product. Ham in the name.
+    answer: Sarah Willingham
+    aliases:
+    - sarah willingham
+    - willingham
+    reasoning: Sar (Sarah shortened) + ah (the sound) + will (to be willing, eager) + ing + ham (cured pork product) = Sar-ah Will-ing-ham = Sarah Willingham
+  - number: 2
+    initials: K H
+    clue: There's a woman called Kelly and she's doing a little hop. Just a small jump. She keeps doing it. Quite cheerful about it.
+    answer: Kelly Hoppen
+    aliases:
+    - kelly hoppen
+    - hoppen
+    reasoning: Kelly (the name) + hop (a small jump) + pen (something to write with, or an enclosure) = Kelly Hop-pen = Kelly Hoppen
+  - number: 3
+    initials: T S
+    clue: Two motor vehicles have pulled up and someone's taking another person to court. The accused is just lying down flat on the pavement.
+    answer: Touker Suleyman
+    aliases:
+    - touker suleyman
+    - suleyman
+    reasoning: too (two) + ker (car, informal British slang for vehicle) + sue (to take legal action, to take to court) + lay (lying down flat) + man (a person) = Too-ker Sue-lay-man = Touker Suleyman
 - id: businessbusters-017
   enabled: true
   title: Businessbusters
@@ -599,36 +583,35 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Nearly there. Businessbusters seventeen. Three more clues. All business. All phonetic. Say them aloud."
-  prize: "Email in. Winner gets a commemorative tin from a Royal event and a selection of mixed nuts."
+  - UK
+  - US
+  intro: Businessbusters. Three more clues, all business, all phonetic. Say them aloud.
+  prize: Email in. Winner gets a commemorative tin from a Royal event and a selection of mixed nuts.
   clues:
-    - number: 1
-      initials: R B
-      clue: "A very flush fella - loaded - is being quite forceful about everything. And he's got his boy with him while he eats his bran flakes. All three things happening."
-      answer: Richard Branson
-      aliases:
-        - richard branson
-        - branson
-      reasoning: "rich (flush, loaded, having lots of money) + ard (hard, forceful, firm) + bran (bran flakes, the cereal) + son (his boy, his male child) = Rich-ard Bran-son = Richard Branson"
-    - number: 2
-      initials: J D
-      clue: "There's a bloke called James who's done a dye job on his son. Not sure what colour. The son's not consulted about it. Just happened."
-      answer: James Dyson
-      aliases:
-        - james dyson
-        - dyson
-      reasoning: "James (the name) + dye (to colour/dye something) + son (a male child) = James Dye-son = James Dyson"
-    - number: 3
-      initials: R M
-      clue: "A cheeky kangaroo has turned up at the docks again. Different day, same kangaroo, same impertinence. The harbour master's had enough."
-      answer: Rupert Murdoch
-      aliases:
-        - rupert murdoch
-        - murdoch
-      reasoning: "roo (kangaroo, informal) + pert (cheeky, impertinent) + mur (a low sound) + dock (a harbour dock) = Roo-pert Mur-dock = Rupert Murdoch"
-
+  - number: 1
+    initials: R B
+    clue: A very flush fella - loaded - is being quite forceful about everything. And he's got his boy with him while he eats his bran flakes. All three things happening.
+    answer: Richard Branson
+    aliases:
+    - richard branson
+    - branson
+    reasoning: rich (flush, loaded, having lots of money) + ard (hard, forceful, firm) + bran (bran flakes, the cereal) + son (his boy, his male child) = Rich-ard Bran-son = Richard Branson
+  - number: 2
+    initials: J D
+    clue: There's a bloke called James who's done a dye job on his son. Not sure what colour. The son's not consulted about it. Just happened.
+    answer: James Dyson
+    aliases:
+    - james dyson
+    - dyson
+    reasoning: James (the name) + dye (to colour/dye something) + son (a male child) = James Dye-son = James Dyson
+  - number: 3
+    initials: R M
+    clue: A cheeky kangaroo has turned up at the docks again. Different day, same kangaroo, same impertinence. The harbour master's had enough.
+    answer: Rupert Murdoch
+    aliases:
+    - rupert murdoch
+    - murdoch
+    reasoning: roo (kangaroo, informal) + pert (cheeky, impertinent) + mur (a low sound) + dock (a harbour dock) = Roo-pert Mur-dock = Rupert Murdoch
 - id: businessbusters-018
   enabled: true
   title: Businessbusters
@@ -636,36 +619,35 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Businessbusters eighteen. Two after this. All moguls. All phonetic. You've come this far."
-  prize: "Email in. Winner gets a DVD boxset with the disc for series 3 missing and a Starbucks loyalty card."
+  - UK
+  - US
+  intro: Businessbusters. All moguls, all phonetic. Say each clue out loud.
+  prize: Email in. Winner gets a DVD boxset with the disc for series 3 missing and a Starbucks loyalty card.
   clues:
-    - number: 1
-      initials: A S
-      clue: "Right, a fella's got his name down for a meeting - Al, his name is - and then he's gone face first into a bowl of white granules. You put it in tea."
-      answer: Alan Sugar
-      aliases:
-        - alan sugar
-        - sugar
-      reasoning: "Al (short form of Alan) + an (the article/conjunction) + sugar (white granules you put in tea, the sweet stuff) = Al-an Sugar = Alan Sugar"
-    - number: 2
-      initials: W B
-      clue: "The whole rabbit complex underground - all the tunnels - has a resident who's been doing an aggressive polish. Buffing everything up. Very thorough."
-      answer: Warren Buffett
-      aliases:
-        - warren buffett
-        - buffett
-      reasoning: "warren (a rabbit's underground tunnel network) + buff (to polish aggressively, to buff) + et (a small sound at the end) = Warren Buff-et = Warren Buffett"
-    - number: 3
-      initials: O W
-      clue: "Someone's let out a surprised noise and said something that sounds like a short prayer and then had a massive win and left without settling up."
-      answer: Oprah Winfrey
-      aliases:
-        - oprah winfrey
-        - winfrey
-      reasoning: "oh (a surprised noise) + pra (sounds like the start of prayer) + win (to win) + free (to leave without paying, freely) = Oh-pra Win-free = Oprah Winfrey"
-
+  - number: 1
+    initials: A S
+    clue: Right, a fella's got his name down for a meeting - Al, his name is - and then he's gone face first into a bowl of white granules. You put it in tea.
+    answer: Alan Sugar
+    aliases:
+    - alan sugar
+    - sugar
+    reasoning: Al (short form of Alan) + an (the article/conjunction) + sugar (white granules you put in tea, the sweet stuff) = Al-an Sugar = Alan Sugar
+  - number: 2
+    initials: W B
+    clue: The whole rabbit complex underground - all the tunnels - has a resident who's been doing an aggressive polish. Buffing everything up. Very thorough.
+    answer: Warren Buffett
+    aliases:
+    - warren buffett
+    - buffett
+    reasoning: warren (a rabbit's underground tunnel network) + buff (to polish aggressively, to buff) + et (a small sound at the end) = Warren Buff-et = Warren Buffett
+  - number: 3
+    initials: O W
+    clue: Someone's let out a surprised noise and said something that sounds like a short prayer and then had a massive win and left without settling up.
+    answer: Oprah Winfrey
+    aliases:
+    - oprah winfrey
+    - winfrey
+    reasoning: oh (a surprised noise) + pra (sounds like the start of prayer) + win (to win) + free (to leave without paying, freely) = Oh-pra Win-free = Oprah Winfrey
 - id: businessbusters-019
   enabled: true
   title: Businessbusters
@@ -673,36 +655,35 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Penultimate one. Businessbusters nineteen. Three more phonetic clues. Nearly done now."
-  prize: "Email in. Winner gets a copy of Calendar Girls on DVD and a miniature bar of hotel soap."
+  - UK
+  - US
+  intro: Businessbusters. Three more phonetic business clues. Say them out loud.
+  prize: Email in. Winner gets a copy of Calendar Girls on DVD and a miniature bar of hotel soap.
   clues:
-    - number: 1
-      initials: M Z
-      clue: "There's a smear on something - like a skid mark - and the person responsible had been very enthusiastically working their way through a large lolly. Cold treat. Big ice."
-      answer: Mark Zuckerberg
-      aliases:
-        - mark zuckerberg
-        - zuckerberg
-      reasoning: "mark (a smear or skid mark) + zucker (sounds like 'sucker', enthusiastically consuming a lolly) + berg (a big piece of ice, an iceberg) = Mark Zucker-berg = Mark Zuckerberg"
-    - number: 2
-      initials: E M
-      clue: "A long slippery fish has balanced itself on top of a bottle of something woody and fragrant. A cologne. Just sitting on top."
-      answer: Elon Musk
-      aliases:
-        - elon musk
-        - musk
-      reasoning: "eel (a long slippery fish) + on (on top of) + musk (a fragrant woody cologne or scent) = Eel-on Musk = Elon Musk"
-    - number: 3
-      initials: P J
-      clue: "Right, Jones has walked into the wrong bit of the park. The boggy bit. He's sinking slightly. Not panicking. Just... sinking."
-      answer: Peter Jones
-      aliases:
-        - peter jones
-        - jones
-      reasoning: "peat (boggy wet ground, the dark wet stuff in bogs) + er (the sound) + Jones (a surname, common Welsh one) = Peat-er Jones = Peter Jones"
-
+  - number: 1
+    initials: M Z
+    clue: There's a smear on something - like a skid mark - and the person responsible had been very enthusiastically working their way through a large lolly. Cold treat. Big ice.
+    answer: Mark Zuckerberg
+    aliases:
+    - mark zuckerberg
+    - zuckerberg
+    reasoning: mark (a smear or skid mark) + zucker (sounds like 'sucker', enthusiastically consuming a lolly) + berg (a big piece of ice, an iceberg) = Mark Zucker-berg = Mark Zuckerberg
+  - number: 2
+    initials: E M
+    clue: A long slippery fish has balanced itself on top of a bottle of something woody and fragrant. A cologne. Just sitting on top.
+    answer: Elon Musk
+    aliases:
+    - elon musk
+    - musk
+    reasoning: eel (a long slippery fish) + on (on top of) + musk (a fragrant woody cologne or scent) = Eel-on Musk = Elon Musk
+  - number: 3
+    initials: P J
+    clue: Right, Jones has walked into the wrong bit of the park. The boggy bit. He's sinking slightly. Not panicking. Just... sinking.
+    answer: Peter Jones
+    aliases:
+    - peter jones
+    - jones
+    reasoning: peat (boggy wet ground, the dark wet stuff in bogs) + er (the sound) + Jones (a surname, common Welsh one) = Peat-er Jones = Peter Jones
 - id: businessbusters-020
   enabled: true
   title: Businessbusters
@@ -710,32 +691,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Last one. Businessbusters twenty. Final set. Three more business clues and then we're done. You've been brilliant."
-  prize: "Email in. Winner gets a Woolworths pick-and-mix bag, unavailable since 2008, and a commemorative mug from a business that went under."
+  - UK
+  - US
+  intro: Businessbusters. Three more business moguls hiding in the sounds. Say them out loud.
+  prize: Email in. Winner gets a Woolworths pick-and-mix bag, unavailable since 2008, and a commemorative mug from a business that went under.
   clues:
-    - number: 1
-      initials: B G
-      clue: "Right, an invoice has turned up at someone's garden entrance. Just sitting there by the gate. Someone's going to have to deal with it eventually."
-      answer: Bill Gates
-      aliases:
-        - bill gates
-        - gates
-      reasoning: "bill (an invoice, a demand for payment) + gates (the entrance to a garden, a gate) = Bill Gates"
-    - number: 2
-      initials: C S
-      clue: "The hard centre of a nut - the inner kernel - has been dropped into a big pile of sand. That's it. That's all that's happened."
-      answer: Colonel Sanders
-      aliases:
-        - colonel sanders
-        - sanders
-      reasoning: "kernel (the hard inner core, sounds exactly like Colonel) + sand (the granular beach stuff) + ers = Kernel Sand-ers = Colonel Sanders"
-    - number: 3
-      initials: S J
-      clue: "A man called Steve has taken on so many different roles that no one can keep track. Multiple jobs. Won't slow down."
-      answer: Steve Jobs
-      aliases:
-        - steve jobs
-        - jobs
-      reasoning: "Steve (the man's name) + jobs (multiple roles and occupations) = Steve Jobs"
+  - number: 1
+    initials: B G
+    clue: Right, an invoice has turned up at someone's garden entrance. Just sitting there by the gate. Someone's going to have to deal with it eventually.
+    answer: Bill Gates
+    aliases:
+    - bill gates
+    - gates
+    reasoning: bill (an invoice, a demand for payment) + gates (the entrance to a garden, a gate) = Bill Gates
+  - number: 2
+    initials: C S
+    clue: The hard centre of a nut - the inner kernel - has been dropped into a big pile of sand. That's it. That's all that's happened.
+    answer: Colonel Sanders
+    aliases:
+    - colonel sanders
+    - sanders
+    reasoning: kernel (the hard inner core, sounds exactly like Colonel) + sand (the granular beach stuff) + ers = Kernel Sand-ers = Colonel Sanders
+  - number: 3
+    initials: S J
+    clue: A man called Steve has taken on so many different roles that no one can keep track. Multiple jobs. Won't slow down.
+    answer: Steve Jobs
+    aliases:
+    - steve jobs
+    - jobs
+    reasoning: Steve (the man's name) + jobs (multiple roles and occupations) = Steve Jobs

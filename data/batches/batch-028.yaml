@@ -5,33 +5,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Right, Songbusters. Three famous songs hidden in these phonetic clues. Say them out loud."
-  prize: "Email in. Winner gets a Now 52 cassette and a mini pack of Jaffa Cakes."
+  - UK
+  - US
+  intro: Right, Songbusters. Three famous songs hidden in these phonetic clues. Say them out loud.
+  prize: Email in. Winner gets a Now 52 cassette and a mini pack of Jaffa Cakes.
   clues:
-    - number: 1
-      initials: BR
-      clue: "That fella from Czech Republic is having a bit of a sing-song. Bit of a rap, like. Near enough."
-      answer: Bohemian Rhapsody
-      aliases:
-        - bohemian rhapsody
-      reasoning: "Bo + HE + me + an + RAP + sod + y = Bohemian Rhapsody. Bo-HE-me-an RHAP-sody. The bloke (he, me) raps sloppily"
-    - number: 2
-      initials: STH
-      clue: "Some steps going upwards, right, and at the top there's a place you'd sleep if you were well posh. That's your lot."
-      answer: Stairway to Heaven
-      aliases:
-        - stairway to heaven
-      reasoning: "stair + way + to + heav-en = Stairway to Heaven"
-    - number: 3
-      initials: HC
-      clue: "There's a big building where you'd stay the night, yeah? And it's out in California. They won't let you leave, apparently."
-      answer: Hotel California
-      aliases:
-        - hotel california
-      reasoning: "ho-tel + Cal-i-for-nia = Hotel California"
-
+  - number: 1
+    initials: BR
+    clue: That fella from Czech Republic is having a bit of a sing-song. Bit of a rap, like. Near enough.
+    answer: Bohemian Rhapsody
+    aliases:
+    - bohemian rhapsody
+    reasoning: Bo + HE + me + an + RAP + sod + y = Bohemian Rhapsody. Bo-HE-me-an RHAP-sody. The bloke (he, me) raps sloppily
+  - number: 2
+    initials: STH
+    clue: Some steps going upwards, right, and at the top there's a place you'd sleep if you were well posh. That's your lot.
+    answer: Stairway to Heaven
+    aliases:
+    - stairway to heaven
+    reasoning: stair + way + to + heav-en = Stairway to Heaven
+  - number: 3
+    initials: HC
+    clue: There's a big building where you'd stay the night, yeah? And it's out in California. They won't let you leave, apparently.
+    answer: Hotel California
+    aliases:
+    - hotel california
+    reasoning: ho-tel + Cal-i-for-nia = Hotel California
 - id: songbusters-002
   enabled: true
   title: Songbusters
@@ -39,33 +38,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Songbusters. Three big songs in here somewhere. Don't overthink it."
-  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists."
+  - UK
+  - US
+  intro: Songbusters. Three big songs in here somewhere. Don't overthink it.
+  prize: Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists.
   clues:
-    - number: 1
-      initials: SLTS
-      clue: "Right, it whiffs a bit in here, doesn't it. Like a teenager's been in. And there's some sort of spirit hanging about. Bit much."
-      answer: Smells Like Teen Spirit
-      aliases:
-        - smells like teen spirit
-      reasoning: "smells + like + teen + spirit = Smells Like Teen Spirit"
-    - number: 2
-      initials: PR
-      clue: "The colour that's sort of red but fancier, right. It's been falling from the sky. Bit of a downpour."
-      answer: Purple Rain
-      aliases:
-        - purple rain
-      reasoning: "purple + rain = Purple Rain"
-    - number: 3
-      initials: LAV
-      clue: "It's similar to a virgin, isn't it. Sort of like one. In the ballpark. Near enough, that."
-      answer: Like a Virgin
-      aliases:
-        - like a virgin
-      reasoning: "like + a + virgin = Like a Virgin"
-
+  - number: 1
+    initials: SLTS
+    clue: Right, it whiffs a bit in here, doesn't it. Like a teenager's been in. And there's some sort of spirit hanging about. Bit much.
+    answer: Smells Like Teen Spirit
+    aliases:
+    - smells like teen spirit
+    reasoning: smells + like + teen + spirit = Smells Like Teen Spirit
+  - number: 2
+    initials: PR
+    clue: The colour that's sort of red but fancier, right. It's been falling from the sky. Bit of a downpour.
+    answer: Purple Rain
+    aliases:
+    - purple rain
+    reasoning: purple + rain = Purple Rain
+  - number: 3
+    initials: LAV
+    clue: It's similar to a virgin, isn't it. Sort of like one. In the ballpark. Near enough, that.
+    answer: Like a Virgin
+    aliases:
+    - like a virgin
+    reasoning: like + a + virgin = Like a Virgin
 - id: songbusters-003
   enabled: true
   title: Songbusters
@@ -73,33 +71,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Alright, Songbusters. Classic tracks hiding in plain sound. Have a go."
-  prize: "Email in. Winner gets a Blockbuster loyalty card and a printed photo from a disposable camera."
+  - UK
+  - US
+  intro: Alright, Songbusters. Classic tracks hiding in plain sound. Have a go.
+  prize: Email in. Winner gets a Blockbuster loyalty card and a printed photo from a disposable camera.
   clues:
-    - number: 1
-      initials: T
-      clue: "There's a monster, yeah, and he's absolutely terrifying. Proper scary. Sort of a classic Halloween situation."
-      answer: Thriller
-      aliases:
-        - thriller
-      reasoning: "thrill + er = Thriller. The thing that gives you a thrill, like a scary monster"
-    - number: 2
-      initials: BJ
-      clue: "That woman's name, right. First name starts with B, like the name you give to Billy or William sometimes. Very famous song that."
-      answer: Billie Jean
-      aliases:
-        - billie jean
-      reasoning: "Billie + Jean = Billie Jean. Two first names put together"
-    - number: 3
-      initials: MITM
-      clue: "There's a fella, right, and he's standing in front of one of them reflective surfaces. Just looking at himself. Sort of contemplating. That's all."
-      answer: Man in the Mirror
-      aliases:
-        - man in the mirror
-      reasoning: "man + in + the + mirror = Man in the Mirror"
-
+  - number: 1
+    initials: T
+    clue: There's a monster, yeah, and he's absolutely terrifying. Proper scary. Sort of a classic Halloween situation.
+    answer: Thriller
+    aliases:
+    - thriller
+    reasoning: thrill + er = Thriller. The thing that gives you a thrill, like a scary monster
+  - number: 2
+    initials: BJ
+    clue: That woman's name, right. First name starts with B, like the name you give to Billy or William sometimes. Very famous song that.
+    answer: Billie Jean
+    aliases:
+    - billie jean
+    reasoning: Billie + Jean = Billie Jean. Two first names put together
+  - number: 3
+    initials: MITM
+    clue: There's a fella, right, and he's standing in front of one of them reflective surfaces. Just looking at himself. Sort of contemplating. That's all.
+    answer: Man in the Mirror
+    aliases:
+    - man in the mirror
+    reasoning: man + in + the + mirror = Man in the Mirror
 - id: songbusters-004
   enabled: true
   title: Songbusters
@@ -107,34 +104,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Songbusters. All classic tracks. Listen carefully and you'll get them."
-  prize: "Email in. Winner gets a DVD copy of The Full Monty and some Value biscuits."
+  - UK
+  - US
+  intro: Songbusters. All classic tracks. Listen carefully and you'll get them.
+  prize: Email in. Winner gets a DVD copy of The Full Monty and some Value biscuits.
   clues:
-    - number: 1
-      initials: DSMN
-      clue: "Right, you're not telling him to stop, are you. He's on his way and he's in a right good mood. Just leave him to it."
-      answer: Don't Stop Me Now
-      aliases:
-        - don't stop me now
-        - dont stop me now
-      reasoning: "don't + stop + me + now = Don't Stop Me Now"
-    - number: 2
-      initials: WATC
-      clue: "This group of people, they're not individuals. They're a collective. Together, the lot of them. Champions, too. Don't forget that bit."
-      answer: We Are the Champions
-      aliases:
-        - we are the champions
-      reasoning: "we + are + the + champions = We Are the Champions"
-    - number: 3
-      initials: RGG
-      clue: "There's a wireless transmission device, yeah. And it's got a silly nickname. Like it's been doubled up. Radio, but twice. Sort of."
-      answer: Radio Ga Ga
-      aliases:
-        - radio ga ga
-      reasoning: "radio + ga + ga = Radio Ga Ga. Ga ga like the baby noise"
-
+  - number: 1
+    initials: DSMN
+    clue: Right, you're not telling him to stop, are you. He's on his way and he's in a right good mood. Just leave him to it.
+    answer: Don't Stop Me Now
+    aliases:
+    - don't stop me now
+    - dont stop me now
+    reasoning: don't + stop + me + now = Don't Stop Me Now
+  - number: 2
+    initials: WATC
+    clue: This group of people, they're not individuals. They're a collective. Together, the lot of them. Champions, too. Don't forget that bit.
+    answer: We Are the Champions
+    aliases:
+    - we are the champions
+    reasoning: we + are + the + champions = We Are the Champions
+  - number: 3
+    initials: RGG
+    clue: There's a wireless transmission device, yeah. And it's got a silly nickname. Like it's been doubled up. Radio, but twice. Sort of.
+    answer: Radio Ga Ga
+    aliases:
+    - radio ga ga
+    reasoning: radio + ga + ga = Radio Ga Ga. Ga ga like the baby noise
 - id: songbusters-005
   enabled: true
   title: Songbusters
@@ -142,33 +138,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Songbusters. Queen songs these. Well, mostly. Say the clues out loud."
-  prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
+  - UK
+  - US
+  intro: Songbusters. Queen songs these. Well, mostly. Say the clues out loud.
+  prize: Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station.
   clues:
-    - number: 1
-      initials: IWTBF
-      clue: "This person has a strong desire to escape from something. They want out. Want to be free of it. That's the whole idea."
-      answer: I Want to Break Free
-      aliases:
-        - i want to break free
-      reasoning: "I + want + to + break + free = I Want to Break Free"
-    - number: 2
-      initials: Y
-      clue: "Not tomorrow, not last week. The day before today, that's your answer. Simple as that."
-      answer: Yesterday
-      aliases:
-        - yesterday
-      reasoning: "yester + day = Yesterday"
-    - number: 3
-      initials: HJ
-      clue: "Right, there's a lad. Name's Jude. Someone's trying to get his attention. Calling out to him. Just... hey, that bloke."
-      answer: Hey Jude
-      aliases:
-        - hey jude
-      reasoning: "hey + Jude = Hey Jude"
-
+  - number: 1
+    initials: IWTBF
+    clue: This person has a strong desire to escape from something. They want out. Want to be free of it. That's the whole idea.
+    answer: I Want to Break Free
+    aliases:
+    - i want to break free
+    reasoning: I + want + to + break + free = I Want to Break Free
+  - number: 2
+    initials: Y
+    clue: Not tomorrow, not last week. The day before today, that's your answer. Simple as that.
+    answer: Yesterday
+    aliases:
+    - yesterday
+    reasoning: yester + day = Yesterday
+  - number: 3
+    initials: HJ
+    clue: Right, there's a lad. Name's Jude. Someone's trying to get his attention. Calling out to him. Just... hey, that bloke.
+    answer: Hey Jude
+    aliases:
+    - hey jude
+    reasoning: hey + Jude = Hey Jude
 - id: songbusters-006
   enabled: true
   title: Songbusters
@@ -176,33 +171,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Songbusters. Beatles ones this time. Don't overthink it, they're right there in the sounds."
-  prize: "Email in. Winner gets a signed letter from someone off Emmerdale, possibly."
+  - UK
+  - US
+  intro: Songbusters. Beatles ones this time. Don't overthink it, they're right there in the sounds.
+  prize: Email in. Winner gets a signed letter from someone off Emmerdale, possibly.
   clues:
-    - number: 1
-      initials: LIB
-      clue: "Right, you're not forcing anything here. You're just allowing it to happen naturally. It's going to be fine. Just leave it."
-      answer: Let It Be
-      aliases:
-        - let it be
-      reasoning: "let + it + be = Let It Be"
-    - number: 2
-      initials: CT
-      clue: "You're joining things up, aren't you. Putting them all in one place. Bringing everyone in. Come on, all of you, get in."
-      answer: Come Together
-      aliases:
-        - come together
-      reasoning: "come + together = Come Together"
-    - number: 3
-      initials: S
-      clue: "There's a thing, right. And it's not nothing. It's actually something. A specific something. Can't tell you what it is. It's something."
-      answer: Something
-      aliases:
-        - something
-      reasoning: "some + thing = Something"
-
+  - number: 1
+    initials: LIB
+    clue: Right, you're not forcing anything here. You're just allowing it to happen naturally. It's going to be fine. Just leave it.
+    answer: Let It Be
+    aliases:
+    - let it be
+    reasoning: let + it + be = Let It Be
+  - number: 2
+    initials: CT
+    clue: You're joining things up, aren't you. Putting them all in one place. Bringing everyone in. Come on, all of you, get in.
+    answer: Come Together
+    aliases:
+    - come together
+    reasoning: come + together = Come Together
+  - number: 3
+    initials: S
+    clue: There's a thing, right. And it's not nothing. It's actually something. A specific something. Can't tell you what it is. It's something.
+    answer: Something
+    aliases:
+    - something
+    reasoning: some + thing = Something
 - id: songbusters-007
   enabled: true
   title: Songbusters
@@ -210,33 +204,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Right, Songbusters. Three more classic tracks in here. Give it a go."
-  prize: "Email in. Winner gets an HMV gift voucher for a shop that closed and a Chupa Chups."
+  - UK
+  - US
+  intro: Right, Songbusters. Three more classic tracks in here. Give it a go.
+  prize: Email in. Winner gets an HMV gift voucher for a shop that closed and a Chupa Chups.
   clues:
-    - number: 1
-      initials: ER
-      clue: "There's a woman, right. Name's Eleanor. And she's not light. She's got some weight to her. Like a proper solid woman. Sort of rhymes, that."
-      answer: Eleanor Rigby
-      aliases:
-        - eleanor rigby
-      reasoning: "Eleanor + rig + by = Eleanor Rigby. Rig (heavy equipment) + by"
-    - number: 2
-      initials: PL
-      clue: "There's a road, yeah. And it's got coins in the name. Like copper money. A whole street of them. Somewhere up north."
-      answer: Penny Lane
-      aliases:
-        - penny lane
-      reasoning: "Penny + Lane = Penny Lane. A penny (coin) on a lane (road)"
-    - number: 3
-      initials: HJ
-      clue: "That lad Jude again. Someone's saying hello to him. Different song though. Bit confusing, that."
-      answer: Hey Jude
-      aliases:
-        - hey jude
-      reasoning: "hey + Jude = Hey Jude"
-
+  - number: 1
+    initials: ER
+    clue: There's a woman, right. Name's Eleanor. And she's not light. She's got some weight to her. Like a proper solid woman. Sort of rhymes, that.
+    answer: Eleanor Rigby
+    aliases:
+    - eleanor rigby
+    reasoning: Eleanor + rig + by = Eleanor Rigby. Rig (heavy equipment) + by
+  - number: 2
+    initials: PL
+    clue: There's a road, yeah. And it's got coins in the name. Like copper money. A whole street of them. Somewhere up north.
+    answer: Penny Lane
+    aliases:
+    - penny lane
+    reasoning: Penny + Lane = Penny Lane. A penny (coin) on a lane (road)
+  - number: 3
+    initials: HJ
+    clue: That lad Jude again. Someone's saying hello to him. Different song though. Bit confusing, that.
+    answer: Hey Jude
+    aliases:
+    - hey jude
+    reasoning: hey + Jude = Hey Jude
 - id: songbusters-008
   enabled: true
   title: Songbusters
@@ -244,33 +237,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Songbusters. Mix of artists here. Just listen to the sounds."
-  prize: "Email in. Winner gets a cassette of Power Ballads Vol. 3 and a promotional biro."
+  - UK
+  - US
+  intro: Songbusters. Mix of artists here. Just listen to the sounds.
+  prize: Email in. Winner gets a cassette of Power Ballads Vol. 3 and a promotional biro.
   clues:
-    - number: 1
-      initials: BJ
-      clue: "That woman's name, yeah. It's got two first names. One sounds like a boy's name but spelled different. Posh surname that's also a first name."
-      answer: Billie Jean
-      aliases:
-        - billie jean
-      reasoning: "Billie + Jean = Billie Jean"
-    - number: 2
-      initials: SLTS
-      clue: "Something's giving off a right pong in here. Like a youngster. And there's a ghostly presence and all. Say it out loud."
-      answer: Smells Like Teen Spirit
-      aliases:
-        - smells like teen spirit
-      reasoning: "smells + like + teen + spirit = Smells Like Teen Spirit"
-    - number: 3
-      initials: PR
-      clue: "It's that slightly reddish-blue colour, isn't it. And there's water falling from the sky. That's all it is."
-      answer: Purple Rain
-      aliases:
-        - purple rain
-      reasoning: "purple + rain = Purple Rain"
-
+  - number: 1
+    initials: BJ
+    clue: That woman's name, yeah. It's got two first names. One sounds like a boy's name but spelled different. Posh surname that's also a first name.
+    answer: Billie Jean
+    aliases:
+    - billie jean
+    reasoning: Billie + Jean = Billie Jean
+  - number: 2
+    initials: SLTS
+    clue: Something's giving off a right pong in here. Like a youngster. And there's a ghostly presence and all. Say it out loud.
+    answer: Smells Like Teen Spirit
+    aliases:
+    - smells like teen spirit
+    reasoning: smells + like + teen + spirit = Smells Like Teen Spirit
+  - number: 3
+    initials: PR
+    clue: It's that slightly reddish-blue colour, isn't it. And there's water falling from the sky. That's all it is.
+    answer: Purple Rain
+    aliases:
+    - purple rain
+    reasoning: purple + rain = Purple Rain
 - id: songbusters-009
   enabled: true
   title: Songbusters
@@ -278,34 +270,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Alright. Songbusters. These are all big famous ones. No excuses for getting them wrong."
-  prize: "Email in. Winner gets a NOW Music phone ringtone printed on a card and a pen lid."
+  - UK
+  - US
+  intro: Alright. Songbusters. These are all big famous ones. No excuses for getting them wrong.
+  prize: Email in. Winner gets a NOW Music phone ringtone printed on a card and a pen lid.
   clues:
-    - number: 1
-      initials: DSMN
-      clue: "You're not to interfere with him, right. He's going places. Picked up speed. Just let the man get on with it."
-      answer: Don't Stop Me Now
-      aliases:
-        - don't stop me now
-        - dont stop me now
-      reasoning: "don't + stop + me + now = Don't Stop Me Now"
-    - number: 2
-      initials: T
-      clue: "The film, yeah. With the monster coming at night. It's a thriller. That's what it's called. The film. And the song."
-      answer: Thriller
-      aliases:
-        - thriller
-      reasoning: "thrill + er = Thriller"
-    - number: 3
-      initials: MITM
-      clue: "Someone's standing in front of a looking glass. Just staring. Having a proper think about themselves. Taking a long hard look."
-      answer: Man in the Mirror
-      aliases:
-        - man in the mirror
-      reasoning: "man + in + the + mirror = Man in the Mirror"
-
+  - number: 1
+    initials: DSMN
+    clue: You're not to interfere with him, right. He's going places. Picked up speed. Just let the man get on with it.
+    answer: Don't Stop Me Now
+    aliases:
+    - don't stop me now
+    - dont stop me now
+    reasoning: don't + stop + me + now = Don't Stop Me Now
+  - number: 2
+    initials: T
+    clue: The film, yeah. With the monster coming at night. It's a thriller. That's what it's called. The film. And the song.
+    answer: Thriller
+    aliases:
+    - thriller
+    reasoning: thrill + er = Thriller
+  - number: 3
+    initials: MITM
+    clue: Someone's standing in front of a looking glass. Just staring. Having a proper think about themselves. Taking a long hard look.
+    answer: Man in the Mirror
+    aliases:
+    - man in the mirror
+    reasoning: man + in + the + mirror = Man in the Mirror
 - id: songbusters-010
   enabled: true
   title: Songbusters
@@ -313,33 +304,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Songbusters. Classic tracks from the seventies, eighties, nineties. Say these out loud."
-  prize: "Email in. Winner gets a DVD of Titanic and a complimentary mint from a restaurant that closed."
+  - UK
+  - US
+  intro: Songbusters. Classic tracks from the seventies, eighties, nineties. Say these out loud.
+  prize: Email in. Winner gets a DVD of Titanic and a complimentary mint from a restaurant that closed.
   clues:
-    - number: 1
-      initials: STH
-      clue: "There's some steps, right. Going upward. And where they end up is a very nice place. Very nice indeed. Peaceful and that."
-      answer: Stairway to Heaven
-      aliases:
-        - stairway to heaven
-      reasoning: "stair + way + to + heaven = Stairway to Heaven"
-    - number: 2
-      initials: HC
-      clue: "Big place to sleep the night, yeah. Quite fancy. But it's in a specific American state. The warm one on the west coast."
-      answer: Hotel California
-      aliases:
-        - hotel california
-      reasoning: "hotel + California = Hotel California"
-    - number: 3
-      initials: WATC
-      clue: "Not losers, these lot. They've won. The whole group of them together. Best in the world. And they'll let you know about it."
-      answer: We Are the Champions
-      aliases:
-        - we are the champions
-      reasoning: "we + are + the + champions = We Are the Champions"
-
+  - number: 1
+    initials: STH
+    clue: There's some steps, right. Going upward. And where they end up is a very nice place. Very nice indeed. Peaceful and that.
+    answer: Stairway to Heaven
+    aliases:
+    - stairway to heaven
+    reasoning: stair + way + to + heaven = Stairway to Heaven
+  - number: 2
+    initials: HC
+    clue: Big place to sleep the night, yeah. Quite fancy. But it's in a specific American state. The warm one on the west coast.
+    answer: Hotel California
+    aliases:
+    - hotel california
+    reasoning: hotel + California = Hotel California
+  - number: 3
+    initials: WATC
+    clue: Not losers, these lot. They've won. The whole group of them together. Best in the world. And they'll let you know about it.
+    answer: We Are the Champions
+    aliases:
+    - we are the champions
+    reasoning: we + are + the + champions = We Are the Champions
 - id: songbusters-011
   enabled: true
   title: Songbusters
@@ -347,33 +337,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Songbusters. All Lennon and McCartney here. Well, mostly. Have a crack."
-  prize: "Email in. Winner gets a ceramic Beatles mug that was definitely not licensed and a custard cream."
+  - UK
+  - US
+  intro: Songbusters. All Lennon and McCartney here. Well, mostly. Have a crack.
+  prize: Email in. Winner gets a ceramic Beatles mug that was definitely not licensed and a custard cream.
   clues:
-    - number: 1
-      initials: Y
-      clue: "It's the day that's already passed, isn't it. Not ages ago. Just one day back from today. That one."
-      answer: Yesterday
-      aliases:
-        - yesterday
-      reasoning: "yester + day = Yesterday"
-    - number: 2
-      initials: CT
-      clue: "Right, get everyone in the same place. All in one group. Stop spreading out. Gather round. That sort of thing."
-      answer: Come Together
-      aliases:
-        - come together
-      reasoning: "come + together = Come Together"
-    - number: 3
-      initials: LIB
-      clue: "You're not fighting it, are you. Not trying to change it. Whatever happens, happens. Just going with it, really."
-      answer: Let It Be
-      aliases:
-        - let it be
-      reasoning: "let + it + be = Let It Be"
-
+  - number: 1
+    initials: Y
+    clue: It's the day that's already passed, isn't it. Not ages ago. Just one day back from today. That one.
+    answer: Yesterday
+    aliases:
+    - yesterday
+    reasoning: yester + day = Yesterday
+  - number: 2
+    initials: CT
+    clue: Right, get everyone in the same place. All in one group. Stop spreading out. Gather round. That sort of thing.
+    answer: Come Together
+    aliases:
+    - come together
+    reasoning: come + together = Come Together
+  - number: 3
+    initials: LIB
+    clue: You're not fighting it, are you. Not trying to change it. Whatever happens, happens. Just going with it, really.
+    answer: Let It Be
+    aliases:
+    - let it be
+    reasoning: let + it + be = Let It Be
 - id: songbusters-012
   enabled: true
   title: Songbusters
@@ -381,33 +370,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Right. Songbusters. These clues describe sounds. The sounds make a song. You know what to do."
-  prize: "Email in. Winner gets a Woolworths bag full of air and a Pick n Mix receipt."
+  - UK
+  - US
+  intro: Right. Songbusters. These clues describe sounds. The sounds make a song. You know what to do.
+  prize: Email in. Winner gets a Woolworths bag full of air and a Pick n Mix receipt.
   clues:
-    - number: 1
-      initials: BR
-      clue: "Some fella from Eastern Europe, right. He's gone and rapped. Not very well. But he's given it a go. Sort of rhymes, too."
-      answer: Bohemian Rhapsody
-      aliases:
-        - bohemian rhapsody
-      reasoning: "Bo-HE-mian + RHAP-sody = Bohemian Rhapsody. The middle bit sounds like 'he me' rapping badly"
-    - number: 2
-      initials: ER
-      clue: "That Eleanor woman. She's quite solid-looking. Not slight. Built well. You wouldn't mess with her. Rigby, that is."
-      answer: Eleanor Rigby
-      aliases:
-        - eleanor rigby
-      reasoning: "Eleanor + rig (heavy lifting thing) + by = Eleanor Rigby"
-    - number: 3
-      initials: PL
-      clue: "There's a small copper coin, yeah. And it's on a road. Not a motorway. A lane. A small quiet road. A coin on a lane."
-      answer: Penny Lane
-      aliases:
-        - penny lane
-      reasoning: "Penny (coin) + Lane (road) = Penny Lane"
-
+  - number: 1
+    initials: BR
+    clue: Some fella from Eastern Europe, right. He's gone and rapped. Not very well. But he's given it a go. Sort of rhymes, too.
+    answer: Bohemian Rhapsody
+    aliases:
+    - bohemian rhapsody
+    reasoning: Bo-HE-mian + RHAP-sody = Bohemian Rhapsody. The middle bit sounds like 'he me' rapping badly
+  - number: 2
+    initials: ER
+    clue: That Eleanor woman. She's quite solid-looking. Not slight. Built well. You wouldn't mess with her. Rigby, that is.
+    answer: Eleanor Rigby
+    aliases:
+    - eleanor rigby
+    reasoning: Eleanor + rig (heavy lifting thing) + by = Eleanor Rigby
+  - number: 3
+    initials: PL
+    clue: There's a small copper coin, yeah. And it's on a road. Not a motorway. A lane. A small quiet road. A coin on a lane.
+    answer: Penny Lane
+    aliases:
+    - penny lane
+    reasoning: Penny (coin) + Lane (road) = Penny Lane
 - id: songbusters-013
   enabled: true
   title: Songbusters
@@ -415,33 +403,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Songbusters. Mix of decades in this one. Don't let that put you off."
-  prize: "Email in. Winner gets a Smash Hits magazine from 2002 and a Milky Bar."
+  - UK
+  - US
+  intro: Songbusters. Mix of decades in this one. Don't let that put you off.
+  prize: Email in. Winner gets a Smash Hits magazine from 2002 and a Milky Bar.
   clues:
-    - number: 1
-      initials: IWTBF
-      clue: "There's a desire here, isn't there. A strong desire to burst out of something. Snap it. Get away from whatever's holding them."
-      answer: I Want to Break Free
-      aliases:
-        - i want to break free
-      reasoning: "I + want + to + break + free = I Want to Break Free"
-    - number: 2
-      initials: LAV
-      clue: "Comparing something, aren't we. It's not exactly that thing. But it resembles it. In the ballpark. Not totally dissimilar. Sort of like one."
-      answer: Like a Virgin
-      aliases:
-        - like a virgin
-      reasoning: "like + a + virgin = Like a Virgin"
-    - number: 3
-      initials: RGG
-      clue: "The wireless box, right. The one that plays music. It's gone a bit baby. Making nonsense sounds. Gaga, like. Bit odd."
-      answer: Radio Ga Ga
-      aliases:
-        - radio ga ga
-      reasoning: "radio + ga ga (baby sounds) = Radio Ga Ga"
-
+  - number: 1
+    initials: IWTBF
+    clue: There's a desire here, isn't there. A strong desire to burst out of something. Snap it. Get away from whatever's holding them.
+    answer: I Want to Break Free
+    aliases:
+    - i want to break free
+    reasoning: I + want + to + break + free = I Want to Break Free
+  - number: 2
+    initials: LAV
+    clue: Comparing something, aren't we. It's not exactly that thing. But it resembles it. In the ballpark. Not totally dissimilar. Sort of like one.
+    answer: Like a Virgin
+    aliases:
+    - like a virgin
+    reasoning: like + a + virgin = Like a Virgin
+  - number: 3
+    initials: RGG
+    clue: The wireless box, right. The one that plays music. It's gone a bit baby. Making nonsense sounds. Gaga, like. Bit odd.
+    answer: Radio Ga Ga
+    aliases:
+    - radio ga ga
+    reasoning: radio + ga ga (baby sounds) = Radio Ga Ga
 - id: songbusters-014
   enabled: true
   title: Songbusters
@@ -449,33 +436,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Alright, Songbusters. All ones your nan would know. And you should too."
-  prize: "Email in. Winner gets a Boots meal deal receipt framed and a mini Tunnock's."
+  - UK
+  - US
+  intro: Alright, Songbusters. All ones your nan would know. And you should too.
+  prize: Email in. Winner gets a Boots meal deal receipt framed and a mini Tunnock's.
   clues:
-    - number: 1
-      initials: S
-      clue: "What's going on here then? There's a thing. I can see it. It's not nothing. It's not everything. It's just... something. Can't put me finger on it."
-      answer: Something
-      aliases:
-        - something
-      reasoning: "some + thing = Something"
-    - number: 2
-      initials: HJ
-      clue: "Oi, that lad over there. The one whose parents named him after an apostle. Someone's waving at him. Getting his attention."
-      answer: Hey Jude
-      aliases:
-        - hey jude
-      reasoning: "hey (greeting/exclamation) + Jude (name) = Hey Jude"
-    - number: 3
-      initials: Y
-      clue: "Not today, not tomorrow. The one before today. That day. The past one. Just gone. Done with now."
-      answer: Yesterday
-      aliases:
-        - yesterday
-      reasoning: "yester + day = Yesterday"
-
+  - number: 1
+    initials: S
+    clue: What's going on here then? There's a thing. I can see it. It's not nothing. It's not everything. It's just... something. Can't put me finger on it.
+    answer: Something
+    aliases:
+    - something
+    reasoning: some + thing = Something
+  - number: 2
+    initials: HJ
+    clue: Oi, that lad over there. The one whose parents named him after an apostle. Someone's waving at him. Getting his attention.
+    answer: Hey Jude
+    aliases:
+    - hey jude
+    reasoning: hey (greeting/exclamation) + Jude (name) = Hey Jude
+  - number: 3
+    initials: Y
+    clue: Not today, not tomorrow. The one before today. That day. The past one. Just gone. Done with now.
+    answer: Yesterday
+    aliases:
+    - yesterday
+    reasoning: yester + day = Yesterday
 - id: songbusters-015
   enabled: true
   title: Songbusters
@@ -483,33 +469,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Songbusters. All massive hits. You'll know these. Say the clues out loud."
-  prize: "Email in. Winner gets a Virgin Megastore loyalty card and a bag of Revels."
+  - UK
+  - US
+  intro: Songbusters. All massive hits. You'll know these. Say the clues out loud.
+  prize: Email in. Winner gets a Virgin Megastore loyalty card and a bag of Revels.
   clues:
-    - number: 1
-      initials: BJ
-      clue: "Right, it's a woman's name. Got two parts to it. First bit sounds like a boy's name with a twist. Second bit's what your gran might be called."
-      answer: Billie Jean
-      aliases:
-        - billie jean
-      reasoning: "Billie (girl's version of Billy) + Jean (common older woman's name) = Billie Jean"
-    - number: 2
-      initials: MITM
-      clue: "A bloke. And he's not outside. He's not in a field. He's standing inside a reflective surface. Well, in front of one. Having a good look."
-      answer: Man in the Mirror
-      aliases:
-        - man in the mirror
-      reasoning: "man + in + the + mirror = Man in the Mirror"
-    - number: 3
-      initials: T
-      clue: "You know that feeling, yeah. When something's going to frighten you. Right before it does. That tense thing. Like a horror film. That."
-      answer: Thriller
-      aliases:
-        - thriller
-      reasoning: "thrill + er = Thriller"
-
+  - number: 1
+    initials: BJ
+    clue: Right, it's a woman's name. Got two parts to it. First bit sounds like a boy's name with a twist. Second bit's what your gran might be called.
+    answer: Billie Jean
+    aliases:
+    - billie jean
+    reasoning: Billie (girl's version of Billy) + Jean (common older woman's name) = Billie Jean
+  - number: 2
+    initials: MITM
+    clue: A bloke. And he's not outside. He's not in a field. He's standing inside a reflective surface. Well, in front of one. Having a good look.
+    answer: Man in the Mirror
+    aliases:
+    - man in the mirror
+    reasoning: man + in + the + mirror = Man in the Mirror
+  - number: 3
+    initials: T
+    clue: You know that feeling, yeah. When something's going to frighten you. Right before it does. That tense thing. Like a horror film. That.
+    answer: Thriller
+    aliases:
+    - thriller
+    reasoning: thrill + er = Thriller
 - id: songbusters-016
   enabled: true
   title: Songbusters
@@ -517,34 +502,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Songbusters. Phonetic clues, classic songs. The answer's in the sounds."
-  prize: "Email in. Winner gets a promotional ruler from a stationery company and a Werther's Original."
+  - UK
+  - US
+  intro: Songbusters. Phonetic clues, classic songs. The answer's in the sounds.
+  prize: Email in. Winner gets a promotional ruler from a stationery company and a Werther's Original.
   clues:
-    - number: 1
-      initials: STH
-      clue: "Some steps going up a wall, right. And at the top of them there's paradise. A really brilliant place. Lovely up there."
-      answer: Stairway to Heaven
-      aliases:
-        - stairway to heaven
-      reasoning: "stair + way + to + heaven = Stairway to Heaven"
-    - number: 2
-      initials: SLTS
-      clue: "There's an odour, isn't there. A whiff. And it's coming from a younger person. And hanging round them there's some sort of invisible energy force. Sort of ghostly."
-      answer: Smells Like Teen Spirit
-      aliases:
-        - smells like teen spirit
-      reasoning: "smells + like + teen + spirit = Smells Like Teen Spirit"
-    - number: 3
-      initials: DSMN
-      clue: "He's off and running, this fella. Proper momentum. And you're not to get in his way. Don't even think about slowing him down. Just stand aside."
-      answer: Don't Stop Me Now
-      aliases:
-        - don't stop me now
-        - dont stop me now
-      reasoning: "don't + stop + me + now = Don't Stop Me Now"
-
+  - number: 1
+    initials: STH
+    clue: Some steps going up a wall, right. And at the top of them there's paradise. A really brilliant place. Lovely up there.
+    answer: Stairway to Heaven
+    aliases:
+    - stairway to heaven
+    reasoning: stair + way + to + heaven = Stairway to Heaven
+  - number: 2
+    initials: SLTS
+    clue: There's an odour, isn't there. A whiff. And it's coming from a younger person. And hanging round them there's some sort of invisible energy force. Sort of ghostly.
+    answer: Smells Like Teen Spirit
+    aliases:
+    - smells like teen spirit
+    reasoning: smells + like + teen + spirit = Smells Like Teen Spirit
+  - number: 3
+    initials: DSMN
+    clue: He's off and running, this fella. Proper momentum. And you're not to get in his way. Don't even think about slowing him down. Just stand aside.
+    answer: Don't Stop Me Now
+    aliases:
+    - don't stop me now
+    - dont stop me now
+    reasoning: don't + stop + me + now = Don't Stop Me Now
 - id: songbusters-017
   enabled: true
   title: Songbusters
@@ -552,33 +536,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Songbusters. Pop classics from across the decades. Give it a go."
-  prize: "Email in. Winner gets an Argos catalogue from 2003 and a Kit Kat."
+  - UK
+  - US
+  intro: Songbusters. Pop classics from across the decades. Give it a go.
+  prize: Email in. Winner gets an Argos catalogue from 2003 and a Kit Kat.
   clues:
-    - number: 1
-      initials: PR
-      clue: "Right, that colour that's between red and blue. Very royal. Very fancy. And it's coming down from the clouds. Quite heavy."
-      answer: Purple Rain
-      aliases:
-        - purple rain
-      reasoning: "purple + rain = Purple Rain"
-    - number: 2
-      initials: LAV
-      clue: "It's a comparison. That thing hasn't done any of that before. Never. But this is just similar to it. Just in the same region as it."
-      answer: Like a Virgin
-      aliases:
-        - like a virgin
-      reasoning: "like + a + virgin = Like a Virgin"
-    - number: 3
-      initials: WATC
-      clue: "All of them together, they've won. Not one person. The whole group. Best there is. And they're going to sing about it for a bit."
-      answer: We Are the Champions
-      aliases:
-        - we are the champions
-      reasoning: "we + are + the + champions = We Are the Champions"
-
+  - number: 1
+    initials: PR
+    clue: Right, that colour that's between red and blue. Very royal. Very fancy. And it's coming down from the clouds. Quite heavy.
+    answer: Purple Rain
+    aliases:
+    - purple rain
+    reasoning: purple + rain = Purple Rain
+  - number: 2
+    initials: LAV
+    clue: It's a comparison. That thing hasn't done any of that before. Never. But this is just similar to it. Just in the same region as it.
+    answer: Like a Virgin
+    aliases:
+    - like a virgin
+    reasoning: like + a + virgin = Like a Virgin
+  - number: 3
+    initials: WATC
+    clue: All of them together, they've won. Not one person. The whole group. Best there is. And they're going to sing about it for a bit.
+    answer: We Are the Champions
+    aliases:
+    - we are the champions
+    reasoning: we + are + the + champions = We Are the Champions
 - id: songbusters-018
   enabled: true
   title: Songbusters
@@ -586,33 +569,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Right. Songbusters. Three tracks. All massive. Get them right."
-  prize: "Email in. Winner gets a Tower Records bag and a limited edition Pringles tube."
+  - UK
+  - US
+  intro: Right. Songbusters. Three tracks. All massive. Get them right.
+  prize: Email in. Winner gets a Tower Records bag and a limited edition Pringles tube.
   clues:
-    - number: 1
-      initials: HC
-      clue: "It's a place to stay, right. Beds and that. Room service maybe. Somewhere sunny. On the west coast of America. Famous one."
-      answer: Hotel California
-      aliases:
-        - hotel california
-      reasoning: "hotel + California = Hotel California"
-    - number: 2
-      initials: ER
-      clue: "There's a woman. Older woman. Picking up rice at a wedding where no one else is. Bit sad. No one cares. Her name's Eleanor something."
-      answer: Eleanor Rigby
-      aliases:
-        - eleanor rigby
-      reasoning: "Eleanor + Rigby = Eleanor Rigby"
-    - number: 3
-      initials: RGG
-      clue: "It's that thing that broadcasts music, yeah. But it's gone silly. Making daft noises. Baby noises. Over and over. Very strange."
-      answer: Radio Ga Ga
-      aliases:
-        - radio ga ga
-      reasoning: "radio + ga ga = Radio Ga Ga"
-
+  - number: 1
+    initials: HC
+    clue: It's a place to stay, right. Beds and that. Room service maybe. Somewhere sunny. On the west coast of America. Famous one.
+    answer: Hotel California
+    aliases:
+    - hotel california
+    reasoning: hotel + California = Hotel California
+  - number: 2
+    initials: ER
+    clue: There's a woman. Older woman. Picking up rice at a wedding where no one else is. Bit sad. No one cares. Her name's Eleanor something.
+    answer: Eleanor Rigby
+    aliases:
+    - eleanor rigby
+    reasoning: Eleanor + Rigby = Eleanor Rigby
+  - number: 3
+    initials: RGG
+    clue: It's that thing that broadcasts music, yeah. But it's gone silly. Making daft noises. Baby noises. Over and over. Very strange.
+    answer: Radio Ga Ga
+    aliases:
+    - radio ga ga
+    reasoning: radio + ga ga = Radio Ga Ga
 - id: songbusters-019
   enabled: true
   title: Songbusters
@@ -620,33 +602,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Songbusters. All from rock and pop royalty. Last few now."
-  prize: "Email in. Winner gets a Glastonbury wristband from a year it rained and a cereal bar."
+  - UK
+  - US
+  intro: Songbusters. All from rock and pop royalty. Last few now.
+  prize: Email in. Winner gets a Glastonbury wristband from a year it rained and a cereal bar.
   clues:
-    - number: 1
-      initials: BR
-      clue: "There's a European fella, very theatrical sort. Gone and made up a word salad about nothing in particular. A bit operatic. Very dramatic."
-      answer: Bohemian Rhapsody
-      aliases:
-        - bohemian rhapsody
-      reasoning: "Bohemian (European, theatrical type) + Rhapsody (dramatic musical piece) = Bohemian Rhapsody"
-    - number: 2
-      initials: CT
-      clue: "Everyone's being asked to gather up. Stop being separate. Get into one place. All of them. Together. Right now. That's the whole message."
-      answer: Come Together
-      aliases:
-        - come together
-      reasoning: "come + together = Come Together"
-    - number: 3
-      initials: IWTBF
-      clue: "Right, this person wants something badly. Specifically, they want to shatter something. And then get out of wherever they are. Pretty urgent."
-      answer: I Want to Break Free
-      aliases:
-        - i want to break free
-      reasoning: "I + want + to + break + free = I Want to Break Free"
-
+  - number: 1
+    initials: BR
+    clue: There's a European fella, very theatrical sort. Gone and made up a word salad about nothing in particular. A bit operatic. Very dramatic.
+    answer: Bohemian Rhapsody
+    aliases:
+    - bohemian rhapsody
+    reasoning: Bohemian (European, theatrical type) + Rhapsody (dramatic musical piece) = Bohemian Rhapsody
+  - number: 2
+    initials: CT
+    clue: Everyone's being asked to gather up. Stop being separate. Get into one place. All of them. Together. Right now. That's the whole message.
+    answer: Come Together
+    aliases:
+    - come together
+    reasoning: come + together = Come Together
+  - number: 3
+    initials: IWTBF
+    clue: Right, this person wants something badly. Specifically, they want to shatter something. And then get out of wherever they are. Pretty urgent.
+    answer: I Want to Break Free
+    aliases:
+    - i want to break free
+    reasoning: I + want + to + break + free = I Want to Break Free
 - id: songbusters-020
   enabled: true
   title: Songbusters
@@ -654,29 +635,29 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Last one. Songbusters. Three classic tracks to finish. Don't go to pieces now."
-  prize: "Email in. Winner gets a miniature bottle of Tabasco from a hotel minibar and a mixtape from 1998."
+  - UK
+  - US
+  intro: Songbusters. Three classic tracks hiding in the sounds. Don't go to pieces now.
+  prize: Email in. Winner gets a miniature bottle of Tabasco from a hotel minibar and a mixtape from 1998.
   clues:
-    - number: 1
-      initials: PL
-      clue: "Small copper coin, yeah. One penny. And it's sitting on a road. A quiet little road. Not a motorway. Just a lane. That's it."
-      answer: Penny Lane
-      aliases:
-        - penny lane
-      reasoning: "Penny (small coin) + Lane (quiet road) = Penny Lane"
-    - number: 2
-      initials: S
-      clue: "It's a thing. That's all I know. Not nothing, not everything. Just a thing. Some kind of thing. I can't explain it. There it is."
-      answer: Something
-      aliases:
-        - something
-      reasoning: "some + thing = Something"
-    - number: 3
-      initials: LIB
-      clue: "Right, you've stopped fighting it. You're not forcing anything. Whatever's going to happen will happen. You're just... allowing it. Going with the flow."
-      answer: Let It Be
-      aliases:
-        - let it be
-      reasoning: "let + it + be = Let It Be"
+  - number: 1
+    initials: PL
+    clue: Small copper coin, yeah. One penny. And it's sitting on a road. A quiet little road. Not a motorway. Just a lane. That's it.
+    answer: Penny Lane
+    aliases:
+    - penny lane
+    reasoning: Penny (small coin) + Lane (quiet road) = Penny Lane
+  - number: 2
+    initials: S
+    clue: It's a thing. That's all I know. Not nothing, not everything. Just a thing. Some kind of thing. I can't explain it. There it is.
+    answer: Something
+    aliases:
+    - something
+    reasoning: some + thing = Something
+  - number: 3
+    initials: LIB
+    clue: Right, you've stopped fighting it. You're not forcing anything. Whatever's going to happen will happen. You're just... allowing it. Going with the flow.
+    answer: Let It Be
+    aliases:
+    - let it be
+    reasoning: let + it + be = Let It Be

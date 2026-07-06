@@ -5,32 +5,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Right, Comediansbusters. Three comedians, all phonetic. Say them out loud and you'll get there."
-  prize: "Email in. Winner gets a signed photo of someone off Last of the Summer Wine."
+  - UK
+  intro: Right, Comediansbusters. Three comedians, all phonetic. Say them out loud and you'll get there.
+  prize: Email in. Winner gets a signed photo of someone off Last of the Summer Wine.
   clues:
-    - number: 1
-      initials: L M
-      clue: "That fella's gone and hired someone to stand in a field and scare the birds off. His very own scarecrow, like. Bit of a waste."
-      answer: Lee Mack
-      aliases:
-        - lee mack
-      reasoning: "Lee (as in a field or meadow, a lea) + Mack (like a scarecrow's mac, a waterproof coat). Actually: Lee sounds like lea, Mack sounds like mac = Lee Mack"
-    - number: 2
-      initials: T V
-      clue: "Right, there's this little wooden thing they use in golf, and someone's gone and climbed one. A massive one. Don't ask."
-      answer: Tim Vine
-      aliases:
-        - tim vine
-      reasoning: "Tim (short for timber) + Vine (a climbing plant, vines) = Tim Vine. Tim sounds like timber cut short, Vine is what you climb."
-    - number: 3
-      initials: J D
-      clue: "Some bloke's knocking on every door on the street asking if anyone wants to buy a coat. Nobody does. He's still going."
-      answer: Jack Dee
-      aliases:
-        - jack dee
-      reasoning: "Jack (a Jack, like a lumberjack or flapjack, here someone flogging stuff door to door) + Dee (the letter D, like 'dee livery') = Jack Dee. Jack sounds like the name you give a door-to-door type."
-
+  - number: 1
+    initials: L M
+    clue: That fella's gone and hired someone to stand in a field and scare the birds off. His very own scarecrow, like. Bit of a waste.
+    answer: Lee Mack
+    aliases:
+    - lee mack
+    reasoning: 'Lee (as in a field or meadow, a lea) + Mack (like a scarecrow''s mac, a waterproof coat). Actually: Lee sounds like lea, Mack sounds like mac = Lee Mack'
+  - number: 2
+    initials: T V
+    clue: Right, there's this little wooden thing they use in golf, and someone's gone and climbed one. A massive one. Don't ask.
+    answer: Tim Vine
+    aliases:
+    - tim vine
+    reasoning: Tim (short for timber) + Vine (a climbing plant, vines) = Tim Vine. Tim sounds like timber cut short, Vine is what you climb.
+  - number: 3
+    initials: J D
+    clue: Some bloke's knocking on every door on the street asking if anyone wants to buy a coat. Nobody does. He's still going.
+    answer: Jack Dee
+    aliases:
+    - jack dee
+    reasoning: Jack (a Jack, like a lumberjack or flapjack, here someone flogging stuff door to door) + Dee (the letter D, like 'dee livery') = Jack Dee. Jack sounds like the name you give a door-to-door type.
 - id: comediansbusters-002
   enabled: true
   title: Comediansbusters
@@ -38,32 +37,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Alright, Comediansbusters two. Three more comedians scrambled up phonetically. Off you go."
-  prize: "Email in. Winner gets an AOL trial disc and a Now 54 cassette."
+  - UK
+  intro: Alright, Comediansbusters two. Three more comedians scrambled up phonetically. Off you go.
+  prize: Email in. Winner gets an AOL trial disc and a Now 54 cassette.
   clues:
-    - number: 1
-      initials: P K
-      clue: "Someone's bought a parking space but they've filled it with a load of gravel and a key on a hook. Very pleased with themselves."
-      answer: Peter Kay
-      aliases:
-        - peter kay
-      reasoning: "Peter (a saltpetre, a peter, rhyming with metre, a measure) + Kay (the letter K, as in a key) = Peter Kay. Pete + a key, say it out loud."
-    - number: 2
-      initials: B B
-      clue: "There's a bloke called Bob and he's just sat there doing absolutely nothing. He's been there an hour. He seems content."
-      answer: Bob Mortimer
-      aliases:
-        - bob mortimer
-      reasoning: "Bob (a man called Bob, bobbing about) + Mortimer (mort = death in French, timer = a clock counting down) = Bob Mortimer. Mort-timer, like a timer for the end of things."
-    - number: 3
-      initials: H H
-      clue: "Right, the hill's got a fever. It's gone all hot and wobbly. The sheep on it are baffled. Sort of works."
-      answer: Harry Hill
-      aliases:
-        - harry hill
-      reasoning: "Harry (to harry means to hassle or bother, or Harry as in hot and bothered) + Hill (a hill, an actual hill) = Harry Hill."
-
+  - number: 1
+    initials: P K
+    clue: Someone's bought a parking space but they've filled it with a load of gravel and a key on a hook. Very pleased with themselves.
+    answer: Peter Kay
+    aliases:
+    - peter kay
+    reasoning: Peter (a saltpetre, a peter, rhyming with metre, a measure) + Kay (the letter K, as in a key) = Peter Kay. Pete + a key, say it out loud.
+  - number: 2
+    initials: B B
+    clue: There's a bloke called Bob and he's just sat there doing absolutely nothing. He's been there an hour. He seems content.
+    answer: Bob Mortimer
+    aliases:
+    - bob mortimer
+    reasoning: Bob (a man called Bob, bobbing about) + Mortimer (mort = death in French, timer = a clock counting down) = Bob Mortimer. Mort-timer, like a timer for the end of things.
+  - number: 3
+    initials: H H
+    clue: Right, the hill's got a fever. It's gone all hot and wobbly. The sheep on it are baffled. Sort of works.
+    answer: Harry Hill
+    aliases:
+    - harry hill
+    reasoning: Harry (to harry means to hassle or bother, or Harry as in hot and bothered) + Hill (a hill, an actual hill) = Harry Hill.
 - id: comediansbusters-003
   enabled: true
   title: Comediansbusters
@@ -71,32 +69,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Comediansbusters three. Phonetic riddles, all comedians. Say each clue out loud."
-  prize: "Email in. Winner gets a Blockbuster loyalty card and a signed letter from someone off Heartbeat."
+  - UK
+  intro: Comediansbusters three. Phonetic riddles, all comedians. Say each clue out loud.
+  prize: Email in. Winner gets a Blockbuster loyalty card and a signed letter from someone off Heartbeat.
   clues:
-    - number: 1
-      initials: V R
-      clue: "That fella called Victor's gone and entered a competition. He's very confident about it. Hasn't practised. Hasn't prepared. Still confident."
-      answer: Vic Reeves
-      aliases:
-        - vic reeves
-      reasoning: "Vic (short for Victor, someone who wins) + Reeves (reeves = old word for officer, or reeve = to manage, or simply: Re-eeves, like Eve's again) = Vic Reeves. Vic + Reeves."
-    - number: 2
-      initials: S L
-      clue: "Right, there's a lock on the shed and it's gone and sat down. Just there on the floor. Looking a bit tired. That's all."
-      answer: Sean Lock
-      aliases:
-        - sean lock
-      reasoning: "Sean (sounds like shawn, like shown, like the act of displaying) + Lock (a padlock, a lock on a shed, it's sat down) = Sean Lock."
-    - number: 3
-      initials: M J
-      clue: "That Milton fella's taken a jar of marmalade to work and he's handing it out to people as they arrive. Nobody asked him to. He's very serious about it."
-      answer: Milton Jones
-      aliases:
-        - milton jones
-      reasoning: "Milton (a place called Milton, or Milton the man, also Milton Keynes nearby) + Jones (keeping up with the Joneses, a very common surname) = Milton Jones."
-
+  - number: 1
+    initials: V R
+    clue: That fella called Victor's gone and entered a competition. He's very confident about it. Hasn't practised. Hasn't prepared. Still confident.
+    answer: Vic Reeves
+    aliases:
+    - vic reeves
+    reasoning: 'Vic (short for Victor, someone who wins) + Reeves (reeves = old word for officer, or reeve = to manage, or simply: Re-eeves, like Eve''s again) = Vic Reeves. Vic + Reeves.'
+  - number: 2
+    initials: S L
+    clue: Right, there's a lock on the shed and it's gone and sat down. Just there on the floor. Looking a bit tired. That's all.
+    answer: Sean Lock
+    aliases:
+    - sean lock
+    reasoning: Sean (sounds like shawn, like shown, like the act of displaying) + Lock (a padlock, a lock on a shed, it's sat down) = Sean Lock.
+  - number: 3
+    initials: M J
+    clue: That Milton fella's taken a jar of marmalade to work and he's handing it out to people as they arrive. Nobody asked him to. He's very serious about it.
+    answer: Milton Jones
+    aliases:
+    - milton jones
+    reasoning: Milton (a place called Milton, or Milton the man, also Milton Keynes nearby) + Jones (keeping up with the Joneses, a very common surname) = Milton Jones.
 - id: comediansbusters-004
   enabled: true
   title: Comediansbusters
@@ -104,32 +101,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Right, Comediansbusters four. Three phonetic clues. Say them aloud. Near enough."
-  prize: "Email in. Winner gets a printed photo from a disposable camera, framed. Lovely."
+  - UK
+  intro: Right, Comediansbusters four. Three phonetic clues. Say them aloud. Near enough.
+  prize: Email in. Winner gets a printed photo from a disposable camera, framed. Lovely.
   clues:
-    - number: 1
-      initials: J C
-      clue: "Some fella's wheeling a car through the street, but it's a toy one. And he keeps stopping to show people. They're not interested."
-      answer: Jimmy Carr
-      aliases:
-        - jimmy carr
-      reasoning: "Jimmy (to jimmy something open, or Jimmy as a name, jimmy means to lever or prise) + Carr (a car, a vehicle being wheeled about) = Jimmy Carr."
-    - number: 2
-      initials: B B
-      clue: "Right, Bill's been given a pile of twigs and branches and he's building something. He won't say what. He's been at it three days."
-      answer: Bill Bailey
-      aliases:
-        - bill bailey
-      reasoning: "Bill (Bill = a bill, an invoice, or Bill as a name) + Bailey (a bailey = the outer wall of a castle, or a Bailey bridge) = Bill Bailey."
-    - number: 3
-      initials: R H
-      clue: "Someone's built a great big hall and it's painted entirely red. All the walls, the ceiling, the floor. Red as anything."
-      answer: Rich Hall
-      aliases:
-        - rich hall
-      reasoning: "Rich (rich = expensive, or red and rich, or Rich as a name) + Hall (a big hall, the building) = Rich Hall."
-
+  - number: 1
+    initials: J C
+    clue: Some fella's wheeling a car through the street, but it's a toy one. And he keeps stopping to show people. They're not interested.
+    answer: Jimmy Carr
+    aliases:
+    - jimmy carr
+    reasoning: Jimmy (to jimmy something open, or Jimmy as a name, jimmy means to lever or prise) + Carr (a car, a vehicle being wheeled about) = Jimmy Carr.
+  - number: 2
+    initials: B B
+    clue: Right, Bill's been given a pile of twigs and branches and he's building something. He won't say what. He's been at it three days.
+    answer: Bill Bailey
+    aliases:
+    - bill bailey
+    reasoning: Bill (Bill = a bill, an invoice, or Bill as a name) + Bailey (a bailey = the outer wall of a castle, or a Bailey bridge) = Bill Bailey.
+  - number: 3
+    initials: R H
+    clue: Someone's built a great big hall and it's painted entirely red. All the walls, the ceiling, the floor. Red as anything.
+    answer: Rich Hall
+    aliases:
+    - rich hall
+    reasoning: Rich (rich = expensive, or red and rich, or Rich as a name) + Hall (a big hall, the building) = Rich Hall.
 - id: comediansbusters-005
   enabled: true
   title: Comediansbusters
@@ -137,33 +133,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Comediansbusters five. Three more. Phonetic clues, all British comedians. Don't overthink it."
-  prize: "Email in. Winner gets a branded biro from a skip hire firm and a Tunnock's teacake."
+  - UK
+  intro: Comediansbusters five. Three more. Phonetic clues, all British comedians. Don't overthink it.
+  prize: Email in. Winner gets a branded biro from a skip hire firm and a Tunnock's teacake.
   clues:
-    - number: 1
-      initials: D O B
-      clue: "Some Irish fella's standing at the front of a boat, right at the prow, but he's gone a bit dizzy and his eyes are all over the place."
-      answer: Dara O Briain
-      aliases:
-        - dara o briain
-        - dara o'briain
-      reasoning: "Dara (dare + a, or dar-a) + O (the letter O, like oh) + Briain (sounds like brain with an Irish lilt, bri-ain, bree-an) = Dara O Briain. Dare-a-oh-bree-an."
-    - number: 2
-      initials: D M
-      clue: "There's a bloke called Dylan and he's gone and moved into a big dark cave on the moors. Says the rent's reasonable. He seems fine."
-      answer: Dylan Moran
-      aliases:
-        - dylan moran
-      reasoning: "Dylan (the name Dylan, like Bob Dylan or the Welsh name) + Moran (mo-ran, like more-an, someone who's always wanting more) = Dylan Moran."
-    - number: 3
-      initials: T T
-      clue: "Right, this fella from Tipperary's gone and tied himself to a gate with some old twine. Won't say why. Very calm about it."
-      answer: Tommy Tiernan
-      aliases:
-        - tommy tiernan
-      reasoning: "Tommy (Tommy = a British soldier, or Tommy as a name) + Tiernan (tier-nan, like tearing one, or tier-nan = someone who arranges tiers) = Tommy Tiernan."
-
+  - number: 1
+    initials: D O B
+    clue: Some Irish fella's standing at the front of a boat, right at the prow, but he's gone a bit dizzy and his eyes are all over the place.
+    answer: Dara O Briain
+    aliases:
+    - dara o briain
+    - dara o'briain
+    reasoning: Dara (dare + a, or dar-a) + O (the letter O, like oh) + Briain (sounds like brain with an Irish lilt, bri-ain, bree-an) = Dara O Briain. Dare-a-oh-bree-an.
+  - number: 2
+    initials: D M
+    clue: There's a bloke called Dylan and he's gone and moved into a big dark cave on the moors. Says the rent's reasonable. He seems fine.
+    answer: Dylan Moran
+    aliases:
+    - dylan moran
+    reasoning: Dylan (the name Dylan, like Bob Dylan or the Welsh name) + Moran (mo-ran, like more-an, someone who's always wanting more) = Dylan Moran.
+  - number: 3
+    initials: T T
+    clue: Right, this fella from Tipperary's gone and tied himself to a gate with some old twine. Won't say why. Very calm about it.
+    answer: Tommy Tiernan
+    aliases:
+    - tommy tiernan
+    reasoning: Tommy (Tommy = a British soldier, or Tommy as a name) + Tiernan (tier-nan, like tearing one, or tier-nan = someone who arranges tiers) = Tommy Tiernan.
 - id: comediansbusters-006
   enabled: true
   title: Comediansbusters
@@ -171,32 +166,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Six sets in. Still Comediansbusters. Three phonetic comedian clues. Say it out loud, that's the key."
-  prize: "Email in. Winner gets a laminated bus timetable and a stress ball from a financial services company."
+  - UK
+  intro: Six sets in. Still Comediansbusters. Three phonetic comedian clues. Say it out loud, that's the key.
+  prize: Email in. Winner gets a laminated bus timetable and a stress ball from a financial services company.
   clues:
-    - number: 1
-      initials: M M
-      clue: "Someone's measured the exact middle of a road with a very expensive tape measure. And they've written it down. Very pleased with themselves."
-      answer: Michael McIntyre
-      aliases:
-        - michael mcintyre
-      reasoning: "Michael (my-kel, like a mike or a Michael) + McIntyre (Mac-in-tire, like a tyre inside a mac, mack-in-tyre) = Michael McIntyre. Mack-in-tyre, like a waterproof coat with a tyre inside."
-    - number: 2
-      initials: R R
-      clue: "Right, there's this road and at the end of it there's another road, and at the end of that one there's a bloke called Ron. And he's ranged all along it."
-      answer: Romesh Ranganathan
-      aliases:
-        - romesh ranganathan
-      reasoning: "Romesh (ro-mesh, like a mesh, a net, or ro = row + mesh) + Ranganathan (rang-a-nath-an, like rang + a + Nathan) = Romesh Ranganathan. Say it out loud."
-    - number: 3
-      initials: N K
-      clue: "Someone called Nish is kneeling in a field going through a big bunch of keys. He's looking for one specific one. Won't say which."
-      answer: Nish Kumar
-      aliases:
-        - nish kumar
-      reasoning: "Nish (the name Nish, sounds like niche or knish) + Kumar (coo-mar, like a cool mare, or Kumar = a name, sounds like cool-ma) = Nish Kumar."
-
+  - number: 1
+    initials: M M
+    clue: Someone's measured the exact middle of a road with a very expensive tape measure. And they've written it down. Very pleased with themselves.
+    answer: Michael McIntyre
+    aliases:
+    - michael mcintyre
+    reasoning: Michael (my-kel, like a mike or a Michael) + McIntyre (Mac-in-tire, like a tyre inside a mac, mack-in-tyre) = Michael McIntyre. Mack-in-tyre, like a waterproof coat with a tyre inside.
+  - number: 2
+    initials: R R
+    clue: Right, there's this road and at the end of it there's another road, and at the end of that one there's a bloke called Ron. And he's ranged all along it.
+    answer: Romesh Ranganathan
+    aliases:
+    - romesh ranganathan
+    reasoning: Romesh (ro-mesh, like a mesh, a net, or ro = row + mesh) + Ranganathan (rang-a-nath-an, like rang + a + Nathan) = Romesh Ranganathan. Say it out loud.
+  - number: 3
+    initials: N K
+    clue: Someone called Nish is kneeling in a field going through a big bunch of keys. He's looking for one specific one. Won't say which.
+    answer: Nish Kumar
+    aliases:
+    - nish kumar
+    reasoning: Nish (the name Nish, sounds like niche or knish) + Kumar (coo-mar, like a cool mare, or Kumar = a name, sounds like cool-ma) = Nish Kumar.
 - id: comediansbusters-007
   enabled: true
   title: Comediansbusters
@@ -204,33 +198,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Comediansbusters seven. Same rules. Different comedians. Say them out loud. Alright?"
-  prize: "Email in. Winner gets a miniature golf pencil and a signed letter possibly from someone off Corrie."
+  - UK
+  intro: Comediansbusters seven. Same rules. Different comedians. Say them out loud. Alright?
+  prize: Email in. Winner gets a miniature golf pencil and a signed letter possibly from someone off Corrie.
   clues:
-    - number: 1
-      initials: A O H
-      clue: "Right, this Irish fella's gone and built a little house just for his hand. A whole house. Just for the hand. Says it earns its keep."
-      answer: Ardal O Hanlon
-      aliases:
-        - ardal o hanlon
-        - ardal o'hanlon
-      reasoning: "Ardal (ar-dal, like ardent + al, or ar-dull) + O (oh, the letter O) + Hanlon (hand + lon, like hand-lon, or han-lon, sounds like hand-land) = Ardal O Hanlon."
-    - number: 2
-      initials: R D H
-      clue: "Some American fella's been put in charge of the hunt and he's gone off into the woods. He's very thorough. He's been out there two days."
-      answer: Reginald D Hunter
-      aliases:
-        - reginald d hunter
-      reasoning: "Reginald (reg-in-ald, like a regimented old reg) + D (the letter D) + Hunter (someone who hunts) = Reginald D Hunter. The Hunter bit is very literal."
-    - number: 3
-      initials: J W
-      clue: "That lad Josh has gone and made himself wider somehow. Just expanded sideways. He's wedged in the doorframe now."
-      answer: Josh Widdecombe
-      aliases:
-        - josh widdecombe
-      reasoning: "Josh (the name Josh, or to josh = to tease) + Widdecombe (widdy-comb, like wide + a comb, or widder-comb, like a wide comb) = Josh Widdecombe. Wide-dee-comb."
-
+  - number: 1
+    initials: A O H
+    clue: Right, this Irish fella's gone and built a little house just for his hand. A whole house. Just for the hand. Says it earns its keep.
+    answer: Ardal O Hanlon
+    aliases:
+    - ardal o hanlon
+    - ardal o'hanlon
+    reasoning: Ardal (ar-dal, like ardent + al, or ar-dull) + O (oh, the letter O) + Hanlon (hand + lon, like hand-lon, or han-lon, sounds like hand-land) = Ardal O Hanlon.
+  - number: 2
+    initials: R D H
+    clue: Some American fella's been put in charge of the hunt and he's gone off into the woods. He's very thorough. He's been out there two days.
+    answer: Reginald D Hunter
+    aliases:
+    - reginald d hunter
+    reasoning: Reginald (reg-in-ald, like a regimented old reg) + D (the letter D) + Hunter (someone who hunts) = Reginald D Hunter. The Hunter bit is very literal.
+  - number: 3
+    initials: J W
+    clue: That lad Josh has gone and made himself wider somehow. Just expanded sideways. He's wedged in the doorframe now.
+    answer: Josh Widdecombe
+    aliases:
+    - josh widdecombe
+    reasoning: Josh (the name Josh, or to josh = to tease) + Widdecombe (widdy-comb, like wide + a comb, or widder-comb, like a wide comb) = Josh Widdecombe. Wide-dee-comb.
 - id: comediansbusters-008
   enabled: true
   title: Comediansbusters
@@ -238,32 +231,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Right then. Comediansbusters, set eight. Three phonetic clues. All stand-up comedians."
-  prize: "Email in. Winner gets a 2008 wall calendar and a branded keyring from a letting agent."
+  - UK
+  intro: Right then. Comediansbusters, set eight. Three phonetic clues. All stand-up comedians.
+  prize: Email in. Winner gets a 2008 wall calendar and a branded keyring from a letting agent.
   clues:
-    - number: 1
-      initials: R B
-      clue: "That fella's gone and put a load of buckets on his back. Right, they're tied on with rope. He's staggering about. Says it's fine."
-      answer: Rob Beckett
-      aliases:
-        - rob beckett
-      reasoning: "Rob (rob = to steal, or Rob as a name) + Beckett (beck-et, like a bucket without the u, or beck = a small stream + et) = Rob Beckett. Rob + beck-et, like a stolen bucket."
-    - number: 2
-      initials: J R
-      clue: "Some fella from up north called Jon has gone and written down every single rule he's ever lived by. Both of them. He's framed them."
-      answer: Jon Richardson
-      aliases:
-        - jon richardson
-      reasoning: "Jon (the name Jon, like John without the h) + Richardson (rich-ard-son, like Richard's son, or rich + ardson) = Jon Richardson."
-    - number: 3
-      initials: S P
-      clue: "Right, Sarah's gone and stood in a park and she's handing out speeches to everyone who walks past. Long ones. Nobody's asked for a speech."
-      answer: Sara Pascoe
-      aliases:
-        - sara pascoe
-      reasoning: "Sara (the name Sara, like Sarah) + Pascoe (pas-co, like pass + co, or Pascoe = a Cornish surname that sounds like pass-co) = Sara Pascoe."
-
+  - number: 1
+    initials: R B
+    clue: That fella's gone and put a load of buckets on his back. Right, they're tied on with rope. He's staggering about. Says it's fine.
+    answer: Rob Beckett
+    aliases:
+    - rob beckett
+    reasoning: Rob (rob = to steal, or Rob as a name) + Beckett (beck-et, like a bucket without the u, or beck = a small stream + et) = Rob Beckett. Rob + beck-et, like a stolen bucket.
+  - number: 2
+    initials: J R
+    clue: Some fella from up north called Jon has gone and written down every single rule he's ever lived by. Both of them. He's framed them.
+    answer: Jon Richardson
+    aliases:
+    - jon richardson
+    reasoning: Jon (the name Jon, like John without the h) + Richardson (rich-ard-son, like Richard's son, or rich + ardson) = Jon Richardson.
+  - number: 3
+    initials: S P
+    clue: Right, Sarah's gone and stood in a park and she's handing out speeches to everyone who walks past. Long ones. Nobody's asked for a speech.
+    answer: Sara Pascoe
+    aliases:
+    - sara pascoe
+    reasoning: Sara (the name Sara, like Sarah) + Pascoe (pas-co, like pass + co, or Pascoe = a Cornish surname that sounds like pass-co) = Sara Pascoe.
 - id: comediansbusters-009
   enabled: true
   title: Comediansbusters
@@ -271,32 +263,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Nearly halfway. Comediansbusters nine. Three phonetic riddles. All comedians. You know the drill."
-  prize: "Email in. Winner gets a novelty pen from a trade show and a Werthers Original."
+  - UK
+  intro: Comediansbusters. Three phonetic riddles, all comedians. You know the drill.
+  prize: Email in. Winner gets a novelty pen from a trade show and a Werthers Original.
   clues:
-    - number: 1
-      initials: A B
-      clue: "Some Irish woman's gone and started a fire on a beach. Just there in the evening. She's lit it and she's sitting by it reading a magazine. Lovely, really."
-      answer: Aisling Bea
-      aliases:
-        - aisling bea
-      reasoning: "Aisling (ash-ling, like ash from a fire, the name Aisling is pronounced ash-ling) + Bea (a beach without the ch, or Bea = Beatrice shortened, sounds like bee or the letter B) = Aisling Bea. Ash-ling + Bee."
-    - number: 2
-      initials: L M
-      clue: "Right, there's a big mechanical thing in a field that chews up corn and it's making a terrible racket. The cows are unhappy about it."
-      answer: Lee Mack
-      aliases:
-        - lee mack
-      reasoning: "Lee (lea = a meadow or field) + Mack (mack = a loud mechanical thresher sound, or mac = waterproof, but here it sounds like mack as in a smack or loud clap) = Lee Mack. Lea + Mac."
-    - number: 3
-      initials: T V
-      clue: "That bloke's climbed up the side of the church and he's sitting at the very top. Says he likes it up there. He's been there since Tuesday."
-      answer: Tim Vine
-      aliases:
-        - tim vine
-      reasoning: "Tim (like climbing timber, or tim = a short climb, or Tim as a name) + Vine (a vine, the climbing plant that goes up walls and churches) = Tim Vine. Tim + Vine, the climber."
-
+  - number: 1
+    initials: A B
+    clue: Some Irish woman's gone and started a fire on a beach. Just there in the evening. She's lit it and she's sitting by it reading a magazine. Lovely, really.
+    answer: Aisling Bea
+    aliases:
+    - aisling bea
+    reasoning: Aisling (ash-ling, like ash from a fire, the name Aisling is pronounced ash-ling) + Bea (a beach without the ch, or Bea = Beatrice shortened, sounds like bee or the letter B) = Aisling Bea. Ash-ling + Bee.
+  - number: 2
+    initials: L M
+    clue: Right, there's a big mechanical thing in a field that chews up corn and it's making a terrible racket. The cows are unhappy about it.
+    answer: Lee Mack
+    aliases:
+    - lee mack
+    reasoning: Lee (lea = a meadow or field) + Mack (mack = a loud mechanical thresher sound, or mac = waterproof, but here it sounds like mack as in a smack or loud clap) = Lee Mack. Lea + Mac.
+  - number: 3
+    initials: T V
+    clue: That bloke's climbed up the side of the church and he's sitting at the very top. Says he likes it up there. He's been there since Tuesday.
+    answer: Tim Vine
+    aliases:
+    - tim vine
+    reasoning: Tim (like climbing timber, or tim = a short climb, or Tim as a name) + Vine (a vine, the climbing plant that goes up walls and churches) = Tim Vine. Tim + Vine, the climber.
 - id: comediansbusters-010
   enabled: true
   title: Comediansbusters
@@ -304,32 +295,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Ten sets in. Comediansbusters. Three more phonetic comedian clues. Easy one this."
-  prize: "Email in. Winner gets a foam visor from a theme park and a mini Babybel that's lost its wax."
+  - UK
+  intro: Ten sets in. Comediansbusters. Three more phonetic comedian clues. Easy one this.
+  prize: Email in. Winner gets a foam visor from a theme park and a mini Babybel that's lost its wax.
   clues:
-    - number: 1
-      initials: B M
-      clue: "That fella's sitting in the middle of a swamp doing a very dramatic impression of a gravestone. He's committed to it. Nobody's watching."
-      answer: Bob Mortimer
-      aliases:
-        - bob mortimer
-      reasoning: "Bob (to bob = to move up and down in water, or Bob as a name in a swamp) + Mortimer (mort = death + timer = a clock, or morty-more = more death) = Bob Mortimer. Bob + mort-imer."
-    - number: 2
-      initials: V R
-      clue: "Right, Victor's gone and entered himself in a race and he's got his sleeve caught on a fence. He's still shuffling forward. Very committed."
-      answer: Vic Reeves
-      aliases:
-        - vic reeves
-      reasoning: "Vic (Victor, a vic, or Vic as in victory) + Reeves (reeves = to pass a rope through a hole, or re-eeves, like eaves of a roof again) = Vic Reeves. Vic + Reeves."
-    - number: 3
-      initials: H H
-      clue: "Someone's drawn a great big face on a hillside. It's smiling. You can see it from the motorway. Nobody knows who did it."
-      answer: Harry Hill
-      aliases:
-        - harry hill
-      reasoning: "Harry (to harry = to bother or disturb, or Harry as a name) + Hill (a hill with a face drawn on it) = Harry Hill."
-
+  - number: 1
+    initials: B M
+    clue: That fella's sitting in the middle of a swamp doing a very dramatic impression of a gravestone. He's committed to it. Nobody's watching.
+    answer: Bob Mortimer
+    aliases:
+    - bob mortimer
+    reasoning: Bob (to bob = to move up and down in water, or Bob as a name in a swamp) + Mortimer (mort = death + timer = a clock, or morty-more = more death) = Bob Mortimer. Bob + mort-imer.
+  - number: 2
+    initials: V R
+    clue: Right, Victor's gone and entered himself in a race and he's got his sleeve caught on a fence. He's still shuffling forward. Very committed.
+    answer: Vic Reeves
+    aliases:
+    - vic reeves
+    reasoning: Vic (Victor, a vic, or Vic as in victory) + Reeves (reeves = to pass a rope through a hole, or re-eeves, like eaves of a roof again) = Vic Reeves. Vic + Reeves.
+  - number: 3
+    initials: H H
+    clue: Someone's drawn a great big face on a hillside. It's smiling. You can see it from the motorway. Nobody knows who did it.
+    answer: Harry Hill
+    aliases:
+    - harry hill
+    reasoning: Harry (to harry = to bother or disturb, or Harry as a name) + Hill (a hill with a face drawn on it) = Harry Hill.
 - id: comediansbusters-011
   enabled: true
   title: Comediansbusters
@@ -337,32 +327,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Comediansbusters eleven. Three more. All phonetic. Say it out loud and the comedian will come to you."
-  prize: "Email in. Winner gets a loyalty card with two stamps on it from a bakery that closed down."
+  - UK
+  intro: Comediansbusters eleven. Three more. All phonetic. Say it out loud and the comedian will come to you.
+  prize: Email in. Winner gets a loyalty card with two stamps on it from a bakery that closed down.
   clues:
-    - number: 1
-      initials: J C
-      clue: "Some fella's leaning on a car outside a nightclub and he's charging people to look at it. Fifty pence a look. There's actually a queue."
-      answer: Jimmy Carr
-      aliases:
-        - jimmy carr
-      reasoning: "Jimmy (jimmy = to prize open, or Jimmy as a name, or jimmy = slang for various things) + Carr (a car, parked outside the nightclub) = Jimmy Carr. Jim + car."
-    - number: 2
-      initials: M M
-      clue: "There's a bloke called Mike and he's measuring the centre of the tyre. Very carefully. He's got a clipboard. He's written it down."
-      answer: Michael McIntyre
-      aliases:
-        - michael mcintyre
-      reasoning: "Michael (my-kel, Mike) + McIntyre (mac-in-tyre, a tyre inside a mac, or mac + in + tyre) = Michael McIntyre. Mike + Mac-in-tyre."
-    - number: 3
-      initials: S L
-      clue: "Right, there's a canal and someone's bolted the gates shut. They won't open for anyone. The barge is just sitting there. Been there since Monday."
-      answer: Sean Lock
-      aliases:
-        - sean lock
-      reasoning: "Sean (shawn, sounds like shown or shone) + Lock (a lock on a canal, the gates that hold the water) = Sean Lock. Shawn + Lock."
-
+  - number: 1
+    initials: J C
+    clue: Some fella's leaning on a car outside a nightclub and he's charging people to look at it. Fifty pence a look. There's actually a queue.
+    answer: Jimmy Carr
+    aliases:
+    - jimmy carr
+    reasoning: Jimmy (jimmy = to prize open, or Jimmy as a name, or jimmy = slang for various things) + Carr (a car, parked outside the nightclub) = Jimmy Carr. Jim + car.
+  - number: 2
+    initials: M M
+    clue: There's a bloke called Mike and he's measuring the centre of the tyre. Very carefully. He's got a clipboard. He's written it down.
+    answer: Michael McIntyre
+    aliases:
+    - michael mcintyre
+    reasoning: Michael (my-kel, Mike) + McIntyre (mac-in-tyre, a tyre inside a mac, or mac + in + tyre) = Michael McIntyre. Mike + Mac-in-tyre.
+  - number: 3
+    initials: S L
+    clue: Right, there's a canal and someone's bolted the gates shut. They won't open for anyone. The barge is just sitting there. Been there since Monday.
+    answer: Sean Lock
+    aliases:
+    - sean lock
+    reasoning: Sean (shawn, sounds like shown or shone) + Lock (a lock on a canal, the gates that hold the water) = Sean Lock. Shawn + Lock.
 - id: comediansbusters-012
   enabled: true
   title: Comediansbusters
@@ -370,32 +359,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Right. Comediansbusters twelve. Don't overthink it. Three phonetic clues, all comedians."
-  prize: "Email in. Winner gets a branded tote bag from a book festival and a hotel pen."
+  - UK
+  intro: Right. Comediansbusters twelve. Don't overthink it. Three phonetic clues, all comedians.
+  prize: Email in. Winner gets a branded tote bag from a book festival and a hotel pen.
   clues:
-    - number: 1
-      initials: P K
-      clue: "There's a parking meter but someone's replaced the money slot with a door knocker. A proper brass one. You have to knock to get a ticket."
-      answer: Peter Kay
-      aliases:
-        - peter kay
-      reasoning: "Peter (peter out = to fade away, or Peter as a name) + Kay (a key, the letter K, or Kay as a name) = Peter Kay. Pete + Kay, like a name and a letter."
-    - number: 2
-      initials: B B
-      clue: "That fella called Bill is standing at the bottom of a very long road and he's waiting. He's been there since dawn. The road curves round a field."
-      answer: Bill Bailey
-      aliases:
-        - bill bailey
-      reasoning: "Bill (an invoice, a bill, or Bill the name) + Bailey (a bailey = the courtyard inside castle walls, or Bailey as a name, bail + ey) = Bill Bailey."
-    - number: 3
-      initials: R H
-      clue: "Someone's built an enormous hall out of gold. Right in the middle of the countryside. It's gleaming. Nobody asked for it. It's there now."
-      answer: Rich Hall
-      aliases:
-        - rich hall
-      reasoning: "Rich (rich = wealthy, made of gold) + Hall (a great hall, a building) = Rich Hall."
-
+  - number: 1
+    initials: P K
+    clue: There's a parking meter but someone's replaced the money slot with a door knocker. A proper brass one. You have to knock to get a ticket.
+    answer: Peter Kay
+    aliases:
+    - peter kay
+    reasoning: Peter (peter out = to fade away, or Peter as a name) + Kay (a key, the letter K, or Kay as a name) = Peter Kay. Pete + Kay, like a name and a letter.
+  - number: 2
+    initials: B B
+    clue: That fella called Bill is standing at the bottom of a very long road and he's waiting. He's been there since dawn. The road curves round a field.
+    answer: Bill Bailey
+    aliases:
+    - bill bailey
+    reasoning: Bill (an invoice, a bill, or Bill the name) + Bailey (a bailey = the courtyard inside castle walls, or Bailey as a name, bail + ey) = Bill Bailey.
+  - number: 3
+    initials: R H
+    clue: Someone's built an enormous hall out of gold. Right in the middle of the countryside. It's gleaming. Nobody asked for it. It's there now.
+    answer: Rich Hall
+    aliases:
+    - rich hall
+    reasoning: Rich (rich = wealthy, made of gold) + Hall (a great hall, a building) = Rich Hall.
 - id: comediansbusters-013
   enabled: true
   title: Comediansbusters
@@ -403,33 +391,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Comediansbusters thirteen. Three phonetic comedian clues. Near enough, say it aloud."
-  prize: "Email in. Winner gets a copy of The Phantom Menace on VHS and a bookmark."
+  - UK
+  intro: Comediansbusters thirteen. Three phonetic comedian clues. Near enough, say it aloud.
+  prize: Email in. Winner gets a copy of The Phantom Menace on VHS and a bookmark.
   clues:
-    - number: 1
-      initials: D O B
-      clue: "Right, this fella's dared himself to go on a boat and he's done it, but now the boat's going round in circles and he looks slightly green."
-      answer: Dara O Briain
-      aliases:
-        - dara o briain
-        - dara o'briain
-      reasoning: "Dara (dare + a = dara, like daring yourself to do something) + O (oh, the exclamation when you feel sick on a boat) + Briain (bree-an, sounds like Brian with an Irish accent) = Dara O Briain."
-    - number: 2
-      initials: T T
-      clue: "Some fella's gone and torn a thin piece of material right down the middle. Very deliberately. He seems satisfied. That's all."
-      answer: Tommy Tiernan
-      aliases:
-        - tommy tiernan
-      reasoning: "Tommy (the name Tommy, or a Tommy = a bread roll in some dialects) + Tiernan (tear-nan, like tearing something, or tier-nan = someone who tears) = Tommy Tiernan. Tom + tear-nan."
-    - number: 3
-      initials: D M
-      clue: "Right, Dylan's moved into a place with no windows and he's filled it with old furniture and he won't answer the door. He says he's busy. He's not busy."
-      answer: Dylan Moran
-      aliases:
-        - dylan moran
-      reasoning: "Dylan (the name Dylan, like the Welsh name or Bob Dylan) + Moran (more-an, like always wanting more, or mo-ran = a bit of a moan) = Dylan Moran."
-
+  - number: 1
+    initials: D O B
+    clue: Right, this fella's dared himself to go on a boat and he's done it, but now the boat's going round in circles and he looks slightly green.
+    answer: Dara O Briain
+    aliases:
+    - dara o briain
+    - dara o'briain
+    reasoning: Dara (dare + a = dara, like daring yourself to do something) + O (oh, the exclamation when you feel sick on a boat) + Briain (bree-an, sounds like Brian with an Irish accent) = Dara O Briain.
+  - number: 2
+    initials: T T
+    clue: Some fella's gone and torn a thin piece of material right down the middle. Very deliberately. He seems satisfied. That's all.
+    answer: Tommy Tiernan
+    aliases:
+    - tommy tiernan
+    reasoning: Tommy (the name Tommy, or a Tommy = a bread roll in some dialects) + Tiernan (tear-nan, like tearing something, or tier-nan = someone who tears) = Tommy Tiernan. Tom + tear-nan.
+  - number: 3
+    initials: D M
+    clue: Right, Dylan's moved into a place with no windows and he's filled it with old furniture and he won't answer the door. He says he's busy. He's not busy.
+    answer: Dylan Moran
+    aliases:
+    - dylan moran
+    reasoning: Dylan (the name Dylan, like the Welsh name or Bob Dylan) + Moran (more-an, like always wanting more, or mo-ran = a bit of a moan) = Dylan Moran.
 - id: comediansbusters-014
   enabled: true
   title: Comediansbusters
@@ -437,32 +424,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Alright, Comediansbusters fourteen. Three more phonetic comedian clues. Bit weird some of these."
-  prize: "Email in. Winner gets a cracked phone case and a single teabag in a paper envelope."
+  - UK
+  intro: Alright, Comediansbusters fourteen. Three more phonetic comedian clues. Bit weird some of these.
+  prize: Email in. Winner gets a cracked phone case and a single teabag in a paper envelope.
   clues:
-    - number: 1
-      initials: R B
-      clue: "That fella's gone and robbed a load of baskets from a market and he's arranged them in his garden. He's very pleased. Says it's art."
-      answer: Rob Beckett
-      aliases:
-        - rob beckett
-      reasoning: "Rob (rob = to steal, to take without asking) + Beckett (beck-et, like a basket with some letters changed, or beck + et) = Rob Beckett. Rob + Beck-et."
-    - number: 2
-      initials: J R
-      clue: "Some lad called John has gone and written a very long set of rules for the office kitchen. Four pages. He's laminated them. He's attached them to the kettle."
-      answer: Jon Richardson
-      aliases:
-        - jon richardson
-      reasoning: "Jon (the name Jon, John without the h) + Richardson (rich-ard-son, like the son of Richard, someone rich and posh) = Jon Richardson."
-    - number: 3
-      initials: S P
-      clue: "Someone's covered the whole patio in grass seed. It's already growing. There are blades coming through the paving. The patio is slowly becoming a meadow."
-      answer: Sara Pascoe
-      aliases:
-        - sara pascoe
-      reasoning: "Sara (the name Sara, like scatter or sow, sara sounds like sowing) + Pascoe (pas-co, like the patio becoming a pasture, or pasco = a pasture in some dialects) = Sara Pascoe."
-
+  - number: 1
+    initials: R B
+    clue: That fella's gone and robbed a load of baskets from a market and he's arranged them in his garden. He's very pleased. Says it's art.
+    answer: Rob Beckett
+    aliases:
+    - rob beckett
+    reasoning: Rob (rob = to steal, to take without asking) + Beckett (beck-et, like a basket with some letters changed, or beck + et) = Rob Beckett. Rob + Beck-et.
+  - number: 2
+    initials: J R
+    clue: Some lad called John has gone and written a very long set of rules for the office kitchen. Four pages. He's laminated them. He's attached them to the kettle.
+    answer: Jon Richardson
+    aliases:
+    - jon richardson
+    reasoning: Jon (the name Jon, John without the h) + Richardson (rich-ard-son, like the son of Richard, someone rich and posh) = Jon Richardson.
+  - number: 3
+    initials: S P
+    clue: Someone's covered the whole patio in grass seed. It's already growing. There are blades coming through the paving. The patio is slowly becoming a meadow.
+    answer: Sara Pascoe
+    aliases:
+    - sara pascoe
+    reasoning: Sara (the name Sara, like scatter or sow, sara sounds like sowing) + Pascoe (pas-co, like the patio becoming a pasture, or pasco = a pasture in some dialects) = Sara Pascoe.
 - id: comediansbusters-015
   enabled: true
   title: Comediansbusters
@@ -470,33 +456,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Comediansbusters fifteen. Still going. Three phonetic clues, all comedians. Say them out loud."
-  prize: "Email in. Winner gets a garden centre voucher, last year's, and a packet of decorative gravel."
+  - UK
+  intro: Comediansbusters fifteen. Still going. Three phonetic clues, all comedians. Say them out loud.
+  prize: Email in. Winner gets a garden centre voucher, last year's, and a packet of decorative gravel.
   clues:
-    - number: 1
-      initials: A O H
-      clue: "Right, this Irish fella's got a very long arm and it keeps knocking things over. He says it belongs to him. The arm's not convinced."
-      answer: Ardal O Hanlon
-      aliases:
-        - ardal o hanlon
-        - ardal o'hanlon
-      reasoning: "Ardal (ar-dul, like ardent + al, or ar-dal = a hard fall) + O (oh) + Hanlon (hand-lon, like a long hand, or han-lon) = Ardal O Hanlon. Hard-ul + oh + hand-lon."
-    - number: 2
-      initials: R D H
-      clue: "Reg's gone hunting in the woods and he's wearing a suit. A proper formal suit. Tie and everything. He says it's important to make an effort."
-      answer: Reginald D Hunter
-      aliases:
-        - reginald d hunter
-      reasoning: "Reginald (Reg-in-ald, like regal + inald, or Reginald = a very formal name) + D (the letter D) + Hunter (a hunter, someone who hunts in a formal suit) = Reginald D Hunter."
-    - number: 3
-      initials: J W
-      clue: "That fella Josh has gone wide. Right wide. He's taken up the whole pavement and he's got a big comb in his hand. People are walking in the road to get past."
-      answer: Josh Widdecombe
-      aliases:
-        - josh widdecombe
-      reasoning: "Josh (the name Josh) + Widdecombe (widdy-comb, wide + a comb, like someone wide holding a comb) = Josh Widdecombe. Josh + Widdy-comb."
-
+  - number: 1
+    initials: A O H
+    clue: Right, this Irish fella's got a very long arm and it keeps knocking things over. He says it belongs to him. The arm's not convinced.
+    answer: Ardal O Hanlon
+    aliases:
+    - ardal o hanlon
+    - ardal o'hanlon
+    reasoning: Ardal (ar-dul, like ardent + al, or ar-dal = a hard fall) + O (oh) + Hanlon (hand-lon, like a long hand, or han-lon) = Ardal O Hanlon. Hard-ul + oh + hand-lon.
+  - number: 2
+    initials: R D H
+    clue: Reg's gone hunting in the woods and he's wearing a suit. A proper formal suit. Tie and everything. He says it's important to make an effort.
+    answer: Reginald D Hunter
+    aliases:
+    - reginald d hunter
+    reasoning: Reginald (Reg-in-ald, like regal + inald, or Reginald = a very formal name) + D (the letter D) + Hunter (a hunter, someone who hunts in a formal suit) = Reginald D Hunter.
+  - number: 3
+    initials: J W
+    clue: That fella Josh has gone wide. Right wide. He's taken up the whole pavement and he's got a big comb in his hand. People are walking in the road to get past.
+    answer: Josh Widdecombe
+    aliases:
+    - josh widdecombe
+    reasoning: Josh (the name Josh) + Widdecombe (widdy-comb, wide + a comb, like someone wide holding a comb) = Josh Widdecombe. Josh + Widdy-comb.
 - id: comediansbusters-016
   enabled: true
   title: Comediansbusters
@@ -504,32 +489,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Right. Comediansbusters sixteen. Three more. Phonetic, daft, all comedians. You know what to do."
-  prize: "Email in. Winner gets a 2005 desk diary and a travel sewing kit from a Premier Inn."
+  - UK
+  intro: Right. Comediansbusters sixteen. Three more. Phonetic, daft, all comedians. You know what to do.
+  prize: Email in. Winner gets a 2005 desk diary and a travel sewing kit from a Premier Inn.
   clues:
-    - number: 1
-      initials: A B
-      clue: "There's a fire made of ash and it's on a beach and a woman called Bea is sitting next to it with a magazine. It's a very calm evening. Nice, really."
-      answer: Aisling Bea
-      aliases:
-        - aisling bea
-      reasoning: "Aisling (ash-ling, pronounced ash-ling in Irish, like ash + ling, as in the ash from a fire) + Bea (the name Bea, like a beach without the ch, or just Bea) = Aisling Bea."
-    - number: 2
-      initials: N K
-      clue: "Someone called Nish is kneeling down and going through a big keyring looking for the right one. He's been going for twenty minutes. There are loads of keys."
-      answer: Nish Kumar
-      aliases:
-        - nish kumar
-      reasoning: "Nish (the name Nish, sounds like knish or niche) + Kumar (coo-mar, like cool + mar, or Kumar = a common South Asian surname sounding like coo-mar) = Nish Kumar."
-    - number: 3
-      initials: R R
-      clue: "Right, Romesh has gone and run up a very long road and when he got to the end he turned round and ran back. He's not done explaining why."
-      answer: Romesh Ranganathan
-      aliases:
-        - romesh ranganathan
-      reasoning: "Romesh (ro-mesh, like a mesh net or Romesh the name) + Ranganathan (rang-a-nath-an, like rang + a + Nathan, a very long surname to say out loud) = Romesh Ranganathan."
-
+  - number: 1
+    initials: A B
+    clue: There's a fire made of ash and it's on a beach and a woman called Bea is sitting next to it with a magazine. It's a very calm evening. Nice, really.
+    answer: Aisling Bea
+    aliases:
+    - aisling bea
+    reasoning: Aisling (ash-ling, pronounced ash-ling in Irish, like ash + ling, as in the ash from a fire) + Bea (the name Bea, like a beach without the ch, or just Bea) = Aisling Bea.
+  - number: 2
+    initials: N K
+    clue: Someone called Nish is kneeling down and going through a big keyring looking for the right one. He's been going for twenty minutes. There are loads of keys.
+    answer: Nish Kumar
+    aliases:
+    - nish kumar
+    reasoning: Nish (the name Nish, sounds like knish or niche) + Kumar (coo-mar, like cool + mar, or Kumar = a common South Asian surname sounding like coo-mar) = Nish Kumar.
+  - number: 3
+    initials: R R
+    clue: Right, Romesh has gone and run up a very long road and when he got to the end he turned round and ran back. He's not done explaining why.
+    answer: Romesh Ranganathan
+    aliases:
+    - romesh ranganathan
+    reasoning: Romesh (ro-mesh, like a mesh net or Romesh the name) + Ranganathan (rang-a-nath-an, like rang + a + Nathan, a very long surname to say out loud) = Romesh Ranganathan.
 - id: comediansbusters-017
   enabled: true
   title: Comediansbusters
@@ -537,32 +521,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Comediansbusters seventeen. Nearly there. Three phonetic clues. All comedians. Sort of works."
-  prize: "Email in. Winner gets a signed photo possibly from someone off Emmerdale and a pen lid."
+  - UK
+  intro: Comediansbusters. Three phonetic clues, all comedians. Say them out loud.
+  prize: Email in. Winner gets a signed photo possibly from someone off Emmerdale and a pen lid.
   clues:
-    - number: 1
-      initials: M J
-      clue: "That fella Milton's gone to work and he put a big pot of marmalade on his desk. He's handing it out to colleagues one spoonful at a time. Very systematic."
-      answer: Milton Jones
-      aliases:
-        - milton jones
-      reasoning: "Milton (Milton as a name, like Milton Keynes, or milton = a sterilising solution, either way it's a very specific name) + Jones (keeping up with the Joneses, Jones = a very common Welsh/British surname) = Milton Jones."
-    - number: 2
-      initials: L M
-      clue: "There's a meadow, right, and someone's put a big waterproof coat in the middle of it. Just standing there. Arms out. Like a scarecrow but it's definitely just a coat."
-      answer: Lee Mack
-      aliases:
-        - lee mack
-      reasoning: "Lee (a lee, a lea = a meadow or sheltered field) + Mack (a mack = a mackintosh, a waterproof coat) = Lee Mack. Lea + Mac."
-    - number: 3
-      initials: T V
-      clue: "Some bloke's planted a load of climbing plants on the side of the church and they've gone up and over the whole thing. It's completely covered. The vicar hasn't said anything."
-      answer: Tim Vine
-      aliases:
-        - tim vine
-      reasoning: "Tim (the name Tim, like timber or just Tim) + Vine (a vine, the climbing plant that's covered the whole church) = Tim Vine."
-
+  - number: 1
+    initials: M J
+    clue: That fella Milton's gone to work and he put a big pot of marmalade on his desk. He's handing it out to colleagues one spoonful at a time. Very systematic.
+    answer: Milton Jones
+    aliases:
+    - milton jones
+    reasoning: Milton (Milton as a name, like Milton Keynes, or milton = a sterilising solution, either way it's a very specific name) + Jones (keeping up with the Joneses, Jones = a very common Welsh/British surname) = Milton Jones.
+  - number: 2
+    initials: L M
+    clue: There's a meadow, right, and someone's put a big waterproof coat in the middle of it. Just standing there. Arms out. Like a scarecrow but it's definitely just a coat.
+    answer: Lee Mack
+    aliases:
+    - lee mack
+    reasoning: Lee (a lee, a lea = a meadow or sheltered field) + Mack (a mack = a mackintosh, a waterproof coat) = Lee Mack. Lea + Mac.
+  - number: 3
+    initials: T V
+    clue: Some bloke's planted a load of climbing plants on the side of the church and they've gone up and over the whole thing. It's completely covered. The vicar hasn't said anything.
+    answer: Tim Vine
+    aliases:
+    - tim vine
+    reasoning: Tim (the name Tim, like timber or just Tim) + Vine (a vine, the climbing plant that's covered the whole church) = Tim Vine.
 - id: comediansbusters-018
   enabled: true
   title: Comediansbusters
@@ -570,32 +553,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Alright, set eighteen. Comediansbusters. Three phonetic comedian clues. This is nearly the end."
-  prize: "Email in. Winner gets a tin of travel sweets and a branded umbrella that doesn't open properly."
+  - UK
+  intro: Alright, set eighteen. Comediansbusters. Three phonetic comedian clues. This is nearly the end.
+  prize: Email in. Winner gets a tin of travel sweets and a branded umbrella that doesn't open properly.
   clues:
-    - number: 1
-      initials: B B
-      clue: "That fella Bob's gone and got himself stuck in the outer wall of a castle. Just his head sticking out. He's calm. Says the stone's quite comfortable actually."
-      answer: Bob Mortimer
-      aliases:
-        - bob mortimer
-      reasoning: "Bob (the name Bob, bobbing about) + Mortimer (mor-ti-mer, mort = the outer castle wall, bailey, or mortar between the stones, mortimer contains mort) = Bob Mortimer."
-    - number: 2
-      initials: V R
-      clue: "Right, Victor's gone and signed up for a roof repair job but he's doing it in flip flops. It's not going well. He says the roof's fine."
-      answer: Vic Reeves
-      aliases:
-        - vic reeves
-      reasoning: "Vic (Victor, someone who wins, or Vic as in victorious, or Vick the brand) + Reeves (the eaves of a roof, like re-eaves, reeves sounds like the edge of a roof) = Vic Reeves. Vic + Reeves/eaves."
-    - number: 3
-      initials: H H
-      clue: "Someone's annoying a hill. Just standing next to it having a go at it. The hill's not rising to it. Very patient hill."
-      answer: Harry Hill
-      aliases:
-        - harry hill
-      reasoning: "Harry (harry = to persistently bother or annoy, to harry someone) + Hill (a hill, an actual geographical feature being harried) = Harry Hill."
-
+  - number: 1
+    initials: B B
+    clue: That fella Bob's gone and got himself stuck in the outer wall of a castle. Just his head sticking out. He's calm. Says the stone's quite comfortable actually.
+    answer: Bob Mortimer
+    aliases:
+    - bob mortimer
+    reasoning: Bob (the name Bob, bobbing about) + Mortimer (mor-ti-mer, mort = the outer castle wall, bailey, or mortar between the stones, mortimer contains mort) = Bob Mortimer.
+  - number: 2
+    initials: V R
+    clue: Right, Victor's gone and signed up for a roof repair job but he's doing it in flip flops. It's not going well. He says the roof's fine.
+    answer: Vic Reeves
+    aliases:
+    - vic reeves
+    reasoning: Vic (Victor, someone who wins, or Vic as in victorious, or Vick the brand) + Reeves (the eaves of a roof, like re-eaves, reeves sounds like the edge of a roof) = Vic Reeves. Vic + Reeves/eaves.
+  - number: 3
+    initials: H H
+    clue: Someone's annoying a hill. Just standing next to it having a go at it. The hill's not rising to it. Very patient hill.
+    answer: Harry Hill
+    aliases:
+    - harry hill
+    reasoning: Harry (harry = to persistently bother or annoy, to harry someone) + Hill (a hill, an actual geographical feature being harried) = Harry Hill.
 - id: comediansbusters-019
   enabled: true
   title: Comediansbusters
@@ -603,32 +585,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Comediansbusters nineteen. Penultimate set. Three more. Say it out loud. That's all."
-  prize: "Email in. Winner gets a novelty mug shaped like a toilet and a chocolate finger."
+  - UK
+  intro: Comediansbusters. Three more comedian names hiding in the sounds. Say it out loud. That's all.
+  prize: Email in. Winner gets a novelty mug shaped like a toilet and a chocolate finger.
   clues:
-    - number: 1
-      initials: J C
-      clue: "There's a bloke called Jim and he's bought a car but he's pushing it home by hand. Won't use the engine. Says the engine's for special occasions."
-      answer: Jimmy Carr
-      aliases:
-        - jimmy carr
-      reasoning: "Jimmy (Jim, Jimmy, like jimmy-ing something along, pushing it by hand) + Carr (a car, the vehicle he's pushing home) = Jimmy Carr."
-    - number: 2
-      initials: S P
-      clue: "Some woman's gone and scattered wildflower seeds all over the countryside on a Sunday. Just walking around throwing handfuls of them. She seems happy about it."
-      answer: Sara Pascoe
-      aliases:
-        - sara pascoe
-      reasoning: "Sara (the name Sara, sounds like sowing or scattering seeds) + Pascoe (pas-co, like a pasture or pastureland, pasco sounds like pastoral country) = Sara Pascoe."
-    - number: 3
-      initials: A B
-      clue: "Right, there's an Irish woman sitting on a pile of ash next to the sea and she's reading a book and she won't be disturbed. Very settled."
-      answer: Aisling Bea
-      aliases:
-        - aisling bea
-      reasoning: "Aisling (ash-ling, like ash + ling, the name pronounced ash-ling in Irish) + Bea (bea = the sea? No. Bea sounds like the letter B, like a bee, or Bea as a name near the beach) = Aisling Bea."
-
+  - number: 1
+    initials: J C
+    clue: There's a bloke called Jim and he's bought a car but he's pushing it home by hand. Won't use the engine. Says the engine's for special occasions.
+    answer: Jimmy Carr
+    aliases:
+    - jimmy carr
+    reasoning: Jimmy (Jim, Jimmy, like jimmy-ing something along, pushing it by hand) + Carr (a car, the vehicle he's pushing home) = Jimmy Carr.
+  - number: 2
+    initials: S P
+    clue: Some woman's gone and scattered wildflower seeds all over the countryside on a Sunday. Just walking around throwing handfuls of them. She seems happy about it.
+    answer: Sara Pascoe
+    aliases:
+    - sara pascoe
+    reasoning: Sara (the name Sara, sounds like sowing or scattering seeds) + Pascoe (pas-co, like a pasture or pastureland, pasco sounds like pastoral country) = Sara Pascoe.
+  - number: 3
+    initials: A B
+    clue: Right, there's an Irish woman sitting on a pile of ash next to the sea and she's reading a book and she won't be disturbed. Very settled.
+    answer: Aisling Bea
+    aliases:
+    - aisling bea
+    reasoning: Aisling (ash-ling, like ash + ling, the name pronounced ash-ling in Irish) + Bea (bea = the sea? No. Bea sounds like the letter B, like a bee, or Bea as a name near the beach) = Aisling Bea.
 - id: comediansbusters-020
   enabled: true
   title: Comediansbusters
@@ -636,28 +617,28 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Last one. Comediansbusters twenty. Three final phonetic comedian clues. Give it one last go."
-  prize: "Email in. Winner gets a travel sewing kit from a Travelodge and a slightly out-of-date Rolo."
+  - UK
+  intro: Comediansbusters. Three phonetic comedian clues. Give it a go.
+  prize: Email in. Winner gets a travel sewing kit from a Travelodge and a slightly out-of-date Rolo.
   clues:
-    - number: 1
-      initials: D M
-      clue: "Right, Dylan's gone and set himself up in a big dark flat with no light and he's got loads of old furniture and he's moaning about everything. He's actually fine. He's just Dylan."
-      answer: Dylan Moran
-      aliases:
-        - dylan moran
-      reasoning: "Dylan (the name Dylan, Welsh origin, like Bob Dylan or the Welsh sea god) + Moran (mo-ran, like moaning + ran, or Moran = an Irish surname sounding like more-an) = Dylan Moran."
-    - number: 2
-      initials: R D H
-      clue: "Reginald's gone hunting but he's brought a dictionary. He's consulting it every time he sees an animal. The animals have all left. He doesn't seem concerned."
-      answer: Reginald D Hunter
-      aliases:
-        - reginald d hunter
-      reasoning: "Reginald (reg-in-ald, a very formal British name, like a regimental colonel) + D (the letter D, like a middle initial, very formal) + Hunter (someone who hunts, out in the woods with a dictionary) = Reginald D Hunter."
-    - number: 3
-      initials: R R
-      clue: "There's a bloke called Rom and he's run the length of a very long road and he's done it again and he's still going. He's rung ahead to say he'll be late."
-      answer: Romesh Ranganathan
-      aliases:
-        - romesh ranganathan
-      reasoning: "Romesh (ro-mesh, like Rome + esh, or just the name Romesh) + Ranganathan (rang + a + Nathan, like he rang ahead and asked for Nathan, rang-a-Nathan) = Romesh Ranganathan. He rang a Nathan."
+  - number: 1
+    initials: D M
+    clue: Right, Dylan's gone and set himself up in a big dark flat with no light and he's got loads of old furniture and he's moaning about everything. He's actually fine. He's just Dylan.
+    answer: Dylan Moran
+    aliases:
+    - dylan moran
+    reasoning: Dylan (the name Dylan, Welsh origin, like Bob Dylan or the Welsh sea god) + Moran (mo-ran, like moaning + ran, or Moran = an Irish surname sounding like more-an) = Dylan Moran.
+  - number: 2
+    initials: R D H
+    clue: Reginald's gone hunting but he's brought a dictionary. He's consulting it every time he sees an animal. The animals have all left. He doesn't seem concerned.
+    answer: Reginald D Hunter
+    aliases:
+    - reginald d hunter
+    reasoning: Reginald (reg-in-ald, a very formal British name, like a regimental colonel) + D (the letter D, like a middle initial, very formal) + Hunter (someone who hunts, out in the woods with a dictionary) = Reginald D Hunter.
+  - number: 3
+    initials: R R
+    clue: There's a bloke called Rom and he's run the length of a very long road and he's done it again and he's still going. He's rung ahead to say he'll be late.
+    answer: Romesh Ranganathan
+    aliases:
+    - romesh ranganathan
+    reasoning: Romesh (ro-mesh, like Rome + esh, or just the name Romesh) + Ranganathan (rang + a + Nathan, like he rang ahead and asked for Nathan, rang-a-Nathan) = Romesh Ranganathan. He rang a Nathan.

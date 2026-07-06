@@ -5,32 +5,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Right, Sportbusters. All the answers are famous sports people. Some you'll know, some you'll pretend you know. Off you go."
-  prize: "Email in. Winner gets a Sportsworld gift voucher from 2003 and a free pen."
+  - UK
+  intro: Right, Sportbusters. All the answers are famous sports people. Some you'll know, some you'll pretend you know. Off you go.
+  prize: Email in. Winner gets a Sportsworld gift voucher from 2003 and a free pen.
   clues:
-    - number: 1
-      initials: T W
-      clue: "That big stripy jungle cat's gone and wandered off into a load of trees. Don't know why. That's animals for you."
-      answer: Tiger Woods
-      aliases:
-        - tiger woods
-      reasoning: "tiger (big stripy cat) + woods (trees/forest) = Tiger Woods"
-    - number: 2
-      initials: U B
-      clue: "Right, you're perfectly sane, yeah? Nothing wrong with you. And you've just slid a lock across a door. That's it."
-      answer: Usain Bolt
-      aliases:
-        - usain bolt
-      reasoning: "you + sane (perfectly sane) + bolt (door lock/lightning bolt) = Usain Bolt"
-    - number: 3
-      initials: M A
-      clue: "That cow's making its noise, someone's shoved a pig-based snack inside it, and it's gone absolutely mental in a back street. Busy day."
-      answer: Muhammad Ali
-      aliases:
-        - muhammad ali
-      reasoning: "moo (cow noise) + ham (pig snack) + mad (mental) + alley (back street) = Muhammad Ali"
-
+  - number: 1
+    initials: T W
+    clue: That big stripy jungle cat's gone and wandered off into a load of trees. Don't know why. That's animals for you.
+    answer: Tiger Woods
+    aliases:
+    - tiger woods
+    reasoning: tiger (big stripy cat) + woods (trees/forest) = Tiger Woods
+  - number: 2
+    initials: U B
+    clue: Right, you're perfectly sane, yeah? Nothing wrong with you. And you've just slid a lock across a door. That's it.
+    answer: Usain Bolt
+    aliases:
+    - usain bolt
+    reasoning: you + sane (perfectly sane) + bolt (door lock/lightning bolt) = Usain Bolt
+  - number: 3
+    initials: M A
+    clue: That cow's making its noise, someone's shoved a pig-based snack inside it, and it's gone absolutely mental in a back street. Busy day.
+    answer: Muhammad Ali
+    aliases:
+    - muhammad ali
+    reasoning: moo (cow noise) + ham (pig snack) + mad (mental) + alley (back street) = Muhammad Ali
 - id: sportbusters-002
   enabled: true
   title: Sportbusters
@@ -38,32 +37,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Sportbusters is back. Three more sporting legends hidden in some very odd sentences. Say them out loud."
-  prize: "Email in. Winner gets a signed photo of someone vaguely athletic and a packet of Rich Tea."
+  - UK
+  intro: Sportbusters is back. Three more sporting legends hidden in some very odd sentences. Say them out loud.
+  prize: Email in. Winner gets a signed photo of someone vaguely athletic and a packet of Rich Tea.
   clues:
-    - number: 1
-      initials: M T
-      clue: "Someone's left a microphone on a tie. Just sitting there. A mic on a tie. Bit odd."
-      answer: Mike Tyson
-      aliases:
-        - mike tyson
-      reasoning: "mike (microphone) + tie + son... mike + ty + son = Mike Tyson"
-    - number: 2
-      initials: R F
-      clue: "Roger's been feeding someone. He's just stood there, feeding. Very generous, our Roger."
-      answer: Roger Federer
-      aliases:
-        - roger federer
-      reasoning: "Roger (name) + fed (been feeding) + er + er = Roger Federer"
-    - number: 3
-      initials: S W
-      clue: "Right, some bloke with a title - like a lord or a knight - he's called Reena. Sir Reena. And he's got loads of Williams round him. Sort of works."
-      answer: Serena Williams
-      aliases:
-        - serena williams
-      reasoning: "sir (title like a knight) + Reena (name) + Williams = Serena Williams"
-
+  - number: 1
+    initials: M T
+    clue: Someone's left a microphone on a tie. Just sitting there. A mic on a tie. Bit odd.
+    answer: Mike Tyson
+    aliases:
+    - mike tyson
+    reasoning: mike (microphone) + tie + son... mike + ty + son = Mike Tyson
+  - number: 2
+    initials: R F
+    clue: Roger's been feeding someone. He's just stood there, feeding. Very generous, our Roger.
+    answer: Roger Federer
+    aliases:
+    - roger federer
+    reasoning: Roger (name) + fed (been feeding) + er + er = Roger Federer
+  - number: 3
+    initials: S W
+    clue: Right, some bloke with a title - like a lord or a knight - he's called Reena. Sir Reena. And he's got loads of Williams round him. Sort of works.
+    answer: Serena Williams
+    aliases:
+    - serena williams
+    reasoning: sir (title like a knight) + Reena (name) + Williams = Serena Williams
 - id: sportbusters-003
   enabled: true
   title: Sportbusters
@@ -71,32 +69,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "More Sportbusters. These ones are British legends, more or less. Well, one of them might be Scottish. Say the clues out loud."
-  prize: "Email in. Winner gets a Lucozade Sport bottle, empty, and a Now That's What I Call Sport DVD."
+  - UK
+  intro: More Sportbusters. These ones are British legends, more or less. Well, one of them might be Scottish. Say the clues out loud.
+  prize: Email in. Winner gets a Lucozade Sport bottle, empty, and a Now That's What I Call Sport DVD.
   clues:
-    - number: 1
-      initials: A M
-      clue: "That fella over there - him, yeah - he's set fire to some beams of light. Don't ask me why. He has though."
-      answer: Andy Murray
-      aliases:
-        - andy murray
-      reasoning: "and + he (that fella over there) + Murray... mur (murmur) + ray (beam of light) = Andy Murray"
-    - number: 2
-      initials: M F
-      clue: "You want more of something, yeah? And it's a long way away. That's all I'm saying. More. Far away. Go on."
-      answer: Mo Farah
-      aliases:
-        - mo farah
-      reasoning: "mo (more) + far (a long way away) + ah = Mo Farah"
-    - number: 3
-      initials: K H
-      clue: "Kelly's bought herself some houses. Plural. Not just one house, loads of them. Good investment, that."
-      answer: Kelly Holmes
-      aliases:
-        - kelly holmes
-      reasoning: "Kelly (name) + homes (houses) = Kelly Holmes"
-
+  - number: 1
+    initials: A M
+    clue: That fella over there - him, yeah - he's set fire to some beams of light. Don't ask me why. He has though.
+    answer: Andy Murray
+    aliases:
+    - andy murray
+    reasoning: and + he (that fella over there) + Murray... mur (murmur) + ray (beam of light) = Andy Murray
+  - number: 2
+    initials: M F
+    clue: You want more of something, yeah? And it's a long way away. That's all I'm saying. More. Far away. Go on.
+    answer: Mo Farah
+    aliases:
+    - mo farah
+    reasoning: mo (more) + far (a long way away) + ah = Mo Farah
+  - number: 3
+    initials: K H
+    clue: Kelly's bought herself some houses. Plural. Not just one house, loads of them. Good investment, that.
+    answer: Kelly Holmes
+    aliases:
+    - kelly holmes
+    reasoning: Kelly (name) + homes (houses) = Kelly Holmes
 - id: sportbusters-004
   enabled: true
   title: Sportbusters
@@ -104,33 +101,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Right then. Sportbusters round four. Athletics edition, this one. Nearly. Just say each clue out loud and you'll get there."
-  prize: "Email in. Winner gets a copy of Chariots of Fire on VHS and a lukewarm sports drink."
+  - UK
+  intro: Right then. Sportbusters round four. Athletics edition, this one. Nearly. Just say each clue out loud and you'll get there.
+  prize: Email in. Winner gets a copy of Chariots of Fire on VHS and a lukewarm sports drink.
   clues:
-    - number: 1
-      initials: P R
-      clue: "An animal's foot - a big one, right, like a dog's - and it's next to a very steep rocky drop. Standing right on the edge. Terrifying, really."
-      answer: Paula Radcliffe
-      aliases:
-        - paula radcliffe
-      reasoning: "paw (animal's foot) + la + rad + cliff (rocky drop/edge) = Paula Radcliffe"
-    - number: 2
-      initials: J E
-      clue: "Jessica's gone inside something. She's in it. That's the whole clue, to be honest. She's just in there."
-      answer: Jessica Ennis
-      aliases:
-        - jessica ennis
-        - jessica ennis-hill
-      reasoning: "Jessica + in + is = Jessica Ennis"
-    - number: 3
-      initials: L C
-      clue: "There's a river crossing, right, and someone called Lin is standing on it. She's just standing there on this ford thing. That's Lin's ford."
-      answer: Linford Christie
-      aliases:
-        - linford christie
-      reasoning: "Lin + ford (river crossing) + Chris + tee = Linford Christie"
-
+  - number: 1
+    initials: P R
+    clue: An animal's foot - a big one, right, like a dog's - and it's next to a very steep rocky drop. Standing right on the edge. Terrifying, really.
+    answer: Paula Radcliffe
+    aliases:
+    - paula radcliffe
+    reasoning: paw (animal's foot) + la + rad + cliff (rocky drop/edge) = Paula Radcliffe
+  - number: 2
+    initials: J E
+    clue: Jessica's gone inside something. She's in it. That's the whole clue, to be honest. She's just in there.
+    answer: Jessica Ennis
+    aliases:
+    - jessica ennis
+    - jessica ennis-hill
+    reasoning: Jessica + in + is = Jessica Ennis
+  - number: 3
+    initials: L C
+    clue: There's a river crossing, right, and someone called Lin is standing on it. She's just standing there on this ford thing. That's Lin's ford.
+    answer: Linford Christie
+    aliases:
+    - linford christie
+    reasoning: Lin + ford (river crossing) + Chris + tee = Linford Christie
 - id: sportbusters-005
   enabled: true
   title: Sportbusters
@@ -138,32 +134,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Sportbusters five. More legends of sport. Or at least people who ran very fast and jumped over things. Give it a go."
-  prize: "Email in. Winner gets a pair of second-hand trainers and a laminated certificate."
+  - UK
+  intro: Sportbusters five. More legends of sport. Or at least people who ran very fast and jumped over things. Give it a go.
+  prize: Email in. Winner gets a pair of second-hand trainers and a laminated certificate.
   clues:
-    - number: 1
-      initials: D T
-      clue: "Every single day without fail - daily, right - there's this lad Tom and he's got a kid. Tom. Son of Tom. Every day."
-      answer: Daley Thompson
-      aliases:
-        - daley thompson
-      reasoning: "daily (every day) + Tom + son = Daley Thompson"
-    - number: 2
-      initials: S R
-      clue: "Steve's stood next to something very red. And it's a grave. Red grave. Steve's not in it or anything, he's just stood there. Near enough."
-      answer: Steve Redgrave
-      aliases:
-        - steve redgrave
-      reasoning: "Steve + red + grave = Steve Redgrave"
-    - number: 3
-      initials: C L
-      clue: "Karl's gone to the toilet. He's at the loo. Karl is. At the loo, and he just is. That's it."
-      answer: Carl Lewis
-      aliases:
-        - carl lewis
-      reasoning: "Carl/Karl + loo (toilet) + is = Carl Lewis"
-
+  - number: 1
+    initials: D T
+    clue: Every single day without fail - daily, right - there's this lad Tom and he's got a kid. Tom. Son of Tom. Every day.
+    answer: Daley Thompson
+    aliases:
+    - daley thompson
+    reasoning: daily (every day) + Tom + son = Daley Thompson
+  - number: 2
+    initials: S R
+    clue: Steve's stood next to something very red. And it's a grave. Red grave. Steve's not in it or anything, he's just stood there. Near enough.
+    answer: Steve Redgrave
+    aliases:
+    - steve redgrave
+    reasoning: Steve + red + grave = Steve Redgrave
+  - number: 3
+    initials: C L
+    clue: Karl's gone to the toilet. He's at the loo. Karl is. At the loo, and he just is. That's it.
+    answer: Carl Lewis
+    aliases:
+    - carl lewis
+    reasoning: Carl/Karl + loo (toilet) + is = Carl Lewis
 - id: sportbusters-006
   enabled: true
   title: Sportbusters
@@ -171,32 +166,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Alright, Sportbusters six. All legendary athletes. Say the clues out loud - that's the trick with this one, always."
-  prize: "Email in. Winner gets an official-looking medal from a craft shop and a Tracker bar."
+  - UK
+  intro: Alright, Sportbusters six. All legendary athletes. Say the clues out loud - that's the trick with this one, always.
+  prize: Email in. Winner gets an official-looking medal from a craft shop and a Tracker bar.
   clues:
-    - number: 1
-      initials: D L
-      clue: "Right, there's a room where animals sleep - a den, sort of thing - and someone's niece is in there. The niece is in the den. Don't overthink it."
-      answer: Denise Lewis
-      aliases:
-        - denise lewis
-      reasoning: "den (animal sleeping room) + niece + Lewis... den + niece + is = Denise Lewis"
-    - number: 2
-      initials: M J
-      clue: "An angel - a heavenly one - he's called John, and his son's turned up. So it's John's son with the angel. You know what I mean."
-      answer: Michael Johnson
-      aliases:
-        - michael johnson
-      reasoning: "Michael (archangel) + John + son = Michael Johnson"
-    - number: 3
-      initials: D R
-      clue: "Derek's gone and found something red and round. Just sitting there - red, round thing. That's Derek's, that is."
-      answer: Derek Redmond
-      aliases:
-        - derek redmond
-      reasoning: "Derek + red + mond (round, like monde) = Derek Redmond"
-
+  - number: 1
+    initials: D L
+    clue: Right, there's a room where animals sleep - a den, sort of thing - and someone's niece is in there. The niece is in the den. Don't overthink it.
+    answer: Denise Lewis
+    aliases:
+    - denise lewis
+    reasoning: den (animal sleeping room) + niece + Lewis... den + niece + is = Denise Lewis
+  - number: 2
+    initials: M J
+    clue: An angel - a heavenly one - he's called John, and his son's turned up. So it's John's son with the angel. You know what I mean.
+    answer: Michael Johnson
+    aliases:
+    - michael johnson
+    reasoning: Michael (archangel) + John + son = Michael Johnson
+  - number: 3
+    initials: D R
+    clue: Derek's gone and found something red and round. Just sitting there - red, round thing. That's Derek's, that is.
+    answer: Derek Redmond
+    aliases:
+    - derek redmond
+    reasoning: Derek + red + mond (round, like monde) = Derek Redmond
 - id: sportbusters-007
   enabled: true
   title: Sportbusters
@@ -204,32 +198,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Sportbusters seven. Still going. All famous people from the world of sport. Some retired, some not. All in here somewhere."
-  prize: "Email in. Winner gets a copy of the 2003 Athletics World Championships on DVD and a biro."
+  - UK
+  intro: Sportbusters seven. Still going. All famous people from the world of sport. Some retired, some not. All in here somewhere.
+  prize: Email in. Winner gets a copy of the 2003 Athletics World Championships on DVD and a biro.
   clues:
-    - number: 1
-      initials: J E
-      clue: "Jonathan's been put in charge of loads of corridors in a hospital. All them wards - his. Jonathan's wards. That's a lot of responsibility."
-      answer: Jonathan Edwards
-      aliases:
-        - jonathan edwards
-      reasoning: "Jonathan + Ed + wards (hospital corridors) = Jonathan Edwards"
-    - number: 2
-      initials: T W
-      clue: "Right, there's this big cat again - jungle type - and it's managed to get itself lost in the undergrowth. Trees everywhere. Classic."
-      answer: Tiger Woods
-      aliases:
-        - tiger woods
-      reasoning: "tiger (jungle cat) + woods (undergrowth/trees) = Tiger Woods"
-    - number: 3
-      initials: A M
-      clue: "Him there - that one - he's burned some cured meat. Set fire to it. Don't ask why. He just has. Him and the burnt ham."
-      answer: Andy Murray
-      aliases:
-        - andy murray
-      reasoning: "and + he (him there) + mur + ray... and + he + Murray = Andy Murray"
-
+  - number: 1
+    initials: J E
+    clue: Jonathan's been put in charge of loads of corridors in a hospital. All them wards - his. Jonathan's wards. That's a lot of responsibility.
+    answer: Jonathan Edwards
+    aliases:
+    - jonathan edwards
+    reasoning: Jonathan + Ed + wards (hospital corridors) = Jonathan Edwards
+  - number: 2
+    initials: T W
+    clue: Right, there's this big cat again - jungle type - and it's managed to get itself lost in the undergrowth. Trees everywhere. Classic.
+    answer: Tiger Woods
+    aliases:
+    - tiger woods
+    reasoning: tiger (jungle cat) + woods (undergrowth/trees) = Tiger Woods
+  - number: 3
+    initials: A M
+    clue: Him there - that one - he's burned some cured meat. Set fire to it. Don't ask why. He just has. Him and the burnt ham.
+    answer: Andy Murray
+    aliases:
+    - andy murray
+    reasoning: and + he (him there) + mur + ray... and + he + Murray = Andy Murray
 - id: sportbusters-008
   enabled: true
   title: Sportbusters
@@ -237,32 +230,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Here we go again. Sportbusters eight. Three more clues, three more sporting greats. Have a think and say it out loud."
-  prize: "Email in. Winner gets a sponsorship patch that doesn't belong to anything and a flat Ribena."
+  - UK
+  intro: Here we go again. Sportbusters eight. Three more clues, three more sporting greats. Have a think and say it out loud.
+  prize: Email in. Winner gets a sponsorship patch that doesn't belong to anything and a flat Ribena.
   clues:
-    - number: 1
-      initials: U B
-      clue: "You're absolutely fine, mentally. All there. And someone's gone and thrown a thunderbolt at the door to lock it. Mad, that."
-      answer: Usain Bolt
-      aliases:
-        - usain bolt
-      reasoning: "you + sane (mentally fine) + bolt (thunderbolt/door lock) = Usain Bolt"
-    - number: 2
-      initials: S W
-      clue: "A very posh gentleman - got a title and everything - his name's Rina. Sir Rina. And he's surrounded by a load of Williams. Bit crowded."
-      answer: Serena Williams
-      aliases:
-        - serena williams
-      reasoning: "sir (posh title) + Reena/Rina + Williams = Serena Williams"
-    - number: 3
-      initials: R F
-      clue: "Old Roger's given someone their dinner. He's fed them. Roger fed them. That's all Roger's done, fed someone."
-      answer: Roger Federer
-      aliases:
-        - roger federer
-      reasoning: "Roger + fed (given dinner) + er + er = Roger Federer"
-
+  - number: 1
+    initials: U B
+    clue: You're absolutely fine, mentally. All there. And someone's gone and thrown a thunderbolt at the door to lock it. Mad, that.
+    answer: Usain Bolt
+    aliases:
+    - usain bolt
+    reasoning: you + sane (mentally fine) + bolt (thunderbolt/door lock) = Usain Bolt
+  - number: 2
+    initials: S W
+    clue: A very posh gentleman - got a title and everything - his name's Rina. Sir Rina. And he's surrounded by a load of Williams. Bit crowded.
+    answer: Serena Williams
+    aliases:
+    - serena williams
+    reasoning: sir (posh title) + Reena/Rina + Williams = Serena Williams
+  - number: 3
+    initials: R F
+    clue: Old Roger's given someone their dinner. He's fed them. Roger fed them. That's all Roger's done, fed someone.
+    answer: Roger Federer
+    aliases:
+    - roger federer
+    reasoning: Roger + fed (given dinner) + er + er = Roger Federer
 - id: sportbusters-009
   enabled: true
   title: Sportbusters
@@ -270,32 +262,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Sportbusters nine. Getting near double figures now. Three more famous faces from sport, all hidden in silly sentences. Go on then."
-  prize: "Email in. Winner gets a fluorescent yellow vest and a half-used tube of Deep Heat."
+  - UK
+  intro: Sportbusters nine. Getting near double figures now. Three more famous faces from sport, all hidden in silly sentences. Go on then.
+  prize: Email in. Winner gets a fluorescent yellow vest and a half-used tube of Deep Heat.
   clues:
-    - number: 1
-      initials: M A
-      clue: "A cow's done its moo, there's a bit of pig inside something, someone's lost their mind completely, and it all ends up down a back passage. Say it out loud."
-      answer: Muhammad Ali
-      aliases:
-        - muhammad ali
-      reasoning: "moo (cow noise) + ham (pig meat) + mad (lost mind) + alley (back passage) = Muhammad Ali"
-    - number: 2
-      initials: M F
-      clue: "Someone wants extra portions. Just one more. It's quite a distance away, this extra portion. Far. Mo far."
-      answer: Mo Farah
-      aliases:
-        - mo farah
-      reasoning: "mo (one more) + far (a distance) + ah = Mo Farah"
-    - number: 3
-      initials: L C
-      clue: "There's this bloke called Lin and he's crossing a shallow river bit - a ford, like. Lin's crossing it. Lin's ford. And there's some sort of Christmassy feel about it."
-      answer: Linford Christie
-      aliases:
-        - linford christie
-      reasoning: "Lin + ford (river crossing) + Chris + tee (Christmassy) = Linford Christie"
-
+  - number: 1
+    initials: M A
+    clue: A cow's done its moo, there's a bit of pig inside something, someone's lost their mind completely, and it all ends up down a back passage. Say it out loud.
+    answer: Muhammad Ali
+    aliases:
+    - muhammad ali
+    reasoning: moo (cow noise) + ham (pig meat) + mad (lost mind) + alley (back passage) = Muhammad Ali
+  - number: 2
+    initials: M F
+    clue: Someone wants extra portions. Just one more. It's quite a distance away, this extra portion. Far. Mo far.
+    answer: Mo Farah
+    aliases:
+    - mo farah
+    reasoning: mo (one more) + far (a distance) + ah = Mo Farah
+  - number: 3
+    initials: L C
+    clue: There's this bloke called Lin and he's crossing a shallow river bit - a ford, like. Lin's crossing it. Lin's ford. And there's some sort of Christmassy feel about it.
+    answer: Linford Christie
+    aliases:
+    - linford christie
+    reasoning: Lin + ford (river crossing) + Chris + tee (Christmassy) = Linford Christie
 - id: sportbusters-010
   enabled: true
   title: Sportbusters
@@ -303,32 +294,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Right. Sportbusters ten. Halfway. All still sport. All still phonetic. All still a bit ridiculous. You know how it works."
-  prize: "Email in. Winner gets a Gillette Mach3 from a petrol station and a faded yellow wristband."
+  - UK
+  intro: Sportbusters. All still sport, all still phonetic, all still a bit ridiculous. You know how it works.
+  prize: Email in. Winner gets a Gillette Mach3 from a petrol station and a faded yellow wristband.
   clues:
-    - number: 1
-      initials: P R
-      clue: "A great big paw - animal one, like a bear - and it's perched right on the edge of a massive drop. A cliff. That's the paw on the cliff edge, that is."
-      answer: Paula Radcliffe
-      aliases:
-        - paula radcliffe
-      reasoning: "paw (animal paw) + la + rad + cliff (massive drop) = Paula Radcliffe"
-    - number: 2
-      initials: D T
-      clue: "Every day. Like, without fail, every single day. This lad Tom shows up and he's got his son with him. Daily, Tom, son. Near enough."
-      answer: Daley Thompson
-      aliases:
-        - daley thompson
-      reasoning: "daily/daley + Tom + son (Thompson) = Daley Thompson"
-    - number: 3
-      initials: S R
-      clue: "Steve's stood at a grave. A red one. Very red grave, Steve. He's just there looking at this red grave. That's Steve."
-      answer: Steve Redgrave
-      aliases:
-        - steve redgrave
-      reasoning: "Steve + red + grave = Steve Redgrave"
-
+  - number: 1
+    initials: P R
+    clue: A great big paw - animal one, like a bear - and it's perched right on the edge of a massive drop. A cliff. That's the paw on the cliff edge, that is.
+    answer: Paula Radcliffe
+    aliases:
+    - paula radcliffe
+    reasoning: paw (animal paw) + la + rad + cliff (massive drop) = Paula Radcliffe
+  - number: 2
+    initials: D T
+    clue: Every day. Like, without fail, every single day. This lad Tom shows up and he's got his son with him. Daily, Tom, son. Near enough.
+    answer: Daley Thompson
+    aliases:
+    - daley thompson
+    reasoning: daily/daley + Tom + son (Thompson) = Daley Thompson
+  - number: 3
+    initials: S R
+    clue: Steve's stood at a grave. A red one. Very red grave, Steve. He's just there looking at this red grave. That's Steve.
+    answer: Steve Redgrave
+    aliases:
+    - steve redgrave
+    reasoning: Steve + red + grave = Steve Redgrave
 - id: sportbusters-011
   enabled: true
   title: Sportbusters
@@ -336,33 +326,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Sportbusters eleven. More sporting icons, all scrambled up into some daft little scenes. Don't take it too seriously."
-  prize: "Email in. Winner gets a copy of Born to Run by someone who isn't Bruce Springsteen, and a Boost bar."
+  - UK
+  intro: Sportbusters eleven. More sporting icons, all scrambled up into some daft little scenes. Don't take it too seriously.
+  prize: Email in. Winner gets a copy of Born to Run by someone who isn't Bruce Springsteen, and a Boost bar.
   clues:
-    - number: 1
-      initials: K H
-      clue: "Right, Kelly's gone and bought a load of properties. Not just one - loads. Kelly's got homes. Very sensible."
-      answer: Kelly Holmes
-      aliases:
-        - kelly holmes
-      reasoning: "Kelly + homes (properties) = Kelly Holmes"
-    - number: 2
-      initials: C L
-      clue: "Karl needs the loo. He's on his way to the loo. Karl is. He's at the loo and he just is there. Karl at the loo."
-      answer: Carl Lewis
-      aliases:
-        - carl lewis
-      reasoning: "Carl/Karl + loo (toilet) + is = Carl Lewis"
-    - number: 3
-      initials: J E
-      clue: "Jessica's inside something. She's gone in. She's in it and she is there. Jessica is in. In there. Jess is in."
-      answer: Jessica Ennis
-      aliases:
-        - jessica ennis
-        - jessica ennis-hill
-      reasoning: "Jessica + in + is = Jessica Ennis"
-
+  - number: 1
+    initials: K H
+    clue: Right, Kelly's gone and bought a load of properties. Not just one - loads. Kelly's got homes. Very sensible.
+    answer: Kelly Holmes
+    aliases:
+    - kelly holmes
+    reasoning: Kelly + homes (properties) = Kelly Holmes
+  - number: 2
+    initials: C L
+    clue: Karl needs the loo. He's on his way to the loo. Karl is. He's at the loo and he just is there. Karl at the loo.
+    answer: Carl Lewis
+    aliases:
+    - carl lewis
+    reasoning: Carl/Karl + loo (toilet) + is = Carl Lewis
+  - number: 3
+    initials: J E
+    clue: Jessica's inside something. She's gone in. She's in it and she is there. Jessica is in. In there. Jess is in.
+    answer: Jessica Ennis
+    aliases:
+    - jessica ennis
+    - jessica ennis-hill
+    reasoning: Jessica + in + is = Jessica Ennis
 - id: sportbusters-012
   enabled: true
   title: Sportbusters
@@ -370,32 +359,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Sportbusters twelve. Olympic edition, more or less. Famous people, big moments, hidden in very small clues. Off you go."
-  prize: "Email in. Winner gets an Olympic torch replica made of plastic and a bag of Haribo."
+  - UK
+  intro: Sportbusters twelve. Olympic edition, more or less. Famous people, big moments, hidden in very small clues. Off you go.
+  prize: Email in. Winner gets an Olympic torch replica made of plastic and a bag of Haribo.
   clues:
-    - number: 1
-      initials: D R
-      clue: "Derek's found a round red object. Could be a ball, could be a tomato. He's just standing there with his round red thing."
-      answer: Derek Redmond
-      aliases:
-        - derek redmond
-      reasoning: "Derek + red + mond (round) = Derek Redmond"
-    - number: 2
-      initials: M J
-      clue: "A very famous angel - proper heavenly type - he's found a bloke called John and John's son is there too. All three of them. Bit crowded, heaven."
-      answer: Michael Johnson
-      aliases:
-        - michael johnson
-      reasoning: "Michael (the archangel) + John + son = Michael Johnson"
-    - number: 3
-      initials: M T
-      clue: "Someone's put a microphone on a piece of neckwear. Just resting a mic on a tie. And there's a son nearby. Don't know whose."
-      answer: Mike Tyson
-      aliases:
-        - mike tyson
-      reasoning: "mike (microphone) + tie (neckwear) + son = Mike Tyson"
-
+  - number: 1
+    initials: D R
+    clue: Derek's found a round red object. Could be a ball, could be a tomato. He's just standing there with his round red thing.
+    answer: Derek Redmond
+    aliases:
+    - derek redmond
+    reasoning: Derek + red + mond (round) = Derek Redmond
+  - number: 2
+    initials: M J
+    clue: A very famous angel - proper heavenly type - he's found a bloke called John and John's son is there too. All three of them. Bit crowded, heaven.
+    answer: Michael Johnson
+    aliases:
+    - michael johnson
+    reasoning: Michael (the archangel) + John + son = Michael Johnson
+  - number: 3
+    initials: M T
+    clue: Someone's put a microphone on a piece of neckwear. Just resting a mic on a tie. And there's a son nearby. Don't know whose.
+    answer: Mike Tyson
+    aliases:
+    - mike tyson
+    reasoning: mike (microphone) + tie (neckwear) + son = Mike Tyson
 - id: sportbusters-013
   enabled: true
   title: Sportbusters
@@ -403,32 +391,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Sportbusters thirteen. Unlucky for some, but not for you, presumably. All sports personalities. All in plain sight if you say it out loud."
-  prize: "Email in. Winner gets a sports almanac from a charity shop and a slightly bent ruler."
+  - UK
+  intro: Sportbusters thirteen. Unlucky for some, but not for you, presumably. All sports personalities. All in plain sight if you say it out loud.
+  prize: Email in. Winner gets a sports almanac from a charity shop and a slightly bent ruler.
   clues:
-    - number: 1
-      initials: J E
-      clue: "Jonathan's gone and been put in charge of all the hospital wards. All of them. Jonathan Edwards, ward coordinator. Good for him."
-      answer: Jonathan Edwards
-      aliases:
-        - jonathan edwards
-      reasoning: "Jonathan + Ed + wards (hospital wards) = Jonathan Edwards"
-    - number: 2
-      initials: A M
-      clue: "Right - him, that fella there - he's gone and scorched some pig meat. Burned it. Him and his burnt pig meat. That's Andy for you."
-      answer: Andy Murray
-      aliases:
-        - andy murray
-      reasoning: "and + he (that fella) + mur + ray = Andy Murray"
-    - number: 3
-      initials: D L
-      clue: "There's a cave where some animal lives - a den - and someone's niece has wandered in. The niece is in the den. That's the niece in the den."
-      answer: Denise Lewis
-      aliases:
-        - denise lewis
-      reasoning: "den (animal's cave) + niece + Lewis... den + niece + is = Denise Lewis"
-
+  - number: 1
+    initials: J E
+    clue: Jonathan's gone and been put in charge of all the hospital wards. All of them. Jonathan Edwards, ward coordinator. Good for him.
+    answer: Jonathan Edwards
+    aliases:
+    - jonathan edwards
+    reasoning: Jonathan + Ed + wards (hospital wards) = Jonathan Edwards
+  - number: 2
+    initials: A M
+    clue: Right - him, that fella there - he's gone and scorched some pig meat. Burned it. Him and his burnt pig meat. That's Andy for you.
+    answer: Andy Murray
+    aliases:
+    - andy murray
+    reasoning: and + he (that fella) + mur + ray = Andy Murray
+  - number: 3
+    initials: D L
+    clue: There's a cave where some animal lives - a den - and someone's niece has wandered in. The niece is in the den. That's the niece in the den.
+    answer: Denise Lewis
+    aliases:
+    - denise lewis
+    reasoning: den (animal's cave) + niece + Lewis... den + niece + is = Denise Lewis
 - id: sportbusters-014
   enabled: true
   title: Sportbusters
@@ -436,32 +423,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Fourteen in. Still going with the sport. Three clues, all phonetic, all a bit daft. You know what to do."
-  prize: "Email in. Winner gets a pedometer that doesn't work properly and a tin of Pringles."
+  - UK
+  intro: Fourteen in. Still going with the sport. Three clues, all phonetic, all a bit daft. You know what to do.
+  prize: Email in. Winner gets a pedometer that doesn't work properly and a tin of Pringles.
   clues:
-    - number: 1
-      initials: U B
-      clue: "You're in full possession of your faculties, right? And a big lightning thing has slammed the door shut. You sane, door shut. That's it."
-      answer: Usain Bolt
-      aliases:
-        - usain bolt
-      reasoning: "you + sane (in possession of faculties) + bolt (lightning bolt/door bolt) = Usain Bolt"
-    - number: 2
-      initials: T W
-      clue: "A tiger's having a wander. It's gone into the forest bit. Trees everywhere. Tiger, forest. Very nice for the tiger."
-      answer: Tiger Woods
-      aliases:
-        - tiger woods
-      reasoning: "tiger + woods (forest/trees) = Tiger Woods"
-    - number: 3
-      initials: S W
-      clue: "This knight - fully titled, got a Sir and everything - he's called Reena. Sir Reena Williams. A lot going on there."
-      answer: Serena Williams
-      aliases:
-        - serena williams
-      reasoning: "sir (knight's title) + Reena + Williams = Serena Williams"
-
+  - number: 1
+    initials: U B
+    clue: You're in full possession of your faculties, right? And a big lightning thing has slammed the door shut. You sane, door shut. That's it.
+    answer: Usain Bolt
+    aliases:
+    - usain bolt
+    reasoning: you + sane (in possession of faculties) + bolt (lightning bolt/door bolt) = Usain Bolt
+  - number: 2
+    initials: T W
+    clue: A tiger's having a wander. It's gone into the forest bit. Trees everywhere. Tiger, forest. Very nice for the tiger.
+    answer: Tiger Woods
+    aliases:
+    - tiger woods
+    reasoning: tiger + woods (forest/trees) = Tiger Woods
+  - number: 3
+    initials: S W
+    clue: This knight - fully titled, got a Sir and everything - he's called Reena. Sir Reena Williams. A lot going on there.
+    answer: Serena Williams
+    aliases:
+    - serena williams
+    reasoning: sir (knight's title) + Reena + Williams = Serena Williams
 - id: sportbusters-015
   enabled: true
   title: Sportbusters
@@ -469,32 +455,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Sportbusters fifteen. We're on the home straight now. Appropriate, given it's all sport. Three more sporting legends to find."
-  prize: "Email in. Winner gets a sweatband from a gym that's since closed down and some mixed nuts."
+  - UK
+  intro: Sportbusters fifteen. We're on the home straight now. Appropriate, given it's all sport. Three more sporting legends to find.
+  prize: Email in. Winner gets a sweatband from a gym that's since closed down and some mixed nuts.
   clues:
-    - number: 1
-      initials: M A
-      clue: "That cow's moo-ing. There's pig stuffed inside something. Someone's absolutely lost the plot. And there's a narrow passage at the end of the street. All at once."
-      answer: Muhammad Ali
-      aliases:
-        - muhammad ali
-      reasoning: "moo (cow) + ham (pig) + mad (lost the plot) + alley (narrow passage) = Muhammad Ali"
-    - number: 2
-      initials: P R
-      clue: "A dog's foot - big one - it's on the edge of a steep drop. Just sitting there, this paw, on a cliff. Staring down."
-      answer: Paula Radcliffe
-      aliases:
-        - paula radcliffe
-      reasoning: "paw (dog's foot) + la + rad + cliff (steep drop) = Paula Radcliffe"
-    - number: 3
-      initials: R F
-      clue: "Roger's gone and given someone their tea. Fed them, Roger has. Roger fed someone. Old generous Roger."
-      answer: Roger Federer
-      aliases:
-        - roger federer
-      reasoning: "Roger + fed (gave tea/dinner) + er + er = Roger Federer"
-
+  - number: 1
+    initials: M A
+    clue: That cow's moo-ing. There's pig stuffed inside something. Someone's absolutely lost the plot. And there's a narrow passage at the end of the street. All at once.
+    answer: Muhammad Ali
+    aliases:
+    - muhammad ali
+    reasoning: moo (cow) + ham (pig) + mad (lost the plot) + alley (narrow passage) = Muhammad Ali
+  - number: 2
+    initials: P R
+    clue: A dog's foot - big one - it's on the edge of a steep drop. Just sitting there, this paw, on a cliff. Staring down.
+    answer: Paula Radcliffe
+    aliases:
+    - paula radcliffe
+    reasoning: paw (dog's foot) + la + rad + cliff (steep drop) = Paula Radcliffe
+  - number: 3
+    initials: R F
+    clue: Roger's gone and given someone their tea. Fed them, Roger has. Roger fed someone. Old generous Roger.
+    answer: Roger Federer
+    aliases:
+    - roger federer
+    reasoning: Roger + fed (gave tea/dinner) + er + er = Roger Federer
 - id: sportbusters-016
   enabled: true
   title: Sportbusters
@@ -502,32 +487,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Right then. Sportbusters sixteen. Getting close to the end now. Three more sporting greats hidden in plain phonetic sight."
-  prize: "Email in. Winner gets a motivational poster of someone running and a half-price protein bar."
+  - UK
+  intro: Right then. Sportbusters sixteen. Getting close to the end now. Three more sporting greats hidden in plain phonetic sight.
+  prize: Email in. Winner gets a motivational poster of someone running and a half-price protein bar.
   clues:
-    - number: 1
-      initials: K H
-      clue: "Kelly's invested wisely. She's bought herself homes. Multiple. Kelly has multiple homes now. Good for Kelly."
-      answer: Kelly Holmes
-      aliases:
-        - kelly holmes
-      reasoning: "Kelly + homes (multiple properties) = Kelly Holmes"
-    - number: 2
-      initials: L C
-      clue: "Someone called Lin is at a ford - like a shallow river crossing bit - and there's a very Christmassy vibe around. Lin at the ford, Christmas in the air."
-      answer: Linford Christie
-      aliases:
-        - linford christie
-      reasoning: "Lin + ford (shallow river crossing) + Chris + tee = Linford Christie"
-    - number: 3
-      initials: S R
-      clue: "Steve's gone to visit a grave. It's red. Very red. Steve at the red grave. No idea whose it is or why it's red."
-      answer: Steve Redgrave
-      aliases:
-        - steve redgrave
-      reasoning: "Steve + red + grave = Steve Redgrave"
-
+  - number: 1
+    initials: K H
+    clue: Kelly's invested wisely. She's bought herself homes. Multiple. Kelly has multiple homes now. Good for Kelly.
+    answer: Kelly Holmes
+    aliases:
+    - kelly holmes
+    reasoning: Kelly + homes (multiple properties) = Kelly Holmes
+  - number: 2
+    initials: L C
+    clue: Someone called Lin is at a ford - like a shallow river crossing bit - and there's a very Christmassy vibe around. Lin at the ford, Christmas in the air.
+    answer: Linford Christie
+    aliases:
+    - linford christie
+    reasoning: Lin + ford (shallow river crossing) + Chris + tee = Linford Christie
+  - number: 3
+    initials: S R
+    clue: Steve's gone to visit a grave. It's red. Very red. Steve at the red grave. No idea whose it is or why it's red.
+    answer: Steve Redgrave
+    aliases:
+    - steve redgrave
+    reasoning: Steve + red + grave = Steve Redgrave
 - id: sportbusters-017
   enabled: true
   title: Sportbusters
@@ -535,32 +519,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Nearly there. Sportbusters seventeen. Three clues. Three athletes. All phonetic. Give each one a go out loud."
-  prize: "Email in. Winner gets a 2004 Athens Olympics souvenir pencil case and an out-of-date cereal bar."
+  - UK
+  intro: Sportbusters. Three clues, three athletes, all phonetic. Give each one a go out loud.
+  prize: Email in. Winner gets a 2004 Athens Olympics souvenir pencil case and an out-of-date cereal bar.
   clues:
-    - number: 1
-      initials: D T
-      clue: "It happens every day without exception. Daily. And there's this Thomas lad with his offspring. Tom. And his son. Every. Single. Day."
-      answer: Daley Thompson
-      aliases:
-        - daley thompson
-      reasoning: "daily/daley (every day) + Tom + son = Daley Thompson"
-    - number: 2
-      initials: C L
-      clue: "Karl's in the toilet. He's at the facilities. Karl is in there and he just is. Carl at the loo. He is."
-      answer: Carl Lewis
-      aliases:
-        - carl lewis
-      reasoning: "Carl/Karl + loo (toilet) + is = Carl Lewis"
-    - number: 3
-      initials: M J
-      clue: "That big famous angel - one of the proper ones - he's bumped into a bloke named John. And John's brought his son. Nice family outing."
-      answer: Michael Johnson
-      aliases:
-        - michael johnson
-      reasoning: "Michael (famous archangel) + John + son = Michael Johnson"
-
+  - number: 1
+    initials: D T
+    clue: It happens every day without exception. Daily. And there's this Thomas lad with his offspring. Tom. And his son. Every. Single. Day.
+    answer: Daley Thompson
+    aliases:
+    - daley thompson
+    reasoning: daily/daley (every day) + Tom + son = Daley Thompson
+  - number: 2
+    initials: C L
+    clue: Karl's in the toilet. He's at the facilities. Karl is in there and he just is. Carl at the loo. He is.
+    answer: Carl Lewis
+    aliases:
+    - carl lewis
+    reasoning: Carl/Karl + loo (toilet) + is = Carl Lewis
+  - number: 3
+    initials: M J
+    clue: That big famous angel - one of the proper ones - he's bumped into a bloke named John. And John's brought his son. Nice family outing.
+    answer: Michael Johnson
+    aliases:
+    - michael johnson
+    reasoning: Michael (famous archangel) + John + son = Michael Johnson
 - id: sportbusters-018
   enabled: true
   title: Sportbusters
@@ -568,33 +551,32 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Sportbusters eighteen. Two more after this. Stick with it. All sport, all phonetic, all a bit daft."
-  prize: "Email in. Winner gets a branded sports water bottle from a conference in 2007 and a Twix."
+  - UK
+  intro: Sportbusters. All sport, all phonetic, all a bit daft. Say them out loud.
+  prize: Email in. Winner gets a branded sports water bottle from a conference in 2007 and a Twix.
   clues:
-    - number: 1
-      initials: J E
-      clue: "Jessica's gone inside. She's in. She is inside the thing. Jessica. In. Is. That's the whole story."
-      answer: Jessica Ennis
-      aliases:
-        - jessica ennis
-        - jessica ennis-hill
-      reasoning: "Jessica + in + is = Jessica Ennis"
-    - number: 2
-      initials: D R
-      clue: "Derek's clutching a red round object. Whether it's a ball or something else is unclear. Red and round. Derek's got it."
-      answer: Derek Redmond
-      aliases:
-        - derek redmond
-      reasoning: "Derek + red + mond (round) = Derek Redmond"
-    - number: 3
-      initials: M T
-      clue: "There's a recording device sitting on a cravat-type thing. Mic on a tie. And someone's son is there. Whose son? Don't know. Just a son."
-      answer: Mike Tyson
-      aliases:
-        - mike tyson
-      reasoning: "mike (recording device) + tie (cravat thing) + son = Mike Tyson"
-
+  - number: 1
+    initials: J E
+    clue: Jessica's gone inside. She's in. She is inside the thing. Jessica. In. Is. That's the whole story.
+    answer: Jessica Ennis
+    aliases:
+    - jessica ennis
+    - jessica ennis-hill
+    reasoning: Jessica + in + is = Jessica Ennis
+  - number: 2
+    initials: D R
+    clue: Derek's clutching a red round object. Whether it's a ball or something else is unclear. Red and round. Derek's got it.
+    answer: Derek Redmond
+    aliases:
+    - derek redmond
+    reasoning: Derek + red + mond (round) = Derek Redmond
+  - number: 3
+    initials: M T
+    clue: There's a recording device sitting on a cravat-type thing. Mic on a tie. And someone's son is there. Whose son? Don't know. Just a son.
+    answer: Mike Tyson
+    aliases:
+    - mike tyson
+    reasoning: mike (recording device) + tie (cravat thing) + son = Mike Tyson
 - id: sportbusters-019
   enabled: true
   title: Sportbusters
@@ -602,32 +584,31 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Sportbusters nineteen. Penultimate one. Almost there. Three more phonetic legends to uncover. You've done nineteen of these now."
-  prize: "Email in. Winner gets a Tottenham Hotspur sub-branded biro from a trade show and a Club biscuit."
+  - UK
+  intro: Sportbusters. Three more phonetic legends to uncover. Say each clue out loud.
+  prize: Email in. Winner gets a Tottenham Hotspur sub-branded biro from a trade show and a Club biscuit.
   clues:
-    - number: 1
-      initials: M F
-      clue: "Right, you want a bit more of it, yeah? And where it is, it's a fair old distance away. More of the thing, far away. Say it quickly."
-      answer: Mo Farah
-      aliases:
-        - mo farah
-      reasoning: "mo (more of it) + far (a distance away) + ah = Mo Farah"
-    - number: 2
-      initials: A M
-      clue: "That bloke there - him, yeah - he's put a load of pig meat in the oven and left it too long. Burnt the meat. Him over there."
-      answer: Andy Murray
-      aliases:
-        - andy murray
-      reasoning: "and + he (that bloke there) + mur + ray = Andy Murray"
-    - number: 3
-      initials: J E
-      clue: "Jonathan's been made responsible for all the hospital wards. All of them. Jonathan. Ed. Wards. It's all his now."
-      answer: Jonathan Edwards
-      aliases:
-        - jonathan edwards
-      reasoning: "Jonathan + Ed + wards (hospital wards) = Jonathan Edwards"
-
+  - number: 1
+    initials: M F
+    clue: Right, you want a bit more of it, yeah? And where it is, it's a fair old distance away. More of the thing, far away. Say it quickly.
+    answer: Mo Farah
+    aliases:
+    - mo farah
+    reasoning: mo (more of it) + far (a distance away) + ah = Mo Farah
+  - number: 2
+    initials: A M
+    clue: That bloke there - him, yeah - he's put a load of pig meat in the oven and left it too long. Burnt the meat. Him over there.
+    answer: Andy Murray
+    aliases:
+    - andy murray
+    reasoning: and + he (that bloke there) + mur + ray = Andy Murray
+  - number: 3
+    initials: J E
+    clue: Jonathan's been made responsible for all the hospital wards. All of them. Jonathan. Ed. Wards. It's all his now.
+    answer: Jonathan Edwards
+    aliases:
+    - jonathan edwards
+    reasoning: Jonathan + Ed + wards (hospital wards) = Jonathan Edwards
 - id: sportbusters-020
   enabled: true
   title: Sportbusters
@@ -635,28 +616,28 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-  intro: "Last one. Sportbusters twenty. The final round. Go out in style. Three clues, three sporting greats. You know how this works by now."
-  prize: "Email in. Winner gets the entire Sportbusters back catalogue on a USB stick that may or may not work, and a Penguin biscuit."
+  - UK
+  intro: Sportbusters. Three sporting greats hiding in the clues. You know how this works by now.
+  prize: Email in. Winner gets the entire Sportbusters back catalogue on a USB stick that may or may not work, and a Penguin biscuit.
   clues:
-    - number: 1
-      initials: D L
-      clue: "Right, there's a den - like where an animal sleeps - and someone's niece is sat in it. The niece is in the den. Den. Niece. Is."
-      answer: Denise Lewis
-      aliases:
-        - denise lewis
-      reasoning: "den (animal sleeping area) + niece + is = Denise Lewis"
-    - number: 2
-      initials: U B
-      clue: "You've got all your marbles. Perfectly sane. And someone's just bolted the door shut with a great big metal thing. You sane, bolt. Done."
-      answer: Usain Bolt
-      aliases:
-        - usain bolt
-      reasoning: "you + sane (got all your marbles) + bolt (door bolt) = Usain Bolt"
-    - number: 3
-      initials: R F
-      clue: "Roger's done it again. Fed someone. He's fed them and they're fed. Roger fed, then fed some more. That's Roger. Always feeding people."
-      answer: Roger Federer
-      aliases:
-        - roger federer
-      reasoning: "Roger + fed (fed someone) + er + er = Roger Federer"
+  - number: 1
+    initials: D L
+    clue: Right, there's a den - like where an animal sleeps - and someone's niece is sat in it. The niece is in the den. Den. Niece. Is.
+    answer: Denise Lewis
+    aliases:
+    - denise lewis
+    reasoning: den (animal sleeping area) + niece + is = Denise Lewis
+  - number: 2
+    initials: U B
+    clue: You've got all your marbles. Perfectly sane. And someone's just bolted the door shut with a great big metal thing. You sane, bolt. Done.
+    answer: Usain Bolt
+    aliases:
+    - usain bolt
+    reasoning: you + sane (got all your marbles) + bolt (door bolt) = Usain Bolt
+  - number: 3
+    initials: R F
+    clue: Roger's done it again. Fed someone. He's fed them and they're fed. Roger fed, then fed some more. That's Roger. Always feeding people.
+    answer: Roger Federer
+    aliases:
+    - roger federer
+    reasoning: Roger + fed (fed someone) + er + er = Roger Federer

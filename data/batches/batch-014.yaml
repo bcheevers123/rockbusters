@@ -5,35 +5,34 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Right, Sciencebusters. Rockbusters but the answers are all science and nature. Say them out loud."
-  prize: "Email in. Winner gets a laminated periodic table and a biro from a science conference."
+  - UK
+  - US
+  intro: Right, Sciencebusters. Rockbusters but the answers are all science and nature. Say them out loud.
+  prize: Email in. Winner gets a laminated periodic table and a biro from a science conference.
   clues:
-    - number: 1
-      initials: B H
-      clue: "Right, there's a massive dark thing in space and it's been doing a bit of leaping about. Just jumping. Into the void."
-      answer: Black Hole
-      aliases:
-        - black hole
-        - black holes
-      reasoning: "black (dark, no light escapes) + hole (a gap you fall into) = Black Hole"
-    - number: 2
-      initials: G
-      clue: "Some fella's got a really good grip on things. Won't let anything go. Everything falls towards him. Bit clingy."
-      answer: Gravity
-      aliases:
-        - gravity
-      reasoning: "gravity (the force that pulls everything toward massive objects, won't let go) = Gravity"
-    - number: 3
-      initials: V
-      clue: "That mountain with a bad temper. Keeps blowing its top. Very dramatic about it. Orange stuff everywhere."
-      answer: Volcano
-      aliases:
-        - volcano
-        - volcanoes
-      reasoning: "volcano (the mountain that erupts dramatically, blows its top) = Volcano"
-
+  - number: 1
+    initials: B H
+    clue: Right, there's a massive dark thing in space and it's been doing a bit of leaping about. Just jumping. Into the void.
+    answer: Black Hole
+    aliases:
+    - black hole
+    - black holes
+    reasoning: black (dark, no light escapes) + hole (a gap you fall into) = Black Hole
+  - number: 2
+    initials: G
+    clue: Some fella's got a really good grip on things. Won't let anything go. Everything falls towards him. Bit clingy.
+    answer: Gravity
+    aliases:
+    - gravity
+    reasoning: gravity (the force that pulls everything toward massive objects, won't let go) = Gravity
+  - number: 3
+    initials: V
+    clue: That mountain with a bad temper. Keeps blowing its top. Very dramatic about it. Orange stuff everywhere.
+    answer: Volcano
+    aliases:
+    - volcano
+    - volcanoes
+    reasoning: volcano (the mountain that erupts dramatically, blows its top) = Volcano
 - id: sciencebusters-002
   enabled: true
   title: Sciencebusters
@@ -41,34 +40,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Sciencebusters two. Three more science and nature answers. You know the drill."
-  prize: "Email in. Winner gets a CD-ROM encyclopaedia from 1997 and a protractor."
+  - UK
+  - US
+  intro: Sciencebusters two. Three more science and nature answers. You know the drill.
+  prize: Email in. Winner gets a CD-ROM encyclopaedia from 1997 and a protractor.
   clues:
-    - number: 1
-      initials: R
-      clue: "Those seven colours spread across the sky after rain. All of them. Just hanging there being colourful. Very showy."
-      answer: Rainbow
-      aliases:
-        - rainbow
-        - rainbows
-      reasoning: "rain (the water that falls from clouds) + bow (a curved arc shape) = Rainbow"
-    - number: 2
-      initials: E
-      clue: "That process where the rock just wears away slowly. Bit by bit. Over thousands of years. Very patient."
-      answer: Erosion
-      aliases:
-        - erosion
-      reasoning: "erosion (the gradual wearing away of rock or soil) = Erosion"
-    - number: 3
-      initials: M
-      clue: "Everything that exists and takes up space. All of it. Weighed on a very big set of scales."
-      answer: Matter
-      aliases:
-        - matter
-      reasoning: "matter (everything with mass and volume, the stuff the universe is made of) = Matter"
-
+  - number: 1
+    initials: R
+    clue: Those seven colours spread across the sky after rain. All of them. Just hanging there being colourful. Very showy.
+    answer: Rainbow
+    aliases:
+    - rainbow
+    - rainbows
+    reasoning: rain (the water that falls from clouds) + bow (a curved arc shape) = Rainbow
+  - number: 2
+    initials: E
+    clue: That process where the rock just wears away slowly. Bit by bit. Over thousands of years. Very patient.
+    answer: Erosion
+    aliases:
+    - erosion
+    reasoning: erosion (the gradual wearing away of rock or soil) = Erosion
+  - number: 3
+    initials: M
+    clue: Everything that exists and takes up space. All of it. Weighed on a very big set of scales.
+    answer: Matter
+    aliases:
+    - matter
+    reasoning: matter (everything with mass and volume, the stuff the universe is made of) = Matter
 - id: sciencebusters-003
   enabled: true
   title: Sciencebusters
@@ -76,34 +74,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Three more Sciencebusters. All science and nature. Say the clues out loud."
-  prize: "Email in. Winner gets a miniature telescope that does not quite focus and some Werther's."
+  - UK
+  - US
+  intro: Three more Sciencebusters. All science and nature. Say the clues out loud.
+  prize: Email in. Winner gets a miniature telescope that does not quite focus and some Werther's.
   clues:
-    - number: 1
-      initials: N
-      clue: "Right, that little speck in the middle of the atom. Where everything is concentrated. Very small but carries a lot of weight."
-      answer: Nucleus
-      aliases:
-        - nucleus
-        - nuclei
-      reasoning: "nucleus (the central dense core of an atom or cell) = Nucleus"
-    - number: 2
-      initials: C
-      clue: "That thing where animals pretend to be something else to avoid being eaten. A bit sneaky but fair enough."
-      answer: Camouflage
-      aliases:
-        - camouflage
-      reasoning: "camouflage (disguising yourself to blend into surroundings) = Camouflage"
-    - number: 3
-      initials: T
-      clue: "How hot or cold something is. Someone is measuring it. Very important information, apparently."
-      answer: Temperature
-      aliases:
-        - temperature
-      reasoning: "temperature (the measure of thermal energy, hot or cold) = Temperature"
-
+  - number: 1
+    initials: N
+    clue: Right, that little speck in the middle of the atom. Where everything is concentrated. Very small but carries a lot of weight.
+    answer: Nucleus
+    aliases:
+    - nucleus
+    - nuclei
+    reasoning: nucleus (the central dense core of an atom or cell) = Nucleus
+  - number: 2
+    initials: C
+    clue: That thing where animals pretend to be something else to avoid being eaten. A bit sneaky but fair enough.
+    answer: Camouflage
+    aliases:
+    - camouflage
+    reasoning: camouflage (disguising yourself to blend into surroundings) = Camouflage
+  - number: 3
+    initials: T
+    clue: How hot or cold something is. Someone is measuring it. Very important information, apparently.
+    answer: Temperature
+    aliases:
+    - temperature
+    reasoning: temperature (the measure of thermal energy, hot or cold) = Temperature
 - id: sciencebusters-004
   enabled: true
   title: Sciencebusters
@@ -111,35 +108,34 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Sciencebusters four. Right, three more science answers hidden in these phonetic clues."
-  prize: "Email in. Winner gets a novelty Einstein fridge magnet and a half-used notebook with sums in it."
+  - UK
+  - US
+  intro: Sciencebusters four. Right, three more science answers hidden in these phonetic clues.
+  prize: Email in. Winner gets a novelty Einstein fridge magnet and a half-used notebook with sums in it.
   clues:
-    - number: 1
-      initials: A
-      clue: "Right, the stuff that goes into your lungs. The invisible stuff all around us. Apparently we need it to survive."
-      answer: Atmosphere
-      aliases:
-        - atmosphere
-      reasoning: "atmo (air/vapour) + sphere (a ball shape) = Atmosphere"
-    - number: 2
-      initials: E
-      clue: "Right, some fella's done everything perfectly. All the atoms in the right place. Nothing wrong. Perfectly balanced."
-      answer: Equilibrium
-      aliases:
-        - equilibrium
-      reasoning: "equilibrium (perfect balance, a state where everything is equal and stable) = Equilibrium"
-    - number: 3
-      initials: M
-      clue: "Those tiny things that cause all the bother. Too small to see. They're everywhere. Bit inconsiderate."
-      answer: Microbes
-      aliases:
-        - microbes
-        - microbe
-        - microorganisms
-      reasoning: "micro (very small, too small to see) + bes = Microbes (microscopic organisms)"
-
+  - number: 1
+    initials: A
+    clue: Right, the stuff that goes into your lungs. The invisible stuff all around us. Apparently we need it to survive.
+    answer: Atmosphere
+    aliases:
+    - atmosphere
+    reasoning: atmo (air/vapour) + sphere (a ball shape) = Atmosphere
+  - number: 2
+    initials: E
+    clue: Right, some fella's done everything perfectly. All the atoms in the right place. Nothing wrong. Perfectly balanced.
+    answer: Equilibrium
+    aliases:
+    - equilibrium
+    reasoning: equilibrium (perfect balance, a state where everything is equal and stable) = Equilibrium
+  - number: 3
+    initials: M
+    clue: Those tiny things that cause all the bother. Too small to see. They're everywhere. Bit inconsiderate.
+    answer: Microbes
+    aliases:
+    - microbes
+    - microbe
+    - microorganisms
+    reasoning: micro (very small, too small to see) + bes = Microbes (microscopic organisms)
 - id: sciencebusters-005
   enabled: true
   title: Sciencebusters
@@ -147,35 +143,34 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Five sets of Sciencebusters. Still going. Three more phonetic science and nature clues."
-  prize: "Email in. Winner gets a beaker from a school lab and a copy of New Scientist from 2002."
+  - UK
+  - US
+  intro: Five sets of Sciencebusters. Still going. Three more phonetic science and nature clues.
+  prize: Email in. Winner gets a beaker from a school lab and a copy of New Scientist from 2002.
   clues:
-    - number: 1
-      initials: P S
-      clue: "That process where the green things turn sunlight into food. Like cooking but the oven is the sun."
-      answer: Photosynthesis
-      aliases:
-        - photosynthesis
-      reasoning: "photo (light from the sun) + synthesis (combining things to make something new) = Photosynthesis"
-    - number: 2
-      initials: L
-      clue: "That thing in the eye where the light comes in and gets bent. Very technical, is the eye."
-      answer: Lens
-      aliases:
-        - lens
-        - lenses
-      reasoning: "lens (the curved transparent part of the eye or a telescope that focuses light) = Lens"
-    - number: 3
-      initials: W C
-      clue: "All the water on the planet just going round in circles. Up into clouds, down as rain, off to the sea. Round and round."
-      answer: Water Cycle
-      aliases:
-        - water cycle
-        - the water cycle
-      reasoning: "water (liquid that evaporates and falls as rain) + cycle (the circular journey it takes) = Water Cycle"
-
+  - number: 1
+    initials: P S
+    clue: That process where the green things turn sunlight into food. Like cooking but the oven is the sun.
+    answer: Photosynthesis
+    aliases:
+    - photosynthesis
+    reasoning: photo (light from the sun) + synthesis (combining things to make something new) = Photosynthesis
+  - number: 2
+    initials: L
+    clue: That thing in the eye where the light comes in and gets bent. Very technical, is the eye.
+    answer: Lens
+    aliases:
+    - lens
+    - lenses
+    reasoning: lens (the curved transparent part of the eye or a telescope that focuses light) = Lens
+  - number: 3
+    initials: W C
+    clue: All the water on the planet just going round in circles. Up into clouds, down as rain, off to the sea. Round and round.
+    answer: Water Cycle
+    aliases:
+    - water cycle
+    - the water cycle
+    reasoning: water (liquid that evaporates and falls as rain) + cycle (the circular journey it takes) = Water Cycle
 - id: sciencebusters-006
   enabled: true
   title: Sciencebusters
@@ -183,35 +178,34 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Sciencebusters six. Three more from the world of science."
-  prize: "Email in. Winner gets a safety goggles pouch and a signed photo from a regional science fair."
+  - UK
+  - US
+  intro: Sciencebusters six. Three more from the world of science.
+  prize: Email in. Winner gets a safety goggles pouch and a signed photo from a regional science fair.
   clues:
-    - number: 1
-      initials: C
-      clue: "Right, the stuff the pencil is made of. The really slippery shiny kind. Very conductive. Also diamonds."
-      answer: Carbon
-      aliases:
-        - carbon
-        - graphite
-      reasoning: "carbon (the element that makes both graphite for pencils and diamonds) = Carbon"
-    - number: 2
-      initials: O
-      clue: "That layer up high that stops us all getting burned by the sun. Good thing it is there. We would be in trouble."
-      answer: Ozone
-      aliases:
-        - ozone
-        - ozone layer
-      reasoning: "ozone (the gas layer in the upper atmosphere that absorbs UV radiation) = Ozone"
-    - number: 3
-      initials: E
-      clue: "That slow crawly thing left slime everywhere then turned into something with wings. Bit of a transformation."
-      answer: Evolution
-      aliases:
-        - evolution
-      reasoning: "evolution (the process of gradual transformation over generations) = Evolution"
-
+  - number: 1
+    initials: C
+    clue: Right, the stuff the pencil is made of. The really slippery shiny kind. Very conductive. Also diamonds.
+    answer: Carbon
+    aliases:
+    - carbon
+    - graphite
+    reasoning: carbon (the element that makes both graphite for pencils and diamonds) = Carbon
+  - number: 2
+    initials: O
+    clue: That layer up high that stops us all getting burned by the sun. Good thing it is there. We would be in trouble.
+    answer: Ozone
+    aliases:
+    - ozone
+    - ozone layer
+    reasoning: ozone (the gas layer in the upper atmosphere that absorbs UV radiation) = Ozone
+  - number: 3
+    initials: E
+    clue: That slow crawly thing left slime everywhere then turned into something with wings. Bit of a transformation.
+    answer: Evolution
+    aliases:
+    - evolution
+    reasoning: evolution (the process of gradual transformation over generations) = Evolution
 - id: sciencebusters-007
   enabled: true
   title: Sciencebusters
@@ -219,35 +213,34 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Sciencebusters seven. Right, three more from the world of science. Off you go."
-  prize: "Email in. Winner gets a test tube rack and a voucher for a science museum gift shop, expired."
+  - UK
+  - US
+  intro: Sciencebusters seven. Right, three more from the world of science. Off you go.
+  prize: Email in. Winner gets a test tube rack and a voucher for a science museum gift shop, expired.
   clues:
-    - number: 1
-      initials: R
-      clue: "Right, those invisible things coming off nuclear stuff. Cannot see them. Very bad for you. Wear a badge."
-      answer: Radiation
-      aliases:
-        - radiation
-      reasoning: "radiation (invisible energy or particles emitted from radioactive material) = Radiation"
-    - number: 2
-      initials: F
-      clue: "Something being broken down into its smallest parts. Completely taken apart. Nothing left over."
-      answer: Fission
-      aliases:
-        - fission
-        - nuclear fission
-      reasoning: "fission (splitting atoms apart, like nuclear fission) = Fission"
-    - number: 3
-      initials: C
-      clue: "All the living things and the dead things and the temperature and the water. All of it together. At once."
-      answer: Climate
-      aliases:
-        - climate
-        - climate system
-      reasoning: "climate (the overall environmental conditions of temperature, water, and life) = Climate"
-
+  - number: 1
+    initials: R
+    clue: Right, those invisible things coming off nuclear stuff. Cannot see them. Very bad for you. Wear a badge.
+    answer: Radiation
+    aliases:
+    - radiation
+    reasoning: radiation (invisible energy or particles emitted from radioactive material) = Radiation
+  - number: 2
+    initials: F
+    clue: Something being broken down into its smallest parts. Completely taken apart. Nothing left over.
+    answer: Fission
+    aliases:
+    - fission
+    - nuclear fission
+    reasoning: fission (splitting atoms apart, like nuclear fission) = Fission
+  - number: 3
+    initials: C
+    clue: All the living things and the dead things and the temperature and the water. All of it together. At once.
+    answer: Climate
+    aliases:
+    - climate
+    - climate system
+    reasoning: climate (the overall environmental conditions of temperature, water, and life) = Climate
 - id: sciencebusters-008
   enabled: true
   title: Sciencebusters
@@ -255,36 +248,35 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Right, Sciencebusters eight. Three more phonetic science clues. Say them out loud."
-  prize: "Email in. Winner gets a clipboard, a pencil, and a blank data recording sheet."
+  - UK
+  - US
+  intro: Right, Sciencebusters eight. Three more phonetic science clues. Say them out loud.
+  prize: Email in. Winner gets a clipboard, a pencil, and a blank data recording sheet.
   clues:
-    - number: 1
-      initials: A
-      clue: "Right, something really tiny has been stuck to something else really tiny. They bonded. Getting on very well."
-      answer: Atom
-      aliases:
-        - atom
-        - atoms
-      reasoning: "atom (the smallest unit of an element, which bonds with other atoms) = Atom"
-    - number: 2
-      initials: S
-      clue: "The light from the sun splitting into all its colours. Like what a prism does. Very pretty. Good for a poster."
-      answer: Spectrum
-      aliases:
-        - spectrum
-        - light spectrum
-      reasoning: "spectrum (the range of colours visible when light is dispersed) = Spectrum"
-    - number: 3
-      initials: M
-      clue: "That thing where two chemicals get together and something completely different comes out the other side. A bit alchemic."
-      answer: Mixture
-      aliases:
-        - mixture
-        - mixtures
-      reasoning: "mix (combining two things) + ture = Mixture"
-
+  - number: 1
+    initials: A
+    clue: Right, something really tiny has been stuck to something else really tiny. They bonded. Getting on very well.
+    answer: Atom
+    aliases:
+    - atom
+    - atoms
+    reasoning: atom (the smallest unit of an element, which bonds with other atoms) = Atom
+  - number: 2
+    initials: S
+    clue: The light from the sun splitting into all its colours. Like what a prism does. Very pretty. Good for a poster.
+    answer: Spectrum
+    aliases:
+    - spectrum
+    - light spectrum
+    reasoning: spectrum (the range of colours visible when light is dispersed) = Spectrum
+  - number: 3
+    initials: M
+    clue: That thing where two chemicals get together and something completely different comes out the other side. A bit alchemic.
+    answer: Mixture
+    aliases:
+    - mixture
+    - mixtures
+    reasoning: mix (combining two things) + ture = Mixture
 - id: sciencebusters-009
   enabled: true
   title: Sciencebusters
@@ -292,35 +284,34 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Nine sets of Sciencebusters. Three more phonetic science clues. Have a go."
-  prize: "Email in. Winner gets a solar-powered calculator and a pencil case from a long-closed Woolworths."
+  - UK
+  - US
+  intro: Nine sets of Sciencebusters. Three more phonetic science clues. Have a go.
+  prize: Email in. Winner gets a solar-powered calculator and a pencil case from a long-closed Woolworths.
   clues:
-    - number: 1
-      initials: E
-      clue: "Right, that snake-shaped diagram that shows everything eating everything else. A chain. Quite morbid."
-      answer: Ecosystem
-      aliases:
-        - ecosystem
-        - ecosystems
-      reasoning: "eco (environmental, natural) + system (a chain of interconnected things) = Ecosystem"
-    - number: 2
-      initials: L
-      clue: "Right, the process where rock gets really hot and starts moving. Very slow. Very orange."
-      answer: Lava
-      aliases:
-        - lava
-      reasoning: "lava (molten rock, very hot and slow, bright orange) = Lava"
-    - number: 3
-      initials: M
-      clue: "That big bang at the start of everything. When nothing became something. Very dramatic for a Monday."
-      answer: Multiverse
-      aliases:
-        - multiverse
-        - big bang
-      reasoning: "multi (many) + verse (short for universe) = Multiverse"
-
+  - number: 1
+    initials: E
+    clue: Right, that snake-shaped diagram that shows everything eating everything else. A chain. Quite morbid.
+    answer: Ecosystem
+    aliases:
+    - ecosystem
+    - ecosystems
+    reasoning: eco (environmental, natural) + system (a chain of interconnected things) = Ecosystem
+  - number: 2
+    initials: L
+    clue: Right, the process where rock gets really hot and starts moving. Very slow. Very orange.
+    answer: Lava
+    aliases:
+    - lava
+    reasoning: lava (molten rock, very hot and slow, bright orange) = Lava
+  - number: 3
+    initials: M
+    clue: That big bang at the start of everything. When nothing became something. Very dramatic for a Monday.
+    answer: Multiverse
+    aliases:
+    - multiverse
+    - big bang
+    reasoning: multi (many) + verse (short for universe) = Multiverse
 - id: sciencebusters-010
   enabled: true
   title: Sciencebusters
@@ -328,35 +319,34 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Ten Sciencebusters sets. Double figures. Three more science and nature phonetic clues."
-  prize: "Email in. Winner gets a half-deflated helium balloon and a certificate of participation."
+  - UK
+  - US
+  intro: Ten Sciencebusters sets. Double figures. Three more science and nature phonetic clues.
+  prize: Email in. Winner gets a half-deflated helium balloon and a certificate of participation.
   clues:
-    - number: 1
-      initials: C
-      clue: "Right, that turning movement. Going round in circles. Very fast. Makes a terrible noise. Usually in a storm."
-      answer: Cyclone
-      aliases:
-        - cyclone
-        - cyclones
-      reasoning: "cyclo (circle/cycle) + ne = Cyclone (a circular rotating storm)"
-    - number: 2
-      initials: E
-      clue: "That process where you put heat in and something comes out. Or take heat out and something else happens. Energy moving about."
-      answer: Energy
-      aliases:
-        - energy
-      reasoning: "energy (the capacity to do work or cause change, involved in all processes) = Energy"
-    - number: 3
-      initials: P
-      clue: "Those tiny round things orbiting the bigger round thing in space. All doing it together. Very orderly."
-      answer: Planets
-      aliases:
-        - planets
-        - planet
-      reasoning: "planets (the large spherical bodies orbiting a star in an orderly fashion) = Planets"
-
+  - number: 1
+    initials: C
+    clue: Right, that turning movement. Going round in circles. Very fast. Makes a terrible noise. Usually in a storm.
+    answer: Cyclone
+    aliases:
+    - cyclone
+    - cyclones
+    reasoning: cyclo (circle/cycle) + ne = Cyclone (a circular rotating storm)
+  - number: 2
+    initials: E
+    clue: That process where you put heat in and something comes out. Or take heat out and something else happens. Energy moving about.
+    answer: Energy
+    aliases:
+    - energy
+    reasoning: energy (the capacity to do work or cause change, involved in all processes) = Energy
+  - number: 3
+    initials: P
+    clue: Those tiny round things orbiting the bigger round thing in space. All doing it together. Very orderly.
+    answer: Planets
+    aliases:
+    - planets
+    - planet
+    reasoning: planets (the large spherical bodies orbiting a star in an orderly fashion) = Planets
 - id: sciencebusters-011
   enabled: true
   title: Sciencebusters
@@ -364,34 +354,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Sciencebusters eleven. Back in the lab. Three more science phonetic riddles."
-  prize: "Email in. Winner gets a Bunsen burner keyring and a copy of a 1998 school science textbook."
+  - UK
+  - US
+  intro: Sciencebusters eleven. Back in the lab. Three more science phonetic riddles.
+  prize: Email in. Winner gets a Bunsen burner keyring and a copy of a 1998 school science textbook.
   clues:
-    - number: 1
-      initials: S W
-      clue: "There is something coming off the big blazing thing in the sky. Invisible but it is out there. Very fast."
-      answer: Solar Wind
-      aliases:
-        - solar wind
-      reasoning: "solar (of the sun) + wind (a flow of particles, like wind) = Solar Wind"
-    - number: 2
-      initials: M
-      clue: "Right, the orange stuff under the surface. Between the rocky outside and the hot middle bit. Very thick."
-      answer: Magma
-      aliases:
-        - magma
-      reasoning: "magma (the molten rock layer beneath the Earth's crust) = Magma"
-    - number: 3
-      initials: D N A
-      clue: "That twisty ladder thing inside every single one of your cells. Has all your information on it. Like a filing system."
-      answer: DNA
-      aliases:
-        - dna
-        - d n a
-      reasoning: "DNA (deoxyribonucleic acid, the double helix with genetic information) = DNA"
-
+  - number: 1
+    initials: S W
+    clue: There is something coming off the big blazing thing in the sky. Invisible but it is out there. Very fast.
+    answer: Solar Wind
+    aliases:
+    - solar wind
+    reasoning: solar (of the sun) + wind (a flow of particles, like wind) = Solar Wind
+  - number: 2
+    initials: M
+    clue: Right, the orange stuff under the surface. Between the rocky outside and the hot middle bit. Very thick.
+    answer: Magma
+    aliases:
+    - magma
+    reasoning: magma (the molten rock layer beneath the Earth's crust) = Magma
+  - number: 3
+    initials: D N A
+    clue: That twisty ladder thing inside every single one of your cells. Has all your information on it. Like a filing system.
+    answer: DNA
+    aliases:
+    - dna
+    - d n a
+    reasoning: DNA (deoxyribonucleic acid, the double helix with genetic information) = DNA
 - id: sciencebusters-012
   enabled: true
   title: Sciencebusters
@@ -399,37 +388,36 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Right, Sciencebusters twelve. Three more. Science and nature, phonetically hidden."
-  prize: "Email in. Winner gets a magnetic poetry set and a Fibonacci sequence poster."
+  - UK
+  - US
+  intro: Right, Sciencebusters twelve. Three more. Science and nature, phonetically hidden.
+  prize: Email in. Winner gets a magnetic poetry set and a Fibonacci sequence poster.
   clues:
-    - number: 1
-      initials: W
-      clue: "Something going in circles in the sky. Round and round. Very fast. Making a terrible noise. Funnel shaped."
-      answer: Whirlwind
-      aliases:
-        - whirlwind
-        - tornado
-        - whirl wind
-      reasoning: "whirl (spinning in circles) + wind (moving air) = Whirlwind"
-    - number: 2
-      initials: H
-      clue: "Right, those leafy things in the plant. Go green in summer and orange in autumn. Very seasonal."
-      answer: Hormone
-      aliases:
-        - hormone
-        - hormones
-      reasoning: "hor (sounds like 'or') + mone = Hormone (a chemical messenger in the body)"
-    - number: 3
-      initials: T E
-      clue: "That time when there is no light at all. The moon is in the way. Everyone panics a bit."
-      answer: Total Eclipse
-      aliases:
-        - total eclipse
-        - eclipse
-      reasoning: "total (complete, everything blocked out) + eclipse (the moon blocking the sun) = Total Eclipse"
-
+  - number: 1
+    initials: W
+    clue: Something going in circles in the sky. Round and round. Very fast. Making a terrible noise. Funnel shaped.
+    answer: Whirlwind
+    aliases:
+    - whirlwind
+    - tornado
+    - whirl wind
+    reasoning: whirl (spinning in circles) + wind (moving air) = Whirlwind
+  - number: 2
+    initials: H
+    clue: Right, those leafy things in the plant. Go green in summer and orange in autumn. Very seasonal.
+    answer: Hormone
+    aliases:
+    - hormone
+    - hormones
+    reasoning: hor (sounds like 'or') + mone = Hormone (a chemical messenger in the body)
+  - number: 3
+    initials: T E
+    clue: That time when there is no light at all. The moon is in the way. Everyone panics a bit.
+    answer: Total Eclipse
+    aliases:
+    - total eclipse
+    - eclipse
+    reasoning: total (complete, everything blocked out) + eclipse (the moon blocking the sun) = Total Eclipse
 - id: sciencebusters-013
   enabled: true
   title: Sciencebusters
@@ -437,37 +425,36 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Sciencebusters thirteen. Still in the lab. Three more phonetic science clues."
-  prize: "Email in. Winner gets a petri dish still in its packaging and a pair of lab goggles."
+  - UK
+  - US
+  intro: Sciencebusters thirteen. Still in the lab. Three more phonetic science clues.
+  prize: Email in. Winner gets a petri dish still in its packaging and a pair of lab goggles.
   clues:
-    - number: 1
-      initials: N
-      clue: "Right, there is no gravity and no air. Everything just floats. Like being underwater but no water either."
-      answer: Nebula
-      aliases:
-        - nebula
-        - nebulae
-      reasoning: "nebula (a cloud of gas and dust in space, where nothing is held in place by gravity) = Nebula"
-    - number: 2
-      initials: H
-      clue: "That thing in the sky with a tail on it. Comes round every few decades. Very icy. Has a name that sounds Roman."
-      answer: Halley
-      aliases:
-        - halley
-        - halley comet
-        - halley's comet
-      reasoning: "Halley (as in Halley's Comet, the famous periodic comet) = Halley"
-    - number: 3
-      initials: P
-      clue: "There is a fella called Ton and he is doing a small flip. Just a quick one. On a trampoline perhaps."
-      answer: Proton
-      aliases:
-        - proton
-        - protons
-      reasoning: "pro (before/forward) + ton (a unit of mass, or sounds like a name) = Proton"
-
+  - number: 1
+    initials: N
+    clue: Right, there is no gravity and no air. Everything just floats. Like being underwater but no water either.
+    answer: Nebula
+    aliases:
+    - nebula
+    - nebulae
+    reasoning: nebula (a cloud of gas and dust in space, where nothing is held in place by gravity) = Nebula
+  - number: 2
+    initials: H
+    clue: That thing in the sky with a tail on it. Comes round every few decades. Very icy. Has a name that sounds Roman.
+    answer: Halley
+    aliases:
+    - halley
+    - halley comet
+    - halley's comet
+    reasoning: Halley (as in Halley's Comet, the famous periodic comet) = Halley
+  - number: 3
+    initials: P
+    clue: There is a fella called Ton and he is doing a small flip. Just a quick one. On a trampoline perhaps.
+    answer: Proton
+    aliases:
+    - proton
+    - protons
+    reasoning: pro (before/forward) + ton (a unit of mass, or sounds like a name) = Proton
 - id: sciencebusters-014
   enabled: true
   title: Sciencebusters
@@ -475,37 +462,36 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Fourteen Sciencebusters now. Three more from science and nature."
-  prize: "Email in. Winner gets a signed poster from a school science fair and some pencil shavings."
+  - UK
+  - US
+  intro: Fourteen Sciencebusters now. Three more from science and nature.
+  prize: Email in. Winner gets a signed poster from a school science fair and some pencil shavings.
   clues:
-    - number: 1
-      initials: E
-      clue: "Right, that moment when Archimedes got in his bath and worked everything out. Shouted it from the rooftop."
-      answer: Eureka
-      aliases:
-        - eureka
-        - eureka moment
-      reasoning: "Eureka (what Archimedes exclaimed when he discovered displacement) = Eureka"
-    - number: 2
-      initials: P
-      clue: "Those tiny particles going round the middle of the atom. Very busy. Never stop. Negatively charged."
-      answer: Proton
-      aliases:
-        - proton
-        - photon
-        - electron
-      reasoning: "proton (positively charged particle in the nucleus) = Proton"
-    - number: 3
-      initials: S
-      clue: "Right, there are loads of them burning away up there. Every single one of them on fire. Billions of them."
-      answer: Stars
-      aliases:
-        - stars
-        - star
-      reasoning: "stars (burning balls of gas in space, billions of them) = Stars"
-
+  - number: 1
+    initials: E
+    clue: Right, that moment when Archimedes got in his bath and worked everything out. Shouted it from the rooftop.
+    answer: Eureka
+    aliases:
+    - eureka
+    - eureka moment
+    reasoning: Eureka (what Archimedes exclaimed when he discovered displacement) = Eureka
+  - number: 2
+    initials: P
+    clue: Those tiny particles going round the middle of the atom. Very busy. Never stop. Negatively charged.
+    answer: Proton
+    aliases:
+    - proton
+    - photon
+    - electron
+    reasoning: proton (positively charged particle in the nucleus) = Proton
+  - number: 3
+    initials: S
+    clue: Right, there are loads of them burning away up there. Every single one of them on fire. Billions of them.
+    answer: Stars
+    aliases:
+    - stars
+    - star
+    reasoning: stars (burning balls of gas in space, billions of them) = Stars
 - id: sciencebusters-015
   enabled: true
   title: Sciencebusters
@@ -513,34 +499,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Sciencebusters fifteen. Halfway through. Three more phonetic science answers."
-  prize: "Email in. Winner gets an old Encarta disc and a ruler from GCSE maths, slightly bent."
+  - UK
+  - US
+  intro: Sciencebusters. Three more phonetic science answers. Say them out loud.
+  prize: Email in. Winner gets an old Encarta disc and a ruler from GCSE maths, slightly bent.
   clues:
-    - number: 1
-      initials: G
-      clue: "Everything growing and spreading outward. Eating up space. Getting everywhere. Very ambitious of it."
-      answer: Growth
-      aliases:
-        - growth
-      reasoning: "growth (the process of increasing in size, expanding outward) = Growth"
-    - number: 2
-      initials: A
-      clue: "Someone is having a bath in something that eats through metal. Not ideal. They are not bothered though."
-      answer: Acid
-      aliases:
-        - acid
-        - acids
-      reasoning: "acid (a corrosive substance that dissolves metals) = Acid"
-    - number: 3
-      initials: P
-      clue: "Right, the number of things has gone and got very big. Too many to count. Overcrowded everywhere."
-      answer: Population
-      aliases:
-        - population
-      reasoning: "popul (many people) + ation = Population (the total number of organisms in an area)"
-
+  - number: 1
+    initials: G
+    clue: Everything growing and spreading outward. Eating up space. Getting everywhere. Very ambitious of it.
+    answer: Growth
+    aliases:
+    - growth
+    reasoning: growth (the process of increasing in size, expanding outward) = Growth
+  - number: 2
+    initials: A
+    clue: Someone is having a bath in something that eats through metal. Not ideal. They are not bothered though.
+    answer: Acid
+    aliases:
+    - acid
+    - acids
+    reasoning: acid (a corrosive substance that dissolves metals) = Acid
+  - number: 3
+    initials: P
+    clue: Right, the number of things has gone and got very big. Too many to count. Overcrowded everywhere.
+    answer: Population
+    aliases:
+    - population
+    reasoning: popul (many people) + ation = Population (the total number of organisms in an area)
 - id: sciencebusters-016
   enabled: true
   title: Sciencebusters
@@ -548,36 +533,35 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Sciencebusters sixteen. Four to go. All science, all phonetic."
-  prize: "Email in. Winner gets a commemorative space shuttle keyring and a freeze-dried ice cream."
+  - UK
+  - US
+  intro: Sciencebusters sixteen. Four to go. All science, all phonetic.
+  prize: Email in. Winner gets a commemorative space shuttle keyring and a freeze-dried ice cream.
   clues:
-    - number: 1
-      initials: O
-      clue: "Right, those little bits going round the middle bit. Very busy. Going round and round. Never stopping."
-      answer: Orbit
-      aliases:
-        - orbit
-        - orbits
-      reasoning: "orbit (the circular path of one thing moving around another) = Orbit"
-    - number: 2
-      initials: F
-      clue: "That thing with the magnets and the invisible lines. Pull things together, push things apart. Very particular."
-      answer: Field
-      aliases:
-        - field
-        - magnetic field
-        - force field
-      reasoning: "field (the area of influence around a magnet or gravitational body) = Field"
-    - number: 3
-      initials: H
-      clue: "That element that makes balloons float and your voice go funny when you breathe it in. Very light."
-      answer: Helium
-      aliases:
-        - helium
-      reasoning: "helium (the lightest noble gas, used in balloons) = Helium"
-
+  - number: 1
+    initials: O
+    clue: Right, those little bits going round the middle bit. Very busy. Going round and round. Never stopping.
+    answer: Orbit
+    aliases:
+    - orbit
+    - orbits
+    reasoning: orbit (the circular path of one thing moving around another) = Orbit
+  - number: 2
+    initials: F
+    clue: That thing with the magnets and the invisible lines. Pull things together, push things apart. Very particular.
+    answer: Field
+    aliases:
+    - field
+    - magnetic field
+    - force field
+    reasoning: field (the area of influence around a magnet or gravitational body) = Field
+  - number: 3
+    initials: H
+    clue: That element that makes balloons float and your voice go funny when you breathe it in. Very light.
+    answer: Helium
+    aliases:
+    - helium
+    reasoning: helium (the lightest noble gas, used in balloons) = Helium
 - id: sciencebusters-017
   enabled: true
   title: Sciencebusters
@@ -585,36 +569,35 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Three more after this. Sciencebusters seventeen. All science and nature."
-  prize: "Email in. Winner gets a moon phase chart and a telescope cleaning cloth."
+  - UK
+  - US
+  intro: Three more after this. Sciencebusters seventeen. All science and nature.
+  prize: Email in. Winner gets a moon phase chart and a telescope cleaning cloth.
   clues:
-    - number: 1
-      initials: C
-      clue: "Right, the invisible material between everything in space. All the stuff we cannot detect. Makes up most of it."
-      answer: Cosmos
-      aliases:
-        - cosmos
-        - dark matter
-      reasoning: "cosmos (the universe, everything in space) = Cosmos"
-    - number: 2
-      initials: B
-      clue: "That process where liquid turns to gas under heat. Very violent when it happens. Bubbling everywhere."
-      answer: Boiling
-      aliases:
-        - boiling
-      reasoning: "boiling (the process where a liquid changes to gas at its boiling point) = Boiling"
-    - number: 3
-      initials: N
-      clue: "That bloke who sat under the tree and worked out why things fall down. Got hit on the head. Suddenly understood everything."
-      answer: Newton
-      aliases:
-        - newton
-        - sir isaac newton
-        - isaac newton
-      reasoning: "Newton (Isaac Newton who famously discovered gravity when an apple fell on his head) = Newton"
-
+  - number: 1
+    initials: C
+    clue: Right, the invisible material between everything in space. All the stuff we cannot detect. Makes up most of it.
+    answer: Cosmos
+    aliases:
+    - cosmos
+    - dark matter
+    reasoning: cosmos (the universe, everything in space) = Cosmos
+  - number: 2
+    initials: B
+    clue: That process where liquid turns to gas under heat. Very violent when it happens. Bubbling everywhere.
+    answer: Boiling
+    aliases:
+    - boiling
+    reasoning: boiling (the process where a liquid changes to gas at its boiling point) = Boiling
+  - number: 3
+    initials: N
+    clue: That bloke who sat under the tree and worked out why things fall down. Got hit on the head. Suddenly understood everything.
+    answer: Newton
+    aliases:
+    - newton
+    - sir isaac newton
+    - isaac newton
+    reasoning: Newton (Isaac Newton who famously discovered gravity when an apple fell on his head) = Newton
 - id: sciencebusters-018
   enabled: true
   title: Sciencebusters
@@ -622,34 +605,33 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Sciencebusters eighteen. Nearly there. Three more from the world of science."
-  prize: "Email in. Winner gets a biology textbook from 1991 and a pencil case shaped like a test tube."
+  - UK
+  - US
+  intro: Sciencebusters. Three more from the world of science. Say them out loud.
+  prize: Email in. Winner gets a biology textbook from 1991 and a pencil case shaped like a test tube.
   clues:
-    - number: 1
-      initials: C
-      clue: "That green stuff in leaves that does all the work. Absorbs the light. Without it the leaf would just be boring."
-      answer: Chlorophyll
-      aliases:
-        - chlorophyll
-      reasoning: "chloro (green) + phyll (leaf) = Chlorophyll (the green pigment in plants)"
-    - number: 2
-      initials: M
-      clue: "Right, the process where things move from one place to another. Birds do it. Fish do it. Even butterflies."
-      answer: Migration
-      aliases:
-        - migration
-      reasoning: "migration (the seasonal movement of animals from one place to another) = Migration"
-    - number: 3
-      initials: E
-      clue: "That reaction where everything gets hot and light comes out. Usually at a bonfire. Guy Fawkes territory."
-      answer: Explosion
-      aliases:
-        - explosion
-        - combustion
-      reasoning: "explosion (a rapid reaction producing heat and light, like a bonfire on Guy Fawkes night) = Explosion"
-
+  - number: 1
+    initials: C
+    clue: That green stuff in leaves that does all the work. Absorbs the light. Without it the leaf would just be boring.
+    answer: Chlorophyll
+    aliases:
+    - chlorophyll
+    reasoning: chloro (green) + phyll (leaf) = Chlorophyll (the green pigment in plants)
+  - number: 2
+    initials: M
+    clue: Right, the process where things move from one place to another. Birds do it. Fish do it. Even butterflies.
+    answer: Migration
+    aliases:
+    - migration
+    reasoning: migration (the seasonal movement of animals from one place to another) = Migration
+  - number: 3
+    initials: E
+    clue: That reaction where everything gets hot and light comes out. Usually at a bonfire. Guy Fawkes territory.
+    answer: Explosion
+    aliases:
+    - explosion
+    - combustion
+    reasoning: explosion (a rapid reaction producing heat and light, like a bonfire on Guy Fawkes night) = Explosion
 - id: sciencebusters-019
   enabled: true
   title: Sciencebusters
@@ -657,37 +639,36 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Penultimate Sciencebusters. Number nineteen. Three more science phonetic answers."
-  prize: "Email in. Winner gets a star chart, a compass, and a 2003 Astronomer's almanac."
+  - UK
+  - US
+  intro: Sciencebusters. Three more science phonetic answers. Say them out loud.
+  prize: Email in. Winner gets a star chart, a compass, and a 2003 Astronomer's almanac.
   clues:
-    - number: 1
-      initials: G
-      clue: "Right, it is that planet with all the rings around it. Just sitting there in space with its rings on. Very pleased with itself."
-      answer: Gas Giant
-      aliases:
-        - gas giant
-        - saturn
-      reasoning: "gas (a state of matter) + giant (very large) = Gas Giant (like Saturn or Jupiter)"
-    - number: 2
-      initials: S
-      clue: "The planet on its side. Literally rotating sideways. Very peculiar. Nobody is quite sure why it did that."
-      answer: Sideways
-      aliases:
-        - uranus
-        - sideways
-      reasoning: "Uranus (the planet that rotates on its side, sideways relative to the solar system plane) = Uranus"
-    - number: 3
-      initials: F
-      clue: "Those tiny plants in the sea. Very small. Do all the breathing for the planet apparently. A bit overworked."
-      answer: Fossil
-      aliases:
-        - fossil
-        - fossils
-        - phytoplankton
-      reasoning: "fossil (remains of ancient organisms preserved in rock) = Fossil"
-
+  - number: 1
+    initials: G
+    clue: Right, it is that planet with all the rings around it. Just sitting there in space with its rings on. Very pleased with itself.
+    answer: Gas Giant
+    aliases:
+    - gas giant
+    - saturn
+    reasoning: gas (a state of matter) + giant (very large) = Gas Giant (like Saturn or Jupiter)
+  - number: 2
+    initials: S
+    clue: The planet on its side. Literally rotating sideways. Very peculiar. Nobody is quite sure why it did that.
+    answer: Sideways
+    aliases:
+    - uranus
+    - sideways
+    reasoning: Uranus (the planet that rotates on its side, sideways relative to the solar system plane) = Uranus
+  - number: 3
+    initials: F
+    clue: Those tiny plants in the sea. Very small. Do all the breathing for the planet apparently. A bit overworked.
+    answer: Fossil
+    aliases:
+    - fossil
+    - fossils
+    - phytoplankton
+    reasoning: fossil (remains of ancient organisms preserved in rock) = Fossil
 - id: sciencebusters-020
   enabled: true
   title: Sciencebusters
@@ -695,34 +676,34 @@
   difficulty: medium
   office_safe: true
   region_relevance:
-    - UK
-    - US
-  intro: "Last Sciencebusters. Twenty. The final science set. Make it count."
-  prize: "Email in. Winner gets a Nobel Prize certificate, unofficial, printed at home, slightly wonky."
+  - UK
+  - US
+  intro: Sciencebusters. Three science answers hiding in these clues. Say them out loud.
+  prize: Email in. Winner gets a Nobel Prize certificate, unofficial, printed at home, slightly wonky.
   clues:
-    - number: 1
-      initials: H
-      clue: "Right, that process where two small things join together and become one big thing. Loads of energy comes out."
-      answer: Hydrogen
-      aliases:
-        - hydrogen
-        - fusion
-      reasoning: "hydrogen (the element fused together in nuclear fusion inside stars) = Hydrogen"
-    - number: 2
-      initials: T
-      clue: "Everything has been stretched out and the light has gone red. Getting further away. Bit melancholy, the universe."
-      answer: Time
-      aliases:
-        - time
-        - time dilation
-        - spacetime
-      reasoning: "time (the fourth dimension, which dilates with velocity and gravity) = Time"
-    - number: 3
-      initials: C
-      clue: "Something going in circles. A storm but circular. Very organised for a storm actually. Bit impressive."
-      answer: Cyclone
-      aliases:
-        - cyclone
-        - cyclones
-        - hurricane
-      reasoning: "cyclone (a large rotating storm system) = Cyclone"
+  - number: 1
+    initials: H
+    clue: Right, that process where two small things join together and become one big thing. Loads of energy comes out.
+    answer: Hydrogen
+    aliases:
+    - hydrogen
+    - fusion
+    reasoning: hydrogen (the element fused together in nuclear fusion inside stars) = Hydrogen
+  - number: 2
+    initials: T
+    clue: Everything has been stretched out and the light has gone red. Getting further away. Bit melancholy, the universe.
+    answer: Time
+    aliases:
+    - time
+    - time dilation
+    - spacetime
+    reasoning: time (the fourth dimension, which dilates with velocity and gravity) = Time
+  - number: 3
+    initials: C
+    clue: Something going in circles. A storm but circular. Very organised for a storm actually. Bit impressive.
+    answer: Cyclone
+    aliases:
+    - cyclone
+    - cyclones
+    - hurricane
+    reasoning: cyclone (a large rotating storm system) = Cyclone

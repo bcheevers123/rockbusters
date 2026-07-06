@@ -5,37 +5,36 @@
   difficulty: hard
   office_safe: true
   region_relevance:
-    - Global
-  intro: "Right, Condimentbusters. All sauces and condiments from around the world hiding in phonetic clues. Say them out loud. The answer's somewhere in the sounds. It's all about what they sound like, not how they're spelled."
-  prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
+  - Global
+  intro: Right, Condimentbusters. All sauces and condiments from around the world hiding in phonetic clues. Say them out loud. The answer's somewhere in the sounds. It's all about what they sound like, not how they're spelled.
+  prize: Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station.
   clues:
-    - number: 1
-      initials: W
-      clue: "A bloke from a county in England has gone to see someone called Chester but he's got a bad knee and he's got to go through a place that sounds like it belongs to a sock. It's a lot of effort for a sauce."
-      answer: Worcestershire
-      aliases:
-        - worcestershire
-        - worcestershire sauce
-        - worcester sauce
-      reasoning: "woos (sounds like 'wuss', a bit soft) + ter (sounds like 'ta', thanks) + shire (a county in England, like Yorkshire) = Woos-ter-shire = Worcestershire"
-    - number: 2
-      initials: H
-      clue: "A woman in Holland has landed somewhere. Just arrived. Made herself at home. Brought eggs and butter. Nobody asked her to land but she seems very confident about it."
-      answer: Hollandaise
-      aliases:
-        - hollandaise
-        - hollandaise sauce
-      reasoning: "Holland (the country, flat, tulips) + daise (sounds like 'days', or 'daze', confused) = Holland-daise = Hollandaise"
-    - number: 3
-      initials: B
-      clue: "A French bloke called Bernie has gone and shaved something. Very precisely. Took ages. The end result is a white sauce and everyone's acting like it's completely normal."
-      answer: Bechamel
-      aliases:
-        - bechamel
-        - bechamel sauce
-        - béchamel
-      reasoning: "besh (sounds like 'besh', a French-ish sound) + a (the article) + mel (sounds like 'mel', a name, or honey in Latin) = Besh-a-mel = Bechamel"
-
+  - number: 1
+    initials: W
+    clue: A bloke from a county in England has gone to see someone called Chester but he's got a bad knee and he's got to go through a place that sounds like it belongs to a sock. It's a lot of effort for a sauce.
+    answer: Worcestershire
+    aliases:
+    - worcestershire
+    - worcestershire sauce
+    - worcester sauce
+    reasoning: woos (sounds like 'wuss', a bit soft) + ter (sounds like 'ta', thanks) + shire (a county in England, like Yorkshire) = Woos-ter-shire = Worcestershire
+  - number: 2
+    initials: H
+    clue: A woman in Holland has landed somewhere. Just arrived. Made herself at home. Brought eggs and butter. Nobody asked her to land but she seems very confident about it.
+    answer: Hollandaise
+    aliases:
+    - hollandaise
+    - hollandaise sauce
+    reasoning: Holland (the country, flat, tulips) + daise (sounds like 'days', or 'daze', confused) = Holland-daise = Hollandaise
+  - number: 3
+    initials: B
+    clue: A French bloke called Bernie has gone and shaved something. Very precisely. Took ages. The end result is a white sauce and everyone's acting like it's completely normal.
+    answer: Bechamel
+    aliases:
+    - bechamel
+    - bechamel sauce
+    - béchamel
+    reasoning: besh (sounds like 'besh', a French-ish sound) + a (the article) + mel (sounds like 'mel', a name, or honey in Latin) = Besh-a-mel = Bechamel
 - id: condimentbusters-002
   enabled: true
   title: Condimentbusters
@@ -43,33 +42,32 @@
   difficulty: hard
   office_safe: true
   region_relevance:
-    - Global
-  intro: "Condimentbusters two. More sauces and condiments. Say each clue out loud. The sounds will get you there eventually. Probably."
-  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists."
+  - Global
+  intro: Condimentbusters two. More sauces and condiments. Say each clue out loud. The sounds will get you there eventually. Probably.
+  prize: Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists.
   clues:
-    - number: 1
-      initials: G
-      clue: "A Korean bloke has found a large jug and decided to put chilli and fermented things in it. He's very pleased with himself. The jug is a bit sticky now."
-      answer: Gochujang
-      aliases:
-        - gochujang
-      reasoning: "go (to go, to move off) + chu (sounds like 'choo', as in a train sound) + jang (sounds like 'jang', a twanging noise) = Go-chu-jang = Gochujang"
-    - number: 2
-      initials: C
-      clue: "In Argentina, someone has built a small chimney out of herbs and garlic. It's not drawing very well. Someone's going around with a jar of it offering it to people at a barbecue."
-      answer: Chimichurri
-      aliases:
-        - chimichurri
-      reasoning: "chimi (sounds like 'chimney', or 'chim-i') + churri (sounds like 'churry', to churn or hurry) = Chimi-churri = Chimichurri"
-    - number: 3
-      initials: R
-      clue: "Someone from Rome has gone to a place in Spain and come back with a sauce made of peppers and nuts. Very round trip. Quite saucy."
-      answer: Romesco
-      aliases:
-        - romesco
-        - romesco sauce
-      reasoning: "Rome (the Italian city) + esco (sounds like 'Esco', or 'esco', to exit in Italian) = Rome-sco = Romesco"
-
+  - number: 1
+    initials: G
+    clue: A Korean bloke has found a large jug and decided to put chilli and fermented things in it. He's very pleased with himself. The jug is a bit sticky now.
+    answer: Gochujang
+    aliases:
+    - gochujang
+    reasoning: go (to go, to move off) + chu (sounds like 'choo', as in a train sound) + jang (sounds like 'jang', a twanging noise) = Go-chu-jang = Gochujang
+  - number: 2
+    initials: C
+    clue: In Argentina, someone has built a small chimney out of herbs and garlic. It's not drawing very well. Someone's going around with a jar of it offering it to people at a barbecue.
+    answer: Chimichurri
+    aliases:
+    - chimichurri
+    reasoning: chimi (sounds like 'chimney', or 'chim-i') + churri (sounds like 'churry', to churn or hurry) = Chimi-churri = Chimichurri
+  - number: 3
+    initials: R
+    clue: Someone from Rome has gone to a place in Spain and come back with a sauce made of peppers and nuts. Very round trip. Quite saucy.
+    answer: Romesco
+    aliases:
+    - romesco
+    - romesco sauce
+    reasoning: Rome (the Italian city) + esco (sounds like 'Esco', or 'esco', to exit in Italian) = Rome-sco = Romesco
 - id: condimentbusters-003
   enabled: true
   title: Condimentbusters
@@ -77,30 +75,30 @@
   difficulty: hard
   office_safe: true
   region_relevance:
-    - Global
-  intro: "Three in. Condimentbusters three. Last set. All condiments and sauces. Say these out loud and the answers'll come to you. Hopefully before you give up."
-  prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
+  - Global
+  intro: Condimentbusters. All condiments and sauces. Say these out loud and the answers'll come to you. Hopefully before you give up.
+  prize: Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette.
   clues:
-    - number: 1
-      initials: T
-      clue: "A Greek woman has a jar of yoghurt and a cucumber and she's getting properly stuck in. There's a goat nearby just watching. The goat seems fine with the whole situation."
-      answer: Tzatziki
-      aliases:
-        - tzatziki
-      reasoning: "tza (sounds like 'za', as in pizza) + tzi (sounds like 'tsi', a clicking sound) + ki (sounds like 'key', or just 'ki') = Tza-tzi-ki = Tzatziki"
-    - number: 2
-      initials: A
-      clue: "A bloke in Provence has seen something and gone, right, I'll have some of that. He's saying it in a very French way. There's garlic and oil involved. He's very confident about the garlic."
-      answer: Aioli
-      aliases:
-        - aioli
-        - aïoli
-      reasoning: "ai (sounds like 'eye', to see something) + oli (sounds like 'ollie', a name, or 'oily') = Ai-oli = Aioli"
-    - number: 3
-      initials: H
-      clue: "Someone in North Africa has been having a right row. Properly going for it. Very fiery about the whole thing. They've put the row into a jar and labelled it. It's quite red."
-      answer: Harissa
-      aliases:
-        - harissa
-        - harissa paste
-      reasoning: "har (sounds like 'har', a laugh or a harsh sound) + issa (sounds like 'issa', it is a, or 'Issa', a name) = Har-issa = Harissa"
+  - number: 1
+    initials: T
+    clue: A Greek woman has a jar of yoghurt and a cucumber and she's getting properly stuck in. There's a goat nearby just watching. The goat seems fine with the whole situation.
+    answer: Tzatziki
+    aliases:
+    - tzatziki
+    reasoning: tza (sounds like 'za', as in pizza) + tzi (sounds like 'tsi', a clicking sound) + ki (sounds like 'key', or just 'ki') = Tza-tzi-ki = Tzatziki
+  - number: 2
+    initials: A
+    clue: A bloke in Provence has seen something and gone, right, I'll have some of that. He's saying it in a very French way. There's garlic and oil involved. He's very confident about the garlic.
+    answer: Aioli
+    aliases:
+    - aioli
+    - aïoli
+    reasoning: ai (sounds like 'eye', to see something) + oli (sounds like 'ollie', a name, or 'oily') = Ai-oli = Aioli
+  - number: 3
+    initials: H
+    clue: Someone in North Africa has been having a right row. Properly going for it. Very fiery about the whole thing. They've put the row into a jar and labelled it. It's quite red.
+    answer: Harissa
+    aliases:
+    - harissa
+    - harissa paste
+    reasoning: har (sounds like 'har', a laugh or a harsh sound) + issa (sounds like 'issa', it is a, or 'Issa', a name) = Har-issa = Harissa
