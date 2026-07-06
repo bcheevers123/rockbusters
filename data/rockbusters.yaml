@@ -39508,7 +39508,7 @@
     - jobs
     reasoning: Steve (the name) + jobs (multiple occupations/roles) = Steve Jobs
 - id: businessbusters-003
-  enabled: true
+  enabled: false
   title: Businessbusters
   topic: famous entrepreneurs, business moguls, and company founders
   difficulty: medium
@@ -39544,7 +39544,7 @@
     - dyson
     reasoning: James (the name) + dye (to colour something) + son (a male child) = James Dye-son = James Dyson
 - id: businessbusters-004
-  enabled: true
+  enabled: false
   title: Businessbusters
   topic: famous entrepreneurs, business moguls, and company founders
   difficulty: medium
@@ -39580,7 +39580,7 @@
     - jones
     reasoning: peat (boggy wet ground, peat bog) + er (the sound) + Jones (a surname) = Peat-er Jones = Peter Jones
 - id: businessbusters-005
-  enabled: true
+  enabled: false
   title: Businessbusters
   topic: famous entrepreneurs, business moguls, and company founders
   difficulty: medium
@@ -39617,7 +39617,7 @@
     - ashley
     reasoning: mike (a microphone) + ash (burnt residue, ash) + lee (a meadow, a field - as in 'ley' meaning open land) = Mike Ash-lee = Mike Ashley
 - id: businessbusters-006
-  enabled: true
+  enabled: false
   title: Businessbusters
   topic: famous entrepreneurs, business moguls, and company founders
   difficulty: medium
@@ -39653,7 +39653,7 @@
     - kroc
     reasoning: ray (a beam of light, a sunray) + croc (a crocodile, informal) = Ray Croc = Ray Kroc
 - id: businessbusters-007
-  enabled: true
+  enabled: false
   title: Businessbusters
   topic: famous entrepreneurs, business moguls, and company founders
   difficulty: medium
@@ -39689,7 +39689,7 @@
     - sanders
     reasoning: kernel (the core or centre piece inside something) + sand (beach material) + ers (the sound) = Ker-nel Sand-ers = Colonel Sanders. Kernel sounds like Colonel.
 - id: businessbusters-008
-  enabled: true
+  enabled: false
   title: Businessbusters
   topic: famous entrepreneurs, business moguls, and company founders
   difficulty: medium
@@ -39833,7 +39833,7 @@
     - jobs
     reasoning: Steve (a man's name) + jobs (multiple occupations, different lines of work) = Steve Jobs
 - id: businessbusters-012
-  enabled: true
+  enabled: false
   title: Businessbusters
   topic: famous entrepreneurs, business moguls, and company founders
   difficulty: medium
@@ -39869,7 +39869,7 @@
     - jones
     reasoning: peat (boggy wet ground, a peat bog) + er (sound at the end) + Jones (a Welsh-sounding surname) = Peat-er Jones = Peter Jones
 - id: businessbusters-013
-  enabled: true
+  enabled: false
   title: Businessbusters
   topic: famous entrepreneurs, business moguls, and company founders
   difficulty: medium
@@ -39906,7 +39906,7 @@
     - ashley
     reasoning: mike (a microphone, or the name Mike) + ash (bonfire ash, the grey residue) + lee (a sheltered clearing or meadow) = Mike Ash-lee = Mike Ashley
 - id: businessbusters-014
-  enabled: true
+  enabled: false
   title: Businessbusters
   topic: famous entrepreneurs, business moguls, and company founders
   difficulty: medium
@@ -39942,7 +39942,7 @@
     - disney
     reasoning: wall (a partition) + t (just the sound) + dis (to disrespect, to have a go at) + knee (the kneecap, part of the leg) = Wall-t Dis-knee = Walt Disney
 - id: businessbusters-015
-  enabled: true
+  enabled: false
   title: Businessbusters
   topic: famous entrepreneurs, business moguls, and company founders
   difficulty: medium
@@ -39978,7 +39978,7 @@
     - paphitis
     reasoning: thee (archaic/religious word for you, used by very pious people) + o (the sound) + paff (puffed up, soft and shapeless) + it + is = Thee-o Paff-it-is = Theo Paphitis
 - id: businessbusters-016
-  enabled: true
+  enabled: false
   title: Businessbusters
   topic: famous entrepreneurs, business moguls, and company founders
   difficulty: medium
@@ -40014,7 +40014,7 @@
     - suleyman
     reasoning: too (two) + ker (car, informal British slang for vehicle) + sue (to take legal action, to take to court) + lay (lying down flat) + man (a person) = Too-ker Sue-lay-man = Touker Suleyman
 - id: businessbusters-017
-  enabled: true
+  enabled: false
   title: Businessbusters
   topic: famous entrepreneurs, business moguls, and company founders
   difficulty: medium
@@ -40050,7 +40050,7 @@
     - murdoch
     reasoning: roo (kangaroo, informal) + pert (cheeky, impertinent) + mur (a low sound) + dock (a harbour dock) = Roo-pert Mur-dock = Rupert Murdoch
 - id: businessbusters-018
-  enabled: true
+  enabled: false
   title: Businessbusters
   topic: famous entrepreneurs, business moguls, and company founders
   difficulty: medium
@@ -40086,7 +40086,7 @@
     - winfrey
     reasoning: oh (a surprised noise) + pra (sounds like the start of prayer) + win (to win) + free (to leave without paying, freely) = Oh-pra Win-free = Oprah Winfrey
 - id: businessbusters-019
-  enabled: true
+  enabled: false
   title: Businessbusters
   topic: famous entrepreneurs, business moguls, and company founders
   difficulty: medium
@@ -40122,7 +40122,7 @@
     - jones
     reasoning: peat (boggy wet ground, the dark wet stuff in bogs) + er (the sound) + Jones (a surname, common Welsh one) = Peat-er Jones = Peter Jones
 - id: businessbusters-020
-  enabled: true
+  enabled: false
   title: Businessbusters
   topic: famous entrepreneurs, business moguls, and company founders
   difficulty: medium
