@@ -1091,6 +1091,22 @@ async function loadQuiz() {
       }
     }
 
+    // Date-specific hardcoded overrides — used when server override can't be relied upon.
+    // Format: 'YYYY-MM-DD': 'set-id'
+    const DATE_OVERRIDES = {
+      '2026-07-06': 'superherobusters-003',
+    };
+    const todayStr = today.toISOString().slice(0, 10);
+    if (!todaySet && devGetOffset() === 0 && DATE_OVERRIDES[todayStr]) {
+      const enabledSets = allSets.filter(s => s.enabled !== false);
+      const overrideSet = enabledSets.find(s => s.id === DATE_OVERRIDES[todayStr]);
+      if (overrideSet) {
+        todaySet = overrideSet;
+        const answerSet = allAnswers.find(a => a.id === todaySet.id);
+        answerClues = answerSet ? answerSet.clues : [];
+      }
+    }
+
     // Non-holiday: ask the server when no dev offset is active.
     // This respects daily_override (Set as Today). Falls back to local rotation
     // if the server is unreachable or no API URL is configured.
