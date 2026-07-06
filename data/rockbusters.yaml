@@ -34088,7 +34088,7 @@
     - m and s
     reasoning: 'marks (scribbles, marks on a wall) + and + Spencer (a bloke''s name) = Marks and Spencer. Say it: marks-and-Spencer.'
 - id: fashionbusters-003
-  enabled: true
+  enabled: false
   title: Fashionbusters
   topic: Fashion brands, designers, and clothing
   difficulty: medium
@@ -34121,7 +34121,7 @@
     - gucci
     reasoning: 'goo (sticky, messy substance) + chee (sounds like the end of ''cheese'') = Gucci. Say it: goo-chee = Gucci.'
 - id: fashionbusters-004
-  enabled: true
+  enabled: false
   title: Fashionbusters
   topic: Fashion brands, designers, and clothing
   difficulty: medium
@@ -34154,7 +34154,7 @@
     - prada
     reasoning: 'pray (to say prayers) + da (dad, informal) = Prada. Say it: pray-da = Prada.'
 - id: fashionbusters-005
-  enabled: true
+  enabled: false
   title: Fashionbusters
   topic: Fashion brands, designers, and clothing
   difficulty: medium
@@ -34187,7 +34187,7 @@
     - jimmy choo
     reasoning: 'jimmy (to jimmy open, to pry/force a lock) + choo (sounds like chew, to chew something) = Jimmy Choo. Say it: jimmy-choo.'
 - id: fashionbusters-006
-  enabled: true
+  enabled: false
   title: Fashionbusters
   topic: Fashion brands, designers, and clothing
   difficulty: medium
@@ -34220,7 +34220,7 @@
     - louis vuitton
     reasoning: 'Louie (a name, Louis) + wee (a small amount, or to wee) + ton (a unit of weight, very heavy) = Louis Vuitton. Say it: Louie-wee-ton = Louis Vuitton.'
 - id: fashionbusters-007
-  enabled: true
+  enabled: false
   title: Fashionbusters
   topic: Fashion brands, designers, and clothing
   difficulty: medium
@@ -34255,7 +34255,7 @@
     - harvey nics
     reasoning: 'Harvey (a name) + Nichols (a surname, sounds like Nicholas) = Harvey Nichols. Say it: Harvey-Nichols.'
 - id: fashionbusters-008
-  enabled: true
+  enabled: false
   title: Fashionbusters
   topic: Fashion brands, designers, and clothing
   difficulty: medium
@@ -34289,7 +34289,7 @@
     - off white
     reasoning: 'off (slightly wrong, gone bad) + white (the colour) = Off-White. Say it: off-white.'
 - id: fashionbusters-009
-  enabled: true
+  enabled: false
   title: Fashionbusters
   topic: Fashion brands, designers, and clothing
   difficulty: medium
@@ -34323,7 +34323,7 @@
     - primark
     reasoning: 'pry (to force open, to lever) + Mark (a man''s name) = Primark. Say it: pry-mark = Primark.'
 - id: fashionbusters-010
-  enabled: true
+  enabled: false
   title: Fashionbusters
   topic: Fashion brands, designers, and clothing
   difficulty: medium
@@ -34356,7 +34356,7 @@
     - next
     reasoning: 'necks (the part of the body, plural, giraffes have long necks) sounds like Next. Say it: necks = Next.'
 - id: fashionbusters-011
-  enabled: true
+  enabled: false
   title: Fashionbusters
   topic: Fashion brands, designers, and clothing
   difficulty: medium
@@ -34390,7 +34390,7 @@
     - car hart
     reasoning: 'car (a vehicle) + heart (devotion, love for something) = Carhartt. Say it: car-heart = Carhartt.'
 - id: fashionbusters-012
-  enabled: true
+  enabled: false
   title: Fashionbusters
   topic: Fashion brands, designers, and clothing
   difficulty: medium
@@ -34423,7 +34423,7 @@
     - alexander mcqueen
     reasoning: Alex + and + her (= Alexander) + Mac (laptop brand, informal) + queen (royalty, on the throne) = Alexander McQueen.
 - id: fashionbusters-013
-  enabled: true
+  enabled: false
   title: Fashionbusters
   topic: Fashion brands, designers, and clothing
   difficulty: medium
@@ -34457,7 +34457,7 @@
     - hermès
     reasoning: 'her (belonging to her, feminine pronoun possessive) + mess (disorder, chaos, a terrible state) = Hermès. Say it: her-mess = Hermès.'
 - id: fashionbusters-014
-  enabled: true
+  enabled: false
   title: Fashionbusters
   topic: Fashion brands, designers, and clothing
   difficulty: medium
@@ -34490,7 +34490,7 @@
     - chanel
     reasoning: 'shan''t (I shan''t, I will not, a refusal) sounds like ''sha'' + Nell (a woman''s name) = Chanel. Say it: sha-nell = Chanel.'
 - id: fashionbusters-015
-  enabled: true
+  enabled: false
   title: Fashionbusters
   topic: Fashion brands, designers, and clothing
   difficulty: medium
@@ -34524,7 +34524,7 @@
     - off white
     reasoning: 'off (not quite right, slightly gone) + white (the colour) = Off-White. Say it: off-white.'
 - id: fashionbusters-016
-  enabled: true
+  enabled: false
   title: Fashionbusters
   topic: Fashion brands, designers, and clothing
   difficulty: medium
@@ -34560,7 +34560,7 @@
     - top shop
     reasoning: top (highest, the best, at the pinnacle) + shop (a retail establishment) = Topshop.
 - id: fashionbusters-017
-  enabled: true
+  enabled: false
   title: Fashionbusters
   topic: Fashion brands, designers, and clothing
   difficulty: medium
@@ -34594,7 +34594,7 @@
     - new look
     reasoning: new (changed, different, fresh) + look (appearance, aesthetic) = New Look.
 - id: fashionbusters-018
-  enabled: true
+  enabled: false
   title: Fashionbusters
   topic: Fashion brands, designers, and clothing
   difficulty: medium
@@ -34628,7 +34628,7 @@
     - car hart
     reasoning: 'car (a vehicle) + heart (the cardiac organ, or emotion) = Carhartt. Say it: car-heart = Carhartt. Note: alternate set uses this differently, car + heart both work.'
 - id: fashionbusters-019
-  enabled: true
+  enabled: false
   title: Fashionbusters
   topic: Fashion brands, designers, and clothing
   difficulty: medium
