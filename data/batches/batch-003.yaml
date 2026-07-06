@@ -32,7 +32,7 @@
     - rocky
     reasoning: rocky (covered in stones) = Rocky
 - id: filmbusters-002
-  enabled: true
+  enabled: false
   title: Filmbusters
   topic: classic films from the 1970s through 1990s
   difficulty: medium
@@ -232,7 +232,7 @@
     - grease
     reasoning: grease (the cooking fat) sounds like Greece (the country) = Grease
 - id: filmbusters-008
-  enabled: true
+  enabled: false
   title: Filmbusters
   topic: classic films from the 1970s through 1990s
   difficulty: medium
@@ -430,7 +430,7 @@
     - toy story
     reasoning: toy (plaything) + storey (floor of a building) = Toy Story
 - id: filmbusters-014
-  enabled: true
+  enabled: false
   title: Filmbusters
   topic: classic films from the 1970s through 1990s
   difficulty: medium

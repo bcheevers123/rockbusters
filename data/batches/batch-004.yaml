@@ -99,7 +99,7 @@
     - the joker
     reasoning: joker (clown, laughing, doesn't mean it) = Joker
 - id: filmbusters-024
-  enabled: true
+  enabled: false
   title: Filmbusters
   topic: modern films from 2000 onwards
   difficulty: medium
@@ -132,7 +132,7 @@
     - black panther
     reasoning: black (colour) + panther (big cat) = Black Panther
 - id: filmbusters-025
-  enabled: true
+  enabled: false
   title: Filmbusters
   topic: modern films from 2000 onwards
   difficulty: medium
@@ -198,7 +198,7 @@
     - wonka
     reasoning: Wonka (won + ka) = Wonka. Won something, then said 'ka' like you do. Near enough.
 - id: filmbusters-027
-  enabled: true
+  enabled: false
   title: Filmbusters
   topic: modern films from 2000 onwards
   difficulty: medium
@@ -231,7 +231,7 @@
     - bohemian rhapsody
     reasoning: bohemian (arty, free-spirited) + rhapsody (big musical thing) = Bohemian Rhapsody
 - id: filmbusters-028
-  enabled: true
+  enabled: false
   title: Filmbusters
   topic: modern films from 2000 onwards
   difficulty: medium
@@ -265,7 +265,7 @@
     - mama mia
     reasoning: mamma (mum) + mia (a name, sounds like 'me-a') = Mamma Mia. Also an ABBA song, sort of gives it away.
 - id: filmbusters-029
-  enabled: true
+  enabled: false
   title: Filmbusters
   topic: modern films from 2000 onwards
   difficulty: medium
@@ -365,7 +365,7 @@
     - coco
     reasoning: Coco (the boy's name in the film, also sounds like cocoa) = Coco. The Pixar one with the guitars.
 - id: filmbusters-032
-  enabled: true
+  enabled: false
   title: Filmbusters
   topic: modern films from 2000 onwards
   difficulty: medium
@@ -398,7 +398,7 @@
     - saltburn
     reasoning: salt + burn = Saltburn. Salt is seasoning, burn is scorching. Together they make a place name and a film.
 - id: filmbusters-033
-  enabled: true
+  enabled: false
   title: Filmbusters
   topic: modern films from 2000 onwards
   difficulty: medium
@@ -498,7 +498,7 @@
     - the joker
     reasoning: joker (the card, the clown, the laughing one) = Joker. Laugh in the dark, that's the film.
 - id: filmbusters-036
-  enabled: true
+  enabled: false
   title: Filmbusters
   topic: modern films from 2000 onwards
   difficulty: medium
@@ -566,7 +566,7 @@
     - mama mia
     reasoning: mamma (mother) + mia (sounds like me-ah, also an Italian exclamation) = Mamma Mia
 - id: filmbusters-038
-  enabled: true
+  enabled: false
   title: Filmbusters
   topic: modern films from 2000 onwards
   difficulty: medium
@@ -599,7 +599,7 @@
     - finding nemo
     reasoning: finding (searching for something lost) + Nemo (the name of the missing fish) = Finding Nemo
 - id: filmbusters-039
-  enabled: true
+  enabled: false
   title: Filmbusters
   topic: modern films from 2000 onwards
   difficulty: medium

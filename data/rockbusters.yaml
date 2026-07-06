@@ -4838,7 +4838,7 @@
     - mixtures
     reasoning: mix (combining two things) + ture = Mixture
 - id: filmbusters-002
-  enabled: true
+  enabled: false
   title: Filmbusters
   topic: classic films from the 1970s through 1990s
   difficulty: medium
@@ -24928,7 +24928,7 @@
     - home alone
     reasoning: home (back to your house) + a loan (something lent, now they're gone) = Home Alone
 - id: filmbusters-008
-  enabled: true
+  enabled: false
   title: Filmbusters
   topic: classic films from the 1970s through 1990s
   difficulty: medium
@@ -25060,7 +25060,7 @@
     - toy story
     reasoning: toy (plaything) + storey (floor of a building) = Toy Story
 - id: filmbusters-014
-  enabled: true
+  enabled: false
   title: Filmbusters
   topic: classic films from the 1970s through 1990s
   difficulty: medium
@@ -25292,7 +25292,7 @@
     - the joker
     reasoning: joker (clown, laughing, doesn't mean it) = Joker
 - id: filmbusters-024
-  enabled: true
+  enabled: false
   title: Filmbusters
   topic: modern films from 2000 onwards
   difficulty: medium
@@ -25325,7 +25325,7 @@
     - black panther
     reasoning: black (colour) + panther (big cat) = Black Panther
 - id: filmbusters-025
-  enabled: true
+  enabled: false
   title: Filmbusters
   topic: modern films from 2000 onwards
   difficulty: medium
@@ -25391,7 +25391,7 @@
     - wonka
     reasoning: Wonka (won + ka) = Wonka. Won something, then said 'ka' like you do. Near enough.
 - id: filmbusters-027
-  enabled: true
+  enabled: false
   title: Filmbusters
   topic: modern films from 2000 onwards
   difficulty: medium
@@ -25424,7 +25424,7 @@
     - bohemian rhapsody
     reasoning: bohemian (arty, free-spirited) + rhapsody (big musical thing) = Bohemian Rhapsody
 - id: filmbusters-028
-  enabled: true
+  enabled: false
   title: Filmbusters
   topic: modern films from 2000 onwards
   difficulty: medium
@@ -25458,7 +25458,7 @@
     - mama mia
     reasoning: mamma (mum) + mia (a name, sounds like 'me-a') = Mamma Mia. Also an ABBA song, sort of gives it away.
 - id: filmbusters-029
-  enabled: true
+  enabled: false
   title: Filmbusters
   topic: modern films from 2000 onwards
   difficulty: medium
@@ -25558,7 +25558,7 @@
     - coco
     reasoning: Coco (the boy's name in the film, also sounds like cocoa) = Coco. The Pixar one with the guitars.
 - id: filmbusters-032
-  enabled: true
+  enabled: false
   title: Filmbusters
   topic: modern films from 2000 onwards
   difficulty: medium
@@ -25591,7 +25591,7 @@
     - saltburn
     reasoning: salt + burn = Saltburn. Salt is seasoning, burn is scorching. Together they make a place name and a film.
 - id: filmbusters-033
-  enabled: true
+  enabled: false
   title: Filmbusters
   topic: modern films from 2000 onwards
   difficulty: medium
@@ -25691,7 +25691,7 @@
     - the joker
     reasoning: joker (the card, the clown, the laughing one) = Joker. Laugh in the dark, that's the film.
 - id: filmbusters-036
-  enabled: true
+  enabled: false
   title: Filmbusters
   topic: modern films from 2000 onwards
   difficulty: medium
@@ -25759,7 +25759,7 @@
     - mama mia
     reasoning: mamma (mother) + mia (sounds like me-ah, also an Italian exclamation) = Mamma Mia
 - id: filmbusters-038
-  enabled: true
+  enabled: false
   title: Filmbusters
   topic: modern films from 2000 onwards
   difficulty: medium
@@ -25792,7 +25792,7 @@
     - finding nemo
     reasoning: finding (searching for something lost) + Nemo (the name of the missing fish) = Finding Nemo
 - id: filmbusters-039
-  enabled: true
+  enabled: false
   title: Filmbusters
   topic: modern films from 2000 onwards
   difficulty: medium
@@ -30770,7 +30770,7 @@
     - profiteroles
     reasoning: profiteroles (choux pastry balls, cream filled, chocolate topped, stacked at weddings) = Profiteroles
 - id: filmbusters-041
-  enabled: true
+  enabled: false
   title: Filmbusters
   topic: British comedy films and cult classics
   difficulty: medium
@@ -30804,7 +30804,7 @@
     - the world's end
     reasoning: The World's End (the whole world has ended, gone to sleep) = The Worlds End
 - id: filmbusters-042
-  enabled: true
+  enabled: false
   title: Filmbusters
   topic: British comedy films and cult classics
   difficulty: medium
@@ -30838,7 +30838,7 @@
     - withnail and i
     reasoning: With + Nail (wiry shrub, nail) + and I (that's me) = Withnail and I
 - id: filmbusters-043
-  enabled: true
+  enabled: false
   title: Filmbusters
   topic: British comedy films and cult classics
   difficulty: medium
@@ -30871,7 +30871,7 @@
     - about a boy
     reasoning: About (in the region of, sort of) + a + Boy (child) = About a Boy
 - id: filmbusters-044
-  enabled: true
+  enabled: false
   title: Filmbusters
   topic: British comedy films and cult classics
   difficulty: medium
@@ -30905,7 +30905,7 @@
     - bend it like beckham
     reasoning: Bend It (bending the ball) + Like + Beckham (famous footballer) = Bend It Like Beckham
 - id: filmbusters-045
-  enabled: true
+  enabled: false
   title: Filmbusters
   topic: British comedy films and cult classics
   difficulty: medium
@@ -30938,7 +30938,7 @@
     - brassed off
     reasoning: Brassed (brass, load of it) + Off (gone quiet, been told off) = Brassed Off
 - id: filmbusters-046
-  enabled: true
+  enabled: false
   title: Filmbusters
   topic: British comedy films and cult classics
   difficulty: medium
@@ -31004,7 +31004,7 @@
     - hot fuzz
     reasoning: Hot (heating cranked up) + Fuzz (soft wispy stuff floating) = Hot Fuzz
 - id: filmbusters-048
-  enabled: true
+  enabled: false
   title: Filmbusters
   topic: British comedy films and cult classics
   difficulty: medium
@@ -31038,7 +31038,7 @@
     - the world's end
     reasoning: The World's End (everything stopped, final pint, no more) = The Worlds End
 - id: filmbusters-049
-  enabled: true
+  enabled: false
   title: Filmbusters
   topic: British comedy films and cult classics
   difficulty: medium
@@ -31072,7 +31072,7 @@
     - bridget jones diary
     reasoning: Bridge (walkway over water) + t (phonetic link) + Jones (fella called Jones) + Diary (journal) = Bridget Jones's Diary
 - id: filmbusters-050
-  enabled: true
+  enabled: false
   title: Filmbusters
   topic: British comedy films and cult classics
   difficulty: medium
@@ -31105,7 +31105,7 @@
     - bend it like beckham
     reasoning: Bend It (curving a football) + Like + Beckham (famous England player) = Bend It Like Beckham
 - id: filmbusters-051
-  enabled: true
+  enabled: false
   title: Filmbusters
   topic: British comedy films and cult classics
   difficulty: medium
@@ -31171,7 +31171,7 @@
     - hot fuzz
     reasoning: Hot (toasty, radiator) + Fuzz (linty stuff, fluff) = Hot Fuzz
 - id: filmbusters-053
-  enabled: true
+  enabled: false
   title: Filmbusters
   topic: British comedy films and cult classics
   difficulty: medium
@@ -31204,7 +31204,7 @@
     - love actually
     reasoning: Love (loads of it, everywhere) + Actually (actually, really, that's all) = Love Actually
 - id: filmbusters-054
-  enabled: true
+  enabled: false
   title: Filmbusters
   topic: British comedy films and cult classics
   difficulty: medium
@@ -31237,7 +31237,7 @@
     - east is east
     reasoning: East (where sun rises) + Is + East (it is exactly that, same word) = East Is East
 - id: filmbusters-055
-  enabled: true
+  enabled: false
   title: Filmbusters
   topic: British comedy films and cult classics
   difficulty: medium
@@ -31271,7 +31271,7 @@
     - hot fuzz
     reasoning: Hot (temperature cranked up) + Fuzz (fluffy stuff, also police slang) = Hot Fuzz
 - id: filmbusters-056
-  enabled: true
+  enabled: false
   title: Filmbusters
   topic: British comedy films and cult classics
   difficulty: medium
@@ -31304,7 +31304,7 @@
     - life of brian
     reasoning: Life (journey from start to finish) + of + Brian (fella called Brian) = Life of Brian
 - id: filmbusters-057
-  enabled: true
+  enabled: false
   title: Filmbusters
   topic: British comedy films and cult classics
   difficulty: medium
@@ -31337,7 +31337,7 @@
     - calendar girls
     reasoning: Calendar (year's worth of months, thing on the wall) + Girls (ladies) = Calendar Girls
 - id: filmbusters-058
-  enabled: true
+  enabled: false
   title: Filmbusters
   topic: British comedy films and cult classics
   difficulty: medium
@@ -31371,7 +31371,7 @@
     - bridget jones diary
     reasoning: Bridge (footbridge over canal) + t + Jones (man called Jones) + Diary (little book, writing everything down) = Bridget Jones's Diary
 - id: filmbusters-059
-  enabled: true
+  enabled: false
   title: Filmbusters
   topic: British comedy films and cult classics
   difficulty: medium
