@@ -829,6 +829,16 @@ body {
   color: #fff;
 }
 
+.dev-btn-action {
+  color: #f5a623;
+  border-color: #f5a623;
+}
+
+.dev-btn-action:hover {
+  background: #f5a623;
+  color: #1a1a2e;
+}
+
 .dev-set-info {
   flex: 1;
   font-size: 0.75rem;

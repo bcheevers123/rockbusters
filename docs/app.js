@@ -842,6 +842,29 @@ async function devRandom() {
   await loadQuiz();
 }
 
+async function devSetCurrentAsToday() {
+  if (!_setId) { window.alert('No set loaded.'); return; }
+  const secret = window.prompt('Dev passcode:');
+  if (!secret) return;
+  const apiUrl = getApiUrl();
+  if (!apiUrl) { window.alert('No API URL configured.'); return; }
+  try {
+    const res = await fetch(
+      `${apiUrl}/api/admin/set-today?set_id=${encodeURIComponent(_setId)}&secret=${encodeURIComponent(secret)}`,
+      { method: 'POST' }
+    );
+    const data = await res.json();
+    if (res.ok) {
+      devSetOffset(0);
+      await loadQuiz();
+    } else {
+      window.alert(`Error: ${data.detail || res.status}`);
+    }
+  } catch (e) {
+    window.alert(`Failed: ${e.message}`);
+  }
+}
+
 // ---------------------------------------------------------------------------
 // Quiz state — module-level, read by all handlers
 // ---------------------------------------------------------------------------
@@ -1202,6 +1225,8 @@ function wireQuizButtons() {
 
   if (devBrowseBtn)       devBrowseBtn.addEventListener('click', devBrowse);
   if (devRandomBtn)       devRandomBtn.addEventListener('click', devRandom);
+  const devSetTodayBtn = document.getElementById('dev-set-today-btn');
+  if (devSetTodayBtn)     devSetTodayBtn.addEventListener('click', devSetCurrentAsToday);
   if (devBrowseRandomBtn) devBrowseRandomBtn.addEventListener('click', browseSelectRandom);
   if (devBrowseCloseBtn)  devBrowseCloseBtn.addEventListener('click', browseClose);
   if (devBrowsePreviewBtn) devBrowsePreviewBtn.addEventListener('click', browsePreview);
