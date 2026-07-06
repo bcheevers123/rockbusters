@@ -617,35 +617,6 @@
     ]
   },
   {
-    "id": "mountainbusters-002",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Matterhorn",
-        "aliases": [
-          "matterhorn"
-        ],
-        "reasoning": "matter (something significant, it really does matter) + horn (a bugle or foghorn) = matter-horn = Matterhorn"
-      },
-      {
-        "number": 2,
-        "answer": "Annapurna",
-        "aliases": [
-          "annapurna"
-        ],
-        "reasoning": "Anna (a woman called Anna) + purr (the noise cats make when happy) + na (a filler sound, like 'nah') = Anna-purr-na = Annapurna"
-      },
-      {
-        "number": 3,
-        "answer": "Denali",
-        "aliases": [
-          "denali"
-        ],
-        "reasoning": "den (a room a fella lives in) + Ali (a name, or sounds like 'Lee' appended: den-ali) = den-ali = Denali"
-      }
-    ]
-  },
-  {
     "id": "bookbusters-018",
     "clues": [
       {
@@ -2677,24 +2648,27 @@
     "clues": [
       {
         "number": 1,
-        "answer": "Kilimanjaro",
+        "answer": "Everest",
         "aliases": [
+          "everest",
           "kilimanjaro"
         ],
         "reasoning": "kill (done away with) + him (a fella) + a (a) + jar (ceramic pot) + oh (there you go) = kill-him-a-jar-oh = Kilimanjaro"
       },
       {
         "number": 2,
-        "answer": "Mont Blanc",
+        "answer": "Kilimanjaro",
         "aliases": [
+          "kilimanjaro",
           "mont blanc"
         ],
         "reasoning": "mont (sounds like 'mons' or 'more') + blanc (sounds like 'blank' or 'blonk') - 'mon' (French for my) + 'blanc' (blank/white) - sounds like 'mohn blank' = Mont Blanc. Phonetically: a matter that's blank = Mont Blanc"
       },
       {
         "number": 3,
-        "answer": "Manaslu",
+        "answer": "Mont Blanc",
         "aliases": [
+          "mont blanc",
           "manaslu"
         ],
         "reasoning": "man (a bloke) + as (could've been) + loo (a toilet) = man-as-loo = Manaslu"
@@ -4733,35 +4707,6 @@
           "mona lisa"
         ],
         "reasoning": "moan (to complain repeatedly, moaning) + a (the sound) + leaser (a person who leases/rents property) = Mona-Lisa = Mona Lisa. Moan + a + lease-er."
-      }
-    ]
-  },
-  {
-    "id": "mountainbusters-003",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Lhotse",
-        "aliases": [
-          "lhotse"
-        ],
-        "reasoning": "lot (quite a lot of words) + say (to say them) = lot-say = Lhotse"
-      },
-      {
-        "number": 2,
-        "answer": "Cho Oyu",
-        "aliases": [
-          "cho oyu"
-        ],
-        "reasoning": "cho (sounds like 'chow', noodle dish) + oyu (sounds like 'oh you') = cho-oh-you = Cho Oyu"
-      },
-      {
-        "number": 3,
-        "answer": "Nanga Parbat",
-        "aliases": [
-          "nanga parbat"
-        ],
-        "reasoning": "nanga (sounds like 'nang-a', a nothing-word) + par (an equal score, like in golf) + bat (a cricket bat or similar) = nanga-par-bat = Nanga Parbat"
       }
     ]
   },

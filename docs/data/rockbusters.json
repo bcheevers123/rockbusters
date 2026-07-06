@@ -607,36 +607,6 @@
     ]
   },
   {
-    "id": "mountainbusters-002",
-    "enabled": true,
-    "title": "Mountainbusters",
-    "topic": "Mountains",
-    "difficulty": "hard",
-    "office_safe": true,
-    "region_relevance": [
-      "Global"
-    ],
-    "intro": "Mountainbusters two. Three more of the world's great mountains hidden in these phonetic clues. Have a go if you think you're clever enough.",
-    "prize": "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "M H",
-        "clue": "There's something quite significant going on with a bugle or a foghorn. It really does matter, whatever it is. Proper important."
-      },
-      {
-        "number": 2,
-        "initials": "A",
-        "clue": "A woman called Anna's making that noise cats make when they're happy. She just won't stop. Sat there purring away."
-      },
-      {
-        "number": 3,
-        "initials": "D",
-        "clue": "Right, Alaska's called something by locals and it means 'the tall one'. But there's a fella called Lee living in it somehow. Bit cramped."
-      }
-    ]
-  },
-  {
     "id": "bookbusters-018",
     "enabled": true,
     "title": "Bookbusters",
@@ -4731,36 +4701,6 @@
         "number": 3,
         "initials": "M L",
         "clue": "Right, this woman keeps moaning. And the bloke standing nearby - he rents out commercial properties. That's his job, renting."
-      }
-    ]
-  },
-  {
-    "id": "mountainbusters-003",
-    "enabled": true,
-    "title": "Mountainbusters",
-    "topic": "Mountains",
-    "difficulty": "hard",
-    "office_safe": true,
-    "region_relevance": [
-      "Global"
-    ],
-    "intro": "Three more in Mountainbusters. These are all real mountains, all hiding in the phonetic clues. If you've never heard of some of them, that's on you really.",
-    "prize": "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "L",
-        "clue": "Right, someone's been asked to say a lot of words and they've said quite a lot. Proper gabby. Went on and on."
-      },
-      {
-        "number": 2,
-        "initials": "C O",
-        "clue": "That Chinese noodle dish - the one that sounds like it rhymes with 'show' - well, someone's aimed it directly at you. Bit forward."
-      },
-      {
-        "number": 3,
-        "initials": "N P",
-        "clue": "Right, there's a bat - like a cricket bat or a table tennis one - and it's been given an equal score. Par. Sitting there at par with a bat."
       }
     ]
   },

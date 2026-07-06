@@ -949,7 +949,7 @@
     - last supper
     reasoning: the + last (final, the very last) + supper (an evening meal, like bread and wine) = The Last Supper.
 - id: mountainbusters-002
-  enabled: true
+  enabled: false
   title: Mountainbusters
   topic: Mountains
   difficulty: hard
@@ -3440,21 +3440,21 @@
   - number: 1
     initials: K
     clue: There's a fella who's done away with another fella using a ceramic pot. Not sure why he had it out for the pot, but there you go.
-    answer: Kilimanjaro
+    answer: Everest
     aliases:
     - kilimanjaro
     reasoning: kill (done away with) + him (a fella) + a (a) + jar (ceramic pot) + oh (there you go) = kill-him-a-jar-oh = Kilimanjaro
   - number: 2
     initials: M B
     clue: Right, it's very important that someone has a wash. The whole thing hinges on it. Can't stress it enough.
-    answer: Mont Blanc
+    answer: Kilimanjaro
     aliases:
     - mont blanc
     reasoning: 'mont (sounds like ''mons'' or ''more'') + blanc (sounds like ''blank'' or ''blonk'') - ''mon'' (French for my) + ''blanc'' (blank/white) - sounds like ''mohn blank'' = Mont Blanc. Phonetically: a matter that''s blank = Mont Blanc'
   - number: 3
     initials: M
     clue: That bloke could've been a toilet. Literally built for that purpose. But he wasn't. Still walks about though.
-    answer: Manaslu
+    answer: Mont Blanc
     aliases:
     - manaslu
     reasoning: man (a bloke) + as (could've been) + loo (a toilet) = man-as-loo = Manaslu
@@ -5915,7 +5915,7 @@
     - mona lisa
     reasoning: moan (to complain repeatedly, moaning) + a (the sound) + leaser (a person who leases/rents property) = Mona-Lisa = Mona Lisa. Moan + a + lease-er.
 - id: mountainbusters-003
-  enabled: true
+  enabled: false
   title: Mountainbusters
   topic: Mountains
   difficulty: hard
