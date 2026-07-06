@@ -1065,7 +1065,6 @@ async function loadQuiz() {
     // Apply or remove holiday theming
     applyHolidayTheme(holiday ? holiday.holiday : null);
 
-    // Fetch holiday sets if needed, else regular sets
     const fetchPaths = ['data/rockbusters.json', 'data/rockbusters-answers.json'];
     if (holiday) {
       fetchPaths.push('data/holiday-sets.json', 'data/holiday-answers.json');
@@ -1075,13 +1074,13 @@ async function loadQuiz() {
     if (!qRes.ok) throw new Error(`Quiz data HTTP ${qRes.status}`);
     if (!aRes.ok) throw new Error(`Answer data HTTP ${aRes.status}`);
 
-    const allAnswers = await aRes.json();
+    const [allSets, allAnswers] = await Promise.all([qRes.json(), aRes.json()]);
 
     let todaySet, answerClues;
 
+    // Holiday sets always use local rotation
     if (holiday && hqRes && hqRes.ok && haRes && haRes.ok) {
-      const holidaySets = await hqRes.json();
-      const holidayAnswers = await haRes.json();
+      const [holidaySets, holidayAnswers] = await Promise.all([hqRes.json(), haRes.json()]);
       const matchingSets = holidaySets.filter(s => s.id.startsWith(holiday.setPrefix));
       if (matchingSets.length > 0) {
         const idx = getTodaysIndex(matchingSets.length);
@@ -1091,9 +1090,31 @@ async function loadQuiz() {
       }
     }
 
-    // Fallback to regular rotation if no holiday set found
+    // Non-holiday: ask the server when no dev offset is active.
+    // This respects daily_override (Set as Today). Falls back to local rotation
+    // if the server is unreachable or no API URL is configured.
+    if (!todaySet && devGetOffset() === 0) {
+      const apiUrl = getApiUrl();
+      if (apiUrl) {
+        try {
+          const todayRes = await fetch(`${apiUrl}/api/today`);
+          if (todayRes.ok) {
+            const todayData = await todayRes.json();
+            const enabledSets = allSets.filter(s => s.enabled !== false);
+            todaySet = enabledSets.find(s => s.id === todayData.set_id);
+            if (todaySet) {
+              const answerSet = allAnswers.find(a => a.id === todaySet.id);
+              answerClues = answerSet ? answerSet.clues : [];
+            }
+          }
+        } catch (_) {
+          // server unreachable — fall through to local rotation
+        }
+      }
+    }
+
+    // Fallback: local rotation (dev offset active, or server unavailable)
     if (!todaySet) {
-      const allSets = await qRes.json();
       const enabledSets = allSets.filter(s => s.enabled !== false);
       if (enabledSets.length === 0) throw new Error('No enabled sets found.');
       const todayIndex = getTodaysIndex(enabledSets.length);
