@@ -31,7 +31,7 @@
     - arsenal
     reasoning: 'arse (back end) + en (sounds like in) + al (a name) = Arsenal. Or: ar-sen-al, the plot of land (allotment) hit by a cannon (arsenal)'
 - id: teambusters-002
-  enabled: true
+  enabled: false
   title: Teambusters
   topic: football clubs and sports teams
   difficulty: medium
@@ -63,7 +63,7 @@
     - brighton
     reasoning: bright (glowing) + on (in a place) = Brighton
 - id: teambusters-003
-  enabled: true
+  enabled: false
   title: Teambusters
   topic: football clubs and sports teams
   difficulty: medium
@@ -130,7 +130,7 @@
     - leicester
     reasoning: Lester (Leicester sounds like Lester) + City (a city) = Leicester City
 - id: teambusters-005
-  enabled: true
+  enabled: false
   title: Teambusters
   topic: football clubs and sports teams
   difficulty: medium
@@ -163,7 +163,7 @@
     - nottingham
     reasoning: Notting (knocking) + ham (pig meat) + Forest (forest, trees) = Nottingham Forest
 - id: teambusters-006
-  enabled: true
+  enabled: false
   title: Teambusters
   topic: football clubs and sports teams
   difficulty: medium
@@ -196,7 +196,7 @@
     - brentford
     reasoning: Brent (Brett-ish, Brent is a place) + ford (a crossing, shallow water) = Brentford
 - id: teambusters-007
-  enabled: true
+  enabled: false
   title: Teambusters
   topic: football clubs and sports teams
   difficulty: medium
@@ -230,7 +230,7 @@
     - middlesbrough fc
     reasoning: Middle (in the middle) + s (just an s) + brough (borough, a town) = Middlesbrough
 - id: teambusters-008
-  enabled: true
+  enabled: false
   title: Teambusters
   topic: football clubs and sports teams
   difficulty: medium
@@ -300,7 +300,7 @@
     - spurs
     reasoning: Tottenham (tot-en-ham, a kid who's had loads of ham) + Hot (heated) + spur (sharp thing in his foot) = Tottenham Hotspur
 - id: teambusters-010
-  enabled: true
+  enabled: false
   title: Teambusters
   topic: football clubs and sports teams
   difficulty: medium
@@ -332,7 +332,7 @@
     - nottingham forest
     reasoning: Knott (a hard knock) + ing (doing it) + ham (pig meat, a place) + Forest (the woods, deep in the trees) = Nottingham Forest
 - id: teambusters-011
-  enabled: true
+  enabled: false
   title: Teambusters
   topic: football clubs and sports teams
   difficulty: medium
@@ -365,7 +365,7 @@
     - leicester
     reasoning: Lester (Leicester, sounds like Lester) + City (a city, an urban area) = Leicester City
 - id: teambusters-012
-  enabled: true
+  enabled: false
   title: Teambusters
   topic: football clubs and sports teams
   difficulty: medium
@@ -398,7 +398,7 @@
     - brentford
     reasoning: Brent (a lad called Brent, a place name) + ford (a shallow river crossing) = Brentford
 - id: teambusters-013
-  enabled: true
+  enabled: false
   title: Teambusters
   topic: football clubs and sports teams
   difficulty: medium
@@ -431,7 +431,7 @@
     - burnley
     reasoning: Burn (on fire, burning) + ley (old English place name ending, a Lancashire town) = Burnley
 - id: teambusters-014
-  enabled: true
+  enabled: false
   title: Teambusters
   topic: football clubs and sports teams
   difficulty: medium
@@ -500,7 +500,7 @@
     - man city
     reasoning: Man (a big fella) + chest (broad chest) + er (him) + City (moved to the city) = Manchester City
 - id: teambusters-016
-  enabled: true
+  enabled: false
   title: Teambusters
   topic: football clubs and sports teams
   difficulty: medium
@@ -566,7 +566,7 @@
     - brighton
     reasoning: Bright (radiant, glowing) + on (at the coast, settled there) = Brighton
 - id: teambusters-018
-  enabled: true
+  enabled: false
   title: Teambusters
   topic: football clubs and sports teams
   difficulty: medium
@@ -599,7 +599,7 @@
     - leicester
     reasoning: Leicester (sounds like Lester, Les-ter) + City (an actual city, Les has moved up) = Leicester City
 - id: teambusters-019
-  enabled: true
+  enabled: false
   title: Teambusters
   topic: football clubs and sports teams
   difficulty: medium
@@ -632,7 +632,7 @@
     - middlesbrough
     reasoning: Middle (smack in the centre) + s + brough (a solid town, a borough) = Middlesbrough
 - id: teambusters-020
-  enabled: true
+  enabled: false
   title: Teambusters
   topic: football clubs and sports teams
   difficulty: medium

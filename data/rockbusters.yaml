@@ -2787,7 +2787,7 @@
     - emma thompson
     reasoning: Emma + Thompson (Tom's son) = Emma Thompson
 - id: teambusters-013
-  enabled: true
+  enabled: false
   title: Teambusters
   topic: football clubs and sports teams
   difficulty: medium
@@ -7654,7 +7654,7 @@
     - tony hopkins
     reasoning: ant + knee + hop + kins = Anthony Hopkins
 - id: teambusters-006
-  enabled: true
+  enabled: false
   title: Teambusters
   topic: football clubs and sports teams
   difficulty: medium
@@ -8797,7 +8797,7 @@
     - peter sellers
     reasoning: Peter + sellers (people who sell things) = Peter Sellers
 - id: teambusters-010
-  enabled: true
+  enabled: false
   title: Teambusters
   topic: football clubs and sports teams
   difficulty: medium
@@ -9931,7 +9931,7 @@
     - benedict cumberbatch
     reasoning: benny + dict (dictating) + cumber (cucumber) + batch (oven batch) = Benedict Cumberbatch
 - id: teambusters-002
-  enabled: true
+  enabled: false
   title: Teambusters
   topic: football clubs and sports teams
   difficulty: medium
@@ -12091,7 +12091,7 @@
     - roger moore
     reasoning: Roger + more (wants another) = Roger Moore
 - id: teambusters-016
-  enabled: true
+  enabled: false
   title: Teambusters
   topic: football clubs and sports teams
   difficulty: medium
@@ -13170,7 +13170,7 @@
     - roger moore
     reasoning: Roger + more (wants another) = Roger Moore
 - id: teambusters-020
-  enabled: true
+  enabled: false
   title: Teambusters
   topic: football clubs and sports teams
   difficulty: medium
@@ -14240,7 +14240,7 @@
     - sean connery
     reasoning: Sean + con + ery (like he's con-ering, still at it) = Sean Connery
 - id: teambusters-012
-  enabled: true
+  enabled: false
   title: Teambusters
   topic: football clubs and sports teams
   difficulty: medium
@@ -15249,7 +15249,7 @@
     - keira knightley
     reasoning: care-a + night + lee (grassy clearing) = Keira Knightley
 - id: teambusters-003
-  enabled: true
+  enabled: false
   title: Teambusters
   topic: football clubs and sports teams
   difficulty: medium
@@ -17123,7 +17123,7 @@
     - keira knightley
     reasoning: care-a (anxious about) + night + lea/lee (meadow) = Keira Knightley
 - id: teambusters-008
-  enabled: true
+  enabled: false
   title: Teambusters
   topic: football clubs and sports teams
   difficulty: medium
@@ -19003,7 +19003,7 @@
     - richard burton
     reasoning: 'rich (wealthy) + ard + bur + ton... or: Rich heard + Burton (byre + ton, cattle shed + weight). Rich + hard + byre + ton = Richard Burton'
 - id: teambusters-011
-  enabled: true
+  enabled: false
   title: Teambusters
   topic: football clubs and sports teams
   difficulty: medium
@@ -19943,7 +19943,7 @@
     - judy dench
     reasoning: Judi (shortened Judith) + dench (like bench with a D) = Judi Dench
 - id: teambusters-007
-  enabled: true
+  enabled: false
   title: Teambusters
   topic: football clubs and sports teams
   difficulty: medium
@@ -20895,7 +20895,7 @@
     - helen mirren
     reasoning: hell + in + mirror + n = Helen Mirren
 - id: teambusters-005
-  enabled: true
+  enabled: false
   title: Teambusters
   topic: football clubs and sports teams
   difficulty: medium
@@ -21832,7 +21832,7 @@
     - helen mirren
     reasoning: hell + in (inside) + mirror + n = Helen Mirren
 - id: teambusters-019
-  enabled: true
+  enabled: false
   title: Teambusters
   topic: football clubs and sports teams
   difficulty: medium
@@ -22772,7 +22772,7 @@
     - judy dench
     reasoning: Judy (name sounds like Judi) + dench (bench with a D, like a den-bench) = Judi Dench
 - id: teambusters-014
-  enabled: true
+  enabled: false
   title: Teambusters
   topic: football clubs and sports teams
   difficulty: medium
@@ -23715,7 +23715,7 @@
     - alec guinness
     reasoning: Alec + Guinness (dark Irish stout) = Alec Guinness
 - id: teambusters-018
-  enabled: true
+  enabled: false
   title: Teambusters
   topic: football clubs and sports teams
   difficulty: medium

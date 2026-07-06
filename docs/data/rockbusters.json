@@ -2492,36 +2492,6 @@
     ]
   },
   {
-    "id": "teambusters-013",
-    "enabled": true,
-    "title": "Teambusters",
-    "topic": "football clubs and sports teams",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Lucky thirteen. Teambusters. Three football clubs, all hidden in the clues as sounds.",
-    "prize": "Email in. Winner gets a half-time draw ticket that didn't win and a cold Bovril in a polystyrene cup.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "SU",
-        "clue": "There's a big open field, right, and in the middle of it there's a hut with all the gardening stuff. And they've all agreed to muck in together."
-      },
-      {
-        "number": 2,
-        "initials": "M",
-        "clue": "Bang in the middle of a borough, there's a fella who won't stop going on about how central he is. Fair enough, really."
-      },
-      {
-        "number": 3,
-        "initials": "B",
-        "clue": "Lancashire town, right, and the whole place is just on fire. Everything. Just burning away."
-      }
-    ]
-  },
-  {
     "id": "olympicsbusters-002",
     "enabled": true,
     "title": "Olympicsbusters",
@@ -6865,36 +6835,6 @@
     ]
   },
   {
-    "id": "teambusters-006",
-    "enabled": true,
-    "title": "Teambusters",
-    "topic": "football clubs and sports teams",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Teambusters six. Could be a footballer, could be a whole club. All phonetic, mind.",
-    "prize": "Email in. Winner gets a yellow and green Norwich City bucket hat from a charity shop.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "NC",
-        "clue": "Someone's knocking. On a witch. She's not happy about it, but there's a city nearby so that's nice."
-      },
-      {
-        "number": 2,
-        "initials": "CP",
-        "clue": "It's a clear blue day, right, and there's a palace. Shining, it is. Crystal, almost. Dead posh."
-      },
-      {
-        "number": 3,
-        "initials": "B",
-        "clue": "There's a lad called Brett, right, and he's been asked to look after some property in west London. He's in charge of it now."
-      }
-    ]
-  },
-  {
     "id": "sweetbusters-011",
     "enabled": true,
     "title": "Sweetbusters",
@@ -7871,36 +7811,6 @@
         "number": 3,
         "initials": "P S",
         "clue": "Peter's gone into retail. He's got things and he's shifting them. He's one of them people what sells stuff."
-      }
-    ]
-  },
-  {
-    "id": "teambusters-010",
-    "enabled": true,
-    "title": "Teambusters",
-    "topic": "football clubs and sports teams",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Teambusters. Still all football clubs, still all phonetic. Say them out loud.",
-    "prize": "Email in. Winner gets a signed photo of a mascot nobody can identify and a complimentary bag of salted peanuts.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "SC",
-        "clue": "That bloke's gone all the way down to the bottom - right to the south - and pitched his tent by the docks."
-      },
-      {
-        "number": 2,
-        "initials": "E",
-        "clue": "He keeps on going, this fella - never gives up - and the sheer weight of him is something else. Solid unit."
-      },
-      {
-        "number": 3,
-        "initials": "NF",
-        "clue": "Someone's done a right hard knock on a door deep in the woods. Echoed right through the trees, that did."
       }
     ]
   },
@@ -8912,36 +8822,6 @@
         "number": 3,
         "initials": "B C",
         "clue": "Benny's dictating into a machine, there's a great long cucumber on the table, and he's just pulled a fresh batch of something out of the oven. Mad scene."
-      }
-    ]
-  },
-  {
-    "id": "teambusters-002",
-    "enabled": true,
-    "title": "Teambusters",
-    "topic": "football clubs and sports teams",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "More Teambusters. Three more football clubs. Say the clues out loud - that's the trick.",
-    "prize": "Email in. Winner gets a foam finger from a sport nobody remembers and a packet of value crisps.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "C",
-        "clue": "That posh bird who does the modelling, she's gone and sat down in the sea. Just there. Soaking."
-      },
-      {
-        "number": 2,
-        "initials": "E",
-        "clue": "Right, there's this bloke called Evan, and he's been put on top of something. Perched up there. Bit odd."
-      },
-      {
-        "number": 3,
-        "initials": "BH",
-        "clue": "Some fella's gone really bright - like glowing - and he's found himself in a seaside place. Luminous, he is."
       }
     ]
   },
@@ -10845,36 +10725,6 @@
     ]
   },
   {
-    "id": "teambusters-016",
-    "enabled": true,
-    "title": "Teambusters",
-    "topic": "football clubs and sports teams",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Sixteen in. Teambusters. Three more clubs. Don't think about the spelling, just say it.",
-    "prize": "Email in. Winner gets a club crest iron-on patch that nobody wants to put on anything and a mint Polo from a coat pocket.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "LU",
-        "clue": "The string's going through the eye - someone's sewing - and their whole family's joined in. Nice one."
-      },
-      {
-        "number": 2,
-        "initials": "NU",
-        "clue": "Fresh out the box, this castle is. Never been used. And everyone inside it is working as a team."
-      },
-      {
-        "number": 3,
-        "initials": "SC",
-        "clue": "She's called Hannah, she lives right at the bottom of the country by the water, and she's very, very southern."
-      }
-    ]
-  },
-  {
     "id": "sweetbusters-009",
     "enabled": true,
     "title": "Sweetbusters",
@@ -11790,36 +11640,6 @@
         "number": 3,
         "initials": "R M",
         "clue": "That's Roger over there, and he's not satisfied. He wants another go. Or another biscuit. One of the two."
-      }
-    ]
-  },
-  {
-    "id": "teambusters-020",
-    "enabled": true,
-    "title": "Teambusters",
-    "topic": "football clubs and sports teams",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Teambusters. Three football clubs hiding in the sounds. Say each one out loud.",
-    "prize": "Email in. Winner gets a full set of 2002 World Cup Panini stickers, mostly duplicates, and a biro.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "L",
-        "clue": "The puddle's massive - you could swim in it, actually - and it's gone a peculiar dark reddish colour. Biology, probably."
-      },
-      {
-        "number": 2,
-        "initials": "B",
-        "clue": "She's gone up in flames, has this whole town in Lancashire. Everything's just burning. The whole ley."
-      },
-      {
-        "number": 3,
-        "initials": "MU",
-        "clue": "This bloke's got an enormous chest - like a barrel - and everyone round him has decided to stick together. All as one."
       }
     ]
   },
@@ -12774,36 +12594,6 @@
     ]
   },
   {
-    "id": "teambusters-012",
-    "enabled": true,
-    "title": "Teambusters",
-    "topic": "football clubs and sports teams",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Teambusters twelve. Don't spell it - say it. The sounds are what matter.",
-    "prize": "Email in. Winner gets a football bedspread from the 90s and a bottle of Lucozade Sport that's gone flat.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "CP",
-        "clue": "She's completely see-through, this woman - like glass - and she lives in a very grand house. Bit draughty, I'd imagine."
-      },
-      {
-        "number": 2,
-        "initials": "NC",
-        "clue": "He's not a witch, right - definitely not - but he's standing next to one and there's a city just down the road."
-      },
-      {
-        "number": 3,
-        "initials": "B",
-        "clue": "That road crossing - the shallow bit of the river - someone's gone and named it after a lad called Brent. That's all."
-      }
-    ]
-  },
-  {
     "id": "sweetbusters-014",
     "enabled": true,
     "title": "Sweetbusters",
@@ -13688,36 +13478,6 @@
         "number": 3,
         "initials": "K K",
         "clue": "This lass is really concerned about that evening, particularly the grassy bit at the end. Very worried about a night in a clearing."
-      }
-    ]
-  },
-  {
-    "id": "teambusters-003",
-    "enabled": true,
-    "title": "Teambusters",
-    "topic": "football clubs and sports teams",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Alright, Teambusters round three. All sports teams, all phonetic. Don't overthink it.",
-    "prize": "Email in. Winner gets a replica kit two sizes too small and a lukewarm Bovril.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "NU",
-        "clue": "There's a baby horse, right, and it's just decided to become one unit. All joined together. Near enough."
-      },
-      {
-        "number": 2,
-        "initials": "AV",
-        "clue": "That big old country house - you know, the one with the gardens - it's got a town attached to it now. Estate agents would love it."
-      },
-      {
-        "number": 3,
-        "initials": "LU",
-        "clue": "Some bloke's threading something through a needle, and he's doing it while all his mates watch. Together, like."
       }
     ]
   },
@@ -15373,36 +15133,6 @@
     ]
   },
   {
-    "id": "teambusters-008",
-    "enabled": true,
-    "title": "Teambusters",
-    "topic": "football clubs and sports teams",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Teambusters eight. More phonetic football. Don't try to spell it - just listen.",
-    "prize": "Email in. Winner gets an old Shoot! magazine and a football sticker that's been stuck to a wall and peeled off again.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "WW",
-        "clue": "Right, there's a pack of the growling four-legged things, and they're wandering about near a place with a big bridge. Over the hills and that."
-      },
-      {
-        "number": 2,
-        "initials": "LU",
-        "clue": "The thread's going through the eye again - someone's doing needlework - and all his pals are joining in. Good lads."
-      },
-      {
-        "number": 3,
-        "initials": "NU",
-        "clue": "A brand new fortress has just been built, and everything inside it has come together perfectly. All as one."
-      }
-    ]
-  },
-  {
     "id": "sweetbusters-018",
     "enabled": true,
     "title": "Sweetbusters",
@@ -17054,36 +16784,6 @@
     ]
   },
   {
-    "id": "teambusters-011",
-    "enabled": true,
-    "title": "Teambusters",
-    "topic": "football clubs and sports teams",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Right, Teambusters eleven. Three clues, three football clubs. You know the drill.",
-    "prize": "Email in. Winner gets a Ceefax printout of yesterday's scores and a KitKat from a vending machine.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "BH",
-        "clue": "Some bloke's shining a torch in a town on the coast. Bright, he is. Very lit up."
-      },
-      {
-        "number": 2,
-        "initials": "WH",
-        "clue": "There's a smoked leg of something over by the old docks on the east side of London. Just hanging there."
-      },
-      {
-        "number": 3,
-        "initials": "LC",
-        "clue": "That posh silk material - the smooth stuff - it's been given its own city. Because it deserves one, apparently."
-      }
-    ]
-  },
-  {
     "id": "sweetbusters-002",
     "enabled": true,
     "title": "Sweetbusters",
@@ -17879,36 +17579,6 @@
     ]
   },
   {
-    "id": "teambusters-007",
-    "enabled": true,
-    "title": "Teambusters",
-    "topic": "football clubs and sports teams",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Alright, Teambusters seven. Say each clue out loud, slowly. The team's in there somewhere.",
-    "prize": "Email in. Winner gets a referee's whistle and a copy of Football Focus from 2003.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "SU",
-        "clue": "Some tools, right - like a spade and that - they've all decided to work as one. All together now. Unified."
-      },
-      {
-        "number": 2,
-        "initials": "B",
-        "clue": "That place where you get your hair done - it's gone and set itself on fire. Just smouldering away in Lancashire."
-      },
-      {
-        "number": 3,
-        "initials": "M",
-        "clue": "Right in the middle of England, there's a place where the weather's a bit rough and the people are fairly solid. The borough's just sat there being stoic."
-      }
-    ]
-  },
-  {
     "id": "sweetbusters-010",
     "enabled": true,
     "title": "Sweetbusters",
@@ -18700,36 +18370,6 @@
         "number": 3,
         "initials": "H M",
         "clue": "All that chaos and noise has got itself inside a looking glass somehow. You look in the mirror and it's just hell in there."
-      }
-    ]
-  },
-  {
-    "id": "teambusters-005",
-    "enabled": true,
-    "title": "Teambusters",
-    "topic": "football clubs and sports teams",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Teambusters five. Three more football clubs, all phonetic. You know what to do.",
-    "prize": "Email in. Winner gets a football card binder with most of the cards missing and a pen that almost works.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "SC",
-        "clue": "That place down south - right on the water - some bloke there has docked his boat at the mouth of a river. Southerly, like."
-      },
-      {
-        "number": 2,
-        "initials": "MC",
-        "clue": "Right, there's a bloke called Man, and he's in a city - proper urban, loads of buildings. And he's sat in it."
-      },
-      {
-        "number": 3,
-        "initials": "NF",
-        "clue": "Someone's gone to knock on a door in the middle of the trees. Forested area. Bit dark in there."
       }
     ]
   },
@@ -19560,36 +19200,6 @@
     ]
   },
   {
-    "id": "teambusters-019",
-    "enabled": true,
-    "title": "Teambusters",
-    "topic": "football clubs and sports teams",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Teambusters. Three more football clubs hiding in the sounds. Say them out loud.",
-    "prize": "Email in. Winner gets a penalty shootout coin toss coin and a laminated certificate with nothing on it.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "SU",
-        "clue": "There's this massive grassy patch, and at the back of it there's a wooden outhouse. And everything in that garden has come together as one."
-      },
-      {
-        "number": 2,
-        "initials": "A",
-        "clue": "Big old collection of weapons, this is. Cannons and everything. Someone's very prepared."
-      },
-      {
-        "number": 3,
-        "initials": "M",
-        "clue": "Smack in the centre, there's a proper solid town. The sort of place that doesn't move. Just there, in the middle of a borough."
-      }
-    ]
-  },
-  {
     "id": "sweetbusters-019",
     "enabled": true,
     "title": "Sweetbusters",
@@ -20381,36 +19991,6 @@
         "number": 3,
         "initials": "J D",
         "clue": "Someone's taken the T off a trench and shoved it in a den. Bit of a liberty."
-      }
-    ]
-  },
-  {
-    "id": "teambusters-014",
-    "enabled": true,
-    "title": "Teambusters",
-    "topic": "football clubs and sports teams",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Teambusters fourteen. Getting through them. All football clubs. Phonetic, as always.",
-    "prize": "Email in. Winner gets a pub quiz answer sheet from a Tuesday night and a bag of dry roasted peanuts.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "MU",
-        "clue": "There's this fella, right, and his whole ribcage has been tied together with string. Everything bound tight."
-      },
-      {
-        "number": 2,
-        "initials": "AV",
-        "clue": "Right, there's a lovely holiday home in Italy and it's in a place that sounds like it was built on something. Solid foundations."
-      },
-      {
-        "number": 3,
-        "initials": "L",
-        "clue": "It's a swimming bath, but the water in it looks a bit, well, biological. Sort of organic coloured."
       }
     ]
   },
@@ -21237,36 +20817,6 @@
         "number": 3,
         "initials": "A G",
         "clue": "There's a fella called Alec and he's just been handed a pint of that dark Irish stuff. Lucky Alec."
-      }
-    ]
-  },
-  {
-    "id": "teambusters-018",
-    "enabled": true,
-    "title": "Teambusters",
-    "topic": "football clubs and sports teams",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Right then, Teambusters eighteen. Two more after this. All phonetic, all football clubs.",
-    "prize": "Email in. Winner gets a commemorative mug with the wrong year on it and a packet of those biscuits nobody chose.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "WH",
-        "clue": "On the other side - opposite end of the city - there's a big cured joint of meat just sitting there. Bit suspicious."
-      },
-      {
-        "number": 2,
-        "initials": "B",
-        "clue": "Right, Brent - some borough up north of the river - and he's trying to get across the water. Found a shallow bit."
-      },
-      {
-        "number": 3,
-        "initials": "LC",
-        "clue": "That fella Les - quiet sort, good at rugby - he's bought a flat in an actual city. Bit of an upgrade for him."
       }
     ]
   },

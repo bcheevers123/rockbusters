@@ -2476,36 +2476,6 @@
     ]
   },
   {
-    "id": "teambusters-013",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Sheffield United",
-        "aliases": [
-          "sheffield united",
-          "sheffield"
-        ],
-        "reasoning": "Shed (hut with gardening stuff) + field (open field) + United (all agreed to muck in) = Sheffield United"
-      },
-      {
-        "number": 2,
-        "answer": "Middlesbrough",
-        "aliases": [
-          "middlesbrough"
-        ],
-        "reasoning": "Middle (bang in the middle, central) + s + brough (a borough, a town) = Middlesbrough"
-      },
-      {
-        "number": 3,
-        "answer": "Burnley",
-        "aliases": [
-          "burnley"
-        ],
-        "reasoning": "Burn (on fire, burning) + ley (old English place name ending, a Lancashire town) = Burnley"
-      }
-    ]
-  },
-  {
     "id": "olympicsbusters-002",
     "clues": [
       {
@@ -6824,36 +6794,6 @@
     ]
   },
   {
-    "id": "teambusters-006",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Norwich City",
-        "aliases": [
-          "norwich city",
-          "norwich"
-        ],
-        "reasoning": "Nor (knocking, nor-) + witch (a witch) + City (a city) = Norwich City"
-      },
-      {
-        "number": 2,
-        "answer": "Crystal Palace",
-        "aliases": [
-          "crystal palace"
-        ],
-        "reasoning": "Crystal (crystal, clear and shiny) + Palace (a palace, dead posh) = Crystal Palace"
-      },
-      {
-        "number": 3,
-        "answer": "Brentford",
-        "aliases": [
-          "brentford"
-        ],
-        "reasoning": "Brent (Brett-ish, Brent is a place) + ford (a crossing, shallow water) = Brentford"
-      }
-    ]
-  },
-  {
     "id": "sweetbusters-011",
     "clues": [
       {
@@ -7812,35 +7752,6 @@
           "peter sellers"
         ],
         "reasoning": "Peter + sellers (people who sell things) = Peter Sellers"
-      }
-    ]
-  },
-  {
-    "id": "teambusters-010",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Southampton",
-        "aliases": [
-          "southampton"
-        ],
-        "reasoning": "South (gone south, bottom) + amp (pitched, amped up) + ton (weight, a town) = Southampton"
-      },
-      {
-        "number": 2,
-        "answer": "Everton",
-        "aliases": [
-          "everton"
-        ],
-        "reasoning": "Ever (keeps on going, forever) + ton (a unit of weight, massive) = Everton"
-      },
-      {
-        "number": 3,
-        "answer": "Nottingham Forest",
-        "aliases": [
-          "nottingham forest"
-        ],
-        "reasoning": "Knott (a hard knock) + ing (doing it) + ham (pig meat, a place) + Forest (the woods, deep in the trees) = Nottingham Forest"
       }
     ]
   },
@@ -8823,35 +8734,6 @@
           "benedict cumberbatch"
         ],
         "reasoning": "benny + dict (dictating) + cumber (cucumber) + batch (oven batch) = Benedict Cumberbatch"
-      }
-    ]
-  },
-  {
-    "id": "teambusters-002",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Chelsea",
-        "aliases": [
-          "chelsea"
-        ],
-        "reasoning": "Chel (shell) + sea (the sea) = Chelsea. Shell-sea, posh name, sitting in the sea."
-      },
-      {
-        "number": 2,
-        "answer": "Everton",
-        "aliases": [
-          "everton"
-        ],
-        "reasoning": "Ever (Evan-ish, sounds like ever) + ton (on top, a unit of weight) = Everton"
-      },
-      {
-        "number": 3,
-        "answer": "Brighton",
-        "aliases": [
-          "brighton"
-        ],
-        "reasoning": "bright (glowing) + on (in a place) = Brighton"
       }
     ]
   },
@@ -10726,37 +10608,6 @@
     ]
   },
   {
-    "id": "teambusters-016",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Leeds United",
-        "aliases": [
-          "leeds united",
-          "leeds"
-        ],
-        "reasoning": "Leeds (leads, string threading) + United (whole family joined in, united) = Leeds United"
-      },
-      {
-        "number": 2,
-        "answer": "Newcastle United",
-        "aliases": [
-          "newcastle united",
-          "newcastle"
-        ],
-        "reasoning": "New (fresh out the box, brand new) + castle (a castle, fresh) + United (working as a team) = Newcastle United"
-      },
-      {
-        "number": 3,
-        "answer": "Southampton",
-        "aliases": [
-          "southampton"
-        ],
-        "reasoning": "South (very southern, bottom of the country) + Hampton (a place name, Hannah-ish) = Southampton"
-      }
-    ]
-  },
-  {
     "id": "sweetbusters-009",
     "clues": [
       {
@@ -11655,37 +11506,6 @@
           "roger moore"
         ],
         "reasoning": "Roger + more (wants another) = Roger Moore"
-      }
-    ]
-  },
-  {
-    "id": "teambusters-020",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Liverpool",
-        "aliases": [
-          "liverpool"
-        ],
-        "reasoning": "Liver (dark reddish organ, biological) + pool (massive puddle you could swim in) = Liverpool"
-      },
-      {
-        "number": 2,
-        "answer": "Burnley",
-        "aliases": [
-          "burnley"
-        ],
-        "reasoning": "Burn (gone up in flames, burning) + ley (Lancashire place name ending, the whole ley) = Burnley"
-      },
-      {
-        "number": 3,
-        "answer": "Manchester United",
-        "aliases": [
-          "manchester united",
-          "man united",
-          "man utd"
-        ],
-        "reasoning": "Man (a bloke) + chest (enormous chest, barrel) + er (him, around him) + United (stuck together, all as one) = Manchester United"
       }
     ]
   },
@@ -12613,36 +12433,6 @@
     ]
   },
   {
-    "id": "teambusters-012",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Crystal Palace",
-        "aliases": [
-          "crystal palace"
-        ],
-        "reasoning": "Crystal (see-through, like glass) + Palace (a very grand house) = Crystal Palace"
-      },
-      {
-        "number": 2,
-        "answer": "Norwich City",
-        "aliases": [
-          "norwich city",
-          "norwich"
-        ],
-        "reasoning": "Nor (not, nor a witch) + witch (standing next to one) + City (down the road) = Norwich City"
-      },
-      {
-        "number": 3,
-        "answer": "Brentford",
-        "aliases": [
-          "brentford"
-        ],
-        "reasoning": "Brent (a lad called Brent, a place name) + ford (a shallow river crossing) = Brentford"
-      }
-    ]
-  },
-  {
     "id": "sweetbusters-014",
     "clues": [
       {
@@ -13510,35 +13300,6 @@
           "keira knightley"
         ],
         "reasoning": "care-a + night + lee (grassy clearing) = Keira Knightley"
-      }
-    ]
-  },
-  {
-    "id": "teambusters-003",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Newcastle United",
-        "aliases": [
-          "newcastle united"
-        ],
-        "reasoning": "new (baby, just born) + castle (like a fortress) + united (all joined together) = Newcastle United"
-      },
-      {
-        "number": 2,
-        "answer": "Aston Villa",
-        "aliases": [
-          "aston villa"
-        ],
-        "reasoning": "Aston (a place name, sounds like 'has-ton') + Villa (a posh house, villa) = Aston Villa"
-      },
-      {
-        "number": 3,
-        "answer": "Leeds United",
-        "aliases": [
-          "leeds united"
-        ],
-        "reasoning": "Leeds (leads, threading) + united (together, mates watching) = Leeds United"
       }
     ]
   },
@@ -15155,39 +14916,6 @@
           "keira knightley"
         ],
         "reasoning": "care-a (anxious about) + night + lea/lee (meadow) = Keira Knightley"
-      }
-    ]
-  },
-  {
-    "id": "teambusters-008",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Wolverhampton Wanderers",
-        "aliases": [
-          "wolverhampton wanderers",
-          "wolves",
-          "wolverhampton"
-        ],
-        "reasoning": "Wolve (wolf, growling four-legged thing) + r (a rolled r) + hampton (a place with a big bridge) + Wanderers (wandering about) = Wolverhampton Wanderers"
-      },
-      {
-        "number": 2,
-        "answer": "Leeds United",
-        "aliases": [
-          "leeds united",
-          "leeds"
-        ],
-        "reasoning": "Leeds (leads, threading needle) + United (all joining in, united) = Leeds United"
-      },
-      {
-        "number": 3,
-        "answer": "Newcastle United",
-        "aliases": [
-          "newcastle united",
-          "newcastle"
-        ],
-        "reasoning": "New (brand new) + castle (a fortress) + United (all as one, together) = Newcastle United"
       }
     ]
   },
@@ -16809,36 +16537,6 @@
     ]
   },
   {
-    "id": "teambusters-011",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Brighton",
-        "aliases": [
-          "brighton"
-        ],
-        "reasoning": "Bright (shining, lit up) + on (in a place, on the coast) = Brighton"
-      },
-      {
-        "number": 2,
-        "answer": "West Ham",
-        "aliases": [
-          "west ham"
-        ],
-        "reasoning": "West (west... wait, east side but the club is West Ham) + Ham (smoked leg, a ham joint) = West Ham"
-      },
-      {
-        "number": 3,
-        "answer": "Leicester City",
-        "aliases": [
-          "leicester city",
-          "leicester"
-        ],
-        "reasoning": "Lester (Leicester, sounds like Lester) + City (a city, an urban area) = Leicester City"
-      }
-    ]
-  },
-  {
     "id": "sweetbusters-002",
     "clues": [
       {
@@ -17614,37 +17312,6 @@
           "judy dench"
         ],
         "reasoning": "Judi (shortened Judith) + dench (like bench with a D) = Judi Dench"
-      }
-    ]
-  },
-  {
-    "id": "teambusters-007",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Sheffield United",
-        "aliases": [
-          "sheffield united",
-          "sheffield"
-        ],
-        "reasoning": "Shed (a shed, tools live there) + field (a field) + United (all together) = Sheffield United"
-      },
-      {
-        "number": 2,
-        "answer": "Burnley",
-        "aliases": [
-          "burnley"
-        ],
-        "reasoning": "burn (on fire, burning) + ley (a ley line, an old place ending) = Burnley"
-      },
-      {
-        "number": 3,
-        "answer": "Middlesbrough",
-        "aliases": [
-          "middlesbrough",
-          "middlesbrough fc"
-        ],
-        "reasoning": "Middle (in the middle) + s (just an s) + brough (borough, a town) = Middlesbrough"
       }
     ]
   },
@@ -18436,36 +18103,6 @@
           "helen mirren"
         ],
         "reasoning": "hell + in + mirror + n = Helen Mirren"
-      }
-    ]
-  },
-  {
-    "id": "teambusters-005",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Southampton",
-        "aliases": [
-          "southampton"
-        ],
-        "reasoning": "South (down south) + amp (amplifier, a unit) + ton (a weight, a place ending) = Southampton"
-      },
-      {
-        "number": 2,
-        "answer": "Manchester City",
-        "aliases": [
-          "manchester city"
-        ],
-        "reasoning": "man (a man) + chest (chest, ribcage) + er (him) + city (urban place) = Manchester City"
-      },
-      {
-        "number": 3,
-        "answer": "Nottingham Forest",
-        "aliases": [
-          "nottingham forest",
-          "nottingham"
-        ],
-        "reasoning": "Notting (knocking) + ham (pig meat) + Forest (forest, trees) = Nottingham Forest"
       }
     ]
   },
@@ -19277,36 +18914,6 @@
     ]
   },
   {
-    "id": "teambusters-019",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Sheffield United",
-        "aliases": [
-          "sheffield united",
-          "sheffield"
-        ],
-        "reasoning": "Shed (wooden outhouse) + field (massive grassy patch) + United (come together as one) = Sheffield United"
-      },
-      {
-        "number": 2,
-        "answer": "Arsenal",
-        "aliases": [
-          "arsenal"
-        ],
-        "reasoning": "Arsenal = ar-sen-al, a large collection of military weapons and equipment = Arsenal"
-      },
-      {
-        "number": 3,
-        "answer": "Middlesbrough",
-        "aliases": [
-          "middlesbrough"
-        ],
-        "reasoning": "Middle (smack in the centre) + s + brough (a solid town, a borough) = Middlesbrough"
-      }
-    ]
-  },
-  {
     "id": "sweetbusters-019",
     "clues": [
       {
@@ -20084,38 +19691,6 @@
           "judy dench"
         ],
         "reasoning": "Judy (name sounds like Judi) + dench (bench with a D, like a den-bench) = Judi Dench"
-      }
-    ]
-  },
-  {
-    "id": "teambusters-014",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Manchester United",
-        "aliases": [
-          "manchester united",
-          "man united",
-          "man utd"
-        ],
-        "reasoning": "Man (a fella) + chest (ribcage) + er (him) + United (tied together, bound tight) = Manchester United"
-      },
-      {
-        "number": 2,
-        "answer": "Aston Villa",
-        "aliases": [
-          "aston villa",
-          "aston"
-        ],
-        "reasoning": "Aston (has-ton, built on something solid) + Villa (a holiday home in Italy, a villa) = Aston Villa"
-      },
-      {
-        "number": 3,
-        "answer": "Liverpool",
-        "aliases": [
-          "liverpool"
-        ],
-        "reasoning": "Liver (the organ, biological and coloured) + pool (a swimming bath, a pool) = Liverpool"
       }
     ]
   },
@@ -20927,36 +20502,6 @@
           "alec guinness"
         ],
         "reasoning": "Alec + Guinness (dark Irish stout) = Alec Guinness"
-      }
-    ]
-  },
-  {
-    "id": "teambusters-018",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "West Ham",
-        "aliases": [
-          "west ham"
-        ],
-        "reasoning": "West (the other side, western end) + Ham (a big cured joint, a ham) = West Ham"
-      },
-      {
-        "number": 2,
-        "answer": "Brentford",
-        "aliases": [
-          "brentford"
-        ],
-        "reasoning": "Brent (a borough, a name) + ford (a shallow river crossing) = Brentford"
-      },
-      {
-        "number": 3,
-        "answer": "Leicester City",
-        "aliases": [
-          "leicester city",
-          "leicester"
-        ],
-        "reasoning": "Leicester (sounds like Lester, Les-ter) + City (an actual city, Les has moved up) = Leicester City"
       }
     ]
   },
