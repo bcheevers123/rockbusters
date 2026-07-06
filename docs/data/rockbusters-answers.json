@@ -586,8 +586,9 @@
     "clues": [
       {
         "number": 1,
-        "answer": "Mekong",
+        "answer": "Mississippi",
         "aliases": [
+          "mississippi",
           "mekong",
           "mekong river"
         ],
@@ -595,8 +596,9 @@
       },
       {
         "number": 2,
-        "answer": "Limpopo",
+        "answer": "Zambezi",
         "aliases": [
+          "zambezi",
           "limpopo",
           "limpopo river"
         ],
@@ -604,8 +606,9 @@
       },
       {
         "number": 3,
-        "answer": "Tigris",
+        "answer": "Thames",
         "aliases": [
+          "thames",
           "tigris",
           "tigris river"
         ],
@@ -2681,8 +2684,9 @@
       },
       {
         "number": 2,
-        "answer": "Zambezi",
+        "answer": "Tigris",
         "aliases": [
+          "tigris",
           "zambezi",
           "zambezi river"
         ],
@@ -2690,8 +2694,9 @@
       },
       {
         "number": 3,
-        "answer": "Volga",
+        "answer": "Nile",
         "aliases": [
+          "nile",
           "volga",
           "volga river"
         ],
@@ -4753,8 +4758,9 @@
       },
       {
         "number": 3,
-        "answer": "Orinoco",
+        "answer": "Amazon",
         "aliases": [
+          "amazon",
           "orinoco",
           "orinoco river"
         ],

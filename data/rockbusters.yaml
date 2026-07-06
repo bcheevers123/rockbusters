@@ -891,7 +891,7 @@
   - number: 1
     initials: M
     clue: In Southeast Asia, someone has gone for a long wander and ended up eating something halfway through. Very much on the go. They're still chewing. The river doesn't care, it just keeps moving.
-    answer: Mekong
+    answer: Mississippi
     aliases:
     - mekong
     - mekong river
@@ -899,7 +899,7 @@
   - number: 2
     initials: L
     clue: A bloke in southern Africa has had a look at this river and said something that sounds like it belongs to a Kipling poem. He's said it with great confidence. Nobody's questioned him. The hippopotamus nearby did not react.
-    answer: Limpopo
+    answer: Zambezi
     aliases:
     - limpopo
     - limpopo river
@@ -907,7 +907,7 @@
   - number: 3
     initials: T
     clue: In Iraq, someone has spotted a very old river and said, that one's got his name on it. Very possessive. The tiger in question was not consulted. It just flows on, quietly ignoring the whole dispute.
-    answer: Tigris
+    answer: Thames
     aliases:
     - tigris
     - tigris river
@@ -3380,7 +3380,7 @@
   - number: 2
     initials: Z
     clue: In southern Africa, a bloke has tried to spell something out loud and made it sound like a sneeze in the middle. He's finished the sentence and looked quite pleased with himself. Everyone else is baffled but polite about it.
-    answer: Zambezi
+    answer: Tigris
     aliases:
     - zambezi
     - zambezi river
@@ -3388,7 +3388,7 @@
   - number: 3
     initials: V
     clue: A Russian bloke has had a look at Europe's longest river and gone, right, that's ours. Very proprietary about it. He's standing at the bank with his arms folded. The river carries on regardless.
-    answer: Volga
+    answer: Nile
     aliases:
     - volga
     - volga river
@@ -5876,7 +5876,7 @@
   - number: 3
     initials: O
     clue: In Venezuela, someone has ordered something and it's come round, looped back and gone past them again. Very circular situation. They're confused but they keep ordering. The waiter has done about four laps now.
-    answer: Orinoco
+    answer: Amazon
     aliases:
     - orinoco
     - orinoco river
