@@ -3134,35 +3134,6 @@
     ]
   },
   {
-    "id": "celebbusters-016",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Elton John",
-        "aliases": [
-          "elton john"
-        ],
-        "reasoning": "ell (the letter L) + ton (massive weight) + john (toilet) = Elton John"
-      },
-      {
-        "number": 2,
-        "answer": "Tom Jones",
-        "aliases": [
-          "tom jones"
-        ],
-        "reasoning": "Tom (cartoon cat) + Jones (Indiana Jones) = Tom Jones"
-      },
-      {
-        "number": 3,
-        "answer": "Cliff Richard",
-        "aliases": [
-          "cliff richard"
-        ],
-        "reasoning": "cliff (rocky seaside drop) + rich (well-off) + ard (patch of yard) = Cliff Richard"
-      }
-    ]
-  },
-  {
     "id": "condimentbusters-001",
     "clues": [
       {
@@ -5081,35 +5052,6 @@
     ]
   },
   {
-    "id": "celebbusters-019",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Ringo Starr",
-        "aliases": [
-          "ringo starr"
-        ],
-        "reasoning": "ring (finger jewellery) + go (told to leave) + star (twinkly sky thing) = Ringo Starr"
-      },
-      {
-        "number": 2,
-        "answer": "Jimmy Page",
-        "aliases": [
-          "jimmy page"
-        ],
-        "reasoning": "jimmy (small crowbar for doors) + page (book page) = Jimmy Page"
-      },
-      {
-        "number": 3,
-        "answer": "Roger Daltrey",
-        "aliases": [
-          "roger daltrey"
-        ],
-        "reasoning": "roger (military confirmation) + dolt (dozy lad) + ray (sunshine ray) = Roger Daltrey"
-      }
-    ]
-  },
-  {
     "id": "condimentbusters-002",
     "clues": [
       {
@@ -6349,35 +6291,6 @@
     ]
   },
   {
-    "id": "celebbusters-003",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Mick Jagger",
-        "aliases": [
-          "mick jagger"
-        ],
-        "reasoning": "Mick (Irish fella) + jag (scratch/scrape a car) + ger (slightly extended) = Mick Jagger"
-      },
-      {
-        "number": 2,
-        "answer": "Keith Richards",
-        "aliases": [
-          "keith richards"
-        ],
-        "reasoning": "keys (unlocking things) + rich (wealthy) + ards (yards) = Keith Richards"
-      },
-      {
-        "number": 3,
-        "answer": "Eric Clapton",
-        "aliases": [
-          "eric clapton"
-        ],
-        "reasoning": "err (mistake sound) + Rick (bloke called Rick) + clap (applause) + ton (heavy weight) = Eric Clapton"
-      }
-    ]
-  },
-  {
     "id": "comediansbusters-010",
     "clues": [
       {
@@ -7126,35 +7039,6 @@
           "cold feet"
         ],
         "reasoning": "cold (opposite of warm) + feet (what you walk on) = Cold Feet"
-      }
-    ]
-  },
-  {
-    "id": "celebbusters-017",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Freddie Mercury",
-        "aliases": [
-          "freddie mercury"
-        ],
-        "reasoning": "Freddie (Fred) + mercury (silver liquid in thermometers) = Freddie Mercury"
-      },
-      {
-        "number": 2,
-        "answer": "John Lennon",
-        "aliases": [
-          "john lennon"
-        ],
-        "reasoning": "john (outside toilet) + Len (man) + non (saying no, refusal) = John Lennon"
-      },
-      {
-        "number": 3,
-        "answer": "George Harrison",
-        "aliases": [
-          "george harrison"
-        ],
-        "reasoning": "George (St George, England's flag) + Harry (run off with) + son (someone's boy) = George Harrison"
       }
     ]
   },
@@ -9548,35 +9432,6 @@
     ]
   },
   {
-    "id": "celebbusters-020",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Ozzy Osbourne",
-        "aliases": [
-          "ozzy osbourne"
-        ],
-        "reasoning": "Ozzy (Australian) + Oz (Australia) + bourne (born) = Ozzy Osbourne"
-      },
-      {
-        "number": 2,
-        "answer": "Eric Clapton",
-        "aliases": [
-          "eric clapton"
-        ],
-        "reasoning": "err (gone wrong) + Rick (bloke) + clap (clapping) + ton (big weight) = Eric Clapton"
-      },
-      {
-        "number": 3,
-        "answer": "Paul McCartney",
-        "aliases": [
-          "paul mccartney"
-        ],
-        "reasoning": "pall (coffin carrier's load) + Mick (Irish lad) + art (painting) + knee (knee) = Paul McCartney"
-      }
-    ]
-  },
-  {
     "id": "nostalgiabusters-019",
     "clues": [
       {
@@ -11074,35 +10929,6 @@
     ]
   },
   {
-    "id": "celebbusters-004",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Ozzy Osbourne",
-        "aliases": [
-          "ozzy osbourne"
-        ],
-        "reasoning": "Ozzy (Australian slang) + Os (Australian) + bourne (born) = Ozzy Osbourne"
-      },
-      {
-        "number": 2,
-        "answer": "Jimmy Page",
-        "aliases": [
-          "jimmy page"
-        ],
-        "reasoning": "jimmy (to jimmy a lock, bent metal tool) + page (a page of a book) = Jimmy Page"
-      },
-      {
-        "number": 3,
-        "answer": "Roger Daltrey",
-        "aliases": [
-          "roger daltrey"
-        ],
-        "reasoning": "roger (confirmed, military speak) + dolt (stupid person) + ray (beam of light) = Roger Daltrey"
-      }
-    ]
-  },
-  {
     "id": "nostalgiabusters-002",
     "clues": [
       {
@@ -11796,35 +11622,6 @@
           "tasmanian devil"
         ],
         "reasoning": "Tasmanian (from Tasmania, the island) + devil (furious, evil-tempered) = Tasmanian Devil"
-      }
-    ]
-  },
-  {
-    "id": "celebbusters-011",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "John Lennon",
-        "aliases": [
-          "john lennon"
-        ],
-        "reasoning": "john (outside toilet) + Len (man's name) + non (refusal, no) = John Lennon"
-      },
-      {
-        "number": 2,
-        "answer": "George Harrison",
-        "aliases": [
-          "george harrison"
-        ],
-        "reasoning": "George (St George) + Harry (run off with, to harry) + son (someone's lad) = George Harrison"
-      },
-      {
-        "number": 3,
-        "answer": "Ringo Starr",
-        "aliases": [
-          "ringo starr"
-        ],
-        "reasoning": "ring (circular jewellery) + go (marching orders) + star (shiny sky thing) = Ringo Starr"
       }
     ]
   },
@@ -13182,35 +12979,6 @@
     ]
   },
   {
-    "id": "celebbusters-013",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Ozzy Osbourne",
-        "aliases": [
-          "ozzy osbourne"
-        ],
-        "reasoning": "Ozzy (Australian slang, oz) + Os (from oz) + bourne (born, as in born) = Ozzy Osbourne"
-      },
-      {
-        "number": 2,
-        "answer": "Eric Clapton",
-        "aliases": [
-          "eric clapton"
-        ],
-        "reasoning": "err (going wrong) + Rick (bloke called Rick) + clap (clapping) + ton (heavy weight) = Eric Clapton"
-      },
-      {
-        "number": 3,
-        "answer": "Paul McCartney",
-        "aliases": [
-          "paul mccartney"
-        ],
-        "reasoning": "pall (pallbearer's load) + Mick (Irish lad) + art (paint) + knee (leg joint) = Paul McCartney"
-      }
-    ]
-  },
-  {
     "id": "nostalgiabusters-013",
     "clues": [
       {
@@ -13839,35 +13607,6 @@
           "top gear"
         ],
         "reasoning": "top (very top) + gear (a gear on a bike or car) = Top Gear"
-      }
-    ]
-  },
-  {
-    "id": "celebbusters-010",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Freddie Mercury",
-        "aliases": [
-          "freddie mercury"
-        ],
-        "reasoning": "Freddie (Fred) + mercury (silver thermometer liquid) = Freddie Mercury"
-      },
-      {
-        "number": 2,
-        "answer": "Brian May",
-        "aliases": [
-          "brian may"
-        ],
-        "reasoning": "cry + in (cryin) + May (the month) = Brian May. Say it fast."
-      },
-      {
-        "number": 3,
-        "answer": "Robert Plant",
-        "aliases": [
-          "robert plant"
-        ],
-        "reasoning": "rob (nick) + Bert (bloke's name) + plant (bury in garden) = Robert Plant"
       }
     ]
   },
@@ -14567,35 +14306,6 @@
     ]
   },
   {
-    "id": "celebbusters-018",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Pete Townshend",
-        "aliases": [
-          "pete townshend"
-        ],
-        "reasoning": "peat (wet bog stuff) + towns (several towns) + end (settled at the end) = Pete Townshend"
-      },
-      {
-        "number": 2,
-        "answer": "Robert Plant",
-        "aliases": [
-          "robert plant"
-        ],
-        "reasoning": "rob (steal) + Bert (man called Bert) + plant (bury a flower) = Robert Plant"
-      },
-      {
-        "number": 3,
-        "answer": "Brian May",
-        "aliases": [
-          "brian may"
-        ],
-        "reasoning": "cryin (crying) sounds like Brian + May (fifth month) = Brian May"
-      }
-    ]
-  },
-  {
     "id": "nostalgiabusters-006",
     "clues": [
       {
@@ -15260,35 +14970,6 @@
           "aardvark"
         ],
         "reasoning": "hard (not soft) + bark (dog noise) = Aardvark. Drop the H, you're there."
-      }
-    ]
-  },
-  {
-    "id": "celebbusters-002",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Tom Jones",
-        "aliases": [
-          "tom jones"
-        ],
-        "reasoning": "Tom (the cartoon cat) + Jones (Indiana Jones's surname) = Tom Jones"
-      },
-      {
-        "number": 2,
-        "answer": "Cliff Richard",
-        "aliases": [
-          "cliff richard"
-        ],
-        "reasoning": "cliff (rocky drop) + rich (wealthy) + ard (yard without the y) = Cliff Richard"
-      },
-      {
-        "number": 3,
-        "answer": "Paul McCartney",
-        "aliases": [
-          "paul mccartney"
-        ],
-        "reasoning": "pall (dead weight, like a pallbearer) + Mick (Irish bloke) + art (paint) + knee (leg joint) = Paul McCartney"
       }
     ]
   },
@@ -15963,35 +15644,6 @@
     ]
   },
   {
-    "id": "celebbusters-012",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Pete Townshend",
-        "aliases": [
-          "pete townshend"
-        ],
-        "reasoning": "peat (boggy Irish stuff) + towns (several towns) + end (the far end) = Pete Townshend"
-      },
-      {
-        "number": 2,
-        "answer": "Jimmy Page",
-        "aliases": [
-          "jimmy page"
-        ],
-        "reasoning": "jimmy (lever open a lock) + page (page of a book) = Jimmy Page"
-      },
-      {
-        "number": 3,
-        "answer": "Roger Daltrey",
-        "aliases": [
-          "roger daltrey"
-        ],
-        "reasoning": "roger (confirmed) + dolt (thick person) + ray (shaft of light) = Roger Daltrey"
-      }
-    ]
-  },
-  {
     "id": "nostalgiabusters-011",
     "clues": [
       {
@@ -16619,35 +16271,6 @@
           "wire in the blood"
         ],
         "reasoning": "wire (electrical cable) + in the (inside the) + blood (the red stuff) = Wire in the Blood"
-      }
-    ]
-  },
-  {
-    "id": "celebbusters-015",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Rod Stewart",
-        "aliases": [
-          "rod stewart"
-        ],
-        "reasoning": "rod (fishing pole) + stew (broth) + art (painting) = Rod Stewart"
-      },
-      {
-        "number": 2,
-        "answer": "Keith Richards",
-        "aliases": [
-          "keith richards"
-        ],
-        "reasoning": "keys (door metal things) + rich (well-off) + ards (bit of yard) = Keith Richards"
-      },
-      {
-        "number": 3,
-        "answer": "Mick Jagger",
-        "aliases": [
-          "mick jagger"
-        ],
-        "reasoning": "Mick (Paddy, Irish) + jag (scratch with sharp thing) + ger = Mick Jagger"
       }
     ]
   },
@@ -17283,35 +16906,6 @@
           "meerkat"
         ],
         "reasoning": "mere (barely, almost) + cat = Meerkat. Sort of works."
-      }
-    ]
-  },
-  {
-    "id": "celebbusters-009",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Mick Jagger",
-        "aliases": [
-          "mick jagger"
-        ],
-        "reasoning": "Mick (Irish lad) + jag (scrape with something sharp) + ger (added on) = Mick Jagger"
-      },
-      {
-        "number": 2,
-        "answer": "Keith Richards",
-        "aliases": [
-          "keith richards"
-        ],
-        "reasoning": "keys (door things) + rich (posh and well-off) + ards (yards) = Keith Richards"
-      },
-      {
-        "number": 3,
-        "answer": "Cliff Richard",
-        "aliases": [
-          "cliff richard"
-        ],
-        "reasoning": "cliff (rocky seaside drop) + rich (wealthy) + ard (yard) = Cliff Richard"
       }
     ]
   },
@@ -17973,35 +17567,6 @@
           "giraffe"
         ],
         "reasoning": "ji + raffe, sounds like jar + Ralph, or just Giraffe. Say the name Ralph with a soft laugh. Near enough."
-      }
-    ]
-  },
-  {
-    "id": "celebbusters-005",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Pete Townshend",
-        "aliases": [
-          "pete townshend"
-        ],
-        "reasoning": "peat (Irish bog stuff) + towns (villages) + end (the finish) = Pete Townshend"
-      },
-      {
-        "number": 2,
-        "answer": "Robert Plant",
-        "aliases": [
-          "robert plant"
-        ],
-        "reasoning": "rob (steal/nick) + Bert (bloke's name) + plant (put something in the ground) = Robert Plant"
-      },
-      {
-        "number": 3,
-        "answer": "Brian May",
-        "aliases": [
-          "brian may"
-        ],
-        "reasoning": "brine (salty, cryin' sounds like brine) + in + May (fifth month) - Brian May. Say it out loud."
       }
     ]
   },

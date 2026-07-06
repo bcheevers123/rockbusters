@@ -4230,7 +4230,7 @@
     - shawarma
     reasoning: chicken (the bird) + shawarma (sounds like 'shaw-warm-a', someone called Shaw who's warm, or shawl-warmer) = Chicken Shawarma
 - id: celebbusters-016
-  enabled: true
+  enabled: false
   title: Celebbusters
   topic: classic British celebrities and entertainers
   difficulty: medium
@@ -6715,7 +6715,7 @@
     - chicken katsu curry
     reasoning: chicken (the bird) + katsu (sounds like 'cat-su', a cat doing something, or 'cats-who') = Chicken Katsu
 - id: celebbusters-019
-  enabled: true
+  enabled: false
   title: Celebbusters
   topic: classic British celebrities and entertainers
   difficulty: medium
@@ -8295,7 +8295,7 @@
     - vicuña
     reasoning: vi + cuna, sounds like vicuna, the South American camelid
 - id: celebbusters-003
-  enabled: true
+  enabled: false
   title: Celebbusters
   topic: classic British celebrities and entertainers
   difficulty: medium
@@ -9430,7 +9430,7 @@
     - dingo
     reasoning: 'din (noise) + go (leave) = Dingo. Or just say it: dingo.'
 - id: celebbusters-017
-  enabled: true
+  enabled: false
   title: Celebbusters
   topic: classic British celebrities and entertainers
   difficulty: medium
@@ -12704,7 +12704,7 @@
     - margay
     reasoning: mar + gay, or mar + gey = margay, a spotted wild cat
 - id: celebbusters-020
-  enabled: true
+  enabled: false
   title: Celebbusters
   topic: classic British celebrities and entertainers
   difficulty: medium
@@ -14844,7 +14844,7 @@
     - coyote
     reasoning: coy (shy, keeping back) + ote, sounds like coyote when said out loud
 - id: celebbusters-004
-  enabled: true
+  enabled: false
   title: Celebbusters
   topic: classic British celebrities and entertainers
   difficulty: medium
@@ -15819,7 +15819,7 @@
     - tasmanian devil
     reasoning: Tasmanian (from Tasmania, the island) + devil (furious, evil-tempered) = Tasmanian Devil
 - id: celebbusters-011
-  enabled: true
+  enabled: false
   title: Celebbusters
   topic: classic British celebrities and entertainers
   difficulty: medium
@@ -17694,7 +17694,7 @@
     - wild boar
     reasoning: 'bore (a dull one) sounds like boar (wild pig). Or just say it: boar.'
 - id: celebbusters-013
-  enabled: true
+  enabled: false
   title: Celebbusters
   topic: classic British celebrities and entertainers
   difficulty: medium
@@ -18630,7 +18630,7 @@
     - okapi
     reasoning: o + kapi, sounds like okapi, the zebra-giraffe thing from the Congo
 - id: celebbusters-010
-  enabled: true
+  enabled: false
   title: Celebbusters
   topic: classic British celebrities and entertainers
   difficulty: medium
@@ -19573,7 +19573,7 @@
     - cheetah
     reasoning: cheat + a = Cheetah. She's a cheat, and that.
 - id: celebbusters-018
-  enabled: true
+  enabled: false
   title: Celebbusters
   topic: classic British celebrities and entertainers
   difficulty: medium
@@ -20519,7 +20519,7 @@
     - aardvark
     reasoning: hard (not soft) + bark (dog noise) = Aardvark. Drop the H, you're there.
 - id: celebbusters-002
-  enabled: true
+  enabled: false
   title: Celebbusters
   topic: classic British celebrities and entertainers
   difficulty: medium
@@ -21465,7 +21465,7 @@
     - wombat
     reasoning: wom + bat, sounds like wombat. The Australian burrowing marsupial.
 - id: celebbusters-012
-  enabled: true
+  enabled: false
   title: Celebbusters
   topic: classic British celebrities and entertainers
   difficulty: medium
@@ -22403,7 +22403,7 @@
     - giant anteater
     reasoning: ant + eater = anteater. Dead simple this one. Bit embarrassing really.
 - id: celebbusters-015
-  enabled: true
+  enabled: false
   title: Celebbusters
   topic: classic British celebrities and entertainers
   difficulty: medium
@@ -23344,7 +23344,7 @@
     - meerkat
     reasoning: mere (barely, almost) + cat = Meerkat. Sort of works.
 - id: celebbusters-009
-  enabled: true
+  enabled: false
   title: Celebbusters
   topic: classic British celebrities and entertainers
   difficulty: medium
@@ -24282,7 +24282,7 @@
     - giraffe
     reasoning: ji + raffe, sounds like jar + Ralph, or just Giraffe. Say the name Ralph with a soft laugh. Near enough.
 - id: celebbusters-005
-  enabled: true
+  enabled: false
   title: Celebbusters
   topic: classic British celebrities and entertainers
   difficulty: medium

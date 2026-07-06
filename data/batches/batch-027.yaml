@@ -31,7 +31,7 @@
     - elton john
     reasoning: ell (the letter L) + ton (heavy weight) + john (toilet) = Elton John
 - id: celebbusters-002
-  enabled: true
+  enabled: false
   title: Celebbusters
   topic: classic British celebrities and entertainers
   difficulty: medium
@@ -63,7 +63,7 @@
     - paul mccartney
     reasoning: pall (dead weight, like a pallbearer) + Mick (Irish bloke) + art (paint) + knee (leg joint) = Paul McCartney
 - id: celebbusters-003
-  enabled: true
+  enabled: false
   title: Celebbusters
   topic: classic British celebrities and entertainers
   difficulty: medium
@@ -95,7 +95,7 @@
     - eric clapton
     reasoning: err (mistake sound) + Rick (bloke called Rick) + clap (applause) + ton (heavy weight) = Eric Clapton
 - id: celebbusters-004
-  enabled: true
+  enabled: false
   title: Celebbusters
   topic: classic British celebrities and entertainers
   difficulty: medium
@@ -127,7 +127,7 @@
     - roger daltrey
     reasoning: roger (confirmed, military speak) + dolt (stupid person) + ray (beam of light) = Roger Daltrey
 - id: celebbusters-005
-  enabled: true
+  enabled: false
   title: Celebbusters
   topic: classic British celebrities and entertainers
   difficulty: medium
@@ -255,7 +255,7 @@
     - tom jones
     reasoning: Tom (short name, common) + Jones (Indiana Jones) = Tom Jones
 - id: celebbusters-009
-  enabled: true
+  enabled: false
   title: Celebbusters
   topic: classic British celebrities and entertainers
   difficulty: medium
@@ -287,7 +287,7 @@
     - cliff richard
     reasoning: cliff (rocky seaside drop) + rich (wealthy) + ard (yard) = Cliff Richard
 - id: celebbusters-010
-  enabled: true
+  enabled: false
   title: Celebbusters
   topic: classic British celebrities and entertainers
   difficulty: medium
@@ -319,7 +319,7 @@
     - robert plant
     reasoning: rob (nick) + Bert (bloke's name) + plant (bury in garden) = Robert Plant
 - id: celebbusters-011
-  enabled: true
+  enabled: false
   title: Celebbusters
   topic: classic British celebrities and entertainers
   difficulty: medium
@@ -351,7 +351,7 @@
     - ringo starr
     reasoning: ring (circular jewellery) + go (marching orders) + star (shiny sky thing) = Ringo Starr
 - id: celebbusters-012
-  enabled: true
+  enabled: false
   title: Celebbusters
   topic: classic British celebrities and entertainers
   difficulty: medium
@@ -383,7 +383,7 @@
     - roger daltrey
     reasoning: roger (confirmed) + dolt (thick person) + ray (shaft of light) = Roger Daltrey
 - id: celebbusters-013
-  enabled: true
+  enabled: false
   title: Celebbusters
   topic: classic British celebrities and entertainers
   difficulty: medium
@@ -447,7 +447,7 @@
     - robbie williams
     reasoning: rob (steal) + be (go be) + yams (sweet potato things) = Robbie Williams. Near enough when said aloud.
 - id: celebbusters-015
-  enabled: true
+  enabled: false
   title: Celebbusters
   topic: classic British celebrities and entertainers
   difficulty: medium
@@ -479,7 +479,7 @@
     - mick jagger
     reasoning: Mick (Paddy, Irish) + jag (scratch with sharp thing) + ger = Mick Jagger
 - id: celebbusters-016
-  enabled: true
+  enabled: false
   title: Celebbusters
   topic: classic British celebrities and entertainers
   difficulty: medium
@@ -511,7 +511,7 @@
     - cliff richard
     reasoning: cliff (rocky seaside drop) + rich (well-off) + ard (patch of yard) = Cliff Richard
 - id: celebbusters-017
-  enabled: true
+  enabled: false
   title: Celebbusters
   topic: classic British celebrities and entertainers
   difficulty: medium
@@ -543,7 +543,7 @@
     - george harrison
     reasoning: George (St George, England's flag) + Harry (run off with) + son (someone's boy) = George Harrison
 - id: celebbusters-018
-  enabled: true
+  enabled: false
   title: Celebbusters
   topic: classic British celebrities and entertainers
   difficulty: medium
@@ -575,7 +575,7 @@
     - brian may
     reasoning: cryin (crying) sounds like Brian + May (fifth month) = Brian May
 - id: celebbusters-019
-  enabled: true
+  enabled: false
   title: Celebbusters
   topic: classic British celebrities and entertainers
   difficulty: medium
@@ -607,7 +607,7 @@
     - roger daltrey
     reasoning: roger (military confirmation) + dolt (dozy lad) + ray (sunshine ray) = Roger Daltrey
 - id: celebbusters-020
-  enabled: true
+  enabled: false
   title: Celebbusters
   topic: classic British celebrities and entertainers
   difficulty: medium

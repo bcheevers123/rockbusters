@@ -3124,36 +3124,6 @@
     ]
   },
   {
-    "id": "celebbusters-016",
-    "enabled": true,
-    "title": "Celebbusters",
-    "topic": "classic British celebrities and entertainers",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Right, Celebbusters. More classic British faces in phonetic form. You'll get these.",
-    "prize": "Email in. Winner gets a Fun Size Bounty and a 1998 Argos catalogue, mint condition.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "E J",
-        "clue": "The letter L's got a massive weight on it, and it's ended up parked next to a toilet. L's having a rough day."
-      },
-      {
-        "number": 2,
-        "initials": "T J",
-        "clue": "Right, the cartoon cat and Indiana's surname. That's literally all this is. Easy one."
-      },
-      {
-        "number": 3,
-        "initials": "C R",
-        "clue": "At the bottom of that big rocky seaside drop, there's a very well-off patch of garden. Nice spot, actually."
-      }
-    ]
-  },
-  {
     "id": "condimentbusters-001",
     "enabled": true,
     "title": "Condimentbusters",
@@ -5066,36 +5036,6 @@
     ]
   },
   {
-    "id": "celebbusters-019",
-    "enabled": true,
-    "title": "Celebbusters",
-    "topic": "classic British celebrities and entertainers",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Celebbusters. Three more phonetic British icons. Have a go.",
-    "prize": "Email in. Winner gets a faded Glastonbury wristband from 2002 and a cereal bar of unknown vintage.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "R S",
-        "clue": "That jewellery thing for fingers has been told to go away, then something twinkly appears in the sky. Make of that what you will."
-      },
-      {
-        "number": 2,
-        "initials": "J P",
-        "clue": "Used a wee crowbar thing to get through a door, then sat down with a good book. Page one. Obviously."
-      },
-      {
-        "number": 3,
-        "initials": "R D",
-        "clue": "The military fella's confirmed the order. Loud and clear. Then some dozy lad's standing in a ray of sunshine nearby. Sort of works."
-      }
-    ]
-  },
-  {
     "id": "condimentbusters-002",
     "enabled": true,
     "title": "Condimentbusters",
@@ -6348,36 +6288,6 @@
     ]
   },
   {
-    "id": "celebbusters-003",
-    "enabled": true,
-    "title": "Celebbusters",
-    "topic": "classic British celebrities and entertainers",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Alright, Celebbusters again. Three phonetic ones. Classic British faces, these.",
-    "prize": "Email in. Winner gets a Blockbuster loyalty card and a bag of own-brand crisps.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "M J",
-        "clue": "An Irish fella's gone and keyed someone's car. Proper scraped it all down the side. Not ideal."
-      },
-      {
-        "number": 2,
-        "initials": "K R",
-        "clue": "Right, them things you use to unlock doors, they belong to a very wealthy yard. Fancy area."
-      },
-      {
-        "number": 3,
-        "initials": "E C",
-        "clue": "Someone's made a mistake and now Rick's doing applause next to a very heavy weight. Weird combination."
-      }
-    ]
-  },
-  {
     "id": "comediansbusters-010",
     "enabled": true,
     "title": "Comediansbusters",
@@ -7140,36 +7050,6 @@
         "number": 3,
         "initials": "CSI",
         "clue": "The sun's out, right, and a bloke called Ian's standing guard over it. Making sure no clouds get to it."
-      }
-    ]
-  },
-  {
-    "id": "celebbusters-017",
-    "enabled": true,
-    "title": "Celebbusters",
-    "topic": "classic British celebrities and entertainers",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Three more British icons in phonetic form. Say them aloud. Seriously, say them aloud.",
-    "prize": "Email in. Winner gets a CD single they probably already own and a loyalty card for a shop that shut down.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "F M",
-        "clue": "Fred's transformed into a silver liquid metal, the stuff from old thermometers. That's not normal for Fred."
-      },
-      {
-        "number": 2,
-        "initials": "J L",
-        "clue": "Outside toilet. Man called Len. Won't accept anything that's being offered. Just keeps saying no. That's it."
-      },
-      {
-        "number": 3,
-        "initials": "G H",
-        "clue": "The bloke on England's flag has run off with someone's boy. Just grabbed him and legged it. Bit much."
       }
     ]
   },
@@ -9596,36 +9476,6 @@
     ]
   },
   {
-    "id": "celebbusters-020",
-    "enabled": true,
-    "title": "Celebbusters",
-    "topic": "classic British celebrities and entertainers",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Celebbusters. Three phonetic British legends to find. Say each one out loud.",
-    "prize": "Email in. Winner gets a Boots meal deal voucher that expired in 2004 and a pen on a chain.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "O O",
-        "clue": "The Australian lad, right, he was just born. That's the entire clue. Born somewhere. Deal with it."
-      },
-      {
-        "number": 2,
-        "initials": "E C",
-        "clue": "Something's gone wrong, Rick's started clapping, and there's a big weight next to him. Poor Rick, doesn't know where to look."
-      },
-      {
-        "number": 3,
-        "initials": "P M",
-        "clue": "A coffin carrier's lugging their load past an Irish lad who's got a painting stuck to his knee. Just one of those days."
-      }
-    ]
-  },
-  {
     "id": "nostalgiabusters-019",
     "enabled": true,
     "title": "Nostalgiabusters",
@@ -11161,36 +11011,6 @@
     ]
   },
   {
-    "id": "celebbusters-004",
-    "enabled": true,
-    "title": "Celebbusters",
-    "topic": "classic British celebrities and entertainers",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "More Celebbusters. Say these out loud and it'll come to you. Probably.",
-    "prize": "Email in. Winner gets an AOL trial disc and a mouse mat from a company that went bust in 2003.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "O O",
-        "clue": "That Australian bloke's only gone and been born somewhere, hasn't he. Born. That's literally it."
-      },
-      {
-        "number": 2,
-        "initials": "J P",
-        "clue": "Right, someone's used a bent bit of metal to get through a locked door, then sat down and had a flick through a book. That's all."
-      },
-      {
-        "number": 3,
-        "initials": "R D",
-        "clue": "Someone's confirmed everything's alright, then a right dozy person's standing near a beam of sunshine. Fair enough."
-      }
-    ]
-  },
-  {
     "id": "nostalgiabusters-002",
     "enabled": true,
     "title": "Nostalgiabusters",
@@ -11893,36 +11713,6 @@
         "number": 3,
         "initials": "T D",
         "clue": "The island at the bottom of Australia, right. Whatever lives there is absolutely furious about something."
-      }
-    ]
-  },
-  {
-    "id": "celebbusters-011",
-    "enabled": true,
-    "title": "Celebbusters",
-    "topic": "classic British celebrities and entertainers",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Right, Celebbusters. Say these out loud and they'll land. Probably.",
-    "prize": "Email in. Winner gets a Cadbury Roses tin with three left in it and a novelty bottle opener.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "J L",
-        "clue": "Next to the outside toilet there's a man called Len refusing everything that's offered to him. Just saying no. Leave him."
-      },
-      {
-        "number": 2,
-        "initials": "G H",
-        "clue": "St George has gone and run off with someone's lad. Just taken him. Saints, eh."
-      },
-      {
-        "number": 3,
-        "initials": "R S",
-        "clue": "That circular jewellery thing's been given its marching orders, then there's a famous shiny thing up in the night sky. Bit dramatic."
       }
     ]
   },
@@ -13305,36 +13095,6 @@
     ]
   },
   {
-    "id": "celebbusters-013",
-    "enabled": true,
-    "title": "Celebbusters",
-    "topic": "classic British celebrities and entertainers",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Alright. Celebbusters. British icons, phonetic clues. Easy when you hear it.",
-    "prize": "Email in. Winner gets a Ryman's stationery set and a copy of Art Attack annual 1998.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "O O",
-        "clue": "That bloke from down under, the one who keeps saying oz this and oz that, he was born somewhere. That's the clue. Just born."
-      },
-      {
-        "number": 2,
-        "initials": "E C",
-        "clue": "Someone's gone wrong, then Rick's started clapping away next to a weight. Nobody knows why Rick's there."
-      },
-      {
-        "number": 3,
-        "initials": "P M",
-        "clue": "There's a pallbearer lugging something heavy, and an Irish lad's got paint all over his knee. Bit of a scene."
-      }
-    ]
-  },
-  {
     "id": "nostalgiabusters-013",
     "enabled": true,
     "title": "Nostalgiabusters",
@@ -13974,36 +13734,6 @@
         "number": 3,
         "initials": "TG",
         "clue": "The very top of a particular gear on a bicycle. Right at the very summit of it. That's it, that's your clue."
-      }
-    ]
-  },
-  {
-    "id": "celebbusters-010",
-    "enabled": true,
-    "title": "Celebbusters",
-    "topic": "classic British celebrities and entertainers",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Celebbusters. British music royalty this time. These are good ones, I think.",
-    "prize": "Email in. Winner gets a copy of Peter Kay's Phoenix Nights on VHS and a service station keyring.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "F M",
-        "clue": "Fred's only gone and turned into that silver wobbly stuff you get in old thermometers. Just happened, apparently."
-      },
-      {
-        "number": 2,
-        "initials": "B M",
-        "clue": "Someone's been weeping a bit, then the month between April and June turns up out of nowhere. Emotional calendar."
-      },
-      {
-        "number": 3,
-        "initials": "R P",
-        "clue": "Nick a fella called Bert, then after, go and bury something leafy and green in the garden. That sequence. That's all."
       }
     ]
   },
@@ -14713,36 +14443,6 @@
     ]
   },
   {
-    "id": "celebbusters-018",
-    "enabled": true,
-    "title": "Celebbusters",
-    "topic": "classic British celebrities and entertainers",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Celebbusters. British legends round. Three clues, all phonetic. Off you go.",
-    "prize": "Email in. Winner gets a commemorative spoon from somewhere and a BHS carrier bag.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "P T",
-        "clue": "Right, that wet dark stuff from the bog has gone and settled at the end of several towns. Just moved in. That's all."
-      },
-      {
-        "number": 2,
-        "initials": "R P",
-        "clue": "Steal Bert. Then bury a flower. In that order. Don't question it."
-      },
-      {
-        "number": 3,
-        "initials": "B M",
-        "clue": "There's someone having a bit of a cry in the fifth month. Seasonal, I suppose."
-      }
-    ]
-  },
-  {
     "id": "nostalgiabusters-006",
     "enabled": true,
     "title": "Nostalgiabusters",
@@ -15413,36 +15113,6 @@
         "number": 3,
         "initials": "A",
         "clue": "That's a tough one to say out loud. The opposite of soft-bark, isn't it. The dog's done a proper bark and it was difficult."
-      }
-    ]
-  },
-  {
-    "id": "celebbusters-002",
-    "enabled": true,
-    "title": "Celebbusters",
-    "topic": "classic British celebrities and entertainers",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Three more classic British entertainers hidden in phonetic clues here. Don't overthink it.",
-    "prize": "Email in. Winner gets a copy of Now 42 on cassette and a Woolworths bag for life.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "T J",
-        "clue": "That cat off the telly, right, the one that's always arguing with the mouse. His surname's the same as that archaeologist who goes looking for arks and that."
-      },
-      {
-        "number": 2,
-        "initials": "C R",
-        "clue": "Big rocky drop at the edge of the sea, and at the bottom there's a very wealthy yard. Bit of a landscape."
-      },
-      {
-        "number": 3,
-        "initials": "P M",
-        "clue": "Someone's lugging about a dead weight, right, and there's an Irishman who's got oil paint all over his leg joint. No idea what's going on."
       }
     ]
   },
@@ -16121,36 +15791,6 @@
     ]
   },
   {
-    "id": "celebbusters-012",
-    "enabled": true,
-    "title": "Celebbusters",
-    "topic": "classic British celebrities and entertainers",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Celebbusters again. Three British legends in phonetic form. Don't overthink this.",
-    "prize": "Email in. Winner gets a Just Seventeen magazine from 1996 and a half-used gift set from Clinton Cards.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "P T",
-        "clue": "That dark boggy stuff from the Irish countryside has moved in at the far end of several towns. Just set up there."
-      },
-      {
-        "number": 2,
-        "initials": "J P",
-        "clue": "Someone's levered open a lock with a bent thing, then they've had a good old read of page one. In that order."
-      },
-      {
-        "number": 3,
-        "initials": "R D",
-        "clue": "He's confirmed it, right. Said roger. And nearby there's a right thick person standing in a shaft of light. All very odd."
-      }
-    ]
-  },
-  {
     "id": "nostalgiabusters-011",
     "enabled": true,
     "title": "Nostalgiabusters",
@@ -16795,36 +16435,6 @@
     ]
   },
   {
-    "id": "celebbusters-015",
-    "enabled": true,
-    "title": "Celebbusters",
-    "topic": "classic British celebrities and entertainers",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Celebbusters. British music icons this round. Think phonetically, not literally.",
-    "prize": "Email in. Winner gets a signed Gary Barlow colouring book and a tube of travel sweets.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "R S",
-        "clue": "That fishing pole's been left in the broth again. And someone's done a painting of it. Why? Nobody knows."
-      },
-      {
-        "number": 2,
-        "initials": "K R",
-        "clue": "Them little metal things for doors, they've set up in a very well-off part of town. All gated and that."
-      },
-      {
-        "number": 3,
-        "initials": "M J",
-        "clue": "Paddy's used something sharp to scratch the side of a car. Expensive mistake, that."
-      }
-    ]
-  },
-  {
     "id": "nostalgiabusters-003",
     "enabled": true,
     "title": "Nostalgiabusters",
@@ -17465,36 +17075,6 @@
         "number": 3,
         "initials": "M",
         "clue": "It's almost a cat, isn't it. Barely. Just look at the thing."
-      }
-    ]
-  },
-  {
-    "id": "celebbusters-009",
-    "enabled": true,
-    "title": "Celebbusters",
-    "topic": "classic British celebrities and entertainers",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Three classic British entertainers, all hidden phonetically. You know the drill.",
-    "prize": "Email in. Winner gets a HMV gift voucher for 50p and a laminated certificate saying well done.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "M J",
-        "clue": "Right, an Irish fella's grabbed a sharp thing and dragged it along the paintwork. Absolute mess."
-      },
-      {
-        "number": 2,
-        "initials": "K R",
-        "clue": "Them door-unlocking things are sitting in a very posh, well-off yard. Living the dream, are them keys."
-      },
-      {
-        "number": 3,
-        "initials": "C R",
-        "clue": "Down at the seaside, there's a huge rocky drop, and at the bottom some wealthy fella's built a yard. Bit dramatic."
       }
     ]
   },
@@ -18170,36 +17750,6 @@
         "number": 3,
         "initials": "G",
         "clue": "That bloke Ralph, the one with the long neck, he's having a laugh, isn't he."
-      }
-    ]
-  },
-  {
-    "id": "celebbusters-005",
-    "enabled": true,
-    "title": "Celebbusters",
-    "topic": "classic British celebrities and entertainers",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Celebbusters. Some proper legends in this one. You'll kick yourself.",
-    "prize": "Email in. Winner gets a DVD copy of Brassed Off and a miniature shampoo from a Travel Lodge.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "P T",
-        "clue": "That dark spongy stuff they dig up in Irish bogs, right, it's gone and set up home at the end of some villages. Bit rural."
-      },
-      {
-        "number": 2,
-        "initials": "R P",
-        "clue": "Go on, nick that bloke called Bert, then stick something green and leafy in the ground after. Don't know why."
-      },
-      {
-        "number": 3,
-        "initials": "B M",
-        "clue": "There's a bit of crying going on, then the fifth month of the year turns up. Sort of sad but also calendary."
       }
     ]
   },
