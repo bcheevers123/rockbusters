@@ -404,8 +404,9 @@
       },
       {
         "number": 2,
-        "answer": "Lollapalooza",
+        "answer": "Reading Festival",
         "aliases": [
+          "reading festival",
           "lollapalooza",
           "lolla palooza"
         ],
@@ -2527,8 +2528,9 @@
       },
       {
         "number": 3,
-        "answer": "Tomorrowland",
+        "answer": "Notting Hill Carnival",
         "aliases": [
+          "notting hill carnival",
           "tomorrowland",
           "tomorrow land"
         ],
@@ -4635,8 +4637,9 @@
       },
       {
         "number": 2,
-        "answer": "Coachella",
+        "answer": "Carnival Rio",
         "aliases": [
+          "carnival rio",
           "coachella",
           "coachella valley music and arts festival"
         ],

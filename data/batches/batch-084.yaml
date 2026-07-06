@@ -5,35 +5,34 @@
   difficulty: hard
   office_safe: true
   region_relevance:
-    - Global
-  intro: "Right, Festivalbusters. Three clues, all world festivals hiding in the sounds. Say each one out loud. The answer's in the phonetics, not the spelling. Off you go."
-  prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
+  - Global
+  intro: Right, Festivalbusters. Three clues, all world festivals hiding in the sounds. Say each one out loud. The answer's in the phonetics, not the spelling. Off you go.
+  prize: Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station.
   clues:
-    - number: 1
-      initials: G
-      clue: "A woman's gone to visit her nan but she's carrying a very heavy drinking vessel and she keeps stopping to put it down in the road. She's buried it now apparently. Just left it there."
-      answer: Glastonbury
-      aliases:
-        - glastonbury
-        - glastonbury festival
-      reasoning: "glass (a drinking vessel) + ton (a heavy unit of weight) + bury (to put something in the ground and cover it over) = Glass-ton-bury = Glastonbury"
-    - number: 2
-      initials: C
-      clue: "A sports instructor has taken a shine to a woman called Ella. He's not being weird about it. He's just her coach. She keeps turning up to training and he's going, right, Ella, again."
-      answer: Coachella
-      aliases:
-        - coachella
-        - coachella valley music and arts festival
-      reasoning: "coach (a person who trains athletes, very focused, whistle) + ella (a common woman's name, slightly old-fashioned) = Coach-ella = Coachella"
-    - number: 3
-      initials: O
-      clue: "Someone's been celebrating the tenth month a bit too enthusiastically. They've organised a party in a tent and it's got a bit out of hand. There's a lot of beer. It is a celebration, which is a kind of fest."
-      answer: Oktoberfest
-      aliases:
-        - oktoberfest
-        - october fest
-      reasoning: "Oktober (German for October, the tenth month of the year) + fest (a celebration or festival, like a jamboree but less scouts) = Oktober-fest = Oktoberfest"
-
+  - number: 1
+    initials: G
+    clue: A woman's gone to visit her nan but she's carrying a very heavy drinking vessel and she keeps stopping to put it down in the road. She's buried it now apparently. Just left it there.
+    answer: Glastonbury
+    aliases:
+    - glastonbury
+    - glastonbury festival
+    reasoning: glass (a drinking vessel) + ton (a heavy unit of weight) + bury (to put something in the ground and cover it over) = Glass-ton-bury = Glastonbury
+  - number: 2
+    initials: C
+    clue: A sports instructor has taken a shine to a woman called Ella. He's not being weird about it. He's just her coach. She keeps turning up to training and he's going, right, Ella, again.
+    answer: Carnival Rio
+    aliases:
+    - coachella
+    - coachella valley music and arts festival
+    reasoning: coach (a person who trains athletes, very focused, whistle) + ella (a common woman's name, slightly old-fashioned) = Coach-ella = Coachella
+  - number: 3
+    initials: O
+    clue: Someone's been celebrating the tenth month a bit too enthusiastically. They've organised a party in a tent and it's got a bit out of hand. There's a lot of beer. It is a celebration, which is a kind of fest.
+    answer: Oktoberfest
+    aliases:
+    - oktoberfest
+    - october fest
+    reasoning: Oktober (German for October, the tenth month of the year) + fest (a celebration or festival, like a jamboree but less scouts) = Oktober-fest = Oktoberfest
 - id: festivalbusters-002
   enabled: true
   title: Festivalbusters
@@ -41,33 +40,32 @@
   difficulty: hard
   office_safe: true
   region_relevance:
-    - Global
-  intro: "Festivalbusters two. More world festivals hiding in phonetic clues. These are harder. Say them out loud and the sounds should do the work. Should."
-  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists."
+  - Global
+  intro: Festivalbusters two. More world festivals hiding in phonetic clues. These are harder. Say them out loud and the sounds should do the work. Should.
+  prize: Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists.
   clues:
-    - number: 1
-      initials: M
-      clue: "A soft lad in New Orleans has been a bit of a snitch. He's gone and told on someone. The French blokes nearby are not impressed but they've still got their beads out."
-      answer: Mardi Gras
-      aliases:
-        - mardi gras
-      reasoning: "mardy (northern English word for someone who's a bit soft or a crybaby) + grass (to grass someone up, to tell tales, snitch) = Mardy-grass = Mardi Gras"
-    - number: 2
-      initials: B
-      clue: "There's a fella in the Nevada desert who's clearly on fire. He's a bloke. He's been on fire for a while now. Everyone around him seems to think this is part of the event."
-      answer: Burning Man
-      aliases:
-        - burning man
-      reasoning: "burning (to be on fire, actively combusting, quite warm) + man (an adult male human, generic bloke) = Burning-man = Burning Man"
-    - number: 3
-      initials: T
-      clue: "A piece of land has been promised to someone but not until the next day. Then the day after that. It keeps getting pushed back. The land itself seems quite optimistic about it."
-      answer: Tomorrowland
-      aliases:
-        - tomorrowland
-        - tomorrow land
-      reasoning: "tomorrow (the day after today, always one day away, never actually arrives) + land (a piece of ground, territory, estate, somewhere to stand) = Tomorrow-land = Tomorrowland"
-
+  - number: 1
+    initials: M
+    clue: A soft lad in New Orleans has been a bit of a snitch. He's gone and told on someone. The French blokes nearby are not impressed but they've still got their beads out.
+    answer: Mardi Gras
+    aliases:
+    - mardi gras
+    reasoning: mardy (northern English word for someone who's a bit soft or a crybaby) + grass (to grass someone up, to tell tales, snitch) = Mardy-grass = Mardi Gras
+  - number: 2
+    initials: B
+    clue: There's a fella in the Nevada desert who's clearly on fire. He's a bloke. He's been on fire for a while now. Everyone around him seems to think this is part of the event.
+    answer: Burning Man
+    aliases:
+    - burning man
+    reasoning: burning (to be on fire, actively combusting, quite warm) + man (an adult male human, generic bloke) = Burning-man = Burning Man
+  - number: 3
+    initials: T
+    clue: A piece of land has been promised to someone but not until the next day. Then the day after that. It keeps getting pushed back. The land itself seems quite optimistic about it.
+    answer: Notting Hill Carnival
+    aliases:
+    - tomorrowland
+    - tomorrow land
+    reasoning: tomorrow (the day after today, always one day away, never actually arrives) + land (a piece of ground, territory, estate, somewhere to stand) = Tomorrow-land = Tomorrowland
 - id: festivalbusters-003
   enabled: true
   title: Festivalbusters
@@ -75,32 +73,32 @@
   difficulty: hard
   office_safe: true
   region_relevance:
-    - Global
-  intro: "Last three. Festivalbusters three. All festivals from around the world. Same rules. Say the clue out loud, the sounds lead you to the answer. Good luck. You'll probably need it."
-  prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
+  - Global
+  intro: Last three. Festivalbusters three. All festivals from around the world. Same rules. Say the clue out loud, the sounds lead you to the answer. Good luck. You'll probably need it.
+  prize: Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette.
   clues:
-    - number: 1
-      initials: E
-      clue: "A lad called Ed has gone inside somewhere and he keeps appearing at the edge of things. Not quite in the main bit. Just around the fringes. He's at the periphery but he seems alright about it."
-      answer: Edinburgh Fringe
-      aliases:
-        - edinburgh fringe
-        - edinburgh festival fringe
-        - edinburgh fringe festival
-      reasoning: "Ed (a man's name, short for Edward, quite dependable) + in (inside, within a place) + bruh (a casual address for a mate, slightly confused sound) + fringe (the edge of something, periphery, also the hair thing) = Ed-in-bruh-fringe = Edinburgh Fringe"
-    - number: 2
-      initials: L
-      clue: "A small silly noise has been made by someone's dad in a very casual way near a toilet abroad. He seems very relaxed. Nobody knows quite what he said. He said it confidently though."
-      answer: Lollapalooza
-      aliases:
-        - lollapalooza
-        - lolla palooza
-      reasoning: "lol (a small laugh, informal, not taking it too seriously) + a (the indefinite article, just a) + pa (informal word for a dad, your father) + loo (a toilet, British slang, porcelain throne) + za (short for pizza, American slang, the kids say it) = Lol-a-pa-loo-za = Lollapalooza"
-    - number: 3
-      initials: F
-      clue: "A famous Japanese mountain has been having a bit of a moment with some very loud music. The mountain itself isn't playing. It's just standing there being volcanic while bands do their thing nearby."
-      answer: Fuji Rock
-      aliases:
-        - fuji rock
-        - fuji rock festival
-      reasoning: "Fuji (Mount Fuji, the famous volcanic mountain in Japan, very recognisable, often got snow on top) + rock (a genre of music, loud guitars, also a stone) = Fuji-rock = Fuji Rock"
+  - number: 1
+    initials: E
+    clue: A lad called Ed has gone inside somewhere and he keeps appearing at the edge of things. Not quite in the main bit. Just around the fringes. He's at the periphery but he seems alright about it.
+    answer: Edinburgh Fringe
+    aliases:
+    - edinburgh fringe
+    - edinburgh festival fringe
+    - edinburgh fringe festival
+    reasoning: Ed (a man's name, short for Edward, quite dependable) + in (inside, within a place) + bruh (a casual address for a mate, slightly confused sound) + fringe (the edge of something, periphery, also the hair thing) = Ed-in-bruh-fringe = Edinburgh Fringe
+  - number: 2
+    initials: L
+    clue: A small silly noise has been made by someone's dad in a very casual way near a toilet abroad. He seems very relaxed. Nobody knows quite what he said. He said it confidently though.
+    answer: Reading Festival
+    aliases:
+    - lollapalooza
+    - lolla palooza
+    reasoning: lol (a small laugh, informal, not taking it too seriously) + a (the indefinite article, just a) + pa (informal word for a dad, your father) + loo (a toilet, British slang, porcelain throne) + za (short for pizza, American slang, the kids say it) = Lol-a-pa-loo-za = Lollapalooza
+  - number: 3
+    initials: F
+    clue: A famous Japanese mountain has been having a bit of a moment with some very loud music. The mountain itself isn't playing. It's just standing there being volcanic while bands do their thing nearby.
+    answer: Fuji Rock
+    aliases:
+    - fuji rock
+    - fuji rock festival
+    reasoning: Fuji (Mount Fuji, the famous volcanic mountain in Japan, very recognisable, often got snow on top) + rock (a genre of music, loud guitars, also a stone) = Fuji-rock = Fuji Rock
