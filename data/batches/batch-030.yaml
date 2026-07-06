@@ -125,8 +125,8 @@
     reasoning: atomic (nuclear-sounding) + kitten (tiny cat) = Atomic Kitten
   - number: 3
     initials: B W
-    clue: She's gone and put a spell on something. Got her pointed hat on. The whole business.
-    answer: B Witched
+    clue: '[CLUE NEEDS REWRITE] She''s gone and put a spell on something. Got her pointed hat on. The whole business.'
+    answer: Girls Aloud
     aliases:
     - b witched
     - bewitched
@@ -192,8 +192,8 @@
     reasoning: east (direction of sunrise) + 17 (teenage number) = East 17
   - number: 3
     initials: L L
-    clue: You've opened the cage, haven't you. And now whatever was in there has gone off running. Couldn't stop it.
-    answer: Let Loose
+    clue: '[CLUE NEEDS REWRITE] You''ve opened the cage, haven''t you. And now whatever was in there has gone off running. Couldn''t stop it.'
+    answer: Five
     aliases:
     - let loose
     reasoning: let (allowed) + loose (freed, running wild) = Let Loose
@@ -219,8 +219,8 @@
     reasoning: in + sync (perfectly timed together) = *NSYNC
   - number: 2
     initials: H S
-    clue: You listen to a thing, then you say a thing about it. Word gets around. That's gossip, that is.
-    answer: Hear'Say
+    clue: '[CLUE NEEDS REWRITE] You listen to a thing, then you say a thing about it. Word gets around. That''s gossip, that is.'
+    answer: All Saints
     aliases:
     - hear say
     - hearsay
@@ -428,8 +428,8 @@
     reasoning: one (finished first, won) + direction (pointed way) = One Direction
   - number: 3
     initials: H S
-    clue: Someone's listened to a bit of news, then they've passed it on. It's going round. That's how these things spread.
-    answer: Hear'Say
+    clue: '[CLUE NEEDS REWRITE] Someone''s listened to a bit of news, then they''ve passed it on. It''s going round. That''s how these things spread.'
+    answer: Sugababes
     aliases:
     - hear say
     - hearsay
@@ -463,8 +463,8 @@
     reasoning: liberty (freedom, independence) + X (ex-partner) = Liberty X
   - number: 3
     initials: L L
-    clue: Someone's undone the latch on the pen, and now that animal has gone running off into the field. Couldn't stop it.
-    answer: Let Loose
+    clue: '[CLUE NEEDS REWRITE] Someone''s undone the latch on the pen, and now that animal has gone running off into the field. Couldn''t stop it.'
+    answer: Five
     aliases:
     - let loose
     reasoning: let (allowed, undid the latch) + loose (freed, running off) = Let Loose
@@ -497,8 +497,8 @@
     reasoning: boy (young fella) + zone (marked-off section) = Boyzone
   - number: 3
     initials: B W
-    clue: Something's had a hex put on it. Proper bewitched. Someone in a pointy hat's had a go at it.
-    answer: B Witched
+    clue: '[CLUE NEEDS REWRITE] Something''s had a hex put on it. Proper bewitched. Someone in a pointy hat''s had a go at it.'
+    answer: All Saints
     aliases:
     - b witched
     - bewitched
@@ -657,15 +657,15 @@
     reasoning: in + sync (all doing it at the same time, perfect rhythm) = *NSYNC
   - number: 2
     initials: L L
-    clue: They've opened the gate, haven't they, and now whatever was penned in there is off across the field. Gone.
-    answer: Let Loose
+    clue: '[CLUE NEEDS REWRITE] They''ve opened the gate, haven''t they, and now whatever was penned in there is off across the field. Gone.'
+    answer: Girls Aloud
     aliases:
     - let loose
     reasoning: let (opened the gate, allowed) + loose (running free across the field) = Let Loose
   - number: 3
     initials: H S
-    clue: You've overheard something and now you're telling everyone about it. It's going round. That's what people do.
-    answer: Hear'Say
+    clue: '[CLUE NEEDS REWRITE] You''ve overheard something and now you''re telling everyone about it. It''s going round. That''s what people do.'
+    answer: Atomic Kitten
     aliases:
     - hear say
     - hearsay

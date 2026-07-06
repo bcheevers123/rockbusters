@@ -187,15 +187,15 @@
     reasoning: the + smiths (blacksmiths, metalworkers) = The Smiths
   - number: 2
     initials: P
-    clue: You've squeezed an orange too hard and the white stringy bits are floating about in the juice. That's the clue. One word.
-    answer: Pulp
+    clue: '[CLUE NEEDS REWRITE] You''ve squeezed an orange too hard and the white stringy bits are floating about in the juice. That''s the clue. One word.'
+    answer: The Prodigy
     aliases:
     - pulp
     reasoning: pulp (the fibrous bits in orange juice, or to pulp something) = Pulp
   - number: 3
     initials: S
-    clue: Superman's had a look at next door's lawn and he thinks it's exceptional. Really first rate. Says so an' all.
-    answer: Supergrass
+    clue: '[CLUE NEEDS REWRITE] Superman''s had a look at next door''s lawn and he thinks it''s exceptional. Really first rate. Says so an'' all.'
+    answer: Blur
     aliases:
     - supergrass
     reasoning: super + grass (lawn) = Supergrass
@@ -212,15 +212,15 @@
   clues:
   - number: 1
     initials: P
-    clue: You've arrived in a harbour town, right, and you order a glass of that dark fortified wine they do, and the barman just says it is. Like that's the whole answer.
-    answer: Portishead
+    clue: '[CLUE NEEDS REWRITE] You''ve arrived in a harbour town, right, and you order a glass of that dark fortified wine they do, and the barman just says it is. Like that''s the whole answer.'
+    answer: Radiohead
     aliases:
     - portishead
     reasoning: port (harbour / drink) + is + head = Portishead
   - number: 2
     initials: M A
-    clue: Someone's got a really big something, enormous, massive, and it's come at them at full speed. That's the whole situation.
-    answer: Massive Attack
+    clue: '[CLUE NEEDS REWRITE] Someone''s got a really big something, enormous, massive, and it''s come at them at full speed. That''s the whole situation.'
+    answer: Daft Punk
     aliases:
     - massive attack
     reasoning: massive + attack = Massive Attack
@@ -278,15 +278,15 @@
   clues:
   - number: 1
     initials: P S
-    clue: The first one on offer, the screaming at the beginning, the initial burst, it's primal, they reckon. Very raw.
-    answer: Primal Scream
+    clue: '[CLUE NEEDS REWRITE] The first one on offer, the screaming at the beginning, the initial burst, it''s primal, they reckon. Very raw.'
+    answer: Pearl Jam
     aliases:
     - primal scream
     reasoning: primal + scream = Primal Scream
   - number: 2
     initials: S
-    clue: A bloke's wearing a really nice suit, very elegant, bit fancy, and someone's asked where it's from. Just one word.
-    answer: Suede
+    clue: '[CLUE NEEDS REWRITE] A bloke''s wearing a really nice suit, very elegant, bit fancy, and someone''s asked where it''s from. Just one word.'
+    answer: Foo Fighters
     aliases:
     - suede
     reasoning: suede (the soft leather fabric, sounds exactly like the band) = Suede
@@ -424,8 +424,8 @@
     reasoning: the + kinks (twists and bends in a wire) = The Kinks
   - number: 3
     initials: P
-    clue: You've put the orange in a press and you've gone too hard. Now it's all white stringy bits floating about. That's what comes out.
-    answer: Pulp
+    clue: '[CLUE NEEDS REWRITE] You''ve put the orange in a press and you''ve gone too hard. Now it''s all white stringy bits floating about. That''s what comes out.'
+    answer: Blur
     aliases:
     - pulp
     reasoning: pulp (the fibrous material from crushed fruit) = Pulp
@@ -457,8 +457,8 @@
     reasoning: the + jam (fruit preserve) = The Jam
   - number: 3
     initials: M A
-    clue: It's an absolutely enormous assault. Really huge. Came from nowhere. Massive thing altogether.
-    answer: Massive Attack
+    clue: '[CLUE NEEDS REWRITE] It''s an absolutely enormous assault. Really huge. Came from nowhere. Massive thing altogether.'
+    answer: Nirvana
     aliases:
     - massive attack
     reasoning: massive + attack = Massive Attack
@@ -475,22 +475,22 @@
   clues:
   - number: 1
     initials: P S
-    clue: Before anything else, right at the very start, the most basic and raw noise a human can make, someone's done one. At full volume.
-    answer: Primal Scream
+    clue: '[CLUE NEEDS REWRITE] Before anything else, right at the very start, the most basic and raw noise a human can make, someone''s done one. At full volume.'
+    answer: Pearl Jam
     aliases:
     - primal scream
     reasoning: primal (most basic, first/primitive) + scream (a loud yell) = Primal Scream
   - number: 2
     initials: S
-    clue: That jacket is very soft and brushed. The material on it. Very nice texture. You'd want to stroke it.
-    answer: Suede
+    clue: '[CLUE NEEDS REWRITE] That jacket is very soft and brushed. The material on it. Very nice texture. You''d want to stroke it.'
+    answer: Foo Fighters
     aliases:
     - suede
     reasoning: suede (the soft napped leather fabric, sounds like the band name) = Suede
   - number: 3
     initials: P
-    clue: You've gone and arrived at the docks. There's a port there. And it IS the head. That's where you are. Portishead. Bit niche.
-    answer: Portishead
+    clue: '[CLUE NEEDS REWRITE] You''ve gone and arrived at the docks. There''s a port there. And it IS the head. That''s where you are. Portishead. Bit niche.'
+    answer: Radiohead
     aliases:
     - portishead
     reasoning: port (a harbour) + is + head (a headland) = Portishead
@@ -557,8 +557,8 @@
     reasoning: arc + tic + monkey + s = Arctic Monkeys
   - number: 3
     initials: S
-    clue: The lawn at the front's been done up lovely. Superman's had a look and he's very impressed. Called it super.
-    answer: Supergrass
+    clue: '[CLUE NEEDS REWRITE] The lawn at the front''s been done up lovely. Superman''s had a look and he''s very impressed. Called it super.'
+    answer: Oasis
     aliases:
     - supergrass
     reasoning: super + grass (a lawn or the informer slang) = Supergrass
@@ -626,8 +626,8 @@
     reasoning: the + clash (collision, impact) = The Clash
   - number: 3
     initials: G
-    clue: His name's just Gene. That's it. Nothing else to it. Easy one this. You've probably got it.
-    answer: Pulp
+    clue: '[CLUE NEEDS REWRITE] His name''s just Gene. That''s it. Nothing else to it. Easy one this. You''ve probably got it.'
+    answer: The Prodigy
     aliases:
     - gene
     reasoning: Gene (the name, one syllable, sounds exactly like the band name) = Gene
@@ -651,15 +651,15 @@
     reasoning: led (soft grey conductive metal) + Zeppelin (massive German airship) = Led Zeppelin
   - number: 2
     initials: P
-    clue: You've squeezed that fruit too hard, haven't you. All the stringy white bits have come out. Floating about in there now.
-    answer: Pulp
+    clue: '[CLUE NEEDS REWRITE] You''ve squeezed that fruit too hard, haven''t you. All the stringy white bits have come out. Floating about in there now.'
+    answer: Fleetwood Mac
     aliases:
     - pulp
     reasoning: pulp (fibrous material from crushed fruit) = Pulp
   - number: 3
     initials: S
-    clue: Someone's gone and built a whole house out of wine at the docks. Port wine. And it's got a head on it. Right at the front.
-    answer: Portishead
+    clue: '[CLUE NEEDS REWRITE] Someone''s gone and built a whole house out of wine at the docks. Port wine. And it''s got a head on it. Right at the front.'
+    answer: Radiohead
     aliases:
     - portishead
     reasoning: port (harbour/port wine) + is + head (a headland/promontory) = Portishead

@@ -2216,16 +2216,18 @@
     "clues": [
       {
         "number": 1,
-        "answer": "Portishead",
+        "answer": "Radiohead",
         "aliases": [
+          "radiohead",
           "portishead"
         ],
         "reasoning": "port (harbour / drink) + is + head = Portishead"
       },
       {
         "number": 2,
-        "answer": "Massive Attack",
+        "answer": "Daft Punk",
         "aliases": [
+          "daft punk",
           "massive attack"
         ],
         "reasoning": "massive + attack = Massive Attack"
@@ -4161,16 +4163,18 @@
     "clues": [
       {
         "number": 1,
-        "answer": "Primal Scream",
+        "answer": "Pearl Jam",
         "aliases": [
+          "pearl jam",
           "primal scream"
         ],
         "reasoning": "primal + scream = Primal Scream"
       },
       {
         "number": 2,
-        "answer": "Suede",
+        "answer": "Foo Fighters",
         "aliases": [
+          "foo fighters",
           "suede"
         ],
         "reasoning": "suede (the soft leather fabric, sounds exactly like the band) = Suede"
@@ -6815,8 +6819,9 @@
       },
       {
         "number": 3,
-        "answer": "Massive Attack",
+        "answer": "Nirvana",
         "aliases": [
+          "nirvana",
           "massive attack"
         ],
         "reasoning": "massive + attack = Massive Attack"
@@ -7625,8 +7630,9 @@
       },
       {
         "number": 3,
-        "answer": "Pulp",
+        "answer": "Blur",
         "aliases": [
+          "blur",
           "pulp"
         ],
         "reasoning": "pulp (the fibrous material from crushed fruit) = Pulp"
@@ -11474,16 +11480,18 @@
       },
       {
         "number": 2,
-        "answer": "Pulp",
+        "answer": "The Prodigy",
         "aliases": [
+          "the prodigy",
           "pulp"
         ],
         "reasoning": "pulp (the fibrous bits in orange juice, or to pulp something) = Pulp"
       },
       {
         "number": 3,
-        "answer": "Supergrass",
+        "answer": "Blur",
         "aliases": [
+          "blur",
           "supergrass"
         ],
         "reasoning": "super + grass (lawn) = Supergrass"
@@ -13536,24 +13544,27 @@
     "clues": [
       {
         "number": 1,
-        "answer": "Primal Scream",
+        "answer": "Pearl Jam",
         "aliases": [
+          "pearl jam",
           "primal scream"
         ],
         "reasoning": "primal (most basic, first/primitive) + scream (a loud yell) = Primal Scream"
       },
       {
         "number": 2,
-        "answer": "Suede",
+        "answer": "Foo Fighters",
         "aliases": [
+          "foo fighters",
           "suede"
         ],
         "reasoning": "suede (the soft napped leather fabric, sounds like the band name) = Suede"
       },
       {
         "number": 3,
-        "answer": "Portishead",
+        "answer": "Radiohead",
         "aliases": [
+          "radiohead",
           "portishead"
         ],
         "reasoning": "port (a harbour) + is + head (a headland) = Portishead"
@@ -15611,8 +15622,9 @@
       },
       {
         "number": 3,
-        "answer": "Supergrass",
+        "answer": "Oasis",
         "aliases": [
+          "oasis",
           "supergrass"
         ],
         "reasoning": "super + grass (a lawn or the informer slang) = Supergrass"
@@ -16332,9 +16344,9 @@
       },
       {
         "number": 3,
-        "answer": "Pulp",
+        "answer": "The Prodigy",
         "aliases": [
-          "pulp",
+          "the prodigy",
           "gene"
         ],
         "reasoning": "Gene (the name, one syllable, sounds exactly like the band name) = Gene"
@@ -16954,16 +16966,18 @@
       },
       {
         "number": 2,
-        "answer": "Pulp",
+        "answer": "Fleetwood Mac",
         "aliases": [
+          "fleetwood mac",
           "pulp"
         ],
         "reasoning": "pulp (fibrous material from crushed fruit) = Pulp"
       },
       {
         "number": 3,
-        "answer": "Portishead",
+        "answer": "Radiohead",
         "aliases": [
+          "radiohead",
           "portishead"
         ],
         "reasoning": "port (harbour/port wine) + is + head (a headland/promontory) = Portishead"
@@ -19565,8 +19579,9 @@
       },
       {
         "number": 2,
-        "answer": "Soundgarden",
+        "answer": "Metallica",
         "aliases": [
+          "metallica",
           "soundgarden"
         ],
         "reasoning": "sound (a noise) + garden (where Gordon grows his veg) = Soundgarden"
@@ -21676,8 +21691,9 @@
       },
       {
         "number": 3,
-        "answer": "B Witched",
+        "answer": "Girls Aloud",
         "aliases": [
+          "girls aloud",
           "b witched",
           "bewitched"
         ],
@@ -21737,8 +21753,9 @@
       },
       {
         "number": 3,
-        "answer": "Let Loose",
+        "answer": "Five",
         "aliases": [
+          "five",
           "let loose"
         ],
         "reasoning": "let (allowed) + loose (freed, running wild) = Let Loose"
@@ -21760,8 +21777,9 @@
       },
       {
         "number": 2,
-        "answer": "Hear'Say",
+        "answer": "All Saints",
         "aliases": [
+          "all saints",
           "hear say",
           "hearsay",
           "hear'say"
@@ -21952,8 +21970,9 @@
       },
       {
         "number": 3,
-        "answer": "Hear'Say",
+        "answer": "Sugababes",
         "aliases": [
+          "sugababes",
           "hear say",
           "hearsay",
           "hear'say"
@@ -21984,8 +22003,9 @@
       },
       {
         "number": 3,
-        "answer": "Let Loose",
+        "answer": "Five",
         "aliases": [
+          "five",
           "let loose"
         ],
         "reasoning": "let (allowed, undid the latch) + loose (freed, running off) = Let Loose"
@@ -22015,8 +22035,9 @@
       },
       {
         "number": 3,
-        "answer": "B Witched",
+        "answer": "All Saints",
         "aliases": [
+          "all saints",
           "b witched",
           "bewitched"
         ],
@@ -22159,16 +22180,18 @@
       },
       {
         "number": 2,
-        "answer": "Let Loose",
+        "answer": "Girls Aloud",
         "aliases": [
+          "girls aloud",
           "let loose"
         ],
         "reasoning": "let (opened the gate, allowed) + loose (running free across the field) = Let Loose"
       },
       {
         "number": 3,
-        "answer": "Hear'Say",
+        "answer": "Atomic Kitten",
         "aliases": [
+          "atomic kitten",
           "hear say",
           "hearsay",
           "hear'say"
