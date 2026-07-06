@@ -9488,8 +9488,8 @@
     reasoning: Bill (Bill = a bill, an invoice, or Bill as a name) + Bailey (a bailey = the outer wall of a castle, or a Bailey bridge) = Bill Bailey.
   - number: 3
     initials: R H
-    clue: Someone's built a great big hall and it's painted entirely red. All the walls, the ceiling, the floor. Red as anything.
-    answer: Rich Hall
+    clue: '[CLUE NEEDS REWRITE] Someone''s built a great big hall and it''s painted entirely red. All the walls, the ceiling, the floor. Red as anything.'
+    answer: Harry Hill
     aliases:
     - rich hall
     reasoning: Rich (rich = expensive, or red and rich, or Rich as a name) + Hall (a big hall, the building) = Rich Hall.
@@ -32948,13 +32948,13 @@
     reasoning: Dylan (the name Dylan, like Bob Dylan or the Welsh name) + Moran (mo-ran, like more-an, someone who's always wanting more) = Dylan Moran.
   - number: 3
     initials: T T
-    clue: Right, this fella from Tipperary's gone and tied himself to a gate with some old twine. Won't say why. Very calm about it.
-    answer: Tommy Tiernan
+    clue: '[CLUE NEEDS REWRITE] Right, this fella from Tipperary''s gone and tied himself to a gate with some old twine. Won''t say why. Very calm about it.'
+    answer: Rob Beckett
     aliases:
     - tommy tiernan
     reasoning: Tommy (Tommy = a British soldier, or Tommy as a name) + Tiernan (tier-nan, like tearing one, or tier-nan = someone who arranges tiers) = Tommy Tiernan.
 - id: comediansbusters-007
-  enabled: true
+  enabled: false
   title: Comediansbusters
   topic: Stand-up comedians
   difficulty: medium
@@ -33031,8 +33031,8 @@
   clues:
   - number: 1
     initials: A B
-    clue: Some Irish woman's gone and started a fire on a beach. Just there in the evening. She's lit it and she's sitting by it reading a magazine. Lovely, really.
-    answer: Aisling Bea
+    clue: '[CLUE NEEDS REWRITE] Some Irish woman''s gone and started a fire on a beach. Just there in the evening. She''s lit it and she''s sitting by it reading a magazine. Lovely, really.'
+    answer: Sara Pascoe
     aliases:
     - aisling bea
     reasoning: Aisling (ash-ling, like ash from a fire, the name Aisling is pronounced ash-ling) + Bea (a beach without the ch, or Bea = Beatrice shortened, sounds like bee or the letter B) = Aisling Bea. Ash-ling + Bee.
@@ -33109,8 +33109,8 @@
     reasoning: Bill (an invoice, a bill, or Bill the name) + Bailey (a bailey = the courtyard inside castle walls, or Bailey as a name, bail + ey) = Bill Bailey.
   - number: 3
     initials: R H
-    clue: Someone's built an enormous hall out of gold. Right in the middle of the countryside. It's gleaming. Nobody asked for it. It's there now.
-    answer: Rich Hall
+    clue: '[CLUE NEEDS REWRITE] Someone''s built an enormous hall out of gold. Right in the middle of the countryside. It''s gleaming. Nobody asked for it. It''s there now.'
+    answer: Jack Dee
     aliases:
     - rich hall
     reasoning: Rich (rich = wealthy, made of gold) + Hall (a great hall, a building) = Rich Hall.
@@ -33135,8 +33135,8 @@
     reasoning: Dara (dare + a = dara, like daring yourself to do something) + O (oh, the exclamation when you feel sick on a boat) + Briain (bree-an, sounds like Brian with an Irish accent) = Dara O Briain.
   - number: 2
     initials: T T
-    clue: Some fella's gone and torn a thin piece of material right down the middle. Very deliberately. He seems satisfied. That's all.
-    answer: Tommy Tiernan
+    clue: '[CLUE NEEDS REWRITE] Some fella''s gone and torn a thin piece of material right down the middle. Very deliberately. He seems satisfied. That''s all.'
+    answer: Bob Mortimer
     aliases:
     - tommy tiernan
     reasoning: Tommy (the name Tommy, or a Tommy = a bread roll in some dialects) + Tiernan (tear-nan, like tearing something, or tier-nan = someone who tears) = Tommy Tiernan. Tom + tear-nan.
@@ -33180,7 +33180,7 @@
     - sara pascoe
     reasoning: Sara (the name Sara, like scatter or sow, sara sounds like sowing) + Pascoe (pas-co, like the patio becoming a pasture, or pasco = a pasture in some dialects) = Sara Pascoe.
 - id: comediansbusters-015
-  enabled: true
+  enabled: false
   title: Comediansbusters
   topic: Stand-up comedians
   difficulty: medium
@@ -33225,8 +33225,8 @@
   clues:
   - number: 1
     initials: A B
-    clue: There's a fire made of ash and it's on a beach and a woman called Bea is sitting next to it with a magazine. It's a very calm evening. Nice, really.
-    answer: Aisling Bea
+    clue: '[CLUE NEEDS REWRITE] There''s a fire made of ash and it''s on a beach and a woman called Bea is sitting next to it with a magazine. It''s a very calm evening. Nice, really.'
+    answer: Josh Widdecombe
     aliases:
     - aisling bea
     reasoning: Aisling (ash-ling, pronounced ash-ling in Irish, like ash + ling, as in the ash from a fire) + Bea (the name Bea, like a beach without the ch, or just Bea) = Aisling Bea.
@@ -33303,8 +33303,8 @@
     reasoning: Sara (the name Sara, sounds like sowing or scattering seeds) + Pascoe (pas-co, like a pasture or pastureland, pasco sounds like pastoral country) = Sara Pascoe.
   - number: 3
     initials: A B
-    clue: Right, there's an Irish woman sitting on a pile of ash next to the sea and she's reading a book and she won't be disturbed. Very settled.
-    answer: Aisling Bea
+    clue: '[CLUE NEEDS REWRITE] Right, there''s an Irish woman sitting on a pile of ash next to the sea and she''s reading a book and she won''t be disturbed. Very settled.'
+    answer: Vic Reeves
     aliases:
     - aisling bea
     reasoning: Aisling (ash-ling, like ash + ling, the name pronounced ash-ling in Irish) + Bea (bea = the sea? No. Bea sounds like the letter B, like a bee, or Bea as a name near the beach) = Aisling Bea.
@@ -33328,8 +33328,8 @@
     reasoning: Dylan (the name Dylan, Welsh origin, like Bob Dylan or the Welsh sea god) + Moran (mo-ran, like moaning + ran, or Moran = an Irish surname sounding like more-an) = Dylan Moran.
   - number: 2
     initials: R D H
-    clue: Reginald's gone hunting but he's brought a dictionary. He's consulting it every time he sees an animal. The animals have all left. He doesn't seem concerned.
-    answer: Reginald D Hunter
+    clue: '[CLUE NEEDS REWRITE] Reginald''s gone hunting but he''s brought a dictionary. He''s consulting it every time he sees an animal. The animals have all left. He doesn''t seem concerned.'
+    answer: Harry Hill
     aliases:
     - reginald d hunter
     reasoning: Reginald (reg-in-ald, a very formal British name, like a regimental colonel) + D (the letter D, like a middle initial, very formal) + Hunter (someone who hunts, out in the woods with a dictionary) = Reginald D Hunter.

@@ -7015,7 +7015,7 @@
       {
         "number": 3,
         "initials": "R H",
-        "clue": "Someone's built a great big hall and it's painted entirely red. All the walls, the ceiling, the floor. Red as anything."
+        "clue": "[CLUE NEEDS REWRITE] Someone's built a great big hall and it's painted entirely red. All the walls, the ceiling, the floor. Red as anything."
       }
     ]
   },
@@ -24534,37 +24534,7 @@
       {
         "number": 3,
         "initials": "T T",
-        "clue": "Right, this fella from Tipperary's gone and tied himself to a gate with some old twine. Won't say why. Very calm about it."
-      }
-    ]
-  },
-  {
-    "id": "comediansbusters-007",
-    "enabled": true,
-    "title": "Comediansbusters",
-    "topic": "Stand-up comedians",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Comediansbusters seven. Same rules. Different comedians. Say them out loud. Alright?",
-    "prize": "Email in. Winner gets a miniature golf pencil and a signed letter possibly from someone off Corrie.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "A O H",
-        "clue": "Right, this Irish fella's gone and built a little house just for his hand. A whole house. Just for the hand. Says it earns its keep."
-      },
-      {
-        "number": 2,
-        "initials": "R D H",
-        "clue": "Some American fella's been put in charge of the hunt and he's gone off into the woods. He's very thorough. He's been out there two days."
-      },
-      {
-        "number": 3,
-        "initials": "J W",
-        "clue": "That lad Josh has gone and made himself wider somehow. Just expanded sideways. He's wedged in the doorframe now."
+        "clue": "[CLUE NEEDS REWRITE] Right, this fella from Tipperary's gone and tied himself to a gate with some old twine. Won't say why. Very calm about it."
       }
     ]
   },
@@ -24614,7 +24584,7 @@
       {
         "number": 1,
         "initials": "A B",
-        "clue": "Some Irish woman's gone and started a fire on a beach. Just there in the evening. She's lit it and she's sitting by it reading a magazine. Lovely, really."
+        "clue": "[CLUE NEEDS REWRITE] Some Irish woman's gone and started a fire on a beach. Just there in the evening. She's lit it and she's sitting by it reading a magazine. Lovely, really."
       },
       {
         "number": 2,
@@ -24684,7 +24654,7 @@
       {
         "number": 3,
         "initials": "R H",
-        "clue": "Someone's built an enormous hall out of gold. Right in the middle of the countryside. It's gleaming. Nobody asked for it. It's there now."
+        "clue": "[CLUE NEEDS REWRITE] Someone's built an enormous hall out of gold. Right in the middle of the countryside. It's gleaming. Nobody asked for it. It's there now."
       }
     ]
   },
@@ -24709,7 +24679,7 @@
       {
         "number": 2,
         "initials": "T T",
-        "clue": "Some fella's gone and torn a thin piece of material right down the middle. Very deliberately. He seems satisfied. That's all."
+        "clue": "[CLUE NEEDS REWRITE] Some fella's gone and torn a thin piece of material right down the middle. Very deliberately. He seems satisfied. That's all."
       },
       {
         "number": 3,
@@ -24749,36 +24719,6 @@
     ]
   },
   {
-    "id": "comediansbusters-015",
-    "enabled": true,
-    "title": "Comediansbusters",
-    "topic": "Stand-up comedians",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Comediansbusters fifteen. Still going. Three phonetic clues, all comedians. Say them out loud.",
-    "prize": "Email in. Winner gets a garden centre voucher, last year's, and a packet of decorative gravel.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "A O H",
-        "clue": "Right, this Irish fella's got a very long arm and it keeps knocking things over. He says it belongs to him. The arm's not convinced."
-      },
-      {
-        "number": 2,
-        "initials": "R D H",
-        "clue": "Reg's gone hunting in the woods and he's wearing a suit. A proper formal suit. Tie and everything. He says it's important to make an effort."
-      },
-      {
-        "number": 3,
-        "initials": "J W",
-        "clue": "That fella Josh has gone wide. Right wide. He's taken up the whole pavement and he's got a big comb in his hand. People are walking in the road to get past."
-      }
-    ]
-  },
-  {
     "id": "comediansbusters-016",
     "enabled": true,
     "title": "Comediansbusters",
@@ -24794,7 +24734,7 @@
       {
         "number": 1,
         "initials": "A B",
-        "clue": "There's a fire made of ash and it's on a beach and a woman called Bea is sitting next to it with a magazine. It's a very calm evening. Nice, really."
+        "clue": "[CLUE NEEDS REWRITE] There's a fire made of ash and it's on a beach and a woman called Bea is sitting next to it with a magazine. It's a very calm evening. Nice, really."
       },
       {
         "number": 2,
@@ -24864,7 +24804,7 @@
       {
         "number": 3,
         "initials": "A B",
-        "clue": "Right, there's an Irish woman sitting on a pile of ash next to the sea and she's reading a book and she won't be disturbed. Very settled."
+        "clue": "[CLUE NEEDS REWRITE] Right, there's an Irish woman sitting on a pile of ash next to the sea and she's reading a book and she won't be disturbed. Very settled."
       }
     ]
   },
@@ -24889,7 +24829,7 @@
       {
         "number": 2,
         "initials": "R D H",
-        "clue": "Reginald's gone hunting but he's brought a dictionary. He's consulting it every time he sees an animal. The animals have all left. He doesn't seem concerned."
+        "clue": "[CLUE NEEDS REWRITE] Reginald's gone hunting but he's brought a dictionary. He's consulting it every time he sees an animal. The animals have all left. He doesn't seem concerned."
       },
       {
         "number": 3,

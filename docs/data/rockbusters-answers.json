@@ -7006,8 +7006,9 @@
       },
       {
         "number": 3,
-        "answer": "Rich Hall",
+        "answer": "Harry Hill",
         "aliases": [
+          "harry hill",
           "rich hall"
         ],
         "reasoning": "Rich (rich = expensive, or red and rich, or Rich as a name) + Hall (a big hall, the building) = Rich Hall."
@@ -24119,41 +24120,12 @@
       },
       {
         "number": 3,
-        "answer": "Tommy Tiernan",
+        "answer": "Rob Beckett",
         "aliases": [
+          "rob beckett",
           "tommy tiernan"
         ],
         "reasoning": "Tommy (Tommy = a British soldier, or Tommy as a name) + Tiernan (tier-nan, like tearing one, or tier-nan = someone who arranges tiers) = Tommy Tiernan."
-      }
-    ]
-  },
-  {
-    "id": "comediansbusters-007",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Ardal O Hanlon",
-        "aliases": [
-          "ardal o hanlon",
-          "ardal o'hanlon"
-        ],
-        "reasoning": "Ardal (ar-dal, like ardent + al, or ar-dull) + O (oh, the letter O) + Hanlon (hand + lon, like hand-lon, or han-lon, sounds like hand-land) = Ardal O Hanlon."
-      },
-      {
-        "number": 2,
-        "answer": "Reginald D Hunter",
-        "aliases": [
-          "reginald d hunter"
-        ],
-        "reasoning": "Reginald (reg-in-ald, like a regimented old reg) + D (the letter D) + Hunter (someone who hunts) = Reginald D Hunter. The Hunter bit is very literal."
-      },
-      {
-        "number": 3,
-        "answer": "Josh Widdecombe",
-        "aliases": [
-          "josh widdecombe"
-        ],
-        "reasoning": "Josh (the name Josh, or to josh = to tease) + Widdecombe (widdy-comb, like wide + a comb, or widder-comb, like a wide comb) = Josh Widdecombe. Wide-dee-comb."
       }
     ]
   },
@@ -24191,8 +24163,9 @@
     "clues": [
       {
         "number": 1,
-        "answer": "Aisling Bea",
+        "answer": "Sara Pascoe",
         "aliases": [
+          "sara pascoe",
           "aisling bea"
         ],
         "reasoning": "Aisling (ash-ling, like ash from a fire, the name Aisling is pronounced ash-ling) + Bea (a beach without the ch, or Bea = Beatrice shortened, sounds like bee or the letter B) = Aisling Bea. Ash-ling + Bee."
@@ -24265,8 +24238,9 @@
       },
       {
         "number": 3,
-        "answer": "Rich Hall",
+        "answer": "Jack Dee",
         "aliases": [
+          "jack dee",
           "rich hall"
         ],
         "reasoning": "Rich (rich = wealthy, made of gold) + Hall (a great hall, a building) = Rich Hall."
@@ -24287,8 +24261,9 @@
       },
       {
         "number": 2,
-        "answer": "Tommy Tiernan",
+        "answer": "Bob Mortimer",
         "aliases": [
+          "bob mortimer",
           "tommy tiernan"
         ],
         "reasoning": "Tommy (the name Tommy, or a Tommy = a bread roll in some dialects) + Tiernan (tear-nan, like tearing something, or tier-nan = someone who tears) = Tommy Tiernan. Tom + tear-nan."
@@ -24333,42 +24308,13 @@
     ]
   },
   {
-    "id": "comediansbusters-015",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Ardal O Hanlon",
-        "aliases": [
-          "ardal o hanlon",
-          "ardal o'hanlon"
-        ],
-        "reasoning": "Ardal (ar-dul, like ardent + al, or ar-dal = a hard fall) + O (oh) + Hanlon (hand-lon, like a long hand, or han-lon) = Ardal O Hanlon. Hard-ul + oh + hand-lon."
-      },
-      {
-        "number": 2,
-        "answer": "Reginald D Hunter",
-        "aliases": [
-          "reginald d hunter"
-        ],
-        "reasoning": "Reginald (Reg-in-ald, like regal + inald, or Reginald = a very formal name) + D (the letter D) + Hunter (a hunter, someone who hunts in a formal suit) = Reginald D Hunter."
-      },
-      {
-        "number": 3,
-        "answer": "Josh Widdecombe",
-        "aliases": [
-          "josh widdecombe"
-        ],
-        "reasoning": "Josh (the name Josh) + Widdecombe (widdy-comb, wide + a comb, like someone wide holding a comb) = Josh Widdecombe. Josh + Widdy-comb."
-      }
-    ]
-  },
-  {
     "id": "comediansbusters-016",
     "clues": [
       {
         "number": 1,
-        "answer": "Aisling Bea",
+        "answer": "Josh Widdecombe",
         "aliases": [
+          "josh widdecombe",
           "aisling bea"
         ],
         "reasoning": "Aisling (ash-ling, pronounced ash-ling in Irish, like ash + ling, as in the ash from a fire) + Bea (the name Bea, like a beach without the ch, or just Bea) = Aisling Bea."
@@ -24441,8 +24387,9 @@
       },
       {
         "number": 3,
-        "answer": "Aisling Bea",
+        "answer": "Vic Reeves",
         "aliases": [
+          "vic reeves",
           "aisling bea"
         ],
         "reasoning": "Aisling (ash-ling, like ash + ling, the name pronounced ash-ling in Irish) + Bea (bea = the sea? No. Bea sounds like the letter B, like a bee, or Bea as a name near the beach) = Aisling Bea."
@@ -24462,8 +24409,9 @@
       },
       {
         "number": 2,
-        "answer": "Reginald D Hunter",
+        "answer": "Harry Hill",
         "aliases": [
+          "harry hill",
           "reginald d hunter"
         ],
         "reasoning": "Reginald (reg-in-ald, a very formal British name, like a regimental colonel) + D (the letter D, like a middle initial, very formal) + Hunter (someone who hunts, out in the woods with a dictionary) = Reginald D Hunter."
