@@ -1016,7 +1016,7 @@
     - mister darcy
     reasoning: mister + dark + sea = Mr Darcy
 - id: mythbusters-014
-  enabled: true
+  enabled: false
   title: Mythbusters
   topic: figures from mythology, folklore, and legend
   difficulty: hard
@@ -38908,7 +38908,7 @@
     - poseidon
     reasoning: pose (an elegant standing position) + I (the letter I / eye) + don (a man's name, Don) = pose-I-don = Poseidon.
 - id: mythbusters-002
-  enabled: true
+  enabled: false
   title: Mythbusters
   topic: figures from mythology, folklore, and legend
   difficulty: hard
@@ -39139,7 +39139,7 @@
     - merlin
     reasoning: Merl (a type of blackbird, or the name) + in (inside something) = Merl-in = Merlin. Merl + in.
 - id: mythbusters-010
-  enabled: true
+  enabled: false
   title: Mythbusters
   topic: figures from mythology, folklore, and legend
   difficulty: hard
@@ -39172,7 +39172,7 @@
     - friar tuck
     reasoning: friar (a religious brother, a monk) + tuck (a big eat, to tuck into food) = friar-tuck = Friar Tuck. Fry + a + tuck.
 - id: mythbusters-011
-  enabled: true
+  enabled: false
   title: Mythbusters
   topic: figures from mythology, folklore, and legend
   difficulty: hard
@@ -39205,7 +39205,7 @@
     - will scarlet
     reasoning: will (a man's name, Will) + scar (a mark on skin) + let (to give permission, to allow) = will-scar-let = Will Scarlet.
 - id: mythbusters-012
-  enabled: true
+  enabled: false
   title: Mythbusters
   topic: figures from mythology, folklore, and legend
   difficulty: hard
@@ -39238,7 +39238,7 @@
     - little john
     reasoning: little (small, not big) + john (slang for toilet, going to spend a penny) = little-john = Little John.
 - id: mythbusters-013
-  enabled: true
+  enabled: false
   title: Mythbusters
   topic: figures from mythology, folklore, and legend
   difficulty: hard
@@ -39271,7 +39271,7 @@
     - minotaur
     reasoning: minnow (a small river fish) + tor (a rocky outcrop like on Dartmoor) = minnow-tor = Minotaur.
 - id: mythbusters-015
-  enabled: true
+  enabled: false
   title: Mythbusters
   topic: figures from mythology, folklore, and legend
   difficulty: hard
@@ -39304,7 +39304,7 @@
     - narcissus
     reasoning: gnaw (a gnawing/chewing feeling, sounds like 'nar') + sis (your sister) + us = gnaw-sis-us = Narcissus.
 - id: mythbusters-016
-  enabled: true
+  enabled: false
   title: Mythbusters
   topic: figures from mythology, folklore, and legend
   difficulty: hard
@@ -39370,7 +39370,7 @@
     - robin hood
     reasoning: robbing (stealing, committing robbery, sounds like Robin) + hood (a garment worn on the head) = robbing-hood = Robin Hood.
 - id: mythbusters-019
-  enabled: true
+  enabled: false
   title: Mythbusters
   topic: figures from mythology, folklore, and legend
   difficulty: hard
@@ -39403,7 +39403,7 @@
     - friar tuck
     reasoning: friar (a religious monk in brown robes) + tuck (to tuck into food, a big eat) = friar-tuck = Friar Tuck.
 - id: mythbusters-020
-  enabled: true
+  enabled: false
   title: Mythbusters
   topic: figures from mythology, folklore, and legend
   difficulty: hard
