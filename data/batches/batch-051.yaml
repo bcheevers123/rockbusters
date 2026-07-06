@@ -1,5 +1,5 @@
 - id: crimebusters-001
-  enabled: true
+  enabled: false
   title: Crimebusters
   topic: famous criminals, heists, gangsters, and crime cases
   difficulty: medium
@@ -32,7 +32,7 @@
     - ned kelly
     reasoning: Ned + Kelly (smelly without the sm, rhymes with smelly) = Ned Kelly
 - id: crimebusters-002
-  enabled: true
+  enabled: false
   title: Crimebusters
   topic: famous criminals, heists, gangsters, and crime cases
   difficulty: medium
@@ -65,7 +65,7 @@
     - el chapo
     reasoning: El (Spanish 'the') + Chap (ordinary bloke) + O = El Chapo
 - id: crimebusters-003
-  enabled: true
+  enabled: false
   title: Crimebusters
   topic: famous criminals, heists, gangsters, and crime cases
   difficulty: medium
@@ -98,7 +98,7 @@
     - lucky luciano
     reasoning: Lucky + loo (British toilet) + she + ano... Lucky + Luciano (loo-chee-ah-no, sounds like 'lucky loo-see-ah-no') = Lucky Luciano
 - id: crimebusters-004
-  enabled: true
+  enabled: false
   title: Crimebusters
   topic: famous criminals, heists, gangsters, and crime cases
   difficulty: medium
@@ -131,7 +131,7 @@
     - john dillinger
     reasoning: John + Dill (the herb) + inger (sounds like a name suffix) = John Dillinger
 - id: crimebusters-005
-  enabled: true
+  enabled: false
   title: Crimebusters
   topic: famous criminals, heists, gangsters, and crime cases
   difficulty: medium
@@ -164,7 +164,7 @@
     - dennis nilsen
     reasoning: Dennis + Nil (zero/nothing) + sen (old half-penny, or like 'cents') = Dennis Nilsen
 - id: crimebusters-006
-  enabled: true
+  enabled: false
   title: Crimebusters
   topic: famous criminals, heists, gangsters, and crime cases
   difficulty: medium
@@ -197,7 +197,7 @@
     - carlo gambino
     reasoning: Carlo (Carl + o) + Gamb (gamble without the le) + ino (een-o, sounds like 'een-o') = Carlo Gambino
 - id: crimebusters-007
-  enabled: true
+  enabled: false
   title: Crimebusters
   topic: famous criminals, heists, gangsters, and crime cases
   difficulty: medium
@@ -230,7 +230,7 @@
     - billy the kid
     reasoning: Billy (billy goat) + the + Kid (a young goat is called a kid) = Billy the Kid
 - id: crimebusters-008
-  enabled: true
+  enabled: false
   title: Crimebusters
   topic: famous criminals, heists, gangsters, and crime cases
   difficulty: medium
@@ -263,7 +263,7 @@
     - donald neilson
     reasoning: Donald + Neil + son (Donald's son, Neil's son = Neilson) = Donald Neilson
 - id: crimebusters-009
-  enabled: true
+  enabled: false
   title: Crimebusters
   topic: famous criminals, heists, gangsters, and crime cases
   difficulty: medium
@@ -296,7 +296,7 @@
     - ned kelly
     reasoning: Ned + Kelly (rhymes with smelly, belly, jelly - a good Australian rhyming name) = Ned Kelly
 - id: crimebusters-010
-  enabled: true
+  enabled: false
   title: Crimebusters
   topic: famous criminals, heists, gangsters, and crime cases
   difficulty: medium
@@ -329,7 +329,7 @@
     - el chapo
     reasoning: El + Chap (ordinary bloke) + O (the letter) = El Chapo
 - id: crimebusters-011
-  enabled: true
+  enabled: false
   title: Crimebusters
   topic: famous criminals, heists, gangsters, and crime cases
   difficulty: medium
@@ -362,7 +362,7 @@
     - ronnie biggs
     reasoning: Ronnie (Ron + ee) + Biggs (bigs himself up) = Ronnie Biggs
 - id: crimebusters-012
-  enabled: true
+  enabled: false
   title: Crimebusters
   topic: famous criminals, heists, gangsters, and crime cases
   difficulty: medium
@@ -395,7 +395,7 @@
     - john dillinger
     reasoning: John + Dill (herb used in pickling) + inger (name ending) = John Dillinger
 - id: crimebusters-013
-  enabled: true
+  enabled: false
   title: Crimebusters
   topic: famous criminals, heists, gangsters, and crime cases
   difficulty: medium
@@ -428,7 +428,7 @@
     - ian brady
     reasoning: Ian + Bray (hee-haw, the noise a donkey makes) + dee = Ian Brady
 - id: crimebusters-014
-  enabled: true
+  enabled: false
   title: Crimebusters
   topic: famous criminals, heists, gangsters, and crime cases
   difficulty: medium
@@ -461,7 +461,7 @@
     - donald neilson
     reasoning: Donald + Neil + son (Neil's son, Donald Neilson) = Donald Neilson
 - id: crimebusters-015
-  enabled: true
+  enabled: false
   title: Crimebusters
   topic: famous criminals, heists, gangsters, and crime cases
   difficulty: medium
@@ -494,7 +494,7 @@
     - jesse james
     reasoning: Jesse (Jess + ee) + James (jams with an extra e on the end, sounds like 'jaymz') = Jesse James
 - id: crimebusters-016
-  enabled: true
+  enabled: false
   title: Crimebusters
   topic: famous criminals, heists, gangsters, and crime cases
   difficulty: medium
@@ -527,7 +527,7 @@
     - dennis nilsen
     reasoning: Dennis (Den + is) + Nil (zero/nothing) + sen (old penny suffix) = Dennis Nilsen
 - id: crimebusters-017
-  enabled: true
+  enabled: false
   title: Crimebusters
   topic: famous criminals, heists, gangsters, and crime cases
   difficulty: medium
@@ -560,7 +560,7 @@
     - carlo gambino
     reasoning: Carlo (Carl + o) + Gamb (gamble root) + ino = Carlo Gambino
 - id: crimebusters-018
-  enabled: true
+  enabled: false
   title: Crimebusters
   topic: famous criminals, heists, gangsters, and crime cases
   difficulty: medium
@@ -593,7 +593,7 @@
     - whitey bulger
     reasoning: Whitey (white + ee) + Bulger (bulge + r) = Whitey Bulger
 - id: crimebusters-019
-  enabled: true
+  enabled: false
   title: Crimebusters
   topic: famous criminals, heists, gangsters, and crime cases
   difficulty: medium
@@ -626,7 +626,7 @@
     - bonnie and clyde
     reasoning: Bonnie (bonny = attractive) + and + Clyde (River Clyde area, Scotland) = Bonnie and Clyde
 - id: crimebusters-020
-  enabled: true
+  enabled: false
   title: Crimebusters
   topic: famous criminals, heists, gangsters, and crime cases
   difficulty: medium
