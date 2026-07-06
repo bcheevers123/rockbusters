@@ -582,38 +582,6 @@
     ]
   },
   {
-    "id": "pastabusters-003",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Orecchiette",
-        "aliases": [
-          "orecchiette"
-        ],
-        "reasoning": "orec (sounds like 'oh-reck', as in a wreck, or 'aurec') + chiette (sounds like 'kyet', or 'key-et-ay') = O-rec-kyet-tay = Orecchiette. Orecchiette means little ears in Italian."
-      },
-      {
-        "number": 2,
-        "answer": "Conchiglie",
-        "aliases": [
-          "conchiglie",
-          "conchiglie pasta",
-          "shell pasta"
-        ],
-        "reasoning": "con (with, or the prefix) + chig (sounds like 'chig', a small creature) + lie (sounds like 'lee', or to lie down) = Con-chig-lee = Conchiglie. Conchiglie means shells in Italian."
-      },
-      {
-        "number": 3,
-        "answer": "Fusilli",
-        "aliases": [
-          "fusilli",
-          "fusilli pasta"
-        ],
-        "reasoning": "fuse (a fuse, or to fuse things together, or the name Fuse) + ill (not well, poorly) + i (a short sound at the end) = Fuse-ill-i = Fusilli. Fusilli means little spindles in Italian."
-      }
-    ]
-  },
-  {
     "id": "riverbusters-003",
     "clues": [
       {

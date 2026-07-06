@@ -843,7 +843,7 @@
     - stevenage
     reasoning: Steve (a man named Steve) + an + age (he's reached an age, been around a fair while) = Stevenage. Steve-an-age.
 - id: pastabusters-003
-  enabled: true
+  enabled: false
   title: Pastabusters
   topic: pasta names
   difficulty: hard

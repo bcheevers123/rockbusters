@@ -577,36 +577,6 @@
     ]
   },
   {
-    "id": "pastabusters-003",
-    "enabled": true,
-    "title": "Pastabusters",
-    "topic": "pasta names",
-    "difficulty": "hard",
-    "office_safe": true,
-    "region_relevance": [
-      "Global"
-    ],
-    "intro": "Pastabusters three. Last of the pasta lot. Three more Italian shapes hiding in the phonetics. You're doing well.",
-    "prize": "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "O",
-        "clue": "Right. A small ear has turned up and it's been asked to do something in a hurry. The ear agreed. It's a very compliant ear, all things considered."
-      },
-      {
-        "number": 2,
-        "initials": "C",
-        "clue": "A large shell has decided to go for a walk in southern Italy. Very slow progress. Keeps stopping to look at things. Got there eventually though."
-      },
-      {
-        "number": 3,
-        "initials": "F",
-        "clue": "A fella called Fuse has only gone and twisted himself into a spiral trying to work out where he left his keys. Very confused. Going round and round about it."
-      }
-    ]
-  },
-  {
     "id": "riverbusters-003",
     "enabled": true,
     "title": "Riverbusters",
