@@ -152,9 +152,27 @@
     <button id="dev-prev-btn" class="dev-btn">&#8592; Prev</button>
     <span id="dev-set-info" class="dev-set-info"></span>
     <button id="dev-next-btn" class="dev-btn">Next &#8594;</button>
+    <button id="dev-browse-btn" class="dev-btn">Browse</button>
+    <button id="dev-random-btn" class="dev-btn">Random</button>
     <button id="dev-reset-btn" class="dev-btn">Today</button>
     <button id="dev-reset-lb-btn" class="dev-btn dev-btn-danger">Reset LB</button>
     <button id="dev-lock-btn" class="dev-btn dev-btn-danger">Lock</button>
+  </div>
+
+  <!-- Browse modal — only shown when dev panel is unlocked -->
+  <div id="dev-browse-modal" class="dev-browse-modal" style="display:none" aria-hidden="true">
+    <div class="dev-browse-dialog">
+      <div class="dev-browse-header">
+        <span class="dev-browse-title">Browse Sets</span>
+        <button id="dev-browse-random-btn" class="dev-btn">Random</button>
+        <button id="dev-browse-close-btn" class="dev-btn">&#10005;</button>
+      </div>
+      <div id="dev-browse-list" class="dev-browse-list"></div>
+      <div class="dev-browse-footer">
+        <button id="dev-browse-preview-btn" class="dev-btn" disabled>Preview</button>
+        <button id="dev-browse-set-today-btn" class="dev-btn dev-btn-danger" disabled>Set as Today</button>
+      </div>
+    </div>
   </div>
 
   <script src="app.js"></script>

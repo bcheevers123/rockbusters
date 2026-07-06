@@ -840,6 +840,107 @@ body {
 }
 
 /* ---------------------------------------------------------------------------
+   Dev browse modal
+--------------------------------------------------------------------------- */
+
+.dev-browse-modal {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.75);
+  z-index: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.dev-browse-dialog {
+  background: #1a1a2e;
+  border: 2px solid #e94560;
+  border-radius: 8px;
+  width: min(600px, 92vw);
+  max-height: 80vh;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.dev-browse-header {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid #333;
+  flex-shrink: 0;
+}
+
+.dev-browse-title {
+  flex: 1;
+  font-weight: 700;
+  font-size: 0.9rem;
+  color: #e94560;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.dev-browse-list {
+  flex: 1;
+  overflow-y: auto;
+  padding: 0.5rem 0;
+}
+
+.dev-browse-group-label {
+  padding: 0.4rem 1rem 0.2rem;
+  font-size: 0.65rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #888;
+}
+
+.dev-browse-row {
+  padding: 0.45rem 1rem;
+  cursor: pointer;
+  display: flex;
+  gap: 0.75rem;
+  align-items: baseline;
+  transition: background 0.1s;
+}
+
+.dev-browse-row:hover {
+  background: #16213e;
+}
+
+.dev-browse-row.selected {
+  background: #0f3460;
+  color: #fff;
+}
+
+.dev-browse-row-id {
+  font-size: 0.72rem;
+  color: #888;
+  flex-shrink: 0;
+  font-family: monospace;
+}
+
+.dev-browse-row.selected .dev-browse-row-id {
+  color: #aac;
+}
+
+.dev-browse-row-title {
+  font-size: 0.82rem;
+  color: #ddd;
+}
+
+.dev-browse-footer {
+  display: flex;
+  gap: 0.5rem;
+  justify-content: flex-end;
+  padding: 0.75rem 1rem;
+  border-top: 1px solid #333;
+  flex-shrink: 0;
+}
+
+/* ---------------------------------------------------------------------------
    Holiday theming
 --------------------------------------------------------------------------- */
 
