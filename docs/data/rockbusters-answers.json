@@ -211,36 +211,6 @@
     ]
   },
   {
-    "id": "culturebusters-019",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Meghan Markle",
-        "aliases": [
-          "meghan markle",
-          "megan markle"
-        ],
-        "reasoning": "meg (Meghan) + an + mark + le (Markle) = Meghan Markle"
-      },
-      {
-        "number": 2,
-        "answer": "Prince Harry",
-        "aliases": [
-          "prince harry"
-        ],
-        "reasoning": "prints (Prince) + hairy (Harry) = Prince Harry"
-      },
-      {
-        "number": 3,
-        "answer": "Marie Curie",
-        "aliases": [
-          "marie curie"
-        ],
-        "reasoning": "marry (Marie) + cure-y (Curie) = Marie Curie"
-      }
-    ]
-  },
-  {
     "id": "actorbusters-015",
     "clues": [
       {
@@ -4679,36 +4649,6 @@
     ]
   },
   {
-    "id": "culturebusters-020",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Isaac Newton",
-        "aliases": [
-          "isaac newton"
-        ],
-        "reasoning": "eye + sack (Isaac) + new + town (Newton) = Isaac Newton"
-      },
-      {
-        "number": 2,
-        "answer": "Leonardo da Vinci",
-        "aliases": [
-          "leonardo da vinci"
-        ],
-        "reasoning": "Leo + nar + do (Leonardo) + da + van + key (da Vinci) = Leonardo da Vinci"
-      },
-      {
-        "number": 3,
-        "answer": "Queen Elizabeth",
-        "aliases": [
-          "queen elizabeth",
-          "queen elizabeth ii"
-        ],
-        "reasoning": "queen + a + liz + a + beth = Queen Elizabeth"
-      }
-    ]
-  },
-  {
     "id": "actorbusters-006",
     "clues": [
       {
@@ -7847,35 +7787,6 @@
     ]
   },
   {
-    "id": "culturebusters-018",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Princess Diana",
-        "aliases": [
-          "princess diana"
-        ],
-        "reasoning": "prints (Princess) + says (-cess) + dye (Di-) + an + a = Princess Diana"
-      },
-      {
-        "number": 2,
-        "answer": "Kate Middleton",
-        "aliases": [
-          "kate middleton"
-        ],
-        "reasoning": "Kate + middle + ton = Kate Middleton"
-      },
-      {
-        "number": 3,
-        "answer": "Prince Philip",
-        "aliases": [
-          "prince philip"
-        ],
-        "reasoning": "prints (Prince) + fill + IP (Philip) = Prince Philip"
-      }
-    ]
-  },
-  {
     "id": "actorbusters-020",
     "clues": [
       {
@@ -10786,35 +10697,6 @@
     ]
   },
   {
-    "id": "culturebusters-011",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Nikola Tesla",
-        "aliases": [
-          "nikola tesla"
-        ],
-        "reasoning": "nick + o + la (Nikola) + test + la (Tesla) = Nikola Tesla"
-      },
-      {
-        "number": 2,
-        "answer": "Princess Diana",
-        "aliases": [
-          "princess diana"
-        ],
-        "reasoning": "prints (Princess) + says (cess) + dye (Di-) + an + a (-ana) = Princess Diana"
-      },
-      {
-        "number": 3,
-        "answer": "Andy Warhol",
-        "aliases": [
-          "andy warhol"
-        ],
-        "reasoning": "and + he (Andy) + war + hole (Warhol) = Andy Warhol"
-      }
-    ]
-  },
-  {
     "id": "actorbusters-004",
     "clues": [
       {
@@ -11744,36 +11626,6 @@
           "tirana"
         ],
         "reasoning": "ti (sounds like 'tea') + rana (sounds like 'Rana') = Tirana"
-      }
-    ]
-  },
-  {
-    "id": "culturebusters-012",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Kate Middleton",
-        "aliases": [
-          "kate middleton"
-        ],
-        "reasoning": "Kate + middle + ton (Middleton) = Kate Middleton"
-      },
-      {
-        "number": 2,
-        "answer": "Meghan Markle",
-        "aliases": [
-          "meghan markle",
-          "megan markle"
-        ],
-        "reasoning": "meg (Meghan) + an + mark + el (Markle) = Meghan Markle"
-      },
-      {
-        "number": 3,
-        "answer": "Prince Harry",
-        "aliases": [
-          "prince harry"
-        ],
-        "reasoning": "prints (Prince) + hairy (Harry) = Prince Harry"
       }
     ]
   },
@@ -15276,35 +15128,6 @@
     ]
   },
   {
-    "id": "culturebusters-007",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Prince Harry",
-        "aliases": [
-          "prince harry"
-        ],
-        "reasoning": "prints (Prince) + hairy (Harry) = Prince Harry"
-      },
-      {
-        "number": 2,
-        "answer": "Prince Philip",
-        "aliases": [
-          "prince philip"
-        ],
-        "reasoning": "prints (Prince) + fill + IP (Philip) = Prince Philip"
-      },
-      {
-        "number": 3,
-        "answer": "Isaac Newton",
-        "aliases": [
-          "isaac newton"
-        ],
-        "reasoning": "eye + sack (Isaac) + new + town (Newton) = Isaac Newton"
-      }
-    ]
-  },
-  {
     "id": "actorbusters-014",
     "clues": [
       {
@@ -16112,36 +15935,6 @@
           "the legend of zelda"
         ],
         "reasoning": "Zelda = zel-da. Sounds like: sell-da, or zeld-a. The name Zelda, said out loud: ZELL-da."
-      }
-    ]
-  },
-  {
-    "id": "culturebusters-005",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Queen Elizabeth",
-        "aliases": [
-          "queen elizabeth",
-          "queen elizabeth ii"
-        ],
-        "reasoning": "queen + a + liz + a + beth = Queen Elizabeth"
-      },
-      {
-        "number": 2,
-        "answer": "Prince Charles",
-        "aliases": [
-          "prince charles"
-        ],
-        "reasoning": "prints (Prince) + char (Charles, charred) = Prince Charles"
-      },
-      {
-        "number": 3,
-        "answer": "Prince William",
-        "aliases": [
-          "prince william"
-        ],
-        "reasoning": "prints (Prince) + will + yam (William) = Prince William"
       }
     ]
   },
@@ -17794,37 +17587,6 @@
     ]
   },
   {
-    "id": "culturebusters-006",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Princess Diana",
-        "aliases": [
-          "princess diana",
-          "princess di"
-        ],
-        "reasoning": "prints (Princess) + says (cess) + dye + an + a (Diana) = Princess Diana"
-      },
-      {
-        "number": 2,
-        "answer": "Kate Middleton",
-        "aliases": [
-          "kate middleton"
-        ],
-        "reasoning": "Kate + middle + ton (Middleton) = Kate Middleton"
-      },
-      {
-        "number": 3,
-        "answer": "Meghan Markle",
-        "aliases": [
-          "meghan markle",
-          "megan markle"
-        ],
-        "reasoning": "meg (Meghan) + an + mark + le (Markle) = Meghan Markle"
-      }
-    ]
-  },
-  {
     "id": "actorbusters-008",
     "clues": [
       {
@@ -18644,36 +18406,6 @@
           "spyro the dragon"
         ],
         "reasoning": "Spyro = spy + ro. Sounds like: SPY-ro. A spy called Ro, or someone who spies + ro at the end. Spy + row = Spyro."
-      }
-    ]
-  },
-  {
-    "id": "culturebusters-013",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Prince Philip",
-        "aliases": [
-          "prince philip"
-        ],
-        "reasoning": "prints (Prince) + fill + up (Philip) = Prince Philip"
-      },
-      {
-        "number": 2,
-        "answer": "Queen Elizabeth",
-        "aliases": [
-          "queen elizabeth",
-          "queen elizabeth ii"
-        ],
-        "reasoning": "queen + a + liz + a + beth = Queen Elizabeth"
-      },
-      {
-        "number": 3,
-        "answer": "Prince Charles",
-        "aliases": [
-          "prince charles"
-        ],
-        "reasoning": "prints (Prince) + charred (Charles) = Prince Charles"
       }
     ]
   },
@@ -20322,35 +20054,6 @@
           "goldeneye 007"
         ],
         "reasoning": "Golden (made of gold, the colour and material) + Eye (an eye, the organ of sight) = Goldeneye. Gold-en-eye."
-      }
-    ]
-  },
-  {
-    "id": "culturebusters-015",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Leonardo da Vinci",
-        "aliases": [
-          "leonardo da vinci"
-        ],
-        "reasoning": "Leo + nar + do (Leonardo) + da + van + key (da Vinci) = Leonardo da Vinci"
-      },
-      {
-        "number": 2,
-        "answer": "Michelangelo",
-        "aliases": [
-          "michelangelo"
-        ],
-        "reasoning": "mike (Michel-) + el + angel + o = Michelangelo"
-      },
-      {
-        "number": 3,
-        "answer": "Prince William",
-        "aliases": [
-          "prince william"
-        ],
-        "reasoning": "prints (Prince) + will + yam (William) = Prince William"
       }
     ]
   },

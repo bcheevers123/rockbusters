@@ -235,7 +235,7 @@
     - berne
     reasoning: bern sounds like 'burn' but also like 'Bern' = Bern
 - id: culturebusters-019
-  enabled: true
+  enabled: false
   title: Culturebusters
   topic: scientists artists royals and cultural figures
   difficulty: hard
@@ -5201,7 +5201,7 @@
     - bordeaux
     reasoning: bor (sounds like 'bore') + deaux (sounds like 'doh') = Bordeaux
 - id: culturebusters-020
-  enabled: true
+  enabled: false
   title: Culturebusters
   topic: scientists artists royals and cultural figures
   difficulty: hard
@@ -8731,7 +8731,7 @@
     - naples
     reasoning: nap (a sleep) + les (sounds like 'les') = Naples
 - id: culturebusters-018
-  enabled: true
+  enabled: false
   title: Culturebusters
   topic: scientists artists royals and cultural figures
   difficulty: hard
@@ -12025,7 +12025,7 @@
     - innsbruck
     reasoning: inns (like pubs/inns) + bruck (sounds like 'brook/brick') = Innsbruck
 - id: culturebusters-011
-  enabled: true
+  enabled: false
   title: Culturebusters
   topic: scientists artists royals and cultural figures
   difficulty: hard
@@ -13103,7 +13103,7 @@
     - tirana
     reasoning: ti (sounds like 'tea') + rana (sounds like 'Rana') = Tirana
 - id: culturebusters-012
-  enabled: true
+  enabled: false
   title: Culturebusters
   topic: scientists artists royals and cultural figures
   difficulty: hard
@@ -17055,7 +17055,7 @@
     - minecraft
     reasoning: Mine (to mine, dig underground for resources) + Craft (to craft, to make or build things) = Minecraft. Mine-craft.
 - id: culturebusters-007
-  enabled: true
+  enabled: false
   title: Culturebusters
   topic: scientists artists royals and cultural figures
   difficulty: hard
@@ -17995,7 +17995,7 @@
     - the legend of zelda
     reasoning: 'Zelda = zel-da. Sounds like: sell-da, or zeld-a. The name Zelda, said out loud: ZELL-da.'
 - id: culturebusters-005
-  enabled: true
+  enabled: false
   title: Culturebusters
   topic: scientists artists royals and cultural figures
   difficulty: hard
@@ -19873,7 +19873,7 @@
     - pacman
     reasoning: Pac sounds like pack or chomp, packing food away + Man (a man) = Pac-Man. Pack-Man. A man who packs things into his mouth.
 - id: culturebusters-006
-  enabled: true
+  enabled: false
   title: Culturebusters
   topic: scientists artists royals and cultural figures
   difficulty: hard
@@ -20827,7 +20827,7 @@
     - spyro the dragon
     reasoning: 'Spyro = spy + ro. Sounds like: SPY-ro. A spy called Ro, or someone who spies + ro at the end. Spy + row = Spyro.'
 - id: culturebusters-013
-  enabled: true
+  enabled: false
   title: Culturebusters
   topic: scientists artists royals and cultural figures
   difficulty: hard
@@ -22705,7 +22705,7 @@
     - goldeneye 007
     reasoning: Golden (made of gold, the colour and material) + Eye (an eye, the organ of sight) = Goldeneye. Gold-en-eye.
 - id: culturebusters-015
-  enabled: true
+  enabled: false
   title: Culturebusters
   topic: scientists artists royals and cultural figures
   difficulty: hard

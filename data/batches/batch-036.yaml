@@ -133,7 +133,7 @@
     - andy warhol
     reasoning: and + he (Andy) + war + hole (Warhol) = Andy Warhol
 - id: culturebusters-005
-  enabled: true
+  enabled: false
   title: Culturebusters
   topic: scientists artists royals and cultural figures
   difficulty: hard
@@ -167,7 +167,7 @@
     - prince william
     reasoning: prints (Prince) + will + yam (William) = Prince William
 - id: culturebusters-006
-  enabled: true
+  enabled: false
   title: Culturebusters
   topic: scientists artists royals and cultural figures
   difficulty: hard
@@ -202,7 +202,7 @@
     - megan markle
     reasoning: meg (Meghan) + an + mark + le (Markle) = Meghan Markle
 - id: culturebusters-007
-  enabled: true
+  enabled: false
   title: Culturebusters
   topic: scientists artists royals and cultural figures
   difficulty: hard
@@ -335,7 +335,7 @@
     - salvador dali
     reasoning: salve + a + door (Salvador) + daily (Dali) = Salvador Dali
 - id: culturebusters-011
-  enabled: true
+  enabled: false
   title: Culturebusters
   topic: scientists artists royals and cultural figures
   difficulty: hard
@@ -368,7 +368,7 @@
     - andy warhol
     reasoning: and + he (Andy) + war + hole (Warhol) = Andy Warhol
 - id: culturebusters-012
-  enabled: true
+  enabled: false
   title: Culturebusters
   topic: scientists artists royals and cultural figures
   difficulty: hard
@@ -402,7 +402,7 @@
     - prince harry
     reasoning: prints (Prince) + hairy (Harry) = Prince Harry
 - id: culturebusters-013
-  enabled: true
+  enabled: false
   title: Culturebusters
   topic: scientists artists royals and cultural figures
   difficulty: hard
@@ -470,7 +470,7 @@
     - steven hawking
     reasoning: Steve + hen (Stephen) + hawking (selling) = Stephen Hawking
 - id: culturebusters-015
-  enabled: true
+  enabled: false
   title: Culturebusters
   topic: scientists artists royals and cultural figures
   difficulty: hard
@@ -569,7 +569,7 @@
     - charles darwin
     reasoning: charred (Charles) + dark + win (Darwin) = Charles Darwin
 - id: culturebusters-018
-  enabled: true
+  enabled: false
   title: Culturebusters
   topic: scientists artists royals and cultural figures
   difficulty: hard
@@ -602,7 +602,7 @@
     - prince philip
     reasoning: prints (Prince) + fill + IP (Philip) = Prince Philip
 - id: culturebusters-019
-  enabled: true
+  enabled: false
   title: Culturebusters
   topic: scientists artists royals and cultural figures
   difficulty: hard
@@ -636,7 +636,7 @@
     - marie curie
     reasoning: marry (Marie) + cure-y (Curie) = Marie Curie
 - id: culturebusters-020
-  enabled: true
+  enabled: false
   title: Culturebusters
   topic: scientists artists royals and cultural figures
   difficulty: hard

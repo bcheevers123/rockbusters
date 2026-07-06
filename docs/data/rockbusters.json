@@ -131,7 +131,7 @@
       "UK",
       "US"
     ],
-    "intro": "Gamebusters eleven. Keep going. Three phonetic clues, all games. Have a go.",
+    "intro": "Gamebusters. Three phonetic clues, all games. Have a go.",
     "prize": "Email in. Winner gets a branded pen from a games publisher that got bought out years ago.",
     "clues": [
       {
@@ -210,37 +210,6 @@
         "number": 3,
         "initials": "B",
         "clue": "Some lad called Ern has had a nap. Just a short one. In the middle of the afternoon. Fair enough."
-      }
-    ]
-  },
-  {
-    "id": "culturebusters-019",
-    "enabled": true,
-    "title": "Culturebusters",
-    "topic": "scientists artists royals and cultural figures",
-    "difficulty": "hard",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "Right, Culturebusters nineteen. Penultimate set. Mix of everyone this time.",
-    "prize": "Email in. Winner gets a travel Scrabble set with one tile missing and a can of Lilt.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "M M",
-        "clue": "Right, there's a million bytes of data, and someone's gone and put a scratch on it. A permanent mark."
-      },
-      {
-        "number": 2,
-        "initials": "P H",
-        "clue": "The printer's absolutely covered in fur. It printed once and just came out all hairy. Don't know how."
-      },
-      {
-        "number": 3,
-        "initials": "M C",
-        "clue": "She walked down the aisle and married the doctor. The one who fixes things."
       }
     ]
   },
@@ -345,7 +314,7 @@
     "region_relevance": [
       "Global"
     ],
-    "intro": "Three in. Bondbaddiesbusters three. Last set of Bond villains. Say them out loud and something might click. Might not. But give it a go before you email in.",
+    "intro": "Bondbaddiesbusters. Bond villains hiding in the phonetic clues. Say them out loud and something might click. Might not.",
     "prize": "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette.",
     "clues": [
       {
@@ -405,7 +374,7 @@
     "region_relevance": [
       "Global"
     ],
-    "intro": "Three in. Biologybusters three. All biology. All hidden in the phonetics. Last one of this batch so concentrate.",
+    "intro": "Biologybusters. All biology terms hiding in the phonetics. Say them out loud or you'll get nowhere.",
     "prize": "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette.",
     "clues": [
       {
@@ -799,7 +768,7 @@
     "region_relevance": [
       "Global"
     ],
-    "intro": "Last set. Riverbusters three. All rivers, all phonetic clues. Say them out loud, close your eyes if it helps, and the answer'll surface eventually like a duck that's been underwater too long.",
+    "intro": "Riverbusters. All rivers, all phonetic clues. Say them out loud, close your eyes if it helps, and the answer'll surface eventually like a duck that's been underwater too long.",
     "prize": "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists.",
     "clues": [
       {
@@ -891,7 +860,7 @@
       "UK",
       "US"
     ],
-    "intro": "Right, eighteen. Three phonetic literary clues. You've been brilliant so far, keep it up.",
+    "intro": "Bookbusters. Three phonetic literary clues. Say them out loud.",
     "prize": "Email in. Winner gets a stress ball from a trade show and a highlighter pen.",
     "clues": [
       {
@@ -1075,7 +1044,7 @@
       "UK",
       "US"
     ],
-    "intro": "Last one. Songbusters. Three classic tracks to finish. Don't go to pieces now.",
+    "intro": "Songbusters. Three classic tracks hiding in the sounds. Don't go to pieces now.",
     "prize": "Email in. Winner gets a miniature bottle of Tabasco from a hotel minibar and a mixtape from 1998.",
     "clues": [
       {
@@ -1135,7 +1104,7 @@
     "region_relevance": [
       "Global"
     ],
-    "intro": "Three in. Mathbusters three. Last set of maths terms. If you've got this far without walking off you deserve something. Though the prize isn't brilliant.",
+    "intro": "Mathbusters. Maths terms hiding in the phonetics. If you've got this far without walking off you deserve something. Though the prize isn't brilliant.",
     "prize": "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette.",
     "clues": [
       {
@@ -1225,7 +1194,7 @@
     "region_relevance": [
       "Global"
     ],
-    "intro": "Three in. Dinosaurbusters three. All long extinct, all hiding in phonetic clues. Say them aloud and see what crawls out.",
+    "intro": "Dinosaurbusters. All long extinct, all hiding in phonetic clues. Say them aloud and see what crawls out.",
     "prize": "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette.",
     "clues": [
       {
@@ -1255,7 +1224,7 @@
     "region_relevance": [
       "Global"
     ],
-    "intro": "Third and final Philosophybusters. Three more big thinkers in here. The answers are all phonetic. Say them out loud and see if the sounds add up to a philosopher.",
+    "intro": "Philosophybusters. Three big thinkers hiding in here. The answers are all phonetic. Say them out loud and see if the sounds add up to a philosopher.",
     "prize": "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette.",
     "clues": [
       {
@@ -1285,7 +1254,7 @@
     "region_relevance": [
       "Global"
     ],
-    "intro": "Three in. Currencybusters three. All foreign currency names. None of them are the pound. Say these out loud and see if the money adds up.",
+    "intro": "Currencybusters. All foreign currency names. None of them are the pound. Say these out loud and see if the money adds up.",
     "prize": "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette.",
     "clues": [
       {
@@ -1347,7 +1316,7 @@
       "US",
       "Global"
     ],
-    "intro": "Penultimate one. Foodbusters nineteen. One more after this. Three last dishes hiding in the sounds.",
+    "intro": "Foodbusters. Three world dishes hiding in the sounds. Say them out loud.",
     "prize": "Email in. Winner gets a printed photo from a disposable camera, framed.",
     "clues": [
       {
@@ -1468,7 +1437,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Last one. TVbusters twenty. Final set. British telly. Make it count.",
+    "intro": "TVbusters. Classic British telly, all phonetic. Have a go.",
     "prize": "Email in. Winner gets a sponsored pen, a packet of Rich Tea, and the satisfaction of finishing.",
     "clues": [
       {
@@ -1619,7 +1588,7 @@
     "region_relevance": [
       "Global"
     ],
-    "intro": "Three in. Condimentbusters three. Last set. All condiments and sauces. Say these out loud and the answers'll come to you. Hopefully before you give up.",
+    "intro": "Condimentbusters. All condiments and sauces. Say these out loud and the answers'll come to you. Hopefully before you give up.",
     "prize": "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette.",
     "clues": [
       {
@@ -1771,7 +1740,7 @@
     "region_relevance": [
       "Global"
     ],
-    "intro": "Last set. Chefbusters three. Still celebrity chefs, still phonetic, still requires you to actually say the words out loud rather than just staring at them. Off you go then.",
+    "intro": "Chefbusters. Celebrity chefs, phonetic clues, and yes, you do have to say the words out loud rather than just staring at them. Off you go then.",
     "prize": "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists.",
     "clues": [
       {
@@ -1801,7 +1770,7 @@
     "region_relevance": [
       "Global"
     ],
-    "intro": "Last set. Pokemonbusters three. Three more Pokemon lurking in these clues. Have a go.",
+    "intro": "Pokemonbusters. Three Pokemon lurking in these clues. Have a go.",
     "prize": "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette.",
     "clues": [
       {
@@ -1892,7 +1861,7 @@
       "UK",
       "US"
     ],
-    "intro": "Last one. Cartoonbusters twenty. Three final phonetic clues, all animated. End it on a high.",
+    "intro": "Cartoonbusters. Three phonetic clues, all animated. Say each one out loud.",
     "prize": "Email in. Winner gets a full set of Disney stamps from 1998 and a commemorative mug that says something motivational.",
     "clues": [
       {
@@ -1922,7 +1891,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Final Pubbusters. Set twenty. Three last phonetic pub clues. Off you go. That's all.",
+    "intro": "Pubbusters. Three phonetic pub clues. Off you go.",
     "prize": "Email in. Winner gets a vintage pub sign reproduction and a can of bitter, warm, from the back of a cupboard.",
     "clues": [
       {
@@ -2012,7 +1981,7 @@
     "region_relevance": [
       "Global"
     ],
-    "intro": "Last Treebusters. Three more trees in these phonetic clues. If you've got this far you're probably a bit of a nature person.",
+    "intro": "Treebusters. Three more trees hiding in the phonetic clues. If you've got this far you're probably a bit of a nature person.",
     "prize": "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette.",
     "clues": [
       {
@@ -2042,7 +2011,7 @@
     "region_relevance": [
       "Global"
     ],
-    "intro": "Last set. Languagebusters three. Still all languages. Still all phonetic. You've made it this far so presumably you've got the hang of it. Say it out loud, that's all you need to do.",
+    "intro": "Languagebusters. Still all languages. Still all phonetic. Say it out loud, that's all you need to do.",
     "prize": "Email in. Winner gets a printed photo from a disposable camera, framed.",
     "clues": [
       {
@@ -2347,7 +2316,7 @@
       "UK",
       "US"
     ],
-    "intro": "Last one. Set twenty. Final three countries. You've done well to get here, to be honest.",
+    "intro": "Countrybusters. Three countries hiding in the phonetic clues. Say them out loud.",
     "prize": "Email in. Winner gets a framed certificate of participation and a Curly Wurly.",
     "clues": [
       {
@@ -2408,7 +2377,7 @@
     "region_relevance": [
       "Global"
     ],
-    "intro": "Three in. Wonderbusters three. Last set. All famous landmarks, all phonetic. Have a go.",
+    "intro": "Wonderbusters. All famous landmarks, all phonetic. Have a go.",
     "prize": "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette.",
     "clues": [
       {
@@ -2502,7 +2471,7 @@
       "UK",
       "US"
     ],
-    "intro": "Actorbusters seventeen. Nearly there. Three British actors hidden in the clues.",
+    "intro": "Actorbusters. Three British actors hidden in the clues. Say each one out loud.",
     "prize": "Email in. Winner gets a set of novelty coasters and a Tiger token.",
     "clues": [
       {
@@ -2802,7 +2771,7 @@
     "region_relevance": [
       "Global"
     ],
-    "intro": "Three. Last set of Anatomybusters. More body parts you'd only know if you'd revised properly. Which I hadn't.",
+    "intro": "Anatomybusters. More body parts you'd only know if you'd revised properly. Which I hadn't.",
     "prize": "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists.",
     "clues": [
       {
@@ -2926,7 +2895,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Drinkbusters eighteen. Nearly there. Three drinks hidden in the clues. Go on then.",
+    "intro": "Drinkbusters. Three drinks hidden in the clues. Go on then.",
     "prize": "Email in. Winner gets a Millennium Dome souvenir pen and a bag of Werther's Originals, most still there.",
     "clues": [
       {
@@ -3138,7 +3107,7 @@
       "UK",
       "US"
     ],
-    "intro": "Bookbusters ten. Halfway through. Same rules, phonetic clues, literary theme.",
+    "intro": "Bookbusters. Same rules, phonetic clues, literary theme. Say them out loud.",
     "prize": "Email in. Winner gets a fridge magnet from somewhere in the Lake District.",
     "clues": [
       {
@@ -3352,7 +3321,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Fourteen. Nearly there. Snackbusters is all about saying the clue out loud. If you're reading it silently you're doing it wrong.",
+    "intro": "Snackbusters. All about saying the clue out loud. If you're reading it silently you're doing it wrong.",
     "prize": "Email in. Winner gets a copy of the Radio Times from a dentist's waiting room and a Ginger Nut biscuit.",
     "clues": [
       {
@@ -3442,7 +3411,7 @@
     "region_relevance": [
       "Global"
     ],
-    "intro": "Last set of Superherobusters. Three more superhero names. All phonetic, all hiding in the clue.",
+    "intro": "Superherobusters. Three superhero names hiding in the phonetic clues. All hiding in the sounds.",
     "prize": "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette.",
     "clues": [
       {
@@ -3624,7 +3593,7 @@
     "region_relevance": [
       "Global"
     ],
-    "intro": "Three in now. Spicebusters three. All hard spice names in phonetic clues. Last one of the batch, make it count.",
+    "intro": "Spicebusters. Hard spice names hiding in the phonetic clues. Say each one out loud.",
     "prize": "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette.",
     "clues": [
       {
@@ -4473,7 +4442,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Footballbusters sixteen. Getting into the final stretch now. Three more phonetic legends.",
+    "intro": "Footballbusters. Three more phonetic legends to find. Say them out loud.",
     "prize": "Email in. Winner gets a programme from a match in 1994 and a HobNob in a sandwich bag.",
     "clues": [
       {
@@ -4594,7 +4563,7 @@
       "UK",
       "US"
     ],
-    "intro": "Three sets to go after this one. Countries of the world. Still phonetic, still Rockbusters.",
+    "intro": "Countrybusters. Countries of the world. Still phonetic, still Rockbusters.",
     "prize": "Email in. Winner gets a 128MB USB stick and a carrier bag from Woolworths.",
     "clues": [
       {
@@ -4687,7 +4656,7 @@
       "US",
       "Europe"
     ],
-    "intro": "Citybusters eighteen. Nearly there. Same rules - European city, phonetic clue, say it out loud.",
+    "intro": "Citybusters. European city, phonetic clue, say it out loud.",
     "prize": "Email in. Winner gets a DVD copy of Calendar Girls and a travel mug.",
     "clues": [
       {
@@ -4704,37 +4673,6 @@
         "number": 3,
         "initials": "B",
         "clue": "Some fella called Odo has had a bit of a win. He's delighted. Probably won something in Bordeaux. Near enough."
-      }
-    ]
-  },
-  {
-    "id": "culturebusters-020",
-    "enabled": true,
-    "title": "Culturebusters",
-    "topic": "scientists artists royals and cultural figures",
-    "difficulty": "hard",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "Last one. Culturebusters twenty. Give it your best shot.",
-    "prize": "Email in. Winner gets a Where's Wally book with all the Wallys already circled and a Fruit Pastille.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "I N",
-        "clue": "Right, there's a small bag attached to someone's eye, and they've just gone and constructed an entire new town. Connects up."
-      },
-      {
-        "number": 2,
-        "initials": "L D V",
-        "clue": "A large cat's doing something near a transit van, and somehow it's got the keys. It's sorted the keys out."
-      },
-      {
-        "number": 3,
-        "initials": "Q E",
-        "clue": "Very important posh woman, a small reptile, and then a Beth. Just those three things together and that's your answer."
       }
     ]
   },
@@ -4779,7 +4717,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Teambusters fifteen. Nearly there. Say each clue out loud - the team's in the sound of it.",
+    "intro": "Teambusters. Say each clue out loud — the team's in the sound of it.",
     "prize": "Email in. Winner gets a 1998 World Cup sticker book, three pages stuck together, and a free transfer to use.",
     "clues": [
       {
@@ -4809,7 +4747,7 @@
     "region_relevance": [
       "Global"
     ],
-    "intro": "Three in. Olympicsbusters three. Fencing and equestrian and gymnastics all in here somewhere. Say the clues out loud. The Olympic event is hiding in the sounds.",
+    "intro": "Olympicsbusters. Fencing and equestrian and gymnastics all in here somewhere. Say the clues out loud. The Olympic event is hiding in the sounds.",
     "prize": "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette.",
     "clues": [
       {
@@ -4869,7 +4807,7 @@
     "region_relevance": [
       "Global"
     ],
-    "intro": "Last set of Gembusters. Three clues, all gemstones. These are the tricky ones. Say each one aloud a few times. The answer's in there, just being a bit coy about it.",
+    "intro": "Gembusters. Three clues, all gemstones. These are the tricky ones. Say each one aloud a few times. The answer's in there, just being a bit coy about it.",
     "prize": "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette.",
     "clues": [
       {
@@ -4929,7 +4867,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Last one. Sweetbusters twenty. The final round of UK sweets. Go out on a high.",
+    "intro": "Sweetbusters. UK sweets hiding in these phonetic clues. Say them out loud.",
     "prize": "Email in. Winner gets a Woolworths pick-and-mix bag, unavailable since 2008.",
     "clues": [
       {
@@ -5081,7 +5019,7 @@
       "US",
       "Global"
     ],
-    "intro": "Three in. Drugbusters three. Final set. All medication names. Say these out loud and see if the sounds lead anywhere useful. Might not.",
+    "intro": "Drugbusters. Medication names hiding in the phonetic clues. Say these out loud and see if the sounds lead anywhere useful. Might not.",
     "prize": "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette.",
     "clues": [
       {
@@ -5113,7 +5051,7 @@
       "US",
       "Global"
     ],
-    "intro": "Three in. Brandbusters three. All global brands in these phonetic clues. Say them out loud.",
+    "intro": "Brandbusters. Global brands hiding in these phonetic clues. Say them out loud.",
     "prize": "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette.",
     "clues": [
       {
@@ -5203,7 +5141,7 @@
     "region_relevance": [
       "Global"
     ],
-    "intro": "Last set of Presidentbusters. Three more leaders of the free world hidden in phonetic clues. Say them out loud, it all makes sense.",
+    "intro": "Presidentbusters. Leaders of the free world hidden in phonetic clues. Say them out loud, it all makes sense.",
     "prize": "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette.",
     "clues": [
       {
@@ -5324,7 +5262,7 @@
       "UK",
       "US"
     ],
-    "intro": "Last one. Artbusters twenty. Final set. Three more art clues to finish off. You've been brilliant.",
+    "intro": "Artbusters. Three art clues, all phonetic. Say them out loud.",
     "prize": "Email in. Winner gets a Woolworths pick-and-mix bag, unavailable since 2008, and a Tate membership that may or may not be valid.",
     "clues": [
       {
@@ -5992,7 +5930,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Cheesebusters three. Last set. All cheese. All phonetic. You know what you're doing by now.",
+    "intro": "Cheesebusters. All cheese, all phonetic. Say each one out loud.",
     "prize": "Email in. Winner gets a Blockbuster loyalty card and a laminated bookmark from WHSmith.",
     "clues": [
       {
@@ -6083,7 +6021,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Alright, Celebbusters. Nearly there. Three more phonetic British icons.",
+    "intro": "Celebbusters. Three more phonetic British icons. Have a go.",
     "prize": "Email in. Winner gets a faded Glastonbury wristband from 2002 and a cereal bar of unknown vintage.",
     "clues": [
       {
@@ -6173,7 +6111,7 @@
     "region_relevance": [
       "Global"
     ],
-    "intro": "Last one. Disasterbusters three. More catastrophic events of varying sizes hiding in the sounds. Some of these are harder. Don't overthink it. Just say it out loud. Right.",
+    "intro": "Disasterbusters. Catastrophic events of varying sizes hiding in the sounds. Some of these are harder. Don't overthink it. Just say it out loud. Right.",
     "prize": "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette.",
     "clues": [
       {
@@ -6325,7 +6263,7 @@
     "region_relevance": [
       "Global"
     ],
-    "intro": "Three in. Elementsbusters three. These are some of the heavier elements named after clever people and important places. Say them out loud. That's the whole trick. Right.",
+    "intro": "Elementsbusters. Some of the heavier elements named after clever people and important places. Say them out loud. That's the whole trick.",
     "prize": "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette.",
     "clues": [
       {
@@ -6690,7 +6628,7 @@
     "region_relevance": [
       "Global"
     ],
-    "intro": "Last set. Extremeweatherbusters three. Same deal. Extreme weather, phonetic clues, say them out loud. If you're reading them silently and expecting that to work, it won't. You have been warned.",
+    "intro": "Extremeweatherbusters. Extreme weather, phonetic clues, say them out loud. If you're reading them silently and expecting that to work, it won't. You have been warned.",
     "prize": "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists.",
     "clues": [
       {
@@ -6781,7 +6719,7 @@
       "UK",
       "US"
     ],
-    "intro": "Countrybusters, sixteen. Nearly there. Three more countries in this one.",
+    "intro": "Countrybusters. Three more countries in this one. Say them out loud.",
     "prize": "Email in. Winner gets a scratch card from a Christmas cracker and a miniature chess set.",
     "clues": [
       {
@@ -6906,7 +6844,7 @@
       "UK",
       "US"
     ],
-    "intro": "Penultimate Actorbusters. Three clues. British acting royalty, all of them.",
+    "intro": "Actorbusters. British acting royalty, all phonetically disguised. Three clues.",
     "prize": "Email in. Winner gets a copy of Four Weddings on DVD and a packet of Rich Tea.",
     "clues": [
       {
@@ -6996,7 +6934,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Noughtybusters. Cars, beaches, and someone called Dawson. Three clues. That's your lot.",
+    "intro": "Noughtybusters. Cars, beaches, and someone called Dawson. Three clues. Have a go.",
     "prize": "Email in. Winner gets a Tamagotchi with unknown battery life and a festival wristband from Glastonbury 2008.",
     "clues": [
       {
@@ -7210,7 +7148,7 @@
       "UK",
       "US"
     ],
-    "intro": "Final set. Bookbusters twenty. Three last phonetic literary clues. Go on then.",
+    "intro": "Bookbusters. Three phonetic literary clues. Go on then.",
     "prize": "Email in. Winner gets a signed photo of someone vaguely recognisable and a bag of pear drops.",
     "clues": [
       {
@@ -7608,7 +7546,7 @@
       "UK",
       "US"
     ],
-    "intro": "Cartoonbusters eighteen. Nearly there. Three phonetic clues, all animated. Say them out loud - that's the game.",
+    "intro": "Cartoonbusters. Three phonetic clues, all animated. Say them out loud — that's the game.",
     "prize": "Email in. Winner gets a copy of Chicken Run on DVD and a Panda Pop from a corner shop that's now a Tesco Express.",
     "clues": [
       {
@@ -7906,37 +7844,6 @@
     ]
   },
   {
-    "id": "culturebusters-018",
-    "enabled": true,
-    "title": "Culturebusters",
-    "topic": "scientists artists royals and cultural figures",
-    "difficulty": "hard",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "Culturebusters eighteen. Nearly there. Three famous names to crack.",
-    "prize": "Email in. Winner gets a Beano annual from 1998 and a multipack crisp from a petrol station.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "P D",
-        "clue": "All the things coming out of the printer keep saying they want to change colour. Every single page is saying it."
-      },
-      {
-        "number": 2,
-        "initials": "K M",
-        "clue": "A woman called Kate is right in the middle of something and it weighs precisely one ton. She ended up there somehow."
-      },
-      {
-        "number": 3,
-        "initials": "P P",
-        "clue": "The printer's filling in an internet address. An IP one. It's just typing in IP addresses."
-      }
-    ]
-  },
-  {
     "id": "actorbusters-020",
     "enabled": true,
     "title": "Actorbusters",
@@ -7947,7 +7854,7 @@
       "UK",
       "US"
     ],
-    "intro": "Final Actorbusters. Three last clues. See how many you got over the whole run.",
+    "intro": "Actorbusters. Three phonetic clues, all actors. Say them out loud.",
     "prize": "Email in. Winner gets a Nando's loyalty card with one stamp on it and a Freddo.",
     "clues": [
       {
@@ -7977,7 +7884,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Teambusters ten. Halfway through. Still all football clubs. Still all phonetic.",
+    "intro": "Teambusters. Still all football clubs, still all phonetic. Say them out loud.",
     "prize": "Email in. Winner gets a signed photo of a mascot nobody can identify and a complimentary bag of salted peanuts.",
     "clues": [
       {
@@ -8129,7 +8036,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Last one. Placebusters twenty. Final set. UK landmarks - three clues. Give it a go.",
+    "intro": "Placebusters. UK landmarks hiding in three phonetic clues. Give it a go.",
     "prize": "Email in. Winner gets a Smash Hits annual from 1997 and a bottle of Sunny Delight.",
     "clues": [
       {
@@ -8436,7 +8343,7 @@
       "US",
       "Global"
     ],
-    "intro": "Last one. Foodbusters twenty. Final set. Three more world dishes and then we're done. You've been brilliant.",
+    "intro": "Foodbusters. Three world dishes hiding in the sounds. Say them out loud.",
     "prize": "Email in. Winner gets a signed letter from someone off Emmerdale, possibly.",
     "clues": [
       {
@@ -8710,7 +8617,7 @@
       "UK",
       "US"
     ],
-    "intro": "Alright, nearly there. Historybusters eighteen. Last stretch now. Don't give up.",
+    "intro": "Historybusters. Three more famous faces from history. Say each one out loud.",
     "prize": "Email in. Winner gets an Alexander the Great fridge magnet and a slightly bent bookmark.",
     "clues": [
       {
@@ -8802,7 +8709,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Right then. Nearly there. Three more football phonetics. Concentrate.",
+    "intro": "Footballbusters. Three more football phonetics. Say each one out loud.",
     "prize": "Email in. Winner gets a cardboard trophy and a packet of Skips, the flavour nobody picks first.",
     "clues": [
       {
@@ -8894,7 +8801,7 @@
       "UK",
       "US"
     ],
-    "intro": "Gamebusters seventeen. Nearly done now. Three more phonetic gaming clues. Last stretch.",
+    "intro": "Gamebusters. Three more phonetic gaming clues. Say them out loud.",
     "prize": "Email in. Winner gets a retro gaming magazine from 2001 and a spare joystick with a sticky button.",
     "clues": [
       {
@@ -8926,7 +8833,7 @@
       "US",
       "Europe"
     ],
-    "intro": "Citybusters fifteen. Halfway through the second batch. All European cities. Off you go.",
+    "intro": "Citybusters. All European cities, phonetic clues. Off you go.",
     "prize": "Email in. Winner gets a mini Toblerone and a phone charger that doesn't quite fit anything.",
     "clues": [
       {
@@ -9414,7 +9321,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Snackbusters eleven. The theme is still snacks. I know you know. Keep going.",
+    "intro": "Snackbusters. The theme is still snacks. Say them out loud.",
     "prize": "Email in. Winner gets a 2004 cinema ticket stub and a Penguin biscuit that's been individually wrapped in tin foil.",
     "clues": [
       {
@@ -9477,7 +9384,7 @@
       "UK",
       "US"
     ],
-    "intro": "Penultimate Phrasebusters. Number nineteen. Three more phrases in these clues. Nearly there.",
+    "intro": "Phrasebusters. Three more phrases hiding in these clues. Say them out loud.",
     "prize": "Email in. Winner gets a DVD copy of Calendar Girls and a travel mug.",
     "clues": [
       {
@@ -9507,7 +9414,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "TVbusters seven. Keep going. British telly. Phonetic clues. You know the drill by now.",
+    "intro": "TVbusters. British telly, phonetic clues. You know the drill.",
     "prize": "Email in. Winner gets a signed letter from someone off Emmerdale, possibly.",
     "clues": [
       {
@@ -10028,7 +9935,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Sweetbusters fifteen. Halfway through the second half. All UK sweets in these phonetic clues.",
+    "intro": "Sweetbusters. All UK sweets in these phonetic clues. Say them out loud.",
     "prize": "Email in. Winner gets a fondue set still in the box and a selection of instant coffees.",
     "clues": [
       {
@@ -10088,7 +9995,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Nearly there. Bandbusters eighteen. British music phonetic riddles.",
+    "intro": "Bandbusters. British music phonetic riddles. Say them out loud.",
     "prize": "Email in. Winner gets a framed printout of their own MSN display name and a Twix.",
     "clues": [
       {
@@ -10150,7 +10057,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Placebusters seventeen. Nearly there. UK landmarks and tourist spots.",
+    "intro": "Placebusters. UK landmarks and tourist spots, all phonetic. Have a go.",
     "prize": "Email in. Winner gets a Fun Size Twix and a laminated certificate of participation.",
     "clues": [
       {
@@ -10180,7 +10087,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Alright, Drinkbusters fifteen. Halfway through the big one. All drinks. Easy mode. Let's be having you.",
+    "intro": "Drinkbusters. All drinks, phonetic clues. Let's be having you.",
     "prize": "Email in. Winner gets a limited edition Noel's House Party mug and an unopened pack of travel Connect Four.",
     "clues": [
       {
@@ -10333,7 +10240,7 @@
       "UK",
       "US"
     ],
-    "intro": "Techbusters nineteen. Penultimate one. All tech brands and companies. You know the game.",
+    "intro": "Techbusters. All tech brands and companies. You know the game.",
     "prize": "Email in. Winner gets a Remember The Milk premium subscription that someone else already used and a branded pencil case.",
     "clues": [
       {
@@ -10670,7 +10577,7 @@
       "UK",
       "US"
     ],
-    "intro": "Penultimate set. Historybusters. You've come this far, might as well finish it off.",
+    "intro": "Historybusters. Famous people from history in these phonetic clues. Say them out loud.",
     "prize": "Email in. Winner gets a DVD of Elizabeth with Cate Blanchett and a box of Ritz crackers.",
     "clues": [
       {
@@ -10701,7 +10608,7 @@
       "UK",
       "US"
     ],
-    "intro": "Penultimate Sciencebusters. Number nineteen. Three more science phonetic answers.",
+    "intro": "Sciencebusters. Three more science phonetic answers. Say them out loud.",
     "prize": "Email in. Winner gets a star chart, a compass, and a 2003 Astronomer's almanac.",
     "clues": [
       {
@@ -10732,7 +10639,7 @@
       "UK",
       "US"
     ],
-    "intro": "Filmbusters, fifteen. Nearly there. All classic films, all very famous. Email in with your answers.",
+    "intro": "Filmbusters. All classic films, all very famous. Say them out loud.",
     "prize": "Email in. Winner gets a Sky Movies guide from 1999 and a half-used scratch card.",
     "clues": [
       {
@@ -10823,7 +10730,7 @@
       "UK",
       "US"
     ],
-    "intro": "Ten sets. Halfway through. Still countries, still Rockbusters. Here's three more.",
+    "intro": "Countrybusters. Still countries, still Rockbusters. Three more.",
     "prize": "Email in. Winner gets a Blockbuster video card and a packet of travel Scrabble with two tiles missing.",
     "clues": [
       {
@@ -10886,7 +10793,7 @@
       "US",
       "Europe"
     ],
-    "intro": "Last one. Citybusters twenty. The final round of European cities. Go out on a high.",
+    "intro": "Citybusters. European cities hiding in the phonetic clues. Say them out loud.",
     "prize": "Email in. Winner gets a copy of Harry Potter on audio cassette, read by Stephen Fry, missing tape four.",
     "clues": [
       {
@@ -10903,37 +10810,6 @@
         "number": 3,
         "initials": "I",
         "clue": "Some fella's been calling himself a capital. Bit presumptuous. But he sort of is one, in a way."
-      }
-    ]
-  },
-  {
-    "id": "culturebusters-011",
-    "enabled": true,
-    "title": "Culturebusters",
-    "topic": "scientists artists royals and cultural figures",
-    "difficulty": "hard",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "Culturebusters eleven. Mix of science and royalty this one. Off you go.",
-    "prize": "Email in. Winner gets a loyalty card from a coffee shop that's now closed and a Penguin biscuit.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "N T",
-        "clue": "Someone nicked the musical la note, then they did a load of tests on whatever was left. Strange afternoon."
-      },
-      {
-        "number": 2,
-        "initials": "P D",
-        "clue": "The printer's churning out pages that all say they're going to change the colour of something. It keeps saying it."
-      },
-      {
-        "number": 3,
-        "initials": "A W",
-        "clue": "Him there has gone and made a massive hole in the middle of a war zone. For absolutely no reason."
       }
     ]
   },
@@ -11038,7 +10914,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Noughtybusters. Last few now. Soaps, bells, and a motorbike. You're nearly there.",
+    "intro": "Noughtybusters. Soaps, bells, and a motorbike. Say each clue out loud.",
     "prize": "Email in. Winner gets a Myspace friend request from a stranger and a packet of Iced Gems.",
     "clues": [
       {
@@ -11100,7 +10976,7 @@
       "US",
       "Global"
     ],
-    "intro": "Penultimate one. Brandbusters nineteen. Three more phonetic brand clues. Nearly done now.",
+    "intro": "Brandbusters. Three more phonetic brand clues. Say them out loud.",
     "prize": "Email in. Winner gets a copy of Calendar Girls on DVD and a miniature bar of hotel soap.",
     "clues": [
       {
@@ -11160,7 +11036,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Last one. Drinkbusters twenty. Final round of drinks. Make it count.",
+    "intro": "Drinkbusters. Drinks of all kinds hiding in the phonetic clues. Say them out loud.",
     "prize": "Email in. Winner gets a Ceefax print-out of the top ten in 1999 and a slightly bendy Twirl.",
     "clues": [
       {
@@ -11221,7 +11097,7 @@
       "UK",
       "US"
     ],
-    "intro": "Penultimate one. Artbusters nineteen. Three more art phonetic clues. Nearly done.",
+    "intro": "Artbusters. Three more art phonetic clues. Say them out loud.",
     "prize": "Email in. Winner gets a copy of Calendar Girls on DVD and a miniature bar of hotel soap.",
     "clues": [
       {
@@ -11282,7 +11158,7 @@
       "UK",
       "US"
     ],
-    "intro": "Final Mixedbusters of the batch. Set twenty. Three last clues. Off you go.",
+    "intro": "Mixedbusters. Three phonetic clues, three different answers. Off you go.",
     "prize": "Email in. Winner gets a travel sewing kit from a Travelodge and a chocolate finger, just the one.",
     "clues": [
       {
@@ -11374,7 +11250,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Snackbusters seven. Nearly halfway. Keep going. Say them out loud - it really works.",
+    "intro": "Snackbusters. Say them out loud — it really works.",
     "prize": "Email in. Winner gets a Tamagotchi that needs the battery changing and a packet of Rich Tea.",
     "clues": [
       {
@@ -11528,7 +11404,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Last round of Celebbusters. Finish strong. Three phonetic British legends.",
+    "intro": "Celebbusters. Three phonetic British legends to find. Say each one out loud.",
     "prize": "Email in. Winner gets a Boots meal deal voucher that expired in 2004 and a pen on a chain.",
     "clues": [
       {
@@ -11681,7 +11557,7 @@
       "UK",
       "US"
     ],
-    "intro": "Sciencebusters eighteen. Nearly there. Three more from the world of science.",
+    "intro": "Sciencebusters. Three more from the world of science. Say them out loud.",
     "prize": "Email in. Winner gets a biology textbook from 1991 and a pencil case shaped like a test tube.",
     "clues": [
       {
@@ -11834,7 +11710,7 @@
       "UK",
       "US"
     ],
-    "intro": "Halfway there with Gamebusters. Ten sets in. Three clues this week, all gaming. Let's crack on.",
+    "intro": "Gamebusters. Three clues, all gaming. Say them out loud.",
     "prize": "Email in. Winner gets a memory card for a console you no longer own.",
     "clues": [
       {
@@ -11887,37 +11763,6 @@
     ]
   },
   {
-    "id": "culturebusters-012",
-    "enabled": true,
-    "title": "Culturebusters",
-    "topic": "scientists artists royals and cultural figures",
-    "difficulty": "hard",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "Right, Culturebusters twelve. Still going. Famous people. Three clues.",
-    "prize": "Email in. Winner gets a screensaver CD-ROM from PC World circa 1999 and a pot noodle.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "K M",
-        "clue": "Kate's gone and wedged herself in the dead centre of something enormous and very heavy. She's fine."
-      },
-      {
-        "number": 2,
-        "initials": "M M",
-        "clue": "There's one of them computer memory units, and someone's put a scratch on it. A mark. Just a mark."
-      },
-      {
-        "number": 3,
-        "initials": "P H",
-        "clue": "Honestly, the printer just came out covered in hair. Nobody asked for that."
-      }
-    ]
-  },
-  {
     "id": "actorbusters-012",
     "enabled": true,
     "title": "Actorbusters",
@@ -11958,7 +11803,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Last one. Teambusters twenty. Three final football clubs. End on a high.",
+    "intro": "Teambusters. Three football clubs hiding in the sounds. Say each one out loud.",
     "prize": "Email in. Winner gets a full set of 2002 World Cup Panini stickers, mostly duplicates, and a biro.",
     "clues": [
       {
@@ -12231,7 +12076,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Sportbusters eighteen. Two more after this. Stick with it. All sport, all phonetic, all a bit daft.",
+    "intro": "Sportbusters. All sport, all phonetic, all a bit daft. Say them out loud.",
     "prize": "Email in. Winner gets a branded sports water bottle from a conference in 2007 and a Twix.",
     "clues": [
       {
@@ -12386,7 +12231,7 @@
       "US",
       "Global"
     ],
-    "intro": "Three in. Foodbusters three. All international food. Say these out loud and see if the sounds add up.",
+    "intro": "Foodbusters. All international food. Say these out loud and see if the sounds add up.",
     "prize": "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette.",
     "clues": [
       {
@@ -12417,7 +12262,7 @@
       "UK",
       "US"
     ],
-    "intro": "Phrasebusters eighteen. Nearly done. Still all everyday idioms and phrases.",
+    "intro": "Phrasebusters. Still all everyday idioms and phrases. Say them out loud.",
     "prize": "Email in. Winner gets a copy of Harry Potter on audio cassette, read by Stephen Fry, missing tape four.",
     "clues": [
       {
@@ -12447,7 +12292,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Ten rounds of TVbusters. That's a milestone that is. Keep going.",
+    "intro": "TVbusters. Classic British programmes hiding in the phonetic clues. Say them out loud.",
     "prize": "Email in. Winner gets a Now That's What I Call Music 47 CD and some leftover party poppers.",
     "clues": [
       {
@@ -12752,7 +12597,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Nearly there. Holidaybusters nineteen. Two more after this. Stick with it.",
+    "intro": "Holidaybusters. Three holiday destinations hiding in these phonetic clues. Have a go.",
     "prize": "Email in. Winner gets a free upgrade to nothing and a slightly damp towel from a hotel pool area.",
     "clues": [
       {
@@ -13181,7 +13026,7 @@
       "UK",
       "US"
     ],
-    "intro": "Artbusters eighteen. Two after this. All art. All phonetic. You've come this far.",
+    "intro": "Artbusters. All art, all phonetic. Say each one out loud.",
     "prize": "Email in. Winner gets a DVD boxset with the disc for series 3 missing and a Starbucks loyalty card.",
     "clues": [
       {
@@ -13211,7 +13056,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Nearly there. Sportbusters seventeen. Three clues. Three athletes. All phonetic. Give each one a go out loud.",
+    "intro": "Sportbusters. Three clues, three athletes, all phonetic. Give each one a go out loud.",
     "prize": "Email in. Winner gets a 2004 Athens Olympics souvenir pencil case and an out-of-date cereal bar.",
     "clues": [
       {
@@ -13366,7 +13211,7 @@
       "US",
       "Global"
     ],
-    "intro": "Nearly done. Foodbusters seventeen. Three more world dishes. The answer's somewhere in the sounds.",
+    "intro": "Foodbusters. Three more world dishes. The answer's somewhere in the sounds.",
     "prize": "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists.",
     "clues": [
       {
@@ -13641,7 +13486,7 @@
       "UK",
       "US"
     ],
-    "intro": "Last Sciencebusters. Twenty. The final science set. Make it count.",
+    "intro": "Sciencebusters. Three science answers hiding in these clues. Say them out loud.",
     "prize": "Email in. Winner gets a Nobel Prize certificate, unofficial, printed at home, slightly wonky.",
     "clues": [
       {
@@ -13702,7 +13547,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Last one. Footballbusters twenty. Three final clues, three final legends. You've earned it.",
+    "intro": "Footballbusters. Three legendary players hiding in the clues. Say them out loud.",
     "prize": "Email in. Winner gets a golden boot keyring from a petrol station forecourt and the sense of having done well.",
     "clues": [
       {
@@ -13978,7 +13823,7 @@
       "US",
       "Global"
     ],
-    "intro": "Nearly there. Brandbusters seventeen. Three more phonetic brand clues. Say them out loud.",
+    "intro": "Brandbusters. Three more phonetic brand clues. Say them out loud.",
     "prize": "Email in. Winner gets a commemorative tin from a Royal event and a selection of mixed nuts.",
     "clues": [
       {
@@ -14314,7 +14159,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Nineteen. One away from the end. TVbusters. British shows. Final push. Come on.",
+    "intro": "TVbusters. British shows hiding in the phonetic clues. Say each one out loud.",
     "prize": "Email in. Winner gets a CD-ROM encyclopedia from 1998 and a pen that's almost out.",
     "clues": [
       {
@@ -14345,7 +14190,7 @@
       "UK",
       "US"
     ],
-    "intro": "Last one. Animalbusters twenty. Final round. Make it count.",
+    "intro": "Animalbusters. Three animals hiding in the sounds. Say each clue out loud.",
     "prize": "Email in. Winner gets a copy of Bridget Jones's Diary on DVD and a mini bottle of ketchup from a hotel room.",
     "clues": [
       {
@@ -14466,7 +14311,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Pubbusters eighteen. Nearly done. Three more phonetic clues. Pub names and games.",
+    "intro": "Pubbusters. Three more phonetic clues. Pub names and games. Say them aloud.",
     "prize": "Email in. Winner gets a dartboard with no numbers on the outside ring and a 20p piece.",
     "clues": [
       {
@@ -14834,7 +14679,7 @@
       "US",
       "Global"
     ],
-    "intro": "Last one. Brandbusters twenty. Final round of global brand names. Go out on a high.",
+    "intro": "Brandbusters. Global brand names hiding in these phonetic clues. Say them out loud.",
     "prize": "Email in. Winner gets a Woolworths pick-and-mix bag, unavailable since 2008, and a commemorative mug from a business that went under.",
     "clues": [
       {
@@ -14985,7 +14830,7 @@
       "UK",
       "US"
     ],
-    "intro": "Mixedbusters nineteen. Penultimate set. Three phonetic clues. You know the drill.",
+    "intro": "Mixedbusters. Three phonetic clues. You know the drill.",
     "prize": "Email in. Winner gets a garden centre voucher and a novelty mug shaped like a teapot.",
     "clues": [
       {
@@ -15077,7 +14922,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Double figures. Ten sets of Snackbusters. Halfway point. Reward yourself with an actual snack.",
+    "intro": "Snackbusters. Reward yourself with an actual snack after this one.",
     "prize": "Email in. Winner gets a signed photo of someone from Hollyoaks, probably, and a family pack of Quavers.",
     "clues": [
       {
@@ -15140,7 +14985,7 @@
       "UK",
       "US"
     ],
-    "intro": "Phrasebusters fifteen. Nearly there. Three more well-known phrases.",
+    "intro": "Phrasebusters. Three more well-known phrases hiding in the sounds. Say them out loud.",
     "prize": "Email in. Winner gets a fondue set still in the box and a selection of instant coffees.",
     "clues": [
       {
@@ -15322,7 +15167,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Pubbusters nineteen. Penultimate set. Three phonetic clues. Pub-themed. Say them aloud.",
+    "intro": "Pubbusters. Three phonetic pub clues. Say them aloud.",
     "prize": "Email in. Winner gets a loyalty stamp card with eight of ten stamps and a novelty cocktail umbrella.",
     "clues": [
       {
@@ -15414,7 +15259,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Penultimate Footballbusters. Three clues. Give it a go.",
+    "intro": "Footballbusters. Three clues, all footballers. Give it a go.",
     "prize": "Email in. Winner gets a World Cup 2006 Panini sticker book with all the German players filled in and nothing else.",
     "clues": [
       {
@@ -15476,7 +15321,7 @@
       "UK",
       "US"
     ],
-    "intro": "Eighteen. Gamebusters. Two sets to go after this. Three clues, all gaming. Final push.",
+    "intro": "Gamebusters. Three clues, all gaming. Say them out loud.",
     "prize": "Email in. Winner gets a keyring shaped like a game token and a complimentary bookmark from a shop that's closed.",
     "clues": [
       {
@@ -15493,37 +15338,6 @@
         "number": 3,
         "initials": "M",
         "clue": "Right, me mate's been digging and he found something useful. Then he built a shelter out of it. First night's the dangerous one, apparently."
-      }
-    ]
-  },
-  {
-    "id": "culturebusters-007",
-    "enabled": true,
-    "title": "Culturebusters",
-    "topic": "scientists artists royals and cultural figures",
-    "difficulty": "hard",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "Culturebusters. Seven sets in now. Still famous people. Off we go.",
-    "prize": "Email in. Winner gets a Shrek on DVD and a keyring from Moto services on the M6.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "P H",
-        "clue": "Right, the printer's come out covered in fur. All of it. Just completely hairy."
-      },
-      {
-        "number": 2,
-        "initials": "P P",
-        "clue": "The inkjet again, and this time it's gone and filled up an IP address. Don't ask how."
-      },
-      {
-        "number": 3,
-        "initials": "I N",
-        "clue": "Someone's got a sack, right, and they've built a completely new town on top of it. Strange."
       }
     ]
   },
@@ -15598,7 +15412,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Sweetbusters eighteen. Nearly there. Still all UK sweets, still phonetic clues.",
+    "intro": "Sweetbusters. Still all UK sweets, still phonetic clues. Say them out loud.",
     "prize": "Email in. Winner gets a copy of Harry Potter on audio cassette, read by Stephen Fry, missing tape four.",
     "clues": [
       {
@@ -15933,7 +15747,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Last one. Snackbusters twenty. The finale. Go out on a high.",
+    "intro": "Snackbusters. Phonetic snack clues. Say each one out loud.",
     "prize": "Email in. Winner gets the complete Snackbusters trophy, which is a Pringles tube with a bow on it and a handwritten certificate.",
     "clues": [
       {
@@ -16178,7 +15992,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Pubbusters seventeen. Three clues. Phonetic, pub-themed, say them aloud. That's all.",
+    "intro": "Pubbusters. Three phonetic pub clues. Say them aloud.",
     "prize": "Email in. Winner gets a foam finger from a charity fun run and a packet of salted peanuts, open.",
     "clues": [
       {
@@ -16349,37 +16163,6 @@
         "number": 3,
         "initials": "Z",
         "clue": "That princess hasn't half gone off somewhere. Nobody can find her. Bloke's been looking for ages. Getting on a bit now."
-      }
-    ]
-  },
-  {
-    "id": "culturebusters-005",
-    "enabled": true,
-    "title": "Culturebusters",
-    "topic": "scientists artists royals and cultural figures",
-    "difficulty": "hard",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "Culturebusters. Royals this time, mostly. You'd think they'd be easy. They're not.",
-    "prize": "Email in. Winner gets a Now 58 cassette and a mug that says World's Okayest Something.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "Q E",
-        "clue": "Right, there's a very posh woman, and she's lost her handbag, and then there's a lizard, and then there's another one called Beth. Three things."
-      },
-      {
-        "number": 2,
-        "initials": "P C",
-        "clue": "The inkjet's been going, and all the prints it made have got a big black burnt mark on them. That's your lot."
-      },
-      {
-        "number": 3,
-        "initials": "P W",
-        "clue": "Somehow the printer wants a sweet potato. I don't know why. It just does."
       }
     ]
   },
@@ -16666,7 +16449,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Right. Sportbusters ten. Halfway. All still sport. All still phonetic. All still a bit ridiculous. You know how it works.",
+    "intro": "Sportbusters. All still sport, all still phonetic, all still a bit ridiculous. You know how it works.",
     "prize": "Email in. Winner gets a Gillette Mach3 from a petrol station and a faded yellow wristband.",
     "clues": [
       {
@@ -16728,7 +16511,7 @@
       "UK",
       "US"
     ],
-    "intro": "Right, Techbusters fifteen. Nearly there. All tech brands you use every day. Sort of.",
+    "intro": "Techbusters. All tech brands you use every day. Sort of. Say them out loud.",
     "prize": "Email in. Winner gets a Tamagotchi with depleted batteries and a copy of Encarta 97 on DVD.",
     "clues": [
       {
@@ -16789,7 +16572,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Penultimate Snackbusters. Nineteen in. The end is in sight. Crack on.",
+    "intro": "Snackbusters. Crisps and biscuits hiding in these phonetic clues. Have a crack.",
     "prize": "Email in. Winner gets a 'World's Okayest Colleague' mug and a Garibaldi biscuit in a presentation box.",
     "clues": [
       {
@@ -16821,7 +16604,7 @@
       "US",
       "Global"
     ],
-    "intro": "Halfway there. Foodbusters ten. Keep going. All international grub, all phonetic.",
+    "intro": "Foodbusters. All international grub, all phonetic. Say them out loud.",
     "prize": "Email in. Winner gets a signed letter from someone off Emmerdale, possibly.",
     "clues": [
       {
@@ -16852,7 +16635,7 @@
       "UK",
       "US"
     ],
-    "intro": "Last one. Phrasebusters twenty. Final three phrases. Go out on a high.",
+    "intro": "Phrasebusters. Three common phrases hiding in the sounds. Say them out loud.",
     "prize": "Email in. Winner gets a Woolworths pick-and-mix bag, unavailable since 2008.",
     "clues": [
       {
@@ -16913,7 +16696,7 @@
       "UK",
       "US"
     ],
-    "intro": "Animalbusters nineteen. One more after this. The penultimate animal round.",
+    "intro": "Animalbusters. Three more animals hiding in the sounds. Say each one out loud.",
     "prize": "Email in. Winner gets a two-for-one Pizza Hut voucher from 2004 and a branded pen from an insurance company.",
     "clues": [
       {
@@ -17065,7 +16848,7 @@
       "UK",
       "US"
     ],
-    "intro": "Last one. Set twenty. Historybusters. Give it your best shot and we'll call it done.",
+    "intro": "Historybusters. Famous figures from history, all phonetic. Give it your best shot.",
     "prize": "Email in. Winner gets a copy of Horrible Histories Terrifying Tudors and a broken compass.",
     "clues": [
       {
@@ -17096,7 +16879,7 @@
       "UK",
       "US"
     ],
-    "intro": "Sciencebusters fifteen. Halfway through. Three more phonetic science answers.",
+    "intro": "Sciencebusters. Three more phonetic science answers. Say them out loud.",
     "prize": "Email in. Winner gets an old Encarta disc and a ruler from GCSE maths, slightly bent.",
     "clues": [
       {
@@ -17188,7 +16971,7 @@
       "UK",
       "US"
     ],
-    "intro": "Last one. Gamebusters twenty. Three final clues. Gaming answers. Go out on a high.",
+    "intro": "Gamebusters. Three phonetic clues, all gaming. Say them out loud.",
     "prize": "Email in. Winner gets a commemorative certificate saying they completed all twenty Gamebusters sets, printed on normal paper.",
     "clues": [
       {
@@ -17340,7 +17123,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Final Noughtybusters. Big finish. Three left. Should be getting easy by now.",
+    "intro": "Noughtybusters. Pop culture from the 2000s and 2010s, phonetically disguised. Have a go.",
     "prize": "Email in. Winner gets a printed Google Maps route to somewhere, folded up in your pocket, from 2009.",
     "clues": [
       {
@@ -17402,7 +17185,7 @@
       "US",
       "Global"
     ],
-    "intro": "Halfway. Brandbusters ten. Three more big brand names. You've been doing alright so far.",
+    "intro": "Brandbusters. Three more big brand names hiding in the sounds. Say them out loud.",
     "prize": "Email in. Winner gets a mini Toblerone and a phone charger that doesn't quite fit anything.",
     "clues": [
       {
@@ -17890,7 +17673,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Pubbusters ten. Halfway through. Three phonetic pub clues. Near enough, that's all.",
+    "intro": "Pubbusters. Three phonetic pub clues. Say them out loud.",
     "prize": "Email in. Winner gets a bar towel with a lager logo on it and a packet of dry roasted peanuts from 2007.",
     "clues": [
       {
@@ -18065,37 +17848,6 @@
     ]
   },
   {
-    "id": "culturebusters-006",
-    "enabled": true,
-    "title": "Culturebusters",
-    "topic": "scientists artists royals and cultural figures",
-    "difficulty": "hard",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "More Culturebusters. Don't say the answers out loud if you know them, that's cheating.",
-    "prize": "Email in. Winner gets a DVD of The Full Monty and a travel-size shower gel from a hotel stay.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "P D",
-        "clue": "The inkjet's making prints that say they're going to dye something. A garment or similar."
-      },
-      {
-        "number": 2,
-        "initials": "K M",
-        "clue": "There's a woman called Kate, and she's stuck right in the middle of something that weighs a ton. Literally a ton."
-      },
-      {
-        "number": 3,
-        "initials": "M M",
-        "clue": "There's a million bytes, right, and someone's put a mark on them. Just a mark. Bit odd."
-      }
-    ]
-  },
-  {
     "id": "actorbusters-008",
     "enabled": true,
     "title": "Actorbusters",
@@ -18166,7 +17918,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Ten sets in now. Sweetbusters ten. Halfway. Three more UK sweets hiding in these clues.",
+    "intro": "Sweetbusters. Three more UK sweets hiding in these clues. Say them out loud.",
     "prize": "Email in. Winner gets a mini Toblerone and a phone charger that doesn't quite fit anything.",
     "clues": [
       {
@@ -18378,7 +18130,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Sportbusters nineteen. Penultimate one. Almost there. Three more phonetic legends to uncover. You've done nineteen of these now.",
+    "intro": "Sportbusters. Three more phonetic legends to uncover. Say each clue out loud.",
     "prize": "Email in. Winner gets a Tottenham Hotspur sub-branded biro from a trade show and a Club biscuit.",
     "clues": [
       {
@@ -18409,7 +18161,7 @@
       "UK",
       "US"
     ],
-    "intro": "Alright, Mixedbusters eighteen. Nearly done. Three phonetic clues.",
+    "intro": "Mixedbusters. Three phonetic clues. Have a go.",
     "prize": "Email in. Winner gets a snow globe with a broken mechanism and a scented candle, unlit.",
     "clues": [
       {
@@ -18501,7 +18253,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Sixteen. Snackbusters keeps going. Like a really long biscuit aisle. You're nearly at the checkout.",
+    "intro": "Snackbusters. More crisps and biscuits hiding in the phonetic clues. Say them out loud.",
     "prize": "Email in. Winner gets a miniature shopping trolley keyring and an unopened packet of Twiglets from a Christmas hamper.",
     "clues": [
       {
@@ -18685,7 +18437,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Final Nostalgiabusters of the session. Three more phonetic clues about things from the era of dial-up and Woolies. Off you go.",
+    "intro": "Nostalgiabusters. Three phonetic clues about things from the era of dial-up and Woolies. Off you go.",
     "prize": "Email in. Winner gets an Encarta CD and a laminated certificate saying they won Nostalgiabusters.",
     "clues": [
       {
@@ -18900,7 +18652,7 @@
       "UK",
       "US"
     ],
-    "intro": "Right, Gamebusters. Nearly halfway. You know the drill, phonetic clues, gaming answers, say it out loud.",
+    "intro": "Gamebusters. Phonetic clues, gaming answers. Say it out loud.",
     "prize": "Email in. Winner gets a limited-edition lanyard from a gaming convention nobody's heard of.",
     "clues": [
       {
@@ -18917,37 +18669,6 @@
         "number": 3,
         "initials": "S",
         "clue": "That little purple fella. Breathes fire. Very small dragon but acts like a big one. Sort of works if you squint."
-      }
-    ]
-  },
-  {
-    "id": "culturebusters-013",
-    "enabled": true,
-    "title": "Culturebusters",
-    "topic": "scientists artists royals and cultural figures",
-    "difficulty": "hard",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "Culturebusters thirteen. Unlucky for some. Not for the winner though.",
-    "prize": "Email in. Winner gets a Now That's What I Call Music 52 CD and a branded pen.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "P P",
-        "clue": "The inkjet keeps printing pictures of the thing you pay with, right, and it won't stop. Just printing coins."
-      },
-      {
-        "number": 2,
-        "initials": "Q E",
-        "clue": "Right, there's someone very important and regal, a lizard, and a woman called Beth. Three separate things jammed together."
-      },
-      {
-        "number": 3,
-        "initials": "P C",
-        "clue": "All the things the printer made have gone dark round the edges. Like someone held them near a flame."
       }
     ]
   },
@@ -19234,7 +18955,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Last one. Sportbusters twenty. The final round. Go out in style. Three clues, three sporting greats. You know how this works by now.",
+    "intro": "Sportbusters. Three sporting greats hiding in the clues. You know how this works by now.",
     "prize": "Email in. Winner gets the entire Sportbusters back catalogue on a USB stick that may or may not work, and a Penguin biscuit.",
     "clues": [
       {
@@ -19265,7 +18986,7 @@
       "UK",
       "US"
     ],
-    "intro": "Nearly there. Mixedbusters, set nine. Three clues, all phonetic. Near enough, don't overthink it.",
+    "intro": "Mixedbusters. Three clues, all phonetic. Don't overthink it.",
     "prize": "Email in. Winner gets a stress ball shaped like a globe and a 2009 wall calendar.",
     "clues": [
       {
@@ -19296,7 +19017,7 @@
       "UK",
       "US"
     ],
-    "intro": "Right, Techbusters eighteen. Nearly done. Tech companies and apps. Clues are phonetic so say them out loud.",
+    "intro": "Techbusters. Tech companies and apps, phonetic clues. Say them out loud.",
     "prize": "Email in. Winner gets a Geocities web address and a certificate that says you finished Minesweeper.",
     "clues": [
       {
@@ -19357,7 +19078,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Right, Snackbusters eighteen. Nearly done. These are the classic ones. Should be easy.",
+    "intro": "Snackbusters. Classic snacks, all phonetic. Should be easy enough.",
     "prize": "Email in. Winner gets a set of fridge magnets from a place no one's heard of and a Custard Cream in a velvet pouch.",
     "clues": [
       {
@@ -19450,7 +19171,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Alright, TVbusters seventeen. Nearly there. Don't give up now, it'd be a waste.",
+    "intro": "TVbusters. Three phonetic British telly clues. Say them out loud.",
     "prize": "Email in. Winner gets a stress ball shaped like a planet and an out-of-date bus pass.",
     "clues": [
       {
@@ -19481,7 +19202,7 @@
       "UK",
       "US"
     ],
-    "intro": "Nearly there. Animalbusters eighteen. Last few now. Give it one more go.",
+    "intro": "Animalbusters. Three more animals hiding in the phonetic clues. Give it one more go.",
     "prize": "Email in. Winner gets a Boots Advantage card with twelve points and a biscuit tin shaped like a cottage.",
     "clues": [
       {
@@ -19602,7 +19323,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Pubbusters fifteen. Nearly there. Three phonetic clues. All pub names and pub culture.",
+    "intro": "Pubbusters. Three phonetic clues, all pub names and pub culture. Say them out loud.",
     "prize": "Email in. Winner gets a half-used book of matches and a drip tray, cleaned and everything.",
     "clues": [
       {
@@ -19756,7 +19477,7 @@
       "UK",
       "US"
     ],
-    "intro": "Gamebusters nineteen. One more after this. Three clues, gaming theme. Nearly there.",
+    "intro": "Gamebusters. Three clues, gaming theme. Say each one out loud.",
     "prize": "Email in. Winner gets a signed receipt from a gaming shop that's now a Greggs.",
     "clues": [
       {
@@ -19848,7 +19569,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Nearly done. Teambusters nineteen. Three more football clubs hiding in the sounds.",
+    "intro": "Teambusters. Three more football clubs hiding in the sounds. Say them out loud.",
     "prize": "Email in. Winner gets a penalty shootout coin toss coin and a laminated certificate with nothing on it.",
     "clues": [
       {
@@ -19878,7 +19599,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Penultimate Sweetbusters. Number nineteen. Three more UK sweets. Go on then.",
+    "intro": "Sweetbusters. Three more UK sweets hiding in the sounds. Go on then.",
     "prize": "Email in. Winner gets a DVD copy of Calendar Girls and a travel mug.",
     "clues": [
       {
@@ -19938,7 +19659,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Bandbusters nineteen. One more after this. Stick with it.",
+    "intro": "Bandbusters. Three more phonetic music acts. Say each one out loud.",
     "prize": "Email in. Winner gets a Greggs loyalty card (nearly full) and a miniature Union Jack on a stick.",
     "clues": [
       {
@@ -20121,7 +19842,7 @@
       "UK",
       "US"
     ],
-    "intro": "Last one of the batch. Mixedbusters, set ten. Same as ever. Say it out loud. That's all.",
+    "intro": "Mixedbusters. Same as ever. Say it out loud. That's all.",
     "prize": "Email in. Winner gets a tin of travel sweets and a branded biro from a skip hire firm.",
     "clues": [
       {
@@ -20276,7 +19997,7 @@
       "UK",
       "US"
     ],
-    "intro": "Ten sets in. Halfway through Phrasebusters. Three more idioms hiding in the sounds.",
+    "intro": "Phrasebusters. Three more idioms hiding in the sounds. Say them out loud.",
     "prize": "Email in. Winner gets a mini Toblerone and a phone charger that doesn't quite fit anything.",
     "clues": [
       {
@@ -20550,7 +20271,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Right, Footballbusters ten. Halfway through. Three clues, three legendary names.",
+    "intro": "Footballbusters. Three clues, three legendary names. Say them out loud.",
     "prize": "Email in. Winner gets a World Cup wall chart from 2002 and a Twirl that's gone slightly white.",
     "clues": [
       {
@@ -20629,37 +20350,6 @@
         "number": 3,
         "initials": "GE",
         "clue": "This eye, right, it's made of gold. Just sitting there. Very shiny. Very suspicious looking."
-      }
-    ]
-  },
-  {
-    "id": "culturebusters-015",
-    "enabled": true,
-    "title": "Culturebusters",
-    "topic": "scientists artists royals and cultural figures",
-    "difficulty": "hard",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "Fifteen sets of Culturebusters. Mix of artists and royals this time. Here we go.",
-    "prize": "Email in. Winner gets a Bob Ross painting kit from a charity shop and a tin of Rich Tea.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "L D V",
-        "clue": "A lion, yeah, is doing stuff near a transit vehicle, and he's got the keys to it in his paw. Near enough."
-      },
-      {
-        "number": 2,
-        "initials": "M",
-        "clue": "There's a microphone, and on top of it is an angel. Just perched there on the microphone."
-      },
-      {
-        "number": 3,
-        "initials": "P W",
-        "clue": "The printer says it wants a root vegetable. The orange one. A yam. It's insisting."
       }
     ]
   },
@@ -20794,7 +20484,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Last one. Bandbusters twenty. British music. End on a high.",
+    "intro": "Bandbusters. British bands and artists hiding in the phonetic clues. Say them out loud.",
     "prize": "Email in. Winner gets a commemorative mug from somewhere that's closed down and a signed photo of someone from a reality show, unconfirmed.",
     "clues": [
       {
@@ -21162,7 +20852,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "TVbusters fifteen. Halfway through the extended edition. British telly gold in here, allegedly.",
+    "intro": "TVbusters. British telly gold in here, allegedly. Say each one out loud.",
     "prize": "Email in. Winner gets a mini bottle of hotel shampoo and a Blockbuster membership card.",
     "clues": [
       {
@@ -21437,7 +21127,7 @@
       "UK",
       "US"
     ],
-    "intro": "Penultimate set. One more after this. Keep going, you're nearly there.",
+    "intro": "Countrybusters. Countries hiding in the phonetic clues. Say each one out loud.",
     "prize": "Email in. Winner gets a laminated menu from a cafe that's been refurbished and an Argos pen.",
     "clues": [
       {
@@ -21682,7 +21372,7 @@
       "US",
       "Global"
     ],
-    "intro": "Brandbusters eighteen. Two after this. All global brands. All phonetic. You've come this far.",
+    "intro": "Brandbusters. All global brands, all phonetic. Say each one out loud.",
     "prize": "Email in. Winner gets a DVD boxset with the disc for series 3 missing and a Starbucks loyalty card.",
     "clues": [
       {
@@ -21864,7 +21554,7 @@
       "UK",
       "US"
     ],
-    "intro": "Last one. Techbusters twenty. Same theme - tech and internet companies. Finish strong.",
+    "intro": "Techbusters. Tech and internet companies hiding in the phonetic clues. Say them out loud.",
     "prize": "Email in. Winner gets a Google Glass prototype that doesn't work and a lanyard from a tech conference in 2014.",
     "clues": [
       {
@@ -22582,7 +22272,7 @@
       "US",
       "Europe"
     ],
-    "intro": "Penultimate Citybusters. Number nineteen. Three more European cities. Go on then.",
+    "intro": "Citybusters. Three more European cities hiding in the phonetics. Go on then.",
     "prize": "Email in. Winner gets a commemorative tin from the Queen's Jubilee and some chocolate fingers.",
     "clues": [
       {
@@ -22892,7 +22582,7 @@
       "UK",
       "US"
     ],
-    "intro": "Last one. Filmbusters twenty. Final set. Three films. See if you can get all three. Good luck.",
+    "intro": "Filmbusters. Three films hiding in the phonetic clues. See if you can get all three.",
     "prize": "Email in. Winner gets a commemorative plate from a high street bank and a box of Value tea bags.",
     "clues": [
       {
@@ -23481,7 +23171,7 @@
       "UK",
       "US"
     ],
-    "intro": "Right, Filmbusters. Nearly there. Three clues. All films you've probably seen. Or at least heard of.",
+    "intro": "Filmbusters. Three clues, all films you've probably seen. Or at least heard of.",
     "prize": "Email in. Winner gets a Cineworld stamp card from 2011 and a Mini Milk that's been in the freezer since then.",
     "clues": [
       {
@@ -23512,7 +23202,7 @@
       "UK",
       "US"
     ],
-    "intro": "Last Filmbusters of the batch. Three clues. Big films. You know these. Go on then.",
+    "intro": "Filmbusters. Three clues, all big films. You know these. Go on then.",
     "prize": "Email in. Winner gets a copy of Bohemian Rhapsody on Blu-ray and a set of coasters nobody asked for.",
     "clues": [
       {
@@ -24101,7 +23791,7 @@
       "UK",
       "US"
     ],
-    "intro": "Right, Bandbusters thirty-nine. Nearly done. Three more phonetic music acts.",
+    "intro": "Bandbusters. Three more phonetic music acts hiding in the clues. Say them out loud.",
     "prize": "Email in. Winner gets a beanie hat from a conference and a travel-size bottle of shampoo.",
     "clues": [
       {
@@ -24132,7 +23822,7 @@
       "UK",
       "US"
     ],
-    "intro": "Last one. Bandbusters forty. Three final acts to find. Give it your best.",
+    "intro": "Bandbusters. Three acts to find. Say each clue out loud.",
     "prize": "Email in. Winner gets a framed certificate of participation and a box of After Eights with some missing.",
     "clues": [
       {
@@ -24721,7 +24411,7 @@
       "UK",
       "US"
     ],
-    "intro": "Nearly there with TVbusters. Two more sets after this one. Three clues, all American shows.",
+    "intro": "TVbusters. Three clues, all American shows. Say them out loud.",
     "prize": "Email in. Winner gets a fridge magnet from somewhere nobody's been and a used stamp from the Queen.",
     "clues": [
       {
@@ -24752,7 +24442,7 @@
       "UK",
       "US"
     ],
-    "intro": "Last one of the TVbusters batch. Three clues, three American shows. Finish strong.",
+    "intro": "TVbusters. Three clues, three American shows. Say them out loud.",
     "prize": "Email in. Winner gets a Caffe Nero loyalty card with seven stamps and a foam seat cushion.",
     "clues": [
       {
@@ -25124,7 +24814,7 @@
       "UK",
       "US"
     ],
-    "intro": "Bookbusters fifteen. Nearly there. Three clues, phonetic, literary. You know how this goes.",
+    "intro": "Bookbusters. Three clues, phonetic, literary. You know how this goes.",
     "prize": "Email in. Winner gets a Full Monty DVD and a commemorative mug with a chip in it.",
     "clues": [
       {
@@ -25186,7 +24876,7 @@
       "UK",
       "US"
     ],
-    "intro": "Bookbusters seventeen. Three more. Nearly done now, keep going.",
+    "intro": "Bookbusters. Three more phonetic literary clues. Say them out loud.",
     "prize": "Email in. Winner gets a pack of Value biscuits and a rubber duck from a crackers set.",
     "clues": [
       {
@@ -25217,7 +24907,7 @@
       "UK",
       "US"
     ],
-    "intro": "Bookbusters nineteen. Almost there. This is the penultimate set. Three more phonetic clues.",
+    "intro": "Bookbusters. Three more phonetic literary clues. Say them out loud.",
     "prize": "Email in. Winner gets a novelty calendar from three years ago and a branded pen lid.",
     "clues": [
       {
@@ -25397,7 +25087,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Holidaybusters ten. Halfway through. Don't give up, they get easier. Or maybe harder. I can't remember.",
+    "intro": "Holidaybusters. British holiday destinations, phonetically disguised. Say each one out loud.",
     "prize": "Email in. Winner gets a half-used bottle of factor 50 and a tampon from the bottom of a beach bag.",
     "clues": [
       {
@@ -25427,7 +25117,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Right then, Holidaybusters sixteen. Nearly there. All places on a long-haul flight or a two-hour Thomas Cook special.",
+    "intro": "Holidaybusters. All holiday destinations, all phonetic. Say each one out loud.",
     "prize": "Email in. Winner gets a Thomson holiday rep's polo shirt and a laminated menu from a buffet restaurant.",
     "clues": [
       {
@@ -25487,7 +25177,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Right, three sets left. Holidaybusters eighteen. Keep going. You've come this far.",
+    "intro": "Holidaybusters. British holiday destinations abroad. Say each one out loud.",
     "prize": "Email in. Winner gets a leaking travel mug and a miniature bottle of something from a hotel minibar.",
     "clues": [
       {
@@ -25517,7 +25207,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Last one. Holidaybusters twenty. Final set. Three clues standing between you and the prize. Such as it is.",
+    "intro": "Holidaybusters. Three clues, all holiday destinations. The prize is what it is.",
     "prize": "Email in. Winner gets a commemorative plate from a seaside gift shop and a 2002 Woolworths bag for life.",
     "clues": [
       {
@@ -26093,7 +25783,7 @@
       "US",
       "Global"
     ],
-    "intro": "Citybusters. Four clues left after this. You're nearly there.",
+    "intro": "Citybusters. Three more cities hiding in the phonetic clues. Say them out loud.",
     "prize": "Email in. Winner gets a Tamagotchi with a dead battery and an empty Pringles tube.",
     "clues": [
       {
@@ -26125,7 +25815,7 @@
       "US",
       "Global"
     ],
-    "intro": "Nearly there. Citybusters, penultimate round. Three more big cities.",
+    "intro": "Citybusters. Three more big cities hiding in the phonetic clues. Say them out loud.",
     "prize": "Email in. Winner gets a loyalty card for a sandwich chain that closed down and some travel sweets.",
     "clues": [
       {
@@ -26157,7 +25847,7 @@
       "US",
       "Global"
     ],
-    "intro": "Final Citybusters. Last three cities of the round. Finish strong.",
+    "intro": "Citybusters. Three more cities hiding in the phonetic clues. Say them out loud.",
     "prize": "Email in. Winner gets a DVD of Mamma Mia, a novelty rubber, and a thumbs up from the intern.",
     "clues": [
       {
@@ -26757,7 +26447,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Right, last Bandbusters set. Pop groups. Three clues. Off you go.",
+    "intro": "Bandbusters. Pop groups hiding in the phonetic clues. Say them out loud.",
     "prize": "Email in. Winner gets a branded stress ball and a DVD copy of Bridget Jones from a charity shop.",
     "clues": [
       {
@@ -27300,7 +26990,7 @@
       "US",
       "Global"
     ],
-    "intro": "Nearly there with the creatures. Three more sea and sky phonetics. Go on.",
+    "intro": "Animalbusters. Three more sea and sky phonetics. Go on.",
     "prize": "Email in. Winner gets a National Trust leaflet and a bird feeder that was never assembled.",
     "clues": [
       {
@@ -27332,7 +27022,7 @@
       "US",
       "Global"
     ],
-    "intro": "Two more sets to go. Animalbusters, sea and sky. You know how this works.",
+    "intro": "Animalbusters. Sea creatures and birds hiding in the sounds. You know how this works.",
     "prize": "Email in. Winner gets an old BT phonebook and a tropical bird poster from a travel agent that no longer exists.",
     "clues": [
       {
@@ -27364,7 +27054,7 @@
       "US",
       "Global"
     ],
-    "intro": "Penultimate Animalbusters. Nearly finished. Three more sea and sky creatures.",
+    "intro": "Animalbusters. Three more sea and sky creatures hiding in the sounds. Say each one out loud.",
     "prize": "Email in. Winner gets a crumpled Interrail map and a badge from a wildlife park that's become a retail park.",
     "clues": [
       {
@@ -27396,7 +27086,7 @@
       "US",
       "Global"
     ],
-    "intro": "Last one. Final Animalbusters of this batch. Sea creatures and birds. Finish strong.",
+    "intro": "Animalbusters. Sea creatures and birds hiding in the phonetic clues. Say each one out loud.",
     "prize": "Email in. Winner gets a commemorative tin of biscuits from a royal occasion and a seabird identification leaflet.",
     "clues": [
       {
@@ -27985,7 +27675,7 @@
       "UK",
       "US"
     ],
-    "intro": "Right, last Sweetbusters before the break. Three more desserts. You should be good at this by now.",
+    "intro": "Foodbusters. Three more desserts hiding in the sounds. Say each one out loud.",
     "prize": "Email in. Winner gets a vintage Oxo tin repurposed as a biscuit barrel and three digestives in a sandwich bag.",
     "clues": [
       {
@@ -28016,7 +27706,7 @@
       "UK",
       "US"
     ],
-    "intro": "Final Sweetbusters of the set. Three dessert clues. Good luck.",
+    "intro": "Foodbusters. Three dessert clues, all phonetic. Good luck.",
     "prize": "Email in. Winner gets a cracked ramekin, a blowtorch with no gas left, and the moral victory of knowing the answer.",
     "clues": [
       {
@@ -28574,7 +28264,7 @@
       "UK",
       "US"
     ],
-    "intro": "Filmbusters. Last stretch now. British cult classics. You've seen these. Well, you should have.",
+    "intro": "Filmbusters. British cult classics hiding in the phonetic clues. You've seen these. Well, you should have.",
     "prize": "Email in. Winner gets a Laser Quest wristband and a half-eaten tube of Pringles.",
     "clues": [
       {
@@ -28605,7 +28295,7 @@
       "UK",
       "US"
     ],
-    "intro": "Right, Filmbusters. Nearly there. More British films. Some funny, some a bit grim, all worth watching.",
+    "intro": "Filmbusters. More British films. Some funny, some a bit grim, all worth watching.",
     "prize": "Email in. Winner gets a copy of East Is East on DVD and a Tunnock's Caramel Wafer.",
     "clues": [
       {
@@ -28636,7 +28326,7 @@
       "UK",
       "US"
     ],
-    "intro": "Final Filmbusters. That's your lot. British comedy and cult classics. Have a last crack at it.",
+    "intro": "Filmbusters. British comedy and cult classics hiding in the phonetic clues. Have a crack at it.",
     "prize": "Email in. Winner gets a framed TV guide from a week in 1999 and a Werther's Original.",
     "clues": [
       {
@@ -28915,7 +28605,7 @@
       "UK",
       "US"
     ],
-    "intro": "Nine sets in. Sports personalities, hidden in phonetic scenes. Don't give up.",
+    "intro": "Sportbusters. Sports personalities hiding in phonetic scenes. Say them out loud.",
     "prize": "Email in. Winner gets a copy of Jurassic Park on DVD and a loyalty stamp card from a cafe that's shut now.",
     "clues": [
       {
@@ -28946,7 +28636,7 @@
       "UK",
       "US"
     ],
-    "intro": "Right, Sportbusters ten. Halfway through. Three more phonetic sports names - see how you get on.",
+    "intro": "Sportbusters. Three more phonetic sports names. See how you get on.",
     "prize": "Email in. Winner gets a mouse mat from a dotcom company and a Fanta from the fridge.",
     "clues": [
       {
@@ -29163,7 +28853,7 @@
       "UK",
       "US"
     ],
-    "intro": "Sportbusters seventeen. Still going. Three phonetic sports names - you're nearly there.",
+    "intro": "Sportbusters. Three phonetic sports names. Say them out loud.",
     "prize": "Email in. Winner gets a Woolworths carrier bag, mint condition, and a pick and mix scoop.",
     "clues": [
       {
@@ -29225,7 +28915,7 @@
       "UK",
       "US"
     ],
-    "intro": "Sportbusters nineteen. Nearly done. Three more - don't give up now.",
+    "intro": "Sportbusters. Three more hiding in the sounds. Say each one out loud.",
     "prize": "Email in. Winner gets a Netscape Navigator mousemat and a travel-size Lynx Africa.",
     "clues": [
       {
@@ -29256,7 +28946,7 @@
       "UK",
       "US"
     ],
-    "intro": "Last one. Sportbusters twenty. Finish strong - three phonetic sports names to round it all off.",
+    "intro": "Sportbusters. Three phonetic sports names hiding in the clues. Say them out loud.",
     "prize": "Email in. Winner gets a framed printout of the Ceefax sports page and a Werther's Original.",
     "clues": [
       {
@@ -29576,7 +29266,7 @@
       "US",
       "Global"
     ],
-    "intro": "Placebusters ten. Halfway through. Still going. Natural wonders and famous mountains.",
+    "intro": "Placebusters. Natural wonders and famous landmarks hiding in the sounds. Say them out loud.",
     "prize": "Email in. Winner gets a DVD of The Beach and an out-of-date passport holder from WHSmith.",
     "clues": [
       {
@@ -29704,7 +29394,7 @@
       "US",
       "Global"
     ],
-    "intro": "Placebusters fourteen. Nearly there. Three more places hiding in these phonetic clues.",
+    "intro": "Placebusters. Three more places hiding in these phonetic clues. Say them out loud.",
     "prize": "Email in. Winner gets a stack of old National Geographic magazines and a torch with weak batteries.",
     "clues": [
       {
@@ -29800,7 +29490,7 @@
       "US",
       "Global"
     ],
-    "intro": "Placebusters seventeen. Three more. Nearly done. Still all geography and natural wonders.",
+    "intro": "Placebusters. Three more phonetic geography clues. Say them out loud.",
     "prize": "Email in. Winner gets a Beanie Baby and a miniature bottle of shampoo from a Premier Inn.",
     "clues": [
       {
@@ -29864,7 +29554,7 @@
       "US",
       "Global"
     ],
-    "intro": "Placebusters nineteen. One more after this. Three phonetic geography clues. Nearly done.",
+    "intro": "Placebusters. Three phonetic geography clues. Say them out loud.",
     "prize": "Email in. Winner gets a copy of Grease on video and a decorative plate from a seaside town.",
     "clues": [
       {
@@ -29896,7 +29586,7 @@
       "US",
       "Global"
     ],
-    "intro": "Last one. Placebusters twenty. Three final phonetic geography clues. Finish strong.",
+    "intro": "Placebusters. Three phonetic geography clues. Say them out loud.",
     "prize": "Email in. Winner gets a wristband from a festival in 2004, still attached, and a packet of travel sweets.",
     "clues": [
       {
@@ -30076,7 +29766,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Nearly halfway. Comediansbusters nine. Three phonetic riddles. All comedians. You know the drill.",
+    "intro": "Comediansbusters. Three phonetic riddles, all comedians. You know the drill.",
     "prize": "Email in. Winner gets a novelty pen from a trade show and a Werthers Original.",
     "clues": [
       {
@@ -30286,7 +29976,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Comediansbusters seventeen. Nearly there. Three phonetic clues. All comedians. Sort of works.",
+    "intro": "Comediansbusters. Three phonetic clues, all comedians. Say them out loud.",
     "prize": "Email in. Winner gets a signed photo possibly from someone off Emmerdale and a pen lid.",
     "clues": [
       {
@@ -30316,7 +30006,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Comediansbusters nineteen. Penultimate set. Three more. Say it out loud. That's all.",
+    "intro": "Comediansbusters. Three more comedian names hiding in the sounds. Say it out loud. That's all.",
     "prize": "Email in. Winner gets a novelty mug shaped like a toilet and a chocolate finger.",
     "clues": [
       {
@@ -30346,7 +30036,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Last one. Comediansbusters twenty. Three final phonetic comedian clues. Give it one last go.",
+    "intro": "Comediansbusters. Three phonetic comedian clues. Give it a go.",
     "prize": "Email in. Winner gets a travel sewing kit from a Travelodge and a slightly out-of-date Rolo.",
     "clues": [
       {
@@ -30656,7 +30346,7 @@
       "UK",
       "US"
     ],
-    "intro": "Wordbusters ten. Final set of this half. Three compound word phonetic clues. Off you go.",
+    "intro": "Wordbusters. Three compound word phonetic clues. Off you go.",
     "prize": "Email in. Winner gets a tin of travel sweets and a branded biro from a skip hire firm.",
     "clues": [
       {
@@ -30718,7 +30408,7 @@
       "UK",
       "US"
     ],
-    "intro": "Wordbusters twelve. Keep going. Three more compound word phonetic clues.",
+    "intro": "Wordbusters. Three more compound word phonetic clues. Say them out loud.",
     "prize": "Email in. Winner gets a branded keyring from a letting agent and a slightly soft apple.",
     "clues": [
       {
@@ -30842,7 +30532,7 @@
       "UK",
       "US"
     ],
-    "intro": "Wordbusters sixteen. Nearly there now. Three more phonetic compound word clues.",
+    "intro": "Wordbusters. Three more phonetic compound word clues. Say them out loud.",
     "prize": "Email in. Winner gets a miniature golf pencil and a packet of sugar from a hotel.",
     "clues": [
       {
@@ -30935,7 +30625,7 @@
       "UK",
       "US"
     ],
-    "intro": "Wordbusters nineteen. Penultimate set. You know these. Compound words, phonetic clues.",
+    "intro": "Wordbusters. Compound words in phonetic clues. Say them out loud.",
     "prize": "Email in. Winner gets a garden centre voucher and a novelty mug shaped like a teapot.",
     "clues": [
       {
@@ -30966,7 +30656,7 @@
       "UK",
       "US"
     ],
-    "intro": "Last one. Wordbusters twenty. Final three compound word phonetic clues. Near enough.",
+    "intro": "Wordbusters. Three compound word phonetic clues. Near enough.",
     "prize": "Email in. Winner gets a tin of Quality Street with only the green triangles left in it.",
     "clues": [
       {
@@ -31152,7 +30842,7 @@
       "UK",
       "US"
     ],
-    "intro": "Fashionbusters six. Keep going. Three fashion clues, all phonetic. You know the drill.",
+    "intro": "Fashionbusters. Three fashion clues, all phonetic. You know the drill.",
     "prize": "Email in. Winner gets a Now 54 cassette and a gel pen that's nearly run out.",
     "clues": [
       {
@@ -31276,7 +30966,7 @@
       "UK",
       "US"
     ],
-    "intro": "Fashionbusters ten. Halfway through. Fashion brands, phonetic clues. You know what to do.",
+    "intro": "Fashionbusters. Fashion brands, phonetic clues. You know what to do.",
     "prize": "Email in. Winner gets a fax machine that still works and a ream of thermal paper for it.",
     "clues": [
       {
@@ -31431,7 +31121,7 @@
       "UK",
       "US"
     ],
-    "intro": "Right, Fashionbusters fifteen. Nearly there. Fashion brands in phonetic form. Say them out loud, alright?",
+    "intro": "Fashionbusters. Fashion brands in phonetic form. Say them out loud.",
     "prize": "Email in. Winner gets a Friends box set on DVD, two discs missing, and a candle that smells like an office.",
     "clues": [
       {
@@ -31555,7 +31245,7 @@
       "UK",
       "US"
     ],
-    "intro": "Fashionbusters nineteen. Last one before the final set. Fashion brands in the sounds. Say it out loud.",
+    "intro": "Fashionbusters. Fashion brands hiding in the sounds. Say it out loud.",
     "prize": "Email in. Winner gets a branded stress ball from a bank merger and a pen that writes in a colour nobody chose.",
     "clues": [
       {
@@ -31586,7 +31276,7 @@
       "UK",
       "US"
     ],
-    "intro": "Fashionbusters twenty. The last one. Three fashion brands, phonetic clues. Finish strong.",
+    "intro": "Fashionbusters. Three fashion brands hiding in the phonetic clues. Say them out loud.",
     "prize": "Email in. Winner gets a certificate for completing Fashionbusters, printed on normal paper, laminated at Ryman's.",
     "clues": [
       {
@@ -31886,7 +31576,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Right, tenth set of Mediabusters. Last lot before the halfway mark. Say them out loud.",
+    "intro": "Mediabusters. Three British media names in phonetic disguise. Say them out loud.",
     "prize": "Email in. Winner gets a Virgin Media remote control with no batteries and a Findus Crispy Pancake recipe card.",
     "clues": [
       {
@@ -31916,7 +31606,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Mediabusters eleven. We're past the halfway point. Three more British media phonetics. Off you go.",
+    "intro": "Mediabusters. Three more British media phonetics. Off you go.",
     "prize": "Email in. Winner gets a Ceefax page printout and a HMV voucher for a shop that shut in 2013.",
     "clues": [
       {
@@ -32036,7 +31726,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Mediabusters fifteen. Nearly there. British media, phonetic clues, silly scenes. Off you go.",
+    "intro": "Mediabusters. British media, phonetic clues, silly scenes. Off you go.",
     "prize": "Email in. Winner gets a Littlewoods catalogue with some pages already filled in by the previous owner.",
     "clues": [
       {
@@ -32126,7 +31816,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Nearly there. Set eighteen. Three more British media names in phonetic disguise.",
+    "intro": "Mediabusters. Three more British media names in phonetic disguise. Say them out loud.",
     "prize": "Email in. Winner gets a VHS copy of You've Been Framed recorded over an episode of Neighbours.",
     "clues": [
       {
@@ -32186,7 +31876,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Last one. Set twenty. Three final phonetic British media clues. Give it your best shot.",
+    "intro": "Mediabusters. Three phonetic British media clues. Give it your best shot.",
     "prize": "Email in. Winner gets a loyalty stamp card from a sandwich shop that closed in 2009 and a free go on a key-cutting machine.",
     "clues": [
       {
@@ -32546,7 +32236,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Right, Royalbusters. Halfway through, keep going. Three clues, all sounds, all royals.",
+    "intro": "Royalbusters. Three clues, all sounds, all royals. Say them out loud.",
     "prize": "Email in. Winner gets a Woolworths pick-and-mix bag, imaginary, and a laminated certificate of participation.",
     "clues": [
       {
@@ -32696,7 +32386,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Right, Royalbusters. Nearly there. Three royals in three clues. All hidden in sounds, not letters.",
+    "intro": "Royalbusters. Three royals in three clues. All hidden in sounds, not letters.",
     "prize": "Email in. Winner gets a Pets Win Prizes mug and a fridge magnet from Edinburgh Castle.",
     "clues": [
       {
@@ -32726,7 +32416,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Right. Royalbusters. Three left after this. All royals, all in the sounds. Last stretch.",
+    "intro": "Royalbusters. All royals, all in the sounds. Say them out loud.",
     "prize": "Email in. Winner gets a Cadbury selection box from 2003 and a biro that still works, somehow.",
     "clues": [
       {
@@ -32756,7 +32446,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Royalbusters, number nineteen. Nearly done. Three more royals hiding in sounds. Say them out loud.",
+    "intro": "Royalbusters. Three more royals hiding in sounds. Say them out loud.",
     "prize": "Email in. Winner gets a print of a horse from a car boot sale and a sachet of hotel coffee.",
     "clues": [
       {
@@ -32786,7 +32476,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Right. Last one. Royalbusters, number twenty. Three final royals in three silly clues. Go on then, finish it off.",
+    "intro": "Royalbusters. Three royals hiding in three silly clues. Go on then.",
     "prize": "Email in. Winner gets a commemorative tin from a jubilee that's been in a cupboard since 1977 and a packet of Rich Tea biscuits.",
     "clues": [
       {
@@ -33096,7 +32786,7 @@
       "UK",
       "US"
     ],
-    "intro": "Sciencebusters ten. Halfway through. Three more science answers hiding in these phonetic clues. Off you go.",
+    "intro": "Sciencebusters. Three more science answers hiding in these phonetic clues. Off you go.",
     "prize": "Email in. Winner gets a keyring from a science museum gift shop and a pencil.",
     "clues": [
       {
@@ -33344,7 +33034,7 @@
       "UK",
       "US"
     ],
-    "intro": "Sciencebusters eighteen. Nearly there. Three more science answers hidden in these phonetic clues.",
+    "intro": "Sciencebusters. Three more science answers hidden in these phonetic clues. Say them out loud.",
     "prize": "Email in. Winner gets a Petri dish and a slightly out-of-date copy of New Scientist.",
     "clues": [
       {
@@ -33406,7 +33096,7 @@
       "UK",
       "US"
     ],
-    "intro": "Last one. Sciencebusters twenty. The final round. Three science answers hiding in these clues. Go on then.",
+    "intro": "Sciencebusters. Three science answers hiding in these clues. Go on then.",
     "prize": "Email in. Winner gets a Woolworths gift card, no longer redeemable, and a periodic table tea towel.",
     "clues": [
       {
@@ -33706,7 +33396,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Right, Weatherbusters ten. Halfway through. Say them out loud. The sounds do the job.",
+    "intro": "Weatherbusters. Say them out loud. The sounds do the job.",
     "prize": "Email in. Winner gets a miniature bottle of shampoo from a Premier Inn and a lanyard.",
     "clues": [
       {
@@ -33736,7 +33426,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Weatherbusters eleven. Keep going. All weather. All phonetic. Say them out loud.",
+    "intro": "Weatherbusters. All weather, all phonetic. Say them out loud.",
     "prize": "Email in. Winner gets a fridge magnet from somewhere in Wales and a biscuit in a cellophane wrapper.",
     "clues": [
       {
@@ -33946,7 +33636,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Nearly done with the Weatherbusters. Say these out loud. Sounds like the answer, every time.",
+    "intro": "Weatherbusters. Say these out loud. Sounds like the answer, every time.",
     "prize": "Email in. Winner gets a DVD box set with no discs in it and a notepad from a bank.",
     "clues": [
       {
@@ -34006,7 +33696,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Last one. Weatherbusters twenty. Three final weather sounds. You've come this far. Finish it off.",
+    "intro": "Weatherbusters. Three weather answers hiding in the sounds. Say them out loud.",
     "prize": "Email in. Winner gets a novelty pen shaped like a fish and a cardboard coaster from a pub that's now a Tesco.",
     "clues": [
       {
@@ -34223,7 +33913,7 @@
       "UK",
       "US"
     ],
-    "intro": "Halfway. Artbusters ten. All famous art answers hiding in these phonetic clues.",
+    "intro": "Artbusters. Famous art answers hiding in these phonetic clues. Say them out loud.",
     "prize": "Email in. Winner gets a printed calendar from 2009 and a small jar of artisan chutney.",
     "clues": [
       {
@@ -34316,7 +34006,7 @@
       "UK",
       "US"
     ],
-    "intro": "Nearly there. Artbusters seventeen. Three more art clues, all phonetic. Say them out loud.",
+    "intro": "Artbusters. Three more art clues, all phonetic. Say them out loud.",
     "prize": "Email in. Winner gets a commemorative tin from a Royal event and a selection of mixed nuts.",
     "clues": [
       {
@@ -34595,7 +34285,7 @@
       "UK",
       "US"
     ],
-    "intro": "Set ten. We're halfway through Crimebusters. Three more. Say them out loud - that's the trick.",
+    "intro": "Crimebusters. Three more phonetic clues. Say them out loud — that's the trick.",
     "prize": "Email in. Winner gets a loyalty card for a sandwich chain that's shut down and a free pen.",
     "clues": [
       {
@@ -34812,7 +34502,7 @@
       "UK",
       "US"
     ],
-    "intro": "Eighteen. Nearly there with Crimebusters. Three more phonetic clues.",
+    "intro": "Crimebusters. Three more phonetic clues. Say them out loud.",
     "prize": "Email in. Winner gets a photocopied tourist map of somewhere and a key ring with no keys on it.",
     "clues": [
       {
@@ -34843,7 +34533,7 @@
       "UK",
       "US"
     ],
-    "intro": "Last set. Crimebusters twenty. Three phonetic clues to finish. Give it a go.",
+    "intro": "Crimebusters. Three phonetic clues, all crime-related. Give it a go.",
     "prize": "Email in. Winner gets a signed photo of someone from a mid-2000s reality show and a biro.",
     "clues": [
       {
@@ -35443,7 +35133,7 @@
     "region_relevance": [
       "UK"
     ],
-    "intro": "Last one. Ukplacesbusters. Three British places. The sounds tell you everything. Just say them out loud.",
+    "intro": "Ukplacesbusters. Three British places hiding in the sounds. Just say them out loud.",
     "prize": "Email in. Winner gets a DVD of a film nobody remembers and a loyalty stamp card for a coffee shop that became a vape shop.",
     "clues": [
       {
@@ -35536,7 +35226,7 @@
       "UK",
       "US"
     ],
-    "intro": "Three in. Mythbusters three. All legendary figures. Say the clues out loud and listen.",
+    "intro": "Mythbusters. Legendary figures hiding in the phonetic clues. Say them out loud and listen.",
     "prize": "Email in. Winner gets a Blockbuster loyalty card and a laminated bookmark from WHSmith.",
     "clues": [
       {
@@ -35722,7 +35412,7 @@
       "UK",
       "US"
     ],
-    "intro": "Halfway there. Mythbusters ten. All legendary figures in the answers. Phonetic clues.",
+    "intro": "Mythbusters. Legendary figures in the answers. Phonetic clues. Say them out loud.",
     "prize": "Email in. Winner gets a printed calendar from 2009 and a small jar of artisan chutney.",
     "clues": [
       {
@@ -35908,7 +35598,7 @@
       "UK",
       "US"
     ],
-    "intro": "Nearly there. Mythbusters seventeen. Three more legendary figures. Say the clues out loud.",
+    "intro": "Mythbusters. Three more legendary figures. Say the clues out loud.",
     "prize": "Email in. Winner gets a commemorative tin from a Royal event and a selection of mixed nuts.",
     "clues": [
       {
@@ -35939,7 +35629,7 @@
       "UK",
       "US"
     ],
-    "intro": "Penultimate one. Mythbusters nineteen. Three more in here. Nearly done.",
+    "intro": "Mythbusters. Three more legendary figures hiding in the phonetic clues. Say them out loud.",
     "prize": "Email in. Winner gets a copy of Calendar Girls on DVD and a miniature bar of hotel soap.",
     "clues": [
       {
@@ -35970,7 +35660,7 @@
       "UK",
       "US"
     ],
-    "intro": "Last one. Mythbusters twenty. Final set. Three more legendary figures to finish it off. You've been brilliant.",
+    "intro": "Mythbusters. Three legendary figures hiding in these clues. Say them out loud.",
     "prize": "Email in. Winner gets a Woolworths pick-and-mix bag, unavailable since 2008, and a Tate membership that may or may not be valid.",
     "clues": [
       {
@@ -36063,7 +35753,7 @@
       "UK",
       "US"
     ],
-    "intro": "Three in now. Businessbusters three. All famous business people hiding in these phonetic clues.",
+    "intro": "Businessbusters. Famous business people hiding in these phonetic clues. Say them out loud.",
     "prize": "Email in. Winner gets a Blockbuster loyalty card and a laminated bookmark from WHSmith.",
     "clues": [
       {
@@ -36280,7 +35970,7 @@
       "UK",
       "US"
     ],
-    "intro": "Halfway. Businessbusters ten. All moguls. All phonetic. You've been doing alright so far.",
+    "intro": "Businessbusters. All moguls, all phonetic. Say them out loud.",
     "prize": "Email in. Winner gets a printed calendar from 2009 and a small jar of artisan chutney.",
     "clues": [
       {
@@ -36497,7 +36187,7 @@
       "UK",
       "US"
     ],
-    "intro": "Nearly there. Businessbusters seventeen. Three more clues. All business. All phonetic. Say them aloud.",
+    "intro": "Businessbusters. Three more clues, all business, all phonetic. Say them aloud.",
     "prize": "Email in. Winner gets a commemorative tin from a Royal event and a selection of mixed nuts.",
     "clues": [
       {
@@ -36528,7 +36218,7 @@
       "UK",
       "US"
     ],
-    "intro": "Businessbusters eighteen. Two after this. All moguls. All phonetic. You've come this far.",
+    "intro": "Businessbusters. All moguls, all phonetic. Say each clue out loud.",
     "prize": "Email in. Winner gets a DVD boxset with the disc for series 3 missing and a Starbucks loyalty card.",
     "clues": [
       {
@@ -36559,7 +36249,7 @@
       "UK",
       "US"
     ],
-    "intro": "Penultimate one. Businessbusters nineteen. Three more phonetic clues. Nearly done now.",
+    "intro": "Businessbusters. Three more phonetic business clues. Say them out loud.",
     "prize": "Email in. Winner gets a copy of Calendar Girls on DVD and a miniature bar of hotel soap.",
     "clues": [
       {
@@ -36590,7 +36280,7 @@
       "UK",
       "US"
     ],
-    "intro": "Last one. Businessbusters twenty. Final set. Three more business clues and then we're done. You've been brilliant.",
+    "intro": "Businessbusters. Three more business moguls hiding in the sounds. Say them out loud.",
     "prize": "Email in. Winner gets a Woolworths pick-and-mix bag, unavailable since 2008, and a commemorative mug from a business that went under.",
     "clues": [
       {
