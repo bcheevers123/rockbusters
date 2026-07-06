@@ -290,8 +290,9 @@
       },
       {
         "number": 3,
-        "answer": "Carnelian",
+        "answer": "Ruby",
         "aliases": [
+          "ruby",
           "carnelian"
         ],
         "reasoning": "car (a vehicle, driving about) + neel (sounds like 'Neil', a name, or to kneel) + ian (a name, very common, very Ian) = Car-neel-ian = Carnelian. Say it: car-neel-ee-un."
@@ -2435,8 +2436,9 @@
       },
       {
         "number": 3,
-        "answer": "Tanzanite",
+        "answer": "Sapphire",
         "aliases": [
+          "sapphire",
           "tanzanite"
         ],
         "reasoning": "Tan (a colour, or a suntan) + zan (sounds like 'Zan', a name, or part of Tanzania) + ite (sounds like 'ight', or 'night') = Tan-zan-ite = Tanzanite. Say it: tan-zuh-nite."
@@ -4563,8 +4565,9 @@
     "clues": [
       {
         "number": 1,
-        "answer": "Alexandrite",
+        "answer": "Emerald",
         "aliases": [
+          "emerald",
           "alexandrite"
         ],
         "reasoning": "Alex (a very common name, reliable) + and (joining word, very busy) + rite (sounds like 'right', or a ritual) = Alex-and-rite = Alexandrite. Say it: al-ex-an-drite."
@@ -4579,8 +4582,9 @@
       },
       {
         "number": 3,
-        "answer": "Malachite",
+        "answer": "Opal",
         "aliases": [
+          "opal",
           "malachite"
         ],
         "reasoning": "mal (sounds like 'Mal', a name, or bad in Spanish) + a (the article, just floating there) + kite (a thing you fly, or a bird) = Mal-a-kite = Malachite. Say it: mal-uh-kite."
