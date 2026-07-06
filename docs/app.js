@@ -603,6 +603,22 @@ const DEV_PASSCODE_HASH = '7cad4eb0e04bd259d1291faa24c9b04a52cb6697ede50931cde44
 let _devUnlocked = false;
 const DEV_OFFSET_KEY = 'rockbusters_dev_offset';
 
+// ---------------------------------------------------------------------------
+// Dev browse modal state
+// ---------------------------------------------------------------------------
+let _bankSets = null;
+let _browseSelectedId = null;
+
+async function fetchBankSets() {
+  if (_bankSets) return _bankSets;
+  const apiUrl = getApiUrl();
+  if (!apiUrl) return [];
+  const res = await fetch(`${apiUrl}/api/bank`);
+  if (!res.ok) return [];
+  _bankSets = await res.json();
+  return _bankSets;
+}
+
 async function sha256hex(str) {
   const buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(str));
   return Array.from(new Uint8Array(buf)).map(b => b.toString(16).padStart(2, '0')).join('');
@@ -685,6 +701,147 @@ async function devResetLeaderboard() {
   } catch (e) {
     window.alert(`Failed: ${e.message}`);
   }
+}
+
+async function devBrowse() {
+  const modal = document.getElementById('dev-browse-modal');
+  if (!modal) return;
+
+  const sets = await fetchBankSets();
+  if (!sets.length) { window.alert('No API URL configured or bank unavailable.'); return; }
+
+  // Build grouped list
+  const listEl = document.getElementById('dev-browse-list');
+  listEl.innerHTML = '';
+  _browseSelectedId = null;
+
+  // Group by topic
+  const groups = {};
+  sets.forEach(s => {
+    if (!groups[s.topic]) groups[s.topic] = [];
+    groups[s.topic].push(s);
+  });
+
+  Object.entries(groups).forEach(([topic, items]) => {
+    const label = document.createElement('div');
+    label.className = 'dev-browse-group-label';
+    label.textContent = topic;
+    listEl.appendChild(label);
+
+    items.forEach(s => {
+      const row = document.createElement('div');
+      row.className = 'dev-browse-row';
+      row.dataset.setId = s.id;
+
+      const idSpan = document.createElement('span');
+      idSpan.className = 'dev-browse-row-id';
+      idSpan.textContent = s.id;
+
+      const titleSpan = document.createElement('span');
+      titleSpan.className = 'dev-browse-row-title';
+      titleSpan.textContent = s.title;
+
+      row.appendChild(idSpan);
+      row.appendChild(titleSpan);
+      row.addEventListener('click', () => browseSelectRow(row, s.id));
+      listEl.appendChild(row);
+    });
+  });
+
+  // Reset footer buttons
+  const previewBtn = document.getElementById('dev-browse-preview-btn');
+  const setTodayBtn = document.getElementById('dev-browse-set-today-btn');
+  if (previewBtn) previewBtn.disabled = true;
+  if (setTodayBtn) setTodayBtn.disabled = true;
+
+  modal.style.display = 'flex';
+  modal.removeAttribute('aria-hidden');
+}
+
+function browseSelectRow(row, setId) {
+  // Deselect previous
+  const listEl = document.getElementById('dev-browse-list');
+  listEl.querySelectorAll('.dev-browse-row.selected').forEach(r => r.classList.remove('selected'));
+  row.classList.add('selected');
+  _browseSelectedId = setId;
+
+  const previewBtn = document.getElementById('dev-browse-preview-btn');
+  const setTodayBtn = document.getElementById('dev-browse-set-today-btn');
+  if (previewBtn) previewBtn.disabled = false;
+  if (setTodayBtn) setTodayBtn.disabled = false;
+}
+
+function browseSelectRandom() {
+  if (!_bankSets || !_bankSets.length) return;
+  const randomSet = _bankSets[Math.floor(Math.random() * _bankSets.length)];
+  const listEl = document.getElementById('dev-browse-list');
+  const row = listEl.querySelector(`[data-set-id="${randomSet.id}"]`);
+  if (row) {
+    row.scrollIntoView({ block: 'center' });
+    browseSelectRow(row, randomSet.id);
+  }
+}
+
+function browseClose() {
+  const modal = document.getElementById('dev-browse-modal');
+  if (modal) { modal.style.display = 'none'; modal.setAttribute('aria-hidden', 'true'); }
+}
+
+async function browsePreview() {
+  if (!_browseSelectedId || !_bankSets) return;
+  // Find the index of this set in the enabled list (same order as rotation)
+  const idx = _bankSets.findIndex(s => s.id === _browseSelectedId);
+  if (idx === -1) return;
+
+  // Calculate offset: we want getTodaysIndex(total) === idx
+  // getTodaysIndex = (diffDays + offset) % total
+  // offset = idx - diffDays (mod total)
+  const total = _bankSets.length;
+  const today = getTodayLondon();
+  const EPOCH_DATE = new Date(Date.UTC(2026, 0, 2));
+  const diffDays = Math.floor((today.getTime() - EPOCH_DATE.getTime()) / (1000 * 60 * 60 * 24));
+  const offset = (((idx - diffDays) % total) + total) % total;
+
+  devSetOffset(offset);
+  browseClose();
+  await loadQuiz();
+}
+
+async function browseSetToday() {
+  if (!_browseSelectedId) return;
+  const secret = window.prompt('Dev passcode:');
+  if (!secret) return;
+  const apiUrl = getApiUrl();
+  if (!apiUrl) { window.alert('No API URL configured.'); return; }
+  try {
+    const res = await fetch(
+      `${apiUrl}/api/admin/set-today?set_id=${encodeURIComponent(_browseSelectedId)}&secret=${encodeURIComponent(secret)}`,
+      { method: 'POST' }
+    );
+    const data = await res.json();
+    if (res.ok) {
+      browseClose();
+      await loadQuiz();
+    } else {
+      window.alert(`Error: ${data.detail || res.status}`);
+    }
+  } catch (e) {
+    window.alert(`Failed: ${e.message}`);
+  }
+}
+
+async function devRandom() {
+  const sets = await fetchBankSets();
+  if (!sets.length) { window.alert('No API URL configured or bank unavailable.'); return; }
+  const randomSet = sets[Math.floor(Math.random() * sets.length)];
+  const total = sets.length;
+  const today = getTodayLondon();
+  const EPOCH_DATE = new Date(Date.UTC(2026, 0, 2));
+  const diffDays = Math.floor((today.getTime() - EPOCH_DATE.getTime()) / (1000 * 60 * 60 * 24));
+  const idx = sets.findIndex(s => s.id === randomSet.id);
+  const offset = (((idx - diffDays) % total) + total) % total;
+  devSetOffset(offset);
+  await loadQuiz();
 }
 
 // ---------------------------------------------------------------------------
@@ -1012,7 +1169,12 @@ function wireQuizButtons() {
   if (helpOpenBtn) helpOpenBtn.addEventListener('click', openHelp);
   if (helpCloseBtn) helpCloseBtn.addEventListener('click', closeHelp);
   if (helpModal) helpModal.addEventListener('click', e => { if (e.target === helpModal) closeHelp(); });
-  document.addEventListener('keydown', e => { if (e.key === 'Escape') closeHelp(); });
+  document.addEventListener('keydown', e => {
+    if (e.key === 'Escape') {
+      closeHelp();
+      browseClose();
+    }
+  });
 
   const aboutBtn = document.getElementById('about-toggle-btn');
   if (aboutBtn) aboutBtn.addEventListener('click', toggleAbout);
@@ -1031,6 +1193,22 @@ function wireQuizButtons() {
   if (devReset)      devReset.addEventListener('click', devResetToToday);
   if (devResetLbBtn) devResetLbBtn.addEventListener('click', devResetLeaderboard);
   if (devLockBtn)    devLockBtn.addEventListener('click', devLock);
+
+  const devBrowseBtn = document.getElementById('dev-browse-btn');
+  const devRandomBtn = document.getElementById('dev-random-btn');
+  const devBrowseRandomBtn = document.getElementById('dev-browse-random-btn');
+  const devBrowseCloseBtn = document.getElementById('dev-browse-close-btn');
+  const devBrowsePreviewBtn = document.getElementById('dev-browse-preview-btn');
+  const devBrowseSetTodayBtn = document.getElementById('dev-browse-set-today-btn');
+  const devBrowseModal = document.getElementById('dev-browse-modal');
+
+  if (devBrowseBtn)       devBrowseBtn.addEventListener('click', devBrowse);
+  if (devRandomBtn)       devRandomBtn.addEventListener('click', devRandom);
+  if (devBrowseRandomBtn) devBrowseRandomBtn.addEventListener('click', browseSelectRandom);
+  if (devBrowseCloseBtn)  devBrowseCloseBtn.addEventListener('click', browseClose);
+  if (devBrowsePreviewBtn) devBrowsePreviewBtn.addEventListener('click', browsePreview);
+  if (devBrowseSetTodayBtn) devBrowseSetTodayBtn.addEventListener('click', browseSetToday);
+  if (devBrowseModal) devBrowseModal.addEventListener('click', e => { if (e.target === devBrowseModal) browseClose(); });
 }
 
 // ---------------------------------------------------------------------------
@@ -1113,6 +1291,8 @@ window.saveProgress = saveProgress;
 window.handleGuess = handleGuess;
 window.handleReveal = handleReveal;
 window.devUnlock = devUnlock;
+window.devBrowse = devBrowse;
+window.devRandom = devRandom;
 
 // ---------------------------------------------------------------------------
 // Boot
