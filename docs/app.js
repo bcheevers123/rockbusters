@@ -819,6 +819,7 @@ async function browseSetToday() {
     );
     const data = await res.json();
     if (res.ok) {
+      devSetOffset(0);
       browseClose();
       await loadQuiz();
     } else {
