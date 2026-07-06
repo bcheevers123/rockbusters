@@ -634,7 +634,7 @@
     - diaphragm
     reasoning: dye + a + frame = dye-a-fram = Diaphragm. Say it out loud.
 - id: drugbusters-002
-  enabled: true
+  enabled: false
   title: Drugbusters
   topic: medication names, common pharmaceuticals and prescription drugs
   difficulty: hard
@@ -3118,7 +3118,7 @@
     - hamstrings
     reasoning: ham + string = ham-string = Hamstring. String tied round a ham. Simple as that.
 - id: drugbusters-001
-  enabled: true
+  enabled: false
   title: Drugbusters
   topic: medication names, common pharmaceuticals and prescription drugs
   difficulty: hard
@@ -5604,7 +5604,7 @@
     - metatarsals
     reasoning: met + a + tar + sal = met-a-tar-sal = Metatarsal. Met a tar, Sal.
 - id: drugbusters-003
-  enabled: true
+  enabled: false
   title: Drugbusters
   topic: medication names, common pharmaceuticals and prescription drugs
   difficulty: hard

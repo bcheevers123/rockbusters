@@ -1,5 +1,5 @@
 - id: drugbusters-001
-  enabled: true
+  enabled: false
   title: Drugbusters
   topic: medication names, common pharmaceuticals and prescription drugs
   difficulty: hard
@@ -35,7 +35,7 @@
     - valium
     reasoning: dia (sounds like 'Di-a', a name prefix) + ze (sounds like 'ze', going to sleep in French sort of way) + pam (a woman's name, Pam) = Di-aze-pam = Diazepam
 - id: drugbusters-002
-  enabled: true
+  enabled: false
   title: Drugbusters
   topic: medication names, common pharmaceuticals and prescription drugs
   difficulty: hard
@@ -72,7 +72,7 @@
     - zoloft
     reasoning: ser (sounds like 'sir', a formal address) + tra (sounds like 'tra', a bit like a tray) + line (a queue, or a line of products) = Ser-tra-line = Sertraline
 - id: drugbusters-003
-  enabled: true
+  enabled: false
   title: Drugbusters
   topic: medication names, common pharmaceuticals and prescription drugs
   difficulty: hard

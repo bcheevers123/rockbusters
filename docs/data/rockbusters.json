@@ -455,38 +455,6 @@
     ]
   },
   {
-    "id": "drugbusters-002",
-    "enabled": true,
-    "title": "Drugbusters",
-    "topic": "medication names, common pharmaceuticals and prescription drugs",
-    "difficulty": "hard",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US",
-      "Global"
-    ],
-    "intro": "Drugbusters two. More medication names hiding in phonetic clues. You don't need a prescription for this one, just a working pair of ears.",
-    "prize": "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "I",
-        "clue": "A bloke called Ivor has gone off to see someone about a roofing job in the middle of nowhere. He's not come back yet. Nobody's concerned though. He does this."
-      },
-      {
-        "number": 2,
-        "initials": "M",
-        "clue": "A bloke called Mort who owns a farm has been making something in a very large container. Very systematic about it. Wrote it all down."
-      },
-      {
-        "number": 3,
-        "initials": "S",
-        "clue": "A bloke who sells stuff has been sitting in the window of a shop in a really upright posture. Very serious about it. Won't even slouch a bit."
-      }
-    ]
-  },
-  {
     "id": "brandbusters-008",
     "enabled": true,
     "title": "Brandbusters",
@@ -2582,38 +2550,6 @@
     ]
   },
   {
-    "id": "drugbusters-001",
-    "enabled": true,
-    "title": "Drugbusters",
-    "topic": "medication names, common pharmaceuticals and prescription drugs",
-    "difficulty": "hard",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US",
-      "Global"
-    ],
-    "intro": "Right, Drugbusters. Rockbusters but all the answers are medication names. Say the clues out loud. The drug's hiding somewhere in the sounds. Might need a lie down after this one.",
-    "prize": "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "P",
-        "clue": "A couple of fellas are heading somewhere, and one of them is called Seth or something, and they've got a moral issue with it. A bit on the fence, ethically speaking."
-      },
-      {
-        "number": 2,
-        "initials": "W",
-        "clue": "A bloke who looks after a prison in a place called Farren has been making notes. He's very thorough. Got a whole logbook."
-      },
-      {
-        "number": 3,
-        "initials": "D",
-        "clue": "A man called Di has taken a nap in the middle of a conversation. Just gone. Not rude. He genuinely couldn't help it. It's a bit of a pattern with him."
-      }
-    ]
-  },
-  {
     "id": "brandbusters-001",
     "enabled": true,
     "title": "Brandbusters",
@@ -4704,38 +4640,6 @@
         "number": 3,
         "initials": "M",
         "clue": "He ran into a woman called Sal who works in road maintenance. She was covered in tar. Just standing there."
-      }
-    ]
-  },
-  {
-    "id": "drugbusters-003",
-    "enabled": true,
-    "title": "Drugbusters",
-    "topic": "medication names, common pharmaceuticals and prescription drugs",
-    "difficulty": "hard",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US",
-      "Global"
-    ],
-    "intro": "Drugbusters. Medication names hiding in the phonetic clues. Say these out loud and see if the sounds lead anywhere useful. Might not.",
-    "prize": "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "A",
-        "clue": "A bloke called Mox has shown up at a house party and everything's in the process of going wrong. In the most complete way possible."
-      },
-      {
-        "number": 2,
-        "initials": "O",
-        "clue": "A man called Omar has gone to a really small place, barely a village, just to have a look at things. He's noted everything down. Very thorough."
-      },
-      {
-        "number": 3,
-        "initials": "P",
-        "clue": "A fella called Penn has gone and made friends with all of the bacteria in the area. All of them. Very sociable. They've started calling him Pen."
       }
     ]
   },
