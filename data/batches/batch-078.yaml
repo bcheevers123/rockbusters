@@ -6,12 +6,12 @@
   office_safe: true
   region_relevance:
     - Global
-  intro: "Right, Operabusters. It's Rockbusters but all the answers are famous operas. Say the clues out loud — the opera is hiding somewhere in the sounds. Might help if you do a little bit of singing."
+  intro: "Right, Operabusters. It's Rockbusters but all the answers are famous operas. Say the clues out loud. The opera is hiding somewhere in the sounds. Might help if you do a little bit of singing."
   prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
   clues:
     - number: 1
       initials: C
-      clue: "A bloke called Kar has found a man — and that man is wearing a very long coat. Big collar on it. Very dramatic entrance. Everybody's staring."
+      clue: "A bloke called Kar has found a man, and that man is wearing a very long coat. Big collar on it. Very dramatic entrance. Everybody's staring."
       answer: Carmen
       aliases:
         - carmen
@@ -39,7 +39,7 @@
   office_safe: true
   region_relevance:
     - Global
-  intro: "Operabusters two. Three more famous operas hiding in the sounds here. These are a bit trickier. Say them out loud — reading them in your head will get you nowhere."
+  intro: "Operabusters two. Three more famous operas hiding in the sounds here. These are a bit trickier. Say them out loud. Reading them in your head will get you nowhere."
   prize: "Email in. Winner gets a printed photo from a disposable camera, framed."
   clues:
     - number: 1
@@ -64,7 +64,7 @@
       aliases:
         - lucia di lammermoor
         - lucia
-      reasoning: "loo (a toilet, or the name Lu — someone called Lou going somewhere urgent) + chee (a sharp little sound, like teeth) + ah (a sigh of relief or despair) + dee (the letter D as a word, meaning of, sort of) + lammer (sounds like 'lam-uh', like a lamb having a go) + moor (a soggy bit of land in the north of England or Scotland, very bleak) = Loo-chee-ah dee Lam-uh-moor = Lucia di Lammermoor"
+      reasoning: "loo (a toilet, or the name Lu, someone called Lou going somewhere urgent) + chee (a sharp little sound, like teeth) + ah (a sigh of relief or despair) + dee (the letter D as a word, meaning of, sort of) + lammer (sounds like 'lam-uh', like a lamb having a go) + moor (a soggy bit of land in the north of England or Scotland, very bleak) = Loo-chee-ah dee Lam-uh-moor = Lucia di Lammermoor"
 
 - id: operabusters-003
   enabled: true
@@ -74,7 +74,7 @@
   office_safe: true
   region_relevance:
     - Global
-  intro: "Last lot of Operabusters. Three more famous operas in here, all hidden in the sounds. Give the clues a read out loud — the answer's there somewhere, you've just got to listen for it."
+  intro: "Last lot of Operabusters. Three more famous operas in here, all hidden in the sounds. Give the clues a read out loud. The answer's there somewhere, you've just got to listen for it."
   prize: "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists."
   clues:
     - number: 1

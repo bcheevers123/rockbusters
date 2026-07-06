@@ -6,12 +6,12 @@
   office_safe: true
   region_relevance:
     - Global
-  intro: "Right, Cyberbusters. Same rules as always — say the clues out loud and the answer's hiding in the sounds somewhere. All cybersecurity this time."
+  intro: "Right, Cyberbusters. Same rules as always, say the clues out loud and the answer's hiding in the sounds somewhere. All cybersecurity this time."
   prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
   clues:
     - number: 1
       initials: P
-      clue: "A fish has taken up a hobby. Not swimming — something else. A leisure activity. It's casting a line, which is ironic, but that's what it's doing."
+      clue: "A fish has taken up a hobby. Not swimming. Something else. A leisure activity. It's casting a line, which is ironic, but that's what it's doing."
       answer: Phishing
       aliases:
         - phishing
@@ -39,7 +39,7 @@
   office_safe: true
   region_relevance:
     - Global
-  intro: "Cyberbusters two. All things internet security. Say these out loud — the sounds are what matter, not the spelling."
+  intro: "Cyberbusters two. All things internet security. Say these out loud. The sounds are what matter, not the spelling."
   prize: "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists."
   clues:
     - number: 1
@@ -59,7 +59,7 @@
       reasoning: "dark (very dim, no light) + web (a spider's web, also the internet) = Dark Web"
     - number: 3
       initials: T F
-      clue: "A pair of things — just two of them — have been to a factory and come out having multiplied. There were two going in and considerably more coming out."
+      clue: "A pair of things, just two of them, have been to a factory and come out having multiplied. There were two going in and considerably more coming out."
       answer: Two Factor
       aliases:
         - two factor
@@ -80,7 +80,7 @@
   clues:
     - number: 1
       initials: T H
-      clue: "A bloke called John — definitely from Troy, he's been very clear about that — has turned up on a horse. He won't say what's inside it."
+      clue: "A bloke called John, definitely from Troy, he's been very clear about that, has turned up on a horse. He won't say what's inside it."
       answer: Trojan Horse
       aliases:
         - trojan horse
@@ -97,7 +97,7 @@
       reasoning: "zero (nothing, the number 0, empty) + day (a 24-hour period, today) = Zero Day"
     - number: 3
       initials: S I
-      clue: "A film came out — a sequel to a previous one — and it went straight to the doctor for a jab. Didn't even wait for the reviews."
+      clue: "A film came out, a sequel to a previous one, and it went straight to the doctor for a jab. Didn't even wait for the reviews."
       answer: SQL Injection
       aliases:
         - sql injection

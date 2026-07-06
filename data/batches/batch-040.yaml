@@ -46,7 +46,7 @@
   clues:
     - number: 1
       initials: F
-      clue: "Right, a pretty strong nighttime. Really quite dark out. Then bang — someone goes and shoots a small piece of metal through it."
+      clue: "Right, a pretty strong nighttime. Really quite dark out. Then bang, someone goes and shoots a small piece of metal through it."
       answer: Fortnite
       aliases:
         - fortnite
@@ -86,7 +86,7 @@
         - pac-man
         - pac man
         - pacman
-      reasoning: "Pac sounds like pack (to pack something, or a pack of things) + Man = a man. Pack-Man. A man who packs things away — like dots. Pac-Man."
+      reasoning: "Pac sounds like pack (to pack something, or a pack of things) + Man = a man. Pack-Man. A man who packs things away, like dots. Pac-Man."
     - number: 2
       initials: C
       clue: "Some fella in the study with a candlestick. Bit suspicious. Nobody's saying who did it but it was probably him."
@@ -118,14 +118,14 @@
   clues:
     - number: 1
       initials: DK
-      clue: "There's a large primate. Big fella. And he's not just any primate — he's acting up. Causing a proper scene."
+      clue: "There's a large primate. Big fella. And he's not just any primate. He's acting up. Causing a proper scene."
       answer: Donkey Kong
       aliases:
         - donkey kong
-      reasoning: "Donkey (a donkey, the animal — but here sounds like a stubborn silly thing) + Kong (a kong, big ape) = Donkey Kong. Don-key Kong. A donkey + Kong the ape."
+      reasoning: "Donkey (a donkey, the animal, but here sounds like a stubborn silly thing) + Kong (a kong, big ape) = Donkey Kong. Don-key Kong. A donkey + Kong the ape."
     - number: 2
       initials: TP
-      clue: "It's a test, right. But it's not just any test — it covers everything. History, science, sport, the lot. And there's a wheel involved for some reason."
+      clue: "It's a test, right. But it's not just any test. It covers everything. History, science, sport, the lot. And there's a wheel involved for some reason."
       answer: Trivial Pursuit
       aliases:
         - trivial pursuit
@@ -205,7 +205,7 @@
       reasoning: "Grand (grand, big, impressive) + Theft (theft, stealing) + Auto (auto, a car, automobile) = Grand Theft Auto. Grand theft of a motor vehicle."
     - number: 3
       initials: BK
-      clue: "Right, there's a fella called Jim — no wait, it's Banjo. And he's got a bear mate. And they're both off on some sort of adventure."
+      clue: "Right, there's a fella called Jim. No wait, it's Banjo. And he's got a bear mate. And they're both off on some sort of adventure."
       answer: Banjo-Kazooie
       aliases:
         - banjo-kazooie
@@ -290,7 +290,7 @@
   region_relevance:
     - UK
     - US
-  intro: "Right, Gamebusters. Nearly halfway. You know the drill — phonetic clues, gaming answers, say it out loud."
+  intro: "Right, Gamebusters. Nearly halfway. You know the drill, phonetic clues, gaming answers, say it out loud."
   prize: "Email in. Winner gets a limited-edition lanyard from a gaming convention nobody's heard of."
   clues:
     - number: 1
@@ -335,7 +335,7 @@
       answer: FIFA
       aliases:
         - fifa
-      reasoning: "FIFA = fee-fah. Phonetically: fee + fah. Like fee-fi-fo-fum but just the first two. FIFA — the football governing body, also the game."
+      reasoning: "FIFA = fee-fah. Phonetically: fee + fah. Like fee-fi-fo-fum but just the first two. FIFA, the football governing body, also the game."
     - number: 2
       initials: T
       clue: "These blocks keep falling. You can't stop them. They just come down. One after another. And you've got to sort it out."
@@ -455,7 +455,7 @@
       answer: Scrabble
       aliases:
         - scrabble
-      reasoning: "Scrabble = SCRAB-ul. To scrabble around for something, to scramble. Scrabble — scrambling for letters to make words."
+      reasoning: "Scrabble = SCRAB-ul. To scrabble around for something, to scramble. Scrabble, scrambling for letters to make words."
 
 - id: gamebusters-014
   enabled: true
@@ -562,7 +562,7 @@
         - pac-man
         - pac man
         - pacman
-      reasoning: "Pac sounds like pack or chomp — packing food away + Man (a man) = Pac-Man. Pack-Man. A man who packs things into his mouth."
+      reasoning: "Pac sounds like pack or chomp, packing food away + Man (a man) = Pac-Man. Pack-Man. A man who packs things into his mouth."
 
 - id: gamebusters-017
   enabled: true

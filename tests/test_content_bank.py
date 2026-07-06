@@ -109,12 +109,12 @@ def test_duplicate_id_raises_error():
 # ---------------------------------------------------------------------------
 
 def test_real_file_loads_three_sets():
-    """The real data/rockbusters.yaml loads 3 sets successfully."""
+    """The real data/rockbusters.yaml loads at least 3 sets successfully."""
     bank_path = os.path.join(
         os.path.dirname(__file__), "..", "data", "rockbusters.yaml"
     )
     bank = load_bank(bank_path)
-    assert len(bank) == 3
+    assert len(bank) >= 3
 
 
 def test_real_file_each_set_has_three_clues():

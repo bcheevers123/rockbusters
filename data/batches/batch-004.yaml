@@ -12,7 +12,7 @@
   clues:
     - number: 1
       initials: I
-      clue: "Right, that big ship's been going in — like, actually into something. Slid right inside. You know what I mean."
+      clue: "Right, that big ship's been going in, like actually into something. Slid right inside. You know what I mean."
       answer: Inception
       aliases:
         - inception
@@ -50,10 +50,10 @@
       answer: Shrek
       aliases:
         - shrek
-      reasoning: "Shrek sounds like 'shriek' almost but is its own thing — the green lad from the swamp = Shrek"
+      reasoning: "Shrek sounds like 'shriek' almost but is its own thing. The green lad from the swamp = Shrek"
     - number: 2
       initials: E
-      clue: "Right, a bloke's gone to work in one of them workshops up north — very far north — and he's made entirely of Christmas. Sort of."
+      clue: "Right, a bloke's gone to work in one of them workshops up north, very far north, and he's made entirely of Christmas. Sort of."
       answer: Elf
       aliases:
         - elf
@@ -122,7 +122,7 @@
       reasoning: "inter (between) + stellar (stars) = Interstellar. Between the stars, that's all."
     - number: 2
       initials: T R
-      clue: "That bloke's coming back — he's been through a lot, bit beardy, covered in snow. Someone's left a candle in the window for him."
+      clue: "That bloke's coming back. He's been through a lot, bit beardy, covered in snow. Someone's left a candle in the window for him."
       answer: The Revenant
       aliases:
         - the revenant
@@ -149,7 +149,7 @@
   clues:
     - number: 1
       initials: D
-      clue: "This fella's had his face done — all red, very chatty, a bit violent. Keeps breaking the rules of films. Bit of a law unto himself."
+      clue: "This fella's had his face done, all red, very chatty, a bit violent. Keeps breaking the rules of films. Bit of a law unto himself."
       answer: Deadpool
       aliases:
         - deadpool
@@ -179,7 +179,7 @@
     - UK
     - US
   intro: "Alright then, Filmbusters. Phonetic clues, film answers, all from this century. You know the drill."
-  prize: "Email in. Winner gets a Cineworld loyalty stamp card — needs forty-seven more stamps for a free medium Sprite."
+  prize: "Email in. Winner gets a Cineworld loyalty stamp card. Needs forty-seven more stamps for a free medium Sprite."
   clues:
     - number: 1
       initials: O
@@ -187,7 +187,7 @@
       answer: Oppenheimer
       aliases:
         - oppenheimer
-      reasoning: "Oppenheimer (the bomb man) — open + heimer, but the whole thing sounds like 'open-high-mer', the physicist = Oppenheimer"
+      reasoning: "Oppenheimer (the bomb man): open + heimer, but the whole thing sounds like 'open-high-mer', the physicist = Oppenheimer"
     - number: 2
       initials: B
       clue: "She's all pink and plastic and lives in a big house in Malibu. Everything's perfect. A bit too perfect, actually."
@@ -217,7 +217,7 @@
   clues:
     - number: 1
       initials: S
-      clue: "Someone's burned the bottom of the kettle — right on the base where it sits. Black as anything. Don't know how."
+      clue: "Someone's burned the bottom of the kettle, right on the base where it sits. Black as anything. Don't know how."
       answer: Saltburn
       aliases:
         - saltburn
@@ -251,7 +251,7 @@
   clues:
     - number: 1
       initials: R
-      clue: "That fella from Wolverhampton — or wherever — he's gone into space on a big rocket. Bit of a journey. Very loud on the way up."
+      clue: "That fella from Wolverhampton, or wherever, he's gone into space on a big rocket. Bit of a journey. Very loud on the way up."
       answer: Rocketman
       aliases:
         - rocketman
@@ -294,7 +294,7 @@
       reasoning: "Paddington (the bear, the station, the area) = Paddington. Pad + ing + ton. He's from Peru, ends up at the station."
     - number: 2
       initials: B
-      clue: "That Irish city — well, the Northern one — in the middle of winter. Everything's a bit grey and tense. Beautiful though."
+      clue: "That Irish city, well the Northern one, in the middle of winter. Everything's a bit grey and tense. Beautiful though."
       answer: Belfast
       aliases:
         - belfast
@@ -328,7 +328,7 @@
       reasoning: "in + ception (like reception but you're going IN) = Inception. The deeper you go, the more confused you get."
     - number: 2
       initials: T R
-      clue: "He's come back — this bloke — from somewhere really awful. Snow everywhere, a bear's had a go at him. Still walking though."
+      clue: "He's come back, this bloke, from somewhere really awful. Snow everywhere, a bear's had a go at him. Still walking though."
       answer: The Revenant
       aliases:
         - the revenant
@@ -355,14 +355,14 @@
   clues:
     - number: 1
       initials: F
-      clue: "It's all gone solid outside — ice and snow everywhere — and this one lass has just accepted that that's her thing now. She's fine."
+      clue: "It's all gone solid outside, ice and snow everywhere, and this one lass has just accepted that that's her thing now. She's fine."
       answer: Frozen
       aliases:
         - frozen
       reasoning: "frozen (ice, snow, cold, it's just her thing) = Frozen"
     - number: 2
       initials: A
-      clue: "Right, these massive blue creatures on another planet — tall, they are — and some humans have gone over there and made a right mess."
+      clue: "Right, these massive blue creatures on another planet, tall they are, and some humans have gone over there and made a right mess."
       answer: Avatar
       aliases:
         - avatar
@@ -393,7 +393,7 @@
       answer: Oppenheimer
       aliases:
         - oppenheimer
-      reasoning: "Oppenheimer — open up something, then the -heimer bit. The bomb man. Lot of desert. Very serious."
+      reasoning: "Oppenheimer: open up something, then the -heimer bit. The bomb man. Lot of desert. Very serious."
     - number: 2
       initials: P
       clue: "This South Korean family's moved in underneath another family, sort of. Very clever, very tense. Someone wins a big golden thing for it."
@@ -423,7 +423,7 @@
   clues:
     - number: 1
       initials: R
-      clue: "That singer — the real one, not made up — he's up in the air on a big rocket thing and his whole life is flashing past. Elton John type situation."
+      clue: "That singer, the real one, not made up, he's up in the air on a big rocket thing and his whole life is flashing past. Elton John type situation."
       answer: Rocketman
       aliases:
         - rocketman
@@ -434,14 +434,14 @@
       answer: Wonka
       aliases:
         - wonka
-      reasoning: "Wonka — won (like winning) + ka (that click sound). Or just: the chocolate man. That's all."
+      reasoning: "Wonka: won (like winning) + ka (that click sound). Or just: the chocolate man. That's all."
     - number: 3
       initials: B
       clue: "She's plastic and everything is pink and her boyfriend's into horses. Then it all gets a bit existential. More pink than you'd expect."
       answer: Barbie
       aliases:
         - barbie
-      reasoning: "Barbie — bar (like a bar of something) + bee (the flying insect). A bee is near a bar. Say it: bar-bee = Barbie."
+      reasoning: "Barbie: bar (like a bar of something) + bee (the flying insect). A bee is near a bar. Say it: bar-bee = Barbie."
 
 - id: filmbusters-034
   enabled: true
@@ -505,7 +505,7 @@
       reasoning: "black (the colour) + panther (big cat, sleek) = Black Panther. Wakanda and all that."
     - number: 3
       initials: J
-      clue: "He's laughing but he shouldn't be — sort of uncontrollable, poor fella. White face paint, green hair, purple coat. Not having a great time of it."
+      clue: "He's laughing but he shouldn't be, sort of uncontrollable, poor fella. White face paint, green hair, purple coat. Not having a great time of it."
       answer: Joker
       aliases:
         - joker
@@ -540,7 +540,7 @@
       reasoning: "yester (day before) + day (daytime) = Yesterday. The Beatles film with Jack and Ellie."
     - number: 3
       initials: B
-      clue: "Right, there's a big ship — old one — and it's going very fast and it shouldn't be and everyone's in formal wear. You know this one."
+      clue: "Right, there's a big ship, old one, and it's going very fast and it shouldn't be and everyone's in formal wear. You know this one."
       answer: Belfast
       aliases:
         - belfast
@@ -600,7 +600,7 @@
       answer: Shrek
       aliases:
         - shrek
-      reasoning: "Shrek — sounds like a shriek but grumpier. The green ogre. Lives in a swamp. That's him."
+      reasoning: "Shrek: sounds like a shriek but grumpier. The green ogre. Lives in a swamp. That's him."
     - number: 2
       initials: S
       clue: "That royal lady, she's at a big house over Christmas and she's not having it. Walks through the grounds in her coat looking sad. Very elegant though."
@@ -644,7 +644,7 @@
       reasoning: "Coco (the name, like cocoa) = Coco. The Pixar one. Day of the Dead. Very good."
     - number: 3
       initials: P
-      clue: "This Korean family, right, they've worked their way into this rich family's house — tutoring, driving, the lot — and it all goes wrong. Very tense film."
+      clue: "This Korean family, right, they've worked their way into this rich family's house, tutoring, driving, the lot, and it all goes wrong. Very tense film."
       answer: Parasite
       aliases:
         - parasite
@@ -664,11 +664,11 @@
   clues:
     - number: 1
       initials: I
-      clue: "He's going into someone's dream — inside the head, while they're asleep — and planting an idea in there. Very complicated. Just go with it."
+      clue: "He's going into someone's dream, inside the head while they're asleep, and planting an idea in there. Very complicated. Just go with it."
       answer: Inception
       aliases:
         - inception
-      reasoning: "inception (the beginning, the going-in moment — in + ception like reception) = Inception"
+      reasoning: "inception (the beginning, the going-in moment, in + ception like reception) = Inception"
     - number: 2
       initials: B P
       clue: "This king's died, right, and the young lad has to come back and take over because no one else can do it. Big African kingdom, lots of ceremony."
@@ -678,7 +678,7 @@
       reasoning: "black (the colour, dark) + panther (the big cat, sleek and powerful) = Black Panther"
     - number: 3
       initials: B R
-      clue: "This rock band's singer is absolutely unbelievable live — huge voice, huge crowd, huge teeth — and this is the story of how he got there. True story."
+      clue: "This rock band's singer is absolutely unbelievable live, huge voice, huge crowd, huge teeth, and this is the story of how he got there. True story."
       answer: Bohemian Rhapsody
       aliases:
         - bohemian rhapsody

@@ -1,19 +1,19 @@
 - id: drugbusters-001
   enabled: true
   title: Drugbusters
-  topic: medication names — common pharmaceuticals and prescription drugs
+  topic: medication names, common pharmaceuticals and prescription drugs
   difficulty: hard
   office_safe: true
   region_relevance:
     - UK
     - US
     - Global
-  intro: "Right, Drugbusters. Rockbusters but all the answers are medication names. Say the clues out loud — the drug's hiding somewhere in the sounds. Might need a lie down after this one."
+  intro: "Right, Drugbusters. Rockbusters but all the answers are medication names. Say the clues out loud. The drug's hiding somewhere in the sounds. Might need a lie down after this one."
   prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
   clues:
     - number: 1
       initials: P
-      clue: "A couple of fellas are heading somewhere — and one of them is called Seth or something — and they've got a moral issue with it. A bit on the fence, ethically speaking."
+      clue: "A couple of fellas are heading somewhere, and one of them is called Seth or something, and they've got a moral issue with it. A bit on the fence, ethically speaking."
       answer: Paracetamol
       aliases:
         - paracetamol
@@ -28,7 +28,7 @@
       reasoning: "war (a conflict, or warden of a war) + far (at a distance) + in (inside) = War-far-in = Warfarin"
     - number: 3
       initials: D
-      clue: "A man called Di has taken a nap in the middle of a conversation. Just gone. Not rude — he genuinely couldn't help it. It's a bit of a pattern with him."
+      clue: "A man called Di has taken a nap in the middle of a conversation. Just gone. Not rude. He genuinely couldn't help it. It's a bit of a pattern with him."
       answer: Diazepam
       aliases:
         - diazepam
@@ -38,7 +38,7 @@
 - id: drugbusters-002
   enabled: true
   title: Drugbusters
-  topic: medication names — common pharmaceuticals and prescription drugs
+  topic: medication names, common pharmaceuticals and prescription drugs
   difficulty: hard
   office_safe: true
   region_relevance:
@@ -63,7 +63,7 @@
       aliases:
         - metformin
         - glucophage
-      reasoning: "met (to meet someone, or met — past tense of meet) + for (on behalf of) + min (minutes, or minimum) = Met-for-min = Metformin"
+      reasoning: "met (to meet someone, or met, past tense of meet) + for (on behalf of) + min (minutes, or minimum) = Met-for-min = Metformin"
     - number: 3
       initials: S
       clue: "A bloke who sells stuff has been sitting in the window of a shop in a really upright posture. Very serious about it. Won't even slouch a bit."
@@ -76,7 +76,7 @@
 - id: drugbusters-003
   enabled: true
   title: Drugbusters
-  topic: medication names — common pharmaceuticals and prescription drugs
+  topic: medication names, common pharmaceuticals and prescription drugs
   difficulty: hard
   office_safe: true
   region_relevance:
@@ -97,7 +97,7 @@
       reasoning: "a (the article) + mox (sounds like 'Mox', a name) + i (the letter I, or 'eye') + cillin (sounds like 'sill-in', like sitting on a window sill inside) = A-moxi-cillin = Amoxicillin"
     - number: 2
       initials: O
-      clue: "A man called Omar has gone to a really small place — barely a village — just to have a look at things. He's noted everything down. Very thorough."
+      clue: "A man called Omar has gone to a really small place, barely a village, just to have a look at things. He's noted everything down. Very thorough."
       answer: Omeprazole
       aliases:
         - omeprazole

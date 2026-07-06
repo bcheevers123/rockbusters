@@ -60,7 +60,7 @@
       aliases:
         - the white hart
         - white hart
-      reasoning: "The (the) + White (pure white, white as snow) + Hart (a male deer, a hart — sounds like heart) = The White Hart"
+      reasoning: "The (the) + White (pure white, white as snow) + Hart (a male deer, a hart, sounds like heart) = The White Hart"
     - number: 3
       initials: T B S
       clue: "Right, a big dark-feathered bird's just glided across the lake. Jet black. Very graceful. Showing off a bit."
@@ -83,7 +83,7 @@
   clues:
     - number: 1
       initials: T R O
-      clue: "That great big tree in the churchyard — the massive one, hundreds of years old — it's got some sort of royal connection. Very distinguished."
+      clue: "That great big tree in the churchyard, the massive one, hundreds of years old, it's got some sort of royal connection. Very distinguished."
       answer: The Royal Oak
       aliases:
         - the royal oak
@@ -104,7 +104,7 @@
       aliases:
         - the ship inn
         - ship inn
-      reasoning: "The (the) + Ship (a sea vessel, parked in the harbour) + Inn (an inn, a little place to stay — sounds like 'in') = The Ship Inn"
+      reasoning: "The (the) + Ship (a sea vessel, parked in the harbour) + Inn (an inn, a little place to stay, sounds like 'in') = The Ship Inn"
 
 - id: pubbusters-004
   enabled: true
@@ -160,7 +160,7 @@
       aliases:
         - the greyhound
         - greyhound
-      reasoning: "The (the) + Greyhound (a fast thin dog, used for racing — a greyhound) = The Greyhound"
+      reasoning: "The (the) + Greyhound (a fast thin dog, used for racing, a greyhound) = The Greyhound"
     - number: 2
       initials: T L A F
       clue: "There's a young sheep, right, and it's gone and attached itself to a banner. Little thing just clinging to a flag. Bit odd."
@@ -212,7 +212,7 @@
       aliases:
         - the wheatsheaf
         - wheatsheaf
-      reasoning: "The (the) + Wheatsheaf (a bundle of wheat stalks tied together — wheat sheaf) = The Wheatsheaf"
+      reasoning: "The (the) + Wheatsheaf (a bundle of wheat stalks tied together, a wheat sheaf) = The Wheatsheaf"
 
 - id: pubbusters-007
   enabled: true
@@ -232,7 +232,7 @@
       aliases:
         - the chequers
         - chequers
-      reasoning: "The (the) + Chequers (the black and white checked pattern, like on a draughts board — chequers) = The Chequers"
+      reasoning: "The (the) + Chequers (the black and white checked pattern, like on a draughts board, chequers) = The Chequers"
     - number: 2
       initials: T R
       clue: "Right, there's a big iron track going through the middle of a field and something heavy and fast has just gone down it at speed. Steam and everything."
@@ -248,7 +248,7 @@
       aliases:
         - the volunteer
         - volunteer
-      reasoning: "The (the) + Volunteer (someone who's put their name down to help without being asked — a volunteer) = The Volunteer"
+      reasoning: "The (the) + Volunteer (someone who's put their name down to help without being asked, a volunteer) = The Volunteer"
 
 - id: pubbusters-008
   enabled: true
@@ -267,10 +267,10 @@
       answer: Darts
       aliases:
         - darts
-      reasoning: "Darts (sharp-tipped things you throw at a circular board — darts) = Darts"
+      reasoning: "Darts (sharp-tipped things you throw at a circular board, darts) = Darts"
     - number: 2
       initials: S H
-      clue: "Someone's taken half a penny — an old coin, mind — and they're pushing it along a wooden board with the heel of their hand. Not throwing it. Shoving it. Gently."
+      clue: "Someone's taken half a penny, an old coin mind, and they're pushing it along a wooden board with the heel of their hand. Not throwing it. Shoving it. Gently."
       answer: Shove Halfpenny
       aliases:
         - shove halfpenny
@@ -282,7 +282,7 @@
       answer: Skittles
       aliases:
         - skittles
-      reasoning: "Skittles (nine wooden pins you knock over with a ball — skittles, classic pub game) = Skittles"
+      reasoning: "Skittles (nine wooden pins you knock over with a ball, skittles, classic pub game) = Skittles"
 
 - id: pubbusters-009
   enabled: true
@@ -297,7 +297,7 @@
   clues:
     - number: 1
       initials: T R L
-      clue: "There's a colour — the bright one, like a fire engine — and there's a big cat wandering about. The big cat is that colour. Very striking."
+      clue: "There's a colour, the bright one like a fire engine, and there's a big cat wandering about. The big cat is that colour. Very striking."
       answer: The Red Lion
       aliases:
         - the red lion
@@ -309,14 +309,14 @@
       answer: Last Orders
       aliases:
         - last orders
-      reasoning: "Last (final, the last ones) + Orders (what you call at the bar — last orders) = Last Orders"
+      reasoning: "Last (final, the last ones) + Orders (what you call at the bar, last orders) = Last Orders"
     - number: 3
       initials: L G
-      clue: "Right, that woman landlady at the pub — the one in charge — she runs the place with an iron fist. Got a name for her. She's the guv'nor."
+      clue: "Right, that woman landlady at the pub, the one in charge, she runs the place with an iron fist. Got a name for her. She's the guv'nor."
       answer: Landlady
       aliases:
         - landlady
-      reasoning: "Land (the land, the place) + lady (a woman) = Landlady — the woman who runs the pub"
+      reasoning: "Land (the land, the place) + lady (a woman) = Landlady. The woman who runs the pub."
 
 - id: pubbusters-010
   enabled: true
@@ -336,10 +336,10 @@
       aliases:
         - the tab
         - tab
-      reasoning: "The (the) + Tab (the running list of what you owe at the bar — a tab) = The Tab"
+      reasoning: "The (the) + Tab (the running list of what you owe at the bar, a tab) = The Tab"
     - number: 2
       initials: P Q
-      clue: "Right, there's a night — usually a Tuesday — where everyone sits in teams and a bloke with a microphone asks questions. Some people take it too seriously."
+      clue: "Right, there's a night, usually a Tuesday, where everyone sits in teams and a bloke with a microphone asks questions. Some people take it too seriously."
       answer: Pub Quiz
       aliases:
         - pub quiz
@@ -351,7 +351,7 @@
       aliases:
         - round
         - a round
-      reasoning: "Round (buying a round at the pub — your round means you buy drinks for everyone) = Round"
+      reasoning: "Round (buying a round at the pub, your round means you buy drinks for everyone) = Round"
 
 - id: pubbusters-011
   enabled: true
@@ -401,7 +401,7 @@
   clues:
     - number: 1
       initials: T W H
-      clue: "There's a very pale animal — a deer, male one — standing very still in a clearing. White as a sheet. Very noble."
+      clue: "There's a very pale animal, a deer, male one, standing very still in a clearing. White as a sheet. Very noble."
       answer: The White Hart
       aliases:
         - the white hart
@@ -414,7 +414,7 @@
       aliases:
         - the black swan
         - black swan
-      reasoning: "The (the) + Black (dark, all black — unusual) + Swan (the gliding waterbird) = The Black Swan"
+      reasoning: "The (the) + Black (dark, all black, unusual) + Swan (the gliding waterbird) = The Black Swan"
     - number: 3
       initials: T C
       clue: "There's this lot of cricketers, right, and they've gone and named a pub after themselves. Very pleased about it. They're in the bar celebrating."
@@ -422,7 +422,7 @@
       aliases:
         - the cricketers
         - cricketers
-      reasoning: "The (the) + Cricketers (people who play cricket — cricketers) = The Cricketers"
+      reasoning: "The (the) + Cricketers (people who play cricket, cricketers) = The Cricketers"
 
 - id: pubbusters-013
   enabled: true
@@ -437,7 +437,7 @@
   clues:
     - number: 1
       initials: T R O
-      clue: "There's a big old tree — the sort that acorns fall off — and it's somehow connected to royalty. Maybe a king hid in it once. That sort of thing."
+      clue: "There's a big old tree, the sort that acorns fall off, and it's somehow connected to royalty. Maybe a king hid in it once. That sort of thing."
       answer: The Royal Oak
       aliases:
         - the royal oak
@@ -458,7 +458,7 @@
       aliases:
         - the steeple
         - steeple
-      reasoning: "The (the) + Steeple (the pointy bit on top of a church — a steeple, very common pub name in English villages) = The Steeple"
+      reasoning: "The (the) + Steeple (the pointy bit on top of a church, a steeple, very common pub name in English villages) = The Steeple"
 
 - id: pubbusters-014
   enabled: true
@@ -481,12 +481,12 @@
       reasoning: "The (the) + Fox (cunning orange animal) + and (and) + Hound (a big chasing dog, a hound) = The Fox and Hound"
     - number: 2
       initials: T G
-      clue: "There's a thin, very fast dog — the kind they race — just standing outside. Very sleek. Very aloof. Bit intimidating for such a slender animal."
+      clue: "There's a thin, very fast dog, the kind they race, just standing outside. Very sleek. Very aloof. Bit intimidating for such a slender animal."
       answer: The Greyhound
       aliases:
         - the greyhound
         - greyhound
-      reasoning: "The (the) + Greyhound (a thin, fast racing dog — a greyhound) = The Greyhound"
+      reasoning: "The (the) + Greyhound (a thin, fast racing dog, a greyhound) = The Greyhound"
     - number: 3
       initials: B P
       clue: "Right, there's a hand-pump on the bar and you pull it toward you and a pint of real ale comes out. That's the whole thing. Classic."
@@ -514,7 +514,7 @@
       aliases:
         - the plough
         - plough
-      reasoning: "The (the) + Plough (the farming implement dragged by a horse to turn soil — a plough) = The Plough"
+      reasoning: "The (the) + Plough (the farming implement dragged by a horse to turn soil, a plough) = The Plough"
     - number: 2
       initials: T B
       clue: "A large metal thing is ringing. The sort that hangs in a tower. Very loud, very clear. Sunday morning sort of sound."
@@ -522,7 +522,7 @@
       aliases:
         - the bell
         - bell
-      reasoning: "The (the) + Bell (a large metal ringing thing that hangs in a tower — a bell) = The Bell"
+      reasoning: "The (the) + Bell (a large metal ringing thing that hangs in a tower, a bell) = The Bell"
     - number: 3
       initials: S P
       clue: "Someone has pushed a very small old coin along a smooth wooden board. Not thrown it. Shoved it with their hand. Very gently. Very precise."
@@ -550,7 +550,7 @@
       aliases:
         - the anchor
         - anchor
-      reasoning: "The (the) + Anchor (heavy metal thing dropped from a boat to keep it in place — an anchor) = The Anchor"
+      reasoning: "The (the) + Anchor (heavy metal thing dropped from a boat to keep it in place, an anchor) = The Anchor"
     - number: 2
       initials: T N H
       clue: "A load of old worn-out horses have a sign hanging outside their address. The sign's got their heads on it. They seem unbothered."
@@ -566,7 +566,7 @@
       aliases:
         - the chequers
         - chequers
-      reasoning: "The (the) + Chequers (a checked black and white pattern — chequers, very common pub name) = The Chequers"
+      reasoning: "The (the) + Chequers (a checked black and white pattern, chequers, very common pub name) = The Chequers"
 
 - id: pubbusters-017
   enabled: true
@@ -586,7 +586,7 @@
       aliases:
         - the railway
         - railway
-      reasoning: "The (the) + Railway (iron tracks, trains running along them — a railway) = The Railway"
+      reasoning: "The (the) + Railway (iron tracks, trains running along them, a railway) = The Railway"
     - number: 2
       initials: T H A H
       clue: "A long-eared fast animal and a dog that chases it have both ended up in the same place. Neither one looks happy about the situation."
@@ -617,11 +617,11 @@
   clues:
     - number: 1
       initials: D
-      clue: "Right, these pointy little things — feathered at one end, sharp at the other — you hurl them at a circular target on the wall. Everyone's played this. Usually badly."
+      clue: "Right, these pointy little things, feathered at one end, sharp at the other, you hurl them at a circular target on the wall. Everyone's played this. Usually badly."
       answer: Darts
       aliases:
         - darts
-      reasoning: "Darts (pointy things with feathered flights that you throw at a round board — darts) = Darts"
+      reasoning: "Darts (pointy things with feathered flights that you throw at a round board, darts) = Darts"
     - number: 2
       initials: T L A F
       clue: "There's a small woolly animal and a big flag. They've both got a name above the pub door. The sheep's the star of the sign though."
@@ -637,7 +637,7 @@
       aliases:
         - the volunteer
         - volunteer
-      reasoning: "The (the) + Volunteer (someone who steps forward to help without being asked — a volunteer) = The Volunteer"
+      reasoning: "The (the) + Volunteer (someone who steps forward to help without being asked, a volunteer) = The Volunteer"
 
 - id: pubbusters-019
   enabled: true
@@ -665,14 +665,14 @@
       aliases:
         - the rising sun
         - rising sun
-      reasoning: "The (the) + Rising (hauling itself up, coming up over the horizon) + Sun (the enormous glowing thing in the sky — the sun) = The Rising Sun"
+      reasoning: "The (the) + Rising (hauling itself up, coming up over the horizon) + Sun (the enormous glowing thing in the sky, the sun) = The Rising Sun"
     - number: 3
       initials: S
       clue: "Nine wooden pins arranged in a diamond shape, and you roll a ball down a lane to knock them all flying. Very old game. Very satisfying sound when you get them all."
       answer: Skittles
       aliases:
         - skittles
-      reasoning: "Skittles (nine wooden pins in a lane, knocked over with a ball — skittles, an ancient British pub game) = Skittles"
+      reasoning: "Skittles (nine wooden pins in a lane, knocked over with a ball, skittles, an ancient British pub game) = Skittles"
 
 - id: pubbusters-020
   enabled: true
@@ -687,12 +687,12 @@
   clues:
     - number: 1
       initials: T C
-      clue: "There's a royal hat — the sort a king or queen wears — just sitting in the middle of a village square. Very regal. No one's moved it."
+      clue: "There's a royal hat, the sort a king or queen wears, just sitting in the middle of a village square. Very regal. No one's moved it."
       answer: The Crown
       aliases:
         - the crown
         - crown
-      reasoning: "The (the) + Crown (a royal hat, worn by kings and queens — a crown) = The Crown"
+      reasoning: "The (the) + Crown (a royal hat, worn by kings and queens, a crown) = The Crown"
     - number: 2
       initials: T K H
       clue: "There's a monarch and they've only gone and had the top portion of their effigy removed. The head bit. Gone. Just the body left on the sign."
@@ -703,7 +703,7 @@
       reasoning: "The (the) + Kings (a monarch, a king) + Head (the top bit, the head on the sign) = The Kings Head"
     - number: 3
       initials: S H
-      clue: "Someone's taken an ancient coin — only worth half a penny mind — and they're giving it a gentle push along a flat wooden surface. That's the whole game. It works."
+      clue: "Someone's taken an ancient coin, only worth half a penny mind, and they're giving it a gentle push along a flat wooden surface. That's the whole game. It works."
       answer: Shove Halfpenny
       aliases:
         - shove halfpenny

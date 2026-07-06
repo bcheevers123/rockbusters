@@ -6,7 +6,7 @@
   office_safe: true
   region_relevance:
     - Global
-  intro: "Right, Philosophybusters. Rockbusters but it's all famous thinkers. Say the clues out loud — the answers are hiding somewhere in the sounds. Might take a moment."
+  intro: "Right, Philosophybusters. Rockbusters but it's all famous thinkers. Say the clues out loud. The answers are hiding somewhere in the sounds. Might take a moment."
   prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
   clues:
     - number: 1
@@ -18,7 +18,7 @@
       reasoning: "soak (sounds like 'so') + crates (a fella called Crates, or boxes stacked up) = So-crates = Socrates"
     - number: 2
       initials: N
-      clue: "A fella called Neat has gone over a set of railings — and he's done it in a sort of stylish way. He's very pleased with himself. Bit much."
+      clue: "A fella called Neat has gone over a set of railings, and he's done it in a sort of stylish way. He's very pleased with himself. Bit much."
       answer: Nietzsche
       aliases:
         - nietzsche
@@ -41,7 +41,7 @@
   office_safe: true
   region_relevance:
     - Global
-  intro: "Philosophybusters two. Three more thinkers hiding in the sounds. Say these out loud — reading them quietly won't do you any good."
+  intro: "Philosophybusters two. Three more thinkers hiding in the sounds. Say these out loud. Reading them quietly won't do you any good."
   prize: "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists."
   clues:
     - number: 1
@@ -75,7 +75,7 @@
   office_safe: true
   region_relevance:
     - Global
-  intro: "Third and final Philosophybusters. Three more big thinkers in here. The answers are all phonetic — say them out loud and see if the sounds add up to a philosopher."
+  intro: "Third and final Philosophybusters. Three more big thinkers in here. The answers are all phonetic. Say them out loud and see if the sounds add up to a philosopher."
   prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
   clues:
     - number: 1

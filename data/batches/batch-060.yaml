@@ -6,12 +6,12 @@
   office_safe: true
   region_relevance:
     - Global
-  intro: "Right, Biologybusters. It's all biology — the sort of thing you'd have had to memorise in school and then immediately forgot. Say the clues out loud. The answer's somewhere in the sounds."
+  intro: "Right, Biologybusters. It's all biology, the sort of thing you'd have had to memorise in school and then immediately forgot. Say the clues out loud. The answer's somewhere in the sounds."
   prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
   clues:
     - number: 1
       initials: M
-      clue: "My toe is in a state. It's got a condition — something wrong with it — and it's been going on for a while. My toe. Con-dry-a."
+      clue: "My toe is in a state. It's got a condition, something wrong with it, and it's been going on for a while. My toe. Con-dry-a."
       answer: Mitochondria
       aliases:
         - mitochondria
@@ -22,7 +22,7 @@
       answer: Chromosome
       aliases:
         - chromosome
-      reasoning: "chro (sounds like 'crow', a black bird, or Chris-oh) + mo (sounds like 'mo', a moment) + some (sounds like 'some', a quantity, or Rome backwards-ish) = Chro-mo-some = Chromosome. Or: Crow-mo-some — a crow taking a moment in Rome."
+      reasoning: "chro (sounds like 'crow', a black bird, or Chris-oh) + mo (sounds like 'mo', a moment) + some (sounds like 'some', a quantity, or Rome backwards-ish) = Chro-mo-some = Chromosome. Or: Crow-mo-some, a crow taking a moment in Rome."
     - number: 3
       initials: A
       clue: "A fella called Adren has lined up at the starting blocks. The gun goes off. He's gone. He's absolutely legged it. Very fast man."
@@ -52,7 +52,7 @@
       reasoning: "pan (a cooking pan, or the name Pan) + cre (sounds like 'kree', or 'cree', a rushing sound) + as (the word 'as') = Pan-cre-as = Pancreas"
     - number: 2
       initials: C
-      clue: "A part of your brain — a little one at the back — sounds like it could be a small Italian biscuit. Sort of a cerebell-type situation. Hard to spell. Easy to damage."
+      clue: "A part of your brain, a little one at the back, sounds like it could be a small Italian biscuit. Sort of a cerebell-type situation. Hard to spell. Easy to damage."
       answer: Cerebellum
       aliases:
         - cerebellum
@@ -85,14 +85,14 @@
       reasoning: "sero (sounds like 'seer-oh', or zero with an S) + tone (a sound, or a musical note) + in (inside, within) = Sero-tone-in = Serotonin"
     - number: 2
       initials: T
-      clue: "A man called Tess has got a stone — a proper big one — and he's carrying it around. Tess. Tos. Ter. One. Bit of a mouthful."
+      clue: "A man called Tess has got a stone, a proper big one, and he's carrying it around. Tess. Tos. Ter. One. Bit of a mouthful."
       answer: Testosterone
       aliases:
         - testosterone
       reasoning: "test (sounds like 'tess-t', or a test, an exam) + os (sounds like 'oz', a small amount) + ter (sounds like 'ter', a hesitation) + one (the number one) = Test-os-ter-one = Testosterone"
     - number: 3
       initials: P
-      clue: "A photo has been taken by someone called Syn — unusual name — and it's come out all green. Syn. Thesis. Something about light and plants."
+      clue: "A photo has been taken by someone called Syn, unusual name, and it's come out all green. Syn. Thesis. Something about light and plants."
       answer: Photosynthesis
       aliases:
         - photosynthesis

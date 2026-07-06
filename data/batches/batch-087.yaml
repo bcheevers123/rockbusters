@@ -6,12 +6,12 @@
   office_safe: true
   region_relevance:
     - Global
-  intro: "Right. Chefbusters. All celebrity chefs hiding in phonetic clues. Don't read them — say them out loud. The answer's in the sounds, not the letters. It's not a spelling test, it's more of a hearing test."
+  intro: "Right. Chefbusters. All celebrity chefs hiding in phonetic clues. Don't read them, say them out loud. The answer's in the sounds, not the letters. It's not a spelling test, it's more of a hearing test."
   prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
   clues:
     - number: 1
       initials: G R
-      clue: "A bloke with a very grand title — like a Don, a proper important one — has walked into a field and come face to face with a male sheep that's started talking. The sheep says something. Nobody knows what."
+      clue: "A bloke with a very grand title (like a Don, a proper important one) has walked into a field and come face to face with a male sheep that's started talking. The sheep says something. Nobody knows what."
       answer: Gordon Ramsay
       aliases:
         - gordon ramsay
@@ -40,12 +40,12 @@
   office_safe: true
   region_relevance:
     - Global
-  intro: "Chefbusters two. More celebrity chefs. Same rules — say them out loud, don't try to read your way to the answer. That won't work. Your ears are more useful here than your eyes."
+  intro: "Chefbusters two. More celebrity chefs. Same rules. Say them out loud, don't try to read your way to the answer. That won't work. Your ears are more useful here than your eyes."
   prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
   clues:
     - number: 1
       initials: J O
-      clue: "A bird — big blue one, sits in trees, makes a racket — has gone and borrowed something of yours. Just helped itself. And there's a bloke called Ollie standing nearby who's gone a bit green. Might be the bird's fault."
+      clue: "A bird (big blue one, sits in trees, makes a racket) has gone and borrowed something of yours. Just helped itself. And there's a bloke called Ollie standing nearby who's gone a bit green. Might be the bird's fault."
       answer: Jamie Oliver
       aliases:
         - jamie oliver
@@ -78,21 +78,21 @@
   clues:
     - number: 1
       initials: D S
-      clue: "The letter that makes the dee sound has gone on holiday to somewhere sheltered from the wind — very calm there, protected — and when it got back it had become a blacksmith. Made a few horseshoes. Seemed pleased."
+      clue: "The letter that makes the dee sound has gone on holiday to somewhere sheltered from the wind (very calm there, protected) and when it got back it had become a blacksmith. Made a few horseshoes. Seemed pleased."
       answer: Delia Smith
       aliases:
         - delia smith
       reasoning: "Dee (the letter D, said aloud) + lee (the sheltered side of something, out of the wind) + a (just the letter a, small sound) + Smith (a blacksmith, someone who works metal, bang bang) = Dee-lee-a Smith = Delia Smith"
     - number: 2
       initials: M B
-      clue: "A female horse has come in and it's gone a bit red in the face, embarrassed about something. And there's a small round fruit — soft, grows on a bush — sitting there looking very smug about the whole situation."
+      clue: "A female horse has come in and it's gone a bit red in the face, embarrassed about something. And there's a small round fruit (soft, grows on a bush) sitting there looking very smug about the whole situation."
       answer: Mary Berry
       aliases:
         - mary berry
       reasoning: "Mare (a female horse, the lady one) + ree (sounds like 'ree', a bit of a whinny sound, or just the tail end) + Ber (the start of the fruit, like 'ber' in berry) + ree (sounds like 'ree', the end of the fruit) = Mare-ree Ber-ree = Mary Berry"
     - number: 3
       initials: P H
-      clue: "A bloke who wrote a lot of letters to people, very important one, has gone for a walk into a forest but the trees aren't normal trees — they've got bright red berries and pointed leaves. He seems fine with this."
+      clue: "A bloke who wrote a lot of letters to people, very important one, has gone for a walk into a forest but the trees aren't normal trees. They've got bright red berries and pointed leaves. He seems fine with this."
       answer: Paul Hollywood
       aliases:
         - paul hollywood

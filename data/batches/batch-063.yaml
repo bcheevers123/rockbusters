@@ -6,19 +6,19 @@
   office_safe: true
   region_relevance:
     - Global
-  intro: "Right, Dinosaurbusters. All the answers are names of dinosaurs. Say the clues out loud — the sounds add up to something that used to stomp around millions of years ago."
+  intro: "Right, Dinosaurbusters. All the answers are names of dinosaurs. Say the clues out loud. The sounds add up to something that used to stomp around millions of years ago."
   prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
   clues:
     - number: 1
       initials: S
-      clue: "A bloke called Steg has gone and hurt himself — something to do with his back plates apparently — and now he's really sore about the whole thing. We all are."
+      clue: "A bloke called Steg has gone and hurt himself, something to do with his back plates apparently, and now he's really sore about the whole thing. We all are."
       answer: Stegosaurus
       aliases:
         - stegosaurus
       reasoning: "steg (a bloke called Steg, or a male horse) + oh (a sound of mild realisation) + sore (in pain) + us (us, the people) = Steg-oh-sore-us = Stegosaurus"
     - number: 2
       initials: V
-      clue: "Someone's been moving very fast — almost at top speed — and then they've gone and done a bit of wrapping on someone. In a tropical setting. Very quick. Very violent."
+      clue: "Someone's been moving very fast, almost at top speed, and then they've gone and done a bit of wrapping on someone. In a tropical setting. Very quick. Very violent."
       answer: Velociraptor
       aliases:
         - velociraptor
@@ -44,21 +44,21 @@
   clues:
     - number: 1
       initials: T
-      clue: "Someone's having a go at something — a real proper attempt, three times if necessary — and Sarah keeps turning up with hats on. Just loads of hats. Three of them on her head."
+      clue: "Someone's having a go at something, a real proper attempt, three times if necessary, and Sarah keeps turning up with hats on. Just loads of hats. Three of them on her head."
       answer: Triceratops
       aliases:
         - triceratops
       reasoning: "try (to attempt something) + Sarah (a woman's name, sounds like 'cera') + tops (hats, things that go on top of a head) = Try-cera-tops = Triceratops"
     - number: 2
       initials: A
-      clue: "Someone's twisted their ankle and they're really sore about it and they want all of us to know that. Not just them — us as well. The ankle is central to this story."
+      clue: "Someone's twisted their ankle and they're really sore about it and they want all of us to know that. Not just them. Us as well. The ankle is central to this story."
       answer: Ankylosaurus
       aliases:
         - ankylosaurus
       reasoning: "ankle (the joint you twist) + oh (a sound of mild realisation) + sore (in pain) + us (us, everyone involved) = Ankle-oh-sore-us = Ankylosaurus"
     - number: 3
       initials: B
-      clue: "A donkey's made a noise — proper loud bray — while holding a key, and then something sore has come up involving the lot of us. It's been a long afternoon."
+      clue: "A donkey's made a noise, proper loud bray, while holding a key, and then something sore has come up involving the lot of us. It's been a long afternoon."
       answer: Brachiosaurus
       aliases:
         - brachiosaurus
@@ -77,7 +77,7 @@
   clues:
     - number: 1
       initials: D
-      clue: "Someone's dipped into something quite heavy — a real load of it — and then there's a bloke swearing at the end of the whole business. Very undignified situation."
+      clue: "Someone's dipped into something quite heavy, a real load of it, and then there's a bloke swearing at the end of the whole business. Very undignified situation."
       answer: Diplodocus
       aliases:
         - diplodocus
@@ -91,7 +91,7 @@
       reasoning: "iguana (the large lizard, sounds like 'ig-wanna') + don (a bloke called Don, or a title of respect) = Ig-wanna-don = Iguanodon"
     - number: 3
       initials: A
-      clue: "A bloke called Archie has gone off on a boat — a proper biblical one — and then he's chosen something, but it all ends very suddenly with a sharp sound. Archie seems pleased."
+      clue: "A bloke called Archie has gone off on a boat, a proper biblical one, and then he's chosen something, but it all ends very suddenly with a sharp sound. Archie seems pleased."
       answer: Archaeopteryx
       aliases:
         - archaeopteryx

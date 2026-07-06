@@ -294,7 +294,7 @@
       answer: Supreme
       aliases:
         - supreme
-      reasoning: "supreme (the greatest, the best, above all others) = Supreme. The brand name is its own phonetic clue — sounds like 'sue-preem'."
+      reasoning: "supreme (the greatest, the best, above all others) = Supreme. The brand name is its own phonetic clue, sounds like 'sue-preem'."
     - number: 2
       initials: H
       clue: "She's made a terrible mess of things - absolute chaos - and now it's all sort of fuzzy and you can't quite make it out."
@@ -343,7 +343,7 @@
       answer: Next
       aliases:
         - next
-      reasoning: "necks (the part of the body, plural — giraffes have long necks) sounds like Next. Say it: necks = Next."
+      reasoning: "necks (the part of the body, plural, giraffes have long necks) sounds like Next. Say it: necks = Next."
 
 - id: fashionbusters-011
   enabled: true
@@ -366,7 +366,7 @@
       reasoning: "river (flowing water, a river) + island (surrounded by water, land mass) = River Island."
     - number: 2
       initials: B
-      clue: "That prickly little thing off a plant — you know, gets stuck in your jumper — someone's decided to plant it in the ground. Buried it."
+      clue: "That prickly little thing off a plant, you know, gets stuck in your jumper. Someone's decided to plant it in the ground. Buried it."
       answer: Burberry
       aliases:
         - burberry
@@ -463,7 +463,7 @@
   clues:
     - number: 1
       initials: C L
-      clue: "Christian got the fright of his life — Lou leapt out from behind a door and went boo — and he went flying straight into a big tin. Landed on it."
+      clue: "Christian got the fright of his life. Lou leapt out from behind a door and went boo, and he went flying straight into a big tin. Landed on it."
       answer: Christian Louboutin
       aliases:
         - christian louboutin
@@ -501,7 +501,7 @@
       answer: Selfridges
       aliases:
         - selfridges
-      reasoning: "self (oneself, your own) + ridges (Ridges, like a surname — Self + ridges = Selfridges). Say it: self-ridges = Selfridges."
+      reasoning: "self (oneself, your own) + ridges (Ridges, like a surname, Self + ridges = Selfridges). Say it: self-ridges = Selfridges."
     - number: 2
       initials: B
       clue: "That fella's balancing on one leg, wobbling about. He's been doing it for ages. Won't give up. Sort of impressive."
@@ -511,7 +511,7 @@
       reasoning: "balance (to stay steady, equilibrium) + ee + ah + ga = Balenciaga. Say it: bal-en-see-ah-ga."
     - number: 3
       initials: O W
-      clue: "That colour — it's not quite white, has gone a bit wrong, sort of yellowy. Like a white shirt that's had a few too many washes."
+      clue: "That colour, it's not quite white, has gone a bit wrong, sort of yellowy. Like a white shirt that's had a few too many washes."
       answer: Off-White
       aliases:
         - off-white
@@ -548,7 +548,7 @@
       reasoning: "supreme (the highest authority, the most powerful, above all others) = Supreme. The word itself is the phonetic clue."
     - number: 3
       initials: T
-      clue: "She's found the shop she was looking for — the best one, the main one — right at the very top of the building. Perfect."
+      clue: "She's found the shop she was looking for, the best one, the main one, right at the very top of the building. Perfect."
       answer: Topshop
       aliases:
         - topshop
@@ -623,7 +623,7 @@
       aliases:
         - carhartt
         - car hart
-      reasoning: "car (a vehicle) + heart (the cardiac organ, or emotion) = Carhartt. Say it: car-heart = Carhartt. Note: alternate set uses this differently — car + heart both work."
+      reasoning: "car (a vehicle) + heart (the cardiac organ, or emotion) = Carhartt. Say it: car-heart = Carhartt. Note: alternate set uses this differently, car + heart both work."
 
 - id: fashionbusters-019
   enabled: true

@@ -19,7 +19,7 @@
       reasoning: "butter (the dairy spread you put on toast) + fly (sprouted wings and is flying) = Butterfly"
     - number: 2
       initials: B
-      clue: "The darkest colour you can think of — it's gone and turned into a creature that sits in a tree and sings."
+      clue: "The darkest colour you can think of. It's gone and turned into a creature that sits in a tree and sings."
       answer: Blackbird
       aliases:
         - blackbird
@@ -80,7 +80,7 @@
   clues:
     - number: 1
       initials: W
-      clue: "The stuff from the tap's gone and had a tumble. Just fell right over. Not spilled — proper fell. Dramatic about it."
+      clue: "The stuff from the tap's gone and had a tumble. Just fell right over. Not spilled, proper fell. Dramatic about it."
       answer: Waterfall
       aliases:
         - waterfall
@@ -159,7 +159,7 @@
       reasoning: "foot (the bottom of someone's leg) + print (pressed onto paper, left a mark) = Footprint"
     - number: 2
       initials: H
-      clue: "Right, that bit at the end of your arm — someone's turned it into a carrier. Handles and everything. You carry it to the shops."
+      clue: "Right, that bit at the end of your arm. Someone's turned it into a carrier. Handles and everything. You carry it to the shops."
       answer: Handbag
       aliases:
         - handbag
@@ -225,7 +225,7 @@
   clues:
     - number: 1
       initials: D
-      clue: "All them little bits of muck from under the sofa — they've gone and thrown themselves away. Tidied up on their own. That's handy."
+      clue: "All them little bits of muck from under the sofa. They've gone and thrown themselves away. Tidied up on their own. That's handy."
       answer: Dustbin
       aliases:
         - dustbin
@@ -241,7 +241,7 @@
       reasoning: "cob (a corn cob, sounds like the front of cobweb) + web (the spider's sticky net) = Cobweb"
     - number: 3
       initials: E
-      clue: "That little drum — someone's picked it up and strapped it to the side of their head. Playing it there. Very inconvenient."
+      clue: "That little drum. Someone's picked it up and strapped it to the side of their head. Playing it there. Very inconvenient."
       answer: Eardrum
       aliases:
         - eardrum
@@ -299,7 +299,7 @@
   clues:
     - number: 1
       initials: C
-      clue: "Right, that puzzle in the newspaper — the one where you fill in words going across and down. Everyone's gran does it."
+      clue: "Right, that puzzle in the newspaper, the one where you fill in words going across and down. Everyone's gran does it."
       answer: Crossword
       aliases:
         - crossword
@@ -411,7 +411,7 @@
       reasoning: "foot (the shoe, the bottom of the leg) + print (left a mark, pressed down on paper or ground) = Footprint"
     - number: 2
       initials: N
-      clue: "Right, they've written down a single sound — one musical tone — and it's filled up a whole volume. Very wordy note."
+      clue: "Right, they've written down a single sound, one musical tone, and it's filled up a whole volume. Very wordy note."
       answer: Notebook
       aliases:
         - notebook
@@ -452,7 +452,7 @@
       reasoning: "tooth (the thing in your gob for biting) + paste (stuck to everything, sticky paste) = Toothpaste"
     - number: 3
       initials: W
-      clue: "The air outside — the moving kind — has decided it needs a glass panel in front of it. Just put one up. There it is."
+      clue: "The air outside, the moving kind, has decided it needs a glass panel in front of it. Just put one up. There it is."
       answer: Windscreen
       aliases:
         - windscreen
@@ -472,7 +472,7 @@
   clues:
     - number: 1
       initials: C
-      clue: "That big round cob of yellow stuff, the one with all the kernels on — it's gone and spun a sticky net."
+      clue: "That big round cob of yellow stuff, the one with all the kernels on. It's gone and spun a sticky net."
       answer: Cobweb
       aliases:
         - cobweb
@@ -506,14 +506,14 @@
   clues:
     - number: 1
       initials: H
-      clue: "That thing at the end of your arm — right, they've gone and sewn it onto a carrier. Handles on it. You take it shopping."
+      clue: "That thing at the end of your arm. Right, they've gone and sewn it onto a carrier. Handles on it. You take it shopping."
       answer: Handbag
       aliases:
         - handbag
       reasoning: "hand (the thing at the end of your arm) + bag (sewn onto a carrier, handles, you take it shopping) = Handbag"
     - number: 2
       initials: T
-      clue: "Right, the brew — your cuppa — has got a little scooping device. Sitting in the saucer. Very well-equipped drink."
+      clue: "Right, the brew, your cuppa, has got a little scooping device. Sitting in the saucer. Very well-equipped drink."
       answer: Teaspoon
       aliases:
         - teaspoon
@@ -540,7 +540,7 @@
   clues:
     - number: 1
       initials: C
-      clue: "Right, the puzzle with all the squares — the one everyone does on the train — the words go across and down and everyone pretends they're clever."
+      clue: "Right, the puzzle with all the squares, the one everyone does on the train. The words go across and down and everyone pretends they're clever."
       answer: Crossword
       aliases:
         - crossword
@@ -581,7 +581,7 @@
       reasoning: "butter (the margarine, the spread) + fly (sprouted wings, taken off, gone out the window) = Butterfly"
     - number: 2
       initials: B
-      clue: "That flower, right — the one that grows in the woods in spring — it's gone bright sky blue. And it's ringing."
+      clue: "That flower, right, the one that grows in the woods in spring. It's gone bright sky blue. And it's ringing."
       answer: Bluebell
       aliases:
         - bluebell
@@ -622,7 +622,7 @@
       reasoning: "clock (the mechanism inside the clock, the cogs and wheels) + work (it's got a shift to do, repetitive work) = Clockwork"
     - number: 3
       initials: D
-      clue: "That big entrance with the letterbox — someone's stood right on the step in front of it. Won't move. Just standing there."
+      clue: "That big entrance with the letterbox. Someone's stood right on the step in front of it. Won't move. Just standing there."
       answer: Doorstep
       aliases:
         - doorstep
@@ -649,14 +649,14 @@
       reasoning: "fire (the flames) + works (clocked in, got a badge, doing the job) = Fireworks"
     - number: 2
       initials: E
-      clue: "Right, that bendy bit in the middle of your arm — it's gone and bought itself a little bow and arrow. Fits in quite well actually."
+      clue: "Right, that bendy bit in the middle of your arm. It's gone and bought itself a little bow and arrow. Fits in quite well actually."
       answer: Elbow
       aliases:
         - elbow
       reasoning: "el (sounds like 'ell', at the joint where the arm bends) + bow (a bow and arrow, or the bowing shape of the bent arm) = Elbow"
     - number: 3
       initials: C
-      clue: "That whole tangle of sticky string in the garden corner — the spider made it over a round-shaped thing."
+      clue: "That whole tangle of sticky string in the garden corner. The spider made it over a round-shaped thing."
       answer: Cobweb
       aliases:
         - cobweb

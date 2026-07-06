@@ -6,7 +6,7 @@
   office_safe: true
   region_relevance:
     - Global
-  intro: "Right, Condimentbusters. All sauces and condiments from around the world hiding in phonetic clues. Say them out loud — the answer's somewhere in the sounds. It's all about what they sound like, not how they're spelled."
+  intro: "Right, Condimentbusters. All sauces and condiments from around the world hiding in phonetic clues. Say them out loud. The answer's somewhere in the sounds. It's all about what they sound like, not how they're spelled."
   prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
   clues:
     - number: 1
@@ -44,7 +44,7 @@
   office_safe: true
   region_relevance:
     - Global
-  intro: "Condimentbusters two. More sauces and condiments. Say each clue out loud — the sounds will get you there eventually. Probably."
+  intro: "Condimentbusters two. More sauces and condiments. Say each clue out loud. The sounds will get you there eventually. Probably."
   prize: "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists."
   clues:
     - number: 1

@@ -15,10 +15,10 @@
       answer: Queen Victoria
       aliases:
         - queen victoria
-      reasoning: "Queen = Kween, Victoria = Vic-TOR-ia. Queen sounds like 'keen' with a qu. Victoria sounds like 'victor-ia' — the scene is a queen with a victory, a win. Queen Victoria. Near enough."
+      reasoning: "Queen = Kween, Victoria = Vic-TOR-ia. Queen sounds like 'keen' with a qu. Victoria sounds like 'victor-ia'. The scene is a queen with a victory, a win. Queen Victoria. Near enough."
     - number: 2
       initials: K H
-      clue: "Right, this bloke's a king and he's got eight of something. Eight legs, eight hats, eight wives — doesn't matter. Eight."
+      clue: "Right, this bloke's a king and he's got eight of something. Eight legs, eight hats, eight wives. Doesn't matter. Eight."
       answer: King Henry VIII
       aliases:
         - king henry viii
@@ -49,14 +49,14 @@
       answer: Prince William
       aliases:
         - prince william
-      reasoning: "Prince William. Prince = Prints (press/print). William = Will-yam. Prince sounds like 'prints'. Prints + Will + yam. Bit of a stretch. Better: Prince = Prin-ce, William = Will-ee-um. A printing press... no. Prince William — Prince sounds like 'prance' without the a. Actually: Prin-ce Will-iam = a fella called Will who is leaning like a post — a PRINCE of posts. Say it out loud, it works."
+      reasoning: "Prince William. Prince = Prints (press/print). William = Will-yam. Prince sounds like 'prints'. Prints + Will + yam. Bit of a stretch. Better: Prince = Prin-ce, William = Will-ee-um. A printing press... no. Prince William. Prince sounds like 'prance' without the a. Actually: Prin-ce Will-iam = a fella called Will who is leaning like a post, a PRINCE of posts. Say it out loud, it works."
     - number: 2
       initials: P H
       clue: "Some fella called Harry, right, and he's doing archery near the palace gates. Bit random."
       answer: Prince Harry
       aliases:
         - prince harry
-      reasoning: "Prince Harry. Prince = Prints/Prance. Harry = Hairy/Harr-ee. Prince Harry — Prin-ce Harr-ee. A prince who's hairy. Or: prints + harry. He's printed and he's harrying someone. Say it out loud: Prince Harry. Near enough."
+      reasoning: "Prince Harry. Prince = Prints/Prance. Harry = Hairy/Harr-ee. Prince Harry. Prin-ce Harr-ee. A prince who's hairy. Or: prints + harry. He's printed and he's harrying someone. Say it out loud: Prince Harry. Near enough."
     - number: 3
       initials: W S
       clue: "Some woman called Wallis, she's got a bit of a lisp. Says everything sounds simpler than it is."
@@ -82,7 +82,7 @@
       answer: King George
       aliases:
         - king george
-      reasoning: "King George. King = King. George = Jor-j. King George — sounds like 'kin-George'. A king called George, who sounds like he's gorging on something. King George. Easy one this."
+      reasoning: "King George. King = King. George = Jor-j. King George, sounds like 'kin-George'. A king called George, who sounds like he's gorging on something. King George. Easy one this."
     - number: 2
       initials: P A
       clue: "This fella's an Albert, and he's working in a print shop. Makes sense when you say it."
@@ -115,7 +115,7 @@
       answer: Queen Elizabeth
       aliases:
         - queen elizabeth
-      reasoning: "Queen Elizabeth. Queen = Kween. Elizabeth = Ee-liz-a-beth. Ee-liz — as in electric lizard — a-beth. A queen who's an electric lizard called Beth. Queen Elizabeth. Say it out loud."
+      reasoning: "Queen Elizabeth. Queen = Kween. Elizabeth = Ee-liz-a-beth. Ee-liz, as in electric lizard, a-beth. A queen who's an electric lizard called Beth. Queen Elizabeth. Say it out loud."
     - number: 2
       initials: P P
       clue: "This royal fella, he's got two of the same name. Phillip Phillip. Or rather, he's printing something spicy. Say it quick."
@@ -129,7 +129,7 @@
       answer: King Charles
       aliases:
         - king charles
-      reasoning: "King Charles. King = King. Charles = Char-lz. King Charles — sounds like 'kin-charlz'. A king called Charles who's charring things. Bit weird but it works."
+      reasoning: "King Charles. King = King. Charles = Char-lz. King Charles, sounds like 'kin-charlz'. A king called Charles who's charring things. Bit weird but it works."
 
 - id: royalbusters-005
   enabled: true
@@ -195,7 +195,7 @@
       answer: Zara Tindall
       aliases:
         - zara tindall
-      reasoning: "Zara Tindall. Zara = Zar-a. Tindall = Tin-dall. Tin + doll. She's got a tin and a doll. Or Tindall sounds like 'tindle' — tinder/kindle. Zara = the clothes shop. A Zara shop with a tinder problem. Zara Tindall. Say it out loud."
+      reasoning: "Zara Tindall. Zara = Zar-a. Tindall = Tin-dall. Tin + doll. She's got a tin and a doll. Or Tindall sounds like 'tindle', tinder/kindle. Zara = the clothes shop. A Zara shop with a tinder problem. Zara Tindall. Say it out loud."
 
 - id: royalbusters-007
   enabled: true
@@ -217,7 +217,7 @@
       reasoning: "Meghan Markle. Meghan = Meg-an. Markle = Mar-kul. Meg-an-Mar-kul. Megan at the market, but the market's a bit awkward about it. Meghan Markle. Say it out loud."
     - number: 2
       initials: P P
-      clue: "Some fella called Peter, right, and he's ringing something. Filling up the bells. Peter — fill — ups."
+      clue: "Some fella called Peter, right, and he's ringing something. Filling up the bells. Peter, fill, ups."
       answer: Peter Phillips
       aliases:
         - peter phillips
@@ -289,7 +289,7 @@
       answer: Prince Albert
       aliases:
         - prince albert
-      reasoning: "Prince Albert. Prince = Prints. Albert = Al-bert. Al + bert. Someone called Al has a bert — a Bert is a name. Al-bert. Prints-Al-bert. Say it out loud: Prince Albert. Near enough."
+      reasoning: "Prince Albert. Prince = Prints. Albert = Al-bert. Al + bert. Someone called Al has a bert, a Bert is a name. Al-bert. Prints-Al-bert. Say it out loud: Prince Albert. Near enough."
     - number: 3
       initials: K H
       clue: "This king, he's called Henry, and he's done it eight times. Just kept going. Eight."
@@ -492,7 +492,7 @@
       reasoning: "Peter Phillips. Peter = Pee-ter. Phillips = Fill-ups. Fill + ups. He fills things up. Peter Phillips. Near enough."
     - number: 3
       initials: C A
-      clue: "She's a Catherine, and she's gone off somewhere — Aragon. A long way gone. Catherine-of-gone."
+      clue: "She's a Catherine, and she's gone off somewhere. Aragon. A long way gone. Catherine-of-gone."
       answer: Catherine of Aragon
       aliases:
         - catherine of aragon

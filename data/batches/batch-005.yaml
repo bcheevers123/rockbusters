@@ -11,7 +11,7 @@
   clues:
     - number: 1
       initials: T B
-      clue: "Right, that thing you hit with a drumstick — you've just given it a proper whack — and there's a bloke called Les stood next to it. That's all."
+      clue: "Right, that thing you hit with a drumstick, you've just given it a proper whack, and there's a bloke called Les stood next to it. That's all."
       answer: The Beatles
       aliases:
         - the beatles
@@ -46,7 +46,7 @@
   clues:
     - number: 1
       initials: P F
-      clue: "That fella who's gone a bit rosy-cheeked, the one who looks like he's been out in the cold — him and a bloke called Floyd. Off somewhere together."
+      clue: "That fella who's gone a bit rosy-cheeked, the one who looks like he's been out in the cold, him and a bloke called Floyd. Off somewhere together."
       answer: Pink Floyd
       aliases:
         - pink floyd
@@ -61,7 +61,7 @@
       reasoning: "the + clash (collision, smash) = The Clash"
     - number: 3
       initials: O
-      clue: "Right, you're in a desert, dead thirsty, and suddenly — there it is. That thing with the palm tree and the water. One word. Near enough."
+      clue: "Right, you're in a desert, dead thirsty, and suddenly there it is. That thing with the palm tree and the water. One word. Near enough."
       answer: Oasis
       aliases:
         - oasis
@@ -80,7 +80,7 @@
   clues:
     - number: 1
       initials: D B
-      clue: "A bloke named Dave — David, full name — he's holding a bow and arrow. Not sure why. He's just stood there with it."
+      clue: "A bloke named Dave, David, full name, he's holding a bow and arrow. Not sure why. He's just stood there with it."
       answer: David Bowie
       aliases:
         - david bowie
@@ -109,7 +109,7 @@
   office_safe: true
   region_relevance:
     - UK
-  intro: "Bandbusters. Say each clue out loud — that's how it works."
+  intro: "Bandbusters. Say each clue out loud. That's how it works."
   prize: "Email in. Winner gets a DVD copy of Billy Elliot and a Werther's Original."
   clues:
     - number: 1
@@ -122,7 +122,7 @@
       reasoning: "the + prod (a poke) + igy sounds like prodigy = The Prodigy"
     - number: 2
       initials: A M
-      clue: "A woman called Amy's aiming at something — she's lined it up, very focused — and behind her there's a house full of wine bottles. Bit of a state."
+      clue: "A woman called Amy's aiming at something, she's lined it up, very focused, and behind her there's a house full of wine bottles. Bit of a state."
       answer: Amy Winehouse
       aliases:
         - amy winehouse
@@ -156,7 +156,7 @@
       reasoning: "cold + play (kids playing) = Coldplay"
     - number: 2
       initials: A M
-      clue: "Someone's drawn a great big curved shape — like the bottom of a bridge — and it's got a tick on it, and inside there's a monkey holding a bunch of keys. Take your time."
+      clue: "Someone's drawn a great big curved shape, like the bottom of a bridge, and it's got a tick on it, and inside there's a monkey holding a bunch of keys. Take your time."
       answer: Arctic Monkeys
       aliases:
         - arctic monkeys
@@ -184,7 +184,7 @@
   clues:
     - number: 1
       initials: T S
-      clue: "Right, you've got a load of blacksmiths — you know, the ones who bash metal and shoe horses — and they've all turned up at once. A whole group of them."
+      clue: "Right, you've got a load of blacksmiths, you know, the ones who bash metal and shoe horses, and they've all turned up at once. A whole group of them."
       answer: The Smiths
       aliases:
         - the smiths
@@ -225,14 +225,14 @@
       reasoning: "port (harbour / drink) + is + head = Portishead"
     - number: 2
       initials: M A
-      clue: "Someone's got a really big something — enormous, massive — and it's come at them at full speed. That's the whole situation."
+      clue: "Someone's got a really big something, enormous, massive, and it's come at them at full speed. That's the whole situation."
       answer: Massive Attack
       aliases:
         - massive attack
       reasoning: "massive + attack = Massive Attack"
     - number: 3
       initials: E
-      clue: "A woman called Ella's doing a stretchy exercise class — really going for it — and she's made of elastic. Near enough."
+      clue: "A woman called Ella's doing a stretchy exercise class, really going for it, and she's made of elastic. Near enough."
       answer: Elastica
       aliases:
         - elastica
@@ -251,15 +251,15 @@
   clues:
     - number: 1
       initials: T C
-      clue: "Right, you've got someone who looks after a place — a guard, like — and his name's Ian. Someone's keeping an eye on Ian. Sort of ironic."
+      clue: "Right, you've got someone who looks after a place, a guard, like, and his name's Ian. Someone's keeping an eye on Ian. Sort of ironic."
       answer: The Cure
       aliases:
         - the cure
         - cure
-      reasoning: "the + cure (the + kyoor) — actually: the + Ian sounds like... let me redo. The Cure: the + cure (a remedy). A doctor's prescribed it and someone's going 'that's the remedy for it, that is.'"
+      reasoning: "the + cure (the + kyoor). Actually: the + Ian sounds like... let me redo. The Cure: the + cure (a remedy). A doctor's prescribed it and someone's going 'that's the remedy for it, that is.'"
     - number: 2
       initials: T J
-      clue: "You've got a jar full of something — jam, like — and it's a very particular jar. A special one. The jam. That's it."
+      clue: "You've got a jar full of something, jam, like, and it's a very particular jar. A special one. The jam. That's it."
       answer: The Jam
       aliases:
         - the jam
@@ -267,11 +267,11 @@
       reasoning: "the + jam (fruit preserve in a jar) = The Jam"
     - number: 3
       initials: D M
-      clue: "Someone's slipped into a really deep sort of mood — kind of gloomy, a bit dramatic — and they've gone off to stand near some synthesisers. Bit theatrical."
+      clue: "Someone's slipped into a really deep sort of mood, kind of gloomy, a bit dramatic, and they've gone off to stand near some synthesisers. Bit theatrical."
       answer: Depeche Mode
       aliases:
         - depeche mode
-      reasoning: "de-peche (dispatch, French) + mode (fashion/style) — sounds like 'depesh mode' = Depeche Mode"
+      reasoning: "de-peche (dispatch, French) + mode (fashion/style), sounds like 'depesh mode' = Depeche Mode"
 
 - id: bandbusters-009
   enabled: true
@@ -286,14 +286,14 @@
   clues:
     - number: 1
       initials: P S
-      clue: "The first one on offer — the screaming at the beginning, the initial burst — it's primal, they reckon. Very raw."
+      clue: "The first one on offer, the screaming at the beginning, the initial burst, it's primal, they reckon. Very raw."
       answer: Primal Scream
       aliases:
         - primal scream
       reasoning: "primal + scream = Primal Scream"
     - number: 2
       initials: S
-      clue: "A bloke's wearing a really nice suit — very elegant, bit fancy — and someone's asked where it's from. Just one word."
+      clue: "A bloke's wearing a really nice suit, very elegant, bit fancy, and someone's asked where it's from. Just one word."
       answer: Suede
       aliases:
         - suede
@@ -320,7 +320,7 @@
   clues:
     - number: 1
       initials: T B
-      clue: "A bloke called Paul's been doing a lot of drumming — tapping away on the table, can't stop — and this time he's gone ahead and played the actual beat. Loud."
+      clue: "A bloke called Paul's been doing a lot of drumming, tapping away on the table, can't stop, and this time he's gone ahead and played the actual beat. Loud."
       answer: The Beatles
       aliases:
         - the beatles
@@ -328,7 +328,7 @@
       reasoning: "the + beat + les (Paul Les, or just 'les') = The Beatles"
     - number: 2
       initials: R
-      clue: "You're tuned into the broadcast — it's coming through clear as anything — and it's coming from inside someone's skull. Bit odd."
+      clue: "You're tuned into the broadcast, it's coming through clear as anything, and it's coming from inside someone's skull. Bit odd."
       answer: Radiohead
       aliases:
         - radiohead
@@ -420,7 +420,7 @@
   clues:
     - number: 1
       initials: T S
-      clue: "That bloke in the kitchen — the one who makes stuff out of metal, shoes horses, all that — he's not alone. There's loads of them. Whole family."
+      clue: "That bloke in the kitchen, the one who makes stuff out of metal, shoes horses, all that, he's not alone. There's loads of them. Whole family."
       answer: The Smiths
       aliases:
         - the smiths
@@ -489,7 +489,7 @@
   clues:
     - number: 1
       initials: P S
-      clue: "Before anything else — right at the very start, the most basic and raw noise a human can make — someone's done one. At full volume."
+      clue: "Before anything else, right at the very start, the most basic and raw noise a human can make, someone's done one. At full volume."
       answer: Primal Scream
       aliases:
         - primal scream
@@ -522,7 +522,7 @@
   clues:
     - number: 1
       initials: E S
-      clue: "A bloke called Ed's gone and got a pair of shears — the big garden ones — and he's trimming everything. Can't stop himself. Edward Scissorhands vibes."
+      clue: "A bloke called Ed's gone and got a pair of shears, the big garden ones, and he's trimming everything. Can't stop himself. Edward Scissorhands vibes."
       answer: Ed Sheeran
       aliases:
         - ed sheeran
@@ -538,7 +538,7 @@
       reasoning: "Amy + wine + house = Amy Winehouse"
     - number: 3
       initials: E
-      clue: "A woman called Ella's doing one of them stretchy workouts — all bendy and flexible. She IS the material. Near enough."
+      clue: "A woman called Ella's doing one of them stretchy workouts, all bendy and flexible. She IS the material. Near enough."
       answer: Elastica
       aliases:
         - elastica
@@ -565,7 +565,7 @@
       reasoning: "the + cure (a remedy, a fix for an illness) = The Cure"
     - number: 2
       initials: A M
-      clue: "Right, there's a curved shape like the bottom of a bridge — a proper arc — and on top of it there's a tiny tick, and a monkey's holding a ring of keys. Don't ask."
+      clue: "Right, there's a curved shape like the bottom of a bridge, a proper arc, and on top of it there's a tiny tick, and a monkey's holding a ring of keys. Don't ask."
       answer: Arctic Monkeys
       aliases:
         - arctic monkeys
@@ -628,7 +628,7 @@
   clues:
     - number: 1
       initials: T B
-      clue: "Right, the bloke in charge of making sure nobody gets in — that guard fella — his name happens to be Ian. Someone's keeping watch over Ian. Bit meta."
+      clue: "Right, the bloke in charge of making sure nobody gets in, that guard fella, his name happens to be Ian. Someone's keeping watch over Ian. Bit meta."
       answer: The Beatles
       aliases:
         - the beatles
@@ -663,7 +663,7 @@
   clues:
     - number: 1
       initials: L Z
-      clue: "Someone's gone and wired the whole thing in soft grey metal — used it for all the connections — and then named this enormous balloon airship after themselves. Both things together."
+      clue: "Someone's gone and wired the whole thing in soft grey metal, used it for all the connections, and then named this enormous balloon airship after themselves. Both things together."
       answer: Led Zeppelin
       aliases:
         - led zeppelin

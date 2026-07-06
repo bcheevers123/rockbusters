@@ -44,7 +44,7 @@
   clues:
     - number: 1
       initials: S A
-      clue: "Right, a proper fancy star — not a normal one — it's twirling around near some paintings and sculptures. Very cultured."
+      clue: "Right, a proper fancy star, not a normal one, it's twirling around near some paintings and sculptures. Very cultured."
       answer: Stella Artois
       aliases:
         - stella artois
@@ -78,7 +78,7 @@
   clues:
     - number: 1
       initials: H
-      clue: "Ten of something — ten of what, nobody knows — but they've all arrived at once. Typical."
+      clue: "Ten of something, ten of what nobody knows, but they've all arrived at once. Typical."
       answer: Heineken
       aliases:
         - heineken
@@ -267,7 +267,7 @@
       reasoning: "bud (mate, or a bud of something) + weiser (wiser, smarter) = Budweiser"
     - number: 3
       initials: D B
-      clue: "Someone's had a blazing row over a yellow flower. And then this other thing — a male deer — has turned up. Sort of explains itself, that."
+      clue: "Someone's had a blazing row over a yellow flower. And then this other thing, a male deer, has turned up. Sort of explains itself, that."
       answer: Dandelion and Burdock
       aliases:
         - dandelion and burdock
@@ -334,7 +334,7 @@
       reasoning: "per (Italian for 'by' or 'for') + oni (plural suffix, Italian) = Peroni"
     - number: 3
       initials: V
-      clue: "There's vim in that place — loads of energy — but nobody knows what to do with it. Just sitting there, buzzing."
+      clue: "There's vim in that place, loads of energy, but nobody knows what to do with it. Just sitting there, buzzing."
       answer: Vimto
       aliases:
         - vimto
@@ -635,7 +635,7 @@
       reasoning: "guin (sounds like 'gwin', Irish name) + ness (a hiss, a characteristic) = Guinness"
     - number: 2
       initials: C
-      clue: "Right, that Scandinavian bloke called Carl — not Danish, not Norwegian, the other one — he's been at it again."
+      clue: "Right, that Scandinavian bloke called Carl, not Danish, not Norwegian, the other one, he's been at it again."
       answer: Carlsberg
       aliases:
         - carlsberg
@@ -661,7 +661,7 @@
   clues:
     - number: 1
       initials: S A
-      clue: "There's a really posh star — not a normal star, a proper A-lister — and it's hanging around a French gallery. Of course it is."
+      clue: "There's a really posh star, not a normal star, a proper A-lister, and it's hanging around a French gallery. Of course it is."
       answer: Stella Artois
       aliases:
         - stella artois

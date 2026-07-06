@@ -6,12 +6,12 @@
   office_safe: true
   region_relevance:
     - Global
-  intro: "Right, Extremeweatherbusters. All extreme weather events hiding in the sounds of these clues. Say them out loud — don't try and work it out on paper, that won't help. It's about what it sounds like, not what it looks like."
+  intro: "Right, Extremeweatherbusters. All extreme weather events hiding in the sounds of these clues. Say them out loud. Don't try and work it out on paper, that won't help. It's about what it sounds like, not what it looks like."
   prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
   clues:
     - number: 1
       initials: H
-      clue: "A bloke called Rick has gone and hurt his shin — again. Third time this week. His nan is not impressed. She's sent him a card but she's not coming round."
+      clue: "A bloke called Rick has gone and hurt his shin again. Third time this week. His nan is not impressed. She's sent him a card but she's not coming round."
       answer: Hurricane
       aliases:
         - hurricane
@@ -72,12 +72,12 @@
   office_safe: true
   region_relevance:
     - Global
-  intro: "Last set. Extremeweatherbusters three. Same deal — extreme weather, phonetic clues, say them out loud. If you're reading them silently and expecting that to work, it won't. You have been warned."
+  intro: "Last set. Extremeweatherbusters three. Same deal. Extreme weather, phonetic clues, say them out loud. If you're reading them silently and expecting that to work, it won't. You have been warned."
   prize: "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists."
   clues:
     - number: 1
       initials: H
-      clue: "A woman has gone on holiday somewhere really warm and she's bought some sort of hat — one of them ones that keeps nothing out. Her neck is bright red. She knew it would happen."
+      clue: "A woman has gone on holiday somewhere really warm and she's bought some sort of hat, one of them ones that keeps nothing out. Her neck is bright red. She knew it would happen."
       answer: Heatwave
       aliases:
         - heatwave
@@ -85,7 +85,7 @@
       reasoning: "heat (sounds like 'heat', warmth) + wave (sounds like 'wave', a gesture or an ocean wave) = Heat-wave = Heatwave"
     - number: 2
       initials: WW
-      clue: "A gust of wind has come round a corner and gone absolutely mad — spinning about, picking things up, acting like it owns the place. A woman's hat has gone. She's not happy about the hat."
+      clue: "A gust of wind has come round a corner and gone absolutely mad, spinning about, picking things up, acting like it owns the place. A woman's hat has gone. She's not happy about the hat."
       answer: Whirlwind
       aliases:
         - whirlwind

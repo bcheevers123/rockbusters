@@ -6,7 +6,7 @@
   office_safe: true
   region_relevance:
     - Global
-  intro: "Right, Winebusters. All grape varieties hiding in phonetic clues. Say them out loud — the sounds'll get you there. Nothing to do with spelling. It never is."
+  intro: "Right, Winebusters. All grape varieties hiding in phonetic clues. Say them out loud. The sounds'll get you there. Nothing to do with spelling. It never is."
   prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
   clues:
     - number: 1
@@ -41,7 +41,7 @@
   office_safe: true
   region_relevance:
     - Global
-  intro: "Winebusters two. More grape varieties. All phonetic, say them out loud. Don't try and spell them — that's not the point. Ready? Go on then."
+  intro: "Winebusters two. More grape varieties. All phonetic, say them out loud. Don't try and spell them. That's not the point. Ready? Go on then."
   prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
   clues:
     - number: 1

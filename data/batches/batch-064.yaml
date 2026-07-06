@@ -6,7 +6,7 @@
   office_safe: true
   region_relevance:
     - Global
-  intro: "Right, Pastabusters. It's Rockbusters but all the answers are types of pasta. Say the clues out loud — the pasta name is hiding in the sounds somewhere."
+  intro: "Right, Pastabusters. It's Rockbusters but all the answers are types of pasta. Say the clues out loud. The pasta name is hiding in the sounds somewhere."
   prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
   clues:
     - number: 1
@@ -54,7 +54,7 @@
       reasoning: "rig (to rig something, or the name Rig) + a (the article) + toni (sounds like 'Tony' or 'Toni', a name) = Rig-a-toni = Rigatoni"
     - number: 2
       initials: G
-      clue: "Someone in Italy has knocked on the door — very quietly, like they're not sure they should be there — and then sat down without being asked. Nobody's said anything. There's potato involved."
+      clue: "Someone in Italy has knocked on the door, very quietly, like they're not sure they should be there, and then sat down without being asked. Nobody's said anything. There's potato involved."
       answer: Gnocchi
       aliases:
         - gnocchi

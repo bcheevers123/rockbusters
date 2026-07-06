@@ -6,7 +6,7 @@
   office_safe: true
   region_relevance:
     - Global
-  intro: "Right. Currencybusters. All the answers are names of currencies from around the world. Say the clues out loud — the sounds add up to something you'd hand over at a foreign bureau de change."
+  intro: "Right. Currencybusters. All the answers are names of currencies from around the world. Say the clues out loud. The sounds add up to something you'd hand over at a foreign bureau de change."
   prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
   clues:
     - number: 1
@@ -85,14 +85,14 @@
       reasoning: "gill (the breathing part on a fish's side) + der (a German pointing sound, like 'der, obviously') = Gill-der = Guilder. Old Dutch currency."
     - number: 2
       initials: P
-      clue: "A small animal — a cat or a dog, something like that — has said something out loud and then thanked you for listening. Very polite."
+      clue: "A small animal, a cat or a dog, something like that, has said something out loud and then thanked you for listening. Very polite."
       answer: Peseta
       aliases:
         - peseta
       reasoning: "pet (a small domestic animal) + say (to say something out loud) + ta (thanks, cheers) = Pet-say-ta = Peseta. Former Spanish currency."
     - number: 3
       initials: L
-      clue: "A person who makes things up — can't help themselves, just says whatever suits them — has gone and done it again. No surprise there."
+      clue: "A person who makes things up, can't help themselves, just says whatever suits them, has gone and done it again. No surprise there."
       answer: Lira
       aliases:
         - lira

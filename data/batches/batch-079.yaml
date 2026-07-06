@@ -6,12 +6,12 @@
   office_safe: true
   region_relevance:
     - Global
-  intro: "Right, Chickenbusters. All the answers are chicken dishes from around the world. Say the clues out loud — the dish is hiding in there somewhere."
+  intro: "Right, Chickenbusters. All the answers are chicken dishes from around the world. Say the clues out loud. The dish is hiding in there somewhere."
   prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
   clues:
     - number: 1
       initials: C T M
-      clue: "Someone's had a bit of a mishap with their instrument — the stringed one, not a piano — and now there's a mask of it. All red and saucy looking."
+      clue: "Someone's had a bit of a mishap with their instrument (the stringed one, not a piano) and now there's a mask of it. All red and saucy looking."
       answer: Chicken Tikka Masala
       aliases:
         - chicken tikka masala
@@ -19,7 +19,7 @@
       reasoning: "chicken (the bird) + tikka (sounds like 'tick-a', a small mark or instrument pick) + masala (sounds like 'mask-ala', a mask situation) = Chicken Tikka Masala"
     - number: 2
       initials: C K
-      clue: "That place in Ukraine — capital city and that — it's gone and had a bird move in. Very buttery situation apparently."
+      clue: "That place in Ukraine, capital city and that, it's gone and had a bird move in. Very buttery situation apparently."
       answer: Chicken Kiev
       aliases:
         - chicken kiev
@@ -47,7 +47,7 @@
   clues:
     - number: 1
       initials: C P
-      clue: "Right, there's a fella called Parma — Italian bloke, bit cheesy — and he's had a bit of a wobble. Slight accident. Now he's covered in tomato."
+      clue: "Right, there's a fella called Parma (Italian bloke, bit cheesy) and he's had a bit of a wobble. Slight accident. Now he's covered in tomato."
       answer: Chicken Parmigiana
       aliases:
         - chicken parmigiana
@@ -56,7 +56,7 @@
       reasoning: "chicken (the bird) + Parma (Italian city) + giana (sounds like 'gi-ana', like a name, or 'jan-a') = Chicken Parmigiana"
     - number: 2
       initials: C C S
-      clue: "Someone's gone to see a bloke — very important Roman general type — and they're sitting there in a field. Bit of a salad situation. Light lunch."
+      clue: "Someone's gone to see a bloke (very important Roman general type) and they're sitting there in a field. Bit of a salad situation. Light lunch."
       answer: Chicken Caesar Salad
       aliases:
         - chicken caesar salad
@@ -64,7 +64,7 @@
       reasoning: "chicken (the bird) + Caesar (the Roman bloke) + salad (the field/green leaves situation) = Chicken Caesar Salad"
     - number: 3
       initials: C K
-      clue: "That thing you do when something falls — a little cat — bit of a tumble down the stairs. Very Japanese about it all."
+      clue: "That thing you do when something falls, a little cat, bit of a tumble down the stairs. Very Japanese about it all."
       answer: Chicken Katsu
       aliases:
         - chicken katsu
@@ -85,7 +85,7 @@
   clues:
     - number: 1
       initials: C A V
-      clue: "Right, there's a bloke called Vinnie and he's had a bit of wine — the red stuff, French and that. Quite a lot of wine actually. In a pot."
+      clue: "Right, there's a bloke called Vinnie and he's had a bit of wine, the red stuff, French and that. Quite a lot of wine actually. In a pot."
       answer: Coq au Vin
       aliases:
         - coq au vin
@@ -93,7 +93,7 @@
       reasoning: "coq (sounds like 'cock', the male bird) + au (sounds like 'oh') + vin (sounds like 'van' or 'vin', wine in French) = Coq au Vin"
     - number: 2
       initials: C S
-      clue: "There's a fella on a stick — sort of impaled on a skewer — and he's been marinated in something. Very calm about the whole thing. Indonesian sort of vibe."
+      clue: "There's a fella on a stick, sort of impaled on a skewer, and he's been marinated in something. Very calm about the whole thing. Indonesian sort of vibe."
       answer: Chicken Satay
       aliases:
         - chicken satay
@@ -102,7 +102,7 @@
       reasoning: "chicken (the bird) + satay (sounds like 'sat-ay', someone sat on a stick, or 'sat-eh') = Chicken Satay"
     - number: 3
       initials: C S
-      clue: "Right, someone's wrapping things up — a proper wrap situation — in the Middle East somewhere. Rotating slowly. Shaving bits off."
+      clue: "Right, someone's wrapping things up, a proper wrap situation, in the Middle East somewhere. Rotating slowly. Shaving bits off."
       answer: Chicken Shawarma
       aliases:
         - chicken shawarma

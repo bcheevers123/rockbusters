@@ -15,7 +15,7 @@
       answer: Lee Mack
       aliases:
         - lee mack
-      reasoning: "Lee (as in a field or meadow, a lea) + Mack (like a scarecrow's mac, a waterproof coat) — actually: Lee sounds like lea, Mack sounds like mac = Lee Mack"
+      reasoning: "Lee (as in a field or meadow, a lea) + Mack (like a scarecrow's mac, a waterproof coat). Actually: Lee sounds like lea, Mack sounds like mac = Lee Mack"
     - number: 2
       initials: T V
       clue: "Right, there's this little wooden thing they use in golf, and someone's gone and climbed one. A massive one. Don't ask."
@@ -29,7 +29,7 @@
       answer: Jack Dee
       aliases:
         - jack dee
-      reasoning: "Jack (a Jack, like a lumberjack or flapjack — here, someone flogging stuff door to door) + Dee (the letter D, like 'dee livery') = Jack Dee. Jack sounds like the name you give a door-to-door type."
+      reasoning: "Jack (a Jack, like a lumberjack or flapjack, here someone flogging stuff door to door) + Dee (the letter D, like 'dee livery') = Jack Dee. Jack sounds like the name you give a door-to-door type."
 
 - id: comediansbusters-002
   enabled: true
@@ -48,7 +48,7 @@
       answer: Peter Kay
       aliases:
         - peter kay
-      reasoning: "Peter (a saltpetre, a peter — rhyming with metre, a measure) + Kay (the letter K, as in a key) = Peter Kay. Pete + a key, say it out loud."
+      reasoning: "Peter (a saltpetre, a peter, rhyming with metre, a measure) + Kay (the letter K, as in a key) = Peter Kay. Pete + a key, say it out loud."
     - number: 2
       initials: B B
       clue: "There's a bloke called Bob and he's just sat there doing absolutely nothing. He's been there an hour. He seems content."
@@ -95,7 +95,7 @@
       answer: Milton Jones
       aliases:
         - milton jones
-      reasoning: "Milton (a place called Milton, or Milton the man — also Milton Keynes nearby) + Jones (keeping up with the Joneses, a very common surname) = Milton Jones."
+      reasoning: "Milton (a place called Milton, or Milton the man, also Milton Keynes nearby) + Jones (keeping up with the Joneses, a very common surname) = Milton Jones."
 
 - id: comediansbusters-004
   enabled: true
@@ -114,7 +114,7 @@
       answer: Jimmy Carr
       aliases:
         - jimmy carr
-      reasoning: "Jimmy (to jimmy something open, or Jimmy as a name — jimmy means to lever or prise) + Carr (a car, a vehicle being wheeled about) = Jimmy Carr."
+      reasoning: "Jimmy (to jimmy something open, or Jimmy as a name, jimmy means to lever or prise) + Carr (a car, a vehicle being wheeled about) = Jimmy Carr."
     - number: 2
       initials: B B
       clue: "Right, Bill's been given a pile of twigs and branches and he's building something. He won't say what. He's been at it three days."
@@ -148,7 +148,7 @@
       aliases:
         - dara o briain
         - dara o'briain
-      reasoning: "Dara (dare + a, or dar-a) + O (the letter O, like oh) + Briain (sounds like brain with an Irish lilt — bri-ain, bree-an) = Dara O Briain. Dare-a-oh-bree-an."
+      reasoning: "Dara (dare + a, or dar-a) + O (the letter O, like oh) + Briain (sounds like brain with an Irish lilt, bri-ain, bree-an) = Dara O Briain. Dare-a-oh-bree-an."
     - number: 2
       initials: D M
       clue: "There's a bloke called Dylan and he's gone and moved into a big dark cave on the moors. Says the rent's reasonable. He seems fine."
@@ -181,7 +181,7 @@
       answer: Michael McIntyre
       aliases:
         - michael mcintyre
-      reasoning: "Michael (my-kel, like a mike or a Michael) + McIntyre (Mac-in-tire, like a tyre inside a mac — mack-in-tyre) = Michael McIntyre. Mack-in-tyre, like a waterproof coat with a tyre inside."
+      reasoning: "Michael (my-kel, like a mike or a Michael) + McIntyre (Mac-in-tire, like a tyre inside a mac, mack-in-tyre) = Michael McIntyre. Mack-in-tyre, like a waterproof coat with a tyre inside."
     - number: 2
       initials: R R
       clue: "Right, there's this road and at the end of it there's another road, and at the end of that one there's a bloke called Ron. And he's ranged all along it."
@@ -281,14 +281,14 @@
       answer: Aisling Bea
       aliases:
         - aisling bea
-      reasoning: "Aisling (ash-ling, like ash from a fire — the name Aisling is pronounced ash-ling) + Bea (a beach without the ch, or Bea = Beatrice shortened, sounds like bee or the letter B) = Aisling Bea. Ash-ling + Bee."
+      reasoning: "Aisling (ash-ling, like ash from a fire, the name Aisling is pronounced ash-ling) + Bea (a beach without the ch, or Bea = Beatrice shortened, sounds like bee or the letter B) = Aisling Bea. Ash-ling + Bee."
     - number: 2
       initials: L M
       clue: "Right, there's a big mechanical thing in a field that chews up corn and it's making a terrible racket. The cows are unhappy about it."
       answer: Lee Mack
       aliases:
         - lee mack
-      reasoning: "Lee (lea = a meadow or field) + Mack (mack = a loud mechanical thresher sound, or mac = waterproof — but here it sounds like mack as in a smack or loud clap) = Lee Mack. Lea + Mac."
+      reasoning: "Lee (lea = a meadow or field) + Mack (mack = a loud mechanical thresher sound, or mac = waterproof, but here it sounds like mack as in a smack or loud clap) = Lee Mack. Lea + Mac."
     - number: 3
       initials: T V
       clue: "That bloke's climbed up the side of the church and he's sitting at the very top. Says he likes it up there. He's been there since Tuesday."
@@ -461,7 +461,7 @@
       answer: Sara Pascoe
       aliases:
         - sara pascoe
-      reasoning: "Sara (the name Sara, like scatter or sow — sara sounds like sowing) + Pascoe (pas-co, like the patio becoming a pasture, or pasco = a pasture in some dialects) = Sara Pascoe."
+      reasoning: "Sara (the name Sara, like scatter or sow, sara sounds like sowing) + Pascoe (pas-co, like the patio becoming a pasture, or pasco = a pasture in some dialects) = Sara Pascoe."
 
 - id: comediansbusters-015
   enabled: true
@@ -495,7 +495,7 @@
       answer: Josh Widdecombe
       aliases:
         - josh widdecombe
-      reasoning: "Josh (the name Josh) + Widdecombe (widdy-comb, wide + a comb — like someone wide holding a comb) = Josh Widdecombe. Josh + Widdy-comb."
+      reasoning: "Josh (the name Josh) + Widdecombe (widdy-comb, wide + a comb, like someone wide holding a comb) = Josh Widdecombe. Josh + Widdy-comb."
 
 - id: comediansbusters-016
   enabled: true
@@ -547,7 +547,7 @@
       answer: Milton Jones
       aliases:
         - milton jones
-      reasoning: "Milton (Milton as a name, like Milton Keynes, or milton = a sterilising solution — either way it's a very specific name) + Jones (keeping up with the Joneses, Jones = a very common Welsh/British surname) = Milton Jones."
+      reasoning: "Milton (Milton as a name, like Milton Keynes, or milton = a sterilising solution, either way it's a very specific name) + Jones (keeping up with the Joneses, Jones = a very common Welsh/British surname) = Milton Jones."
     - number: 2
       initials: L M
       clue: "There's a meadow, right, and someone's put a big waterproof coat in the middle of it. Just standing there. Arms out. Like a scarecrow but it's definitely just a coat."
@@ -580,14 +580,14 @@
       answer: Bob Mortimer
       aliases:
         - bob mortimer
-      reasoning: "Bob (the name Bob, bobbing about) + Mortimer (mor-ti-mer, mort = the outer castle wall, bailey, or mortar between the stones — mortimer contains mort) = Bob Mortimer."
+      reasoning: "Bob (the name Bob, bobbing about) + Mortimer (mor-ti-mer, mort = the outer castle wall, bailey, or mortar between the stones, mortimer contains mort) = Bob Mortimer."
     - number: 2
       initials: V R
       clue: "Right, Victor's gone and signed up for a roof repair job but he's doing it in flip flops. It's not going well. He says the roof's fine."
       answer: Vic Reeves
       aliases:
         - vic reeves
-      reasoning: "Vic (Victor, someone who wins, or Vic as in victorious, or Vick the brand) + Reeves (the eaves of a roof, like re-eaves — reeves sounds like the edge of a roof) = Vic Reeves. Vic + Reeves/eaves."
+      reasoning: "Vic (Victor, someone who wins, or Vic as in victorious, or Vick the brand) + Reeves (the eaves of a roof, like re-eaves, reeves sounds like the edge of a roof) = Vic Reeves. Vic + Reeves/eaves."
     - number: 3
       initials: H H
       clue: "Someone's annoying a hill. Just standing next to it having a go at it. The hill's not rising to it. Very patient hill."
@@ -620,14 +620,14 @@
       answer: Sara Pascoe
       aliases:
         - sara pascoe
-      reasoning: "Sara (the name Sara, sounds like sowing or scattering seeds) + Pascoe (pas-co, like a pasture or pastureland — pasco sounds like pastoral country) = Sara Pascoe."
+      reasoning: "Sara (the name Sara, sounds like sowing or scattering seeds) + Pascoe (pas-co, like a pasture or pastureland, pasco sounds like pastoral country) = Sara Pascoe."
     - number: 3
       initials: A B
       clue: "Right, there's an Irish woman sitting on a pile of ash next to the sea and she's reading a book and she won't be disturbed. Very settled."
       answer: Aisling Bea
       aliases:
         - aisling bea
-      reasoning: "Aisling (ash-ling, like ash + ling, the name pronounced ash-ling in Irish) + Bea (bea = the sea? No — Bea sounds like the letter B, like a bee, or Bea as a name near the beach) = Aisling Bea."
+      reasoning: "Aisling (ash-ling, like ash + ling, the name pronounced ash-ling in Irish) + Bea (bea = the sea? No. Bea sounds like the letter B, like a bee, or Bea as a name near the beach) = Aisling Bea."
 
 - id: comediansbusters-020
   enabled: true
@@ -660,4 +660,4 @@
       answer: Romesh Ranganathan
       aliases:
         - romesh ranganathan
-      reasoning: "Romesh (ro-mesh, like Rome + esh, or just the name Romesh) + Ranganathan (rang + a + Nathan, like he rang ahead and asked for Nathan — rang-a-Nathan) = Romesh Ranganathan. He rang a Nathan."
+      reasoning: "Romesh (ro-mesh, like Rome + esh, or just the name Romesh) + Ranganathan (rang + a + Nathan, like he rang ahead and asked for Nathan, rang-a-Nathan) = Romesh Ranganathan. He rang a Nathan."

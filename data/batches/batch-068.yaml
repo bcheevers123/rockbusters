@@ -1,12 +1,12 @@
 - id: islandbusters-001
   enabled: true
   title: Islandbusters
-  topic: island names — islands from around the world
+  topic: island names, islands from around the world
   difficulty: hard
   office_safe: true
   region_relevance:
     - Global
-  intro: "Right then, Islandbusters. Rockbusters but all the answers are islands. Real ones, from around the world. Say the clues out loud — the name's hiding in the sounds somewhere."
+  intro: "Right then, Islandbusters. Rockbusters but all the answers are islands. Real ones, from around the world. Say the clues out loud. The name's hiding in the sounds somewhere."
   prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
   clues:
     - number: 1
@@ -34,7 +34,7 @@
 - id: islandbusters-002
   enabled: true
   title: Islandbusters
-  topic: island names — islands from around the world
+  topic: island names, islands from around the world
   difficulty: hard
   office_safe: true
   region_relevance:
@@ -59,7 +59,7 @@
       reasoning: "say (to say something out loud) + shells (the hard casings of sea creatures) = Say-shells = Seychelles"
     - number: 3
       initials: Z
-      clue: "There's a pub — a proper one — and someone with a very unusual name has opened it. Zanzi, they're called. Not sure where that's from. East Africa somewhere."
+      clue: "There's a pub, a proper one, and someone with a very unusual name has opened it. Zanzi, they're called. Not sure where that's from. East Africa somewhere."
       answer: Zanzibar
       aliases:
         - zanzibar
@@ -68,12 +68,12 @@
 - id: islandbusters-003
   enabled: true
   title: Islandbusters
-  topic: island names — islands from around the world
+  topic: island names, islands from around the world
   difficulty: hard
   office_safe: true
   region_relevance:
     - Global
-  intro: "Three and last. Islandbusters three. More islands from around the world. You know the drill — say them out loud and the name pops out."
+  intro: "Three and last. Islandbusters three. More islands from around the world. You know the drill. Say them out loud and the name pops out."
   prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
   clues:
     - number: 1
@@ -85,7 +85,7 @@
       reasoning: "martin (sounds like 'Martina' shortened, or just Martin, a name) + ique (sounds like 'eek', a noise of alarm, or 'unique' without the yoo) = Martin-ique = Martinique"
     - number: 2
       initials: H
-      clue: "Right, something belongs to someone — his, it's his — and there's a small frying pan involved, and a woman called Viola who's dropped the V. Caribbean island, shared between two countries."
+      clue: "Right, something belongs to someone, his, it's his, and there's a small frying pan involved, and a woman called Viola who's dropped the V. Caribbean island, shared between two countries."
       answer: Hispaniola
       aliases:
         - hispaniola

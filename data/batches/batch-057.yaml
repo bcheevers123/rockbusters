@@ -1,19 +1,19 @@
 - id: foodbusters-001
   enabled: true
   title: Foodbusters
-  topic: global food — dishes from around the world
+  topic: global food, dishes from around the world
   difficulty: easy
   office_safe: true
   region_relevance:
     - UK
     - US
     - Global
-  intro: "Right, Foodbusters. Rockbusters but it's all food from around the world. Say the clues out loud — the answer's hiding in the sounds somewhere."
+  intro: "Right, Foodbusters. Rockbusters but it's all food from around the world. Say the clues out loud. The answer's hiding in the sounds somewhere."
   prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
   clues:
     - number: 1
       initials: F A C
-      clue: "A fin — like off a fish — has done something rude and then a bloke called Chip has turned up. Bit of an odd sequence."
+      clue: "A fin, like off a fish, has done something rude and then a bloke called Chip has turned up. Bit of an odd sequence."
       answer: Fish and Chips
       aliases:
         - fish and chips
@@ -34,12 +34,12 @@
       aliases:
         - beef burger
         - burger
-      reasoning: "beef (a cow, cattle) + burger (sounds like 'burgher', someone important in a town, or one who 'burgs' — an entertainer doing the rounds) = Beef Burger"
+      reasoning: "beef (a cow, cattle) + burger (sounds like 'burgher', someone important in a town, or one who 'burgs', an entertainer doing the rounds) = Beef Burger"
 
 - id: foodbusters-002
   enabled: true
   title: Foodbusters
-  topic: global food — dishes from around the world
+  topic: global food, dishes from around the world
   difficulty: easy
   office_safe: true
   region_relevance:
@@ -59,14 +59,14 @@
       reasoning: "spaghetti (the pasta) + Bolognese (sounds like 'bolo-nyeze', a city in Italy) = Spaghetti Bolognese"
     - number: 2
       initials: P T
-      clue: "There's a Thai fella paying for something — quite a lot, actually. He's a bit annoyed about the price."
+      clue: "There's a Thai fella paying for something, quite a lot, actually. He's a bit annoyed about the price."
       answer: Pad Thai
       aliases:
         - pad thai
       reasoning: "pad (to pay, to pad out a bill) + Thai (someone from Thailand) = Pad Thai"
     - number: 3
       initials: P D
-      clue: "A man called Pete is in Peking — or Beijing as it's now called — and he's just arrived with a duck. Didn't say why."
+      clue: "A man called Pete is in Peking (or Beijing as it's now called) and he's just arrived with a duck. Didn't say why."
       answer: Peking Duck
       aliases:
         - peking duck
@@ -76,14 +76,14 @@
 - id: foodbusters-003
   enabled: true
   title: Foodbusters
-  topic: global food — dishes from around the world
+  topic: global food, dishes from around the world
   difficulty: easy
   office_safe: true
   region_relevance:
     - UK
     - US
     - Global
-  intro: "Three in. Foodbusters three. All international food — say these out loud and see if the sounds add up."
+  intro: "Three in. Foodbusters three. All international food. Say these out loud and see if the sounds add up."
   prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
   clues:
     - number: 1
@@ -95,7 +95,7 @@
       reasoning: "dim (the name Dim, or not very bright) + sum (a get-together, or a sum of parts) = Dim Sum"
     - number: 2
       initials: N
-      clue: "A place in Mexico where nachos come from — and someone keeps saying no but they actually mean a sort of cheesy crisp. Odd conversation."
+      clue: "A place in Mexico where nachos come from, and someone keeps saying no but they actually mean a sort of cheesy crisp. Odd conversation."
       answer: Nachos
       aliases:
         - nachos
@@ -106,19 +106,19 @@
       answer: Burrito
       aliases:
         - burrito
-      reasoning: "burr (a donkey sound, or burro — Spanish for donkey) + ito (Spanish diminutive, little one) = Burr-ito = Burrito"
+      reasoning: "burr (a donkey sound, or burro, Spanish for donkey) + ito (Spanish diminutive, little one) = Burr-ito = Burrito"
 
 - id: foodbusters-004
   enabled: true
   title: Foodbusters
-  topic: global food — dishes from around the world
+  topic: global food, dishes from around the world
   difficulty: easy
   office_safe: true
   region_relevance:
     - UK
     - US
     - Global
-  intro: "Foodbusters four. All global grub. Phonetic clues — what they sound like is what they are."
+  intro: "Foodbusters four. All global grub. Phonetic clues. What they sound like is what they are."
   prize: "Email in. Winner gets a printed photo from a disposable camera, framed."
   clues:
     - number: 1
@@ -146,7 +146,7 @@
 - id: foodbusters-005
   enabled: true
   title: Foodbusters
-  topic: global food — dishes from around the world
+  topic: global food, dishes from around the world
   difficulty: easy
   office_safe: true
   region_relevance:
@@ -182,14 +182,14 @@
 - id: foodbusters-006
   enabled: true
   title: Foodbusters
-  topic: global food — dishes from around the world
+  topic: global food, dishes from around the world
   difficulty: easy
   office_safe: true
   region_relevance:
     - UK
     - US
     - Global
-  intro: "Foodbusters six. All world cuisine hidden in phonetic clues. Say them out loud — that's the key."
+  intro: "Foodbusters six. All world cuisine hidden in phonetic clues. Say them out loud. That's the key."
   prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
   clues:
     - number: 1
@@ -202,7 +202,7 @@
       reasoning: "tag (a label, or to tag along) + een (a train sound, or the ending) = Tag-een = Tagine"
     - number: 2
       initials: J C
-      clue: "There's a bloke who's been very rude about someone — really jerked them around — and they're now a bird. A cooked one. Caribbean situation."
+      clue: "There's a bloke who's been very rude about someone, really jerked them around, and they're now a bird. A cooked one. Caribbean situation."
       answer: Jerk Chicken
       aliases:
         - jerk chicken
@@ -218,7 +218,7 @@
 - id: foodbusters-007
   enabled: true
   title: Foodbusters
-  topic: global food — dishes from around the world
+  topic: global food, dishes from around the world
   difficulty: easy
   office_safe: true
   region_relevance:
@@ -253,7 +253,7 @@
 - id: foodbusters-008
   enabled: true
   title: Foodbusters
-  topic: global food — dishes from around the world
+  topic: global food, dishes from around the world
   difficulty: easy
   office_safe: true
   region_relevance:
@@ -288,14 +288,14 @@
 - id: foodbusters-009
   enabled: true
   title: Foodbusters
-  topic: global food — dishes from around the world
+  topic: global food, dishes from around the world
   difficulty: easy
   office_safe: true
   region_relevance:
     - UK
     - US
     - Global
-  intro: "Foodbusters nine. All world food. Three clues — the answers are hiding in the sounds."
+  intro: "Foodbusters nine. All world food. Three clues. The answers are hiding in the sounds."
   prize: "Email in. Winner gets a printed photo from a disposable camera, framed."
   clues:
     - number: 1
@@ -324,14 +324,14 @@
 - id: foodbusters-010
   enabled: true
   title: Foodbusters
-  topic: global food — dishes from around the world
+  topic: global food, dishes from around the world
   difficulty: easy
   office_safe: true
   region_relevance:
     - UK
     - US
     - Global
-  intro: "Halfway there. Foodbusters ten. Keep going — all international grub, all phonetic."
+  intro: "Halfway there. Foodbusters ten. Keep going. All international grub, all phonetic."
   prize: "Email in. Winner gets a signed letter from someone off Emmerdale, possibly."
   clues:
     - number: 1
@@ -360,14 +360,14 @@
 - id: foodbusters-011
   enabled: true
   title: Foodbusters
-  topic: global food — dishes from around the world
+  topic: global food, dishes from around the world
   difficulty: easy
   office_safe: true
   region_relevance:
     - UK
     - US
     - Global
-  intro: "Foodbusters eleven. Three more international dishes. Say the clues out loud — it's all in the sounds."
+  intro: "Foodbusters eleven. Three more international dishes. Say the clues out loud. It's all in the sounds."
   prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
   clues:
     - number: 1
@@ -397,7 +397,7 @@
 - id: foodbusters-012
   enabled: true
   title: Foodbusters
-  topic: global food — dishes from around the world
+  topic: global food, dishes from around the world
   difficulty: easy
   office_safe: true
   region_relevance:
@@ -433,7 +433,7 @@
 - id: foodbusters-013
   enabled: true
   title: Foodbusters
-  topic: global food — dishes from around the world
+  topic: global food, dishes from around the world
   difficulty: easy
   office_safe: true
   region_relevance:
@@ -468,7 +468,7 @@
 - id: foodbusters-014
   enabled: true
   title: Foodbusters
-  topic: global food — dishes from around the world
+  topic: global food, dishes from around the world
   difficulty: easy
   office_safe: true
   region_relevance:
@@ -503,7 +503,7 @@
 - id: foodbusters-015
   enabled: true
   title: Foodbusters
-  topic: global food — dishes from around the world
+  topic: global food, dishes from around the world
   difficulty: easy
   office_safe: true
   region_relevance:
@@ -529,7 +529,7 @@
       reasoning: "burr (a donkey sound, or burro, Spanish for donkey) + ito (Spanish diminutive meaning 'little') = Burr-ito = Burrito"
     - number: 3
       initials: E
-      clue: "Someone's going in — definitely going in — but it's going to require them to stay calm and there's a woman called Ada involved somehow."
+      clue: "Someone's going in, definitely going in, but it's going to require them to stay calm and there's a woman called Ada involved somehow."
       answer: Enchilada
       aliases:
         - enchilada
@@ -538,7 +538,7 @@
 - id: foodbusters-016
   enabled: true
   title: Foodbusters
-  topic: global food — dishes from around the world
+  topic: global food, dishes from around the world
   difficulty: easy
   office_safe: true
   region_relevance:
@@ -574,7 +574,7 @@
 - id: foodbusters-017
   enabled: true
   title: Foodbusters
-  topic: global food — dishes from around the world
+  topic: global food, dishes from around the world
   difficulty: easy
   office_safe: true
   region_relevance:
@@ -602,7 +602,7 @@
       reasoning: "pier (a seaside walkway, or the name Pierre) + ogi (sounds like 'oh-gee', mild surprise) = Pier-ogi = Pierogi"
     - number: 3
       initials: T
-      clue: "A prawn has had a brief holiday — just a quick one, temporary — in Japan and come back wearing breadcrumbs. Nobody asked."
+      clue: "A prawn has had a brief holiday, just a quick one, temporary, in Japan and come back wearing breadcrumbs. Nobody asked."
       answer: Tempura
       aliases:
         - tempura
@@ -611,14 +611,14 @@
 - id: foodbusters-018
   enabled: true
   title: Foodbusters
-  topic: global food — dishes from around the world
+  topic: global food, dishes from around the world
   difficulty: easy
   office_safe: true
   region_relevance:
     - UK
     - US
     - Global
-  intro: "Foodbusters eighteen. Two more after this. All world food. Phonetic clues — say them out loud."
+  intro: "Foodbusters eighteen. Two more after this. All world food. Phonetic clues. Say them out loud."
   prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
   clues:
     - number: 1
@@ -647,7 +647,7 @@
 - id: foodbusters-019
   enabled: true
   title: Foodbusters
-  topic: global food — dishes from around the world
+  topic: global food, dishes from around the world
   difficulty: easy
   office_safe: true
   region_relevance:
@@ -659,7 +659,7 @@
   clues:
     - number: 1
       initials: P D
-      clue: "A bloke in China with a very old-fashioned name — the kind you'd have in Peking — has turned up with a bird tucked under his arm. Thin pancakes as well."
+      clue: "A bloke in China with a very old-fashioned name, the kind you'd have in Peking, has turned up with a bird tucked under his arm. Thin pancakes as well."
       answer: Peking Duck
       aliases:
         - peking duck
@@ -683,7 +683,7 @@
 - id: foodbusters-020
   enabled: true
   title: Foodbusters
-  topic: global food — dishes from around the world
+  topic: global food, dishes from around the world
   difficulty: easy
   office_safe: true
   region_relevance:
@@ -695,7 +695,7 @@
   clues:
     - number: 1
       initials: C
-      clue: "A French bloke called Brian — or possibly Bree-on — has a castle. And he's got a steak with his name on it. Quite literally."
+      clue: "A French bloke called Brian (or possibly Bree-on) has a castle. And he's got a steak with his name on it. Quite literally."
       answer: Chateaubriand
       aliases:
         - chateaubriand

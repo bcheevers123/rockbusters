@@ -102,7 +102,7 @@
       answer: Giraffe
       aliases:
         - giraffe
-      reasoning: "ji + raffe, sounds like jar + Ralph, or just Giraffe — say the name Ralph with a soft laugh. Near enough."
+      reasoning: "ji + raffe, sounds like jar + Ralph, or just Giraffe. Say the name Ralph with a soft laugh. Near enough."
 
 - id: animalbusters-004
   enabled: true
@@ -258,7 +258,7 @@
       answer: Leopard
       aliases:
         - leopard
-      reasoning: "le + op + ard, sounds like leopard — lee + ard, the spotted cat"
+      reasoning: "le + op + ard, sounds like leopard, lee + ard, the spotted cat"
     - number: 2
       initials: B
       clue: "He's given it a proper bash, right, the punching type. Gone right in there."
@@ -299,7 +299,7 @@
       answer: Ocelot
       aliases:
         - ocelot
-      reasoning: "os + e + lot, sounds like ocelot — a spotted wild cat. Say it out loud."
+      reasoning: "os + e + lot, sounds like ocelot, a spotted wild cat. Say it out loud."
     - number: 3
       initials: B
       clue: "Right, a young one, a baby badger type, but it's gone absolutely massive. Didn't see that coming."
@@ -335,7 +335,7 @@
       answer: Oryx
       aliases:
         - oryx
-      reasoning: "or + yx, sounds like oryx — the big horned antelope"
+      reasoning: "or + yx, sounds like oryx, the big horned antelope"
     - number: 3
       initials: M
       clue: "A bit of flour and water, the dough type, but this one's got spots. Totally normal."
@@ -438,7 +438,7 @@
       answer: Impala
       aliases:
         - impala
-      reasoning: "im + pala, sounds like impala — the African antelope, or the Chevy car"
+      reasoning: "im + pala, sounds like impala, the African antelope, or the Chevy car"
     - number: 3
       initials: G
       clue: "That bloke's gone and been a gazelle about the whole situation, hasn't he. Really nimble about it."
@@ -482,7 +482,7 @@
       aliases:
         - vicuna
         - vicuña
-      reasoning: "vi + cuna, sounds like vicuna — the South American camelid"
+      reasoning: "vi + cuna, sounds like vicuna, the South American camelid"
 
 - id: animalbusters-015
   enabled: true
@@ -502,14 +502,14 @@
       answer: Numbat
       aliases:
         - numbat
-      reasoning: "numb (like going numb) + at, sounds like numbat — the Australian marsupial"
+      reasoning: "numb (like going numb) + at, sounds like numbat, the Australian marsupial"
     - number: 2
       initials: Q
       clue: "Like a question at the top of a page, that round-the-corner thing. Some fella's put a bird in one."
       answer: Quoll
       aliases:
         - quoll
-      reasoning: "quol + l, sounds like quoll — the spotted Australian marsupial"
+      reasoning: "quol + l, sounds like quoll, the spotted Australian marsupial"
     - number: 3
       initials: D
       clue: "That bloke's been digging about in the bush, right, and he's come out all scratched. Typical."
@@ -536,7 +536,7 @@
       answer: Fossa
       aliases:
         - fossa
-      reasoning: "foss + a, sounds like fossa — the big Madagascar predator"
+      reasoning: "foss + a, sounds like fossa, the big Madagascar predator"
     - number: 2
       initials: T
       clue: "Right, she's been on the telly, that one. Lives in the bush. Basically on all channels."
@@ -578,7 +578,7 @@
       answer: Serval
       aliases:
         - serval
-      reasoning: "ser + val, sounds like serval — the long-legged African cat"
+      reasoning: "ser + val, sounds like serval, the long-legged African cat"
     - number: 3
       initials: C
       clue: "Right, that thing cub scouts are in, it's gone wild and furry. Running about on all fours."
@@ -656,7 +656,7 @@
       answer: Okapi
       aliases:
         - okapi
-      reasoning: "o + kapi, sounds like okapi — the zebra-giraffe thing from the Congo"
+      reasoning: "o + kapi, sounds like okapi, the zebra-giraffe thing from the Congo"
 
 - id: animalbusters-020
   enabled: true

@@ -16,7 +16,7 @@
       answer: Bohemian Rhapsody
       aliases:
         - bohemian rhapsody
-      reasoning: "Bo + HE + me + an + RAP + sod + y = Bohemian Rhapsody. Bo-HE-me-an RHAP-sody — the bloke (he, me) raps sloppily"
+      reasoning: "Bo + HE + me + an + RAP + sod + y = Bohemian Rhapsody. Bo-HE-me-an RHAP-sody. The bloke (he, me) raps sloppily"
     - number: 2
       initials: STH
       clue: "Some steps going upwards, right, and at the top there's a place you'd sleep if you were well posh. That's your lot."
@@ -84,14 +84,14 @@
       answer: Thriller
       aliases:
         - thriller
-      reasoning: "thrill + er = Thriller — the thing that gives you a thrill, like a scary monster"
+      reasoning: "thrill + er = Thriller. The thing that gives you a thrill, like a scary monster"
     - number: 2
       initials: BJ
       clue: "That woman's name, right. First name starts with B, like the name you give to Billy or William sometimes. Very famous song that."
       answer: Billie Jean
       aliases:
         - billie jean
-      reasoning: "Billie + Jean = Billie Jean — two first names put together"
+      reasoning: "Billie + Jean = Billie Jean. Two first names put together"
     - number: 3
       initials: MITM
       clue: "There's a fella, right, and he's standing in front of one of them reflective surfaces. Just looking at himself. Sort of contemplating. That's all."
@@ -133,7 +133,7 @@
       answer: Radio Ga Ga
       aliases:
         - radio ga ga
-      reasoning: "radio + ga + ga = Radio Ga Ga — ga ga like the baby noise"
+      reasoning: "radio + ga + ga = Radio Ga Ga. Ga ga like the baby noise"
 
 - id: songbusters-005
   enabled: true
@@ -221,14 +221,14 @@
       answer: Eleanor Rigby
       aliases:
         - eleanor rigby
-      reasoning: "Eleanor + rig + by = Eleanor Rigby — rig (heavy equipment) + by"
+      reasoning: "Eleanor + rig + by = Eleanor Rigby. Rig (heavy equipment) + by"
     - number: 2
       initials: PL
       clue: "There's a road, yeah. And it's got coins in the name. Like copper money. A whole street of them. Somewhere up north."
       answer: Penny Lane
       aliases:
         - penny lane
-      reasoning: "Penny + Lane = Penny Lane — a penny (coin) on a lane (road)"
+      reasoning: "Penny + Lane = Penny Lane. A penny (coin) on a lane (road)"
     - number: 3
       initials: HJ
       clue: "That lad Jude again. Someone's saying hello to him. Different song though. Bit confusing, that."
@@ -392,7 +392,7 @@
       answer: Bohemian Rhapsody
       aliases:
         - bohemian rhapsody
-      reasoning: "Bo-HE-mian + RHAP-sody = Bohemian Rhapsody — the middle bit sounds like 'he me' rapping badly"
+      reasoning: "Bo-HE-mian + RHAP-sody = Bohemian Rhapsody. The middle bit sounds like 'he me' rapping badly"
     - number: 2
       initials: ER
       clue: "That Eleanor woman. She's quite solid-looking. Not slight. Built well. You wouldn't mess with her. Rigby, that is."

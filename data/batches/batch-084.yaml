@@ -6,7 +6,7 @@
   office_safe: true
   region_relevance:
     - Global
-  intro: "Right, Festivalbusters. Three clues, all world festivals hiding in the sounds. Say each one out loud — the answer's in the phonetics, not the spelling. Off you go."
+  intro: "Right, Festivalbusters. Three clues, all world festivals hiding in the sounds. Say each one out loud. The answer's in the phonetics, not the spelling. Off you go."
   prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
   clues:
     - number: 1
@@ -76,7 +76,7 @@
   office_safe: true
   region_relevance:
     - Global
-  intro: "Last three. Festivalbusters three. All festivals from around the world. Same rules — say the clue out loud, the sounds lead you to the answer. Good luck. You'll probably need it."
+  intro: "Last three. Festivalbusters three. All festivals from around the world. Same rules. Say the clue out loud, the sounds lead you to the answer. Good luck. You'll probably need it."
   prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
   clues:
     - number: 1

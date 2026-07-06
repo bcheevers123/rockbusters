@@ -6,12 +6,12 @@
   office_safe: true
   region_relevance:
     - Global
-  intro: "Right, Wonderbusters. Phonetic clues about famous landmarks and world wonders. Say them out loud — the sound is the thing, not how it's written."
+  intro: "Right, Wonderbusters. Phonetic clues about famous landmarks and world wonders. Say them out loud. The sound is the thing, not how it's written."
   prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
   clues:
     - number: 1
       initials: G W O C
-      clue: "A large bloke has knocked on a door and shouted at a very little bloke — like a wall between them made of importance. Very Chinese energy about it. Old wall. Long wall."
+      clue: "A large bloke has knocked on a door and shouted at a very little bloke, like a wall between them made of importance. Very Chinese energy about it. Old wall. Long wall."
       answer: Great Wall of China
       aliases:
         - great wall of china
@@ -83,14 +83,14 @@
   clues:
     - number: 1
       initials: P
-      clue: "A pet called Peter has gone to a shop — a very rocky one, carved into a cliff face — and come back with something. In Jordan. He went through a narrow gap to get there. Didn't explain why."
+      clue: "A pet called Peter has gone to a shop (a very rocky one, carved into a cliff face) and come back with something. In Jordan. He went through a narrow gap to get there. Didn't explain why."
       answer: Petra
       aliases:
         - petra
       reasoning: "pet (a domestic animal, or someone's pet) + ra (sounds like 'ra', Egyptian sun god, or just a sound) = Pet-ra = Petra"
     - number: 2
       initials: A W
-      clue: "A bloke has gone a bit quiet — not quite an angry quiet, more of a thoughtful quiet — and he's now sitting in a very large temple in Cambodia. Something's caught his attention."
+      clue: "A bloke has gone a bit quiet (not quite an angry quiet, more of a thoughtful quiet) and he's now sitting in a very large temple in Cambodia. Something's caught his attention."
       answer: Angkor Wat
       aliases:
         - angkor wat
@@ -98,7 +98,7 @@
       reasoning: "angkor (sounds like 'anchor', something that keeps you still and quiet) + wat (sounds like 'what', an expression of mild confusion) = Angkor Wat"
     - number: 3
       initials: S
-      clue: "A group of blokes have rolled up some very heavy rocks in England — right out in a field — and then arranged them in a circle. Nobody knows why. The rocks are not saying."
+      clue: "A group of blokes have rolled up some very heavy rocks in England, right out in a field, and then arranged them in a circle. Nobody knows why. The rocks are not saying."
       answer: Stonehenge
       aliases:
         - stonehenge

@@ -55,14 +55,14 @@
       answer: ITV
       aliases:
         - itv
-      reasoning: "I + T + V = ITV. 'I' (me) + 'T' (tea) + 'V' (vee/see) — actually: I-T-V said as letters. Scene: 'I' see a 'TV' — I-TV."
+      reasoning: "I + T + V = ITV. 'I' (me) + 'T' (tea) + 'V' (vee/see). Actually, I-T-V said as letters. Scene: 'I' see a 'TV'. I-TV."
     - number: 3
       initials: T T
       clue: "Someone's gone and printed the times of all the telly programmes in a little book. Useful that."
       answer: TV Times
       aliases:
         - tv times
-      reasoning: "T-V + Times = TV Times. Tee-Vee + Times. Scene: a printed schedule of television programmes — a telly timetable."
+      reasoning: "T-V + Times = TV Times. Tee-Vee + Times. Scene: a printed schedule of television programmes, a telly timetable."
 
 - id: mediabusters-003
   enabled: true
@@ -81,7 +81,7 @@
       answer: BBC One
       aliases:
         - bbc one
-      reasoning: "B-B-C + One = BBC One. Bee-Bee-See + Won/One. Scene: the original BBC channel — the first one they ever did."
+      reasoning: "B-B-C + One = BBC One. Bee-Bee-See + Won/One. Scene: the original BBC channel, the first one they ever did."
     - number: 2
       initials: C F M
       clue: "The capital of somewhere rang up and the connection was brilliant. Very clear."
@@ -128,7 +128,7 @@
       answer: OK Magazine
       aliases:
         - ok magazine
-      reasoning: "OK + Magazine = OK Magazine. 'OK' is an expression of agreement. Scene: responding that things are fine — 'OK' — then grabbing a magazine."
+      reasoning: "OK + Magazine = OK Magazine. 'OK' is an expression of agreement. Scene: responding that things are fine, 'OK', then grabbing a magazine."
 
 - id: mediabusters-005
   enabled: true
@@ -161,7 +161,7 @@
       answer: Gold
       aliases:
         - gold
-      reasoning: "Gold = Gold (TV channel). 'Gold' sounds like gold — precious, classic, old. Scene: a TV channel full of classic programmes described as gold."
+      reasoning: "Gold = Gold (TV channel). 'Gold' sounds like gold, precious, classic, old. Scene: a TV channel full of classic programmes described as gold."
 
 - id: mediabusters-006
   enabled: true
@@ -180,7 +180,7 @@
       answer: The Times
       aliases:
         - the times
-      reasoning: "The + Times = The Times. 'Times' sounds like occasions/schedule. Scene: a newspaper that reports the times of things — events, goings on."
+      reasoning: "The + Times = The Times. 'Times' sounds like occasions/schedule. Scene: a newspaper that reports the times of things, events, goings on."
     - number: 2
       initials: M F M
       clue: "Some bloke did a conjuring trick, right, and it went brilliant. Very mysterious. On the radio."
@@ -220,7 +220,7 @@
       answer: The Telegraph
       aliases:
         - the telegraph
-      reasoning: "The + Telegraph = The Telegraph. 'Telegraph' (old messaging system using wires). Scene: a message sent by telegraph — old fashioned communication in print form."
+      reasoning: "The + Telegraph = The Telegraph. 'Telegraph' (old messaging system using wires). Scene: a message sent by telegraph, old fashioned communication in print form."
     - number: 3
       initials: D
       clue: "Right, that channel's full of blokes in sheds and stuff. Named after a proper ordinary fella. Sort of works."
@@ -312,7 +312,7 @@
       answer: Alibi
       aliases:
         - alibi
-      reasoning: "Alibi = Alibi (TV channel). 'Alibi' is a word for a secret defence — where you were when the crime happened. Scene: a channel all about secrets and crime."
+      reasoning: "Alibi = Alibi (TV channel). 'Alibi' is a word for a secret defence, where you were when the crime happened. Scene: a channel all about secrets and crime."
     - number: 2
       initials: T E
       clue: "Someone put a note through the door and it read out the whole thing. Right to the end. No messing about."
@@ -583,7 +583,7 @@
       answer: News of the World
       aliases:
         - news of the world
-      reasoning: "News + of + the + World = News of the World. Scene: a story so big, the whole world heard about it — published on Sundays."
+      reasoning: "News + of + the + World = News of the World. Scene: a story so big, the whole world heard about it. Published on Sundays."
     - number: 3
       initials: G
       clue: "That channel's dug up loads of brilliant old stuff. Like treasure, it is. Worth its weight."
@@ -623,7 +623,7 @@
       answer: The Mirror
       aliases:
         - the mirror
-      reasoning: "The + Mirror = The Mirror. 'Mirror' (reflecting something back). Scene: speaking directly to someone — mirroring the truth back at them."
+      reasoning: "The + Mirror = The Mirror. 'Mirror' (reflecting something back). Scene: speaking directly to someone, mirroring the truth back at them."
 
 - id: mediabusters-020
   enabled: true

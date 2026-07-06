@@ -6,7 +6,7 @@
   office_safe: true
   region_relevance:
     - Global
-  intro: "Right, Mathbusters. Rockbusters but it's all maths. Don't panic — you don't need to do any actual sums. Just say the clues out loud and the answer will come to you. Or it won't."
+  intro: "Right, Mathbusters. Rockbusters but it's all maths. Don't panic. You don't need to do any actual sums. Just say the clues out loud and the answer will come to you. Or it won't."
   prize: "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station."
   clues:
     - number: 1
@@ -53,7 +53,7 @@
       reasoning: "trig (sounds like 'trig', a shortened casual word) + on (on top of) + om (sounds like 'om', a meditation sound) + et (sounds like 'it' or 'et') + ry (sounds like 'ree') = Trig-on-om-et-ry = Trigonometry"
     - number: 2
       initials: F
-      clue: "An Italian bloke — quite old, medieval sort — has been adding up rabbits. Keeps starting with one and then adding them together. He looks very satisfied."
+      clue: "An Italian bloke, quite old, medieval sort, has been adding up rabbits. Keeps starting with one and then adding them together. He looks very satisfied."
       answer: Fibonacci
       aliases:
         - fibonacci
@@ -88,7 +88,7 @@
       reasoning: "trap (to trap, or a trap door, or a bloke called Trap) + ease (to ease off, relax) + ee (the vowel sound) + um (the thinking noise) = Trap-ease-ee-um = Trapezium"
     - number: 2
       initials: R
-      clue: "A diamond-shaped fella from the housing estate — everyone round there knows him — has got four equal sides and he's not apologising for any of them."
+      clue: "A diamond-shaped fella from the housing estate, everyone round there knows him, has got four equal sides and he's not apologising for any of them."
       answer: Rhombus
       aliases:
         - rhombus
