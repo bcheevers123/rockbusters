@@ -54,6 +54,15 @@ def _create_schema(conn: sqlite3.Connection) -> None:
         """
     )
 
+    cur.execute(
+        """
+        CREATE TABLE IF NOT EXISTS daily_override (
+            set_id     TEXT NOT NULL,
+            valid_date TEXT NOT NULL
+        )
+        """
+    )
+
     # Insert schema_version = 1 only on first run; idempotent on re-runs.
     cur.execute("INSERT OR IGNORE INTO schema_version (version) VALUES (1)")
 
@@ -163,6 +172,25 @@ def get_user_score_today(
         (user_id, set_id),
     ).fetchone()
     return row[0] if row else 0
+
+
+def get_daily_override(conn: sqlite3.Connection, today_str: str) -> str | None:
+    """Return the override set_id if one exists for today_str (YYYY-MM-DD), else None."""
+    row = conn.execute(
+        "SELECT set_id FROM daily_override WHERE valid_date = ?",
+        (today_str,),
+    ).fetchone()
+    return row[0] if row else None
+
+
+def set_daily_override(conn: sqlite3.Connection, set_id: str, date_str: str) -> None:
+    """Replace any existing override with set_id for date_str."""
+    conn.execute("DELETE FROM daily_override")
+    conn.execute(
+        "INSERT INTO daily_override (set_id, valid_date) VALUES (?, ?)",
+        (set_id, date_str),
+    )
+    conn.commit()
 
 
 def get_leaderboard(conn: sqlite3.Connection, limit: int = 10) -> list:

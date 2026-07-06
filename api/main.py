@@ -20,6 +20,7 @@ from api.config import Config
 from api.content_bank import load_bank
 from api.db import (
     _create_schema,
+    get_daily_override,
     get_leaderboard,
     get_user_score_today,
     has_correct_guess,
@@ -27,6 +28,7 @@ from api.db import (
     init_db,
     record_guess,
     record_reveal,
+    set_daily_override,
     upsert_user,
 )
 from api.game_service import get_todays_set
