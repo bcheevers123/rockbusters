@@ -1,5 +1,5 @@
 - id: sportbusters-021
-  enabled: true
+  enabled: false
   title: Sportbusters
   topic: tennis players golfers boxers and other sports personalities
   difficulty: medium
@@ -32,7 +32,7 @@
     - pete sampras
     reasoning: Pete + sam (some) + grass (lawn) = Pete Sampras
 - id: sportbusters-022
-  enabled: true
+  enabled: false
   title: Sportbusters
   topic: tennis players golfers boxers and other sports personalities
   difficulty: medium
@@ -65,7 +65,7 @@
     - jimmy connors
     reasoning: jimmy (to jimmy a lock open) + con (caught by police, a con) + ors = Jimmy Connors
 - id: sportbusters-023
-  enabled: true
+  enabled: false
   title: Sportbusters
   topic: tennis players golfers boxers and other sports personalities
   difficulty: medium
@@ -98,7 +98,7 @@
     - nick faldo
     reasoning: nick (to steal, to nick) + fall (fall) + dough (bread dough) = Nick Faldo
 - id: sportbusters-024
-  enabled: true
+  enabled: false
   title: Sportbusters
   topic: tennis players golfers boxers and other sports personalities
   difficulty: medium
@@ -132,7 +132,7 @@
     - seve ballesteros
     reasoning: say (say out loud) + vay + ball (a round thing) + uh + stereos (music equipment) = Seve Ballesteros
 - id: sportbusters-025
-  enabled: true
+  enabled: false
   title: Sportbusters
   topic: tennis players golfers boxers and other sports personalities
   difficulty: medium
@@ -165,7 +165,7 @@
     - george foreman
     reasoning: gorge (gorging, eating too much) + four (by a cliff edge, a fore) + man (a fella) = George Foreman
 - id: sportbusters-026
-  enabled: true
+  enabled: false
   title: Sportbusters
   topic: tennis players golfers boxers and other sports personalities
   difficulty: medium
@@ -198,7 +198,7 @@
     - lennox lewis
     reasoning: Len (fella called Len) + ox (an ox, a big animal) + Lewis (someone called Lewis) = Lennox Lewis
 - id: sportbusters-027
-  enabled: true
+  enabled: false
   title: Sportbusters
   topic: tennis players golfers boxers and other sports personalities
   difficulty: medium
@@ -231,7 +231,7 @@
     - boris becker
     reasoning: bore-iss (boring, a yawn) + beck-er (beckoning someone across the corridor) = Boris Becker
 - id: sportbusters-028
-  enabled: true
+  enabled: false
   title: Sportbusters
   topic: tennis players golfers boxers and other sports personalities
   difficulty: medium
@@ -264,7 +264,7 @@
     - john mcenroe
     reasoning: john (gone) + mac (waterproof coat) + en-roe (a roe, a big row or argument) = John McEnroe
 - id: sportbusters-029
-  enabled: true
+  enabled: false
   title: Sportbusters
   topic: tennis players golfers boxers and other sports personalities
   difficulty: medium
@@ -297,7 +297,7 @@
     - andre agassi
     reasoning: and-Ray (and Ray did it) + a-gassy (a gassy smell, a pong) = Andre Agassi
 - id: sportbusters-030
-  enabled: true
+  enabled: false
   title: Sportbusters
   topic: tennis players golfers boxers and other sports personalities
   difficulty: medium
@@ -330,7 +330,7 @@
     - evander holyfield
     reasoning: even (all even, fair and square) + der + holy (religious, going to pray) + field (an open meadow) = Evander Holyfield
 - id: sportbusters-031
-  enabled: true
+  enabled: false
   title: Sportbusters
   topic: tennis players golfers boxers and other sports personalities
   difficulty: medium
@@ -363,7 +363,7 @@
     - bjorn borg
     reasoning: bjorn (born, came into the world) + borg (cyborg, machine parts) = Bjorn Borg
 - id: sportbusters-032
-  enabled: true
+  enabled: false
   title: Sportbusters
   topic: tennis players golfers boxers and other sports personalities
   difficulty: medium
@@ -396,7 +396,7 @@
     - lennox lewis
     reasoning: Len (a fella called Len) + ox (a big ox) + Lewis (someone called Lewis) = Lennox Lewis
 - id: sportbusters-033
-  enabled: true
+  enabled: false
   title: Sportbusters
   topic: tennis players golfers boxers and other sports personalities
   difficulty: medium
@@ -429,7 +429,7 @@
     - jimmy connors
     reasoning: jimmy (to jimmy a lock, force it open) + con (a criminal, a con) + ors = Jimmy Connors
 - id: sportbusters-034
-  enabled: true
+  enabled: false
   title: Sportbusters
   topic: tennis players golfers boxers and other sports personalities
   difficulty: medium
@@ -462,7 +462,7 @@
     - pete sampras
     reasoning: Pete + sam (some) + pras/grass (grass, green stuff from the mower) = Pete Sampras
 - id: sportbusters-035
-  enabled: true
+  enabled: false
   title: Sportbusters
   topic: tennis players golfers boxers and other sports personalities
   difficulty: medium
@@ -495,7 +495,7 @@
     - tiger woods
     reasoning: tie-ger (tying a knot) + woods (gone walkabout in the trees) = Tiger Woods
 - id: sportbusters-036
-  enabled: true
+  enabled: false
   title: Sportbusters
   topic: tennis players golfers boxers and other sports personalities
   difficulty: medium
@@ -528,7 +528,7 @@
     - george foreman
     reasoning: gorge (gorging on food near a gorge, a ravine) + fore-man (a foreman, a supervisor) = George Foreman
 - id: sportbusters-037
-  enabled: true
+  enabled: false
   title: Sportbusters
   topic: tennis players golfers boxers and other sports personalities
   difficulty: medium
@@ -561,7 +561,7 @@
     - colin montgomerie
     reasoning: calling (calling out) + mount (halfway up a hill) + gum (chewing gum) + ery = Colin Montgomerie
 - id: sportbusters-038
-  enabled: true
+  enabled: false
   title: Sportbusters
   topic: tennis players golfers boxers and other sports personalities
   difficulty: medium
@@ -594,7 +594,7 @@
     - sandy lyle
     reasoning: sandy (gritty underfoot, sandy ground) + lyle (liar, telling porkies) = Sandy Lyle
 - id: sportbusters-039
-  enabled: true
+  enabled: false
   title: Sportbusters
   topic: tennis players golfers boxers and other sports personalities
   difficulty: medium
@@ -627,7 +627,7 @@
     - amir khan
     reasoning: a-mere (a mere trace, barely anything) + can (sealed in a tin can) = Amir Khan
 - id: sportbusters-040
-  enabled: true
+  enabled: false
   title: Sportbusters
   topic: tennis players golfers boxers and other sports personalities
   difficulty: medium

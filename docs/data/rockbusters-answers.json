@@ -617,35 +617,6 @@
     ]
   },
   {
-    "id": "sportbusters-014",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Usain Bolt",
-        "aliases": [
-          "usain bolt"
-        ],
-        "reasoning": "you + sane (in possession of faculties) + bolt (lightning bolt/door bolt) = Usain Bolt"
-      },
-      {
-        "number": 2,
-        "answer": "Tiger Woods",
-        "aliases": [
-          "tiger woods"
-        ],
-        "reasoning": "tiger + woods (forest/trees) = Tiger Woods"
-      },
-      {
-        "number": 3,
-        "answer": "Serena Williams",
-        "aliases": [
-          "serena williams"
-        ],
-        "reasoning": "sir (knight's title) + Reena + Williams = Serena Williams"
-      }
-    ]
-  },
-  {
     "id": "mixedbusters-012",
     "clues": [
       {
@@ -2645,35 +2616,6 @@
     ]
   },
   {
-    "id": "sportbusters-006",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Denise Lewis",
-        "aliases": [
-          "denise lewis"
-        ],
-        "reasoning": "den (animal sleeping room) + niece + Lewis... den + niece + is = Denise Lewis"
-      },
-      {
-        "number": 2,
-        "answer": "Michael Johnson",
-        "aliases": [
-          "michael johnson"
-        ],
-        "reasoning": "Michael (archangel) + John + son = Michael Johnson"
-      },
-      {
-        "number": 3,
-        "answer": "Derek Redmond",
-        "aliases": [
-          "derek redmond"
-        ],
-        "reasoning": "Derek + red + mond (round, like monde) = Derek Redmond"
-      }
-    ]
-  },
-  {
     "id": "mixedbusters-007",
     "clues": [
       {
@@ -4647,35 +4589,6 @@
           "robin hood"
         ],
         "reasoning": "robbing (committing robbery, thieving) + hood (a type of hat, or a forest like Robin Hood's forest) = robbing-hood = Robin Hood."
-      }
-    ]
-  },
-  {
-    "id": "sportbusters-012",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Derek Redmond",
-        "aliases": [
-          "derek redmond"
-        ],
-        "reasoning": "Derek + red + mond (round) = Derek Redmond"
-      },
-      {
-        "number": 2,
-        "answer": "Michael Johnson",
-        "aliases": [
-          "michael johnson"
-        ],
-        "reasoning": "Michael (the archangel) + John + son = Michael Johnson"
-      },
-      {
-        "number": 3,
-        "answer": "Mike Tyson",
-        "aliases": [
-          "mike tyson"
-        ],
-        "reasoning": "mike (microphone) + tie (neckwear) + son = Mike Tyson"
       }
     ]
   },
@@ -8046,35 +7959,6 @@
     ]
   },
   {
-    "id": "sportbusters-015",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Muhammad Ali",
-        "aliases": [
-          "muhammad ali"
-        ],
-        "reasoning": "moo (cow) + ham (pig) + mad (lost the plot) + alley (narrow passage) = Muhammad Ali"
-      },
-      {
-        "number": 2,
-        "answer": "Paula Radcliffe",
-        "aliases": [
-          "paula radcliffe"
-        ],
-        "reasoning": "paw (dog's foot) + la + rad + cliff (steep drop) = Paula Radcliffe"
-      },
-      {
-        "number": 3,
-        "answer": "Roger Federer",
-        "aliases": [
-          "roger federer"
-        ],
-        "reasoning": "Roger + fed (gave tea/dinner) + er + er = Roger Federer"
-      }
-    ]
-  },
-  {
     "id": "mixedbusters-001",
     "clues": [
       {
@@ -9740,35 +9624,6 @@
     ]
   },
   {
-    "id": "sportbusters-008",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Usain Bolt",
-        "aliases": [
-          "usain bolt"
-        ],
-        "reasoning": "you + sane (mentally fine) + bolt (thunderbolt/door lock) = Usain Bolt"
-      },
-      {
-        "number": 2,
-        "answer": "Serena Williams",
-        "aliases": [
-          "serena williams"
-        ],
-        "reasoning": "sir (posh title) + Reena/Rina + Williams = Serena Williams"
-      },
-      {
-        "number": 3,
-        "answer": "Roger Federer",
-        "aliases": [
-          "roger federer"
-        ],
-        "reasoning": "Roger + fed (given dinner) + er + er = Roger Federer"
-      }
-    ]
-  },
-  {
     "id": "mixedbusters-020",
     "clues": [
       {
@@ -10543,36 +10398,6 @@
           "carlsberg"
         ],
         "reasoning": "carls (Carl's, possessive of the name Carl) + berg (mountain, iceberg) = Carlsberg"
-      }
-    ]
-  },
-  {
-    "id": "sportbusters-018",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Jessica Ennis",
-        "aliases": [
-          "jessica ennis",
-          "jessica ennis-hill"
-        ],
-        "reasoning": "Jessica + in + is = Jessica Ennis"
-      },
-      {
-        "number": 2,
-        "answer": "Derek Redmond",
-        "aliases": [
-          "derek redmond"
-        ],
-        "reasoning": "Derek + red + mond (round) = Derek Redmond"
-      },
-      {
-        "number": 3,
-        "answer": "Mike Tyson",
-        "aliases": [
-          "mike tyson"
-        ],
-        "reasoning": "mike (recording device) + tie (cravat thing) + son = Mike Tyson"
       }
     ]
   },
@@ -11383,35 +11208,6 @@
     ]
   },
   {
-    "id": "sportbusters-017",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Daley Thompson",
-        "aliases": [
-          "daley thompson"
-        ],
-        "reasoning": "daily/daley (every day) + Tom + son = Daley Thompson"
-      },
-      {
-        "number": 2,
-        "answer": "Carl Lewis",
-        "aliases": [
-          "carl lewis"
-        ],
-        "reasoning": "Carl/Karl + loo (toilet) + is = Carl Lewis"
-      },
-      {
-        "number": 3,
-        "answer": "Michael Johnson",
-        "aliases": [
-          "michael johnson"
-        ],
-        "reasoning": "Michael (famous archangel) + John + son = Michael Johnson"
-      }
-    ]
-  },
-  {
     "id": "mixedbusters-014",
     "clues": [
       {
@@ -12160,35 +11956,6 @@
           "lucozade"
         ],
         "reasoning": "lucos (sounds like 'looks as') + ade (like lemonade, a drink) = Lucozade"
-      }
-    ]
-  },
-  {
-    "id": "sportbusters-007",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Jonathan Edwards",
-        "aliases": [
-          "jonathan edwards"
-        ],
-        "reasoning": "Jonathan + Ed + wards (hospital corridors) = Jonathan Edwards"
-      },
-      {
-        "number": 2,
-        "answer": "Tiger Woods",
-        "aliases": [
-          "tiger woods"
-        ],
-        "reasoning": "tiger (jungle cat) + woods (undergrowth/trees) = Tiger Woods"
-      },
-      {
-        "number": 3,
-        "answer": "Andy Murray",
-        "aliases": [
-          "andy murray"
-        ],
-        "reasoning": "and + he (him there) + mur + ray... and + he + Murray = Andy Murray"
       }
     ]
   },
@@ -12971,35 +12738,6 @@
     ]
   },
   {
-    "id": "sportbusters-013",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Jonathan Edwards",
-        "aliases": [
-          "jonathan edwards"
-        ],
-        "reasoning": "Jonathan + Ed + wards (hospital wards) = Jonathan Edwards"
-      },
-      {
-        "number": 2,
-        "answer": "Andy Murray",
-        "aliases": [
-          "andy murray"
-        ],
-        "reasoning": "and + he (that fella) + mur + ray = Andy Murray"
-      },
-      {
-        "number": 3,
-        "answer": "Denise Lewis",
-        "aliases": [
-          "denise lewis"
-        ],
-        "reasoning": "den (animal's cave) + niece + Lewis... den + niece + is = Denise Lewis"
-      }
-    ]
-  },
-  {
     "id": "mixedbusters-019",
     "clues": [
       {
@@ -13684,35 +13422,6 @@
           "vimto"
         ],
         "reasoning": "vim (energy, vigour) + to (a direction) = vimto = Vimto"
-      }
-    ]
-  },
-  {
-    "id": "sportbusters-009",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Muhammad Ali",
-        "aliases": [
-          "muhammad ali"
-        ],
-        "reasoning": "moo (cow noise) + ham (pig meat) + mad (lost mind) + alley (back passage) = Muhammad Ali"
-      },
-      {
-        "number": 2,
-        "answer": "Mo Farah",
-        "aliases": [
-          "mo farah"
-        ],
-        "reasoning": "mo (one more) + far (a distance) + ah = Mo Farah"
-      },
-      {
-        "number": 3,
-        "answer": "Linford Christie",
-        "aliases": [
-          "linford christie"
-        ],
-        "reasoning": "Lin + ford (river crossing) + Chris + tee (Christmassy) = Linford Christie"
       }
     ]
   },
@@ -14430,35 +14139,6 @@
           "san miguel"
         ],
         "reasoning": "san (saint) + miguel (Michael in Spanish) = San Miguel"
-      }
-    ]
-  },
-  {
-    "id": "sportbusters-010",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Paula Radcliffe",
-        "aliases": [
-          "paula radcliffe"
-        ],
-        "reasoning": "paw (animal paw) + la + rad + cliff (massive drop) = Paula Radcliffe"
-      },
-      {
-        "number": 2,
-        "answer": "Daley Thompson",
-        "aliases": [
-          "daley thompson"
-        ],
-        "reasoning": "daily/daley + Tom + son (Thompson) = Daley Thompson"
-      },
-      {
-        "number": 3,
-        "answer": "Steve Redgrave",
-        "aliases": [
-          "steve redgrave"
-        ],
-        "reasoning": "Steve + red + grave = Steve Redgrave"
       }
     ]
   },
@@ -15935,35 +15615,6 @@
     ]
   },
   {
-    "id": "sportbusters-019",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Mo Farah",
-        "aliases": [
-          "mo farah"
-        ],
-        "reasoning": "mo (more of it) + far (a distance away) + ah = Mo Farah"
-      },
-      {
-        "number": 2,
-        "answer": "Andy Murray",
-        "aliases": [
-          "andy murray"
-        ],
-        "reasoning": "and + he (that bloke there) + mur + ray = Andy Murray"
-      },
-      {
-        "number": 3,
-        "answer": "Jonathan Edwards",
-        "aliases": [
-          "jonathan edwards"
-        ],
-        "reasoning": "Jonathan + Ed + wards (hospital wards) = Jonathan Edwards"
-      }
-    ]
-  },
-  {
     "id": "mixedbusters-018",
     "clues": [
       {
@@ -16700,35 +16351,6 @@
     ]
   },
   {
-    "id": "sportbusters-020",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Denise Lewis",
-        "aliases": [
-          "denise lewis"
-        ],
-        "reasoning": "den (animal sleeping area) + niece + is = Denise Lewis"
-      },
-      {
-        "number": 2,
-        "answer": "Usain Bolt",
-        "aliases": [
-          "usain bolt"
-        ],
-        "reasoning": "you + sane (got all your marbles) + bolt (door bolt) = Usain Bolt"
-      },
-      {
-        "number": 3,
-        "answer": "Roger Federer",
-        "aliases": [
-          "roger federer"
-        ],
-        "reasoning": "Roger + fed (fed someone) + er + er = Roger Federer"
-      }
-    ]
-  },
-  {
     "id": "mixedbusters-009",
     "clues": [
       {
@@ -17450,36 +17072,6 @@
     ]
   },
   {
-    "id": "sportbusters-011",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Kelly Holmes",
-        "aliases": [
-          "kelly holmes"
-        ],
-        "reasoning": "Kelly + homes (properties) = Kelly Holmes"
-      },
-      {
-        "number": 2,
-        "answer": "Carl Lewis",
-        "aliases": [
-          "carl lewis"
-        ],
-        "reasoning": "Carl/Karl + loo (toilet) + is = Carl Lewis"
-      },
-      {
-        "number": 3,
-        "answer": "Jessica Ennis",
-        "aliases": [
-          "jessica ennis",
-          "jessica ennis-hill"
-        ],
-        "reasoning": "Jessica + in + is = Jessica Ennis"
-      }
-    ]
-  },
-  {
     "id": "mixedbusters-010",
     "clues": [
       {
@@ -18167,36 +17759,6 @@
           "bailey's"
         ],
         "reasoning": "bail (to leave, or a bail of hay) + eys = bail-eys = Baileys"
-      }
-    ]
-  },
-  {
-    "id": "sportbusters-004",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Paula Radcliffe",
-        "aliases": [
-          "paula radcliffe"
-        ],
-        "reasoning": "paw (animal's foot) + la + rad + cliff (rocky drop/edge) = Paula Radcliffe"
-      },
-      {
-        "number": 2,
-        "answer": "Jessica Ennis",
-        "aliases": [
-          "jessica ennis",
-          "jessica ennis-hill"
-        ],
-        "reasoning": "Jessica + in + is = Jessica Ennis"
-      },
-      {
-        "number": 3,
-        "answer": "Linford Christie",
-        "aliases": [
-          "linford christie"
-        ],
-        "reasoning": "Lin + ford (river crossing) + Chris + tee = Linford Christie"
       }
     ]
   },
@@ -18914,35 +18476,6 @@
           "vimto"
         ],
         "reasoning": "vim (vigour, taking over) + to = vimto = Vimto"
-      }
-    ]
-  },
-  {
-    "id": "sportbusters-005",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Daley Thompson",
-        "aliases": [
-          "daley thompson"
-        ],
-        "reasoning": "daily (every day) + Tom + son = Daley Thompson"
-      },
-      {
-        "number": 2,
-        "answer": "Steve Redgrave",
-        "aliases": [
-          "steve redgrave"
-        ],
-        "reasoning": "Steve + red + grave = Steve Redgrave"
-      },
-      {
-        "number": 3,
-        "answer": "Carl Lewis",
-        "aliases": [
-          "carl lewis"
-        ],
-        "reasoning": "Carl/Karl + loo (toilet) + is = Carl Lewis"
       }
     ]
   },
@@ -25175,587 +24708,6 @@
           "the full monty"
         ],
         "reasoning": "The Full (every last bit, whole lot) + Monty (Monty, the full works) = The Full Monty"
-      }
-    ]
-  },
-  {
-    "id": "sportbusters-021",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Boris Becker",
-        "aliases": [
-          "boris becker"
-        ],
-        "reasoning": "bore-iss (boring, becoming dull) + beck-er (beckoning someone) = Boris Becker"
-      },
-      {
-        "number": 2,
-        "answer": "Steffi Graf",
-        "aliases": [
-          "steffi graf"
-        ],
-        "reasoning": "steffy (stuffy, stale air in a flat) + graff (graph, line on paper) = Steffi Graf"
-      },
-      {
-        "number": 3,
-        "answer": "Pete Sampras",
-        "aliases": [
-          "pete sampras"
-        ],
-        "reasoning": "Pete + sam (some) + grass (lawn) = Pete Sampras"
-      }
-    ]
-  },
-  {
-    "id": "sportbusters-022",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Andre Agassi",
-        "aliases": [
-          "andre agassi"
-        ],
-        "reasoning": "and-Ray (and Ray has done something) + a-gassy (a bit gassy, smell) = Andre Agassi"
-      },
-      {
-        "number": 2,
-        "answer": "John McEnroe",
-        "aliases": [
-          "john mcenroe"
-        ],
-        "reasoning": "john (gone) + mac (padded coat) + en-roe (a row, an argument) = John McEnroe"
-      },
-      {
-        "number": 3,
-        "answer": "Jimmy Connors",
-        "aliases": [
-          "jimmy connors"
-        ],
-        "reasoning": "jimmy (to jimmy a lock open) + con (caught by police, a con) + ors = Jimmy Connors"
-      }
-    ]
-  },
-  {
-    "id": "sportbusters-023",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Bjorn Borg",
-        "aliases": [
-          "bjorn borg"
-        ],
-        "reasoning": "bjorn (born, came into the world) + borg (like a cyborg implant) = Bjorn Borg"
-      },
-      {
-        "number": 2,
-        "answer": "Tiger Woods",
-        "aliases": [
-          "tiger woods"
-        ],
-        "reasoning": "tie-ger (tying, making a knot) + woods (a woodland, trees) = Tiger Woods"
-      },
-      {
-        "number": 3,
-        "answer": "Nick Faldo",
-        "aliases": [
-          "nick faldo"
-        ],
-        "reasoning": "nick (to steal, to nick) + fall (fall) + dough (bread dough) = Nick Faldo"
-      }
-    ]
-  },
-  {
-    "id": "sportbusters-024",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Colin Montgomerie",
-        "aliases": [
-          "colin montgomerie",
-          "colin montgomerie"
-        ],
-        "reasoning": "calling (shouting for someone) + mount (a big hill) + gum (chewing something rubbery) + ery = Colin Montgomerie"
-      },
-      {
-        "number": 2,
-        "answer": "Sandy Lyle",
-        "aliases": [
-          "sandy lyle"
-        ],
-        "reasoning": "sandy (sandy, like a beach) + lyle (sounds like liar, telling lies) = Sandy Lyle"
-      },
-      {
-        "number": 3,
-        "answer": "Seve Ballesteros",
-        "aliases": [
-          "seve ballesteros"
-        ],
-        "reasoning": "say (say out loud) + vay + ball (a round thing) + uh + stereos (music equipment) = Seve Ballesteros"
-      }
-    ]
-  },
-  {
-    "id": "sportbusters-025",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Muhammad Ali",
-        "aliases": [
-          "muhammad ali"
-        ],
-        "reasoning": "moo-ham-id (move + ham + id) + ah-lee (a Lee, someone called Lee) = Muhammad Ali"
-      },
-      {
-        "number": 2,
-        "answer": "Joe Frazier",
-        "aliases": [
-          "joe frazier"
-        ],
-        "reasoning": "Joe + fray (something fraying, unravelling at the edges) + zi-er = Joe Frazier"
-      },
-      {
-        "number": 3,
-        "answer": "George Foreman",
-        "aliases": [
-          "george foreman"
-        ],
-        "reasoning": "gorge (gorging, eating too much) + four (by a cliff edge, a fore) + man (a fella) = George Foreman"
-      }
-    ]
-  },
-  {
-    "id": "sportbusters-026",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Evander Holyfield",
-        "aliases": [
-          "evander holyfield"
-        ],
-        "reasoning": "even (balanced, all level) + der + holy (religious) + field (a paddock, a field) = Evander Holyfield"
-      },
-      {
-        "number": 2,
-        "answer": "Floyd Mayweather",
-        "aliases": [
-          "floyd mayweather"
-        ],
-        "reasoning": "Floyd + May (the month May) + weather (weather report, rain) = Floyd Mayweather"
-      },
-      {
-        "number": 3,
-        "answer": "Lennox Lewis",
-        "aliases": [
-          "lennox lewis"
-        ],
-        "reasoning": "Len (fella called Len) + ox (an ox, a big animal) + Lewis (someone called Lewis) = Lennox Lewis"
-      }
-    ]
-  },
-  {
-    "id": "sportbusters-027",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Frank Bruno",
-        "aliases": [
-          "frank bruno"
-        ],
-        "reasoning": "frank (being honest, forthright) + brew (a brew with no tea in it) + no (nothing in it) = Frank Bruno"
-      },
-      {
-        "number": 2,
-        "answer": "Amir Khan",
-        "aliases": [
-          "amir khan"
-        ],
-        "reasoning": "a-mere (a mere amount, barely any) + can (a tin can) = Amir Khan"
-      },
-      {
-        "number": 3,
-        "answer": "Boris Becker",
-        "aliases": [
-          "boris becker"
-        ],
-        "reasoning": "bore-iss (boring, a yawn) + beck-er (beckoning someone across the corridor) = Boris Becker"
-      }
-    ]
-  },
-  {
-    "id": "sportbusters-028",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Pete Sampras",
-        "aliases": [
-          "pete sampras"
-        ],
-        "reasoning": "Pete + sam (some) + pras/grass (lawn grass everywhere) = Pete Sampras"
-      },
-      {
-        "number": 2,
-        "answer": "Steffi Graf",
-        "aliases": [
-          "steffi graf"
-        ],
-        "reasoning": "steffy (stuffy, musty air) + graff (graph, a chart) = Steffi Graf"
-      },
-      {
-        "number": 3,
-        "answer": "John McEnroe",
-        "aliases": [
-          "john mcenroe"
-        ],
-        "reasoning": "john (gone) + mac (waterproof coat) + en-roe (a roe, a big row or argument) = John McEnroe"
-      }
-    ]
-  },
-  {
-    "id": "sportbusters-029",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Tiger Woods",
-        "aliases": [
-          "tiger woods"
-        ],
-        "reasoning": "tie-ger (tying a knot) + woods (wandered into the trees) = Tiger Woods"
-      },
-      {
-        "number": 2,
-        "answer": "Nick Faldo",
-        "aliases": [
-          "nick faldo"
-        ],
-        "reasoning": "nick (to nick, to steal) + fall + dough (unbaked bread dough) = Nick Faldo"
-      },
-      {
-        "number": 3,
-        "answer": "Andre Agassi",
-        "aliases": [
-          "andre agassi"
-        ],
-        "reasoning": "and-Ray (and Ray did it) + a-gassy (a gassy smell, a pong) = Andre Agassi"
-      }
-    ]
-  },
-  {
-    "id": "sportbusters-030",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "George Foreman",
-        "aliases": [
-          "george foreman"
-        ],
-        "reasoning": "gorge (gorging on food, overeating near a cliff gorge) + fore-man (a foreman, a supervisor) = George Foreman"
-      },
-      {
-        "number": 2,
-        "answer": "Muhammad Ali",
-        "aliases": [
-          "muhammad ali"
-        ],
-        "reasoning": "moo-ham (move the ham) + id + ah-lee (a Lee, bloke called Lee arrives) = Muhammad Ali"
-      },
-      {
-        "number": 3,
-        "answer": "Evander Holyfield",
-        "aliases": [
-          "evander holyfield"
-        ],
-        "reasoning": "even (all even, fair and square) + der + holy (religious, going to pray) + field (an open meadow) = Evander Holyfield"
-      }
-    ]
-  },
-  {
-    "id": "sportbusters-031",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Colin Montgomerie",
-        "aliases": [
-          "colin montgomerie"
-        ],
-        "reasoning": "calling (hollering for someone) + mount (a hill) + gum (chewing gum) + ery = Colin Montgomerie"
-      },
-      {
-        "number": 2,
-        "answer": "Sandy Lyle",
-        "aliases": [
-          "sandy lyle"
-        ],
-        "reasoning": "sandy (gritty like a beach, sandy underfoot) + lyle (liar, stretching the truth) = Sandy Lyle"
-      },
-      {
-        "number": 3,
-        "answer": "Bjorn Borg",
-        "aliases": [
-          "bjorn borg"
-        ],
-        "reasoning": "bjorn (born, came into the world) + borg (cyborg, machine parts) = Bjorn Borg"
-      }
-    ]
-  },
-  {
-    "id": "sportbusters-032",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Floyd Mayweather",
-        "aliases": [
-          "floyd mayweather"
-        ],
-        "reasoning": "Floyd + May (the month of May) + weather (checking the weather for rain) = Floyd Mayweather"
-      },
-      {
-        "number": 2,
-        "answer": "Joe Frazier",
-        "aliases": [
-          "joe frazier"
-        ],
-        "reasoning": "Joe + fray (fraying, unravelling at the edge) + zi-er = Joe Frazier"
-      },
-      {
-        "number": 3,
-        "answer": "Lennox Lewis",
-        "aliases": [
-          "lennox lewis"
-        ],
-        "reasoning": "Len (a fella called Len) + ox (a big ox) + Lewis (someone called Lewis) = Lennox Lewis"
-      }
-    ]
-  },
-  {
-    "id": "sportbusters-033",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Frank Bruno",
-        "aliases": [
-          "frank bruno"
-        ],
-        "reasoning": "frank (being honest and straight) + brew (a brew, a hot drink) + no (no tea in it, nothing) = Frank Bruno"
-      },
-      {
-        "number": 2,
-        "answer": "Seve Ballesteros",
-        "aliases": [
-          "seve ballesteros"
-        ],
-        "reasoning": "say + vay + ball (a ball rolling in) + uh + stereos (hi-fi equipment, stereos) = Seve Ballesteros"
-      },
-      {
-        "number": 3,
-        "answer": "Jimmy Connors",
-        "aliases": [
-          "jimmy connors"
-        ],
-        "reasoning": "jimmy (to jimmy a lock, force it open) + con (a criminal, a con) + ors = Jimmy Connors"
-      }
-    ]
-  },
-  {
-    "id": "sportbusters-034",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Amir Khan",
-        "aliases": [
-          "amir khan"
-        ],
-        "reasoning": "a-mere (a mere drop, barely anything) + can (a tin can) = Amir Khan"
-      },
-      {
-        "number": 2,
-        "answer": "Boris Becker",
-        "aliases": [
-          "boris becker"
-        ],
-        "reasoning": "bore-iss (boring, got dead dull) + beck-er (beckoning, waving someone over) = Boris Becker"
-      },
-      {
-        "number": 3,
-        "answer": "Pete Sampras",
-        "aliases": [
-          "pete sampras"
-        ],
-        "reasoning": "Pete + sam (some) + pras/grass (grass, green stuff from the mower) = Pete Sampras"
-      }
-    ]
-  },
-  {
-    "id": "sportbusters-035",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Steffi Graf",
-        "aliases": [
-          "steffi graf"
-        ],
-        "reasoning": "steffy (stuffy, fusty room) + graff (graph, a bar chart) = Steffi Graf"
-      },
-      {
-        "number": 2,
-        "answer": "Andre Agassi",
-        "aliases": [
-          "andre agassi"
-        ],
-        "reasoning": "and-Ray (and Ray caused it) + a-gassy (a gassy smell, it stinks) = Andre Agassi"
-      },
-      {
-        "number": 3,
-        "answer": "Tiger Woods",
-        "aliases": [
-          "tiger woods"
-        ],
-        "reasoning": "tie-ger (tying a knot) + woods (gone walkabout in the trees) = Tiger Woods"
-      }
-    ]
-  },
-  {
-    "id": "sportbusters-036",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "John McEnroe",
-        "aliases": [
-          "john mcenroe"
-        ],
-        "reasoning": "john (gone) + mac (waterproof coat, a mac) + en-roe (a roe, a big row/argument) = John McEnroe"
-      },
-      {
-        "number": 2,
-        "answer": "Nick Faldo",
-        "aliases": [
-          "nick faldo"
-        ],
-        "reasoning": "nick (stolen, nicked) + fall + dough (unbaked bread dough) = Nick Faldo"
-      },
-      {
-        "number": 3,
-        "answer": "George Foreman",
-        "aliases": [
-          "george foreman"
-        ],
-        "reasoning": "gorge (gorging on food near a gorge, a ravine) + fore-man (a foreman, a supervisor) = George Foreman"
-      }
-    ]
-  },
-  {
-    "id": "sportbusters-037",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Evander Holyfield",
-        "aliases": [
-          "evander holyfield"
-        ],
-        "reasoning": "even (level, all fair) + der + holy (going to pray, religious) + field (a big open field) = Evander Holyfield"
-      },
-      {
-        "number": 2,
-        "answer": "Bjorn Borg",
-        "aliases": [
-          "bjorn borg"
-        ],
-        "reasoning": "bjorn (born, brought into the world) + borg (borg, cyborg with mechanical parts) = Bjorn Borg"
-      },
-      {
-        "number": 3,
-        "answer": "Colin Montgomerie",
-        "aliases": [
-          "colin montgomerie"
-        ],
-        "reasoning": "calling (calling out) + mount (halfway up a hill) + gum (chewing gum) + ery = Colin Montgomerie"
-      }
-    ]
-  },
-  {
-    "id": "sportbusters-038",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Muhammad Ali",
-        "aliases": [
-          "muhammad ali"
-        ],
-        "reasoning": "moo-ham (moo, ham moved) + id + ah-lee (a Lee, a fella called Lee) = Muhammad Ali"
-      },
-      {
-        "number": 2,
-        "answer": "Frank Bruno",
-        "aliases": [
-          "frank bruno"
-        ],
-        "reasoning": "frank (straight, no-nonsense) + brew (hot drink, a brew) + no (no bag, nothing in it) = Frank Bruno"
-      },
-      {
-        "number": 3,
-        "answer": "Sandy Lyle",
-        "aliases": [
-          "sandy lyle"
-        ],
-        "reasoning": "sandy (gritty underfoot, sandy ground) + lyle (liar, telling porkies) = Sandy Lyle"
-      }
-    ]
-  },
-  {
-    "id": "sportbusters-039",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Joe Frazier",
-        "aliases": [
-          "joe frazier"
-        ],
-        "reasoning": "Joe + fray (fraying, coming apart at the sleeve edge) + zi-er = Joe Frazier"
-      },
-      {
-        "number": 2,
-        "answer": "Floyd Mayweather",
-        "aliases": [
-          "floyd mayweather"
-        ],
-        "reasoning": "Floyd + May (the month May) + weather (looking at clouds, checking the weather) = Floyd Mayweather"
-      },
-      {
-        "number": 3,
-        "answer": "Amir Khan",
-        "aliases": [
-          "amir khan"
-        ],
-        "reasoning": "a-mere (a mere trace, barely anything) + can (sealed in a tin can) = Amir Khan"
-      }
-    ]
-  },
-  {
-    "id": "sportbusters-040",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Lennox Lewis",
-        "aliases": [
-          "lennox lewis"
-        ],
-        "reasoning": "Len (a man called Len) + ox (an actual ox) + Lewis (someone called Lewis) = Lennox Lewis"
-      },
-      {
-        "number": 2,
-        "answer": "Seve Ballesteros",
-        "aliases": [
-          "seve ballesteros"
-        ],
-        "reasoning": "say + vay + ball (ball rolling in) + uh + stereos (room full of stereos) = Seve Ballesteros"
-      },
-      {
-        "number": 3,
-        "answer": "Jimmy Connors",
-        "aliases": [
-          "jimmy connors"
-        ],
-        "reasoning": "jimmy (jimmying a lock open) + con (a con artist) + ors = Jimmy Connors"
       }
     ]
   },

@@ -95,7 +95,7 @@
     - kelly holmes
     reasoning: Kelly (name) + homes (houses) = Kelly Holmes
 - id: sportbusters-004
-  enabled: true
+  enabled: false
   title: Sportbusters
   topic: famous sports personalities UK and beyond
   difficulty: medium
@@ -128,7 +128,7 @@
     - linford christie
     reasoning: Lin + ford (river crossing) + Chris + tee = Linford Christie
 - id: sportbusters-005
-  enabled: true
+  enabled: false
   title: Sportbusters
   topic: famous sports personalities UK and beyond
   difficulty: medium
@@ -160,7 +160,7 @@
     - carl lewis
     reasoning: Carl/Karl + loo (toilet) + is = Carl Lewis
 - id: sportbusters-006
-  enabled: true
+  enabled: false
   title: Sportbusters
   topic: famous sports personalities UK and beyond
   difficulty: medium
@@ -192,7 +192,7 @@
     - derek redmond
     reasoning: Derek + red + mond (round, like monde) = Derek Redmond
 - id: sportbusters-007
-  enabled: true
+  enabled: false
   title: Sportbusters
   topic: famous sports personalities UK and beyond
   difficulty: medium
@@ -224,7 +224,7 @@
     - andy murray
     reasoning: and + he (him there) + mur + ray... and + he + Murray = Andy Murray
 - id: sportbusters-008
-  enabled: true
+  enabled: false
   title: Sportbusters
   topic: famous sports personalities UK and beyond
   difficulty: medium
@@ -256,7 +256,7 @@
     - roger federer
     reasoning: Roger + fed (given dinner) + er + er = Roger Federer
 - id: sportbusters-009
-  enabled: true
+  enabled: false
   title: Sportbusters
   topic: famous sports personalities UK and beyond
   difficulty: medium
@@ -288,7 +288,7 @@
     - linford christie
     reasoning: Lin + ford (river crossing) + Chris + tee (Christmassy) = Linford Christie
 - id: sportbusters-010
-  enabled: true
+  enabled: false
   title: Sportbusters
   topic: famous sports personalities UK and beyond
   difficulty: medium
@@ -320,7 +320,7 @@
     - steve redgrave
     reasoning: Steve + red + grave = Steve Redgrave
 - id: sportbusters-011
-  enabled: true
+  enabled: false
   title: Sportbusters
   topic: famous sports personalities UK and beyond
   difficulty: medium
@@ -353,7 +353,7 @@
     - jessica ennis-hill
     reasoning: Jessica + in + is = Jessica Ennis
 - id: sportbusters-012
-  enabled: true
+  enabled: false
   title: Sportbusters
   topic: famous sports personalities UK and beyond
   difficulty: medium
@@ -385,7 +385,7 @@
     - mike tyson
     reasoning: mike (microphone) + tie (neckwear) + son = Mike Tyson
 - id: sportbusters-013
-  enabled: true
+  enabled: false
   title: Sportbusters
   topic: famous sports personalities UK and beyond
   difficulty: medium
@@ -417,7 +417,7 @@
     - denise lewis
     reasoning: den (animal's cave) + niece + Lewis... den + niece + is = Denise Lewis
 - id: sportbusters-014
-  enabled: true
+  enabled: false
   title: Sportbusters
   topic: famous sports personalities UK and beyond
   difficulty: medium
@@ -449,7 +449,7 @@
     - serena williams
     reasoning: sir (knight's title) + Reena + Williams = Serena Williams
 - id: sportbusters-015
-  enabled: true
+  enabled: false
   title: Sportbusters
   topic: famous sports personalities UK and beyond
   difficulty: medium
@@ -513,7 +513,7 @@
     - steve redgrave
     reasoning: Steve + red + grave = Steve Redgrave
 - id: sportbusters-017
-  enabled: true
+  enabled: false
   title: Sportbusters
   topic: famous sports personalities UK and beyond
   difficulty: medium
@@ -545,7 +545,7 @@
     - michael johnson
     reasoning: Michael (famous archangel) + John + son = Michael Johnson
 - id: sportbusters-018
-  enabled: true
+  enabled: false
   title: Sportbusters
   topic: famous sports personalities UK and beyond
   difficulty: medium
@@ -578,7 +578,7 @@
     - mike tyson
     reasoning: mike (recording device) + tie (cravat thing) + son = Mike Tyson
 - id: sportbusters-019
-  enabled: true
+  enabled: false
   title: Sportbusters
   topic: famous sports personalities UK and beyond
   difficulty: medium
@@ -610,7 +610,7 @@
     - jonathan edwards
     reasoning: Jonathan + Ed + wards (hospital wards) = Jonathan Edwards
 - id: sportbusters-020
-  enabled: true
+  enabled: false
   title: Sportbusters
   topic: famous sports personalities UK and beyond
   difficulty: medium
