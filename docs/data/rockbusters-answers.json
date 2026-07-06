@@ -1761,35 +1761,6 @@
     ]
   },
   {
-    "id": "footballbusters-005",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Thierry Henry",
-        "aliases": [
-          "thierry henry"
-        ],
-        "reasoning": "Thierry + hen + ry = Thierry Henry. Hen = hen party, Henry sounds like hen-ry"
-      },
-      {
-        "number": 2,
-        "answer": "Peter Schmeichel",
-        "aliases": [
-          "peter schmeichel"
-        ],
-        "reasoning": "Peter + schmei + chel = Peter Schmeichel. Schmeichel sounds like 'shmike-el' - like a blacksmith's michaelmas"
-      },
-      {
-        "number": 3,
-        "answer": "Jamie Vardy",
-        "aliases": [
-          "jamie vardy"
-        ],
-        "reasoning": "Jamie + var + dy = Jamie Vardy. Vardy sounds like 'lardy' or 'hardy' - phonetically var-dee"
-      }
-    ]
-  },
-  {
     "id": "holidaybusters-004",
     "clues": [
       {
@@ -6329,36 +6300,6 @@
     ]
   },
   {
-    "id": "footballbusters-018",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Pele",
-        "aliases": [
-          "pele",
-          "pelé"
-        ],
-        "reasoning": "Pee + lay = Pele. Pele sounds like 'peel-ay' - peeling + ay exclamation"
-      },
-      {
-        "number": 2,
-        "answer": "Thierry Henry",
-        "aliases": [
-          "thierry henry"
-        ],
-        "reasoning": "Terry + hen + ry = Thierry Henry. Thierry sounds like Terry, Henry = hen + ry"
-      },
-      {
-        "number": 3,
-        "answer": "Michael Owen",
-        "aliases": [
-          "michael owen"
-        ],
-        "reasoning": "Mike + ull + ow + en = Michael Owen. Michael = Mikey + ull, Owen = owin' = still owed"
-      }
-    ]
-  },
-  {
     "id": "holidaybusters-011",
     "clues": [
       {
@@ -7898,35 +7839,6 @@
     ]
   },
   {
-    "id": "footballbusters-009",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Steven Gerrard",
-        "aliases": [
-          "steven gerrard"
-        ],
-        "reasoning": "Steve + in + gear + rd = Steven Gerrard. Gear + ard = Gerrard, Steve + in = Steven"
-      },
-      {
-        "number": 2,
-        "answer": "Thierry Henry",
-        "aliases": [
-          "thierry henry"
-        ],
-        "reasoning": "Terry + hen + ry = Thierry Henry. Thierry sounds like 'Terry', Henry = hen + ry"
-      },
-      {
-        "number": 3,
-        "answer": "Michael Owen",
-        "aliases": [
-          "michael owen"
-        ],
-        "reasoning": "Mike + ell + ow + in = Michael Owen. Owen sounds like 'owin'' as in still owed money"
-      }
-    ]
-  },
-  {
     "id": "holidaybusters-012",
     "clues": [
       {
@@ -9412,35 +9324,6 @@
     ]
   },
   {
-    "id": "footballbusters-004",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Ryan Giggs",
-        "aliases": [
-          "ryan giggs"
-        ],
-        "reasoning": "Ry + an + giggs = Ryan Giggs. Giggs sounds like 'gigs' or a deep giggle in a gig"
-      },
-      {
-        "number": 2,
-        "answer": "Michael Owen",
-        "aliases": [
-          "michael owen"
-        ],
-        "reasoning": "Michael + ow + en = Michael Owen. Owen sounds like 'owin'' - as in owing money"
-      },
-      {
-        "number": 3,
-        "answer": "Bukayo Saka",
-        "aliases": [
-          "bukayo saka"
-        ],
-        "reasoning": "Boo-kay-oh + sack-a = Bukayo Saka. Saka sounds like 'sack-a' = put in a sack/bin"
-      }
-    ]
-  },
-  {
     "id": "holidaybusters-001",
     "clues": [
       {
@@ -10125,35 +10008,6 @@
           "goodfellas"
         ],
         "reasoning": "good (well-regarded) + fell (tripped over) + as (same height) = Goodfellas"
-      }
-    ]
-  },
-  {
-    "id": "footballbusters-015",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Marcus Rashford",
-        "aliases": [
-          "marcus rashford"
-        ],
-        "reasoning": "Marcus + rash + ford = Marcus Rashford. Rash = hasty/reckless, ford = shallow river crossing"
-      },
-      {
-        "number": 2,
-        "answer": "Bukayo Saka",
-        "aliases": [
-          "bukayo saka"
-        ],
-        "reasoning": "Boo + kay + oh + sack + a = Bukayo Saka. Boo = fright, kay = name, oh = exclamation, sack-a = put in sack"
-      },
-      {
-        "number": 3,
-        "answer": "Harry Kane",
-        "aliases": [
-          "harry kane"
-        ],
-        "reasoning": "Harry + cane = Harry Kane. Kane sounds exactly like cane - a stick you lean on"
       }
     ]
   },
@@ -10885,35 +10739,6 @@
     ]
   },
   {
-    "id": "footballbusters-020",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Jamie Vardy",
-        "aliases": [
-          "jamie vardy"
-        ],
-        "reasoning": "Jamie + var + dy = Jamie Vardy. Vardy rhymes with 'party' - celebration/last-minute winner energy"
-      },
-      {
-        "number": 2,
-        "answer": "Cristiano Ronaldo",
-        "aliases": [
-          "cristiano ronaldo"
-        ],
-        "reasoning": "Chris + tian + oh + Ron + aldo = Cristiano Ronaldo. Ron + roll + do = Ronaldo, Chris + tian + o = Cristiano"
-      },
-      {
-        "number": 3,
-        "answer": "Marcus Rashford",
-        "aliases": [
-          "marcus rashford"
-        ],
-        "reasoning": "Marcus + rash + ford = Marcus Rashford. Rash = impulsive rush, ford = shallow water crossing"
-      }
-    ]
-  },
-  {
     "id": "countrybusters-009",
     "clues": [
       {
@@ -11545,35 +11370,6 @@
           "volcanoes"
         ],
         "reasoning": "volcano (the mountain that erupts dramatically, blows its top) = Volcano"
-      }
-    ]
-  },
-  {
-    "id": "footballbusters-013",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Peter Schmeichel",
-        "aliases": [
-          "peter schmeichel"
-        ],
-        "reasoning": "Peter + sh + my + kel = Peter Schmeichel. Schmeichel sounds like 'sh-my-kel' = school of fish/shoal + Michael"
-      },
-      {
-        "number": 2,
-        "answer": "Paul Scholes",
-        "aliases": [
-          "paul scholes"
-        ],
-        "reasoning": "Paul + scholes = Paul Scholes. Scholes sounds like 'shoals' or 'coals' - a miner's scoop"
-      },
-      {
-        "number": 3,
-        "answer": "Dele Alli",
-        "aliases": [
-          "dele alli"
-        ],
-        "reasoning": "Del + ay + al + ee = Dele Alli. Dele sounds like 'del-ay', Alli sounds like 'al-ee' - Del's arty"
       }
     ]
   },
@@ -12263,35 +12059,6 @@
           "helium"
         ],
         "reasoning": "helium (the lightest noble gas, used in balloons) = Helium"
-      }
-    ]
-  },
-  {
-    "id": "footballbusters-019",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Ryan Giggs",
-        "aliases": [
-          "ryan giggs"
-        ],
-        "reasoning": "Ry + an + giggs = Ryan Giggs. Giggs sounds like the noise of slipping into gaps"
-      },
-      {
-        "number": 2,
-        "answer": "Paul Scholes",
-        "aliases": [
-          "paul scholes"
-        ],
-        "reasoning": "Paul + scholes = Paul Scholes. Scholes sounds like 'shoals' or 'coals' - pale fella in coal yard"
-      },
-      {
-        "number": 3,
-        "answer": "Dele Alli",
-        "aliases": [
-          "dele alli"
-        ],
-        "reasoning": "Del + ay + al + ee = Dele Alli. Dele = delay minus the y, Alli = alley/Ali"
       }
     ]
   },
@@ -14223,35 +13990,6 @@
           "temperature"
         ],
         "reasoning": "temperature (the measure of thermal energy, hot or cold) = Temperature"
-      }
-    ]
-  },
-  {
-    "id": "footballbusters-012",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Gary Lineker",
-        "aliases": [
-          "gary lineker"
-        ],
-        "reasoning": "Gary + line + ker = Gary Lineker. Line = straight mark, -ker suffix"
-      },
-      {
-        "number": 2,
-        "answer": "Harry Kane",
-        "aliases": [
-          "harry kane"
-        ],
-        "reasoning": "Harry + cane = Harry Kane. Cane = walking stick, Kane sounds exactly like cane"
-      },
-      {
-        "number": 3,
-        "answer": "Jamie Vardy",
-        "aliases": [
-          "jamie vardy"
-        ],
-        "reasoning": "Jamie + var + dy = Jamie Vardy. Vardy rhymes with 'hardy' or sounds like 'var-dee' - verdant/verdy"
       }
     ]
   },
@@ -16195,35 +15933,6 @@
           "evolution"
         ],
         "reasoning": "evolution (the process of gradual transformation over generations) = Evolution"
-      }
-    ]
-  },
-  {
-    "id": "footballbusters-010",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Frank Lampard",
-        "aliases": [
-          "frank lampard"
-        ],
-        "reasoning": "Frank + lamp + hard = Frank Lampard. Lamp = light source, hard = solid surface"
-      },
-      {
-        "number": 2,
-        "answer": "Alan Shearer",
-        "aliases": [
-          "alan shearer"
-        ],
-        "reasoning": "Alan + shear + er = Alan Shearer. Shear = cutting with scissors/clippers, -er = the person doing it"
-      },
-      {
-        "number": 3,
-        "answer": "Ryan Giggs",
-        "aliases": [
-          "ryan giggs"
-        ],
-        "reasoning": "Ry + an + giggs = Ryan Giggs. Giggs sounds like 'gigs' or the sound of falling into gaps"
       }
     ]
   },

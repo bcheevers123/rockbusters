@@ -95,7 +95,7 @@
     - paul scholes
     reasoning: Paul + scholes = Paul Scholes. Scholes sounds like 'shoals' or 'coals' - pale lad with coal
 - id: footballbusters-004
-  enabled: true
+  enabled: false
   title: Footballbusters
   topic: famous footballers British and international
   difficulty: medium
@@ -127,7 +127,7 @@
     - bukayo saka
     reasoning: Boo-kay-oh + sack-a = Bukayo Saka. Saka sounds like 'sack-a' = put in a sack/bin
 - id: footballbusters-005
-  enabled: true
+  enabled: false
   title: Footballbusters
   topic: famous footballers British and international
   difficulty: medium
@@ -256,7 +256,7 @@
     - bukayo saka
     reasoning: Boo + kay + oh + sack + a = Bukayo Saka. Saka sounds like 'sack-a' - packing into a sack
 - id: footballbusters-009
-  enabled: true
+  enabled: false
   title: Footballbusters
   topic: famous footballers British and international
   difficulty: medium
@@ -288,7 +288,7 @@
     - michael owen
     reasoning: Mike + ell + ow + in = Michael Owen. Owen sounds like 'owin'' as in still owed money
 - id: footballbusters-010
-  enabled: true
+  enabled: false
   title: Footballbusters
   topic: famous footballers British and international
   difficulty: medium
@@ -353,7 +353,7 @@
     - cristiano ronaldo
     reasoning: Chris + tee + an + oh + Ron + aldo = Cristiano Ronaldo. Ron + roll + do = Ronaldo, Chris + tian + o = Cristiano
 - id: footballbusters-012
-  enabled: true
+  enabled: false
   title: Footballbusters
   topic: famous footballers British and international
   difficulty: medium
@@ -385,7 +385,7 @@
     - jamie vardy
     reasoning: Jamie + var + dy = Jamie Vardy. Vardy rhymes with 'hardy' or sounds like 'var-dee' - verdant/verdy
 - id: footballbusters-013
-  enabled: true
+  enabled: false
   title: Footballbusters
   topic: famous footballers British and international
   difficulty: medium
@@ -449,7 +449,7 @@
     - ronaldinho
     reasoning: Ron + ald + in + oh = Ronaldinho. Ron + ald + in + ho = Ronaldinho. Din + ho = dinho
 - id: footballbusters-015
-  enabled: true
+  enabled: false
   title: Footballbusters
   topic: famous footballers British and international
   difficulty: medium
@@ -545,7 +545,7 @@
     - wayne rooney
     reasoning: Wayne + roon + ey = Wayne Rooney. Rooney rhymes with loony/moony - doolally on the roundabout
 - id: footballbusters-018
-  enabled: true
+  enabled: false
   title: Footballbusters
   topic: famous footballers British and international
   difficulty: medium
@@ -578,7 +578,7 @@
     - michael owen
     reasoning: Mike + ull + ow + en = Michael Owen. Michael = Mikey + ull, Owen = owin' = still owed
 - id: footballbusters-019
-  enabled: true
+  enabled: false
   title: Footballbusters
   topic: famous footballers British and international
   difficulty: medium
@@ -610,7 +610,7 @@
     - dele alli
     reasoning: Del + ay + al + ee = Dele Alli. Dele = delay minus the y, Alli = alley/Ali
 - id: footballbusters-020
-  enabled: true
+  enabled: false
   title: Footballbusters
   topic: famous footballers British and international
   difficulty: medium
