@@ -981,7 +981,7 @@
     - denali
     reasoning: 'den (a room a fella lives in) + Ali (a name, or sounds like ''Lee'' appended: den-ali) = den-ali = Denali'
 - id: bookbusters-018
-  enabled: true
+  enabled: false
   title: Bookbusters
   topic: books authors and literary characters
   difficulty: medium
@@ -3459,7 +3459,7 @@
     - manaslu
     reasoning: man (a bloke) + as (could've been) + loo (a toilet) = man-as-loo = Manaslu
 - id: bookbusters-010
-  enabled: true
+  enabled: false
   title: Bookbusters
   topic: books authors and literary characters
   difficulty: medium
@@ -5947,7 +5947,7 @@
     - nanga parbat
     reasoning: nanga (sounds like 'nang-a', a nothing-word) + par (an equal score, like in golf) + bat (a cricket bat or similar) = nanga-par-bat = Nanga Parbat
 - id: bookbusters-008
-  enabled: true
+  enabled: false
   title: Bookbusters
   topic: books authors and literary characters
   difficulty: medium
@@ -7957,7 +7957,7 @@
     - water lily
     reasoning: wart (a verruca-type growth) + er (the sound) + Lil (a woman's name) + ies = wart-er-Lil-ies = Water Lilies.
 - id: bookbusters-020
-  enabled: true
+  enabled: false
   title: Bookbusters
   topic: books authors and literary characters
   difficulty: medium
@@ -9095,7 +9095,7 @@
     - damien hirst
     reasoning: day (as in Wednesday, a day) + me (I, myself) + in (into/at) + Hurst (a place name similar to Hirst) = day-me-in-Hurst = Damien Hirst.
 - id: bookbusters-004
-  enabled: true
+  enabled: false
   title: Bookbusters
   topic: books authors and literary characters
   difficulty: medium
@@ -27319,7 +27319,7 @@
     - gandalf
     reasoning: grand + Alf (bloke's name) = Gandalf
 - id: bookbusters-005
-  enabled: true
+  enabled: false
   title: Bookbusters
   topic: books authors and literary characters
   difficulty: medium
@@ -27420,7 +27420,7 @@
     - voldemort
     reasoning: vole (small animal) + de + mort (death, French) = Voldemort
 - id: bookbusters-009
-  enabled: true
+  enabled: false
   title: Bookbusters
   topic: books authors and literary characters
   difficulty: medium
@@ -27454,7 +27454,7 @@
     - scrooge
     reasoning: ebb + knee + zer + Scrooge = Ebenezer Scrooge
 - id: bookbusters-011
-  enabled: true
+  enabled: false
   title: Bookbusters
   topic: books authors and literary characters
   difficulty: medium
@@ -27488,7 +27488,7 @@
     - fagin
     reasoning: fay (fairy/magical creature) + gin = Fagin
 - id: bookbusters-012
-  enabled: true
+  enabled: false
   title: Bookbusters
   topic: books authors and literary characters
   difficulty: medium
@@ -27524,7 +27524,7 @@
     - elizabeth bennett
     reasoning: Eliza + bath + Ben + net = Elizabeth Bennet
 - id: bookbusters-013
-  enabled: true
+  enabled: false
   title: Bookbusters
   topic: books authors and literary characters
   difficulty: medium
@@ -27558,7 +27558,7 @@
     - mister darcy
     reasoning: mister + dark + sea = Mr Darcy
 - id: bookbusters-014
-  enabled: true
+  enabled: false
   title: Bookbusters
   topic: books authors and literary characters
   difficulty: medium
@@ -27593,7 +27593,7 @@
     - frodo
     reasoning: fro + doe + bag + ins = Frodo Baggins
 - id: bookbusters-015
-  enabled: true
+  enabled: false
   title: Bookbusters
   topic: books authors and literary characters
   difficulty: medium
@@ -27626,7 +27626,7 @@
     - heathcliff
     reasoning: heath + cliff = Heathcliff
 - id: bookbusters-016
-  enabled: true
+  enabled: false
   title: Bookbusters
   topic: books authors and literary characters
   difficulty: medium
@@ -27660,7 +27660,7 @@
     - scrooge
     reasoning: ebb + knee + zer + Scrooge = Ebenezer Scrooge
 - id: bookbusters-017
-  enabled: true
+  enabled: false
   title: Bookbusters
   topic: books authors and literary characters
   difficulty: medium
@@ -27694,7 +27694,7 @@
     - captain hook
     reasoning: cap + tin + hook = Captain Hook
 - id: bookbusters-019
-  enabled: true
+  enabled: false
   title: Bookbusters
   topic: books authors and literary characters
   difficulty: medium
