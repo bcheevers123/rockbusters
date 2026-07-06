@@ -194,7 +194,7 @@
   - number: 2
     initials: H
     clue: A fella's doing a bit of hover-craft manoeuvring and he's going over something. Just passed right over it.
-    answer: Hoover
+    answer: Dyson
     aliases:
     - hoover
     reasoning: hoo (sounds like 'who', or the hover sound) + ver (over, passed over something) = Hoo-ver = Hoover
@@ -301,7 +301,7 @@
   - number: 2
     initials: P
     clue: There's a fella called Pear and he's gone to Italy and got a bit wriggly. Quite animated. Pear but Italian and wriggling.
-    answer: Pirelli
+    answer: Ferrari
     aliases:
     - pirelli
     reasoning: pir (sounds like 'peer' or 'pear') + elli (Italian name ending, sounds like 'elly', wriggly) = Pir-elli = Pirelli
@@ -467,7 +467,7 @@
   - number: 1
     initials: T
     clue: Two people have been placed inside some containers. Very snug. Lids on. They seem alright about it.
-    answer: Tupperware
+    answer: Thermos
     aliases:
     - tupperware
     reasoning: tupper (sounds like 'two per', two people in each) + ware (vessels, containers) = Tupper-ware = Tupperware
@@ -482,7 +482,7 @@
   - number: 3
     initials: H
     clue: A bloke's doing something with a hover machine over a surface. Just passing over it. Hover and over. That's the thing.
-    answer: Hoover
+    answer: Dyson
     aliases:
     - hoover
     reasoning: hoo (the sound of the hover machine) + ver (over, passing over a surface) = Hoo-ver = Hoover
@@ -518,7 +518,7 @@
   - number: 3
     initials: P
     clue: There's a long pointed thing - like a spike - and it's gone and got itself round someone's wrist. Italian. Very round.
-    answer: Pirelli
+    answer: Ferrari
     aliases:
     - pirelli
     reasoning: pir (sounds like 'pier', a long pointed structure) + elli (sounds like 'elly', winding round) = Pir-elli = Pirelli
@@ -642,7 +642,7 @@
   - number: 1
     initials: B
     clue: Right, a bunch of people have all received a generous allocation. A good helping of something. A ton of benefit. All of them.
-    answer: Benetton
+    answer: Prada
     aliases:
     - benetton
     - united colors of benetton

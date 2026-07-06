@@ -7447,8 +7447,9 @@
       },
       {
         "number": 2,
-        "answer": "Hoover",
+        "answer": "Dyson",
         "aliases": [
+          "dyson",
           "hoover"
         ],
         "reasoning": "hoo (sounds like 'who', or the hover sound) + ver (over, passed over something) = Hoo-ver = Hoover"
@@ -8393,8 +8394,9 @@
     "clues": [
       {
         "number": 1,
-        "answer": "Tupperware",
+        "answer": "Thermos",
         "aliases": [
+          "thermos",
           "tupperware"
         ],
         "reasoning": "tupper (sounds like 'two per', two people in each) + ware (vessels, containers) = Tupper-ware = Tupperware"
@@ -8410,8 +8412,9 @@
       },
       {
         "number": 3,
-        "answer": "Hoover",
+        "answer": "Dyson",
         "aliases": [
+          "dyson",
           "hoover"
         ],
         "reasoning": "hoo (the sound of the hover machine) + ver (over, passing over a surface) = Hoo-ver = Hoover"
@@ -10203,8 +10206,9 @@
     "clues": [
       {
         "number": 1,
-        "answer": "Benetton",
+        "answer": "Prada",
         "aliases": [
+          "prada",
           "benetton",
           "united colors of benetton"
         ],
@@ -11091,8 +11095,9 @@
       },
       {
         "number": 3,
-        "answer": "Pirelli",
+        "answer": "Ferrari",
         "aliases": [
+          "ferrari",
           "pirelli"
         ],
         "reasoning": "pir (sounds like 'pier', a long pointed structure) + elli (sounds like 'elly', winding round) = Pir-elli = Pirelli"
@@ -15144,8 +15149,9 @@
       },
       {
         "number": 2,
-        "answer": "Pirelli",
+        "answer": "Ferrari",
         "aliases": [
+          "ferrari",
           "pirelli"
         ],
         "reasoning": "pir (sounds like 'peer' or 'pear') + elli (Italian name ending, sounds like 'elly', wriggly) = Pir-elli = Pirelli"
