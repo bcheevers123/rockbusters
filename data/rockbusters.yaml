@@ -34919,7 +34919,7 @@
     - dave
     reasoning: 'Dave = Dave (TV channel). ''Dave'' is a very ordinary bloke''s name. Scene: a channel for regular fellas called Dave.'
 - id: mediabusters-008
-  enabled: true
+  enabled: false
   title: Mediabusters
   topic: British newspapers, magazines, TV channels, and radio stations
   difficulty: medium
@@ -34983,7 +34983,7 @@
     - news of the world
     reasoning: 'News + of + the + World = News of the World. ''News'' + ''of the World'' (globally significant). Scene: worldwide news breaking on a Sunday paper.'
 - id: mediabusters-010
-  enabled: true
+  enabled: false
   title: Mediabusters
   topic: British newspapers, magazines, TV channels, and radio stations
   difficulty: medium
@@ -35111,7 +35111,7 @@
     - radio times
     reasoning: 'Radio + Times = Radio Times. ''Radio'' (broadcasting) + ''Times'' (scheduled times). Scene: a printed timetable of all radio programmes.'
 - id: mediabusters-014
-  enabled: true
+  enabled: false
   title: Mediabusters
   topic: British newspapers, magazines, TV channels, and radio stations
   difficulty: medium
@@ -35143,7 +35143,7 @@
     - alibi
     reasoning: 'Alibi = Alibi (TV channel). ''Al-i-bi'' sounds like having a confirmed excuse. Scene: someone with a rock-solid alibi for not being at the scene.'
 - id: mediabusters-015
-  enabled: true
+  enabled: false
   title: Mediabusters
   topic: British newspapers, magazines, TV channels, and radio stations
   difficulty: medium
@@ -35239,7 +35239,7 @@
     - dave
     reasoning: 'Dave = Dave (TV channel). ''Dave'' is an archetypal ordinary bloke''s name. Scene: a TV channel so ordinary, it''s named after the most ordinary name going.'
 - id: mediabusters-018
-  enabled: true
+  enabled: false
   title: Mediabusters
   topic: British newspapers, magazines, TV channels, and radio stations
   difficulty: medium

@@ -24061,35 +24061,6 @@
     ]
   },
   {
-    "id": "mediabusters-008",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Sky One",
-        "aliases": [
-          "sky one"
-        ],
-        "reasoning": "Sky + One = Sky One. 'Sky' (what's up above) + 'One' (the first). Scene: looking up at the sky and it being the number one view."
-      },
-      {
-        "number": 2,
-        "answer": "Take a Break",
-        "aliases": [
-          "take a break"
-        ],
-        "reasoning": "Take + a + Break = Take a Break. 'Take a break' is a common phrase meaning to have a rest. Scene: someone pausing for a small rest."
-      },
-      {
-        "number": 3,
-        "answer": "Closer",
-        "aliases": [
-          "closer"
-        ],
-        "reasoning": "Closer = Closer (magazine). 'Closer' means nearer. Scene: someone getting unexpectedly close to another person."
-      }
-    ]
-  },
-  {
     "id": "mediabusters-009",
     "clues": [
       {
@@ -24115,35 +24086,6 @@
           "news of the world"
         ],
         "reasoning": "News + of + the + World = News of the World. 'News' + 'of the World' (globally significant). Scene: worldwide news breaking on a Sunday paper."
-      }
-    ]
-  },
-  {
-    "id": "mediabusters-010",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Alibi",
-        "aliases": [
-          "alibi"
-        ],
-        "reasoning": "Alibi = Alibi (TV channel). 'Alibi' is a word for a secret defence, where you were when the crime happened. Scene: a channel all about secrets and crime."
-      },
-      {
-        "number": 2,
-        "answer": "The Express",
-        "aliases": [
-          "the express"
-        ],
-        "reasoning": "The + Express = The Express. 'Express' (direct, fast, clear). Scene: a very direct letter delivered quickly and without ambiguity."
-      },
-      {
-        "number": 3,
-        "answer": "Sunday Sport",
-        "aliases": [
-          "sunday sport"
-        ],
-        "reasoning": "Sunday + Sport = Sunday Sport. 'Sunday' (day of the week) + 'Sport' (athletic activities). Scene: a sports-only Sunday newspaper."
       }
     ]
   },
@@ -24235,64 +24177,6 @@
     ]
   },
   {
-    "id": "mediabusters-014",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "TV Times",
-        "aliases": [
-          "tv times"
-        ],
-        "reasoning": "TV + Times = TV Times. Tee-Vee + Times (schedule). Scene: a printed television schedule covering all the programmes."
-      },
-      {
-        "number": 2,
-        "answer": "ITV",
-        "aliases": [
-          "itv"
-        ],
-        "reasoning": "I + TV = ITV. 'I' (me) + 'TV' (television). Scene: a person finding a television and them both looking at each other."
-      },
-      {
-        "number": 3,
-        "answer": "Alibi",
-        "aliases": [
-          "alibi"
-        ],
-        "reasoning": "Alibi = Alibi (TV channel). 'Al-i-bi' sounds like having a confirmed excuse. Scene: someone with a rock-solid alibi for not being at the scene."
-      }
-    ]
-  },
-  {
-    "id": "mediabusters-015",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "The Times",
-        "aliases": [
-          "the times"
-        ],
-        "reasoning": "The + Times = The Times. 'Times' (moments in time, a schedule of events). Scene: a newspaper recording exactly when things happened."
-      },
-      {
-        "number": 2,
-        "answer": "Magic FM",
-        "aliases": [
-          "magic fm"
-        ],
-        "reasoning": "Magic + FM = Magic FM. 'Magic' (conjuring, tricks) + FM (radio). Scene: a magician performing on a radio station."
-      },
-      {
-        "number": 3,
-        "answer": "Closer",
-        "aliases": [
-          "closer"
-        ],
-        "reasoning": "Closer = Closer (magazine). 'Closer' (moving nearer). Scene: someone leaning in to get a closer look at something."
-      }
-    ]
-  },
-  {
     "id": "mediabusters-016",
     "clues": [
       {
@@ -24347,35 +24231,6 @@
           "dave"
         ],
         "reasoning": "Dave = Dave (TV channel). 'Dave' is an archetypal ordinary bloke's name. Scene: a TV channel so ordinary, it's named after the most ordinary name going."
-      }
-    ]
-  },
-  {
-    "id": "mediabusters-018",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Take a Break",
-        "aliases": [
-          "take a break"
-        ],
-        "reasoning": "Take + a + Break = Take a Break. 'Take a break' said naturally. Scene: someone being told to take a short rest."
-      },
-      {
-        "number": 2,
-        "answer": "News of the World",
-        "aliases": [
-          "news of the world"
-        ],
-        "reasoning": "News + of + the + World = News of the World. Scene: a story so big, the whole world heard about it. Published on Sundays."
-      },
-      {
-        "number": 3,
-        "answer": "Gold",
-        "aliases": [
-          "gold"
-        ],
-        "reasoning": "Gold = Gold (TV channel). 'Gold' (precious, classic, old). Scene: a channel described as being full of golden, classic programmes."
       }
     ]
   },

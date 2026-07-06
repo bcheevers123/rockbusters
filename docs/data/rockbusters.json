@@ -24439,36 +24439,6 @@
     ]
   },
   {
-    "id": "mediabusters-008",
-    "enabled": true,
-    "title": "Mediabusters",
-    "topic": "British newspapers, magazines, TV channels, and radio stations",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Right then, Mediabusters eight. Three phonetic clues. British media outlets hidden in silly sentences.",
-    "prize": "Email in. Winner gets a Woolworths carrier bag with a Pick 'n' Mix stain and a keyfob.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "S O",
-        "clue": "That sky up there, right, the first thing you see when you look up. Number one sky thing."
-      },
-      {
-        "number": 2,
-        "initials": "T A B",
-        "clue": "Right, she needed a little rest. So she took one. Just a small one mind. Brief stop."
-      },
-      {
-        "number": 3,
-        "initials": "C",
-        "clue": "She's got nearer to him than anyone expected. Didn't see that coming. Bit close that."
-      }
-    ]
-  },
-  {
     "id": "mediabusters-009",
     "enabled": true,
     "title": "Mediabusters",
@@ -24495,36 +24465,6 @@
         "number": 3,
         "initials": "N O T W",
         "clue": "That story broke on a Sunday. Very big news. The whole world heard about it that particular day of the week."
-      }
-    ]
-  },
-  {
-    "id": "mediabusters-010",
-    "enabled": true,
-    "title": "Mediabusters",
-    "topic": "British newspapers, magazines, TV channels, and radio stations",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Mediabusters. Three British media names in phonetic disguise. Say them out loud.",
-    "prize": "Email in. Winner gets a Virgin Media remote control with no batteries and a Findus Crispy Pancake recipe card.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "A",
-        "clue": "That detective channel, right, it's like something secret's going on. You'd never suspect it."
-      },
-      {
-        "number": 2,
-        "initials": "T E",
-        "clue": "Someone put a note through the door and it read out the whole thing. Right to the end. No messing about."
-      },
-      {
-        "number": 3,
-        "initials": "S S",
-        "clue": "They only print the sporty stuff on a Sunday. Nothing else. Just the sport. Bit limited really."
       }
     ]
   },
@@ -24619,66 +24559,6 @@
     ]
   },
   {
-    "id": "mediabusters-014",
-    "enabled": true,
-    "title": "Mediabusters",
-    "topic": "British newspapers, magazines, TV channels, and radio stations",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Right, fourteen in. Three more scrambled British media outlets. Listen for the sounds.",
-    "prize": "Email in. Winner gets a signed copy of the Argos catalogue, Christmas 2001 edition.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "T T",
-        "clue": "They listed every single programme going. Telly. The lot. Printed it all in a little mag."
-      },
-      {
-        "number": 2,
-        "initials": "I T V",
-        "clue": "Me, right, I've gone and found a telly. Just the two of us. Staring at each other."
-      },
-      {
-        "number": 3,
-        "initials": "A",
-        "clue": "He had a cast-iron reason why he wasn't there. Wasn't him. Had proof an' all."
-      }
-    ]
-  },
-  {
-    "id": "mediabusters-015",
-    "enabled": true,
-    "title": "Mediabusters",
-    "topic": "British newspapers, magazines, TV channels, and radio stations",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Mediabusters. British media, phonetic clues, silly scenes. Off you go.",
-    "prize": "Email in. Winner gets a Littlewoods catalogue with some pages already filled in by the previous owner.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "T T",
-        "clue": "Right, they published exactly when everything happened. Down to the minute. The times of it all."
-      },
-      {
-        "number": 2,
-        "initials": "M F M",
-        "clue": "That conjuror pulled something out of nowhere and it was brilliant. Said a few words and there it was."
-      },
-      {
-        "number": 3,
-        "initials": "C",
-        "clue": "She moved right in close. Said she wanted a better look. Very near now."
-      }
-    ]
-  },
-  {
     "id": "mediabusters-016",
     "enabled": true,
     "title": "Mediabusters",
@@ -24735,36 +24615,6 @@
         "number": 3,
         "initials": "D",
         "clue": "That channel's for ordinary blokes, isn't it. Bloke called Dave would be right at home. Sort of works."
-      }
-    ]
-  },
-  {
-    "id": "mediabusters-018",
-    "enabled": true,
-    "title": "Mediabusters",
-    "topic": "British newspapers, magazines, TV channels, and radio stations",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Mediabusters. Three more British media names in phonetic disguise. Say them out loud.",
-    "prize": "Email in. Winner gets a VHS copy of You've Been Framed recorded over an episode of Neighbours.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "T A B",
-        "clue": "Right, she was tired. Someone told her to have a rest. So she did. Brief one mind."
-      },
-      {
-        "number": 2,
-        "initials": "N O T W",
-        "clue": "Big story, this. Not local, not national. The whole globe found out on a Sunday morning."
-      },
-      {
-        "number": 3,
-        "initials": "G",
-        "clue": "That channel's dug up loads of brilliant old stuff. Like treasure, it is. Worth its weight."
       }
     ]
   },
