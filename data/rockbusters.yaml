@@ -811,7 +811,7 @@
     - lincoln
     reasoning: Abra (sounds like 'a-bra') + ham (the meat) = Abraham, and link (a connection) + on (continuing) = Lincoln. Ay-bra-ham Link-on = Abraham Lincoln
 - id: ukgeographybusters-019
-  enabled: true
+  enabled: false
   title: Ukplacesbusters
   topic: British town and village names with funny or unusual pronunciations
   difficulty: easy
@@ -5780,7 +5780,7 @@
     - fdr
     reasoning: frank (honest, or the name) + lin (sound) = Franklin, and rose (the flower) + uh + velt (sounds like 'felt') = Roosevelt. Frank-lin Roze-uh-velt = Franklin Roosevelt
 - id: ukgeographybusters-015
-  enabled: true
+  enabled: false
   title: Ukplacesbusters
   topic: British town and village names with funny or unusual pronunciations
   difficulty: easy
@@ -7889,7 +7889,7 @@
     - lucozade
     reasoning: loo (toilet) + co (company prefix) + zade = lucozade = Lucozade
 - id: ukgeographybusters-003
-  enabled: true
+  enabled: false
   title: Ukplacesbusters
   topic: British town and village names with funny or unusual pronunciations
   difficulty: easy
@@ -9030,7 +9030,7 @@
     - pimm's
     reasoning: Pim (short for Pimm, a name) + ms = Pimms = Pimm's
 - id: ukgeographybusters-011
-  enabled: true
+  enabled: false
   title: Ukplacesbusters
   topic: British town and village names with funny or unusual pronunciations
   difficulty: easy
@@ -11246,7 +11246,7 @@
     - peroni
     reasoning: per (Italian prefix, by way of) + oni (sounds like pony minus the p) = per-oni = Peroni
 - id: ukgeographybusters-018
-  enabled: true
+  enabled: false
   title: Ukplacesbusters
   topic: British town and village names with funny or unusual pronunciations
   difficulty: easy
@@ -12332,7 +12332,7 @@
     - iron bru
     reasoning: irn (iron, as said in a Scottish accent) + bru (brew, a drink) = Irn-Bru
 - id: ukgeographybusters-012
-  enabled: true
+  enabled: false
   title: Ukplacesbusters
   topic: British town and village names with funny or unusual pronunciations
   difficulty: easy
@@ -13408,7 +13408,7 @@
     - carlsberg
     reasoning: carls (Carl's, possessive of the name Carl) + berg (mountain, iceberg) = Carlsberg
 - id: ukgeographybusters-013
-  enabled: true
+  enabled: false
   title: Ukplacesbusters
   topic: British town and village names with funny or unusual pronunciations
   difficulty: easy
@@ -14478,7 +14478,7 @@
     - bailey's
     reasoning: bail (to bail out, get a deal) + eys = bail-eys = Baileys
 - id: ukgeographybusters-001
-  enabled: true
+  enabled: false
   title: Ukplacesbusters
   topic: British town and village names with funny or unusual pronunciations
   difficulty: easy
@@ -15484,7 +15484,7 @@
     - lucozade
     reasoning: lucos (sounds like 'looks as') + ade (like lemonade, a drink) = Lucozade
 - id: ukgeographybusters-017
-  enabled: true
+  enabled: false
   title: Ukplacesbusters
   topic: British town and village names with funny or unusual pronunciations
   difficulty: easy
@@ -17359,7 +17359,7 @@
     - vimto
     reasoning: vim (energy, vigour) + to (a direction) = vimto = Vimto
 - id: ukgeographybusters-002
-  enabled: true
+  enabled: false
   title: Ukplacesbusters
   topic: British town and village names with funny or unusual pronunciations
   difficulty: easy
@@ -18294,7 +18294,7 @@
     - san miguel
     reasoning: san (saint) + miguel (Michael in Spanish) = San Miguel
 - id: ukgeographybusters-010
-  enabled: true
+  enabled: false
   title: Ukplacesbusters
   topic: British town and village names with funny or unusual pronunciations
   difficulty: easy
@@ -19238,7 +19238,7 @@
     - strongbow
     reasoning: strong (powerful) + bow (archery bow) = Strongbow
 - id: ukgeographybusters-007
-  enabled: true
+  enabled: false
   title: Ukplacesbusters
   topic: British town and village names with funny or unusual pronunciations
   difficulty: easy
@@ -22070,7 +22070,7 @@
     - carlsberg
     reasoning: carl (a mechanic's name) + s + berg (Swedish/Danish for mountain, flat-pack-ish) = Carlsberg
 - id: ukgeographybusters-005
-  enabled: true
+  enabled: false
   title: Ukplacesbusters
   topic: British town and village names with funny or unusual pronunciations
   difficulty: easy
@@ -23010,7 +23010,7 @@
     - bailey's
     reasoning: bail (to leave, or a bail of hay) + eys = bail-eys = Baileys
 - id: ukgeographybusters-004
-  enabled: true
+  enabled: false
   title: Ukplacesbusters
   topic: British town and village names with funny or unusual pronunciations
   difficulty: easy
@@ -23946,7 +23946,7 @@
     - vimto
     reasoning: vim (vigour, taking over) + to = vimto = Vimto
 - id: ukgeographybusters-020
-  enabled: true
+  enabled: false
   title: Ukplacesbusters
   topic: British town and village names with funny or unusual pronunciations
   difficulty: easy

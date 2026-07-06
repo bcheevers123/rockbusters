@@ -577,36 +577,6 @@
     ]
   },
   {
-    "id": "ukgeographybusters-019",
-    "enabled": true,
-    "title": "Ukplacesbusters",
-    "topic": "British town and village names with funny or unusual pronunciations",
-    "difficulty": "easy",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "These are all genuine places in England. They just sound a bit funny when you break them down properly.",
-    "prize": "Email in. Winner gets a Tamagotchi with a nearly dead battery and a sticker book from a service station.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "H",
-        "clue": "Big animal. Four legs. And someone's gone and put a load of cured meat on its back. Why would you do that."
-      },
-      {
-        "number": 2,
-        "initials": "M",
-        "clue": "There's a young woman who works in a big house. Cleaning and that. And she's chosen to stand on a large rock. Her decision."
-      },
-      {
-        "number": 3,
-        "initials": "S",
-        "clue": "Bloke's name is Steve. He's been around a while. Got older. Not ancient, but a fair few years on him now."
-      }
-    ]
-  },
-  {
     "id": "pastabusters-003",
     "enabled": true,
     "title": "Pastabusters",
@@ -4766,36 +4736,6 @@
     ]
   },
   {
-    "id": "ukgeographybusters-015",
-    "enabled": true,
-    "title": "Ukplacesbusters",
-    "topic": "British town and village names with funny or unusual pronunciations",
-    "difficulty": "easy",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "All real British places. Broken down into sounds so they mean something completely different. Say them out loud.",
-    "prize": "Email in. Winner gets a portable CD player with a scratched lid and a birthday card from a brand that only sells in petrol stations.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "L",
-        "clue": "There's a marshy ditch. Bit boggy. And the person who lives nearby reckons it's worth something. Has value."
-      },
-      {
-        "number": 2,
-        "initials": "E",
-        "clue": "Everything's happening on the eastern side. And someone over there has just had a baby. Big event."
-      },
-      {
-        "number": 3,
-        "initials": "W",
-        "clue": "Someone is sharp. Got their wits about them. And they've got their horse tucked up safely in the barn."
-      }
-    ]
-  },
-  {
     "id": "pastabusters-002",
     "enabled": true,
     "title": "Pastabusters",
@@ -6621,36 +6561,6 @@
     ]
   },
   {
-    "id": "ukgeographybusters-003",
-    "enabled": true,
-    "title": "Ukplacesbusters",
-    "topic": "British town and village names with funny or unusual pronunciations",
-    "difficulty": "easy",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Ukplacesbusters time. Three British place names in there somewhere. Have a think, say them out loud.",
-    "prize": "Email in. Winner gets a set of AOL trial discs and a novelty pen shaped like the Eiffel Tower.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "S",
-        "clue": "There's a bloke called Steve and he's getting on a bit now. Not old old, but you know. A certain number of years."
-      },
-      {
-        "number": 2,
-        "initials": "G",
-        "clue": "Someone's gone and covered everything in gold. All shiny. And now they're wading across a shallow bit of a river."
-      },
-      {
-        "number": 3,
-        "initials": "W",
-        "clue": "This bloke reckons he deserves something. He's entitled to it. He's been at it for a while now and he wants recognition."
-      }
-    ]
-  },
-  {
     "id": "artbusters-014",
     "enabled": true,
     "title": "Artbusters",
@@ -7567,36 +7477,6 @@
         "number": 3,
         "initials": "P",
         "clue": "Right, it's about this garden party thing. Loads of cucumber. Loads of mint. Bloke in a blazer standing near a jug."
-      }
-    ]
-  },
-  {
-    "id": "ukgeographybusters-011",
-    "enabled": true,
-    "title": "Ukplacesbusters",
-    "topic": "British town and village names with funny or unusual pronunciations",
-    "difficulty": "easy",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Three British place names in there. You'll get them once you say the clues out loud properly.",
-    "prize": "Email in. Winner gets a magazine from 2002 that was left in a dentist's waiting room and a broken pedometer.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "H",
-        "clue": "A big horse. And on its back there's a load of cured pork. Just piled on. Someone's done this on purpose."
-      },
-      {
-        "number": 2,
-        "initials": "S",
-        "clue": "There's a bloke, Steve his name is. And he's not getting any younger. Reached a point in his life, you know. An age."
-      },
-      {
-        "number": 3,
-        "initials": "S",
-        "clue": "Someone counted them up. There are seven of them. All the same type of tree. Just the seven. Standing in a field."
       }
     ]
   },
@@ -9502,36 +9382,6 @@
     ]
   },
   {
-    "id": "ukgeographybusters-018",
-    "enabled": true,
-    "title": "Ukplacesbusters",
-    "topic": "British town and village names with funny or unusual pronunciations",
-    "difficulty": "easy",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "All British place names. The sounds are doing the work here, not the spellings.",
-    "prize": "Email in. Winner gets a box set of a show that was cancelled after one series and a branded water bottle that leaks.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "L S",
-        "clue": "Someone's really leaning into something. They're committed to it, absolutely going on about it. And at the end of a long week there's a spa waiting."
-      },
-      {
-        "number": 2,
-        "initials": "W",
-        "clue": "Woke up this morning. Properly awake now. And just kept going from there."
-      },
-      {
-        "number": 3,
-        "initials": "F",
-        "clue": "All the people round here got together and found a really lovely deep sound. A note. Appreciated it a lot."
-      }
-    ]
-  },
-  {
     "id": "artbusters-016",
     "enabled": true,
     "title": "Artbusters",
@@ -10391,36 +10241,6 @@
     ]
   },
   {
-    "id": "ukgeographybusters-012",
-    "enabled": true,
-    "title": "Ukplacesbusters",
-    "topic": "British town and village names with funny or unusual pronunciations",
-    "difficulty": "easy",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Right then. Ukplacesbusters. All real places in England. They just sound like something else entirely when you say them out loud.",
-    "prize": "Email in. Winner gets a hotel miniature shampoo collection and a free screensaver download on floppy disk.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "G",
-        "clue": "Everything's been covered in gold. The whole lot. Lovely and shiny. And to get out of there you have to wade through a shallow river."
-      },
-      {
-        "number": 2,
-        "initials": "W",
-        "clue": "This person has earned it. They've put the time in and they deserve something for it. And they're still at it, by the way."
-      },
-      {
-        "number": 3,
-        "initials": "B",
-        "clue": "Someone's made their case. They're building everything on this one idea. And they're keeping the fire going to prove the point."
-      }
-    ]
-  },
-  {
     "id": "artbusters-019",
     "enabled": true,
     "title": "Artbusters",
@@ -11276,36 +11096,6 @@
         "number": 3,
         "initials": "C",
         "clue": "That lass is making a proper fuss about getting on a boat. She won't stop going on about the gangway."
-      }
-    ]
-  },
-  {
-    "id": "ukgeographybusters-013",
-    "enabled": true,
-    "title": "Ukplacesbusters",
-    "topic": "British town and village names with funny or unusual pronunciations",
-    "difficulty": "easy",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Say these out loud. The place names are hiding in the sounds. All of them real places in the UK.",
-    "prize": "Email in. Winner gets a Nectar card with four points on it and a branded pen from a company that got bought out.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "T",
-        "clue": "A very heavy load. A whole unit of weight. And it's going across a bridge. That's all there is to it."
-      },
-      {
-        "number": 2,
-        "initials": "F",
-        "clue": "Someone did someone a favour. Genuinely helpful. But the whole thing turned out to be a performance. Not real at all."
-      },
-      {
-        "number": 3,
-        "initials": "M K",
-        "clue": "There's a small mill, a grinding wheel sort of thing. Someone's dropped it in. And there's a river or something it's gone into. And whoever runs the place is keen on it."
       }
     ]
   },
@@ -12200,36 +11990,6 @@
     ]
   },
   {
-    "id": "ukgeographybusters-001",
-    "enabled": true,
-    "title": "Ukplacesbusters",
-    "topic": "British town and village names with funny or unusual pronunciations",
-    "difficulty": "easy",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Right, Ukplacesbusters. Three British place names hiding in these clues. Say them out loud and see what you get.",
-    "prize": "Email in. Winner gets a laminated map of the UK from a motorway service station and a bumper sticker that says 'I Love Swindon'.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "W",
-        "clue": "This fella got out of bed this morning, had a good stretch, and just carried on. Still going. Bit much really."
-      },
-      {
-        "number": 2,
-        "initials": "H",
-        "clue": "There's a big animal, a proper heavy one, and someone's put a load of meat on it. On its back. Just sat there."
-      },
-      {
-        "number": 3,
-        "initials": "M",
-        "clue": "A woman who cleans the big house. And she's stood on a large flat rock. Don't ask why, that's just what she's doing."
-      }
-    ]
-  },
-  {
     "id": "artbusters-018",
     "enabled": true,
     "title": "Artbusters",
@@ -13054,36 +12814,6 @@
         "number": 3,
         "initials": "L",
         "clue": "He's had an energy drink and now he's absolutely bouncing around the whole of Piccadilly Circus. You can tell, can't you."
-      }
-    ]
-  },
-  {
-    "id": "ukgeographybusters-017",
-    "enabled": true,
-    "title": "Ukplacesbusters",
-    "topic": "British town and village names with funny or unusual pronunciations",
-    "difficulty": "easy",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Three well-known British places hiding in phonetic clues. They all sound normal once you say them out loud.",
-    "prize": "Email in. Winner gets a box of Celebrations with all the Bounties still in it and a promotional ruler from a stationery brand.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "W M",
-        "clue": "You've headed out west. Things are going brilliantly, better than expected. And there's a big female horse in the field."
-      },
-      {
-        "number": 2,
-        "initials": "H H",
-        "clue": "There's the very edge of a bit of fabric. Just a small one. And someone nearby is growing rope plants on an old bit of land."
-      },
-      {
-        "number": 3,
-        "initials": "B R",
-        "clue": "There's a massive swamp out the back. Proper boggy. And whoever's in charge has given the place a very posh, royal-sounding name."
       }
     ]
   },
@@ -14649,36 +14379,6 @@
     ]
   },
   {
-    "id": "ukgeographybusters-002",
-    "enabled": true,
-    "title": "Ukplacesbusters",
-    "topic": "British town and village names with funny or unusual pronunciations",
-    "difficulty": "easy",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Three famous British places in phonetic disguise. You'll know them when you say them.",
-    "prize": "Email in. Winner gets a Frosties mug and a booklet of coupons for a shop that closed in 2003.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "F",
-        "clue": "All the local people gathered together, right, and they've found this really nice sound someone made. A lovely tone. Everyone's impressed."
-      },
-      {
-        "number": 2,
-        "initials": "W",
-        "clue": "This person's sharp as anything. Very clever. And they've just parked up, nice and steady, in the barn next to the horse."
-      },
-      {
-        "number": 3,
-        "initials": "C",
-        "clue": "This big bird, a crow or something, has been moving about on its belly. Dragging itself along. No idea what happened to it."
-      }
-    ]
-  },
-  {
     "id": "sportbusters-009",
     "enabled": true,
     "title": "Sportbusters",
@@ -15440,36 +15140,6 @@
         "number": 3,
         "initials": "S M",
         "clue": "There's a bloke from the Mediterranean, right, but he's ever so tiny. Like a miniature version. Sort of works, that."
-      }
-    ]
-  },
-  {
-    "id": "ukgeographybusters-010",
-    "enabled": true,
-    "title": "Ukplacesbusters",
-    "topic": "British town and village names with funny or unusual pronunciations",
-    "difficulty": "easy",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Famous British places, but you have to work them out from the sounds. Don't overthink it.",
-    "prize": "Email in. Winner gets a tin of Quality Street with only the ones nobody wants left in it and a biro shaped like a golf club.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "L S",
-        "clue": "There's someone who keeps going on about things. Really leaning into it. Won't drop it. And at the end of it all there's a spa day waiting."
-      },
-      {
-        "number": 2,
-        "initials": "M",
-        "clue": "A young woman who works in the house. And she's standing on a rock. Just there. On a rock."
-      },
-      {
-        "number": 3,
-        "initials": "C",
-        "clue": "This crow, right, it's been pulling itself along on its belly. Through the mud. And it looks exhausted."
       }
     ]
   },
@@ -16236,36 +15906,6 @@
         "number": 3,
         "initials": "S B",
         "clue": "Some strong bloke's gone and fired an arrow so hard it's come apart. Bits everywhere. Don't know why he did that."
-      }
-    ]
-  },
-  {
-    "id": "ukgeographybusters-007",
-    "enabled": true,
-    "title": "Ukplacesbusters",
-    "topic": "British town and village names with funny or unusual pronunciations",
-    "difficulty": "easy",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Right, Ukplacesbusters. These are all real places in England. They just sound a bit odd when you say them properly.",
-    "prize": "Email in. Winner gets a signed photo of someone from a show that got cancelled and a tub of travel sweets.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "E",
-        "clue": "Over on the east side of things. And someone's just been born over there. A new arrival. Big news locally."
-      },
-      {
-        "number": 2,
-        "initials": "T W",
-        "clue": "There's a whole ton of stuff. And it goes over water on a big structure. And at the bottom there are loads of natural springs coming up."
-      },
-      {
-        "number": 3,
-        "initials": "W G C",
-        "clue": "This person's doing really well. They're winning, frankly. And they've got a lovely plot of green with flowers and veg in it. And it's a whole place, like a proper community."
       }
     ]
   },
@@ -18566,36 +18206,6 @@
     ]
   },
   {
-    "id": "ukgeographybusters-005",
-    "enabled": true,
-    "title": "Ukplacesbusters",
-    "topic": "British town and village names with funny or unusual pronunciations",
-    "difficulty": "easy",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "All British place names. They sound ridiculous when you break them down, which is the whole point.",
-    "prize": "Email in. Winner gets a Woolworths gift voucher, which is now completely useless, and a stress ball shaped like a globe.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "S",
-        "clue": "There are seven of them. All trees. Just standing there in a field. Seven of them. That's the whole thing."
-      },
-      {
-        "number": 2,
-        "initials": "F",
-        "clue": "Someone's done someone a favour. And then turned out to be a right fake about the whole thing. Pretending they meant it."
-      },
-      {
-        "number": 3,
-        "initials": "B",
-        "clue": "This person is basing everything on something. Their whole argument. And they keep poking at the fire to keep it going."
-      }
-    ]
-  },
-  {
     "id": "sportbusters-011",
     "enabled": true,
     "title": "Sportbusters",
@@ -19327,36 +18937,6 @@
         "number": 3,
         "initials": "B",
         "clue": "There's loads of daffodils waving about in a field. Makes you feel cheerful and that. Quite nice, actually."
-      }
-    ]
-  },
-  {
-    "id": "ukgeographybusters-004",
-    "enabled": true,
-    "title": "Ukplacesbusters",
-    "topic": "British town and village names with funny or unusual pronunciations",
-    "difficulty": "easy",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Right then. Ukplacesbusters. These are all real places in Britain. They just sound like something else. That's the game.",
-    "prize": "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station on the M6.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "W",
-        "clue": "There's a wolf. And it's made a mistake. And now it's sat in a small village that sounds a bit damp."
-      },
-      {
-        "number": 2,
-        "initials": "L",
-        "clue": "There's a ditch full of water. And it's been going on long enough to know better. Like it's got a bit of history to it."
-      },
-      {
-        "number": 3,
-        "initials": "T",
-        "clue": "Someone's weighing things up. A whole ton of it. And it goes over the water on a big crossing."
       }
     ]
   },
@@ -20123,36 +19703,6 @@
         "number": 3,
         "initials": "V",
         "clue": "Right, that weed growing up the wall, it's completely taken over the whole building. More than a bit."
-      }
-    ]
-  },
-  {
-    "id": "ukgeographybusters-020",
-    "enabled": true,
-    "title": "Ukplacesbusters",
-    "topic": "British town and village names with funny or unusual pronunciations",
-    "difficulty": "easy",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Ukplacesbusters. Three British places hiding in the sounds. Say each one out loud and you'll get there.",
-    "prize": "Email in. Winner gets a DVD of a film nobody remembers and a loyalty stamp card for a coffee shop that became a vape shop.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "S",
-        "clue": "Seven of them. All oak trees. Just the seven, standing there. That's it. That's the whole thing."
-      },
-      {
-        "number": 2,
-        "initials": "G",
-        "clue": "The whole place has been dipped in gold. Shining away. And there's a shallow bit of the river you have to wade through to get in."
-      },
-      {
-        "number": 3,
-        "initials": "T",
-        "clue": "A ton of stuff going across a bridge. Heavy load. That's your lot."
       }
     ]
   },
