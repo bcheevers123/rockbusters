@@ -212,6 +212,73 @@ def test_user_status_200(client):
 # Sheets mode: startup rebuild test (mocked)
 # ---------------------------------------------------------------------------
 
+def test_bank_endpoint_returns_list(client):
+    """GET /api/bank returns a list of dicts with id, title, topic."""
+    resp = client.get("/api/bank")
+    assert resp.status_code == 200
+    data = resp.json()
+    assert isinstance(data, list)
+    assert len(data) > 0
+    first = data[0]
+    assert "id" in first
+    assert "title" in first
+    assert "topic" in first
+    assert "answer" not in first  # no sensitive fields
+    assert "clues" not in first
+
+
+def test_set_today_wrong_passcode_403(client):
+    """POST /api/admin/set-today with wrong passcode → 403."""
+    resp = client.post("/api/admin/set-today", params={"set_id": "any", "secret": "wrongpassword"})
+    assert resp.status_code == 403
+
+
+def test_set_today_unknown_set_id_404(client):
+    """POST /api/admin/set-today with valid passcode but unknown set_id → 404."""
+    resp = client.post(
+        "/api/admin/set-today",
+        params={"set_id": "does-not-exist-999", "secret": "monkeynews"},
+    )
+    assert resp.status_code == 404
+
+
+def test_set_today_valid_200(client):
+    """POST /api/admin/set-today with valid passcode and real set_id → 200."""
+    # Get a real set_id from the bank endpoint
+    bank_resp = client.get("/api/bank")
+    first_id = bank_resp.json()[0]["id"]
+
+    resp = client.post(
+        "/api/admin/set-today",
+        params={"set_id": first_id, "secret": "monkeynews"},
+    )
+    assert resp.status_code == 200
+    body = resp.json()
+    assert body.get("ok") is True
+    assert body.get("set_id") == first_id
+
+
+def test_today_respects_override(client):
+    """After set-today, GET /api/today returns the overridden set."""
+    bank_resp = client.get("/api/bank")
+    sets = bank_resp.json()
+    # Pick the last set (least likely to be today's natural rotation)
+    target_id = sets[-1]["id"]
+
+    client.post(
+        "/api/admin/set-today",
+        params={"set_id": target_id, "secret": "monkeynews"},
+    )
+
+    today_resp = client.get("/api/today")
+    assert today_resp.status_code == 200
+    assert today_resp.json()["set_id"] == target_id
+
+
+# ---------------------------------------------------------------------------
+# Sheets mode: startup rebuild test (mocked)
+# ---------------------------------------------------------------------------
+
 def test_sheets_mode_leaderboard_uses_replayed_data():
     """When Sheets env vars are set, startup replays Sheets data into in-memory SQLite.
     The leaderboard endpoint should return data from the replayed db."""

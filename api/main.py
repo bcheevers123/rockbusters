@@ -138,6 +138,13 @@ class RevealRequest(BaseModel):
 
 
 # ---------------------------------------------------------------------------
+# Constants
+# ---------------------------------------------------------------------------
+
+_DEV_PASSCODE_HASH = "7cad4eb0e04bd259d1291faa24c9b04a52cb6697ede50931cde44e046019c20d"
+
+
+# ---------------------------------------------------------------------------
 # Endpoints
 # ---------------------------------------------------------------------------
 
@@ -147,10 +154,48 @@ def health():
     return {"status": "ok"}
 
 
+@app.get("/api/bank")
+def bank_list():
+    """Return all enabled sets as a list of {id, title, topic}."""
+    from api.content_bank import get_enabled_sets
+    enabled = get_enabled_sets(bank)
+    return [{"id": s.id, "title": s.title, "topic": s.topic} for s in enabled]
+
+
+@app.post("/api/admin/set-today")
+def admin_set_today(set_id: str = Query(...), secret: str = Query(...)):
+    """Pin set_id as today's set. Expires automatically at midnight (local time)."""
+    secret_hash = hashlib.sha256(secret.strip().encode()).hexdigest()
+    if secret_hash != _DEV_PASSCODE_HASH:
+        raise HTTPException(status_code=403, detail="Forbidden")
+
+    from api.content_bank import get_enabled_sets
+    enabled = get_enabled_sets(bank)
+    if not any(s.id == set_id for s in enabled):
+        raise HTTPException(status_code=404, detail=f"Set '{set_id}' not found in enabled bank.")
+
+    tz = pytz.timezone(config.timezone)
+    today_str = datetime.datetime.now(tz).strftime("%Y-%m-%d")
+
+    conn = get_conn()
+    try:
+        with _mem_lock if _mem_conn is not None else contextlib.nullcontext():
+            set_daily_override(conn, set_id, today_str)
+    finally:
+        _close_conn(conn)
+
+    return {"ok": True, "set_id": set_id}
+
+
 @app.get("/api/today")
 def today():
     """Return today's set — clues only, no answers or aliases."""
-    todays_set = get_todays_set(bank, config)
+    conn = get_conn()
+    try:
+        with _mem_lock if _mem_conn is not None else contextlib.nullcontext():
+            todays_set = get_todays_set(bank, config, conn=conn)
+    finally:
+        _close_conn(conn)
 
     tz = pytz.timezone(config.timezone)
     local_date = datetime.datetime.now(tz).date()
@@ -309,9 +354,6 @@ def user_status(user_id: str = Query(...), set_id: str = Query(...)):
         "correct_clues": correct_clues,
         "points_today": points_today,
     }
-
-
-_DEV_PASSCODE_HASH = "7cad4eb0e04bd259d1291faa24c9b04a52cb6697ede50931cde44e046019c20d"
 
 
 @app.post("/api/admin/reset-leaderboard")
