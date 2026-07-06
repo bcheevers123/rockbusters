@@ -1,5 +1,5 @@
 - id: noughtybusters-001
-  enabled: true
+  enabled: false
   title: Noughtybusters
   topic: 2000s and 2010s reality TV and pop culture
   difficulty: easy
@@ -31,7 +31,7 @@
     - the apprentice
     reasoning: the + apprentice (someone learning a trade) = The Apprentice
 - id: noughtybusters-002
-  enabled: true
+  enabled: false
   title: Noughtybusters
   topic: 2000s and 2010s reality TV and pop culture
   difficulty: easy
@@ -66,7 +66,7 @@
     - master chef
     reasoning: mast + her + chef = Masterchef
 - id: noughtybusters-003
-  enabled: true
+  enabled: false
   title: Noughtybusters
   topic: 2000s and 2010s reality TV and pop culture
   difficulty: easy
@@ -99,7 +99,7 @@
     - made in chelsea
     reasoning: maid (cleaner) + in + Chelsea (posh London area) = Made in Chelsea
 - id: noughtybusters-004
-  enabled: true
+  enabled: false
   title: Noughtybusters
   topic: 2000s and 2010s reality TV and pop culture
   difficulty: easy
@@ -132,7 +132,7 @@
     - jersey shore
     reasoning: jersey (sports top/shirt) + shore (beach/coastline) = Jersey Shore
 - id: noughtybusters-005
-  enabled: true
+  enabled: false
   title: Noughtybusters
   topic: 2000s and 2010s reality TV and pop culture
   difficulty: easy
@@ -166,7 +166,7 @@
     - the o.c.
     reasoning: the + oh (that thing) + see (look at it) = The OC
 - id: noughtybusters-006
-  enabled: true
+  enabled: false
   title: Noughtybusters
   topic: 2000s and 2010s reality TV and pop culture
   difficulty: easy
@@ -199,7 +199,7 @@
     - grange hill
     reasoning: grange (grain storage building/farm building) + hill (slope/incline) = Grange Hill
 - id: noughtybusters-007
-  enabled: true
+  enabled: false
   title: Noughtybusters
   topic: 2000s and 2010s reality TV and pop culture
   difficulty: easy
@@ -232,7 +232,7 @@
     - laguna beach
     reasoning: Laguna (name) + beach = Laguna Beach
 - id: noughtybusters-008
-  enabled: true
+  enabled: false
   title: Noughtybusters
   topic: 2000s and 2010s reality TV and pop culture
   difficulty: easy
@@ -265,7 +265,7 @@
     - big brother
     reasoning: big (enormous) + broth (soup) + er = Big Brother
 - id: noughtybusters-009
-  enabled: true
+  enabled: false
   title: Noughtybusters
   topic: 2000s and 2010s reality TV and pop culture
   difficulty: easy
@@ -299,7 +299,7 @@
     - britain's got talent
     reasoning: Brit + Ann's + got + talent = Britain's Got Talent
 - id: noughtybusters-010
-  enabled: true
+  enabled: false
   title: Noughtybusters
   topic: 2000s and 2010s reality TV and pop culture
   difficulty: easy
@@ -332,7 +332,7 @@
     - made in chelsea
     reasoning: maid (housemaid/cleaner) + in + Chelsea (posh London area) = Made in Chelsea
 - id: noughtybusters-011
-  enabled: true
+  enabled: false
   title: Noughtybusters
   topic: 2000s and 2010s reality TV and pop culture
   difficulty: easy
@@ -365,7 +365,7 @@
     - goggle box
     reasoning: goggle (pool goggles) + box (container) = Gogglebox
 - id: noughtybusters-012
-  enabled: true
+  enabled: false
   title: Noughtybusters
   topic: 2000s and 2010s reality TV and pop culture
   difficulty: easy
@@ -399,7 +399,7 @@
     - dawson's creek
     reasoning: Dawson's + creak (creaking noise) = Dawson's Creek
 - id: noughtybusters-013
-  enabled: true
+  enabled: false
   title: Noughtybusters
   topic: 2000s and 2010s reality TV and pop culture
   difficulty: easy
@@ -432,7 +432,7 @@
     - saved by the bell
     reasoning: saved + by + the + bell (boxing bell) = Saved by the Bell
 - id: noughtybusters-014
-  enabled: true
+  enabled: false
   title: Noughtybusters
   topic: 2000s and 2010s reality TV and pop culture
   difficulty: easy
@@ -465,7 +465,7 @@
     - jersey shore
     reasoning: jersey (football/sports shirt) + shore (beach/shoreline) = Jersey Shore
 - id: noughtybusters-015
-  enabled: true
+  enabled: false
   title: Noughtybusters
   topic: 2000s and 2010s reality TV and pop culture
   difficulty: easy
@@ -498,7 +498,7 @@
     - my space
     reasoning: my + space (the universe/empty cosmos above) = MySpace
 - id: noughtybusters-016
-  enabled: true
+  enabled: false
   title: Noughtybusters
   topic: 2000s and 2010s reality TV and pop culture
   difficulty: easy
@@ -532,7 +532,7 @@
     - master chef
     reasoning: mast (boat pole) + her (she, female) + chef (cook) = Masterchef
 - id: noughtybusters-017
-  enabled: true
+  enabled: false
   title: Noughtybusters
   topic: 2000s and 2010s reality TV and pop culture
   difficulty: easy
@@ -565,7 +565,7 @@
     - made in chelsea
     reasoning: maid (domestic cleaner) + in + Chelsea (expensive London area) = Made in Chelsea
 - id: noughtybusters-018
-  enabled: true
+  enabled: false
   title: Noughtybusters
   topic: 2000s and 2010s reality TV and pop culture
   difficulty: easy
@@ -598,7 +598,7 @@
     - laguna beach
     reasoning: Laguna (a name) + beach (sandy coastal area) = Laguna Beach
 - id: noughtybusters-019
-  enabled: true
+  enabled: false
   title: Noughtybusters
   topic: 2000s and 2010s reality TV and pop culture
   difficulty: easy
@@ -631,7 +631,7 @@
     - byker grove
     reasoning: biker (someone on a motorbike) + grove (a small cluster of trees) = Byker Grove
 - id: noughtybusters-020
-  enabled: true
+  enabled: false
   title: Noughtybusters
   topic: 2000s and 2010s reality TV and pop culture
   difficulty: easy

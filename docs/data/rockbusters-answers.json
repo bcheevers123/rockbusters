@@ -359,36 +359,6 @@
     ]
   },
   {
-    "id": "noughtybusters-017",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Come Dine With Me",
-        "aliases": [
-          "come dine with me"
-        ],
-        "reasoning": "come + dine (eat dinner) + with + me = Come Dine With Me"
-      },
-      {
-        "number": 2,
-        "answer": "Gogglebox",
-        "aliases": [
-          "gogglebox",
-          "goggle box"
-        ],
-        "reasoning": "goggle (swimming goggles) + box (cardboard container) = Gogglebox"
-      },
-      {
-        "number": 3,
-        "answer": "Made in Chelsea",
-        "aliases": [
-          "made in chelsea"
-        ],
-        "reasoning": "maid (domestic cleaner) + in + Chelsea (expensive London area) = Made in Chelsea"
-      }
-    ]
-  },
-  {
     "id": "bandbusters-004",
     "clues": [
       {
@@ -2508,37 +2478,6 @@
     ]
   },
   {
-    "id": "noughtybusters-005",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Pimp My Ride",
-        "aliases": [
-          "pimp my ride"
-        ],
-        "reasoning": "pimp (dodgy fella) + my + ride (vehicle/car) = Pimp My Ride"
-      },
-      {
-        "number": 2,
-        "answer": "MySpace",
-        "aliases": [
-          "myspace",
-          "my space"
-        ],
-        "reasoning": "my + space (the universe above) = MySpace"
-      },
-      {
-        "number": 3,
-        "answer": "The OC",
-        "aliases": [
-          "the oc",
-          "the o.c."
-        ],
-        "reasoning": "the + oh (that thing) + see (look at it) = The OC"
-      }
-    ]
-  },
-  {
     "id": "bandbusters-007",
     "clues": [
       {
@@ -4653,35 +4592,6 @@
     ]
   },
   {
-    "id": "noughtybusters-001",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Big Brother",
-        "aliases": [
-          "big brother"
-        ],
-        "reasoning": "big + broth + er = Big Brother"
-      },
-      {
-        "number": 2,
-        "answer": "Pop Idol",
-        "aliases": [
-          "pop idol"
-        ],
-        "reasoning": "pop (fizzy drink) + idle (doing nothing) = Pop Idol"
-      },
-      {
-        "number": 3,
-        "answer": "The Apprentice",
-        "aliases": [
-          "the apprentice"
-        ],
-        "reasoning": "the + apprentice (someone learning a trade) = The Apprentice"
-      }
-    ]
-  },
-  {
     "id": "bandbusters-009",
     "clues": [
       {
@@ -6648,36 +6558,6 @@
     ]
   },
   {
-    "id": "noughtybusters-018",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Pimp My Ride",
-        "aliases": [
-          "pimp my ride"
-        ],
-        "reasoning": "pimp (dodgy character) + my + ride (car/vehicle) = Pimp My Ride"
-      },
-      {
-        "number": 2,
-        "answer": "Dawson's Creek",
-        "aliases": [
-          "dawsons creek",
-          "dawson's creek"
-        ],
-        "reasoning": "Dawson's (possessive, belonging to Dawson) + creak (the sound a door makes) = Dawson's Creek"
-      },
-      {
-        "number": 3,
-        "answer": "Laguna Beach",
-        "aliases": [
-          "laguna beach"
-        ],
-        "reasoning": "Laguna (a name) + beach (sandy coastal area) = Laguna Beach"
-      }
-    ]
-  },
-  {
     "id": "bandbusters-016",
     "clues": [
       {
@@ -7604,36 +7484,6 @@
           "milky bar"
         ],
         "reasoning": "milky (pale/white, like milk) + bar (pub bar / chocolate bar) = Milkybar"
-      }
-    ]
-  },
-  {
-    "id": "noughtybusters-010",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Masterchef",
-        "aliases": [
-          "masterchef",
-          "master chef"
-        ],
-        "reasoning": "mast (ship's pole) + her (woman) + chef = Masterchef"
-      },
-      {
-        "number": 2,
-        "answer": "Come Dine With Me",
-        "aliases": [
-          "come dine with me"
-        ],
-        "reasoning": "come + dine (eat a meal) + with + me = Come Dine With Me"
-      },
-      {
-        "number": 3,
-        "answer": "Made in Chelsea",
-        "aliases": [
-          "made in chelsea"
-        ],
-        "reasoning": "maid (housemaid/cleaner) + in + Chelsea (posh London area) = Made in Chelsea"
       }
     ]
   },
@@ -8592,36 +8442,6 @@
     ]
   },
   {
-    "id": "noughtybusters-014",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Geordie Shore",
-        "aliases": [
-          "geordie shore"
-        ],
-        "reasoning": "Geordie (from Newcastle) + jaw + sore = Geordie Shore"
-      },
-      {
-        "number": 2,
-        "answer": "TOWIE",
-        "aliases": [
-          "towie",
-          "the only way is essex"
-        ],
-        "reasoning": "toe + wee (small accident) = TOWIE"
-      },
-      {
-        "number": 3,
-        "answer": "Jersey Shore",
-        "aliases": [
-          "jersey shore"
-        ],
-        "reasoning": "jersey (football/sports shirt) + shore (beach/shoreline) = Jersey Shore"
-      }
-    ]
-  },
-  {
     "id": "bandbusters-013",
     "clues": [
       {
@@ -9555,37 +9375,6 @@
     ]
   },
   {
-    "id": "noughtybusters-009",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "X Factor",
-        "aliases": [
-          "x factor",
-          "the x factor"
-        ],
-        "reasoning": "ex (former partner) + fact + er = X Factor"
-      },
-      {
-        "number": 2,
-        "answer": "Pop Idol",
-        "aliases": [
-          "pop idol"
-        ],
-        "reasoning": "pop (fizzy drink) + idle (doing nothing, lazy) = Pop Idol"
-      },
-      {
-        "number": 3,
-        "answer": "Britain's Got Talent",
-        "aliases": [
-          "britains got talent",
-          "britain's got talent"
-        ],
-        "reasoning": "Brit + Ann's + got + talent = Britain's Got Talent"
-      }
-    ]
-  },
-  {
     "id": "bandbusters-018",
     "clues": [
       {
@@ -10463,36 +10252,6 @@
     ]
   },
   {
-    "id": "noughtybusters-019",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Hollyoaks",
-        "aliases": [
-          "hollyoaks",
-          "holly oaks"
-        ],
-        "reasoning": "holly (the Christmas plant) + oaks (large trees) = Hollyoaks"
-      },
-      {
-        "number": 2,
-        "answer": "Saved by the Bell",
-        "aliases": [
-          "saved by the bell"
-        ],
-        "reasoning": "saved + by + the + bell (the bell that signals end of a boxing round) = Saved by the Bell"
-      },
-      {
-        "number": 3,
-        "answer": "Byker Grove",
-        "aliases": [
-          "byker grove"
-        ],
-        "reasoning": "biker (someone on a motorbike) + grove (a small cluster of trees) = Byker Grove"
-      }
-    ]
-  },
-  {
     "id": "bandbusters-005",
     "clues": [
       {
@@ -11359,38 +11118,6 @@
           "humbug"
         ],
         "reasoning": "hum (a low confused sound, or to hum while lost) + bugs (small creatures wandering about) = Humbugs"
-      }
-    ]
-  },
-  {
-    "id": "noughtybusters-002",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "X Factor",
-        "aliases": [
-          "x factor",
-          "the x factor"
-        ],
-        "reasoning": "ex (former partner) + fact + er (someone good at facts) = X Factor"
-      },
-      {
-        "number": 2,
-        "answer": "Britain's Got Talent",
-        "aliases": [
-          "britains got talent",
-          "britain's got talent"
-        ],
-        "reasoning": "Brit + Ann's + got + talent = Britain's Got Talent"
-      },
-      {
-        "number": 3,
-        "answer": "Masterchef",
-        "aliases": [
-          "masterchef",
-          "master chef"
-        ],
-        "reasoning": "mast + her + chef = Masterchef"
       }
     ]
   },
@@ -12289,36 +12016,6 @@
     ]
   },
   {
-    "id": "noughtybusters-006",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Hollyoaks",
-        "aliases": [
-          "hollyoaks",
-          "holly oaks"
-        ],
-        "reasoning": "holly (Christmas plant) + oaks (big trees) = Hollyoaks"
-      },
-      {
-        "number": 2,
-        "answer": "Byker Grove",
-        "aliases": [
-          "byker grove"
-        ],
-        "reasoning": "biker (motorbike person) + grove (cluster of trees) = Byker Grove"
-      },
-      {
-        "number": 3,
-        "answer": "Grange Hill",
-        "aliases": [
-          "grange hill"
-        ],
-        "reasoning": "grange (grain storage building/farm building) + hill (slope/incline) = Grange Hill"
-      }
-    ]
-  },
-  {
     "id": "bandbusters-001",
     "clues": [
       {
@@ -13159,36 +12856,6 @@
     ]
   },
   {
-    "id": "noughtybusters-008",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "MySpace",
-        "aliases": [
-          "myspace",
-          "my space"
-        ],
-        "reasoning": "my + space (personal online area) = MySpace"
-      },
-      {
-        "number": 2,
-        "answer": "Bebo",
-        "aliases": [
-          "bebo"
-        ],
-        "reasoning": "Bebo sounds like 'be + bo' - a name that was its own thing. Phonetically just Bebo, say it out loud."
-      },
-      {
-        "number": 3,
-        "answer": "Big Brother",
-        "aliases": [
-          "big brother"
-        ],
-        "reasoning": "big (enormous) + broth (soup) + er = Big Brother"
-      }
-    ]
-  },
-  {
     "id": "bandbusters-006",
     "clues": [
       {
@@ -13997,36 +13664,6 @@
     ]
   },
   {
-    "id": "noughtybusters-004",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "TOWIE",
-        "aliases": [
-          "towie",
-          "the only way is essex"
-        ],
-        "reasoning": "toe + wee (little accident) = TOWIE"
-      },
-      {
-        "number": 2,
-        "answer": "Geordie Shore",
-        "aliases": [
-          "geordie shore"
-        ],
-        "reasoning": "Geordie (Newcastle person) + jaw + sore = Geordie Shore"
-      },
-      {
-        "number": 3,
-        "answer": "Jersey Shore",
-        "aliases": [
-          "jersey shore"
-        ],
-        "reasoning": "jersey (sports top/shirt) + shore (beach/coastline) = Jersey Shore"
-      }
-    ]
-  },
-  {
     "id": "bandbusters-003",
     "clues": [
       {
@@ -14770,36 +14407,6 @@
           "refresher"
         ],
         "reasoning": "refresh (to restore energy, like after a swim and a cold drink) + ers = Refreshers"
-      }
-    ]
-  },
-  {
-    "id": "noughtybusters-007",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Saved by the Bell",
-        "aliases": [
-          "saved by the bell"
-        ],
-        "reasoning": "saved + by + the + bell (boxing bell that ends a round) = Saved by the Bell"
-      },
-      {
-        "number": 2,
-        "answer": "Dawson's Creek",
-        "aliases": [
-          "dawsons creek",
-          "dawson's creek"
-        ],
-        "reasoning": "Dawson's (belonging to Dawson) + creak (creaking door sound) = Dawson's Creek"
-      },
-      {
-        "number": 3,
-        "answer": "Laguna Beach",
-        "aliases": [
-          "laguna beach"
-        ],
-        "reasoning": "Laguna (name) + beach = Laguna Beach"
       }
     ]
   },
@@ -15575,37 +15182,6 @@
           "flying saucer"
         ],
         "reasoning": "flying (in the air, from above) + saucers (little disc-shaped things, like UFOs) = Flying Saucers"
-      }
-    ]
-  },
-  {
-    "id": "noughtybusters-012",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "The OC",
-        "aliases": [
-          "the oc",
-          "the o.c."
-        ],
-        "reasoning": "the + oh (exclamation pointing at something) + see (look/observe) = The OC"
-      },
-      {
-        "number": 2,
-        "answer": "Laguna Beach",
-        "aliases": [
-          "laguna beach"
-        ],
-        "reasoning": "Laguna + beach (coastal area) = Laguna Beach"
-      },
-      {
-        "number": 3,
-        "answer": "Dawson's Creek",
-        "aliases": [
-          "dawsons creek",
-          "dawson's creek"
-        ],
-        "reasoning": "Dawson's + creak (creaking noise) = Dawson's Creek"
       }
     ]
   },
@@ -16391,36 +15967,6 @@
     ]
   },
   {
-    "id": "noughtybusters-020",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Grange Hill",
-        "aliases": [
-          "grange hill"
-        ],
-        "reasoning": "grange (old farm building for storing grain) + hill (a slope or incline) = Grange Hill"
-      },
-      {
-        "number": 2,
-        "answer": "The OC",
-        "aliases": [
-          "the oc",
-          "the o.c."
-        ],
-        "reasoning": "the + oh (pointing at something) + see (to look at/observe) = The OC"
-      },
-      {
-        "number": 3,
-        "answer": "Big Brother",
-        "aliases": [
-          "big brother"
-        ],
-        "reasoning": "big + broth (a soup/stew) + er = Big Brother"
-      }
-    ]
-  },
-  {
     "id": "bandbusters-002",
     "clues": [
       {
@@ -17167,36 +16713,6 @@
           "aniseed ball"
         ],
         "reasoning": "aniseed (a flavouring, the little black seeds) + balls (round things rolling about) = Aniseed Balls"
-      }
-    ]
-  },
-  {
-    "id": "noughtybusters-013",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Hollyoaks",
-        "aliases": [
-          "hollyoaks",
-          "holly oaks"
-        ],
-        "reasoning": "holly (Christmas plant) + oaks (large trees) = Hollyoaks"
-      },
-      {
-        "number": 2,
-        "answer": "Grange Hill",
-        "aliases": [
-          "grange hill"
-        ],
-        "reasoning": "grange (farm grain store/barn) + hill (slope) = Grange Hill"
-      },
-      {
-        "number": 3,
-        "answer": "Saved by the Bell",
-        "aliases": [
-          "saved by the bell"
-        ],
-        "reasoning": "saved + by + the + bell (boxing bell) = Saved by the Bell"
       }
     ]
   },
@@ -17956,36 +17472,6 @@
           "bounty"
         ],
         "reasoning": "bounty (a generous reward, or the Mutiny on the Bounty, or a tropical paradise sweet) = Bounty"
-      }
-    ]
-  },
-  {
-    "id": "noughtybusters-015",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Byker Grove",
-        "aliases": [
-          "byker grove"
-        ],
-        "reasoning": "biker (motorbike rider) + grove (cluster of trees) = Byker Grove"
-      },
-      {
-        "number": 2,
-        "answer": "Big Brother",
-        "aliases": [
-          "big brother"
-        ],
-        "reasoning": "big (enormous) + broth (soup) + er = Big Brother"
-      },
-      {
-        "number": 3,
-        "answer": "MySpace",
-        "aliases": [
-          "myspace",
-          "my space"
-        ],
-        "reasoning": "my + space (the universe/empty cosmos above) = MySpace"
       }
     ]
   },
@@ -18769,36 +18255,6 @@
     ]
   },
   {
-    "id": "noughtybusters-011",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "The Apprentice",
-        "aliases": [
-          "the apprentice"
-        ],
-        "reasoning": "the + apprentice (someone learning a trade under a master) = The Apprentice"
-      },
-      {
-        "number": 2,
-        "answer": "Pimp My Ride",
-        "aliases": [
-          "pimp my ride"
-        ],
-        "reasoning": "pimp + my + ride (vehicle) = Pimp My Ride"
-      },
-      {
-        "number": 3,
-        "answer": "Gogglebox",
-        "aliases": [
-          "gogglebox",
-          "goggle box"
-        ],
-        "reasoning": "goggle (pool goggles) + box (container) = Gogglebox"
-      }
-    ]
-  },
-  {
     "id": "bandbusters-019",
     "clues": [
       {
@@ -19546,37 +19002,6 @@
           "starburst"
         ],
         "reasoning": "star (space thing, fires lasers in films) + burst (exploded/gone everywhere) = Starburst"
-      }
-    ]
-  },
-  {
-    "id": "noughtybusters-016",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "X Factor",
-        "aliases": [
-          "x factor",
-          "the x factor"
-        ],
-        "reasoning": "ex (former partner) + fact + er (one who documents facts) = X Factor"
-      },
-      {
-        "number": 2,
-        "answer": "The Apprentice",
-        "aliases": [
-          "the apprentice"
-        ],
-        "reasoning": "the + apprentice (trainee/someone new to a trade) = The Apprentice"
-      },
-      {
-        "number": 3,
-        "answer": "Masterchef",
-        "aliases": [
-          "masterchef",
-          "master chef"
-        ],
-        "reasoning": "mast (boat pole) + her (she, female) + chef (cook) = Masterchef"
       }
     ]
   },
@@ -20357,36 +19782,6 @@
           "lion bar"
         ],
         "reasoning": "lion (the big cat with a mane) + bar (a solid block, or a rod used in roadworks) = Lion Bar"
-      }
-    ]
-  },
-  {
-    "id": "noughtybusters-003",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Come Dine With Me",
-        "aliases": [
-          "come dine with me"
-        ],
-        "reasoning": "come + dine + with + me = Come Dine With Me"
-      },
-      {
-        "number": 2,
-        "answer": "Gogglebox",
-        "aliases": [
-          "gogglebox",
-          "goggle box"
-        ],
-        "reasoning": "goggle (swimming goggles) + box = Gogglebox"
-      },
-      {
-        "number": 3,
-        "answer": "Made in Chelsea",
-        "aliases": [
-          "made in chelsea"
-        ],
-        "reasoning": "maid (cleaner) + in + Chelsea (posh London area) = Made in Chelsea"
       }
     ]
   },

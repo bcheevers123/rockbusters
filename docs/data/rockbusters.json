@@ -365,36 +365,6 @@
     ]
   },
   {
-    "id": "noughtybusters-017",
-    "enabled": true,
-    "title": "Noughtybusters",
-    "topic": "2000s and 2010s reality TV and pop culture",
-    "difficulty": "easy",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Noughtybusters. One about food, one about telly, one about London. Sort them out.",
-    "prize": "Email in. Winner gets a fondue set from a charity shop and a copy of FHM from 2002.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "C D W M",
-        "clue": "Look, just come over and have your dinner at mine, yeah. We'll eat together. Simple as that."
-      },
-      {
-        "number": 2,
-        "initials": "G B",
-        "clue": "Someone's gone and put their swimming goggles in a cardboard box. Why would you do that. There they are."
-      },
-      {
-        "number": 3,
-        "initials": "M I C",
-        "clue": "The domestic cleaner's only gone and moved in to that expensive part of London. Living there now."
-      }
-    ]
-  },
-  {
     "id": "bandbusters-004",
     "enabled": true,
     "title": "Bandbusters",
@@ -2518,36 +2488,6 @@
         "number": 3,
         "initials": "C W",
         "clue": "That bloke's gone all twisty down at the gym. Like a pretzel but he used to be straight. Bit weird."
-      }
-    ]
-  },
-  {
-    "id": "noughtybusters-005",
-    "enabled": true,
-    "title": "Noughtybusters",
-    "topic": "2000s and 2010s reality TV and pop culture",
-    "difficulty": "easy",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Right, Noughtybusters. Cars, space, and a fella who can't stop watching. Off you go.",
-    "prize": "Email in. Winner gets a Blockbuster membership card and a DVD they've already seen.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "P M R",
-        "clue": "That dodgy fella's taken my vehicle somewhere. Gone off with it, hasn't he. My car."
-      },
-      {
-        "number": 2,
-        "initials": "M S",
-        "clue": "That area up above - all dark and full of stars - it belongs to me. Mine, that is. My bit."
-      },
-      {
-        "number": 3,
-        "initials": "T O C",
-        "clue": "That thing over there, right - have a look at it. Go on, look. That's all."
       }
     ]
   },
@@ -4678,36 +4618,6 @@
     ]
   },
   {
-    "id": "noughtybusters-001",
-    "enabled": true,
-    "title": "Noughtybusters",
-    "topic": "2000s and 2010s reality TV and pop culture",
-    "difficulty": "easy",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Noughtybusters. All from the telly and that, back when everyone was watching reality shows. Say them out loud.",
-    "prize": "Email in. Winner gets a Nokia 3310 with two bars of battery and a free ringtone voucher.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "B B",
-        "clue": "That soup, right, it's a massive portion. Enormous bowl of the stuff. Big old broth."
-      },
-      {
-        "number": 2,
-        "initials": "P I",
-        "clue": "That can of fizzy, it's just sat there doing absolutely nothing. Not even trying."
-      },
-      {
-        "number": 3,
-        "initials": "T A",
-        "clue": "Someone's learning the trade, aren't they. Young lad under a senior fella, picking it all up. That's how it works."
-      }
-    ]
-  },
-  {
     "id": "bandbusters-009",
     "enabled": true,
     "title": "Bandbusters",
@@ -6685,36 +6595,6 @@
     ]
   },
   {
-    "id": "noughtybusters-018",
-    "enabled": true,
-    "title": "Noughtybusters",
-    "topic": "2000s and 2010s reality TV and pop culture",
-    "difficulty": "easy",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Noughtybusters. Cars, beaches, and someone called Dawson. Three clues. Have a go.",
-    "prize": "Email in. Winner gets a Tamagotchi with unknown battery life and a festival wristband from Glastonbury 2008.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "P M R",
-        "clue": "Some fella's gone off with my vehicle, hasn't he. Just took it. My car. Drove it right off."
-      },
-      {
-        "number": 2,
-        "initials": "D C",
-        "clue": "That lad Dawson's door keeps creaking, doesn't it. Making that noise. Someone sort it out."
-      },
-      {
-        "number": 3,
-        "initials": "L B",
-        "clue": "Right, there's this girl called Laguna and all she does is go to the beach. Just on the beach constantly."
-      }
-    ]
-  },
-  {
     "id": "bandbusters-016",
     "enabled": true,
     "title": "Bandbusters",
@@ -7661,36 +7541,6 @@
         "number": 3,
         "initials": "M",
         "clue": "That thing at the pub where they pull pints - it's gone a bit pale. White, almost. Not the usual colour for one of those."
-      }
-    ]
-  },
-  {
-    "id": "noughtybusters-010",
-    "enabled": true,
-    "title": "Noughtybusters",
-    "topic": "2000s and 2010s reality TV and pop culture",
-    "difficulty": "easy",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Right, Noughtybusters. Back to the cooking shows and posh areas. You know how it goes.",
-    "prize": "Email in. Winner gets a Jamie Oliver cookbook with one recipe bookmarked and never made.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "M C",
-        "clue": "She's in charge of the galley, isn't she. That woman who owns the ship's main pole - she runs the kitchen."
-      },
-      {
-        "number": 2,
-        "initials": "C D W M",
-        "clue": "Alright, come round for your tea. I'm cooking. We'll eat together. Just turn up, yeah."
-      },
-      {
-        "number": 3,
-        "initials": "M I C",
-        "clue": "Right, that housemaid's gone to live in one of them fancy London boroughs. Moved herself in, she has."
       }
     ]
   },
@@ -8676,36 +8526,6 @@
     ]
   },
   {
-    "id": "noughtybusters-014",
-    "enabled": true,
-    "title": "Noughtybusters",
-    "topic": "2000s and 2010s reality TV and pop culture",
-    "difficulty": "easy",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Noughtybusters. Newcastle, Essex, and a jersey. Sounds like a night out, doesn't it.",
-    "prize": "Email in. Winner gets a glitter gel pen set and a Destiny's Child poster, slightly torn.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "G S",
-        "clue": "That Newcastle lad's got a sore jaw. Jaw's giving him some grief. Geordie with a bad jaw, that is."
-      },
-      {
-        "number": 2,
-        "initials": "T O W I E",
-        "clue": "That thing at the end of your foot - the little one on the side - it's had an accident. A small one."
-      },
-      {
-        "number": 3,
-        "initials": "J S",
-        "clue": "Someone's left their football top on the beach. Just lying there on the shoreline, getting sandy."
-      }
-    ]
-  },
-  {
     "id": "bandbusters-013",
     "enabled": true,
     "title": "Bandbusters",
@@ -9656,36 +9476,6 @@
     ]
   },
   {
-    "id": "noughtybusters-009",
-    "enabled": true,
-    "title": "Noughtybusters",
-    "topic": "2000s and 2010s reality TV and pop culture",
-    "difficulty": "easy",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Noughtybusters. Talent shows. Back when everyone had a talent, apparently.",
-    "prize": "Email in. Winner gets a Simon Cowell poster, rolled up in a tube from the back of a wardrobe.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "X F",
-        "clue": "Her ex-partner, right, he's gone and written down all the important details. Got all the facts, hasn't he."
-      },
-      {
-        "number": 2,
-        "initials": "P I",
-        "clue": "That lad who does nothing all day - just sits there, fizzy drink in hand. Completely idle."
-      },
-      {
-        "number": 3,
-        "initials": "B G T",
-        "clue": "Ann from Britain, she's only gone and impressed everyone, hasn't she. Turns out Ann's got a gift."
-      }
-    ]
-  },
-  {
     "id": "bandbusters-018",
     "enabled": true,
     "title": "Bandbusters",
@@ -10575,36 +10365,6 @@
     ]
   },
   {
-    "id": "noughtybusters-019",
-    "enabled": true,
-    "title": "Noughtybusters",
-    "topic": "2000s and 2010s reality TV and pop culture",
-    "difficulty": "easy",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Noughtybusters. Soaps, bells, and a motorbike. Say each clue out loud.",
-    "prize": "Email in. Winner gets a Myspace friend request from a stranger and a packet of Iced Gems.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "H",
-        "clue": "That spiky Christmas plant, right, it's right next to a load of big oak trees. Holly. Oaks. Together."
-      },
-      {
-        "number": 2,
-        "initials": "S B T B",
-        "clue": "He was in a right state in that boxing match, then the bell went. Saved him, that did. Lucky lad."
-      },
-      {
-        "number": 3,
-        "initials": "B G",
-        "clue": "That biker's gone and parked up in the trees again. In the grove. Just sitting there on the bike."
-      }
-    ]
-  },
-  {
     "id": "bandbusters-005",
     "enabled": true,
     "title": "Bandbusters",
@@ -11490,36 +11250,6 @@
         "number": 3,
         "initials": "H",
         "clue": "These little fellas are wandering round in fog. Can't see where they're going. A bit disorientated. Sort of stumbling about."
-      }
-    ]
-  },
-  {
-    "id": "noughtybusters-002",
-    "enabled": true,
-    "title": "Noughtybusters",
-    "topic": "2000s and 2010s reality TV and pop culture",
-    "difficulty": "easy",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "More Noughtybusters. Back when Simon Cowell was on everything. Three to get.",
-    "prize": "Email in. Winner gets an AOL trial disc with 500 free hours and a pen from a travel agent.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "X F",
-        "clue": "Right, that bloke's ex-wife - she's actually pretty good at working things out. Got a head for numbers."
-      },
-      {
-        "number": 2,
-        "initials": "B G T",
-        "clue": "Ann's got a skill, hasn't she. That woman called Ann, she's done something impressive. Bit of a talent."
-      },
-      {
-        "number": 3,
-        "initials": "M C",
-        "clue": "That pole at the top of a boat - she's the one running the kitchen. In charge of all the cooking."
       }
     ]
   },
@@ -12444,36 +12174,6 @@
     ]
   },
   {
-    "id": "noughtybusters-006",
-    "enabled": true,
-    "title": "Noughtybusters",
-    "topic": "2000s and 2010s reality TV and pop culture",
-    "difficulty": "easy",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Noughtybusters. Soaps and school dramas this time. Should be getting easier.",
-    "prize": "Email in. Winner gets a signed photo from someone who was briefly on Hollyoaks, circa 2004.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "H",
-        "clue": "That Christmas plant's surrounded by big old oak trees. Holly, oaks. All together in the garden."
-      },
-      {
-        "number": 2,
-        "initials": "B G",
-        "clue": "That person on the motorbike's gone and parked up in the middle of some trees. In amongst the woodland."
-      },
-      {
-        "number": 3,
-        "initials": "G H",
-        "clue": "There's a big old grain storage building, right, and it's built on a slope. Right up on the incline."
-      }
-    ]
-  },
-  {
     "id": "bandbusters-001",
     "enabled": true,
     "title": "Bandbusters",
@@ -13332,36 +13032,6 @@
     ]
   },
   {
-    "id": "noughtybusters-008",
-    "enabled": true,
-    "title": "Noughtybusters",
-    "topic": "2000s and 2010s reality TV and pop culture",
-    "difficulty": "easy",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Noughtybusters. Social networks and websites from before everyone moved to Facebook. Have a go.",
-    "prize": "Email in. Winner gets a floppy disk with something on it and a wristband from a festival in 2005.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "M S",
-        "clue": "All my stuff on the internet, right - my photos, my music, everything. It's my area, that is."
-      },
-      {
-        "number": 2,
-        "initials": "B",
-        "clue": "Bee's friend? Nah. That lad called Bebo, he's... actually I don't know what he's done. But there he is."
-      },
-      {
-        "number": 3,
-        "initials": "B B",
-        "clue": "That enormous pot of soup, right, someone's watching over the whole thing. Can't leave it alone."
-      }
-    ]
-  },
-  {
     "id": "bandbusters-006",
     "enabled": true,
     "title": "Bandbusters",
@@ -14188,36 +13858,6 @@
     ]
   },
   {
-    "id": "noughtybusters-004",
-    "enabled": true,
-    "title": "Noughtybusters",
-    "topic": "2000s and 2010s reality TV and pop culture",
-    "difficulty": "easy",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Noughtybusters. Essex, Newcastle, and a little accident. Three shows, say them out loud.",
-    "prize": "Email in. Winner gets a copy of Heat magazine from 2007 and a half-eaten pack of Bourbons.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "T O W I E",
-        "clue": "That little thing at the end of your foot, right, it's had a bit of an accident. A small one. Bit embarrassing."
-      },
-      {
-        "number": 2,
-        "initials": "G S",
-        "clue": "That lad from Newcastle's got a sore jaw. His chin area, right, it's giving him grief."
-      },
-      {
-        "number": 3,
-        "initials": "J S",
-        "clue": "That rugby top's been washed up on the beach, hasn't it. Just lying there on the coastline."
-      }
-    ]
-  },
-  {
     "id": "bandbusters-003",
     "enabled": true,
     "title": "Bandbusters",
@@ -14979,36 +14619,6 @@
         "number": 3,
         "initials": "R",
         "clue": "Right, a bunch of people have just had a swim and a nice sit-down with a cold drink. Brand new, they are."
-      }
-    ]
-  },
-  {
-    "id": "noughtybusters-007",
-    "enabled": true,
-    "title": "Noughtybusters",
-    "topic": "2000s and 2010s reality TV and pop culture",
-    "difficulty": "easy",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Noughtybusters. American shows that everyone in Britain was watching. Three of them.",
-    "prize": "Email in. Winner gets a printed-out TV schedule from 2003 and a Now 54 CD.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "S B T B",
-        "clue": "Right, that ding-ding noise just went off in the ring and it got the boxer out of trouble. Lucky escape."
-      },
-      {
-        "number": 2,
-        "initials": "D C",
-        "clue": "That door belonging to the fella called Dawson - it's making a right creaking noise. Needs some oil."
-      },
-      {
-        "number": 3,
-        "initials": "L B",
-        "clue": "That girl called Laguna, she lives on a beach. Bit of a sun-bather. That's her."
       }
     ]
   },
@@ -15804,36 +15414,6 @@
         "number": 3,
         "initials": "F S",
         "clue": "These little vehicles, right, they're not built for speed or the road - more for landing on garden lawns. From above."
-      }
-    ]
-  },
-  {
-    "id": "noughtybusters-012",
-    "enabled": true,
-    "title": "Noughtybusters",
-    "topic": "2000s and 2010s reality TV and pop culture",
-    "difficulty": "easy",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Noughtybusters. American teen dramas. You watched them, don't pretend you didn't.",
-    "prize": "Email in. Winner gets a box set of something on VHS with the last tape recorded over.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "T O C",
-        "clue": "Over there, yeah - that thing. Can you see it? Just look at it. There it is."
-      },
-      {
-        "number": 2,
-        "initials": "L B",
-        "clue": "She's called Laguna and she lives by the sea. On the coast. Right on the beach, that girl."
-      },
-      {
-        "number": 3,
-        "initials": "D C",
-        "clue": "That bloke Dawson's door has gone and started making a noise. Creak, creak. Wants oiling, that."
       }
     ]
   },
@@ -16634,36 +16214,6 @@
     ]
   },
   {
-    "id": "noughtybusters-020",
-    "enabled": true,
-    "title": "Noughtybusters",
-    "topic": "2000s and 2010s reality TV and pop culture",
-    "difficulty": "easy",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Noughtybusters. Pop culture from the 2000s and 2010s, phonetically disguised. Have a go.",
-    "prize": "Email in. Winner gets a printed Google Maps route to somewhere, folded up in your pocket, from 2009.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "G H",
-        "clue": "That old grain storage building, right, someone's built it right at the top of a slope. On the hill."
-      },
-      {
-        "number": 2,
-        "initials": "T O C",
-        "clue": "That thing over there - just look at it. Go on, have a look. You can see it, can't you."
-      },
-      {
-        "number": 3,
-        "initials": "B B",
-        "clue": "Right, biggest pot of broth you've ever seen. And someone's keeping an eye on it. Big broth. That's it."
-      }
-    ]
-  },
-  {
     "id": "bandbusters-002",
     "enabled": true,
     "title": "Bandbusters",
@@ -17429,36 +16979,6 @@
     ]
   },
   {
-    "id": "noughtybusters-013",
-    "enabled": true,
-    "title": "Noughtybusters",
-    "topic": "2000s and 2010s reality TV and pop culture",
-    "difficulty": "easy",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Noughtybusters. Soaps and school shows from the UK. Easy one this. Off you go.",
-    "prize": "Email in. Winner gets a lunchbox with a picture of someone famous on the lid, faded a bit.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "H",
-        "clue": "There's holly - the Christmassy stuff - and then there's them massive trees. Growing together. Holly and oaks."
-      },
-      {
-        "number": 2,
-        "initials": "G H",
-        "clue": "That old barn for storing grain, right, it's sitting on top of a hill. Up on the slope, it is."
-      },
-      {
-        "number": 3,
-        "initials": "S B T B",
-        "clue": "That fighter was getting absolutely mullered, right, then the bell went and he was saved. Lucky."
-      }
-    ]
-  },
-  {
     "id": "bandbusters-011",
     "enabled": true,
     "title": "Bandbusters",
@@ -18220,36 +17740,6 @@
         "number": 3,
         "initials": "B",
         "clue": "There's a bloke who's had a massive windfall. Really lucky. Like he's found treasure on a tropical beach."
-      }
-    ]
-  },
-  {
-    "id": "noughtybusters-015",
-    "enabled": true,
-    "title": "Noughtybusters",
-    "topic": "2000s and 2010s reality TV and pop culture",
-    "difficulty": "easy",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Right, Noughtybusters. Mix of stuff from the era. Three clues. Say them out loud, that's the key.",
-    "prize": "Email in. Winner gets a phone with Snake on it and a laminated bus pass from 2006.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "B G",
-        "clue": "Some bloke on a motorbike's gone and parked up in a cluster of trees. In the grove, he is. Odd place to park."
-      },
-      {
-        "number": 2,
-        "initials": "B B",
-        "clue": "Right, he's watching over this massive pot of soup. Won't leave it. Enormous broth, and he's staring at it."
-      },
-      {
-        "number": 3,
-        "initials": "M S",
-        "clue": "That empty bit of the universe - all dark and floaty up there - that's mine. My personal area."
       }
     ]
   },
@@ -19050,36 +18540,6 @@
     ]
   },
   {
-    "id": "noughtybusters-011",
-    "enabled": true,
-    "title": "Noughtybusters",
-    "topic": "2000s and 2010s reality TV and pop culture",
-    "difficulty": "easy",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Noughtybusters. Programmes about people doing things they probably shouldn't. Three of them.",
-    "prize": "Email in. Winner gets a copy of Shrek 2 on DVD and a scented candle from a pound shop.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "T A",
-        "clue": "Young fella's learning the ropes under his boss, isn't he. Getting shown how to do stuff. That's how it works."
-      },
-      {
-        "number": 2,
-        "initials": "P M R",
-        "clue": "Some fella's gone off with your vehicle, hasn't he. Just taken it. My car. Off he went."
-      },
-      {
-        "number": 3,
-        "initials": "G B",
-        "clue": "Those goggles you wear in the pool - someone's put them in a big square container. In the box, they are."
-      }
-    ]
-  },
-  {
     "id": "bandbusters-019",
     "enabled": true,
     "title": "Bandbusters",
@@ -19841,36 +19301,6 @@
         "number": 3,
         "initials": "S",
         "clue": "That thing that fires laser beams - in space films and that - it's just burst. Gone all colourful everywhere."
-      }
-    ]
-  },
-  {
-    "id": "noughtybusters-016",
-    "enabled": true,
-    "title": "Noughtybusters",
-    "topic": "2000s and 2010s reality TV and pop culture",
-    "difficulty": "easy",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Noughtybusters. Shows that made people famous for being on shows. Three of them. Go on.",
-    "prize": "Email in. Winner gets a Crazy Frog ringtone download code that probably doesn't work.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "X F",
-        "clue": "His ex has gone and written down all the details. All the important facts. She's got it all there."
-      },
-      {
-        "number": 2,
-        "initials": "T A",
-        "clue": "He's only just started learning the job. Got a senior fella showing him the ropes. New to all this."
-      },
-      {
-        "number": 3,
-        "initials": "M C",
-        "clue": "That tall pole on the front of the sailing boat - she owns it, and she's a brilliant cook an' all."
       }
     ]
   },
@@ -20667,36 +20097,6 @@
         "number": 3,
         "initials": "L B",
         "clue": "That animal with the big mane has gone and done some roadworks. Got one of them yellow diggers out. Bit unexpected."
-      }
-    ]
-  },
-  {
-    "id": "noughtybusters-003",
-    "enabled": true,
-    "title": "Noughtybusters",
-    "topic": "2000s and 2010s reality TV and pop culture",
-    "difficulty": "easy",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Noughtybusters again. This one's all about shows where people ate, cooked, or sat around watching telly.",
-    "prize": "Email in. Winner gets a Woolworths bag with something still in it, not sure what.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "C D W M",
-        "clue": "Right, go on then, have your dinner with me. Come on, sit down and eat. We're dining together."
-      },
-      {
-        "number": 2,
-        "initials": "G B",
-        "clue": "Those swimming goggles have been put in a cardboard box. Just sitting in there. Don't know why."
-      },
-      {
-        "number": 3,
-        "initials": "M I C",
-        "clue": "The cleaner's moved into that posh bit of London, hasn't she. Got herself a place in SW3."
       }
     ]
   },

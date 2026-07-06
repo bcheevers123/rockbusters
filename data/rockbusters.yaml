@@ -499,7 +499,7 @@
     - wispa
     reasoning: whisper (speaking very quietly) = Wispa (sounds like 'whispa')
 - id: noughtybusters-017
-  enabled: true
+  enabled: false
   title: Noughtybusters
   topic: 2000s and 2010s reality TV and pop culture
   difficulty: easy
@@ -2985,7 +2985,7 @@
     - curly-wurly
     reasoning: curly (twisted/not straight) + wurly (sounds like 'whirly', spinning twisty thing) = Curly Wurly
 - id: noughtybusters-005
-  enabled: true
+  enabled: false
   title: Noughtybusters
   topic: 2000s and 2010s reality TV and pop culture
   difficulty: easy
@@ -5469,7 +5469,7 @@
     - liquorice all sorts
     reasoning: liquorice (the black sweet) + allsorts (all different sorts, mixed bag) = Liquorice Allsorts
 - id: noughtybusters-001
-  enabled: true
+  enabled: false
   title: Noughtybusters
   topic: 2000s and 2010s reality TV and pop culture
   difficulty: easy
@@ -7722,7 +7722,7 @@
     - caramels
     reasoning: caramel (the golden sweet, also the chocolate bar with the swimming girl) = Caramel
 - id: noughtybusters-018
-  enabled: true
+  enabled: false
   title: Noughtybusters
   topic: 2000s and 2010s reality TV and pop culture
   difficulty: easy
@@ -8862,7 +8862,7 @@
     - milky bar
     reasoning: milky (pale/white, like milk) + bar (pub bar / chocolate bar) = Milkybar
 - id: noughtybusters-010
-  enabled: true
+  enabled: false
   title: Noughtybusters
   topic: 2000s and 2010s reality TV and pop culture
   difficulty: easy
@@ -9998,7 +9998,7 @@
     - fizzy belt
     reasoning: fizzy (acidic/tangy, fizzing on the tongue) + belts (strips/strapping, like a belt you wear) = Fizzy Belts
 - id: noughtybusters-014
-  enabled: true
+  enabled: false
   title: Noughtybusters
   topic: 2000s and 2010s reality TV and pop culture
   difficulty: easy
@@ -11077,7 +11077,7 @@
     - toblerone
     reasoning: tob (sounds like 'top') + le + rone (sounds like 'own') = Toblerone (the triangular mountain-shaped chocolate)
 - id: noughtybusters-009
-  enabled: true
+  enabled: false
   title: Noughtybusters
   topic: 2000s and 2010s reality TV and pop culture
   difficulty: easy
@@ -12161,7 +12161,7 @@
     - fruit salad
     reasoning: fruit (the thing you eat at a picnic with strawberries) + salad (something you put in a bowl) = Fruit Salad
 - id: noughtybusters-019
-  enabled: true
+  enabled: false
   title: Noughtybusters
   topic: 2000s and 2010s reality TV and pop culture
   difficulty: easy
@@ -13238,7 +13238,7 @@
     - humbug
     reasoning: hum (a low confused sound, or to hum while lost) + bugs (small creatures wandering about) = Humbugs
 - id: noughtybusters-002
-  enabled: true
+  enabled: false
   title: Noughtybusters
   topic: 2000s and 2010s reality TV and pop culture
   difficulty: easy
@@ -14309,7 +14309,7 @@
     - jelly baby
     reasoning: jelly (soft and wobbly) + babies (very small young humans) = Jelly Babies
 - id: noughtybusters-006
-  enabled: true
+  enabled: false
   title: Noughtybusters
   topic: 2000s and 2010s reality TV and pop culture
   difficulty: easy
@@ -15316,7 +15316,7 @@
     - cola bottle
     reasoning: cola (the fizzy dark drink) + bottles (the containers it comes in) = Cola Bottles
 - id: noughtybusters-008
-  enabled: true
+  enabled: false
   title: Noughtybusters
   topic: 2000s and 2010s reality TV and pop culture
   difficulty: easy
@@ -16254,7 +16254,7 @@
     - sherbet fountain
     reasoning: sherbet (fizzy powder in tubes) + fountain (the thing that spits water in the park) = Sherbet Fountain
 - id: noughtybusters-004
-  enabled: true
+  enabled: false
   title: Noughtybusters
   topic: 2000s and 2010s reality TV and pop culture
   difficulty: easy
@@ -17193,7 +17193,7 @@
     - refresher
     reasoning: refresh (to restore energy, like after a swim and a cold drink) + ers = Refreshers
 - id: noughtybusters-007
-  enabled: true
+  enabled: false
   title: Noughtybusters
   topic: 2000s and 2010s reality TV and pop culture
   difficulty: easy
@@ -18128,7 +18128,7 @@
     - flying saucer
     reasoning: flying (in the air, from above) + saucers (little disc-shaped things, like UFOs) = Flying Saucers
 - id: noughtybusters-012
-  enabled: true
+  enabled: false
   title: Noughtybusters
   topic: 2000s and 2010s reality TV and pop culture
   difficulty: easy
@@ -19070,7 +19070,7 @@
     - bounty
     reasoning: bounty (a reward, a stroke of luck, also a paradise island theme) = Bounty
 - id: noughtybusters-020
-  enabled: true
+  enabled: false
   title: Noughtybusters
   topic: 2000s and 2010s reality TV and pop culture
   difficulty: easy
@@ -20012,7 +20012,7 @@
     - aniseed ball
     reasoning: aniseed (a flavouring, the little black seeds) + balls (round things rolling about) = Aniseed Balls
 - id: noughtybusters-013
-  enabled: true
+  enabled: false
   title: Noughtybusters
   topic: 2000s and 2010s reality TV and pop culture
   difficulty: easy
@@ -20961,7 +20961,7 @@
     - bounty
     reasoning: bounty (a generous reward, or the Mutiny on the Bounty, or a tropical paradise sweet) = Bounty
 - id: noughtybusters-015
-  enabled: true
+  enabled: false
   title: Noughtybusters
   topic: 2000s and 2010s reality TV and pop culture
   difficulty: easy
@@ -21900,7 +21900,7 @@
     - humbug
     reasoning: hum (doing an impression, humming something) + bugs (tiny fellas) = Humbugs
 - id: noughtybusters-011
-  enabled: true
+  enabled: false
   title: Noughtybusters
   topic: 2000s and 2010s reality TV and pop culture
   difficulty: easy
@@ -22841,7 +22841,7 @@
     - starburst
     reasoning: star (space thing, fires lasers in films) + burst (exploded/gone everywhere) = Starburst
 - id: noughtybusters-016
-  enabled: true
+  enabled: false
   title: Noughtybusters
   topic: 2000s and 2010s reality TV and pop culture
   difficulty: easy
@@ -23782,7 +23782,7 @@
     - lion bar
     reasoning: lion (the big cat with a mane) + bar (a solid block, or a rod used in roadworks) = Lion Bar
 - id: noughtybusters-003
-  enabled: true
+  enabled: false
   title: Noughtybusters
   topic: 2000s and 2010s reality TV and pop culture
   difficulty: easy
