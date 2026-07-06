@@ -220,7 +220,7 @@
   - number: 2
     initials: E P
     clue: That bloke Adam - from the Bible, the original one - he's got a massive construction project on the go. Cornwall.
-    answer: Eden Project
+    answer: Trafalgar Square
     aliases:
     - eden project
     - the eden project
@@ -228,7 +228,7 @@
   - number: 3
     initials: D C
     clue: Them massive church towers up north - proper Norman ones - and someone's gone and put a big pointy roof on the lot of them. Durham.
-    answer: Durham Cathedral
+    answer: York Minster
     aliases:
     - durham cathedral
     reasoning: Durham (up north) + cathedral (massive church with towers) = Durham Cathedral
@@ -392,7 +392,7 @@
   - number: 3
     initials: E P
     clue: Big garden, that biblical one, and someone's saying it's a big build. Loads of domes. Cornwall.
-    answer: Eden Project
+    answer: Trafalgar Square
     aliases:
     - eden project
     - the eden project
@@ -454,7 +454,7 @@
   - number: 2
     initials: D C
     clue: Big old Norman church, right, biggest one in the north, and it's got these towers and a massive roof. Durham.
-    answer: Durham Cathedral
+    answer: York Minster
     aliases:
     - durham cathedral
     reasoning: Durham (big old Norman city) + cathedral (massive church with towers) = Durham Cathedral
@@ -584,7 +584,7 @@
   - number: 2
     initials: E P
     clue: Garden of Eden - that one with Adam and Eve - and someone's announced a massive building scheme. Cornwall.
-    answer: Eden Project
+    answer: Trafalgar Square
     aliases:
     - eden project
     - the eden project
@@ -659,7 +659,7 @@
   - number: 3
     initials: D C
     clue: Big old church - proper massive Norman one. Towers, pointed roof, the lot. Durham. That'll do.
-    answer: Durham Cathedral
+    answer: York Minster
     aliases:
     - durham cathedral
     reasoning: Durham (big old Norman city) + cathedral (massive church) = Durham Cathedral
