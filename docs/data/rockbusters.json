@@ -182,38 +182,6 @@
     ]
   },
   {
-    "id": "citybusters-011",
-    "enabled": true,
-    "title": "Citybusters",
-    "topic": "European cities",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US",
-      "Europe"
-    ],
-    "intro": "Citybusters eleven. Same theme, same rules. European city hiding in every clue.",
-    "prize": "Email in. Winner gets a stack of Hotel key cards and a complimentary shower cap.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "R",
-        "clue": "Right, that woman's got a really high fence around her garden. Keeps the deer out and that."
-      },
-      {
-        "number": 2,
-        "initials": "V",
-        "clue": "There's a fella called Lin who's gone a bit wild. A bit free. Don't know what's got into him."
-      },
-      {
-        "number": 3,
-        "initials": "B",
-        "clue": "Some lad called Ern has had a nap. Just a short one. In the middle of the afternoon. Fair enough."
-      }
-    ]
-  },
-  {
     "id": "actorbusters-015",
     "enabled": true,
     "title": "Actorbusters",
@@ -3943,38 +3911,6 @@
     ]
   },
   {
-    "id": "citybusters-018",
-    "enabled": true,
-    "title": "Citybusters",
-    "topic": "European cities",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US",
-      "Europe"
-    ],
-    "intro": "Citybusters. European city, phonetic clue, say it out loud.",
-    "prize": "Email in. Winner gets a DVD copy of Calendar Girls and a travel mug.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "G",
-        "clue": "Right, a massive drop, sort of a waterfall type situation, and it's saying yes at the same time. Just going for it."
-      },
-      {
-        "number": 2,
-        "initials": "P",
-        "clue": "There's something going on that sounds a bit like a snore crossed with a sneeze. Don't overthink it."
-      },
-      {
-        "number": 3,
-        "initials": "B",
-        "clue": "Some fella called Odo has had a bit of a win. He's delighted. Probably won something in Bordeaux. Near enough."
-      }
-    ]
-  },
-  {
     "id": "actorbusters-006",
     "enabled": true,
     "title": "Actorbusters",
@@ -5782,7 +5718,7 @@
       {
         "number": 1,
         "initials": "P",
-        "clue": "Some fella's at the harbour, pouring something out. Bit wasteful if you ask me."
+        "clue": "[CLUE NEEDS REWRITE] Some fella's at the harbour, pouring something out. Bit wasteful if you ask me."
       },
       {
         "number": 2,
@@ -6641,7 +6577,7 @@
       {
         "number": 1,
         "initials": "L",
-        "clue": "Right, a bloke called Lee has got himself a lion. Just the one. Standing there."
+        "clue": "[CLUE NEEDS REWRITE] Right, a bloke called Lee has got himself a lion. Just the one. Standing there."
       },
       {
         "number": 2,
@@ -6651,7 +6587,7 @@
       {
         "number": 3,
         "initials": "N",
-        "clue": "That's quite a tidy-looking place, isn't it. Someone's been round with a cloth. Say it out loud."
+        "clue": "[CLUE NEEDS REWRITE] That's quite a tidy-looking place, isn't it. Someone's been round with a cloth. Say it out loud."
       }
     ]
   },
@@ -7417,7 +7353,7 @@
       {
         "number": 3,
         "initials": "L",
-        "clue": "Right, a bloke called Burg is really enjoying his lager. A proper Lux moment."
+        "clue": "[CLUE NEEDS REWRITE] Right, a bloke called Burg is really enjoying his lager. A proper Lux moment."
       }
     ]
   },
@@ -8214,38 +8150,6 @@
         "number": 3,
         "initials": "R",
         "clue": "Bit of a gamble this one. You've got your armies, right, and it all comes down to whether you fancy your chances. That's the whole idea."
-      }
-    ]
-  },
-  {
-    "id": "citybusters-013",
-    "enabled": true,
-    "title": "Citybusters",
-    "topic": "European cities",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US",
-      "Europe"
-    ],
-    "intro": "Citybusters, baker's dozen. Still all European cities. Say the clues out loud.",
-    "prize": "Email in. Winner gets an Encyclopaedia Britannica volume 7 and a travel pillow.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "R",
-        "clue": "Right, some fella's gone and spun the wheels on his car really fast. Left some rubber on the road. That's all."
-      },
-      {
-        "number": 2,
-        "initials": "M",
-        "clue": "Someone's gone and put their sea in a massive jar. Right in the middle of a shelf."
-      },
-      {
-        "number": 3,
-        "initials": "B",
-        "clue": "Right, there's a fella called Slava and he's had a bit of a falling out. A bit of brat energy, if you ask me."
       }
     ]
   },
@@ -9098,12 +9002,12 @@
       {
         "number": 2,
         "initials": "G",
-        "clue": "There's a lad called Raz, and something's been done to him that he did not ask for. He's been grazed."
+        "clue": "[CLUE NEEDS REWRITE] There's a lad called Raz, and something's been done to him that he did not ask for. He's been grazed."
       },
       {
         "number": 3,
         "initials": "I",
-        "clue": "Some fella's been calling himself a capital. Bit presumptuous. But he sort of is one, in a way."
+        "clue": "[CLUE NEEDS REWRITE] Some fella's been calling himself a capital. Bit presumptuous. But he sort of is one, in a way."
       }
     ]
   },
@@ -9778,38 +9682,6 @@
         "number": 3,
         "initials": "R",
         "clue": "World domination, basically. You've got your troops, you've got a map, and you think you know what you're doing. You don't."
-      }
-    ]
-  },
-  {
-    "id": "citybusters-016",
-    "enabled": true,
-    "title": "Citybusters",
-    "topic": "European cities",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US",
-      "Europe"
-    ],
-    "intro": "Citybusters sixteen. Four to go after this. Still all European cities, still phonetic riddles.",
-    "prize": "Email in. Winner gets a fondue set still in the box and a selection of instant coffees.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "S",
-        "clue": "There's a girl called Nia and she's in a van, going around. Sort of delivering things."
-      },
-      {
-        "number": 2,
-        "initials": "K",
-        "clue": "Right, a fella called Rack has gone and done something to some crackers. Cracked them, presumably."
-      },
-      {
-        "number": 3,
-        "initials": "T",
-        "clue": "Some bloke called Rana has got himself a big hill. Just sits there being a hill."
       }
     ]
   },
@@ -18119,12 +17991,12 @@
       {
         "number": 2,
         "initials": "N",
-        "clue": "That's a very pleasant-looking spot, isn't it. Someone would say it's quite nice. Which it is."
+        "clue": "[CLUE NEEDS REWRITE] That's a very pleasant-looking spot, isn't it. Someone would say it's quite nice. Which it is."
       },
       {
         "number": 3,
         "initials": "B",
-        "clue": "There's a fella called Bruge. He's just sort of... there. Standing around. That's it."
+        "clue": "[CLUE NEEDS REWRITE] There's a fella called Bruge. He's just sort of... there. Standing around. That's it."
       }
     ]
   },
@@ -18151,12 +18023,12 @@
       {
         "number": 2,
         "initials": "R",
-        "clue": "Right, that place that sounds like it's got ice in the name. And it has. Because it's in Iceland. Bit on the nose."
+        "clue": "[CLUE NEEDS REWRITE] Right, that place that sounds like it's got ice in the name. And it has. Because it's in Iceland. Bit on the nose."
       },
       {
         "number": 3,
         "initials": "T",
-        "clue": "Some fella called Tallin has gone and done it. Bit thin on detail but that's what's happened."
+        "clue": "[CLUE NEEDS REWRITE] Some fella called Tallin has gone and done it. Bit thin on detail but that's what's happened."
       }
     ]
   },
@@ -18188,71 +18060,7 @@
       {
         "number": 3,
         "initials": "A",
-        "clue": "There's a bloke called Twerp and something's thrown off his thinking a bit. A bit off, is Twerp."
-      }
-    ]
-  },
-  {
-    "id": "citybusters-017",
-    "enabled": true,
-    "title": "Citybusters",
-    "topic": "European cities",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US",
-      "Europe"
-    ],
-    "intro": "Three more to go after this one. Citybusters seventeen. All European. You know what to do.",
-    "prize": "Email in. Winner gets a signed letter from someone off Emmerdale, possibly.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "S",
-        "clue": "Right, some fella called Raj has gone and got himself a blowout. Fancy dinner, the lot."
-      },
-      {
-        "number": 2,
-        "initials": "S",
-        "clue": "There's a lad called Pli and he's split something down the middle. Clean down the middle. Two halves."
-      },
-      {
-        "number": 3,
-        "initials": "P",
-        "clue": "That fella's gone and dyed himself. He's had a coating. Bit of a paint situation."
-      }
-    ]
-  },
-  {
-    "id": "citybusters-019",
-    "enabled": true,
-    "title": "Citybusters",
-    "topic": "European cities",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US",
-      "Europe"
-    ],
-    "intro": "Citybusters. Three more European cities hiding in the phonetics. Go on then.",
-    "prize": "Email in. Winner gets a commemorative tin from the Queen's Jubilee and some chocolate fingers.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "S",
-        "clue": "Right, that big Greek monument - the ancient one everyone goes to look at - it's gone a bit unwell."
-      },
-      {
-        "number": 2,
-        "initials": "N",
-        "clue": "Someone's had a nap and a drink of something fizzy. Both at once, somehow. Fair enough."
-      },
-      {
-        "number": 3,
-        "initials": "V",
-        "clue": "There's a man called Aduz and he's being quite specific about which one he is. He's the one. The actual one."
+        "clue": "[CLUE NEEDS REWRITE] There's a bloke called Twerp and something's thrown off his thinking a bit. A bit off, is Twerp."
       }
     ]
   },

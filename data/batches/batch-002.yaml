@@ -217,8 +217,8 @@
   clues:
   - number: 1
     initials: L
-    clue: Right, a bloke called Lee has got himself a lion. Just the one. Standing there.
-    answer: Lyon
+    clue: '[CLUE NEEDS REWRITE] Right, a bloke called Lee has got himself a lion. Just the one. Standing there.'
+    answer: Nice
     aliases:
     - lyon
     - lyons
@@ -232,8 +232,8 @@
     reasoning: mi (sounds like 'me') + lan = Milan, or 'me-lan' = Milan
   - number: 3
     initials: N
-    clue: That's quite a tidy-looking place, isn't it. Someone's been round with a cloth. Say it out loud.
-    answer: Naples
+    clue: '[CLUE NEEDS REWRITE] That''s quite a tidy-looking place, isn''t it. Someone''s been round with a cloth. Say it out loud.'
+    answer: Lisbon
     aliases:
     - naples
     reasoning: nap (a sleep) + les (sounds like 'les') = Naples
@@ -252,8 +252,8 @@
   clues:
   - number: 1
     initials: P
-    clue: Some fella's at the harbour, pouring something out. Bit wasteful if you ask me.
-    answer: Porto
+    clue: '[CLUE NEEDS REWRITE] Some fella''s at the harbour, pouring something out. Bit wasteful if you ask me.'
+    answer: Krakow
     aliases:
     - porto
     reasoning: port (a harbour) + o = Porto
@@ -293,15 +293,15 @@
     reasoning: Flo (short for Florence) + rence (sounds like 'rents') = Florence
   - number: 2
     initials: N
-    clue: That's a very pleasant-looking spot, isn't it. Someone would say it's quite nice. Which it is.
-    answer: Nice
+    clue: '[CLUE NEEDS REWRITE] That''s a very pleasant-looking spot, isn''t it. Someone would say it''s quite nice. Which it is.'
+    answer: Copenhagen
     aliases:
     - nice
     reasoning: Nice sounds like 'nice' = Nice (the city in France)
   - number: 3
     initials: B
-    clue: There's a fella called Bruge. He's just sort of... there. Standing around. That's it.
-    answer: Bruges
+    clue: '[CLUE NEEDS REWRITE] There''s a fella called Bruge. He''s just sort of... there. Standing around. That''s it.'
+    answer: Brussels
     aliases:
     - bruges
     reasoning: Bruges sounds like 'brooj' = Bruges
@@ -327,21 +327,21 @@
     reasoning: dub (sounds like 'dub') + rov + nik = Dubrovnik
   - number: 2
     initials: R
-    clue: Right, that place that sounds like it's got ice in the name. And it has. Because it's in Iceland. Bit on the nose.
-    answer: Reykjavik
+    clue: '[CLUE NEEDS REWRITE] Right, that place that sounds like it''s got ice in the name. And it has. Because it''s in Iceland. Bit on the nose.'
+    answer: Helsinki
     aliases:
     - reykjavik
     reasoning: Reyk (sounds like 'rake') + ja + vik = Reykjavik
   - number: 3
     initials: T
-    clue: Some fella called Tallin has gone and done it. Bit thin on detail but that's what's happened.
-    answer: Tallinn
+    clue: '[CLUE NEEDS REWRITE] Some fella called Tallin has gone and done it. Bit thin on detail but that''s what''s happened.'
+    answer: Oslo
     aliases:
     - tallinn
     - tallin
     reasoning: tall (height) + inn (a pub) = Tallinn
 - id: citybusters-011
-  enabled: true
+  enabled: false
   title: Citybusters
   topic: European cities
   difficulty: medium
@@ -404,13 +404,13 @@
     reasoning: gen (sounds like 'gen') + eva (sounds like 'Eva') = Geneva
   - number: 3
     initials: A
-    clue: There's a bloke called Twerp and something's thrown off his thinking a bit. A bit off, is Twerp.
-    answer: Antwerp
+    clue: '[CLUE NEEDS REWRITE] There''s a bloke called Twerp and something''s thrown off his thinking a bit. A bit off, is Twerp.'
+    answer: Brussels
     aliases:
     - antwerp
     reasoning: ant (insect) + werp = Antwerp, or 'Ant' + 'werp' sounds like 'ant-werp' = Antwerp
 - id: citybusters-013
-  enabled: true
+  enabled: false
   title: Citybusters
   topic: European cities
   difficulty: medium
@@ -507,13 +507,13 @@
     reasoning: roam (to walk around) = Rome
   - number: 3
     initials: L
-    clue: Right, a bloke called Burg is really enjoying his lager. A proper Lux moment.
-    answer: Luxembourg
+    clue: '[CLUE NEEDS REWRITE] Right, a bloke called Burg is really enjoying his lager. A proper Lux moment.'
+    answer: Copenhagen
     aliases:
     - luxembourg
     reasoning: lux (light/luxury) + em + bourg (sounds like 'berg') = Luxembourg
 - id: citybusters-016
-  enabled: true
+  enabled: false
   title: Citybusters
   topic: European cities
   difficulty: medium
@@ -548,7 +548,7 @@
     - tirana
     reasoning: ti (sounds like 'tea') + rana (sounds like 'Rana') = Tirana
 - id: citybusters-017
-  enabled: true
+  enabled: false
   title: Citybusters
   topic: European cities
   difficulty: medium
@@ -582,7 +582,7 @@
     - plovdiv
     reasoning: plov (sounds like 'plov') + div = Plovdiv
 - id: citybusters-018
-  enabled: true
+  enabled: false
   title: Citybusters
   topic: European cities
   difficulty: medium
@@ -617,7 +617,7 @@
     - bordeaux
     reasoning: bor (sounds like 'bore') + deaux (sounds like 'doh') = Bordeaux
 - id: citybusters-019
-  enabled: true
+  enabled: false
   title: Citybusters
   topic: European cities
   difficulty: medium
@@ -673,15 +673,15 @@
     reasoning: salz (sounds like 'salts') + burg (sounds like 'berg/burg') = Salzburg
   - number: 2
     initials: G
-    clue: There's a lad called Raz, and something's been done to him that he did not ask for. He's been grazed.
-    answer: Graz
+    clue: '[CLUE NEEDS REWRITE] There''s a lad called Raz, and something''s been done to him that he did not ask for. He''s been grazed.'
+    answer: Salzburg
     aliases:
     - graz
     reasoning: graz (sounds like 'graze') = Graz
   - number: 3
     initials: I
-    clue: Some fella's been calling himself a capital. Bit presumptuous. But he sort of is one, in a way.
-    answer: Innsbruck
+    clue: '[CLUE NEEDS REWRITE] Some fella''s been calling himself a capital. Bit presumptuous. But he sort of is one, in a way.'
+    answer: Vienna
     aliases:
     - innsbruck
     reasoning: inns (like pubs/inns) + bruck (sounds like 'brook/brick') = Innsbruck
