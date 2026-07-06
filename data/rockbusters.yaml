@@ -335,7 +335,7 @@
     - brighton
     reasoning: Bright (radiant, glowing) + on (at the coast, settled there) = Brighton
 - id: olympicsbusters-001
-  enabled: true
+  enabled: false
   title: Olympicsbusters
   topic: Olympic events
   difficulty: hard
@@ -2820,7 +2820,7 @@
     - burnley
     reasoning: Burn (on fire, burning) + ley (old English place name ending, a Lancashire town) = Burnley
 - id: olympicsbusters-002
-  enabled: true
+  enabled: false
   title: Olympicsbusters
   topic: Olympic events
   difficulty: hard
@@ -5302,7 +5302,7 @@
     - man city
     reasoning: Man (a big fella) + chest (broad chest) + er (him) + City (moved to the city) = Manchester City
 - id: olympicsbusters-003
-  enabled: true
+  enabled: false
   title: Olympicsbusters
   topic: Olympic events
   difficulty: hard

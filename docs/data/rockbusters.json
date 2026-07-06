@@ -275,36 +275,6 @@
     ]
   },
   {
-    "id": "olympicsbusters-001",
-    "enabled": true,
-    "title": "Olympicsbusters",
-    "topic": "Olympic events",
-    "difficulty": "hard",
-    "office_safe": true,
-    "region_relevance": [
-      "Global"
-    ],
-    "intro": "Right, Olympicsbusters. All the answers are Olympic events hiding in phonetic clues. Say them out loud. The answer's somewhere in the sounds. Nothing to do with how they're spelled.",
-    "prize": "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "P",
-        "clue": "A fella's sitting at a desk with one of those things you write with, the ink kind, and he's trying to reach a bathtub that's a bit further down the road, in London somewhere. He keeps stretching. Can't quite make it. Five attempts so far."
-      },
-      {
-        "number": 2,
-        "initials": "B",
-        "clue": "Someone's saying cheerio and heading off, very casual about it, and now they're at a bath that's somewhere in the general direction of London. They've done this before. They know the route. Still two events though."
-      },
-      {
-        "number": 3,
-        "initials": "D",
-        "clue": "Someone's laid out a proper floor, like a ship's deck, and there's a bath at the end of it, and London's somewhere nearby. Lot of effort just to get clean. Ten events total."
-      }
-    ]
-  },
-  {
     "id": "bondbaddiesbusters-003",
     "enabled": true,
     "title": "Bondbaddiesbusters",
@@ -2492,36 +2462,6 @@
     ]
   },
   {
-    "id": "olympicsbusters-002",
-    "enabled": true,
-    "title": "Olympicsbusters",
-    "topic": "Olympic events",
-    "difficulty": "hard",
-    "office_safe": true,
-    "region_relevance": [
-      "Global"
-    ],
-    "intro": "Olympicsbusters two. Three more Olympic events phonetically hidden in these clues. You'll need to say them out loud. Reading them won't help much. Trust me on this one.",
-    "prize": "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "S",
-        "clue": "A fella called Dave has gone a bit pale, you know, all bony-looking, and it turns out he weighs about a ton. Doesn't look it but there you go. He's going down a hill face first on a tray."
-      },
-      {
-        "number": 2,
-        "initials": "B",
-        "clue": "A lad called Bob has decided to absolutely ruin someone's evening. Properly gone for it. Left them in bits. He's done it down an ice tunnel at speed, which is a bit excessive if you ask me."
-      },
-      {
-        "number": 3,
-        "initials": "L",
-        "clue": "Someone's had a game and not won it. Gone home empty-handed. Bit deflated. They went down a hill on their back in a small pod and still managed to not come first."
-      }
-    ]
-  },
-  {
     "id": "bondbaddiesbusters-001",
     "enabled": true,
     "title": "Bondbaddiesbusters",
@@ -4704,36 +4644,6 @@
         "number": 3,
         "initials": "MC",
         "clue": "Big fella with a broad chest - proper wide - and he's moved to the city. Urban life suits him."
-      }
-    ]
-  },
-  {
-    "id": "olympicsbusters-003",
-    "enabled": true,
-    "title": "Olympicsbusters",
-    "topic": "Olympic events",
-    "difficulty": "hard",
-    "office_safe": true,
-    "region_relevance": [
-      "Global"
-    ],
-    "intro": "Olympicsbusters. Fencing and equestrian and gymnastics all in here somewhere. Say the clues out loud. The Olympic event is hiding in the sounds.",
-    "prize": "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "E",
-        "clue": "Someone's been asked to hand over some money and they've done it, no argument, just got their wallet out. Bit suspicious how easy that was. There's a long thin sword involved somehow."
-      },
-      {
-        "number": 2,
-        "initials": "D",
-        "clue": "A woman's put her good frock on, the formal one she saves for occasions, and now she's just sitting there getting older. The horse is doing all the work. She's ageing elegantly. Very graceful."
-      },
-      {
-        "number": 3,
-        "initials": "P",
-        "clue": "Right, there's an Australian, they get called poms but that's the other way round isn't it, and he's just met a bloke called Mel. They're getting on alright. One of them's on a horse. Or a leather apparatus. It's hard to tell."
       }
     ]
   },

@@ -1,5 +1,5 @@
 - id: olympicsbusters-001
-  enabled: true
+  enabled: false
   title: Olympicsbusters
   topic: Olympic events
   difficulty: hard
@@ -31,7 +31,7 @@
     - decathlon
     reasoning: dec (sounds like 'deck', a floor on a ship) + ath (sounds like start of 'bath') + lon (sounds like 'Lon', near London) = Dec-ath-lon = Decathlon
 - id: olympicsbusters-002
-  enabled: true
+  enabled: false
   title: Olympicsbusters
   topic: Olympic events
   difficulty: hard
@@ -64,7 +64,7 @@
     - luge
     reasoning: luge (sounds like 'loose' or 'loozh', rhymes with 'rouge'). Loo (like losing, the losing sound) + ge (like 'j', a soft ending) = Luge
 - id: olympicsbusters-003
-  enabled: true
+  enabled: false
   title: Olympicsbusters
   topic: Olympic events
   difficulty: hard

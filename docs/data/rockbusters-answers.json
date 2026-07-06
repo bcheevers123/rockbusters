@@ -270,35 +270,6 @@
     ]
   },
   {
-    "id": "olympicsbusters-001",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Pentathlon",
-        "aliases": [
-          "pentathlon"
-        ],
-        "reasoning": "pen (the writing thing) + tath (sounds like 'tath', mishearing of 'bath') + lon (sounds like 'Lon', short for London) = Pen-tath-lon = Pentathlon"
-      },
-      {
-        "number": 2,
-        "answer": "Biathlon",
-        "aliases": [
-          "biathlon"
-        ],
-        "reasoning": "bi (sounds like 'bye', farewell) + ath (sounds like the start of 'bath', without the b) + lon (sounds like 'Lon', London-adjacent) = Bi-ath-lon = Biathlon"
-      },
-      {
-        "number": 3,
-        "answer": "Decathlon",
-        "aliases": [
-          "decathlon"
-        ],
-        "reasoning": "dec (sounds like 'deck', a floor on a ship) + ath (sounds like start of 'bath') + lon (sounds like 'Lon', near London) = Dec-ath-lon = Decathlon"
-      }
-    ]
-  },
-  {
     "id": "bondbaddiesbusters-003",
     "clues": [
       {
@@ -2476,36 +2447,6 @@
     ]
   },
   {
-    "id": "olympicsbusters-002",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Skeleton",
-        "aliases": [
-          "skeleton"
-        ],
-        "reasoning": "skel (sounds like 'skel', a pale bony-looking sort) + e + ton (a unit of weight, heavier than he looks) = Skel-e-ton = Skeleton"
-      },
-      {
-        "number": 2,
-        "answer": "Bobsleigh",
-        "aliases": [
-          "bobsleigh",
-          "bob sleigh"
-        ],
-        "reasoning": "bob (a name, short for Robert) + sleigh (sounds like 'slay', to utterly destroy someone) = Bob-sleigh = Bobsleigh"
-      },
-      {
-        "number": 3,
-        "answer": "Luge",
-        "aliases": [
-          "luge"
-        ],
-        "reasoning": "luge (sounds like 'loose' or 'loozh', rhymes with 'rouge'). Loo (like losing, the losing sound) + ge (like 'j', a soft ending) = Luge"
-      }
-    ]
-  },
-  {
     "id": "bondbaddiesbusters-001",
     "clues": [
       {
@@ -4675,37 +4616,6 @@
           "man city"
         ],
         "reasoning": "Man (a big fella) + chest (broad chest) + er (him) + City (moved to the city) = Manchester City"
-      }
-    ]
-  },
-  {
-    "id": "olympicsbusters-003",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Epee",
-        "aliases": [
-          "epee",
-          "épée"
-        ],
-        "reasoning": "e (sounds like 'eh', a slight hesitation) + pay (to hand over money, no argument) = E-pay = Epee"
-      },
-      {
-        "number": 2,
-        "answer": "Dressage",
-        "aliases": [
-          "dressage"
-        ],
-        "reasoning": "dress (to put a frock on, get dressed up) + age (getting older, the passage of time) = Dress-age = Dressage"
-      },
-      {
-        "number": 3,
-        "answer": "Pommel",
-        "aliases": [
-          "pommel",
-          "pommel horse"
-        ],
-        "reasoning": "pom (what Australians call British people, or what British people get called) + mel (a name, short for Melanie or Mel Gibson) = Pom-mel = Pommel"
       }
     ]
   },
