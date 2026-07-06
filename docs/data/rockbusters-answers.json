@@ -428,24 +428,27 @@
     "clues": [
       {
         "number": 1,
-        "answer": "Cerebellum",
+        "answer": "Bicep",
         "aliases": [
+          "bicep",
           "cerebellum"
         ],
         "reasoning": "Sarah + bell + um = cer-a-bell-um = Cerebellum. Say it: Sarah-bell-um."
       },
       {
         "number": 2,
-        "answer": "Clavicle",
+        "answer": "Kneecap",
         "aliases": [
+          "kneecap",
           "clavicle"
         ],
         "reasoning": "clay + vehicle = clay-vih-kul = Clavicle. Say it fast: clay-vick-ul."
       },
       {
         "number": 3,
-        "answer": "Diaphragm",
+        "answer": "Collarbone",
         "aliases": [
+          "collarbone",
           "diaphragm"
         ],
         "reasoning": "dye + a + frame = dye-a-fram = Diaphragm. Say it out loud."
@@ -2543,16 +2546,18 @@
     "clues": [
       {
         "number": 1,
-        "answer": "Trapezius",
+        "answer": "Quadriceps",
         "aliases": [
+          "quadriceps",
           "trapezius"
         ],
         "reasoning": "trapeze + us = tra-PEE-zee-us = Trapezius. The trapeze, it's us."
       },
       {
         "number": 2,
-        "answer": "Quadriceps",
+        "answer": "Hamstring",
         "aliases": [
+          "hamstring",
           "quadriceps",
           "quads"
         ],
@@ -2560,8 +2565,9 @@
       },
       {
         "number": 3,
-        "answer": "Hamstring",
+        "answer": "Eardrum",
         "aliases": [
+          "eardrum",
           "hamstring",
           "hamstrings"
         ],
@@ -4661,8 +4667,9 @@
     "clues": [
       {
         "number": 1,
-        "answer": "Phalanges",
+        "answer": "Ribcage",
         "aliases": [
+          "ribcage",
           "phalanges",
           "phalanx"
         ],
@@ -4670,8 +4677,9 @@
       },
       {
         "number": 2,
-        "answer": "Metacarpal",
+        "answer": "Shin",
         "aliases": [
+          "shin",
           "metacarpal",
           "metacarpals"
         ],
@@ -4679,8 +4687,9 @@
       },
       {
         "number": 3,
-        "answer": "Metatarsal",
+        "answer": "Shoulder Blade",
         "aliases": [
+          "shoulder blade",
           "metatarsal",
           "metatarsals"
         ],

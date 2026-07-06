@@ -12,21 +12,21 @@
   - number: 1
     initials: C
     clue: There's a woman called Sarah and she's gone and rung the bell at him. Just stood there and rang it. Didn't say anything. Bell him, Sarah.
-    answer: Cerebellum
+    answer: Bicep
     aliases:
     - cerebellum
     reasoning: 'Sarah + bell + um = cer-a-bell-um = Cerebellum. Say it: Sarah-bell-um.'
   - number: 2
     initials: C
     clue: Someone's made a small vehicle entirely out of clay. Just sat there on the table. Bit of an odd project but there you go.
-    answer: Clavicle
+    answer: Kneecap
     aliases:
     - clavicle
     reasoning: 'clay + vehicle = clay-vih-kul = Clavicle. Say it fast: clay-vick-ul.'
   - number: 3
     initials: D
     clue: Right, they've gone and dyed a picture frame. Whole thing. Didn't need doing but someone's gone ahead and done it anyway.
-    answer: Diaphragm
+    answer: Collarbone
     aliases:
     - diaphragm
     reasoning: dye + a + frame = dye-a-fram = Diaphragm. Say it out loud.
@@ -44,7 +44,7 @@
   - number: 1
     initials: P
     clue: She fell over, and well, blimey. Just went down. Said something like 'oh, jeez' on the way. Bit of a tumble.
-    answer: Phalanges
+    answer: Ribcage
     aliases:
     - phalanges
     - phalanx
@@ -52,7 +52,7 @@
   - number: 2
     initials: M
     clue: He bumped into a mate outside the car park. Just stood there chatting. His mate owns a car, that's sort of the whole story.
-    answer: Metacarpal
+    answer: Shin
     aliases:
     - metacarpal
     - metacarpals
@@ -60,7 +60,7 @@
   - number: 3
     initials: M
     clue: He ran into a woman called Sal who works in road maintenance. She was covered in tar. Just standing there.
-    answer: Metatarsal
+    answer: Shoulder Blade
     aliases:
     - metatarsal
     - metatarsals
@@ -79,14 +79,14 @@
   - number: 1
     initials: T
     clue: Right, the trapeze act. It was us up there. On the wire. We were the ones doing it. Bit unexpected, really.
-    answer: Trapezius
+    answer: Quadriceps
     aliases:
     - trapezius
     reasoning: trapeze + us = tra-PEE-zee-us = Trapezius. The trapeze, it's us.
   - number: 2
     initials: Q
     clue: Someone's gone into the school courtyard - the square one with the benches - and they're doing something involving rye bread and it's all gone a bit off. Smells.
-    answer: Quadriceps
+    answer: Hamstring
     aliases:
     - quadriceps
     - quads
@@ -94,7 +94,7 @@
   - number: 3
     initials: H
     clue: Someone's tied a piece of string round a ham. Don't know why. Just looped it round and left it there. That's all that happened.
-    answer: Hamstring
+    answer: Eardrum
     aliases:
     - hamstring
     - hamstrings
