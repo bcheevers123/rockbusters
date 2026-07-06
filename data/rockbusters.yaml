@@ -367,7 +367,7 @@
     - decathlon
     reasoning: dec (sounds like 'deck', a floor on a ship) + ath (sounds like start of 'bath') + lon (sounds like 'Lon', near London) = Dec-ath-lon = Decathlon
 - id: bondbaddiesbusters-003
-  enabled: true
+  enabled: false
   title: Bondbaddiesbusters
   topic: Bond villains
   difficulty: hard
@@ -2853,7 +2853,7 @@
     - luge
     reasoning: luge (sounds like 'loose' or 'loozh', rhymes with 'rouge'). Loo (like losing, the losing sound) + ge (like 'j', a soft ending) = Luge
 - id: bondbaddiesbusters-001
-  enabled: true
+  enabled: false
   title: Bondbaddiesbusters
   topic: Bond villains
   difficulty: hard
@@ -5336,7 +5336,7 @@
     - pommel horse
     reasoning: pom (what Australians call British people, or what British people get called) + mel (a name, short for Melanie or Mel Gibson) = Pom-mel = Pommel
 - id: bondbaddiesbusters-002
-  enabled: true
+  enabled: false
   title: Bondbaddiesbusters
   topic: Bond villains
   difficulty: hard

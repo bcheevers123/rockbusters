@@ -1,5 +1,5 @@
 - id: bondbaddiesbusters-001
-  enabled: true
+  enabled: false
   title: Bondbaddiesbusters
   topic: Bond villains
   difficulty: hard
@@ -31,7 +31,7 @@
     - blofeld
     reasoning: blow (to blow, like wind, or a hit) + feld (sounds like 'field', a flat open grassy area) = Blow-feld = Blofeld
 - id: bondbaddiesbusters-002
-  enabled: true
+  enabled: false
   title: Bondbaddiesbusters
   topic: Bond villains
   difficulty: hard
@@ -65,7 +65,7 @@
     - lechiffre
     reasoning: le (French for 'the', very French) + chiffre (sounds like 'sheef', or 'shiff-ruh', French for cipher or number) = Le-Chiffre = Le Chiffre
 - id: bondbaddiesbusters-003
-  enabled: true
+  enabled: false
   title: Bondbaddiesbusters
   topic: Bond villains
   difficulty: hard

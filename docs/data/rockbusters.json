@@ -275,36 +275,6 @@
     ]
   },
   {
-    "id": "bondbaddiesbusters-003",
-    "enabled": true,
-    "title": "Bondbaddiesbusters",
-    "topic": "Bond villains",
-    "difficulty": "hard",
-    "office_safe": true,
-    "region_relevance": [
-      "Global"
-    ],
-    "intro": "Bondbaddiesbusters. Bond villains hiding in the phonetic clues. Say them out loud and something might click. Might not.",
-    "prize": "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "S",
-        "clue": "A bloke from a country with a lot of mountains has gone very quiet. He used to work in an office but now he doesn't. He's just watching from a distance with some binoculars. Very brooding. Made a forest out of silver."
-      },
-      {
-        "number": 2,
-        "initials": "Z",
-        "clue": "A German bloke has had a look around and decided he owns the place. He's standing on a very high balcony with a big coat on. He's pointing at things and telling people what they are. There's a blimp."
-      },
-      {
-        "number": 3,
-        "initials": "S",
-        "clue": "A Spanish bloke with a very particular chest hair situation has gone to an island and built something with three barrels attached to a gun. It's a lot of barrels. He seems very proud of the barrel count."
-      }
-    ]
-  },
-  {
     "id": "gembusters-001",
     "enabled": true,
     "title": "Gembusters",
@@ -2462,36 +2432,6 @@
     ]
   },
   {
-    "id": "bondbaddiesbusters-001",
-    "enabled": true,
-    "title": "Bondbaddiesbusters",
-    "topic": "Bond villains",
-    "difficulty": "hard",
-    "office_safe": true,
-    "region_relevance": [
-      "Global"
-    ],
-    "intro": "Right, Bondbaddiesbusters. All Bond villains hiding in phonetic clues. Say them out loud, the answer's somewhere in the sounds. Nothing to do with the spelling, just the sounds. Off you go.",
-    "prize": "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "G",
-        "clue": "A bloke has gone to a pawnbroker with his index finger. He's not selling it, he's just showing it off. The finger's made of gold. Everyone in the shop is very uncomfortable about the whole thing."
-      },
-      {
-        "number": 2,
-        "initials": "J",
-        "clue": "Someone's had a very big set of gnashers fitted. They're not subtle. You could open a tin with them. There's a bloke in the waiting room of the dentist just absolutely horrified."
-      },
-      {
-        "number": 3,
-        "initials": "B",
-        "clue": "A bloke called Ed has arrived in a field. He's brought a cat. He's stroking the cat in a very deliberate way. The field belongs to him. He's very calm about all of it."
-      }
-    ]
-  },
-  {
     "id": "gembusters-002",
     "enabled": true,
     "title": "Gembusters",
@@ -4644,36 +4584,6 @@
         "number": 3,
         "initials": "MC",
         "clue": "Big fella with a broad chest - proper wide - and he's moved to the city. Urban life suits him."
-      }
-    ]
-  },
-  {
-    "id": "bondbaddiesbusters-002",
-    "enabled": true,
-    "title": "Bondbaddiesbusters",
-    "topic": "Bond villains",
-    "difficulty": "hard",
-    "office_safe": true,
-    "region_relevance": [
-      "Global"
-    ],
-    "intro": "Bondbaddiesbusters two. More villains from the Bond films in phonetic form. Say each clue out loud. The answer's in the sounds. Don't overthink it, that's not going to help you.",
-    "prize": "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "S",
-        "clue": "A bloke called Andy has gone to see a woman called Sandra but he's taken a very odd route through a forest and come out the other side looking a bit shifty. Completely unnecessary detour."
-      },
-      {
-        "number": 2,
-        "initials": "C",
-        "clue": "A bloke who does woodwork has decided to start a newspaper. He's carved the masthead himself. It's quite aggressive looking. He's standing next to it looking very pleased with himself."
-      },
-      {
-        "number": 3,
-        "initials": "LC",
-        "clue": "A French bloke has been for a cipher. Not a massage. A cipher. He's come back looking very stressed and he's got a lot of numbers written on his hand. Nobody's lending him any money."
       }
     ]
   },

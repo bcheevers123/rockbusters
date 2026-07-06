@@ -270,38 +270,6 @@
     ]
   },
   {
-    "id": "bondbaddiesbusters-003",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Silva",
-        "aliases": [
-          "silva",
-          "raoul silva"
-        ],
-        "reasoning": "sil (sounds like 'sill', a window ledge, or 'sil', silver in some languages) + va (sounds like 'va', to go, off you go) = Sil-va = Silva"
-      },
-      {
-        "number": 2,
-        "answer": "Zorin",
-        "aliases": [
-          "zorin",
-          "max zorin"
-        ],
-        "reasoning": "zor (sounds like 'zore', or 'zaw', like a saw but with a Z) + in (the preposition, inside, within) = Zor-in = Zorin"
-      },
-      {
-        "number": 3,
-        "answer": "Scaramanga",
-        "aliases": [
-          "scaramanga",
-          "francisco scaramanga"
-        ],
-        "reasoning": "scar (a mark left on skin after a wound) + a (the article) + man (a male person) + ga (sounds like 'gah', an exclamation of mild surprise) = Scar-a-man-ga = Scaramanga"
-      }
-    ]
-  },
-  {
     "id": "gembusters-001",
     "clues": [
       {
@@ -2447,35 +2415,6 @@
     ]
   },
   {
-    "id": "bondbaddiesbusters-001",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Goldfinger",
-        "aliases": [
-          "goldfinger"
-        ],
-        "reasoning": "gold (the metal, yellow, valuable) + finger (the digit on your hand, the pointing one) = Gold-finger = Goldfinger"
-      },
-      {
-        "number": 2,
-        "answer": "Jaws",
-        "aliases": [
-          "jaws"
-        ],
-        "reasoning": "jaws (the bony mouth parts, the chomping bits) = Jaws. Sounds exactly like jaws."
-      },
-      {
-        "number": 3,
-        "answer": "Blofeld",
-        "aliases": [
-          "blofeld"
-        ],
-        "reasoning": "blow (to blow, like wind, or a hit) + feld (sounds like 'field', a flat open grassy area) = Blow-feld = Blofeld"
-      }
-    ]
-  },
-  {
     "id": "gembusters-002",
     "clues": [
       {
@@ -4616,37 +4555,6 @@
           "man city"
         ],
         "reasoning": "Man (a big fella) + chest (broad chest) + er (him) + City (moved to the city) = Manchester City"
-      }
-    ]
-  },
-  {
-    "id": "bondbaddiesbusters-002",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Sanchez",
-        "aliases": [
-          "sanchez"
-        ],
-        "reasoning": "san (sounds like 'sand', or 'san', as in sanctuary) + chez (sounds like 'shay', or 'chez', French for at the house of) = San-chez = Sanchez"
-      },
-      {
-        "number": 2,
-        "answer": "Carver",
-        "aliases": [
-          "carver",
-          "elliot carver"
-        ],
-        "reasoning": "carve (to cut into something, what a woodworker does) + er (the suffix, the person who does it) = Carve-r = Carver"
-      },
-      {
-        "number": 3,
-        "answer": "Le Chiffre",
-        "aliases": [
-          "le chiffre",
-          "lechiffre"
-        ],
-        "reasoning": "le (French for 'the', very French) + chiffre (sounds like 'sheef', or 'shiff-ruh', French for cipher or number) = Le-Chiffre = Le Chiffre"
       }
     ]
   },
