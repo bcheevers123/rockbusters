@@ -11416,8 +11416,9 @@
       },
       {
         "number": 3,
-        "answer": "Gene",
+        "answer": "Blur",
         "aliases": [
+          "blur",
           "gene"
         ],
         "reasoning": "Gene (sounds like 'jean' the fabric or just the name Gene) = Gene"
@@ -18820,8 +18821,9 @@
       },
       {
         "number": 3,
-        "answer": "Gene",
+        "answer": "Pulp",
         "aliases": [
+          "pulp",
           "gene"
         ],
         "reasoning": "Gene (the name, one syllable, sounds exactly like the band name) = Gene"
