@@ -617,36 +617,6 @@
     ]
   },
   {
-    "id": "mixedbusters-012",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Greenhouse Run",
-        "aliases": [
-          "greenhouse run"
-        ],
-        "reasoning": "greenhouse (the glass garden building) + run (it's started running, legs going) = Greenhouse Run"
-      },
-      {
-        "number": 2,
-        "answer": "Pat Tree",
-        "aliases": [
-          "pat tree",
-          "pat's tree"
-        ],
-        "reasoning": "Pat (someone called Pat) + tree (climbed the tallest tree) = Pat Tree"
-      },
-      {
-        "number": 3,
-        "answer": "Night Container",
-        "aliases": [
-          "night container"
-        ],
-        "reasoning": "night (it's night-time) + container (a big container, like a box) = Night Container"
-      }
-    ]
-  },
-  {
     "id": "religionbusters-002",
     "clues": [
       {
@@ -2616,36 +2586,6 @@
     ]
   },
   {
-    "id": "mixedbusters-007",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Murky Damp",
-        "aliases": [
-          "murky damp"
-        ],
-        "reasoning": "murky (foggy, mysterious swamp) + damp (everything's gone damp) = Murky Damp"
-      },
-      {
-        "number": 2,
-        "answer": "Spade Ground",
-        "aliases": [
-          "spade ground"
-        ],
-        "reasoning": "spade (holding a spade) + ground (pointing at the ground) = Spade Ground"
-      },
-      {
-        "number": 3,
-        "answer": "Lamp Post",
-        "aliases": [
-          "lamp post",
-          "lamppost"
-        ],
-        "reasoning": "lamp (lamppost, lit up) + post (wrapped, sent like a parcel) = Lamp Post"
-      }
-    ]
-  },
-  {
     "id": "religionbusters-003",
     "clues": [
       {
@@ -4593,35 +4533,6 @@
     ]
   },
   {
-    "id": "mixedbusters-017",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Caravan Name",
-        "aliases": [
-          "caravan name"
-        ],
-        "reasoning": "caravan (a caravan they take everywhere) + name (they've named it, got a little sign) = Caravan Name"
-      },
-      {
-        "number": 2,
-        "answer": "Ribbon Boulder",
-        "aliases": [
-          "ribbon boulder"
-        ],
-        "reasoning": "ribbon (a ribbon, pink bow tied round it) + boulder (a big boulder in a field) = Ribbon Boulder"
-      },
-      {
-        "number": 3,
-        "answer": "Pillar Foxtrot",
-        "aliases": [
-          "pillar foxtrot"
-        ],
-        "reasoning": "pillar (a stone pillar in the town square) + foxtrot (the dance it's doing, a foxtrot) = Pillar Foxtrot"
-      }
-    ]
-  },
-  {
     "id": "religionbusters-001",
     "clues": [
       {
@@ -6251,35 +6162,6 @@
     ]
   },
   {
-    "id": "mixedbusters-011",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Fire Blog",
-        "aliases": [
-          "fire blog"
-        ],
-        "reasoning": "fire (the fireplace, a fire) + blog (written something down, like a blog) = Fire Blog"
-      },
-      {
-        "number": 2,
-        "answer": "Tower Moustache",
-        "aliases": [
-          "tower moustache"
-        ],
-        "reasoning": "tower (a clock tower) + moustache (it's grown a moustache, like a proper handlebar one) = Tower Moustache"
-      },
-      {
-        "number": 3,
-        "answer": "House Drop",
-        "aliases": [
-          "house drop"
-        ],
-        "reasoning": "house (the house on the cliff) + drop (right on the edge of a drop) = House Drop"
-      }
-    ]
-  },
-  {
     "id": "techbusters-014",
     "clues": [
       {
@@ -7089,35 +6971,6 @@
           "serena williams"
         ],
         "reasoning": "sir (title like a knight) + Reena (name) + Williams = Serena Williams"
-      }
-    ]
-  },
-  {
-    "id": "mixedbusters-016",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Bernard Light",
-        "aliases": [
-          "bernard light"
-        ],
-        "reasoning": "Bernard (someone called Bernard, or Bernie) + light (the lighthouse, the beam of light) = Bernard Light"
-      },
-      {
-        "number": 2,
-        "answer": "Slug Play",
-        "aliases": [
-          "slug play"
-        ],
-        "reasoning": "slug (the garden slug, slow and slimy) + play (a theatre play, sat in the front row) = Slug Play"
-      },
-      {
-        "number": 3,
-        "answer": "Wind Eggs",
-        "aliases": [
-          "wind eggs"
-        ],
-        "reasoning": "wind (the wind coming through) + eggs (it's eaten all the eggs, gone) = Wind Eggs"
       }
     ]
   },
@@ -7955,36 +7808,6 @@
           "wolverhampton"
         ],
         "reasoning": "wolf + er (to err, to hesitate) + hamp (a damp place, damp sound to it) + ton (a small settlement, common English suffix) = Wolverhampton. Wolf-er-hamp-ton."
-      }
-    ]
-  },
-  {
-    "id": "mixedbusters-001",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Barry Flat",
-        "aliases": [
-          "barry flat",
-          "barry's flat"
-        ],
-        "reasoning": "Barry (fella called Barry) + flat (lying down on the road) = Barry Flat"
-      },
-      {
-        "number": 2,
-        "answer": "Sausage Steps",
-        "aliases": [
-          "sausage steps"
-        ],
-        "reasoning": "sausage (sausages) + steps (pool steps) = Sausage Steps"
-      },
-      {
-        "number": 3,
-        "answer": "The Barrier",
-        "aliases": [
-          "the barrier"
-        ],
-        "reasoning": "the (that) + barrier (fence around the bed) = The Barrier"
       }
     ]
   },
@@ -8832,37 +8655,6 @@
     ]
   },
   {
-    "id": "mixedbusters-005",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Cat Boat",
-        "aliases": [
-          "cat boat",
-          "catboat"
-        ],
-        "reasoning": "cat (the cat) + boat (eaten a whole boat) = Cat Boat"
-      },
-      {
-        "number": 2,
-        "answer": "Rosa Park",
-        "aliases": [
-          "rosa park",
-          "rosa parks"
-        ],
-        "reasoning": "Rosa (woman called Rosa) + park (standing in the park) = Rosa Parks"
-      },
-      {
-        "number": 3,
-        "answer": "Tidal Library",
-        "aliases": [
-          "tidal library"
-        ],
-        "reasoning": "tidal (the tide coming in) + library (the library full of books) = Tidal Library"
-      }
-    ]
-  },
-  {
     "id": "techbusters-019",
     "clues": [
       {
@@ -9624,35 +9416,6 @@
     ]
   },
   {
-    "id": "mixedbusters-020",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Gate Career",
-        "aliases": [
-          "gate career"
-        ],
-        "reasoning": "gate (a garden or farm gate) + career (it's applied for a job, it wants a career) = Gate Career"
-      },
-      {
-        "number": 2,
-        "answer": "Spoon Label",
-        "aliases": [
-          "spoon label"
-        ],
-        "reasoning": "spoon (someone's named their spoon) + label (it's got an engraved label) = Spoon Label"
-      },
-      {
-        "number": 3,
-        "answer": "Moon Taxi",
-        "aliases": [
-          "moon taxi"
-        ],
-        "reasoning": "moon (the moon, floating up in space) + taxi (it's flagged down a taxi, climbed in the back) = Moon Taxi"
-      }
-    ]
-  },
-  {
     "id": "techbusters-010",
     "clues": [
       {
@@ -10398,35 +10161,6 @@
           "carlsberg"
         ],
         "reasoning": "carls (Carl's, possessive of the name Carl) + berg (mountain, iceberg) = Carlsberg"
-      }
-    ]
-  },
-  {
-    "id": "mixedbusters-002",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Boulder Snooze",
-        "aliases": [
-          "boulder snooze"
-        ],
-        "reasoning": "boulder (massive rock) + snooze (asleep) = Boulder Snooze"
-      },
-      {
-        "number": 2,
-        "answer": "Country Wife",
-        "aliases": [
-          "country wife"
-        ],
-        "reasoning": "country (village, rural) + wife (married woman) = Country Wife"
-      },
-      {
-        "number": 3,
-        "answer": "Platform Law",
-        "aliases": [
-          "platform law"
-        ],
-        "reasoning": "platform (raised platform, train platform) + law (book of rules) = Platform Law"
       }
     ]
   },
@@ -11208,35 +10942,6 @@
     ]
   },
   {
-    "id": "mixedbusters-014",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Roof Lead",
-        "aliases": [
-          "roof lead"
-        ],
-        "reasoning": "roof (the heavy roof) + lead (it's made of lead, hence very heavy) = Roof Lead"
-      },
-      {
-        "number": 2,
-        "answer": "Cloud Pillow",
-        "aliases": [
-          "cloud pillow"
-        ],
-        "reasoning": "cloud (the cloud floating in the sky) + pillow (a cushion, a pillow on the cloud) = Cloud Pillow"
-      },
-      {
-        "number": 3,
-        "answer": "Mirror Gate",
-        "aliases": [
-          "mirror gate"
-        ],
-        "reasoning": "mirror (a reflective surface, you can see yourself) + gate (the gate at the end of the road) = Mirror Gate"
-      }
-    ]
-  },
-  {
     "id": "techbusters-002",
     "clues": [
       {
@@ -11956,35 +11661,6 @@
           "lucozade"
         ],
         "reasoning": "lucos (sounds like 'looks as') + ade (like lemonade, a drink) = Lucozade"
-      }
-    ]
-  },
-  {
-    "id": "mixedbusters-013",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Blue Wall",
-        "aliases": [
-          "blue wall"
-        ],
-        "reasoning": "blue (covered in blue) + wall (the wall that's gone blue) = Blue Wall"
-      },
-      {
-        "number": 2,
-        "answer": "Stone Roll",
-        "aliases": [
-          "stone roll"
-        ],
-        "reasoning": "stone (a stone, a rock) + roll (rolled it down the hill, it's rolling) = Stone Roll"
-      },
-      {
-        "number": 3,
-        "answer": "Eagle Document",
-        "aliases": [
-          "eagle document"
-        ],
-        "reasoning": "eagle (a large bird of prey) + document (a legal document, signed with witnesses) = Eagle Document"
       }
     ]
   },
@@ -12738,35 +12414,6 @@
     ]
   },
   {
-    "id": "mixedbusters-019",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Fence Teacher",
-        "aliases": [
-          "fence teacher"
-        ],
-        "reasoning": "fence (a garden fence) + teacher (it's started teaching, got a chalkboard) = Fence Teacher"
-      },
-      {
-        "number": 2,
-        "answer": "Bridge Silence",
-        "aliases": [
-          "bridge silence"
-        ],
-        "reasoning": "bridge (the bridge, cars going over it) + silence (it's completely silent, not saying a word) = Bridge Silence"
-      },
-      {
-        "number": 3,
-        "answer": "Needle West",
-        "aliases": [
-          "needle west"
-        ],
-        "reasoning": "needle (a needle, the pointy sewing thing) + west (it's drifted off going west) = Needle West"
-      }
-    ]
-  },
-  {
     "id": "techbusters-011",
     "clues": [
       {
@@ -13422,35 +13069,6 @@
           "vimto"
         ],
         "reasoning": "vim (energy, vigour) + to (a direction) = vimto = Vimto"
-      }
-    ]
-  },
-  {
-    "id": "mixedbusters-008",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Grace Shelves",
-        "aliases": [
-          "grace shelves"
-        ],
-        "reasoning": "Grace (woman called Grace) + shelves (put up loads of shelves) = Grace Shelves"
-      },
-      {
-        "number": 2,
-        "answer": "Numb Road",
-        "aliases": [
-          "numb road"
-        ],
-        "reasoning": "numb (gone quiet, no feeling) + road (the road's gone quiet) = Numb Road"
-      },
-      {
-        "number": 3,
-        "answer": "Deep Pit",
-        "aliases": [
-          "deep pit"
-        ],
-        "reasoning": "deep (dug himself deep) + pit (in a hole in the earth) = Deep Pit"
       }
     ]
   },
@@ -14139,35 +13757,6 @@
           "san miguel"
         ],
         "reasoning": "san (saint) + miguel (Michael in Spanish) = San Miguel"
-      }
-    ]
-  },
-  {
-    "id": "mixedbusters-015",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Tree Snore",
-        "aliases": [
-          "tree snore"
-        ],
-        "reasoning": "tree (the tree in the garden) + snore (it's snoring, keeping the neighbours up) = Tree Snore"
-      },
-      {
-        "number": 2,
-        "answer": "Flag Horse",
-        "aliases": [
-          "flag horse"
-        ],
-        "reasoning": "flag (a flag, red and white, very patriotic) + horse (the horse it's been attached to) = Flag Horse"
-      },
-      {
-        "number": 3,
-        "answer": "Ditch Village",
-        "aliases": [
-          "ditch village"
-        ],
-        "reasoning": "ditch (a ditch in the ground) + village (an entire village inside the ditch) = Ditch Village"
       }
     ]
   },
@@ -14897,36 +14486,6 @@
     ]
   },
   {
-    "id": "mixedbusters-006",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Salt Walk",
-        "aliases": [
-          "salt walk"
-        ],
-        "reasoning": "salt (bucket of salt, scattering it) + walk (out walking) = Salt Walk"
-      },
-      {
-        "number": 2,
-        "answer": "Coat Tower",
-        "aliases": [
-          "coat tower"
-        ],
-        "reasoning": "coat (big coat) + tower (hanging on a tower) = Coat Tower"
-      },
-      {
-        "number": 3,
-        "answer": "Bob House",
-        "aliases": [
-          "bob house",
-          "bob's house"
-        ],
-        "reasoning": "Bob (lad called Bob) + house (climbed on top of the house) = Bob House"
-      }
-    ]
-  },
-  {
     "id": "techbusters-017",
     "clues": [
       {
@@ -15611,35 +15170,6 @@
           "stoke-on-trent"
         ],
         "reasoning": "stoke (to feed and maintain a fire) + on (perched on top of something) + Trent (the river Trent in the Midlands) = Stoke-on-Trent. Stoke-on-Trent."
-      }
-    ]
-  },
-  {
-    "id": "mixedbusters-018",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Torch Growth",
-        "aliases": [
-          "torch growth"
-        ],
-        "reasoning": "torch (a torch, a flashlight) + growth (it's started growing, stretching upwards) = Torch Growth"
-      },
-      {
-        "number": 2,
-        "answer": "Hat Sea",
-        "aliases": [
-          "hat sea"
-        ],
-        "reasoning": "hat (the hat that's rolled into the sea) + sea (the sea it's floating in) = Hat Sea"
-      },
-      {
-        "number": 3,
-        "answer": "Piano Cave",
-        "aliases": [
-          "piano cave"
-        ],
-        "reasoning": "piano (the piano that's moved itself) + cave (it's moved into a cave for the acoustics) = Piano Cave"
       }
     ]
   },
@@ -16351,36 +15881,6 @@
     ]
   },
   {
-    "id": "mixedbusters-009",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Cave Settee",
-        "aliases": [
-          "cave settee",
-          "cave sofa"
-        ],
-        "reasoning": "cave (someone's dragged a sofa into a cave) + settee (the sofa, the settee) = Cave Settee"
-      },
-      {
-        "number": 2,
-        "answer": "Pam Mountain",
-        "aliases": [
-          "pam mountain"
-        ],
-        "reasoning": "Pam (woman called Pam) + mountain (top of the mountain) = Pam Mountain"
-      },
-      {
-        "number": 3,
-        "answer": "Field Sparks",
-        "aliases": [
-          "field sparks"
-        ],
-        "reasoning": "field (field full of sparks) + sparks (the floating sparks) = Field Sparks"
-      }
-    ]
-  },
-  {
     "id": "techbusters-018",
     "clues": [
       {
@@ -17072,36 +16572,6 @@
     ]
   },
   {
-    "id": "mixedbusters-010",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Brenda Control",
-        "aliases": [
-          "brenda control"
-        ],
-        "reasoning": "Brenda (woman called Brenda) + control (put in charge, loving the control) = Brenda Control"
-      },
-      {
-        "number": 2,
-        "answer": "Shed Fortress",
-        "aliases": [
-          "shed fortress"
-        ],
-        "reasoning": "shed (locked himself in the shed) + fortress (treating it like a fortress, not coming out) = Shed Fortress"
-      },
-      {
-        "number": 3,
-        "answer": "Walking Non-stop",
-        "aliases": [
-          "walking non-stop",
-          "walking nonstop"
-        ],
-        "reasoning": "walking (been walking for three days) + non-stop (won't stop, hasn't stopped) = Walking Non-stop"
-      }
-    ]
-  },
-  {
     "id": "techbusters-013",
     "clues": [
       {
@@ -17759,36 +17229,6 @@
           "bailey's"
         ],
         "reasoning": "bail (to leave, or a bail of hay) + eys = bail-eys = Baileys"
-      }
-    ]
-  },
-  {
-    "id": "mixedbusters-003",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Shy Kettle",
-        "aliases": [
-          "shy kettle"
-        ],
-        "reasoning": "shy (gone shy) + kettle (inside a kettle) = Shy Kettle"
-      },
-      {
-        "number": 2,
-        "answer": "Horse Reign",
-        "aliases": [
-          "horse reign",
-          "horse rain"
-        ],
-        "reasoning": "horse (horse at finish line) + reign (wearing a crown) = Horse Reign"
-      },
-      {
-        "number": 3,
-        "answer": "Gold Porch",
-        "aliases": [
-          "gold porch"
-        ],
-        "reasoning": "gold (painted gold) + porch (gate at the front of the house) = Gold Porch"
       }
     ]
   },
@@ -18476,36 +17916,6 @@
           "vimto"
         ],
         "reasoning": "vim (vigour, taking over) + to = vimto = Vimto"
-      }
-    ]
-  },
-  {
-    "id": "mixedbusters-004",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Well Bread",
-        "aliases": [
-          "well bread",
-          "well bred"
-        ],
-        "reasoning": "well (well in the garden) + bread (loaf floating in it) = Well Bread"
-      },
-      {
-        "number": 2,
-        "answer": "Middle Hole",
-        "aliases": [
-          "middle hole"
-        ],
-        "reasoning": "middle (in the middle) + hole (dug a hole) = Middle Hole"
-      },
-      {
-        "number": 3,
-        "answer": "Frozen River",
-        "aliases": [
-          "frozen river"
-        ],
-        "reasoning": "frozen (frozen solid) + river (standing on the river) = Frozen River"
       }
     ]
   },

@@ -607,37 +607,6 @@
     ]
   },
   {
-    "id": "mixedbusters-012",
-    "enabled": true,
-    "title": "Mixedbusters",
-    "topic": "mixed phonetic wordplay",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "Alright then, Mixedbusters twelve. Three more phonetic clues. Don't overthink it.",
-    "prize": "Email in. Winner gets a loyalty card with one stamp on it and a biscuit tin with no biscuits.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "G R",
-        "clue": "The greenhouse has gone and started running. Legs and everything. Sprinting down the road with all the tomatoes still in it."
-      },
-      {
-        "number": 2,
-        "initials": "P T",
-        "clue": "Someone called Pat's gone and climbed the tallest tree in the park. Won't come down. Says the view's brilliant."
-      },
-      {
-        "number": 3,
-        "initials": "N C",
-        "clue": "Right, it's night-time, and there's a container, and inside that container it is also night. Dark as anything inside."
-      }
-    ]
-  },
-  {
     "id": "religionbusters-002",
     "enabled": true,
     "title": "Religionbusters",
@@ -2610,37 +2579,6 @@
     ]
   },
   {
-    "id": "mixedbusters-007",
-    "enabled": true,
-    "title": "Mixedbusters",
-    "topic": "mixed phonetic wordplay",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "Seven down, three to go on this batch. Mixedbusters, all phonetic, all a bit daft.",
-    "prize": "Email in. Winner gets a laminated bus timetable and a reduced-price Easter egg.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "M D",
-        "clue": "Right, the fog's come in over the swamp and everything's gone a bit damp and mysterious. You know the sort of thing."
-      },
-      {
-        "number": 2,
-        "initials": "S G",
-        "clue": "Some fella's standing in a field holding a spade and pointing at the ground. Won't say why. Won't move."
-      },
-      {
-        "number": 3,
-        "initials": "L P",
-        "clue": "That lamppost has been wrapped in bacon. All of them on the street. Someone's done the whole row."
-      }
-    ]
-  },
-  {
     "id": "religionbusters-003",
     "enabled": true,
     "title": "Religionbusters",
@@ -4583,37 +4521,6 @@
     ]
   },
   {
-    "id": "mixedbusters-017",
-    "enabled": true,
-    "title": "Mixedbusters",
-    "topic": "mixed phonetic wordplay",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "Mixedbusters seventeen. Three more. Same rules. Don't overthink it.",
-    "prize": "Email in. Winner gets a branded keyring from a letting agent and a slightly soft apple.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "C N",
-        "clue": "Someone's named their caravan. Called it something. Got a little sign and everything. Takes it everywhere."
-      },
-      {
-        "number": 2,
-        "initials": "R B",
-        "clue": "There's a ribbon tied round a boulder. Big pink bow. Right in the middle of a field. Nobody knows who did it."
-      },
-      {
-        "number": 3,
-        "initials": "P F",
-        "clue": "Right, this pillar's started dancing. Just in the middle of the town square. Everyone's walked past pretending not to notice."
-      }
-    ]
-  },
-  {
     "id": "religionbusters-001",
     "enabled": true,
     "title": "Religionbusters",
@@ -6256,37 +6163,6 @@
     ]
   },
   {
-    "id": "mixedbusters-011",
-    "enabled": true,
-    "title": "Mixedbusters",
-    "topic": "mixed phonetic wordplay",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "Mixedbusters. Back again. Three phonetic clues, say them out loud.",
-    "prize": "Email in. Winner gets a foam visor from a theme park and a mint imperial.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "F B",
-        "clue": "The fireplace has gone and written something down. Just sitting there in the living room, took a pen, wrote it all out. Bit unexpected."
-      },
-      {
-        "number": 2,
-        "initials": "T M",
-        "clue": "Right, there's a clock tower and it's gone and got a moustache. A big one. Right across the face of it."
-      },
-      {
-        "number": 3,
-        "initials": "H D",
-        "clue": "Someone's built a house right on the edge of a cliff. Right on the edge. You'd have a word. They seem unbothered."
-      }
-    ]
-  },
-  {
     "id": "techbusters-014",
     "enabled": true,
     "title": "Techbusters",
@@ -7110,37 +6986,6 @@
         "number": 3,
         "initials": "S W",
         "clue": "Right, some bloke with a title - like a lord or a knight - he's called Reena. Sir Reena. And he's got loads of Williams round him. Sort of works."
-      }
-    ]
-  },
-  {
-    "id": "mixedbusters-016",
-    "enabled": true,
-    "title": "Mixedbusters",
-    "topic": "mixed phonetic wordplay",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "Right. Mixedbusters sixteen. Phonetic clues, daft scenes. Say them out loud. That's the key.",
-    "prize": "Email in. Winner gets a 2006 desk diary and a pair of socks from a secret Santa.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "B L",
-        "clue": "Someone called Bernard's gone and moved into the lighthouse. He's the keeper now. Very proud. Polishing the lens."
-      },
-      {
-        "number": 2,
-        "initials": "S P",
-        "clue": "The slug has gone to the theatre. Got a ticket and everything. Sat in the front row. Very cultured slug."
-      },
-      {
-        "number": 3,
-        "initials": "W E",
-        "clue": "Right, the wind's come through and it's eaten all the eggs. Just gone. Every single one. The hens are baffled."
       }
     ]
   },
@@ -8003,37 +7848,6 @@
     ]
   },
   {
-    "id": "mixedbusters-001",
-    "enabled": true,
-    "title": "Mixedbusters",
-    "topic": "mixed phonetic wordplay",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "Right, Mixedbusters. All sorts this week. Could be anything. Don't panic.",
-    "prize": "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "B B",
-        "clue": "Right, some fella called Barry is lying down flat in the road. Just there. On the tarmac. Bit odd."
-      },
-      {
-        "number": 2,
-        "initials": "S S",
-        "clue": "Them steps at the side of the pool, right, the ones you use to get in and out. Someone's gone and made them out of sausages."
-      },
-      {
-        "number": 3,
-        "initials": "T B",
-        "clue": "That lad over there's gone and put a fence around his bed. No one's getting in. He's made that very clear."
-      }
-    ]
-  },
-  {
     "id": "techbusters-004",
     "enabled": true,
     "title": "Techbusters",
@@ -8892,37 +8706,6 @@
     ]
   },
   {
-    "id": "mixedbusters-005",
-    "enabled": true,
-    "title": "Mixedbusters",
-    "topic": "mixed phonetic wordplay",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "Mixedbusters, fifth one this batch. Say the clues out loud. That's where the answer lives.",
-    "prize": "Email in. Winner gets a DVD copy of The Full Monty and some Value biscuits.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "C B",
-        "clue": "That cat has gone and eaten a whole boat. Managed it somehow. Just sat there looking pleased with itself."
-      },
-      {
-        "number": 2,
-        "initials": "R P",
-        "clue": "Some woman called Rosa's standing in the park handing out umbrellas. Didn't ask, she's just doing it."
-      },
-      {
-        "number": 3,
-        "initials": "T L",
-        "clue": "Right, the tide's come in and it's covered the whole library. Books are floating everywhere. That's a shame."
-      }
-    ]
-  },
-  {
     "id": "techbusters-019",
     "enabled": true,
     "title": "Techbusters",
@@ -9690,37 +9473,6 @@
     ]
   },
   {
-    "id": "mixedbusters-020",
-    "enabled": true,
-    "title": "Mixedbusters",
-    "topic": "mixed phonetic wordplay",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "Mixedbusters. Three phonetic clues, three different answers. Off you go.",
-    "prize": "Email in. Winner gets a travel sewing kit from a Travelodge and a chocolate finger, just the one.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "G C",
-        "clue": "Right, the gate's gone and applied for a job. Filled in the form and everything. Very keen gate."
-      },
-      {
-        "number": 2,
-        "initials": "S L",
-        "clue": "Someone's named their spoon. Called it something. It's got a little engraved label. The spoon seems chuffed."
-      },
-      {
-        "number": 3,
-        "initials": "M T",
-        "clue": "The moon's gone and hired a taxi. Just flagged one down. Climbed in the back. The driver hasn't said anything."
-      }
-    ]
-  },
-  {
     "id": "techbusters-010",
     "enabled": true,
     "title": "Techbusters",
@@ -10484,37 +10236,6 @@
         "number": 3,
         "initials": "C",
         "clue": "That lass is making a proper fuss about getting on a boat. She won't stop going on about the gangway."
-      }
-    ]
-  },
-  {
-    "id": "mixedbusters-002",
-    "enabled": true,
-    "title": "Mixedbusters",
-    "topic": "mixed phonetic wordplay",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "Mixedbusters is back. Three clues, three initials. Say them out loud, that's the key.",
-    "prize": "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "B S",
-        "clue": "A massive rock has landed on top of this fella while he's asleep. He's fine, he's just there, under it."
-      },
-      {
-        "number": 2,
-        "initials": "C W",
-        "clue": "That woman from the village, the one who makes the jams, she's gone and married someone from Wales. Lovely for her."
-      },
-      {
-        "number": 3,
-        "initials": "P L",
-        "clue": "Some bloke's standing on a platform and he's holding a big book of rules over his head. Won't put it down."
       }
     ]
   },
@@ -11317,37 +11038,6 @@
     ]
   },
   {
-    "id": "mixedbusters-014",
-    "enabled": true,
-    "title": "Mixedbusters",
-    "topic": "mixed phonetic wordplay",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "Fourteen sets in. Mixedbusters. Three clues, phonetic, Karl Pilkington approved.",
-    "prize": "Email in. Winner gets a cracked phone case and a bus pass that expired in 2011.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "R L",
-        "clue": "Right, the roof's made of lead. Very heavy. The house is slowly sinking under its own roof. Bit of a design flaw."
-      },
-      {
-        "number": 2,
-        "initials": "C P",
-        "clue": "Someone's put a cushion on a cloud. Just floating up there, comfortable as anything. The cloud doesn't seem to mind."
-      },
-      {
-        "number": 3,
-        "initials": "M G",
-        "clue": "That gate at the end of the road, someone's turned it into a mirror. You can see yourself in it now. Odd choice."
-      }
-    ]
-  },
-  {
     "id": "techbusters-002",
     "enabled": true,
     "title": "Techbusters",
@@ -12080,37 +11770,6 @@
         "number": 3,
         "initials": "L",
         "clue": "He's had an energy drink and now he's absolutely bouncing around the whole of Piccadilly Circus. You can tell, can't you."
-      }
-    ]
-  },
-  {
-    "id": "mixedbusters-013",
-    "enabled": true,
-    "title": "Mixedbusters",
-    "topic": "mixed phonetic wordplay",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "Right, Mixedbusters thirteen. Three phonetic clues. Say each one out loud and you'll get there.",
-    "prize": "Email in. Winner gets a half-finished tube of hand cream and a foreign coin of unknown value.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "B W",
-        "clue": "That wall's covered in something blue. Don't know what. No one painted it. It just came like that. Blue as anything."
-      },
-      {
-        "number": 2,
-        "initials": "S R",
-        "clue": "Someone's taken a stone and rolled it down the hill. It's going quite fast now. It's passed the village. It's still going."
-      },
-      {
-        "number": 3,
-        "initials": "E D",
-        "clue": "The eagle's gone and signed a legal document. Big formal thing. Witnesses and everything. Don't know why."
       }
     ]
   },
@@ -12880,37 +12539,6 @@
     ]
   },
   {
-    "id": "mixedbusters-019",
-    "enabled": true,
-    "title": "Mixedbusters",
-    "topic": "mixed phonetic wordplay",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "Mixedbusters. Three phonetic clues. You know the drill.",
-    "prize": "Email in. Winner gets a garden centre voucher and a novelty mug shaped like a teapot.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "F T",
-        "clue": "The fence has started teaching. Got a little chalkboard up. Very authoritative fence."
-      },
-      {
-        "number": 2,
-        "initials": "B S",
-        "clue": "Right, the bridge is completely silent. Not a sound from it. Cars going over but the bridge itself isn't saying a word."
-      },
-      {
-        "number": 3,
-        "initials": "N W",
-        "clue": "There's a needle and it's gone west. Just drifted off in a westerly direction. Floating away. Someone will need that."
-      }
-    ]
-  },
-  {
     "id": "techbusters-011",
     "enabled": true,
     "title": "Techbusters",
@@ -13581,37 +13209,6 @@
         "number": 3,
         "initials": "V",
         "clue": "There's vim in that place, loads of energy, but nobody knows what to do with it. Just sitting there, buzzing."
-      }
-    ]
-  },
-  {
-    "id": "mixedbusters-008",
-    "enabled": true,
-    "title": "Mixedbusters",
-    "topic": "mixed phonetic wordplay",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "Mixedbusters again. Same rules, different answers. Say it aloud, see what comes out.",
-    "prize": "Email in. Winner gets a novelty pen from a trade show and a pack of custard creams.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "G S",
-        "clue": "Right, this woman's name is Grace and she's put up shelves. Floor to ceiling. Loads of them. No one asked."
-      },
-      {
-        "number": 2,
-        "initials": "N R",
-        "clue": "The road's gone quiet. Completely. Not a sound. Not even the birds. Just nothing."
-      },
-      {
-        "number": 3,
-        "initials": "D P",
-        "clue": "That fella's dug himself deep into the earth and he's just sitting there. He's brought a flask. He's settled in."
       }
     ]
   },
@@ -14316,37 +13913,6 @@
         "number": 3,
         "initials": "S M",
         "clue": "There's a bloke from the Mediterranean, right, but he's ever so tiny. Like a miniature version. Sort of works, that."
-      }
-    ]
-  },
-  {
-    "id": "mixedbusters-015",
-    "enabled": true,
-    "title": "Mixedbusters",
-    "topic": "mixed phonetic wordplay",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "Mixedbusters fifteen. Still going. Three phonetic clues. Near enough.",
-    "prize": "Email in. Winner gets a miniature golf pencil and a packet of sugar from a hotel.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "T S",
-        "clue": "Right, the tree's gone and started snoring. Just standing there in the garden making a racket. Keeping the neighbours up."
-      },
-      {
-        "number": 2,
-        "initials": "F H",
-        "clue": "Someone's attached a flag to the horse. Flapping about as it runs. Red and white. Very patriotic horse."
-      },
-      {
-        "number": 3,
-        "initials": "D V",
-        "clue": "There's a ditch, and inside the ditch is a village. The whole thing. Shops, church, the lot. All in a ditch."
       }
     ]
   },
@@ -15086,37 +14652,6 @@
     ]
   },
   {
-    "id": "mixedbusters-006",
-    "enabled": true,
-    "title": "Mixedbusters",
-    "topic": "mixed phonetic wordplay",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "Right then. Six sets in. Still going. Three more phonetic clues, let's do this.",
-    "prize": "Email in. Winner gets a signed letter from someone off Emmerdale, possibly.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "S W",
-        "clue": "This bloke's out walking and he's carrying a bucket of salt. Just scattering it as he goes. All over the path."
-      },
-      {
-        "number": 2,
-        "initials": "C T",
-        "clue": "There's a coat hanging on a tower. Big coat, right at the top. Bit dramatic."
-      },
-      {
-        "number": 3,
-        "initials": "B H",
-        "clue": "That lad Bob's gone and climbed up on top of the house. He's waving. He seems fine. Just wanted a look."
-      }
-    ]
-  },
-  {
     "id": "techbusters-017",
     "enabled": true,
     "title": "Techbusters",
@@ -15821,37 +15356,6 @@
     ]
   },
   {
-    "id": "mixedbusters-018",
-    "enabled": true,
-    "title": "Mixedbusters",
-    "topic": "mixed phonetic wordplay",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "Mixedbusters. Three phonetic clues. Have a go.",
-    "prize": "Email in. Winner gets a snow globe with a broken mechanism and a scented candle, unlit.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "T G",
-        "clue": "That torch has gone and started growing. Just stretching upwards. Getting taller by the minute. Nobody's said anything."
-      },
-      {
-        "number": 2,
-        "initials": "H S",
-        "clue": "Someone's hat has rolled into the sea. It's just floating there. The owner's watching from the cliff. Both of them are calm."
-      },
-      {
-        "number": 3,
-        "initials": "P C",
-        "clue": "Right, the piano's moved into a cave. On its own. Set itself up in there. Acoustics are brilliant apparently."
-      }
-    ]
-  },
-  {
     "id": "techbusters-005",
     "enabled": true,
     "title": "Techbusters",
@@ -16552,37 +16056,6 @@
         "number": 3,
         "initials": "H",
         "clue": "Someone is in a real rush. Absolutely flying. Can't stop. And they've been stung. Multiple times. By a load of them."
-      }
-    ]
-  },
-  {
-    "id": "mixedbusters-009",
-    "enabled": true,
-    "title": "Mixedbusters",
-    "topic": "mixed phonetic wordplay",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "Mixedbusters. Three clues, all phonetic. Don't overthink it.",
-    "prize": "Email in. Winner gets a stress ball shaped like a globe and a 2009 wall calendar.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "C S",
-        "clue": "Right, there's a cave and someone's dragged a sofa in there. Cushions and everything. Made a proper lounge out of it."
-      },
-      {
-        "number": 2,
-        "initials": "P M",
-        "clue": "Some woman called Pam is standing at the top of a mountain. She got there first. She's not moving."
-      },
-      {
-        "number": 3,
-        "initials": "F S",
-        "clue": "The field's full of sparks. Don't know where they've come from, but there they are. Floating about. Bit beautiful, actually."
       }
     ]
   },
@@ -17292,37 +16765,6 @@
     ]
   },
   {
-    "id": "mixedbusters-010",
-    "enabled": true,
-    "title": "Mixedbusters",
-    "topic": "mixed phonetic wordplay",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "Mixedbusters. Same as ever. Say it out loud. That's all.",
-    "prize": "Email in. Winner gets a tin of travel sweets and a branded biro from a skip hire firm.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "B C",
-        "clue": "Right, this woman's been put in charge of the whole village and she's absolutely loving it. Name's Brenda. She's not elected."
-      },
-      {
-        "number": 2,
-        "initials": "S F",
-        "clue": "That bloke's gone and locked himself in the shed and he's refusing to come out for his tea. Says he's fine. He's not fine."
-      },
-      {
-        "number": 3,
-        "initials": "W N",
-        "clue": "This woman's been walking for three days and she won't stop. She's got a packed lunch but she's not even opened it."
-      }
-    ]
-  },
-  {
     "id": "techbusters-013",
     "enabled": true,
     "title": "Techbusters",
@@ -17993,37 +17435,6 @@
         "number": 3,
         "initials": "B",
         "clue": "There's loads of daffodils waving about in a field. Makes you feel cheerful and that. Quite nice, actually."
-      }
-    ]
-  },
-  {
-    "id": "mixedbusters-003",
-    "enabled": true,
-    "title": "Mixedbusters",
-    "topic": "mixed phonetic wordplay",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "Alright, three more. Phonetic clues, the lot of them. Work it out by sound, not spelling.",
-    "prize": "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "S T",
-        "clue": "That fella's gone all shy, right, and now he's hiding inside a kettle. Just sitting in there. Bit cramped."
-      },
-      {
-        "number": 2,
-        "initials": "H R",
-        "clue": "Right, there's a horse at the finish line and it's wearing a crown. The other horses aren't happy about it."
-      },
-      {
-        "number": 3,
-        "initials": "G P",
-        "clue": "That gate at the front's been painted gold. Doesn't need to be, but someone's done it. There it is."
       }
     ]
   },
@@ -18729,37 +18140,6 @@
         "number": 3,
         "initials": "V",
         "clue": "Right, that weed growing up the wall, it's completely taken over the whole building. More than a bit."
-      }
-    ]
-  },
-  {
-    "id": "mixedbusters-004",
-    "enabled": true,
-    "title": "Mixedbusters",
-    "topic": "mixed phonetic wordplay",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "Here's this week's Mixedbusters. Three clues, all phonetic. Don't overthink it.",
-    "prize": "Email in. Winner gets a printed photo from a disposable camera, framed.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "W B",
-        "clue": "That well at the bottom of the garden, someone's gone and dropped a whole loaf in it. It's just floating round in there."
-      },
-      {
-        "number": 2,
-        "initials": "M H",
-        "clue": "Some fella's gone and dug a hole right in the middle of the town square. Just stood there digging. Everyone's walking round him."
-      },
-      {
-        "number": 3,
-        "initials": "F R",
-        "clue": "Right, the river's frozen solid and there's a crowd standing on it. They've brought sandwiches. It's a whole thing."
       }
     ]
   },

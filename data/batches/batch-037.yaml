@@ -1,5 +1,5 @@
 - id: mixedbusters-001
-  enabled: true
+  enabled: false
   title: Mixedbusters
   topic: mixed phonetic wordplay
   difficulty: medium
@@ -33,7 +33,7 @@
     - the barrier
     reasoning: the (that) + barrier (fence around the bed) = The Barrier
 - id: mixedbusters-002
-  enabled: true
+  enabled: false
   title: Mixedbusters
   topic: mixed phonetic wordplay
   difficulty: medium
@@ -66,7 +66,7 @@
     - platform law
     reasoning: platform (raised platform, train platform) + law (book of rules) = Platform Law
 - id: mixedbusters-003
-  enabled: true
+  enabled: false
   title: Mixedbusters
   topic: mixed phonetic wordplay
   difficulty: medium
@@ -100,7 +100,7 @@
     - gold porch
     reasoning: gold (painted gold) + porch (gate at the front of the house) = Gold Porch
 - id: mixedbusters-004
-  enabled: true
+  enabled: false
   title: Mixedbusters
   topic: mixed phonetic wordplay
   difficulty: medium
@@ -134,7 +134,7 @@
     - frozen river
     reasoning: frozen (frozen solid) + river (standing on the river) = Frozen River
 - id: mixedbusters-005
-  enabled: true
+  enabled: false
   title: Mixedbusters
   topic: mixed phonetic wordplay
   difficulty: medium
@@ -169,7 +169,7 @@
     - tidal library
     reasoning: tidal (the tide coming in) + library (the library full of books) = Tidal Library
 - id: mixedbusters-006
-  enabled: true
+  enabled: false
   title: Mixedbusters
   topic: mixed phonetic wordplay
   difficulty: medium
@@ -203,7 +203,7 @@
     - bob's house
     reasoning: Bob (lad called Bob) + house (climbed on top of the house) = Bob House
 - id: mixedbusters-007
-  enabled: true
+  enabled: false
   title: Mixedbusters
   topic: mixed phonetic wordplay
   difficulty: medium
@@ -237,7 +237,7 @@
     - lamppost
     reasoning: lamp (lamppost, lit up) + post (wrapped, sent like a parcel) = Lamp Post
 - id: mixedbusters-008
-  enabled: true
+  enabled: false
   title: Mixedbusters
   topic: mixed phonetic wordplay
   difficulty: medium
@@ -270,7 +270,7 @@
     - deep pit
     reasoning: deep (dug himself deep) + pit (in a hole in the earth) = Deep Pit
 - id: mixedbusters-009
-  enabled: true
+  enabled: false
   title: Mixedbusters
   topic: mixed phonetic wordplay
   difficulty: medium
@@ -304,7 +304,7 @@
     - field sparks
     reasoning: field (field full of sparks) + sparks (the floating sparks) = Field Sparks
 - id: mixedbusters-010
-  enabled: true
+  enabled: false
   title: Mixedbusters
   topic: mixed phonetic wordplay
   difficulty: medium
@@ -338,7 +338,7 @@
     - walking nonstop
     reasoning: walking (been walking for three days) + non-stop (won't stop, hasn't stopped) = Walking Non-stop
 - id: mixedbusters-011
-  enabled: true
+  enabled: false
   title: Mixedbusters
   topic: mixed phonetic wordplay
   difficulty: medium
@@ -371,7 +371,7 @@
     - house drop
     reasoning: house (the house on the cliff) + drop (right on the edge of a drop) = House Drop
 - id: mixedbusters-012
-  enabled: true
+  enabled: false
   title: Mixedbusters
   topic: mixed phonetic wordplay
   difficulty: medium
@@ -405,7 +405,7 @@
     - night container
     reasoning: night (it's night-time) + container (a big container, like a box) = Night Container
 - id: mixedbusters-013
-  enabled: true
+  enabled: false
   title: Mixedbusters
   topic: mixed phonetic wordplay
   difficulty: medium
@@ -438,7 +438,7 @@
     - eagle document
     reasoning: eagle (a large bird of prey) + document (a legal document, signed with witnesses) = Eagle Document
 - id: mixedbusters-014
-  enabled: true
+  enabled: false
   title: Mixedbusters
   topic: mixed phonetic wordplay
   difficulty: medium
@@ -471,7 +471,7 @@
     - mirror gate
     reasoning: mirror (a reflective surface, you can see yourself) + gate (the gate at the end of the road) = Mirror Gate
 - id: mixedbusters-015
-  enabled: true
+  enabled: false
   title: Mixedbusters
   topic: mixed phonetic wordplay
   difficulty: medium
@@ -504,7 +504,7 @@
     - ditch village
     reasoning: ditch (a ditch in the ground) + village (an entire village inside the ditch) = Ditch Village
 - id: mixedbusters-016
-  enabled: true
+  enabled: false
   title: Mixedbusters
   topic: mixed phonetic wordplay
   difficulty: medium
@@ -537,7 +537,7 @@
     - wind eggs
     reasoning: wind (the wind coming through) + eggs (it's eaten all the eggs, gone) = Wind Eggs
 - id: mixedbusters-017
-  enabled: true
+  enabled: false
   title: Mixedbusters
   topic: mixed phonetic wordplay
   difficulty: medium
@@ -570,7 +570,7 @@
     - pillar foxtrot
     reasoning: pillar (a stone pillar in the town square) + foxtrot (the dance it's doing, a foxtrot) = Pillar Foxtrot
 - id: mixedbusters-018
-  enabled: true
+  enabled: false
   title: Mixedbusters
   topic: mixed phonetic wordplay
   difficulty: medium
@@ -603,7 +603,7 @@
     - piano cave
     reasoning: piano (the piano that's moved itself) + cave (it's moved into a cave for the acoustics) = Piano Cave
 - id: mixedbusters-019
-  enabled: true
+  enabled: false
   title: Mixedbusters
   topic: mixed phonetic wordplay
   difficulty: medium
@@ -636,7 +636,7 @@
     - needle west
     reasoning: needle (a needle, the pointy sewing thing) + west (it's drifted off going west) = Needle West
 - id: mixedbusters-020
-  enabled: true
+  enabled: false
   title: Mixedbusters
   topic: mixed phonetic wordplay
   difficulty: medium

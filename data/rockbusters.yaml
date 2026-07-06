@@ -1081,7 +1081,7 @@
     - serena williams
     reasoning: sir (knight's title) + Reena + Williams = Serena Williams
 - id: mixedbusters-012
-  enabled: true
+  enabled: false
   title: Mixedbusters
   topic: mixed phonetic wordplay
   difficulty: medium
@@ -3557,7 +3557,7 @@
     - derek redmond
     reasoning: Derek + red + mond (round, like monde) = Derek Redmond
 - id: mixedbusters-007
-  enabled: true
+  enabled: false
   title: Mixedbusters
   topic: mixed phonetic wordplay
   difficulty: medium
@@ -6045,7 +6045,7 @@
     - mike tyson
     reasoning: mike (microphone) + tie (neckwear) + son = Mike Tyson
 - id: mixedbusters-017
-  enabled: true
+  enabled: false
   title: Mixedbusters
   topic: mixed phonetic wordplay
   difficulty: medium
@@ -8023,7 +8023,7 @@
     - steve redgrave
     reasoning: Steve + red + grave = Steve Redgrave
 - id: mixedbusters-011
-  enabled: true
+  enabled: false
   title: Mixedbusters
   topic: mixed phonetic wordplay
   difficulty: medium
@@ -9162,7 +9162,7 @@
     - serena williams
     reasoning: sir (title like a knight) + Reena (name) + Williams = Serena Williams
 - id: mixedbusters-016
-  enabled: true
+  enabled: false
   title: Mixedbusters
   topic: mixed phonetic wordplay
   difficulty: medium
@@ -10265,7 +10265,7 @@
     - roger federer
     reasoning: Roger + fed (gave tea/dinner) + er + er = Roger Federer
 - id: mixedbusters-001
-  enabled: true
+  enabled: false
   title: Mixedbusters
   topic: mixed phonetic wordplay
   difficulty: medium
@@ -11346,7 +11346,7 @@
     - kelly holmes
     reasoning: Kelly (name) + homes (houses) = Kelly Holmes
 - id: mixedbusters-005
-  enabled: true
+  enabled: false
   title: Mixedbusters
   topic: mixed phonetic wordplay
   difficulty: medium
@@ -12433,7 +12433,7 @@
     - roger federer
     reasoning: Roger + fed (given dinner) + er + er = Roger Federer
 - id: mixedbusters-020
-  enabled: true
+  enabled: false
   title: Mixedbusters
   topic: mixed phonetic wordplay
   difficulty: medium
@@ -13506,7 +13506,7 @@
     - mike tyson
     reasoning: mike (recording device) + tie (cravat thing) + son = Mike Tyson
 - id: mixedbusters-002
-  enabled: true
+  enabled: false
   title: Mixedbusters
   topic: mixed phonetic wordplay
   difficulty: medium
@@ -14575,7 +14575,7 @@
     - michael johnson
     reasoning: Michael (famous archangel) + John + son = Michael Johnson
 - id: mixedbusters-014
-  enabled: true
+  enabled: false
   title: Mixedbusters
   topic: mixed phonetic wordplay
   difficulty: medium
@@ -15549,7 +15549,7 @@
     - andy murray
     reasoning: and + he (him there) + mur + ray... and + he + Murray = Andy Murray
 - id: mixedbusters-013
-  enabled: true
+  enabled: false
   title: Mixedbusters
   topic: mixed phonetic wordplay
   difficulty: medium
@@ -16485,7 +16485,7 @@
     - denise lewis
     reasoning: den (animal's cave) + niece + Lewis... den + niece + is = Denise Lewis
 - id: mixedbusters-019
-  enabled: true
+  enabled: false
   title: Mixedbusters
   topic: mixed phonetic wordplay
   difficulty: medium
@@ -17423,7 +17423,7 @@
     - linford christie
     reasoning: Lin + ford (river crossing) + Chris + tee (Christmassy) = Linford Christie
 - id: mixedbusters-008
-  enabled: true
+  enabled: false
   title: Mixedbusters
   topic: mixed phonetic wordplay
   difficulty: medium
@@ -18359,7 +18359,7 @@
     - steve redgrave
     reasoning: Steve + red + grave = Steve Redgrave
 - id: mixedbusters-015
-  enabled: true
+  enabled: false
   title: Mixedbusters
   topic: mixed phonetic wordplay
   difficulty: medium
@@ -19302,7 +19302,7 @@
     - muhammad ali
     reasoning: moo (cow noise) + ham (pig snack) + mad (mental) + alley (back street) = Muhammad Ali
 - id: mixedbusters-006
-  enabled: true
+  enabled: false
   title: Mixedbusters
   topic: mixed phonetic wordplay
   difficulty: medium
@@ -20241,7 +20241,7 @@
     - jonathan edwards
     reasoning: Jonathan + Ed + wards (hospital wards) = Jonathan Edwards
 - id: mixedbusters-018
-  enabled: true
+  enabled: false
   title: Mixedbusters
   topic: mixed phonetic wordplay
   difficulty: medium
@@ -21196,7 +21196,7 @@
     - roger federer
     reasoning: Roger + fed (fed someone) + er + er = Roger Federer
 - id: mixedbusters-009
-  enabled: true
+  enabled: false
   title: Mixedbusters
   topic: mixed phonetic wordplay
   difficulty: medium
@@ -22135,7 +22135,7 @@
     - jessica ennis-hill
     reasoning: Jessica + in + is = Jessica Ennis
 - id: mixedbusters-010
-  enabled: true
+  enabled: false
   title: Mixedbusters
   topic: mixed phonetic wordplay
   difficulty: medium
@@ -23075,7 +23075,7 @@
     - linford christie
     reasoning: Lin + ford (river crossing) + Chris + tee = Linford Christie
 - id: mixedbusters-003
-  enabled: true
+  enabled: false
   title: Mixedbusters
   topic: mixed phonetic wordplay
   difficulty: medium
@@ -24010,7 +24010,7 @@
     - carl lewis
     reasoning: Carl/Karl + loo (toilet) + is = Carl Lewis
 - id: mixedbusters-004
-  enabled: true
+  enabled: false
   title: Mixedbusters
   topic: mixed phonetic wordplay
   difficulty: medium
