@@ -117,3 +117,55 @@ def test_all_disabled_raises_value_error(disabled_bank):
     """A bank with no enabled sets raises ValueError."""
     with pytest.raises(ValueError, match="[Nn]o enabled sets"):
         get_set_for_date(disabled_bank, date(2026, 1, 1))
+
+
+import sqlite3
+from api.db import _create_schema, set_daily_override
+from api.config import Config
+from api.game_service import get_todays_set
+
+
+def test_override_returns_pinned_set(three_set_bank):
+    """When a daily override is set, get_todays_set returns the pinned set."""
+    conn = sqlite3.connect(":memory:")
+    conn.row_factory = sqlite3.Row
+    _create_schema(conn)
+
+    import datetime
+    import pytz
+    config = Config()
+    tz = pytz.timezone(config.timezone)
+    today_str = datetime.datetime.now(tz).strftime("%Y-%m-%d")
+
+    set_daily_override(conn, "set-beta", today_str)
+
+    result = get_todays_set(three_set_bank, config, conn=conn)
+    assert result.id == "set-beta"
+    conn.close()
+
+
+def test_override_unknown_id_falls_back_to_rotation(three_set_bank):
+    """When the override set_id doesn't exist in the bank, fall back to rotation."""
+    conn = sqlite3.connect(":memory:")
+    conn.row_factory = sqlite3.Row
+    _create_schema(conn)
+
+    import datetime
+    import pytz
+    config = Config()
+    tz = pytz.timezone(config.timezone)
+    today_str = datetime.datetime.now(tz).strftime("%Y-%m-%d")
+
+    set_daily_override(conn, "nonexistent-set-999", today_str)
+
+    # Should fall back to rotation without raising
+    result = get_todays_set(three_set_bank, config, conn=conn)
+    assert result.id in {s.id for s in three_set_bank}
+    conn.close()
+
+
+def test_no_conn_uses_rotation(three_set_bank):
+    """With conn=None, get_todays_set uses date rotation as before."""
+    config = Config()
+    result = get_todays_set(three_set_bank, config, conn=None)
+    assert result.id in {s.id for s in three_set_bank}
