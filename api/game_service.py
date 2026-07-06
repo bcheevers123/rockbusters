@@ -1,7 +1,7 @@
 """Rockbusters game service — daily set selection and state management."""
 
 import datetime
-from typing import List, Optional
+from typing import List
 
 import pytz
 

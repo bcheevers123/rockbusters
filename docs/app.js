@@ -3,7 +3,7 @@
 // ---------------------------------------------------------------------------
 // Constants
 // ---------------------------------------------------------------------------
-const EPOCH = new Date(Date.UTC(2026, 0, 2));
+const EPOCH = new Date(Date.UTC(2026, 0, 1));
 const TIMEZONE = 'Europe/London';
 const API_URL_ATTR = 'api-url';
 
@@ -798,8 +798,7 @@ async function browsePreview() {
   // offset = idx - diffDays (mod total)
   const total = _bankSets.length;
   const today = getTodayLondon();
-  const EPOCH_DATE = new Date(Date.UTC(2026, 0, 2));
-  const diffDays = Math.floor((today.getTime() - EPOCH_DATE.getTime()) / (1000 * 60 * 60 * 24));
+  const diffDays = Math.floor((today.getTime() - EPOCH.getTime()) / (1000 * 60 * 60 * 24));
   const offset = (((idx - diffDays) % total) + total) % total;
 
   devSetOffset(offset);
@@ -836,8 +835,7 @@ async function devRandom() {
   const randomSet = sets[Math.floor(Math.random() * sets.length)];
   const total = sets.length;
   const today = getTodayLondon();
-  const EPOCH_DATE = new Date(Date.UTC(2026, 0, 2));
-  const diffDays = Math.floor((today.getTime() - EPOCH_DATE.getTime()) / (1000 * 60 * 60 * 24));
+  const diffDays = Math.floor((today.getTime() - EPOCH.getTime()) / (1000 * 60 * 60 * 24));
   const idx = sets.findIndex(s => s.id === randomSet.id);
   const offset = (((idx - diffDays) % total) + total) % total;
   devSetOffset(offset);

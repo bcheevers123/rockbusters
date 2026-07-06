@@ -20,7 +20,6 @@ from api.config import Config
 from api.content_bank import load_bank
 from api.db import (
     _create_schema,
-    get_daily_override,
     get_leaderboard,
     get_user_score_today,
     has_correct_guess,
@@ -221,12 +220,11 @@ def today():
 @app.get("/api/leaderboard")
 def leaderboard():
     """Return top players plus today_points for each."""
-    todays_set = get_todays_set(bank, config)
-    set_id = todays_set.id
-
     conn = get_conn()
     try:
         with _mem_lock if _mem_conn is not None else contextlib.nullcontext():
+            todays_set = get_todays_set(bank, config, conn=conn)
+            set_id = todays_set.id
             rows = get_leaderboard(conn)
             result = []
             for rank, row in enumerate(rows, start=1):
