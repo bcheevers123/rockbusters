@@ -111,7 +111,7 @@
   clues:
   - number: 1
     initials: M
-    clue: Your mum's gone all legal. Very firm on the law, she is — and she's saying I to everything. Ma. Law. I.
+    clue: Your mum's gone all legal. Very firm on the law, she is — and she's agreeing with absolutely everything.
     answer: Malawi
     aliases:
     - malawi
@@ -125,7 +125,7 @@
     reasoning: namibi (a namibi) + a = Namibi-a = Namibia
   - number: 3
     initials: R
-    clue: That wandering woman — always off somewhere — but she always puts the letter R at the front of her name. On everything. R. Wanda.
+    clue: That wandering woman — always off somewhere — but she always puts the letter R at the front of her name. On everything.
     answer: Rwanda
     aliases:
     - rwanda
@@ -453,14 +453,14 @@
     reasoning: sero (sounds like 'seer-oh', or zero with an S) + tone (a sound, or a musical note) + in (inside, within) = Sero-tone-in = Serotonin
   - number: 2
     initials: T
-    clue: A man called Tess has got a stone, a proper big one, and he's carrying it around. Tess. Tos. Ter. One. Bit of a mouthful.
+    clue: A bloke called Tess has got a proper big stone and he's carrying it around with great determination.
     answer: Testosterone
     aliases:
     - testosterone
     reasoning: test (sounds like 'tess-t', or a test, an exam) + os (sounds like 'oz', a small amount) + ter (sounds like 'ter', a hesitation) + one (the number one) = Test-os-ter-one = Testosterone
   - number: 3
     initials: P
-    clue: A photo has been taken by someone called Syn, unusual name, and it's come out all green. Syn. Thesis. Something about light and plants.
+    clue: A photo has been taken by someone with an unusual name and it's come out all green. Something about light and plants.
     answer: Photosynthesis
     aliases:
     - photosynthesis
@@ -1680,7 +1680,7 @@
     reasoning: 'still (not moving, stationary) + ton (an imperial unit of weight, very heavy) = still-ton = Stilton. Say it: still-ton.'
   - number: 3
     initials: M
-    clue: Right, Morrissey and Ella Fitzgerald are the same person. That's what they're saying. Moz is Ella. Apparently.
+    clue: Morrissey and Ella Fitzgerald are the same person. That's what they're saying. Moz is Ella.
     answer: Mozzarella
     aliases:
     - mozzarella
@@ -2399,7 +2399,7 @@
   clues:
   - number: 1
     initials: M
-    clue: There's a bloke called Mo, right, and he's absolutely roasting. Proper sweating. And then he just goes oh. That's it. Mo. Heat. Oh.
+    clue: There's a bloke called Mo, right, and he's absolutely roasting in the heat. Proper sweating. Then he makes a disappointed noise.
     answer: Mojito
     aliases:
     - mojito
@@ -2606,14 +2606,14 @@
     reasoning: phili (a bloke called Phili) + pine (a pine tree) + s = Phili-pine-s = Philippines
   - number: 2
     initials: I
-    clue: That Indone bloke, he's gone and found himself a sia. Classic. Indonesia. Indone's got a sia.
+    clue: That bloke Indone has gone and found himself something. Classic. He seems very happy with it.
     answer: Indonesia
     aliases:
     - indonesia
     reasoning: indone (an indone) + sia = Indone-sia = Indonesia
   - number: 3
     initials: M
-    clue: Your mum's gone completely flat out — just lying there — and there's a small island next to her. Ma. Lay. Sia.
+    clue: Your mum's gone completely flat out — just lying there — and there's a small island next to her.
     answer: Malaysia
     aliases:
     - malaysia
@@ -5414,7 +5414,7 @@
   clues:
   - number: 1
     initials: P
-    clue: A fella called Pan has gone and made a meal out of something but it's turned into a right old drama. Everyone's a bit tense. Pan. Creas. Not a word you hear much.
+    clue: A fella's gone and made a massive meal out of something but it's turned into a right old drama. Everyone's tense.
     answer: Pancreas
     aliases:
     - pancreas
@@ -5428,7 +5428,7 @@
     reasoning: cere (sounds like 'seer', someone who sees, or 'sara') + bell (a bell, the ringing thing) + um (the hesitation sound) = Cere-bell-um = Cerebellum
   - number: 3
     initials: H
-    clue: A hippo has gone to a university campus. Very keen. Very large. Enrolled in something. The campus is called Campus. Hippo. Campus.
+    clue: A very large African animal has enrolled at university. Very keen. Taking it all very seriously.
     answer: Hippocampus
     aliases:
     - hippocampus
@@ -6391,7 +6391,7 @@
   clues:
   - number: 1
     initials: Z
-    clue: Someone's put a very small amount of tea into a narrow opening and it just about fitted. Slot. Tea. In it went.
+    clue: Someone's put a very small amount of tea into a narrow opening and it just about fitted.
     answer: Zloty
     aliases:
     - zloty
@@ -8406,7 +8406,7 @@
   clues:
   - number: 1
     initials: H
-    clue: That woman - her - she's taken on the job of cooling everything down and she's doing it with absolute ease. No bother at all. Her. Cooling. Easy.
+    clue: That woman — her — she's taken on the job of cooling everything down and she's doing it with absolute ease.
     answer: Hercules
     aliases:
     - hercules
@@ -8643,21 +8643,21 @@
   clues:
   - number: 1
     initials: M
-    clue: That famous runner — Mo, everyone calls him — has found a massive legendary bird and gone oh. Mo. Roc. Oh.
+    clue: That famous runner Mo has found a massive legendary bird and gone completely overwhelmed by the sight of it.
     answer: Morocco
     aliases:
     - morocco
     reasoning: moroc (a bloke called Moroc) + co (a co) = Moroc-co = Morocco
   - number: 2
     initials: T
-    clue: Someone's hurt both their kneecaps — both of them at once — and let out a big disappointed sigh. Too. Knee. Sha.
+    clue: Someone's hurt both their kneecaps at once and let out a big disappointed sigh.
     answer: Tunisia
     aliases:
     - tunisia
     reasoning: tuni (tuna, a tuni) + sia (a sia) = Tuni-sia = Tunisia
   - number: 3
     initials: A
-    clue: Your mate Al has got himself all the kit. Every bit of equipment you could want. Al. Gear. Yeah.
+    clue: Your mate Al has got himself all the kit. Every bit of equipment you could want.
     answer: Algeria
     aliases:
     - algeria
@@ -9557,7 +9557,7 @@
     reasoning: inside (the interior) + out (the exterior) = Inside Out
   - number: 3
     initials: M
-    clue: A bloke called Moe's standing next to a woman called Ana. They're just there together. Moe. Ana. That's them.
+    clue: A bloke called Moe is standing next to a woman called Ana. They're just there together.
     answer: Moana
     aliases:
     - moana
@@ -10126,7 +10126,7 @@
     reasoning: glass (big glass thing) + ton (loads) + bury (buried underneath) = Glastonbury
   - number: 3
     initials: B T
-    clue: The darkest colour you can think of, then a swimming pool, then a very tall structure. Seaside. Lancashire.
+    clue: The darkest colour you can think of, then a swimming pool, then a very tall structure by the seaside.
     answer: Blackpool Tower
     aliases:
     - blackpool tower
@@ -10833,7 +10833,7 @@
     reasoning: malt (malted grain) + a = Malta
   - number: 3
     initials: C
-    clue: That bloke keeps going on about the centre of an apple. The core. And he's pressing something at the same time. Core. Press. Near enough.
+    clue: That bloke keeps going on about the centre of an apple. The core. And he's pressing something at the same time.
     answer: Cyprus
     aliases:
     - cyprus
@@ -10852,7 +10852,7 @@
   clues:
   - number: 1
     initials: M
-    clue: Some fella's wearing a big black hood and he's gone and climbed a mountain. Mont. Negro. That's what he said about the mountain anyway.
+    clue: Some fella's wearing a big black hood and he's gone and climbed a mountain.
     answer: Montenegro
     aliases:
     - montenegro
@@ -11916,7 +11916,7 @@
     reasoning: too (excessive) + knee (joint) + sha (name) = too-nee-sha = Tunisia
   - number: 3
     initials: B
-    clue: This is a big one. There's a bay, right. With a bar across it. And someone called Dos is standing guard. Bar. Bay. Dos. Off you go.
+    clue: There's a bay, right, with a bar across it, and someone called Dos is standing guard.
     answer: Barbados
     aliases:
     - barbados
@@ -12789,7 +12789,7 @@
     reasoning: the + emperor's (the boss's) + new (fresh, recently acquired) + groove (a channel, a rhythm, a thing) = The Emperor's New Groove
   - number: 2
     initials: T
-    clue: That black gooey stuff they put on roads, yeah, and there's a fella called Zan who's moved in next to the road works. Tar. Zan. Near enough.
+    clue: That black gooey stuff they put on roads — and there's a fella called Zan who's moved in next to the road works.
     answer: Tarzan
     aliases:
     - tarzan
@@ -14059,14 +14059,14 @@
     reasoning: con + crete = concrete, remove con = Crete. The building material, minus the dodgy prefix.
   - number: 2
     initials: M
-    clue: Someone's gone and stocked up on Maggie's leftovers. Maggie's gone, left, done a luff. Maga. Luf. Right.
+    clue: Someone's gone and stocked up on Maggie's leftovers after she's gone and done one.
     answer: Magaluf
     aliases:
     - magaluf
     reasoning: Maga (shortened Maggie) + luf (leaving, luffing in sailing = turning away) = Maga-luf = Magaluf
   - number: 3
     initials: M
-    clue: That older woman - the gran. She can do it. She really can. She's capable, right. And she wants you to know it. Gran. Can. Aria and all.
+    clue: That older woman — the gran. She can do it. She really can. She's capable, right. And she wants you to know it.
     answer: Gran Canaria
     aliases:
     - gran canaria
@@ -18710,7 +18710,7 @@
   clues:
   - number: 1
     initials: B T B
-    clue: Right, an insect's gone and made itself a hot drink - a proper cup of tea - and then there's a wild animal hanging around as well. Bee. Tea. Wild animal. You know.
+    clue: An insect's gone and made itself a hot drink — a proper cup of tea — and then there's a wild animal hanging around as well.
     answer: Beauty and the Beast
     aliases:
     - beauty and the beast
@@ -18893,7 +18893,7 @@
     reasoning: para (pair of, a para) + guy (a bloke) = Para-guy = Paraguay
   - number: 3
     initials: U
-    clue: Your mate's gone and urinated on some guy. Your. You. Guy. Put it together. Near enough.
+    clue: Your mate's gone and urinated on some guy. Very embarrassing for everyone involved.
     answer: Uruguay
     aliases:
     - uruguay
@@ -19726,7 +19726,7 @@
     reasoning: Alex + and + er = Alexander, the + grate = the Great. Alex-and-er-the-Grate.
   - number: 2
     initials: C
-    clue: She's unlocked it, oh she has, and then given a gentle tap to a young deer. Lovely. Egyptian.
+    clue: She's unlocked it, oh she has, and then given a gentle tap to a young deer. Very regal.
     answer: Cleopatra
     aliases:
     - cleopatra
@@ -19818,7 +19818,7 @@
   clues:
   - number: 1
     initials: S
-    clue: Right, that fella Slow - he's gone and come back, hasn't he. Returned. Reappeared. Sloven.
+    clue: Right, that fella Slow — he's gone and come back, hasn't he. Returned. Reappeared.
     answer: Slovenia
     aliases:
     - slovenia
@@ -27754,7 +27754,7 @@
     reasoning: 'crete sounds like concrete minus ''con'' = Crete. Or: the material you make walls with, minus the con = Crete'
   - number: 3
     initials: R
-    clue: Some fella's holding a fishing rod right, and he's wound the reel right back. That's it. Reel. Back.
+    clue: Some fella's holding a fishing rod and he's wound the reel right back.
     answer: Rhodes
     aliases:
     - rhodes
@@ -28011,7 +28011,7 @@
     reasoning: 'sigh (exhale) + press (push) = sigh-press = Cyprus. Or: core (centre) + press = Cyprus near enough'
   - number: 3
     initials: G C
-    clue: Right, a big old woman - not rude, just a big gran - and she's opened a can of something while singing opera. Gran. Can. Aria. Brilliant.
+    clue: A big old woman and she's opened a can of something while singing opera. Magnificent combination.
     answer: Gran Canaria
     aliases:
     - gran canaria
@@ -28199,7 +28199,7 @@
   clues:
   - number: 1
     initials: T
-    clue: There's been a loud noise and then there's a male chicken standing there looking confused. Bang. Rooster. That's your lot.
+    clue: There's been a very loud noise and then a male chicken is just standing there looking confused.
     answer: Bangkok
     aliases:
     - bangkok
@@ -28240,7 +28240,7 @@
     reasoning: tore + on + to (two) = Toronto
   - number: 2
     initials: N Y
-    clue: There's a fresh thing, just arrived, and it's standing next to a county in northern England. Lovely. Very new.
+    clue: There's a fresh thing, just arrived, and it's standing next to a county in northern England.
     answer: New York
     aliases:
     - new york
@@ -28451,7 +28451,7 @@
     reasoning: soul = Seoul
   - number: 3
     initials: T
-    clue: Right, your foot digit. Now a thing for opening locks. Now a noise like you've just remembered something. Toe. Key. Oh. That's it.
+    clue: Right, your foot digit. Now a thing for opening locks. Now a noise like you've just remembered something.
     answer: Tokyo
     aliases:
     - tokyo
@@ -28478,7 +28478,7 @@
     reasoning: is + tan + bull = Istanbul
   - number: 2
     initials: C
-    clue: There's been an explosion, and now a male chicken is just standing there in the middle of it all. Bang. Rooster. Right in the middle.
+    clue: There's been an explosion, and now a male chicken is just standing there in the middle of it all.
     answer: Bangkok
     aliases:
     - bangkok
@@ -28580,7 +28580,7 @@
     reasoning: sand + Fran + sis + co = San Francisco
   - number: 2
     initials: L A
-    clue: There's been a loss, right. Then some kind of holy man. Then loads of wobbly transparent stuff you eat at parties. And it's all a bit easy. Loss. An. Jellies.
+    clue: There's been a loss, then a holy man, then loads of wobbly transparent stuff you eat at parties.
     answer: Los Angeles
     aliases:
     - los angeles
@@ -28607,7 +28607,7 @@
   clues:
   - number: 1
     initials: R D J
-    clue: There's Ree, going oh. Then Jan's come in and said aye. And someone's doing a row in the background. Ree. Oh. Jan. Aye. Row. Near enough.
+    clue: There's Ree going oh, then Jan's come in and said aye, and someone's doing a row in the background.
     answer: Rio de Janeiro
     aliases:
     - rio de janeiro
@@ -28621,7 +28621,7 @@
     reasoning: Buenos (bone-us) + Aires (airs) = Buenos Aires
   - number: 3
     initials: M C
-    clue: There's a bloke called Mex, he's got an eagle and he's gone to the town. Mex. Eagle. Town. Mexico. Sort of.
+    clue: There's a bloke, he's got an eagle and he's gone to the town. Very purposeful.
     answer: Mexico City
     aliases:
     - mexico city
@@ -28675,7 +28675,7 @@
   clues:
   - number: 1
     initials: T
-    clue: Right, foot digit. Lock opener. Noise of realisation. Three things. Say them together. Toe. Key. Oh.
+    clue: Right, foot digit. Lock opener. Noise of sudden realisation. Say them all together quickly.
     answer: Tokyo
     aliases:
     - tokyo
@@ -28689,7 +28689,7 @@
     reasoning: Mel + born = Melbourne
   - number: 3
     initials: I
-    clue: Is that animal a tanned bull? Genuinely asking. Is. It. A. Tan. Bull. Answer the question.
+    clue: Is that animal a tanned bull? Genuinely asking. The question itself is the answer.
     answer: Istanbul
     aliases:
     - istanbul
@@ -32238,7 +32238,7 @@
     reasoning: miss + is + sip + ee + river = Mississippi River (miss-ISS-sip-ee)
   - number: 3
     initials: N R
-    clue: There's absolutely nothing in this waterway. Zero. Empty. Nil. That's the whole thing.
+    clue: There's absolutely nothing in this waterway. Zero. Empty. The river's got nothing in it at all.
     answer: Nile River
     aliases:
     - nile river
@@ -33775,7 +33775,7 @@
     reasoning: wall (all round the room, covering the walls) + paper (printed sheets, newspaper type material) = Wallpaper
   - number: 2
     initials: T
-    clue: Right, the thing in your gob you use for biting has gone and stuck itself to everything. Paste. Sticky. Won't stop.
+    clue: Right, the thing in your gob you use for biting has gone and stuck itself to everything.
     answer: Toothpaste
     aliases:
     - toothpaste
@@ -37141,7 +37141,7 @@
   clues:
   - number: 1
     initials: T
-    clue: Ty's at it again. Big spinning one this time, out in the Pacific. Typhoon. Well, he's the one making all the noise out there.
+    clue: Ty's at it again. Big spinning one this time, out in the Pacific. He's the one making all the noise.
     answer: Typhoon
     aliases:
     - typhoon
@@ -43393,7 +43393,7 @@
     reasoning: Abraham (a name) + Lincoln (a city/a car) = Abraham Lincoln
   - number: 3
     initials: G W
-    clue: A saint who kills dragons has got an absolutely enormous pile of laundry to get through. Tons of it. Washing. Ton.
+    clue: A saint who kills dragons has got an absolutely enormous pile of laundry to get through. Tons of it.
     answer: George Washington
     aliases:
     - george washington
