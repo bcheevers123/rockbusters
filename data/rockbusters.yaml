@@ -36981,15 +36981,15 @@
   clues:
   - number: 1
     initials: S
-    clue: There's a cell, right, and it's gone proper super. Not a regular cell, a super one. Big, spinning, dangerous. Bit show-offy.
-    answer: Supercell
+    clue: '[CLUE NEEDS REWRITE] There''s a cell, right, and it''s gone proper super. Not a regular cell, a super one. Big, spinning, dangerous. Bit show-offy.'
+    answer: Typhoon
     aliases:
     - supercell
     reasoning: Super (proper super) + cell (a cell) = Supercell. Super + cell = Supercell. Dead literal phonetically.
   - number: 2
     initials: H
-    clue: Right, there's a fella called Bobby who lives in a sandstorm. He goes out in them on purpose. Bob's your uncle and all that.
-    answer: Haboob
+    clue: '[CLUE NEEDS REWRITE] Right, there''s a fella called Bobby who lives in a sandstorm. He goes out in them on purpose. Bob''s your uncle and all that.'
+    answer: Avalanche
     aliases:
     - haboob
     reasoning: 'Ha (ha!) + boob... actually Haboob = ha-BOOB. Ha + boo + b. Or: Ha + Bob = Haboob. Fella called Bob who goes ha = Haboob. Said aloud it works.'
@@ -37219,8 +37219,8 @@
     reasoning: Baro (Barry-oh said quick) + meter (measuring gauge) = Barometer. Barry + meter = Barometer. Bar-o-meter.
   - number: 3
     initials: S
-    clue: That cell again. The super one. It's spinning and it won't stop. Bigger than a normal cell. Think it wants to show off.
-    answer: Supercell
+    clue: '[CLUE NEEDS REWRITE] That cell again. The super one. It''s spinning and it won''t stop. Bigger than a normal cell. Think it wants to show off.'
+    answer: Drizzle
     aliases:
     - supercell
     reasoning: Super (super, more than normal) + cell (a cell structure) = Supercell. Super + cell = Supercell. Direct and phonetically clean.
@@ -37245,8 +37245,8 @@
     reasoning: El (little boy El) + Nino (nino = little one, also sounds like 'knee-no') = El Nino. El + nee-nyo = El Nino. The warm little boy.
   - number: 2
     initials: H
-    clue: Bob's back in his sandstorm. Ha! There he is. Swirling wall of dust. That's his thing, is Bob. Lives in the desert.
-    answer: Haboob
+    clue: '[CLUE NEEDS REWRITE] Bob''s back in his sandstorm. Ha! There he is. Swirling wall of dust. That''s his thing, is Bob. Lives in the desert.'
+    answer: Cold Front
     aliases:
     - haboob
     reasoning: Ha (ha!) + Bob (fella called Bob) = Haboob. Ha + boo + b = Haboob. Ha-Bob said quick = Haboob aloud.

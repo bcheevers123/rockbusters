@@ -24305,16 +24305,18 @@
     "clues": [
       {
         "number": 1,
-        "answer": "Supercell",
+        "answer": "Typhoon",
         "aliases": [
+          "typhoon",
           "supercell"
         ],
         "reasoning": "Super (proper super) + cell (a cell) = Supercell. Super + cell = Supercell. Dead literal phonetically."
       },
       {
         "number": 2,
-        "answer": "Haboob",
+        "answer": "Avalanche",
         "aliases": [
+          "avalanche",
           "haboob"
         ],
         "reasoning": "Ha (ha!) + boob... actually Haboob = ha-BOOB. Ha + boo + b. Or: Ha + Bob = Haboob. Fella called Bob who goes ha = Haboob. Said aloud it works."
@@ -24524,8 +24526,9 @@
       },
       {
         "number": 3,
-        "answer": "Supercell",
+        "answer": "Drizzle",
         "aliases": [
+          "drizzle",
           "supercell"
         ],
         "reasoning": "Super (super, more than normal) + cell (a cell structure) = Supercell. Super + cell = Supercell. Direct and phonetically clean."
@@ -24546,8 +24549,9 @@
       },
       {
         "number": 2,
-        "answer": "Haboob",
+        "answer": "Cold Front",
         "aliases": [
+          "cold front",
           "haboob"
         ],
         "reasoning": "Ha (ha!) + Bob (fella called Bob) = Haboob. Ha + boo + b = Haboob. Ha-Bob said quick = Haboob aloud."
