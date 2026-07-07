@@ -35335,7 +35335,7 @@
     - the guardian
     reasoning: 'The + Guard + Ian = The Guardian. ''The guard Ian'' said fast = The Guardian. Scene: a minder keeping watch over a bloke called Ian.'
 - id: royalbusters-001
-  enabled: true
+  enabled: false
   title: Royalbusters
   topic: British royals and monarchy history
   difficulty: medium
@@ -35368,7 +35368,7 @@
     - anne boleyn
     reasoning: Anne Boleyn. Anne = Ann. Boleyn = Bowl-in. Ann + bowling = Anne Boleyn. She's literally ann-bowl-in. Say it out loud.
 - id: royalbusters-002
-  enabled: true
+  enabled: false
   title: Royalbusters
   topic: British royals and monarchy history
   difficulty: medium
@@ -35400,7 +35400,7 @@
     - wallis simpson
     reasoning: 'Wallis Simpson. Wallis = Wall-is. Simpson = Simp-son. Wall-is Simp-son. There''s a wall, it is simple, it''s a son. Wall-is-Simp-son. Say it out loud: Wallis Simpson. Works.'
 - id: royalbusters-003
-  enabled: true
+  enabled: false
   title: Royalbusters
   topic: British royals and monarchy history
   difficulty: medium
@@ -35432,7 +35432,7 @@
     - queen camilla
     reasoning: Queen Camilla. Queen = Kween. Camilla = Cam-ill-a. Cam (camera) + ill + a. She's got a camera and she's feeling a bit poorly. Cam-ill-a. Queen Camilla. Near enough.
 - id: royalbusters-004
-  enabled: true
+  enabled: false
   title: Royalbusters
   topic: British royals and monarchy history
   difficulty: medium
@@ -35464,7 +35464,7 @@
     - king charles
     reasoning: King Charles. King = King. Charles = Char-lz. King Charles, sounds like 'kin-charlz'. A king called Charles who's charring things. Bit weird but it works.
 - id: royalbusters-005
-  enabled: true
+  enabled: false
   title: Royalbusters
   topic: British royals and monarchy history
   difficulty: medium
@@ -35496,7 +35496,7 @@
     - princess eugenie
     reasoning: Princess Eugenie. Princess = Prin-cess. Eugenie = You-jean-ee. You + jean + ee. It's yours, it's a pair of jeans, and it's got an ee sound. A princess whose name sounds like 'you-jeans'. Princess Eugenie. Near enough.
 - id: royalbusters-006
-  enabled: true
+  enabled: false
   title: Royalbusters
   topic: British royals and monarchy history
   difficulty: medium
@@ -35528,7 +35528,7 @@
     - zara tindall
     reasoning: Zara Tindall. Zara = Zar-a. Tindall = Tin-dall. Tin + doll. She's got a tin and a doll. Or Tindall sounds like 'tindle', tinder/kindle. Zara = the clothes shop. A Zara shop with a tinder problem. Zara Tindall. Say it out loud.
 - id: royalbusters-007
-  enabled: true
+  enabled: false
   title: Royalbusters
   topic: British royals and monarchy history
   difficulty: medium
@@ -35560,7 +35560,7 @@
     - lady louise
     reasoning: Lady Louise. Lady = Lay-dee. Louise = Lou-eeze. Lay-dee-Lou-eeze. A lady who's easing something out. Lady Louise. Say it out loud.
 - id: royalbusters-008
-  enabled: true
+  enabled: false
   title: Royalbusters
   topic: British royals and monarchy history
   difficulty: medium
@@ -35594,7 +35594,7 @@
     - princess kate
     reasoning: Princess Catherine. Princess = Prin-cess. Catherine = Kath-rin. Prin-cess-Kath-rin. A princess called Kath who's running things. Princess Catherine. Say it out loud.
 - id: royalbusters-009
-  enabled: true
+  enabled: false
   title: Royalbusters
   topic: British royals and monarchy history
   difficulty: medium
@@ -35627,7 +35627,7 @@
     - king henry the eighth
     reasoning: King Henry VIII. King + Henry + the Eighth. Hen-ree the Eighth. A king who has a hen called Ree who's done this eighth time. King Henry VIII. Say it out loud.
 - id: royalbusters-010
-  enabled: true
+  enabled: false
   title: Royalbusters
   topic: British royals and monarchy history
   difficulty: medium
@@ -35659,7 +35659,7 @@
     - wallis simpson
     reasoning: Wallis Simpson. Wallis = Wall-is. Simpson = Simp-son. Wall + is + simple + son. There's a wall, it is simple, and there's a son. Wallis Simpson. Near enough.
 - id: royalbusters-011
-  enabled: true
+  enabled: false
   title: Royalbusters
   topic: British royals and monarchy history
   difficulty: medium
@@ -35691,7 +35691,7 @@
     - princess eugenie
     reasoning: Princess Eugenie. Eugenie = You-jean-ee. You + jean + ee. It's yours, it's jeans, and it ends in ee. Princess Eugenie. Near enough.
 - id: royalbusters-012
-  enabled: true
+  enabled: false
   title: Royalbusters
   topic: British royals and monarchy history
   difficulty: medium
@@ -35723,7 +35723,7 @@
     - meghan markle
     reasoning: Meghan Markle. Meghan = Meg-an. Markle = Mar-kul. Megan at the market, sort of. Meg-an-Mar-kul. Meghan Markle. Say it out loud.
 - id: royalbusters-013
-  enabled: true
+  enabled: false
   title: Royalbusters
   topic: British royals and monarchy history
   difficulty: medium
@@ -35755,7 +35755,7 @@
     - zara tindall
     reasoning: Zara Tindall. Zara = Zar-a. Tindall = Tin-doll. Tin + doll. A Zara with a tin doll. Zara Tindall. Say it out loud.
 - id: royalbusters-014
-  enabled: true
+  enabled: false
   title: Royalbusters
   topic: British royals and monarchy history
   difficulty: medium
@@ -35788,7 +35788,7 @@
     - king charles
     reasoning: King Charles. King = King. Charles = Char-lz. Char + lz. He's charring. King Charles. Near enough.
 - id: royalbusters-015
-  enabled: true
+  enabled: false
   title: Royalbusters
   topic: British royals and monarchy history
   difficulty: medium
@@ -35820,7 +35820,7 @@
     - catherine of aragon
     reasoning: Catherine of Aragon. Catherine = Kath-rin. Of = of. Aragon = Arr-a-gon. A-gone. She's gone. Catherine of Aragon. Say it out loud.
 - id: royalbusters-016
-  enabled: true
+  enabled: false
   title: Royalbusters
   topic: British royals and monarchy history
   difficulty: medium
@@ -35853,7 +35853,7 @@
     - anne boleyn
     reasoning: Anne Boleyn. Anne = Ann. Boleyn = Bowl-in. Ann + bowling. She's always bowl-in. Anne Boleyn. Say it out loud.
 - id: royalbusters-017
-  enabled: true
+  enabled: false
   title: Royalbusters
   topic: British royals and monarchy history
   difficulty: medium
@@ -35885,7 +35885,7 @@
     - prince harry
     reasoning: Prince Harry. Prince = Prints. Harry = Hairy. Prints + Hairy. A printer who's extremely hairy. Prince Harry. Near enough.
 - id: royalbusters-018
-  enabled: true
+  enabled: false
   title: Royalbusters
   topic: British royals and monarchy history
   difficulty: medium
@@ -35918,7 +35918,7 @@
     - meghan markle
     reasoning: Meghan Markle. Meghan = Meg-an. Markle = Mar-kul. Meg-an at the Mark-et-kul. Meghan Markle. Say it out loud.
 - id: royalbusters-019
-  enabled: true
+  enabled: false
   title: Royalbusters
   topic: British royals and monarchy history
   difficulty: medium
@@ -35950,7 +35950,7 @@
     - king george
     reasoning: King George. George = Jaw-j. He's gorging, jaw going. King George. Easy one this.
 - id: royalbusters-020
-  enabled: true
+  enabled: false
   title: Royalbusters
   topic: British royals and monarchy history
   difficulty: medium
