@@ -33340,9 +33340,9 @@
     aliases:
     - romesh ranganathan
     reasoning: Romesh (ro-mesh, like Rome + esh, or just the name Romesh) + Ranganathan (rang + a + Nathan, like he rang ahead and asked for Nathan, rang-a-Nathan) = Romesh Ranganathan. He rang a Nathan.
-- id: wordbusters-001
+- id: compoundbusters-001
   enabled: true
-  title: Wordbusters
+  title: Compoundbusters
   topic: compound words, common phrases, and everyday expressions
   difficulty: easy
   office_safe: true
@@ -33373,9 +33373,9 @@
     aliases:
     - bluebell
     reasoning: blue (sky colour) + bell (ringing in the corner) = Bluebell
-- id: wordbusters-002
+- id: compoundbusters-002
   enabled: true
-  title: Wordbusters
+  title: Compoundbusters
   topic: compound words, common phrases, and everyday expressions
   difficulty: easy
   office_safe: true
@@ -33406,9 +33406,9 @@
     aliases:
     - sunflower
     reasoning: sun (the big bright thing in the sky) + flower (it's grown petals) = Sunflower
-- id: wordbusters-003
+- id: compoundbusters-003
   enabled: true
-  title: Wordbusters
+  title: Compoundbusters
   topic: compound words, common phrases, and everyday expressions
   difficulty: easy
   office_safe: true
@@ -33439,9 +33439,9 @@
     aliases:
     - fireworks
     reasoning: fire (the flames) + works (got a job, nine to five) = Fireworks
-- id: wordbusters-004
+- id: compoundbusters-004
   enabled: true
-  title: Wordbusters
+  title: Compoundbusters
   topic: compound words, common phrases, and everyday expressions
   difficulty: easy
   office_safe: true
@@ -33475,9 +33475,9 @@
     - tablecloth
     - table cloth
     reasoning: table (flat piece of furniture in the dining room) + cloth (big bit of fabric covering it) = Tablecloth
-- id: wordbusters-005
+- id: compoundbusters-005
   enabled: true
-  title: Wordbusters
+  title: Compoundbusters
   topic: compound words, common phrases, and everyday expressions
   difficulty: easy
   office_safe: true
@@ -33511,9 +33511,9 @@
     - notebook
     - note book
     reasoning: note (a single musical note) + book (written itself a novel, a thick book) = Notebook
-- id: wordbusters-006
+- id: compoundbusters-006
   enabled: true
-  title: Wordbusters
+  title: Compoundbusters
   topic: compound words, common phrases, and everyday expressions
   difficulty: easy
   office_safe: true
@@ -33547,9 +33547,9 @@
     - windscreen
     - wind screen
     reasoning: wind (the breeze) + screen (a telly, a flat screen) = Windscreen
-- id: wordbusters-007
+- id: compoundbusters-007
   enabled: true
-  title: Wordbusters
+  title: Compoundbusters
   topic: compound words, common phrases, and everyday expressions
   difficulty: easy
   office_safe: true
@@ -33583,9 +33583,9 @@
     - eardrum
     - ear drum
     reasoning: ear (the side of your head, you hear with it) + drum (a little drum strapped there) = Eardrum
-- id: wordbusters-008
+- id: compoundbusters-008
   enabled: true
-  title: Wordbusters
+  title: Compoundbusters
   topic: compound words, common phrases, and everyday expressions
   difficulty: easy
   office_safe: true
@@ -33619,9 +33619,9 @@
     - suitcase
     - suit case
     reasoning: suit (packed all their stuff, like a business suit in a bag) + case (the box, the case you travel with) = Suitcase
-- id: wordbusters-009
+- id: compoundbusters-009
   enabled: true
-  title: Wordbusters
+  title: Compoundbusters
   topic: compound words, common phrases, and everyday expressions
   difficulty: easy
   office_safe: true
@@ -33655,9 +33655,9 @@
     - elbow
     - el bow
     reasoning: el (like 'ell', an exclamation of surprise) + bow (bending, like a bow shape at the joint) = Elbow
-- id: wordbusters-010
+- id: compoundbusters-010
   enabled: true
-  title: Wordbusters
+  title: Compoundbusters
   topic: compound words, common phrases, and everyday expressions
   difficulty: easy
   office_safe: true
@@ -33688,9 +33688,9 @@
     aliases:
     - sunflower
     reasoning: sun (the big yellow thing in the sky) + flower (given off blooms, petals everywhere) = Sunflower
-- id: wordbusters-011
+- id: compoundbusters-011
   enabled: true
-  title: Wordbusters
+  title: Compoundbusters
   topic: compound words, common phrases, and everyday expressions
   difficulty: easy
   office_safe: true
@@ -33721,9 +33721,9 @@
     aliases:
     - greenhouse
     reasoning: green (painted entirely green) + house (a little building for plants) = Greenhouse
-- id: wordbusters-012
+- id: compoundbusters-012
   enabled: true
-  title: Wordbusters
+  title: Compoundbusters
   topic: compound words, common phrases, and everyday expressions
   difficulty: easy
   office_safe: true
@@ -33754,9 +33754,9 @@
     aliases:
     - cornflakes
     reasoning: corn (yellow grain) + flakes (gone crumbly, little bits everywhere) = Cornflakes
-- id: wordbusters-013
+- id: compoundbusters-013
   enabled: true
-  title: Wordbusters
+  title: Compoundbusters
   topic: compound words, common phrases, and everyday expressions
   difficulty: easy
   office_safe: true
@@ -33787,9 +33787,9 @@
     aliases:
     - windscreen
     reasoning: wind (the moving air outside) + screen (a glass panel, a screen) = Windscreen
-- id: wordbusters-014
+- id: compoundbusters-014
   enabled: true
-  title: Wordbusters
+  title: Compoundbusters
   topic: compound words, common phrases, and everyday expressions
   difficulty: easy
   office_safe: true
@@ -33820,9 +33820,9 @@
     aliases:
     - dustbin
     reasoning: dust (grey powder and fluff from the carpet) + bin (the big container outside) = Dustbin
-- id: wordbusters-015
+- id: compoundbusters-015
   enabled: true
-  title: Wordbusters
+  title: Compoundbusters
   topic: compound words, common phrases, and everyday expressions
   difficulty: easy
   office_safe: true
@@ -33853,9 +33853,9 @@
     aliases:
     - tablecloth
     reasoning: table (the flat thing in the middle of the dining room) + cloth (dressed in a big white sheet, a cloth) = Tablecloth
-- id: wordbusters-016
+- id: compoundbusters-016
   enabled: true
-  title: Wordbusters
+  title: Compoundbusters
   topic: compound words, common phrases, and everyday expressions
   difficulty: easy
   office_safe: true
@@ -33886,9 +33886,9 @@
     aliases:
     - blackbird
     reasoning: black (shed all colour, jet black) + bird (still flying about, a bird) = Blackbird
-- id: wordbusters-017
+- id: compoundbusters-017
   enabled: true
-  title: Wordbusters
+  title: Compoundbusters
   topic: compound words, common phrases, and everyday expressions
   difficulty: easy
   office_safe: true
@@ -33919,9 +33919,9 @@
     aliases:
     - suitcase
     reasoning: suit (everything they own, their whole suit of belongings) + case (a single box, clicked shut) = Suitcase
-- id: wordbusters-018
+- id: compoundbusters-018
   enabled: true
-  title: Wordbusters
+  title: Compoundbusters
   topic: compound words, common phrases, and everyday expressions
   difficulty: easy
   office_safe: true
@@ -33952,9 +33952,9 @@
     aliases:
     - doorstep
     reasoning: door (the big entrance with the letterbox) + step (someone stood right on the step) = Doorstep
-- id: wordbusters-019
+- id: compoundbusters-019
   enabled: true
-  title: Wordbusters
+  title: Compoundbusters
   topic: compound words, common phrases, and everyday expressions
   difficulty: easy
   office_safe: true
@@ -33985,9 +33985,9 @@
     aliases:
     - cobweb
     reasoning: cob (round-shaped thing, like a corn cob) + web (sticky string, the spider's net) = Cobweb
-- id: wordbusters-020
+- id: compoundbusters-020
   enabled: true
-  title: Wordbusters
+  title: Compoundbusters
   topic: compound words, common phrases, and everyday expressions
   difficulty: easy
   office_safe: true
