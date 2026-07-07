@@ -202,7 +202,7 @@
     - top gear
     reasoning: top (very top) + gear (a gear on a bike or car) = Top Gear
 - id: tvbusters-007
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: classic and modern UK TV shows
   difficulty: medium
@@ -235,7 +235,7 @@
     - spaced
     reasoning: spaced (having spaces, spaced out) = Spaced
 - id: tvbusters-008
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: classic and modern UK TV shows
   difficulty: medium
@@ -267,7 +267,7 @@
     - wire in the blood
     reasoning: wire (electrical cable) + in the (inside the) + blood (the red stuff) = Wire in the Blood
 - id: tvbusters-009
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: classic and modern UK TV shows
   difficulty: medium
@@ -300,7 +300,7 @@
     - minder
     reasoning: 'mind (the brain) + er (hesitation sound) = Minder. Or: someone who minds things.'
 - id: tvbusters-010
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: classic and modern UK TV shows
   difficulty: medium
@@ -333,7 +333,7 @@
     - the i.t. crowd
     reasoning: the + IT (tech) + crowd (people) = The IT Crowd
 - id: tvbusters-011
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: classic and modern UK TV shows
   difficulty: medium
@@ -367,7 +367,7 @@
     - two pints of lager and a packet of crisps
     reasoning: two (the number 2) + pints (measures of drink) + of lager (type of beer) = Two Pints of Lager
 - id: tvbusters-012
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: classic and modern UK TV shows
   difficulty: medium
@@ -401,7 +401,7 @@
     - ww2
     reasoning: world (the planet) + war (conflict) + two (the number 2) = World War Two
 - id: tvbusters-013
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: classic and modern UK TV shows
   difficulty: medium
@@ -434,7 +434,7 @@
     - cold feet
     reasoning: cold (opposite of warm) + feet (what you walk on) = Cold Feet
 - id: tvbusters-014
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: classic and modern UK TV shows
   difficulty: medium
@@ -467,7 +467,7 @@
     - bottom
     reasoning: bottom (the lowest part, also a rude word for behind) = Bottom
 - id: tvbusters-015
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: classic and modern UK TV shows
   difficulty: medium
@@ -499,7 +499,7 @@
     - the full monty
     reasoning: the (article) + full (complete) + monty (everything, the whole lot) = The Full Monty
 - id: tvbusters-016
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: classic and modern UK TV shows
   difficulty: medium
@@ -533,7 +533,7 @@
     - brook side
     reasoning: brook (a small stream) + side (the side of something) = Brookside
 - id: tvbusters-017
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: classic and modern UK TV shows
   difficulty: medium
@@ -565,7 +565,7 @@
     - the crown
     reasoning: the (definite article) + crown (a royal headpiece) = The Crown
 - id: tvbusters-018
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: classic and modern UK TV shows
   difficulty: medium
@@ -598,7 +598,7 @@
     - broadchurch
     reasoning: broad (wide) + church (religious building) = Broadchurch
 - id: tvbusters-019
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: classic and modern UK TV shows
   difficulty: medium
@@ -631,7 +631,7 @@
     - sherlock
     reasoning: sure (certain) + lock (a mechanism) + holmes (sounds like 'homes') = Sherlock Holmes
 - id: tvbusters-020
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: classic and modern UK TV shows
   difficulty: medium

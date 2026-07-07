@@ -1,5 +1,5 @@
 - id: tvbusters-021
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: popular US TV shows
   difficulty: medium
@@ -33,7 +33,7 @@
     - ozark
     reasoning: Oz (wizard of Oz) + ark (Noah's boat) = Ozark
 - id: tvbusters-022
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: popular US TV shows
   difficulty: medium
@@ -169,7 +169,7 @@
     - prison break
     reasoning: prison (building for criminals) + brake (stopping mechanism, sounds like break) = Prison Break
 - id: tvbusters-026
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: popular US TV shows
   difficulty: medium
@@ -202,7 +202,7 @@
     - heroes
     reasoning: here (in this spot) + rows (arguments, pronounced 'roze') = here-rows = Heroes
 - id: tvbusters-027
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: popular US TV shows
   difficulty: medium
@@ -270,7 +270,7 @@
     - sex and the city
     reasoning: secs (seconds, sounds like sex) + and + the + city (busy place) = Sex and the City
 - id: tvbusters-029
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: popular US TV shows
   difficulty: medium
@@ -304,7 +304,7 @@
     - blacklist
     reasoning: the + black (dark colour) + list (written list) = The Blacklist
 - id: tvbusters-030
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: popular US TV shows
   difficulty: medium
@@ -337,7 +337,7 @@
     - better call saul
     reasoning: better (your best bet) + call (phone) + Saul (the fella's name) = Better Call Saul
 - id: tvbusters-031
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: popular US TV shows
   difficulty: medium
@@ -372,7 +372,7 @@
     - fire fly
     reasoning: fire (flame) + fly (to fly through the air) = Firefly
 - id: tvbusters-032
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: popular US TV shows
   difficulty: medium
@@ -407,7 +407,7 @@
     - office
     reasoning: the + off (switched off) + is (it is) = the-off-is = The Office
 - id: tvbusters-033
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: popular US TV shows
   difficulty: medium
@@ -440,7 +440,7 @@
     - veronica mars
     reasoning: Veronica (the name) + Mars (the red planet) = Veronica Mars
 - id: tvbusters-034
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: popular US TV shows
   difficulty: medium
@@ -473,7 +473,7 @@
     - arrested development
     reasoning: arrested (stopped by police) + development (building plans) = Arrested Development
 - id: tvbusters-035
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: popular US TV shows
   difficulty: medium
@@ -508,7 +508,7 @@
     - terror
     reasoning: the + terror (absolute fear and dread) = The Terror
 - id: tvbusters-036
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: popular US TV shows
   difficulty: medium
@@ -542,7 +542,7 @@
     - mind hunter
     reasoning: mind (the brain, thoughts) + hunter (one who hunts) = Mindhunter
 - id: tvbusters-037
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: popular US TV shows
   difficulty: medium
@@ -576,7 +576,7 @@
     - boys
     reasoning: the + boys (the lads) = The Boys
 - id: tvbusters-038
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: popular US TV shows
   difficulty: medium
@@ -609,7 +609,7 @@
     - colony
     reasoning: col (mountain pass) + on (switched on) + ee (happy ending sound) = col-on-ee = Colony
 - id: tvbusters-039
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: popular US TV shows
   difficulty: medium
@@ -644,7 +644,7 @@
     - billions
     reasoning: billions (an enormous amount of money) = Billions
 - id: tvbusters-040
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: popular US TV shows
   difficulty: medium

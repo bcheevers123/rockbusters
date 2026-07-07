@@ -1042,37 +1042,6 @@
     ]
   },
   {
-    "id": "tvbusters-020",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Gavin and Stacey",
-        "aliases": [
-          "gavin and stacey",
-          "gavin & stacey"
-        ],
-        "reasoning": "Gavin (a name) + and (connector) + Stacey (a name) = Gavin and Stacey"
-      },
-      {
-        "number": 2,
-        "answer": "The Chase",
-        "aliases": [
-          "the chase",
-          "the chaser"
-        ],
-        "reasoning": "the (article) + chase (to run after something) = The Chase"
-      },
-      {
-        "number": 3,
-        "answer": "Quantum Leap",
-        "aliases": [
-          "quantum leap"
-        ],
-        "reasoning": "quantum (a scientific unit, sounds like 'quant-um') + leap (a jump) = Quantum Leap"
-      }
-    ]
-  },
-  {
     "id": "cheesebusters-002",
     "clues": [
       {
@@ -4685,37 +4654,6 @@
     ]
   },
   {
-    "id": "tvbusters-016",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Vera",
-        "aliases": [
-          "vera"
-        ],
-        "reasoning": "Vera (a name, sounds like 'very-a') = Vera"
-      },
-      {
-        "number": 2,
-        "answer": "Scott and Bailey",
-        "aliases": [
-          "scott and bailey",
-          "scott & bailey"
-        ],
-        "reasoning": "scott (a name) + and (connector) + bailey (a name, also a courtyard) = Scott and Bailey"
-      },
-      {
-        "number": 3,
-        "answer": "Brookside",
-        "aliases": [
-          "brookside",
-          "brook side"
-        ],
-        "reasoning": "brook (a small stream) + side (the side of something) = Brookside"
-      }
-    ]
-  },
-  {
     "id": "cheesebusters-003",
     "clues": [
       {
@@ -6653,36 +6591,6 @@
     ]
   },
   {
-    "id": "tvbusters-013",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Faking It",
-        "aliases": [
-          "faking it"
-        ],
-        "reasoning": "faking (pretending) + it (the thing) = Faking It"
-      },
-      {
-        "number": 2,
-        "answer": "Doctor Who",
-        "aliases": [
-          "doctor who",
-          "dr who"
-        ],
-        "reasoning": "doctor (medical person) + who (unknown identity) = Doctor Who"
-      },
-      {
-        "number": 3,
-        "answer": "Cold Feet",
-        "aliases": [
-          "cold feet"
-        ],
-        "reasoning": "cold (opposite of warm) + feet (what you walk on) = Cold Feet"
-      }
-    ]
-  },
-  {
     "id": "comediansbusters-004",
     "clues": [
       {
@@ -7402,36 +7310,6 @@
           "costs an arm and a leg"
         ],
         "reasoning": "cost (the price) + an + arm (complete arm) + and + a + leg (complete leg) = Cost an Arm and a Leg"
-      }
-    ]
-  },
-  {
-    "id": "tvbusters-007",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Emmerdale",
-        "aliases": [
-          "emmerdale"
-        ],
-        "reasoning": "emmer (a type of wheat, sounds like 'em-er') + dale (valley) = Emmerdale"
-      },
-      {
-        "number": 2,
-        "answer": "Trigger Happy TV",
-        "aliases": [
-          "trigger happy tv",
-          "trigger happy television"
-        ],
-        "reasoning": "trigger (a mechanism) + happy (joyful) + TV (television) = Trigger Happy TV"
-      },
-      {
-        "number": 3,
-        "answer": "Spaced",
-        "aliases": [
-          "spaced"
-        ],
-        "reasoning": "spaced (having spaces, spaced out) = Spaced"
       }
     ]
   },
@@ -9486,36 +9364,6 @@
     ]
   },
   {
-    "id": "tvbusters-010",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Ashes to Ashes",
-        "aliases": [
-          "ashes to ashes"
-        ],
-        "reasoning": "ashes (what's left after burning) + to (direction) + ashes (repeated) = Ashes to Ashes"
-      },
-      {
-        "number": 2,
-        "answer": "Last of the Summer Wine",
-        "aliases": [
-          "last of the summer wine"
-        ],
-        "reasoning": "last (final one) + of the (belonging to the) + summer (warm season) + wine (the drink) = Last of the Summer Wine"
-      },
-      {
-        "number": 3,
-        "answer": "The IT Crowd",
-        "aliases": [
-          "the it crowd",
-          "the i.t. crowd"
-        ],
-        "reasoning": "the + IT (tech) + crowd (people) = The IT Crowd"
-      }
-    ]
-  },
-  {
     "id": "animalbusters-004",
     "clues": [
       {
@@ -10847,36 +10695,6 @@
     ]
   },
   {
-    "id": "tvbusters-019",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Taxi",
-        "aliases": [
-          "taxi"
-        ],
-        "reasoning": "taxi (a cab) = Taxi. Or: tax (charges) + i (the letter) = Taxi"
-      },
-      {
-        "number": 2,
-        "answer": "Naked",
-        "aliases": [
-          "naked"
-        ],
-        "reasoning": "naked (without clothing) = Naked. The Jamie Oliver programme, that."
-      },
-      {
-        "number": 3,
-        "answer": "Sherlock Holmes",
-        "aliases": [
-          "sherlock holmes",
-          "sherlock"
-        ],
-        "reasoning": "sure (certain) + lock (a mechanism) + holmes (sounds like 'homes') = Sherlock Holmes"
-      }
-    ]
-  },
-  {
     "id": "animalbusters-020",
     "clues": [
       {
@@ -11504,36 +11322,6 @@
     ]
   },
   {
-    "id": "tvbusters-009",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Coronation Street",
-        "aliases": [
-          "coronation street"
-        ],
-        "reasoning": "corona (crown) + tion (suffix) + street (row of houses) = Coronation Street. The crowning of a monarch on a road."
-      },
-      {
-        "number": 2,
-        "answer": "The X Files",
-        "aliases": [
-          "the x files",
-          "the x-files"
-        ],
-        "reasoning": "the (definite article) + X (unknown variable) + files (documents) = The X Files"
-      },
-      {
-        "number": 3,
-        "answer": "Minder",
-        "aliases": [
-          "minder"
-        ],
-        "reasoning": "mind (the brain) + er (hesitation sound) = Minder. Or: someone who minds things."
-      }
-    ]
-  },
-  {
     "id": "celebbusters-007",
     "clues": [
       {
@@ -12073,36 +11861,6 @@
           "kick the bucket"
         ],
         "reasoning": "kick (given a big boot to) + the + buck (sounds like the start of bucket) + it = Kick the Bucket"
-      }
-    ]
-  },
-  {
-    "id": "tvbusters-014",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Heartbeat",
-        "aliases": [
-          "heartbeat",
-          "heart beat"
-        ],
-        "reasoning": "heart (the organ) + beat (rhythm, also to beat) = Heartbeat"
-      },
-      {
-        "number": 2,
-        "answer": "Inspector Morse",
-        "aliases": [
-          "inspector morse"
-        ],
-        "reasoning": "inspector (police rank) + Morse (the name, also Morse code) = Inspector Morse"
-      },
-      {
-        "number": 3,
-        "answer": "Bottom",
-        "aliases": [
-          "bottom"
-        ],
-        "reasoning": "bottom (the lowest part, also a rude word for behind) = Bottom"
       }
     ]
   },
@@ -13373,37 +13131,6 @@
     ]
   },
   {
-    "id": "tvbusters-012",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "North Square",
-        "aliases": [
-          "north square"
-        ],
-        "reasoning": "north (compass direction) + square (a shape, also a town square) = North Square"
-      },
-      {
-        "number": 2,
-        "answer": "Benidorm",
-        "aliases": [
-          "benidorm"
-        ],
-        "reasoning": "Ben (a name) + i (the letter I) + dorm (dormitory, sleeping place) = Benidorm. Ben-ee-dorm."
-      },
-      {
-        "number": 3,
-        "answer": "World War Two",
-        "aliases": [
-          "world war two",
-          "world war ii",
-          "ww2"
-        ],
-        "reasoning": "world (the planet) + war (conflict) + two (the number 2) = World War Two"
-      }
-    ]
-  },
-  {
     "id": "animalbusters-002",
     "clues": [
       {
@@ -13978,37 +13705,6 @@
           "sitting on the fence"
         ],
         "reasoning": "sit (parked themselves) + on + the + fence (boundary marker) = Sit on the Fence"
-      }
-    ]
-  },
-  {
-    "id": "tvbusters-011",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Boys from the Blackstuff",
-        "aliases": [
-          "boys from the blackstuff",
-          "boys from the black stuff"
-        ],
-        "reasoning": "boys (lads) + from the (coming from) + black (dark colour) + stuff (material) = Boys from the Blackstuff"
-      },
-      {
-        "number": 2,
-        "answer": "Peaky Blinders",
-        "aliases": [
-          "peaky blinders"
-        ],
-        "reasoning": "peaky (peaked cap) + blinders (things that blind) = Peaky Blinders"
-      },
-      {
-        "number": 3,
-        "answer": "Two Pints of Lager",
-        "aliases": [
-          "two pints of lager",
-          "two pints of lager and a packet of crisps"
-        ],
-        "reasoning": "two (the number 2) + pints (measures of drink) + of lager (type of beer) = Two Pints of Lager"
       }
     ]
   },
@@ -14652,35 +14348,6 @@
     ]
   },
   {
-    "id": "tvbusters-017",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Merlin",
-        "aliases": [
-          "merlin"
-        ],
-        "reasoning": "mer (sounds like 'more' or French for sea) + lin (a name ending) = Merlin. The wizard one."
-      },
-      {
-        "number": 2,
-        "answer": "Robin Hood",
-        "aliases": [
-          "robin hood"
-        ],
-        "reasoning": "Robin (a name, also a bird) + hood (a piece of clothing over the head) = Robin Hood"
-      },
-      {
-        "number": 3,
-        "answer": "The Crown",
-        "aliases": [
-          "the crown"
-        ],
-        "reasoning": "the (definite article) + crown (a royal headpiece) = The Crown"
-      }
-    ]
-  },
-  {
     "id": "animalbusters-018",
     "clues": [
       {
@@ -15283,35 +14950,6 @@
     ]
   },
   {
-    "id": "tvbusters-008",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Green Wing",
-        "aliases": [
-          "green wing"
-        ],
-        "reasoning": "green (colour, also a grass area) + wing (side of a building, also a bird wing) = Green Wing"
-      },
-      {
-        "number": 2,
-        "answer": "Hustle",
-        "aliases": [
-          "hustle"
-        ],
-        "reasoning": "hustle (to hustle, a scheme or con) = Hustle"
-      },
-      {
-        "number": 3,
-        "answer": "Wire in the Blood",
-        "aliases": [
-          "wire in the blood"
-        ],
-        "reasoning": "wire (electrical cable) + in the (inside the) + blood (the red stuff) = Wire in the Blood"
-      }
-    ]
-  },
-  {
     "id": "nostalgiabusters-003",
     "clues": [
       {
@@ -15824,35 +15462,6 @@
           "break the ice"
         ],
         "reasoning": "brake (slows vehicles down) + the + ice (frozen surface) = Break the Ice"
-      }
-    ]
-  },
-  {
-    "id": "tvbusters-015",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Shameless",
-        "aliases": [
-          "shameless"
-        ],
-        "reasoning": "shame (embarrassment) + less (without) = Shameless"
-      },
-      {
-        "number": 2,
-        "answer": "Cracker",
-        "aliases": [
-          "cracker"
-        ],
-        "reasoning": "crack (a break or a really good thing) + er (suffix) = Cracker"
-      },
-      {
-        "number": 3,
-        "answer": "The Full Monty",
-        "aliases": [
-          "the full monty"
-        ],
-        "reasoning": "the (article) + full (complete) + monty (everything, the whole lot) = The Full Monty"
       }
     ]
   },
@@ -16484,36 +16093,6 @@
           "pulling someone's leg"
         ],
         "reasoning": "pull (grabbing and yanking) + someone's + leg (ankle area) = Pull Someone's Leg"
-      }
-    ]
-  },
-  {
-    "id": "tvbusters-018",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Shetland",
-        "aliases": [
-          "shetland"
-        ],
-        "reasoning": "Shet (sounds like 'she'd' or 'shed') + land (ground) = Shetland. The island, the show."
-      },
-      {
-        "number": 2,
-        "answer": "Old Tricks",
-        "aliases": [
-          "old tricks",
-          "new tricks"
-        ],
-        "reasoning": "new (the opposite of old) + tricks (clever skills or deceits) = New Tricks"
-      },
-      {
-        "number": 3,
-        "answer": "Broadchurch",
-        "aliases": [
-          "broadchurch"
-        ],
-        "reasoning": "broad (wide) + church (religious building) = Broadchurch"
       }
     ]
   },
@@ -18063,67 +17642,6 @@
     ]
   },
   {
-    "id": "tvbusters-021",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Friends",
-        "aliases": [
-          "friends"
-        ],
-        "reasoning": "fry (cooking) + ends (leftover bits) = fry-ends = Friends"
-      },
-      {
-        "number": 2,
-        "answer": "Yellowstone",
-        "aliases": [
-          "yellowstone",
-          "yellow stone"
-        ],
-        "reasoning": "yellow (gone yellow) + stone (a rock) = Yellowstone"
-      },
-      {
-        "number": 3,
-        "answer": "Ozark",
-        "aliases": [
-          "ozark"
-        ],
-        "reasoning": "Oz (wizard of Oz) + ark (Noah's boat) = Ozark"
-      }
-    ]
-  },
-  {
-    "id": "tvbusters-022",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "The Simpsons",
-        "aliases": [
-          "the simpsons",
-          "simpsons"
-        ],
-        "reasoning": "the + simp (dopey bloke) + sons (his male children) = The Simpsons"
-      },
-      {
-        "number": 2,
-        "answer": "Homeland",
-        "aliases": [
-          "homeland",
-          "home land"
-        ],
-        "reasoning": "home (your house) + land (territory) = Homeland"
-      },
-      {
-        "number": 3,
-        "answer": "Suits",
-        "aliases": [
-          "suits"
-        ],
-        "reasoning": "soots (chimney residue, sounds like suits) = Suits"
-      }
-    ]
-  },
-  {
     "id": "tvbusters-023",
     "clues": [
       {
@@ -18213,65 +17731,6 @@
     ]
   },
   {
-    "id": "tvbusters-026",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Mad Men",
-        "aliases": [
-          "mad men"
-        ],
-        "reasoning": "mad (furious/angry) + men (blokes) = Mad Men"
-      },
-      {
-        "number": 2,
-        "answer": "Scandal",
-        "aliases": [
-          "scandal"
-        ],
-        "reasoning": "scan (put through a machine) + dull (boring result) = scan-dull = Scandal"
-      },
-      {
-        "number": 3,
-        "answer": "Heroes",
-        "aliases": [
-          "heroes"
-        ],
-        "reasoning": "here (in this spot) + rows (arguments, pronounced 'roze') = here-rows = Heroes"
-      }
-    ]
-  },
-  {
-    "id": "tvbusters-027",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Alias",
-        "aliases": [
-          "alias"
-        ],
-        "reasoning": "a + lee (sheltered side of a hill) + us (belonging to everyone) = a-lee-us = Alias"
-      },
-      {
-        "number": 2,
-        "answer": "Damages",
-        "aliases": [
-          "damages"
-        ],
-        "reasoning": "dam (wall holding water) + ages (a very long time) = dam-ages = Damages"
-      },
-      {
-        "number": 3,
-        "answer": "The Sopranos",
-        "aliases": [
-          "the sopranos",
-          "sopranos"
-        ],
-        "reasoning": "the + so (therefore) + pray (to pray) + nos (nose, via nose) = The Sopranos"
-      }
-    ]
-  },
-  {
     "id": "tvbusters-028",
     "clues": [
       {
@@ -18298,367 +17757,6 @@
           "sex and the city"
         ],
         "reasoning": "secs (seconds, sounds like sex) + and + the + city (busy place) = Sex and the City"
-      }
-    ]
-  },
-  {
-    "id": "tvbusters-029",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "How I Met Your Mother",
-        "aliases": [
-          "how i met your mother"
-        ],
-        "reasoning": "how + I (eyeball) + met (introduced itself to) + your + mother (mum) = How I Met Your Mother"
-      },
-      {
-        "number": 2,
-        "answer": "Will and Grace",
-        "aliases": [
-          "will and grace"
-        ],
-        "reasoning": "Will (the lad) + and + graze (eating grass like a sheep, sounds like grace) = Will and Grace"
-      },
-      {
-        "number": 3,
-        "answer": "The Blacklist",
-        "aliases": [
-          "the blacklist",
-          "blacklist"
-        ],
-        "reasoning": "the + black (dark colour) + list (written list) = The Blacklist"
-      }
-    ]
-  },
-  {
-    "id": "tvbusters-030",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "White Collar",
-        "aliases": [
-          "white collar"
-        ],
-        "reasoning": "white (brilliant white) + collar (neck of a shirt) = White Collar"
-      },
-      {
-        "number": 2,
-        "answer": "Burn Notice",
-        "aliases": [
-          "burn notice"
-        ],
-        "reasoning": "burn (on fire) + notice (a letter/notification) = Burn Notice"
-      },
-      {
-        "number": 3,
-        "answer": "Better Call Saul",
-        "aliases": [
-          "better call saul"
-        ],
-        "reasoning": "better (your best bet) + call (phone) + Saul (the fella's name) = Better Call Saul"
-      }
-    ]
-  },
-  {
-    "id": "tvbusters-031",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "The Mentalist",
-        "aliases": [
-          "the mentalist",
-          "mentalist"
-        ],
-        "reasoning": "the + mental (gone a bit round the bend) + ist (the most, suffix) = The Mentalist"
-      },
-      {
-        "number": 2,
-        "answer": "Six Feet Under",
-        "aliases": [
-          "six feet under"
-        ],
-        "reasoning": "six (the number) + feet (measurement) + under (below the surface) = Six Feet Under"
-      },
-      {
-        "number": 3,
-        "answer": "Firefly",
-        "aliases": [
-          "firefly",
-          "fire fly"
-        ],
-        "reasoning": "fire (flame) + fly (to fly through the air) = Firefly"
-      }
-    ]
-  },
-  {
-    "id": "tvbusters-032",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Entourage",
-        "aliases": [
-          "entourage"
-        ],
-        "reasoning": "en (in) + tour (on the road) + age (ancient/old) = en-tour-age = Entourage"
-      },
-      {
-        "number": 2,
-        "answer": "Bloodline",
-        "aliases": [
-          "bloodline",
-          "blood line"
-        ],
-        "reasoning": "blood (liquid in the queue) + line (the queue itself) = Bloodline"
-      },
-      {
-        "number": 3,
-        "answer": "The Office",
-        "aliases": [
-          "the office",
-          "office"
-        ],
-        "reasoning": "the + off (switched off) + is (it is) = the-off-is = The Office"
-      }
-    ]
-  },
-  {
-    "id": "tvbusters-033",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Gossip Girl",
-        "aliases": [
-          "gossip girl"
-        ],
-        "reasoning": "gossip (talking about everyone) + girl (young woman) = Gossip Girl"
-      },
-      {
-        "number": 2,
-        "answer": "One Tree Hill",
-        "aliases": [
-          "one tree hill"
-        ],
-        "reasoning": "one (exactly one) + tree (the tree) + hill (the hill) = One Tree Hill"
-      },
-      {
-        "number": 3,
-        "answer": "Veronica Mars",
-        "aliases": [
-          "veronica mars"
-        ],
-        "reasoning": "Veronica (the name) + Mars (the red planet) = Veronica Mars"
-      }
-    ]
-  },
-  {
-    "id": "tvbusters-034",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Ugly Betty",
-        "aliases": [
-          "ugly betty"
-        ],
-        "reasoning": "ugly (not looking her best) + Betty (the woman's name) = Ugly Betty"
-      },
-      {
-        "number": 2,
-        "answer": "Pushing Daisies",
-        "aliases": [
-          "pushing daisies"
-        ],
-        "reasoning": "pushing (shoving) + daisies (the little white flowers) = Pushing Daisies"
-      },
-      {
-        "number": 3,
-        "answer": "Arrested Development",
-        "aliases": [
-          "arrested development"
-        ],
-        "reasoning": "arrested (stopped by police) + development (building plans) = Arrested Development"
-      }
-    ]
-  },
-  {
-    "id": "tvbusters-035",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Curb Your Enthusiasm",
-        "aliases": [
-          "curb your enthusiasm"
-        ],
-        "reasoning": "curb (stone edge of road) + your (belonging to you) + enthusiasm (excitement) = Curb Your Enthusiasm"
-      },
-      {
-        "number": 2,
-        "answer": "Parenthood",
-        "aliases": [
-          "parenthood",
-          "parent hood"
-        ],
-        "reasoning": "parent (mum or dad) + hood (the bit on the jacket) = Parenthood"
-      },
-      {
-        "number": 3,
-        "answer": "The Terror",
-        "aliases": [
-          "the terror",
-          "terror"
-        ],
-        "reasoning": "the + terror (absolute fear and dread) = The Terror"
-      }
-    ]
-  },
-  {
-    "id": "tvbusters-036",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Ray Donovan",
-        "aliases": [
-          "ray donovan"
-        ],
-        "reasoning": "ray (beam of light) + don (donated, gave) + o + van (a vehicle) = Ray Donovan"
-      },
-      {
-        "number": 2,
-        "answer": "Justified",
-        "aliases": [
-          "justified"
-        ],
-        "reasoning": "just (fair, right) + if + I'd (I had) = just-if-I'd = Justified"
-      },
-      {
-        "number": 3,
-        "answer": "Mindhunter",
-        "aliases": [
-          "mindhunter",
-          "mind hunter"
-        ],
-        "reasoning": "mind (the brain, thoughts) + hunter (one who hunts) = Mindhunter"
-      }
-    ]
-  },
-  {
-    "id": "tvbusters-037",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Rescue Me",
-        "aliases": [
-          "rescue me"
-        ],
-        "reasoning": "rescue (save/pull out) + me (the person asking) = Rescue Me"
-      },
-      {
-        "number": 2,
-        "answer": "Fringe",
-        "aliases": [
-          "fringe"
-        ],
-        "reasoning": "fringe (the bit of hair over the forehead, or decorative edge) = Fringe"
-      },
-      {
-        "number": 3,
-        "answer": "The Boys",
-        "aliases": [
-          "the boys",
-          "boys"
-        ],
-        "reasoning": "the + boys (the lads) = The Boys"
-      }
-    ]
-  },
-  {
-    "id": "tvbusters-038",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Abbott Elementary",
-        "aliases": [
-          "abbott elementary"
-        ],
-        "reasoning": "Abbott (the head of a monastery) + elementary (first school, very basic) = Abbott Elementary"
-      },
-      {
-        "number": 2,
-        "answer": "Winning Time",
-        "aliases": [
-          "winning time"
-        ],
-        "reasoning": "winning (when you've won) + time (the moment) = Winning Time"
-      },
-      {
-        "number": 3,
-        "answer": "Colony",
-        "aliases": [
-          "colony"
-        ],
-        "reasoning": "col (mountain pass) + on (switched on) + ee (happy ending sound) = col-on-ee = Colony"
-      }
-    ]
-  },
-  {
-    "id": "tvbusters-039",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "The Returned",
-        "aliases": [
-          "the returned",
-          "returned"
-        ],
-        "reasoning": "the + returned (sent back, came back) = The Returned"
-      },
-      {
-        "number": 2,
-        "answer": "The Shield",
-        "aliases": [
-          "the shield",
-          "shield"
-        ],
-        "reasoning": "the + shield (protective flat thing held in battle) = The Shield"
-      },
-      {
-        "number": 3,
-        "answer": "Billions",
-        "aliases": [
-          "billions"
-        ],
-        "reasoning": "billions (an enormous amount of money) = Billions"
-      }
-    ]
-  },
-  {
-    "id": "tvbusters-040",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Bones",
-        "aliases": [
-          "bones"
-        ],
-        "reasoning": "bones (the skeleton, calcium things) = Bones"
-      },
-      {
-        "number": 2,
-        "answer": "Southland",
-        "aliases": [
-          "southland",
-          "south land"
-        ],
-        "reasoning": "south (further down, below) + land (territory) = Southland"
-      },
-      {
-        "number": 3,
-        "answer": "The Good Fight",
-        "aliases": [
-          "the good fight",
-          "good fight"
-        ],
-        "reasoning": "the + good (decent, fair) + fight (a scrap) = The Good Fight"
       }
     ]
   },

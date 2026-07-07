@@ -1620,7 +1620,7 @@
     - ganymede
     reasoning: game (a sport) + he'd (he had decided to) = game-he'd = Ganymede
 - id: tvbusters-020
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: classic and modern UK TV shows
   difficulty: medium
@@ -6575,7 +6575,7 @@
     - callisto
     reasoning: call (a phone ring) + is (it is) + toe (a foot digit) = call-is-toe = Callisto
 - id: tvbusters-016
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: classic and modern UK TV shows
   difficulty: medium
@@ -9364,7 +9364,7 @@
     - best of both worlds
     reasoning: the best (greatest thing) + of + both (two different) + worlds (places) = The Best of Both Worlds
 - id: tvbusters-013
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: classic and modern UK TV shows
   difficulty: medium
@@ -10471,7 +10471,7 @@
     - costs an arm and a leg
     reasoning: cost (the price) + an + arm (complete arm) + and + a + leg (complete leg) = Cost an Arm and a Leg
 - id: tvbusters-007
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: classic and modern UK TV shows
   difficulty: medium
@@ -13706,7 +13706,7 @@
     - ball is in your court
     reasoning: the ball (sphere you kick) + is in + your + court (enclosed sporting area) = The Ball is in Your Court
 - id: tvbusters-010
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: classic and modern UK TV shows
   difficulty: medium
@@ -15753,7 +15753,7 @@
     - piece of cake
     reasoning: peace (lovely stillness) sounds like piece + of + cake (baked dessert) = Piece of Cake
 - id: tvbusters-019
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: classic and modern UK TV shows
   difficulty: medium
@@ -16686,7 +16686,7 @@
     - hit the sack
     reasoning: hit (punched) + the + sack (big rough bag) = Hit the Sack
 - id: tvbusters-009
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: classic and modern UK TV shows
   difficulty: medium
@@ -17627,7 +17627,7 @@
     - kick the bucket
     reasoning: kick (given a big boot to) + the + buck (sounds like the start of bucket) + it = Kick the Bucket
 - id: tvbusters-014
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: classic and modern UK TV shows
   difficulty: medium
@@ -19505,7 +19505,7 @@
     - jump the gun
     reasoning: jump (leapt clean over) + the + gun (weapon) = Jump the Gun
 - id: tvbusters-012
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: classic and modern UK TV shows
   difficulty: medium
@@ -20452,7 +20452,7 @@
     - sitting on the fence
     reasoning: sit (parked themselves) + on + the + fence (boundary marker) = Sit on the Fence
 - id: tvbusters-011
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: classic and modern UK TV shows
   difficulty: medium
@@ -21398,7 +21398,7 @@
     - costs an arm and a leg
     reasoning: cost (the bill) + an + arm (upper limb) + and + a + leg (lower limb) = Cost an Arm and a Leg
 - id: tvbusters-017
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: classic and modern UK TV shows
   difficulty: medium
@@ -22337,7 +22337,7 @@
     - no pain no gain
     reasoning: no pain (nothing causing discomfort) + no gain (nothing being earned) = No Pain No Gain
 - id: tvbusters-008
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: classic and modern UK TV shows
   difficulty: medium
@@ -23279,7 +23279,7 @@
     - break the ice
     reasoning: brake (slows vehicles down) + the + ice (frozen surface) = Break the Ice
 - id: tvbusters-015
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: classic and modern UK TV shows
   difficulty: medium
@@ -24216,7 +24216,7 @@
     - pulling someone's leg
     reasoning: pull (grabbing and yanking) + someone's + leg (ankle area) = Pull Someone's Leg
 - id: tvbusters-018
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: classic and modern UK TV shows
   difficulty: medium
@@ -26535,7 +26535,7 @@
     - lorde
     reasoning: lorde (sounds like lord, a person of authority with a title, one step below royalty) = Lorde
 - id: tvbusters-021
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: popular US TV shows
   difficulty: medium
@@ -26569,7 +26569,7 @@
     - ozark
     reasoning: Oz (wizard of Oz) + ark (Noah's boat) = Ozark
 - id: tvbusters-022
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: popular US TV shows
   difficulty: medium
@@ -26705,7 +26705,7 @@
     - prison break
     reasoning: prison (building for criminals) + brake (stopping mechanism, sounds like break) = Prison Break
 - id: tvbusters-026
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: popular US TV shows
   difficulty: medium
@@ -26738,7 +26738,7 @@
     - heroes
     reasoning: here (in this spot) + rows (arguments, pronounced 'roze') = here-rows = Heroes
 - id: tvbusters-027
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: popular US TV shows
   difficulty: medium
@@ -26806,7 +26806,7 @@
     - sex and the city
     reasoning: secs (seconds, sounds like sex) + and + the + city (busy place) = Sex and the City
 - id: tvbusters-029
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: popular US TV shows
   difficulty: medium
@@ -26840,7 +26840,7 @@
     - blacklist
     reasoning: the + black (dark colour) + list (written list) = The Blacklist
 - id: tvbusters-030
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: popular US TV shows
   difficulty: medium
@@ -26873,7 +26873,7 @@
     - better call saul
     reasoning: better (your best bet) + call (phone) + Saul (the fella's name) = Better Call Saul
 - id: tvbusters-031
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: popular US TV shows
   difficulty: medium
@@ -26908,7 +26908,7 @@
     - fire fly
     reasoning: fire (flame) + fly (to fly through the air) = Firefly
 - id: tvbusters-032
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: popular US TV shows
   difficulty: medium
@@ -26943,7 +26943,7 @@
     - office
     reasoning: the + off (switched off) + is (it is) = the-off-is = The Office
 - id: tvbusters-033
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: popular US TV shows
   difficulty: medium
@@ -26976,7 +26976,7 @@
     - veronica mars
     reasoning: Veronica (the name) + Mars (the red planet) = Veronica Mars
 - id: tvbusters-034
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: popular US TV shows
   difficulty: medium
@@ -27009,7 +27009,7 @@
     - arrested development
     reasoning: arrested (stopped by police) + development (building plans) = Arrested Development
 - id: tvbusters-035
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: popular US TV shows
   difficulty: medium
@@ -27044,7 +27044,7 @@
     - terror
     reasoning: the + terror (absolute fear and dread) = The Terror
 - id: tvbusters-036
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: popular US TV shows
   difficulty: medium
@@ -27078,7 +27078,7 @@
     - mind hunter
     reasoning: mind (the brain, thoughts) + hunter (one who hunts) = Mindhunter
 - id: tvbusters-037
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: popular US TV shows
   difficulty: medium
@@ -27112,7 +27112,7 @@
     - boys
     reasoning: the + boys (the lads) = The Boys
 - id: tvbusters-038
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: popular US TV shows
   difficulty: medium
@@ -27145,7 +27145,7 @@
     - colony
     reasoning: col (mountain pass) + on (switched on) + ee (happy ending sound) = col-on-ee = Colony
 - id: tvbusters-039
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: popular US TV shows
   difficulty: medium
@@ -27180,7 +27180,7 @@
     - billions
     reasoning: billions (an enormous amount of money) = Billions
 - id: tvbusters-040
-  enabled: true
+  enabled: false
   title: TVbusters
   topic: popular US TV shows
   difficulty: medium

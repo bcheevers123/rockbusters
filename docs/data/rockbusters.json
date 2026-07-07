@@ -1030,36 +1030,6 @@
     ]
   },
   {
-    "id": "tvbusters-020",
-    "enabled": true,
-    "title": "TVbusters",
-    "topic": "classic and modern UK TV shows",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "TVbusters. Classic British telly, all phonetic. Have a go.",
-    "prize": "Email in. Winner gets a sponsored pen, a packet of Rich Tea, and the satisfaction of finishing.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "GS",
-        "clue": "There's this quite big bloke right, and he's been told to shut it. He's in a pub. Bit annoyed about being shushed."
-      },
-      {
-        "number": 2,
-        "initials": "TC",
-        "clue": "Right, it's very cold. And something's been cut. Like a blade's been through it. Cold cut, basically."
-      },
-      {
-        "number": 3,
-        "initials": "QL",
-        "clue": "There's a fella and he's leaping about from one thing to the next. Not stopping. Just hopping around the place."
-      }
-    ]
-  },
-  {
     "id": "cheesebusters-002",
     "enabled": true,
     "title": "Cheesebusters",
@@ -4668,36 +4638,6 @@
     ]
   },
   {
-    "id": "tvbusters-016",
-    "enabled": true,
-    "title": "TVbusters",
-    "topic": "classic and modern UK TV shows",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Sixteen. Right. More TVbusters. More British telly. More phonetic nonsense. You love it.",
-    "prize": "Email in. Winner gets a novelty rubber duck and a photocopied map of somewhere pointless.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "VC",
-        "clue": "Some sort of vehicle, right. And it's gone to the countryside. On a break. Rural setting. The van's on holiday."
-      },
-      {
-        "number": 2,
-        "initials": "SB",
-        "clue": "Right, this little seaside town. It's got a secret. Or several. Locals acting dead suspicious, they are."
-      },
-      {
-        "number": 3,
-        "initials": "BL",
-        "clue": "Someone's borrowed the lights. Like the bulbs and everything. And now they're keeping them. Bit cheeky."
-      }
-    ]
-  },
-  {
     "id": "cheesebusters-003",
     "enabled": true,
     "title": "Cheesebusters",
@@ -6656,36 +6596,6 @@
     ]
   },
   {
-    "id": "tvbusters-013",
-    "enabled": true,
-    "title": "TVbusters",
-    "topic": "classic and modern UK TV shows",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Right then. TVbusters thirteen. Bit unlucky, that number, but carry on anyway.",
-    "prize": "Email in. Winner gets a Tamagotchi with a dead battery and a sachet of sauce from a takeaway.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "FK",
-        "clue": "There's a kingdom, right. And it's gone all wobbly. The whole place is on a bit of a slope. Unstable."
-      },
-      {
-        "number": 2,
-        "initials": "DW",
-        "clue": "A doctor who nobody knows. Proper mystery, he is. Turns up, fixes things, disappears. Bit rude."
-      },
-      {
-        "number": 3,
-        "initials": "CSI",
-        "clue": "The sun's out, right, and a bloke called Ian's standing guard over it. Making sure no clouds get to it."
-      }
-    ]
-  },
-  {
     "id": "comediansbusters-004",
     "enabled": true,
     "title": "Comediansbusters",
@@ -7419,36 +7329,6 @@
         "number": 3,
         "initials": "C A A A L",
         "clue": "The price of it was literally a complete arm plus a complete leg. Whoever bought it isn't in great shape now."
-      }
-    ]
-  },
-  {
-    "id": "tvbusters-007",
-    "enabled": true,
-    "title": "TVbusters",
-    "topic": "classic and modern UK TV shows",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "TVbusters. British telly, phonetic clues. You know the drill.",
-    "prize": "Email in. Winner gets a signed letter from someone off Emmerdale, possibly.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "E",
-        "clue": "A place where the dale is empty. Like the whole valley's just got nothing happening in it. Bit peaceful."
-      },
-      {
-        "number": 2,
-        "initials": "THTV",
-        "clue": "Right, you're on the telly but you've gone a bit wobbly. Berserk, almost. Pressing all the wrong buttons."
-      },
-      {
-        "number": 3,
-        "initials": "S",
-        "clue": "There's a gap between two places, right. Like a room between rooms. And it's a specific type of gap. Sort of works."
       }
     ]
   },
@@ -9540,36 +9420,6 @@
     ]
   },
   {
-    "id": "tvbusters-010",
-    "enabled": true,
-    "title": "TVbusters",
-    "topic": "classic and modern UK TV shows",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "TVbusters. Classic British programmes hiding in the phonetic clues. Say them out loud.",
-    "prize": "Email in. Winner gets a Now That's What I Call Music 47 CD and some leftover party poppers.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "AB",
-        "clue": "Right, that robot thing from science fiction - it's only gone and bought something. Used its own money and everything."
-      },
-      {
-        "number": 2,
-        "initials": "LO",
-        "clue": "There's a bloke called Ken, right, and everyone on his street has got his name. It's that Ken's street, basically."
-      },
-      {
-        "number": 3,
-        "initials": "ITC",
-        "clue": "Someone's gone and shoved a computer room inside a tent. Don't ask. That's just what's happened."
-      }
-    ]
-  },
-  {
     "id": "animalbusters-004",
     "enabled": true,
     "title": "Animalbusters",
@@ -10924,36 +10774,6 @@
     ]
   },
   {
-    "id": "tvbusters-019",
-    "enabled": true,
-    "title": "TVbusters",
-    "topic": "classic and modern UK TV shows",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "TVbusters. British shows hiding in the phonetic clues. Say each one out loud.",
-    "prize": "Email in. Winner gets a CD-ROM encyclopedia from 1998 and a pen that's almost out.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "TB",
-        "clue": "Right, a place where taxis live when they're not working. A big shed for cabs, basically. London, this."
-      },
-      {
-        "number": 2,
-        "initials": "NM",
-        "clue": "This bloke's got absolutely nothing on him. Bare. But he's still going into the market. Brave."
-      },
-      {
-        "number": 3,
-        "initials": "SH",
-        "clue": "A bloke who detects things. Bit serious about it. Lives in a flat with his mate. That's all there is to it."
-      }
-    ]
-  },
-  {
     "id": "animalbusters-020",
     "enabled": true,
     "title": "Animalbusters",
@@ -11599,36 +11419,6 @@
     ]
   },
   {
-    "id": "tvbusters-009",
-    "enabled": true,
-    "title": "TVbusters",
-    "topic": "classic and modern UK TV shows",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Right, TVbusters nine. You're doing well. Bit more telly. Bit more thinking. Off you go.",
-    "prize": "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "CS",
-        "clue": "There's someone called Vera. She's standing in a long line of people who've all done something questionable. Bless her."
-      },
-      {
-        "number": 2,
-        "initials": "TXF",
-        "clue": "Some files, right. But they're totally out of order. Can't find anything. Extreme disorder, these files."
-      },
-      {
-        "number": 3,
-        "initials": "MW",
-        "clue": "There's a lad called Martin, he's decided to burn down a building made of fabric. I don't know why. He just has."
-      }
-    ]
-  },
-  {
     "id": "celebbusters-007",
     "enabled": true,
     "title": "Celebbusters",
@@ -12178,36 +11968,6 @@
         "number": 3,
         "initials": "K T B",
         "clue": "Right, someone's given a big boot to a metal pail. Sent it flying down the road. Just gone for it."
-      }
-    ]
-  },
-  {
-    "id": "tvbusters-014",
-    "enabled": true,
-    "title": "TVbusters",
-    "topic": "classic and modern UK TV shows",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Fourteen rounds in. You're either very good at this or you've been guessing. TVbusters.",
-    "prize": "Email in. Winner gets a copy of Big Mouth Billy Bass and some Value crisps.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "HB",
-        "clue": "Someone's gone and put a fence around some hills. Big hills. Loads of them. Bit unnecessary."
-      },
-      {
-        "number": 2,
-        "initials": "IM",
-        "clue": "There's an inspector, right. And the inspector is called Morse. He's not happy about something. Again."
-      },
-      {
-        "number": 3,
-        "initials": "BoI",
-        "clue": "Some lads who are thick as two short planks, right. Absolute idiots, the lot of them. Bless."
       }
     ]
   },
@@ -13500,36 +13260,6 @@
     ]
   },
   {
-    "id": "tvbusters-012",
-    "enabled": true,
-    "title": "TVbusters",
-    "topic": "classic and modern UK TV shows",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "TVbusters twelve. Getting into double figures proper now. More British programmes. Have a crack.",
-    "prize": "Email in. Winner gets a fridge magnet from a place they've never been and a scratched DVD.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "NSE",
-        "clue": "Someone's been given a very stern talking to. A proper scolding. From the north, like. No fussing about."
-      },
-      {
-        "number": 2,
-        "initials": "BH",
-        "clue": "Some bloke called Ben's got a massive hill right outside his window. He's not best pleased about it."
-      },
-      {
-        "number": 3,
-        "initials": "WW",
-        "clue": "Right, it's the second lot of something. And it's all gone a bit bad. Global, like. Not ideal."
-      }
-    ]
-  },
-  {
     "id": "animalbusters-002",
     "enabled": true,
     "title": "Animalbusters",
@@ -14110,36 +13840,6 @@
         "number": 3,
         "initials": "S O T F",
         "clue": "Someone's parked themselves on a boundary marker. Can't decide which side to get down on. Just sat there on it."
-      }
-    ]
-  },
-  {
-    "id": "tvbusters-011",
-    "enabled": true,
-    "title": "TVbusters",
-    "topic": "classic and modern UK TV shows",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Eleven. We're still going. TVbusters. British telly. Phonetic riddles. Same as always.",
-    "prize": "Email in. Winner gets a scratched Robbie Williams CD and a novelty pen shaped like a pencil.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "YB",
-        "clue": "Some lads from up north, right. Looking at each other. Going 'you beauty' at something that's just happened."
-      },
-      {
-        "number": 2,
-        "initials": "PB",
-        "clue": "Lads with flat caps on, right. Been blinded by something with a sharp point at the front. It's a period drama."
-      },
-      {
-        "number": 3,
-        "initials": "TC",
-        "clue": "Right. There are two ancient objects, and they're having a proper chat. Just the two of them. Yakking away."
       }
     ]
   },
@@ -14788,36 +14488,6 @@
     ]
   },
   {
-    "id": "tvbusters-017",
-    "enabled": true,
-    "title": "TVbusters",
-    "topic": "classic and modern UK TV shows",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "TVbusters. Three phonetic British telly clues. Say them out loud.",
-    "prize": "Email in. Winner gets a stress ball shaped like a planet and an out-of-date bus pass.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "MW",
-        "clue": "A bloke who does magic. Right. And there's a wand involved. Bit obvious, that. But there you go."
-      },
-      {
-        "number": 2,
-        "initials": "RP",
-        "clue": "Some fella called Robin, right. He's gone and plonked himself in a hood. Just sitting there. In the hood."
-      },
-      {
-        "number": 3,
-        "initials": "TK",
-        "clue": "There's a crown, right. And it belongs to someone specific. High up person. Very posh establishment this."
-      }
-    ]
-  },
-  {
     "id": "animalbusters-018",
     "enabled": true,
     "title": "Animalbusters",
@@ -15433,36 +15103,6 @@
     ]
   },
   {
-    "id": "tvbusters-008",
-    "enabled": true,
-    "title": "TVbusters",
-    "topic": "classic and modern UK TV shows",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Alright, TVbusters eight. More British programmes. Have a go, don't be shy about it.",
-    "prize": "Email in. Winner gets a World Cup 2002 Panini sticker book with three stickers in it.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "GW",
-        "clue": "A massive open space with loads of birds flapping about on one particular side of a building. Bit chaotic."
-      },
-      {
-        "number": 2,
-        "initials": "H",
-        "clue": "Some people have got a scheme on the go. They're at it. Moving around a lot. Busy."
-      },
-      {
-        "number": 3,
-        "initials": "WIB",
-        "clue": "Right, there's a cable running through some meat. Like an actual wire, inside the beef or whatever. Bit wrong."
-      }
-    ]
-  },
-  {
     "id": "nostalgiabusters-003",
     "enabled": true,
     "title": "Nostalgiabusters",
@@ -15982,36 +15622,6 @@
         "number": 3,
         "initials": "B T I",
         "clue": "Something that slows vehicles down has encountered a frozen surface. Not ideal conditions for stopping."
-      }
-    ]
-  },
-  {
-    "id": "tvbusters-015",
-    "enabled": true,
-    "title": "TVbusters",
-    "topic": "classic and modern UK TV shows",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "TVbusters. British telly gold in here, allegedly. Say each one out loud.",
-    "prize": "Email in. Winner gets a mini bottle of hotel shampoo and a Blockbuster membership card.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "SR",
-        "clue": "Right, the funniest thing that's ever happened, right, is happening right now in a long flat road. Residents are in stitches."
-      },
-      {
-        "number": 2,
-        "initials": "CI",
-        "clue": "A group of workers are standing around in a ring. Like a circle. And they're all wearing hard hats. Inspecting things."
-      },
-      {
-        "number": 3,
-        "initials": "TF",
-        "clue": "Everything's gone a bit golden. It's all brilliant. The whole lot of it. Just smashing, apparently."
       }
     ]
   },
@@ -16657,36 +16267,6 @@
         "number": 3,
         "initials": "P S L",
         "clue": "There's a fella grabbing hold of someone's ankle and giving it a good yank. Just having a go at it."
-      }
-    ]
-  },
-  {
-    "id": "tvbusters-018",
-    "enabled": true,
-    "title": "TVbusters",
-    "topic": "classic and modern UK TV shows",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Eighteen rounds of TVbusters. Proper commitment, that. British telly clues. Off you go.",
-    "prize": "Email in. Winner gets a slightly damp towel and a pen with a hotel logo on it.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "SI",
-        "clue": "Some sort of island. A northern island, right. The show's based there. Bit remote. Bit windy, probably."
-      },
-      {
-        "number": 2,
-        "initials": "OB",
-        "clue": "Right, a very old copper. Been on the beat since forever. Knows everyone. Bit nosy."
-      },
-      {
-        "number": 3,
-        "initials": "BB",
-        "clue": "Right, it's all happening at the seaside. Someone called Bill, he's been building something big. Near the water."
       }
     ]
   },
@@ -18309,68 +17889,6 @@
     ]
   },
   {
-    "id": "tvbusters-021",
-    "enabled": true,
-    "title": "TVbusters",
-    "topic": "popular US TV shows",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "Right, TVbusters. Rockbusters but it's all popular American telly.",
-    "prize": "Email in. Winner gets a DVD box set with a cracked case and a free AOL trial disc.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "F",
-        "clue": "Someone's been cooking the leftover ends of things. Bits that got trimmed off, all sizzling in the pan. That's your lot."
-      },
-      {
-        "number": 2,
-        "initials": "Y",
-        "clue": "Right, there's a rock, and it's gone a sort of yellow colour. Don't know why. It just has."
-      },
-      {
-        "number": 3,
-        "initials": "O",
-        "clue": "That wizard from Dorothy's film, yeah, he's gone and built himself a boat. Got all the animals in it and everything."
-      }
-    ]
-  },
-  {
-    "id": "tvbusters-022",
-    "enabled": true,
-    "title": "TVbusters",
-    "topic": "popular US TV shows",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "TVbusters is back. Three clues, all American shows. Off you go.",
-    "prize": "Email in. Winner gets a Blockbuster loyalty card with three stamps on it and a pen that doesn't work.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "T S",
-        "clue": "The dopey bloke, right, he's only gone and had kids. And they're all lads. Bit of a handful."
-      },
-      {
-        "number": 2,
-        "initials": "H",
-        "clue": "Your house, yeah, but also all the territory round it. The land it's sitting on. That's where you live."
-      },
-      {
-        "number": 3,
-        "initials": "S",
-        "clue": "Right, the chimney sweep's been through and left a load of black residue everywhere. It's all over the carpet."
-      }
-    ]
-  },
-  {
     "id": "tvbusters-023",
     "enabled": true,
     "title": "TVbusters",
@@ -18464,68 +17982,6 @@
     ]
   },
   {
-    "id": "tvbusters-026",
-    "enabled": true,
-    "title": "TVbusters",
-    "topic": "popular US TV shows",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "TVbusters is on. Three shows, all from across the pond. Get your thinking cap on.",
-    "prize": "Email in. Winner gets a mug from a company that no longer exists, filled with boiled sweets.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "M M",
-        "clue": "Loads of blokes, right, and they are all absolutely fuming. Every single one of them. Just furious fellers, the lot of them."
-      },
-      {
-        "number": 2,
-        "initials": "S",
-        "clue": "They've put it through the scanning machine, and the result has come back incredibly dull. Boring scan, that."
-      },
-      {
-        "number": 3,
-        "initials": "H",
-        "clue": "The arguments, right, they're happening in this exact spot. Right here. Very heated rows, here of all places."
-      }
-    ]
-  },
-  {
-    "id": "tvbusters-027",
-    "enabled": true,
-    "title": "TVbusters",
-    "topic": "popular US TV shows",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "Three more American shows for you. TVbusters. Say the clues out loud, that's the trick.",
-    "prize": "Email in. Winner gets an unopened CD single from 2003 and a biro with someone else's company name on it.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "A",
-        "clue": "There's one of them sheltered bits on the side of a hill, you know, where the wind doesn't get you, and it belongs to all of us. Communal shelter, that."
-      },
-      {
-        "number": 2,
-        "initials": "D",
-        "clue": "Right, that big wall that holds all the water back, it's been there absolutely ages. Since before anyone can remember."
-      },
-      {
-        "number": 3,
-        "initials": "T S",
-        "clue": "Therefore, right, you need to pray. But you do it through your nose. Don't ask me why, that's just how it works. Through the nose."
-      }
-    ]
-  },
-  {
     "id": "tvbusters-028",
     "enabled": true,
     "title": "TVbusters",
@@ -18553,378 +18009,6 @@
         "number": 3,
         "initials": "S A T C",
         "clue": "A couple of seconds, right, and then there's this place where absolutely loads of people live all crammed in together. Very busy place. Busy seconds."
-      }
-    ]
-  },
-  {
-    "id": "tvbusters-029",
-    "enabled": true,
-    "title": "TVbusters",
-    "topic": "popular US TV shows",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "TVbusters is back with three more American shows. One of them's got five initials. Don't panic.",
-    "prize": "Email in. Winner gets a signed photo from someone off a game show, possibly.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "H I M Y M",
-        "clue": "The eyeball, right, it bumped into your mum. Just introduced itself, shook hands, the whole thing. The eyeball met your mum. Right."
-      },
-      {
-        "number": 2,
-        "initials": "W A G",
-        "clue": "That lad Will, yeah, he keeps going out into the field and eating the grass. Just nibbling away like a sheep. Won't stop."
-      },
-      {
-        "number": 3,
-        "initials": "T B",
-        "clue": "Someone's written a list, right, and it's come out all black. The whole list, dark as anything. Very dark list."
-      }
-    ]
-  },
-  {
-    "id": "tvbusters-030",
-    "enabled": true,
-    "title": "TVbusters",
-    "topic": "popular US TV shows",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "TVbusters. All American telly. Three clues to kick off your morning. Say them out loud.",
-    "prize": "Email in. Winner gets a promotional pen torch that stopped working and a Werther's Original.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "W C",
-        "clue": "The bit of the shirt right around the neck, yeah, it's gone completely white. Brilliant white, that collar. Proper bleached."
-      },
-      {
-        "number": 2,
-        "initials": "B N",
-        "clue": "You've received a letter, right, and it says you're on fire. Just that. You're on fire, it says. What do you do with that letter?"
-      },
-      {
-        "number": 3,
-        "initials": "B C S",
-        "clue": "Look, your best bet here is to get on the phone to this fella called Saul. He'll sort the whole thing out. Better just call him."
-      }
-    ]
-  },
-  {
-    "id": "tvbusters-031",
-    "enabled": true,
-    "title": "TVbusters",
-    "topic": "popular US TV shows",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "Right then, TVbusters. Three American shows done phonetically. Off we go.",
-    "prize": "Email in. Winner gets a Now That's What I Call Music 54 on cassette and a loyalty card for a closed coffee shop.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "T M",
-        "clue": "Out of everyone there, this person is the most mental. The absolute top of the mental rankings. The one who has gone furthest round the bend."
-      },
-      {
-        "number": 2,
-        "initials": "S F U",
-        "clue": "Right, you've gone down six whole feet. That's well below the surface, that is. Properly underground. Not coming back up from that."
-      },
-      {
-        "number": 3,
-        "initials": "F",
-        "clue": "A fire that can fly. Small, glowing, up in the air. It's a flying fire. Off it goes."
-      }
-    ]
-  },
-  {
-    "id": "tvbusters-032",
-    "enabled": true,
-    "title": "TVbusters",
-    "topic": "popular US TV shows",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "TVbusters is on. Three more American shows for you this week. Have a good think.",
-    "prize": "Email in. Winner gets a copy of Monopoly with two pieces missing and a Fruit Pastilles ice lolly.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "E",
-        "clue": "You're on tour, right, but everyone on the tour bus is absolutely ancient. Really old bunch. In the tour bus, aged. That's them."
-      },
-      {
-        "number": 2,
-        "initials": "B",
-        "clue": "There's a queue, right, but instead of people it's just blood. A queue made entirely of blood. Single file."
-      },
-      {
-        "number": 3,
-        "initials": "T O",
-        "clue": "The thing that's switched off, right, it just is. It's off. That's all. The off thing. It is."
-      }
-    ]
-  },
-  {
-    "id": "tvbusters-033",
-    "enabled": true,
-    "title": "TVbusters",
-    "topic": "popular US TV shows",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "Three more for you. TVbusters. All American shows, all done phonetically. Take your time.",
-    "prize": "Email in. Winner gets a ceramic mug with a chip in it and a selection of biscuits nobody chose.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "G G",
-        "clue": "That young woman, right, she will not stop talking about everyone. Goes on and on. You know exactly the type."
-      },
-      {
-        "number": 2,
-        "initials": "O T H",
-        "clue": "Right, there's a hill, yeah, and on it there is exactly one tree. Just the one. Singular tree on a hill. That's it."
-      },
-      {
-        "number": 3,
-        "initials": "V M",
-        "clue": "That woman Veronica, she's only gone and moved to the red planet. Just up and left. Gone to Mars, has Veronica."
-      }
-    ]
-  },
-  {
-    "id": "tvbusters-034",
-    "enabled": true,
-    "title": "TVbusters",
-    "topic": "popular US TV shows",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "TVbusters. American shows only. Three clues, all phonetic. Don't think too hard.",
-    "prize": "Email in. Winner gets a printed map of a city you don't live in and a complimentary mint.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "U B",
-        "clue": "That woman Betty, everyone keeps telling her she doesn't look her best at the moment. Bit harsh, really."
-      },
-      {
-        "number": 2,
-        "initials": "P D",
-        "clue": "Someone's going round the garden, right, and they're shoving all the little white flowers. Just pushing daisies everywhere. Having a right go at them."
-      },
-      {
-        "number": 3,
-        "initials": "A D",
-        "clue": "The plans for the new building, right, they've been nicked by the police. Taken away. The development has been arrested."
-      }
-    ]
-  },
-  {
-    "id": "tvbusters-035",
-    "enabled": true,
-    "title": "TVbusters",
-    "topic": "popular US TV shows",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "Here's your TVbusters for the day. Three American shows, all phonetic. Say them out loud, that's the key.",
-    "prize": "Email in. Winner gets a box of slightly off-brand cereal and a free trial of something nobody remembers signing up for.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "C Y E",
-        "clue": "Right, the stone edge of the road, yeah, and your own personal excitement about things. Both of them together. That's your answer."
-      },
-      {
-        "number": 2,
-        "initials": "P",
-        "clue": "The hood on a jacket, right, but it belongs to someone's mum or dad. That's their hood, that. The parent's hood."
-      },
-      {
-        "number": 3,
-        "initials": "T T",
-        "clue": "Absolute fear, that. Proper, genuine dread. The fear itself. Nothing but the fear."
-      }
-    ]
-  },
-  {
-    "id": "tvbusters-036",
-    "enabled": true,
-    "title": "TVbusters",
-    "topic": "popular US TV shows",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "TVbusters is back. Three American shows done phonetically. One of these should be dead easy.",
-    "prize": "Email in. Winner gets a DVD of Notting Hill and an envelope of photographs from a Boots photo counter.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "R D",
-        "clue": "A beam of sunlight, right, and it's donated a van to someone. The ray of sun has given away a vehicle. Generous, that ray."
-      },
-      {
-        "number": 2,
-        "initials": "J",
-        "clue": "It's only right, isn't it. Completely fair. If it was done, that's just. That's how it should be. Just-ified, like."
-      },
-      {
-        "number": 3,
-        "initials": "M",
-        "clue": "He's hunting, right, but instead of a gun or a bow, he's using his brain. Pure thoughts. Hunting with his mind. That's his thing."
-      }
-    ]
-  },
-  {
-    "id": "tvbusters-037",
-    "enabled": true,
-    "title": "TVbusters",
-    "topic": "popular US TV shows",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "Right then. TVbusters. All American shows. Three clues. Away you go.",
-    "prize": "Email in. Winner gets a Best of Celine Dion CD and a stationery set from a boot fair.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "R M",
-        "clue": "Somebody get me out of here. I need pulling out of this situation sharpish. Come and rescue me, please. Someone."
-      },
-      {
-        "number": 2,
-        "initials": "F",
-        "clue": "That decorative bit of hair hanging down at the front, right, the bit that goes across your forehead. That's what you're looking for."
-      },
-      {
-        "number": 3,
-        "initials": "T B",
-        "clue": "Right, it's the lads. Just the lads. All of them. The boys, that's who it is. Nothing more to add."
-      }
-    ]
-  },
-  {
-    "id": "tvbusters-038",
-    "enabled": true,
-    "title": "TVbusters",
-    "topic": "popular US TV shows",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "TVbusters. Three phonetic clues, all American telly. Have a good go at this lot.",
-    "prize": "Email in. Winner gets a corporate stress ball in a shape it no longer holds and a packet of travel tissues.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "A E",
-        "clue": "The head monk, right, he's only gone back to do his first year of school. Sitting in a tiny chair and everything. Learning his letters."
-      },
-      {
-        "number": 2,
-        "initials": "W T",
-        "clue": "That brilliant moment when you've won something, right. When it all comes good. The winning moment. That's it."
-      },
-      {
-        "number": 3,
-        "initials": "C",
-        "clue": "There's a mountain pass, right, and it's switched on. It's active. The gap in the mountains is on, and it ends very happily."
-      }
-    ]
-  },
-  {
-    "id": "tvbusters-039",
-    "enabled": true,
-    "title": "TVbusters",
-    "topic": "popular US TV shows",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "TVbusters. Three clues, all American shows. Say them out loud.",
-    "prize": "Email in. Winner gets a fridge magnet from somewhere nobody's been and a used stamp from the Queen.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "T R",
-        "clue": "It's been sent back, right. Gone back to where it came from. The whole thing, returned. Came back."
-      },
-      {
-        "number": 2,
-        "initials": "T S",
-        "clue": "The thing you hold up to protect yourself in a fight, yeah, the flat thing that stops the arrows. That's the one."
-      },
-      {
-        "number": 3,
-        "initials": "B",
-        "clue": "Loads and loads of money. We're talking an absolutely absurd amount of it. Billions of the stuff. More than you could ever spend."
-      }
-    ]
-  },
-  {
-    "id": "tvbusters-040",
-    "enabled": true,
-    "title": "TVbusters",
-    "topic": "popular US TV shows",
-    "difficulty": "medium",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "TVbusters. Three clues, three American shows. Say them out loud.",
-    "prize": "Email in. Winner gets a Caffe Nero loyalty card with seven stamps and a foam seat cushion.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "B",
-        "clue": "Right, all them calcium things that hold your body up. Your skeleton. Just the bones. All of them. That's the answer."
-      },
-      {
-        "number": 2,
-        "initials": "S",
-        "clue": "The bit of land that's further down. Below the line, you know. The territory that ended up at the bottom. South of wherever you are."
-      },
-      {
-        "number": 3,
-        "initials": "T G F",
-        "clue": "A scrap, right, but everyone agrees afterwards it was a decent one. A good scrap. Fair result, good fight. The good fight, that was."
       }
     ]
   },
