@@ -104,7 +104,7 @@
     - ship inn
     reasoning: The (the) + Ship (a sea vessel, parked in the harbour) + Inn (an inn, a little place to stay, sounds like 'in') = The Ship Inn
 - id: pubbusters-004
-  enabled: true
+  enabled: false
   title: Pubbusters
   topic: British pub names, pub culture, and classic pub games
   difficulty: easy
@@ -139,7 +139,7 @@
     - coach and horses
     reasoning: The (the) + Coach (a horse-drawn carriage) + and (and) + Horses (the animals pulling it, the horses) = The Coach and Horses
 - id: pubbusters-005
-  enabled: true
+  enabled: false
   title: Pubbusters
   topic: British pub names, pub culture, and classic pub games
   difficulty: easy
@@ -174,7 +174,7 @@
     - nags head
     reasoning: The (the) + Nags (old horses, nags) + Head (a head, the top part of something) = The Nags Head
 - id: pubbusters-006
-  enabled: true
+  enabled: false
   title: Pubbusters
   topic: British pub names, pub culture, and classic pub games
   difficulty: easy
@@ -209,7 +209,7 @@
     - wheatsheaf
     reasoning: The (the) + Wheatsheaf (a bundle of wheat stalks tied together, a wheat sheaf) = The Wheatsheaf
 - id: pubbusters-007
-  enabled: true
+  enabled: false
   title: Pubbusters
   topic: British pub names, pub culture, and classic pub games
   difficulty: easy
@@ -244,7 +244,7 @@
     - volunteer
     reasoning: The (the) + Volunteer (someone who's put their name down to help without being asked, a volunteer) = The Volunteer
 - id: pubbusters-008
-  enabled: true
+  enabled: false
   title: Pubbusters
   topic: British pub names, pub culture, and classic pub games
   difficulty: easy
@@ -277,7 +277,7 @@
     - skittles
     reasoning: Skittles (nine wooden pins you knock over with a ball, skittles, classic pub game) = Skittles
 - id: pubbusters-009
-  enabled: true
+  enabled: false
   title: Pubbusters
   topic: British pub names, pub culture, and classic pub games
   difficulty: easy
@@ -310,7 +310,7 @@
     - landlady
     reasoning: Land (the land, the place) + lady (a woman) = Landlady. The woman who runs the pub.
 - id: pubbusters-010
-  enabled: true
+  enabled: false
   title: Pubbusters
   topic: British pub names, pub culture, and classic pub games
   difficulty: easy
@@ -344,7 +344,7 @@
     - a round
     reasoning: Round (buying a round at the pub, your round means you buy drinks for everyone) = Round
 - id: pubbusters-011
-  enabled: true
+  enabled: false
   title: Pubbusters
   topic: British pub names, pub culture, and classic pub games
   difficulty: easy
@@ -378,7 +378,7 @@
     - closing time
     reasoning: Opening (when the pub opens) + closing (when they throw you out) + time (the time) = classic pub concept
 - id: pubbusters-012
-  enabled: true
+  enabled: false
   title: Pubbusters
   topic: British pub names, pub culture, and classic pub games
   difficulty: easy
@@ -413,7 +413,7 @@
     - cricketers
     reasoning: The (the) + Cricketers (people who play cricket, cricketers) = The Cricketers
 - id: pubbusters-013
-  enabled: true
+  enabled: false
   title: Pubbusters
   topic: British pub names, pub culture, and classic pub games
   difficulty: easy
@@ -448,7 +448,7 @@
     - steeple
     reasoning: The (the) + Steeple (the pointy bit on top of a church, a steeple, very common pub name in English villages) = The Steeple
 - id: pubbusters-014
-  enabled: true
+  enabled: false
   title: Pubbusters
   topic: British pub names, pub culture, and classic pub games
   difficulty: easy
@@ -483,7 +483,7 @@
     - hand pump
     reasoning: Beer (the drink) + Pump (the hand-pump at the bar you pull to pour real ale) = Beer Pump
 - id: pubbusters-015
-  enabled: true
+  enabled: false
   title: Pubbusters
   topic: British pub names, pub culture, and classic pub games
   difficulty: easy
@@ -518,7 +518,7 @@
     - shove ha'penny
     reasoning: Shove (pushing/shoving it with the hand) + Halfpenny (a small old coin worth half a penny) = Shove Halfpenny
 - id: pubbusters-016
-  enabled: true
+  enabled: false
   title: Pubbusters
   topic: British pub names, pub culture, and classic pub games
   difficulty: easy
@@ -553,7 +553,7 @@
     - chequers
     reasoning: The (the) + Chequers (a checked black and white pattern, chequers, very common pub name) = The Chequers
 - id: pubbusters-017
-  enabled: true
+  enabled: false
   title: Pubbusters
   topic: British pub names, pub culture, and classic pub games
   difficulty: easy
@@ -588,7 +588,7 @@
     - wheatsheaf
     reasoning: The (the) + Wheatsheaf (a bundle of wheat stalks tied together, a wheat sheaf) = The Wheatsheaf
 - id: pubbusters-018
-  enabled: true
+  enabled: false
   title: Pubbusters
   topic: British pub names, pub culture, and classic pub games
   difficulty: easy
@@ -622,7 +622,7 @@
     - volunteer
     reasoning: The (the) + Volunteer (someone who steps forward to help without being asked, a volunteer) = The Volunteer
 - id: pubbusters-019
-  enabled: true
+  enabled: false
   title: Pubbusters
   topic: British pub names, pub culture, and classic pub games
   difficulty: easy
@@ -656,7 +656,7 @@
     - skittles
     reasoning: Skittles (nine wooden pins in a lane, knocked over with a ball, skittles, an ancient British pub game) = Skittles
 - id: pubbusters-020
-  enabled: true
+  enabled: false
   title: Pubbusters
   topic: British pub names, pub culture, and classic pub games
   difficulty: easy

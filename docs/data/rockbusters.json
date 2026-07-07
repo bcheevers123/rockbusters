@@ -1453,36 +1453,6 @@
     ]
   },
   {
-    "id": "pubbusters-020",
-    "enabled": true,
-    "title": "Pubbusters",
-    "topic": "British pub names, pub culture, and classic pub games",
-    "difficulty": "easy",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Pubbusters. Three phonetic pub clues. Off you go.",
-    "prize": "Email in. Winner gets a vintage pub sign reproduction and a can of bitter, warm, from the back of a cupboard.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "T C",
-        "clue": "There's a royal hat, the sort a king or queen wears, just sitting in the middle of a village square. Very regal. No one's moved it."
-      },
-      {
-        "number": 2,
-        "initials": "T K H",
-        "clue": "There's a monarch and they've only gone and had the top portion of their effigy removed. The head bit. Gone. Just the body left on the sign."
-      },
-      {
-        "number": 3,
-        "initials": "S H",
-        "clue": "Someone's taken an ancient coin, only worth half a penny mind, and they're giving it a gentle push along a flat wooden surface. That's the whole game. It works."
-      }
-    ]
-  },
-  {
     "id": "operabusters-003",
     "enabled": true,
     "title": "Operabusters",
@@ -3303,36 +3273,6 @@
     ]
   },
   {
-    "id": "pubbusters-016",
-    "enabled": true,
-    "title": "Pubbusters",
-    "topic": "British pub names, pub culture, and classic pub games",
-    "difficulty": "easy",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Pubbusters sixteen. Phonetic clues. Pub life and pub names. Same rules. Off you go.",
-    "prize": "Email in. Winner gets a vintage Tetley's ashtray and a slightly warm bottle of brown ale.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "T A",
-        "clue": "There's a heavy metal device on a rope, and they've dropped it off the side of a boat to keep it in one spot. Just hanging there underwater. Doing its job."
-      },
-      {
-        "number": 2,
-        "initials": "T N H",
-        "clue": "A load of old worn-out horses have a sign hanging outside their address. The sign's got their heads on it. They seem unbothered."
-      },
-      {
-        "number": 3,
-        "initials": "T C",
-        "clue": "Right, there's a checked pattern on the floor of a pub. Black and white squares all over. Very distinctive. You know the place instantly."
-      }
-    ]
-  },
-  {
     "id": "operabusters-002",
     "enabled": true,
     "title": "Operabusters",
@@ -5121,36 +5061,6 @@
     ]
   },
   {
-    "id": "pubbusters-013",
-    "enabled": true,
-    "title": "Pubbusters",
-    "topic": "British pub names, pub culture, and classic pub games",
-    "difficulty": "easy",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Pubbusters thirteen. Three more phonetic pub clues. Work it out by the sound of it.",
-    "prize": "Email in. Winner gets a pack of playing cards with one card missing and a used betting slip.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "T R O",
-        "clue": "There's a big old tree, the sort that acorns fall off, and it's somehow connected to royalty. Maybe a king hid in it once. That sort of thing."
-      },
-      {
-        "number": 2,
-        "initials": "T W",
-        "clue": "There's this tall cylindrical thing in the middle of a field and it's turning round slowly in the breeze. Very rural. Very relaxing."
-      },
-      {
-        "number": 3,
-        "initials": "T S",
-        "clue": "Right, a very old church nearby has given its name to the pub. Very common in English villages. The church is older than the pub. Obviously."
-      }
-    ]
-  },
-  {
     "id": "operabusters-001",
     "enabled": true,
     "title": "Operabusters",
@@ -6161,36 +6071,6 @@
     ]
   },
   {
-    "id": "pubbusters-011",
-    "enabled": true,
-    "title": "Pubbusters",
-    "topic": "British pub names, pub culture, and classic pub games",
-    "difficulty": "easy",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Eleven sets in. Pubbusters. Phonetic clues, all pub-themed. Say them out loud.",
-    "prize": "Email in. Winner gets a slightly squashed packet of cheese and onion and a pub mat with a racing horse on it.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "T C A H",
-        "clue": "There's a big vehicle for carrying people, pulled by horses, and both the horses and the vehicle have rocked up together. They're a package deal."
-      },
-      {
-        "number": 2,
-        "initials": "B G",
-        "clue": "Right, the garden's lovely but the gates at the front are made of something precious. Very shiny. Very fancy for a pub."
-      },
-      {
-        "number": 3,
-        "initials": "O M",
-        "clue": "It's nearly two o'clock and the landlord's telling everyone it's time to go. Standard. Happens every day."
-      }
-    ]
-  },
-  {
     "id": "historybusters-004",
     "enabled": true,
     "title": "Historybusters",
@@ -6893,36 +6773,6 @@
         "number": 3,
         "initials": "M",
         "clue": "A bloke called Moe's standing next to a woman called Ana. They're just there together. Moe. Ana. That's them."
-      }
-    ]
-  },
-  {
-    "id": "pubbusters-012",
-    "enabled": true,
-    "title": "Pubbusters",
-    "topic": "British pub names, pub culture, and classic pub games",
-    "difficulty": "easy",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Pubbusters twelve. Three clues. Pub names and pub stuff. You know the drill.",
-    "prize": "Email in. Winner gets a branded beer glass and a bus timetable from a village nobody's heard of.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "T W H",
-        "clue": "There's a very pale animal, a deer, male one, standing very still in a clearing. White as a sheet. Very noble."
-      },
-      {
-        "number": 2,
-        "initials": "T B S",
-        "clue": "This huge dark bird is gliding across a lake very smoothly. All black. Bit unexpected for a swan. You don't see that every day."
-      },
-      {
-        "number": 3,
-        "initials": "T C",
-        "clue": "There's this lot of cricketers, right, and they've gone and named a pub after themselves. Very pleased about it. They're in the bar celebrating."
       }
     ]
   },
@@ -7725,36 +7575,6 @@
     ]
   },
   {
-    "id": "pubbusters-005",
-    "enabled": true,
-    "title": "Pubbusters",
-    "topic": "British pub names, pub culture, and classic pub games",
-    "difficulty": "easy",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Alright, Pubbusters five. Phonetic clues, pub answers. Don't overthink it.",
-    "prize": "Email in. Winner gets a slightly sticky drinks menu and a novelty bottle opener shaped like a guitar.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "T G",
-        "clue": "A fast thin dog's done a runner. No one knows where it's gone. Was here a minute ago. Very quick animal."
-      },
-      {
-        "number": 2,
-        "initials": "T L A F",
-        "clue": "There's a young sheep, right, and it's gone and attached itself to a banner. Little thing just clinging to a flag. Bit odd."
-      },
-      {
-        "number": 3,
-        "initials": "T N H",
-        "clue": "Some horse has gone and found itself a head. Attached it. Now it's walking around very pleased with itself. Didn't have one before."
-      }
-    ]
-  },
-  {
     "id": "historybusters-011",
     "enabled": true,
     "title": "Historybusters",
@@ -8521,36 +8341,6 @@
     ]
   },
   {
-    "id": "pubbusters-007",
-    "enabled": true,
-    "title": "Pubbusters",
-    "topic": "British pub names, pub culture, and classic pub games",
-    "difficulty": "easy",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Pubbusters seven. Three more pub-name clues. It's all in the sounds. Have a go.",
-    "prize": "Email in. Winner gets a laminated copy of the pub's Wi-Fi password and a spare chip found under the bar.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "T C",
-        "clue": "There's a board covered in little squares, some black, some white, all alternating. Like a pattern. Used for a game, possibly."
-      },
-      {
-        "number": 2,
-        "initials": "T R",
-        "clue": "Right, there's a big iron track going through the middle of a field and something heavy and fast has just gone down it at speed. Steam and everything."
-      },
-      {
-        "number": 3,
-        "initials": "T V",
-        "clue": "Some fella has put his name down to help out. Not been asked. Just decided he's going to pitch in. Very willing. Very keen."
-      }
-    ]
-  },
-  {
     "id": "historybusters-019",
     "enabled": true,
     "title": "Historybusters",
@@ -9227,36 +9017,6 @@
     ]
   },
   {
-    "id": "pubbusters-004",
-    "enabled": true,
-    "title": "Pubbusters",
-    "topic": "British pub names, pub culture, and classic pub games",
-    "difficulty": "easy",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Pubbusters four. Three phonetic pub clues. You know the drill. Say it out loud.",
-    "prize": "Email in. Winner gets a box of pub quiz question cards from 1998 and a sticky beer pump clip.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "T B",
-        "clue": "Right, there's a church tower and someone's ringing the thing that hangs inside it. Big metal thing. It's going like mad. Very loud."
-      },
-      {
-        "number": 2,
-        "initials": "T A",
-        "clue": "Someone's dropped a big heavy metal hook thing into the harbour. Keeps the boat in place. There it is, just sitting on the quayside."
-      },
-      {
-        "number": 3,
-        "initials": "T C A H",
-        "clue": "There's a carriage, right, pulled by several large animals, and the whole lot of them have rocked up outside a building. Horses stood there patiently. Big coach job."
-      }
-    ]
-  },
-  {
     "id": "historybusters-012",
     "enabled": true,
     "title": "Historybusters",
@@ -9928,36 +9688,6 @@
         "number": 3,
         "initials": "T E N G",
         "clue": "The bloke in charge - the big boss, yeah - he's recently got himself some new channels on the telly. An upgraded package. Emperor's treat."
-      }
-    ]
-  },
-  {
-    "id": "pubbusters-009",
-    "enabled": true,
-    "title": "Pubbusters",
-    "topic": "British pub names, pub culture, and classic pub games",
-    "difficulty": "easy",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Pubbusters nine. Three clues. All British pubs and pub life. Work it out by sound.",
-    "prize": "Email in. Winner gets a dog-eared copy of CAMRA's Good Beer Guide and a commemorative coaster.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "T R L",
-        "clue": "There's a colour, the bright one like a fire engine, and there's a big cat wandering about. The big cat is that colour. Very striking."
-      },
-      {
-        "number": 2,
-        "initials": "L O",
-        "clue": "Someone's called last orders. That's it, the bar's shutting. Everyone finishing their pints. Classic British pub moment."
-      },
-      {
-        "number": 3,
-        "initials": "L G",
-        "clue": "Right, that woman landlady at the pub, the one in charge, she runs the place with an iron fist. Got a name for her. She's the guv'nor."
       }
     ]
   },
@@ -10670,36 +10400,6 @@
     ]
   },
   {
-    "id": "pubbusters-008",
-    "enabled": true,
-    "title": "Pubbusters",
-    "topic": "British pub names, pub culture, and classic pub games",
-    "difficulty": "easy",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Right. Pubbusters eight. Phonetic clues, pub games this time. Say them out loud and see what happens.",
-    "prize": "Email in. Winner gets a set of blunt darts and a scoreboard with someone else's initials already on it.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "D",
-        "clue": "These little sharp-tipped things, right, you throw them at a circular board on the wall. Very popular in pubs. Everyone thinks they're better at it than they are."
-      },
-      {
-        "number": 2,
-        "initials": "S H",
-        "clue": "Someone's taken half a penny, an old coin mind, and they're pushing it along a wooden board with the heel of their hand. Not throwing it. Shoving it. Gently."
-      },
-      {
-        "number": 3,
-        "initials": "S",
-        "clue": "Right, there are these nine little wooden pins all lined up, and someone's rolling a ball at them to knock them over. Classic stuff. Very old game."
-      }
-    ]
-  },
-  {
     "id": "historybusters-006",
     "enabled": true,
     "title": "Historybusters",
@@ -11342,36 +11042,6 @@
         "number": 3,
         "initials": "U",
         "clue": "It's the opposite of down. That's it. That's the whole clue. Don't make it complicated."
-      }
-    ]
-  },
-  {
-    "id": "pubbusters-018",
-    "enabled": true,
-    "title": "Pubbusters",
-    "topic": "British pub names, pub culture, and classic pub games",
-    "difficulty": "easy",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Pubbusters. Three more phonetic clues. Pub names and games. Say them aloud.",
-    "prize": "Email in. Winner gets a dartboard with no numbers on the outside ring and a 20p piece.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "D",
-        "clue": "Right, these pointy little things, feathered at one end, sharp at the other, you hurl them at a circular target on the wall. Everyone's played this. Usually badly."
-      },
-      {
-        "number": 2,
-        "initials": "T L A F",
-        "clue": "There's a small woolly animal and a big flag. They've both got a name above the pub door. The sheep's the star of the sign though."
-      },
-      {
-        "number": 3,
-        "initials": "T V",
-        "clue": "That bloke's stepped forward without being asked. Said he'd help. Very willing. Very civic-minded. Nobody made him."
       }
     ]
   },
@@ -12050,36 +11720,6 @@
     ]
   },
   {
-    "id": "pubbusters-019",
-    "enabled": true,
-    "title": "Pubbusters",
-    "topic": "British pub names, pub culture, and classic pub games",
-    "difficulty": "easy",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Pubbusters. Three phonetic pub clues. Say them aloud.",
-    "prize": "Email in. Winner gets a loyalty stamp card with eight of ten stamps and a novelty cocktail umbrella.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "T S I",
-        "clue": "A big vessel is docked in a small harbour and it's staying there for the night. Got a sign on the wall nearby. Very nautical."
-      },
-      {
-        "number": 2,
-        "initials": "T R S",
-        "clue": "That enormous glowing thing in the sky is hauling itself up over the horizon. Coming up slowly. Orange at first. Beautiful really."
-      },
-      {
-        "number": 3,
-        "initials": "S",
-        "clue": "Nine wooden pins arranged in a diamond shape, and you roll a ball down a lane to knock them all flying. Very old game. Very satisfying sound when you get them all."
-      }
-    ]
-  },
-  {
     "id": "historybusters-013",
     "enabled": true,
     "title": "Historybusters",
@@ -12660,36 +12300,6 @@
         "number": 3,
         "initials": "M",
         "clue": "A cow's making that noise they make, yeah, and it's doing it down a narrow lane. Just standing there going at it."
-      }
-    ]
-  },
-  {
-    "id": "pubbusters-017",
-    "enabled": true,
-    "title": "Pubbusters",
-    "topic": "British pub names, pub culture, and classic pub games",
-    "difficulty": "easy",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Pubbusters. Three phonetic pub clues. Say them aloud.",
-    "prize": "Email in. Winner gets a foam finger from a charity fun run and a packet of salted peanuts, open.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "T R",
-        "clue": "There's a big iron track out the back of the village and enormous vehicles go thundering along it. Steam-powered ones in the old days."
-      },
-      {
-        "number": 2,
-        "initials": "T H A H",
-        "clue": "A long-eared fast animal and a dog that chases it have both ended up in the same place. Neither one looks happy about the situation."
-      },
-      {
-        "number": 3,
-        "initials": "T W",
-        "clue": "Loads of stalks of grain have all been gathered up and tied together at the top. Big bundle. Very agricultural. You'd see it in a field at harvest."
       }
     ]
   },
@@ -14012,36 +13622,6 @@
     ]
   },
   {
-    "id": "pubbusters-010",
-    "enabled": true,
-    "title": "Pubbusters",
-    "topic": "British pub names, pub culture, and classic pub games",
-    "difficulty": "easy",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Pubbusters. Three phonetic pub clues. Say them out loud.",
-    "prize": "Email in. Winner gets a bar towel with a lager logo on it and a packet of dry roasted peanuts from 2007.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "T B",
-        "clue": "Someone's been given a tab at the bar. Just writing down what they owe. Running up quite a list. The landlord is watching."
-      },
-      {
-        "number": 2,
-        "initials": "P Q",
-        "clue": "Right, there's a night, usually a Tuesday, where everyone sits in teams and a bloke with a microphone asks questions. Some people take it too seriously."
-      },
-      {
-        "number": 3,
-        "initials": "R",
-        "clue": "It's your turn to go up and get everyone's drinks in. You'll need to know what everyone's having. The whole table's looking at you."
-      }
-    ]
-  },
-  {
     "id": "historybusters-015",
     "enabled": true,
     "title": "Historybusters",
@@ -15330,36 +14910,6 @@
     ]
   },
   {
-    "id": "pubbusters-015",
-    "enabled": true,
-    "title": "Pubbusters",
-    "topic": "British pub names, pub culture, and classic pub games",
-    "difficulty": "easy",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Pubbusters. Three phonetic clues, all pub names and pub culture. Say them out loud.",
-    "prize": "Email in. Winner gets a half-used book of matches and a drip tray, cleaned and everything.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "T P",
-        "clue": "There's a big wooden thing with a blade on the front and a horse is dragging it through a muddy field turning over the soil. Very traditional. Very satisfying."
-      },
-      {
-        "number": 2,
-        "initials": "T B",
-        "clue": "A large metal thing is ringing. The sort that hangs in a tower. Very loud, very clear. Sunday morning sort of sound."
-      },
-      {
-        "number": 3,
-        "initials": "S P",
-        "clue": "Someone has pushed a very small old coin along a smooth wooden board. Not thrown it. Shoved it with their hand. Very gently. Very precise."
-      }
-    ]
-  },
-  {
     "id": "historybusters-009",
     "enabled": true,
     "title": "Historybusters",
@@ -15970,36 +15520,6 @@
         "number": 3,
         "initials": "D",
         "clue": "An archery bow that can't speak - completely silent, not a word out of it. Just standing there with no sound whatsoever. Mute bow, that is."
-      }
-    ]
-  },
-  {
-    "id": "pubbusters-006",
-    "enabled": true,
-    "title": "Pubbusters",
-    "topic": "British pub names, pub culture, and classic pub games",
-    "difficulty": "easy",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Six sets in. Pubbusters. Three phonetic clues, all about British pubs. Say them aloud.",
-    "prize": "Email in. Winner gets a branded pint glass with a chip in the rim and a book of pub games from a charity shop.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "T H A H",
-        "clue": "Right, there's a rabbit and a dog and they've turned up at the same field. Together. No one planned it. They're just both there, getting on with it."
-      },
-      {
-        "number": 2,
-        "initials": "T R S",
-        "clue": "That great big star in the sky's only gone and started climbing out of the horizon. Just appearing now. Coming up slowly. Morning, that is."
-      },
-      {
-        "number": 3,
-        "initials": "T W",
-        "clue": "There's a bunch of grain stalks all bundled together at the top into a sort of big circular arrangement. Very agricultural. Very satisfying."
       }
     ]
   },
@@ -17259,36 +16779,6 @@
         "number": 3,
         "initials": "I O",
         "clue": "Something that was on the inside has now ended up on the outside. Turned itself around. Like a jumper that's been inside out. That sort of thing."
-      }
-    ]
-  },
-  {
-    "id": "pubbusters-014",
-    "enabled": true,
-    "title": "Pubbusters",
-    "topic": "British pub names, pub culture, and classic pub games",
-    "difficulty": "easy",
-    "office_safe": true,
-    "region_relevance": [
-      "UK"
-    ],
-    "intro": "Right then, Pubbusters fourteen. Phonetic clues, British pub theme. Say them out loud.",
-    "prize": "Email in. Winner gets a raffle ticket stub and a copy of the pub's weekly specials menu, laminated.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "T F A H",
-        "clue": "A cunning orange animal and a big dog that chases things have both ended up at the same address. No one planned it. They're eyeing each other up."
-      },
-      {
-        "number": 2,
-        "initials": "T G",
-        "clue": "There's a thin, very fast dog, the kind they race, just standing outside. Very sleek. Very aloof. Bit intimidating for such a slender animal."
-      },
-      {
-        "number": 3,
-        "initials": "B P",
-        "clue": "Right, there's a hand-pump on the bar and you pull it toward you and a pint of real ale comes out. That's the whole thing. Classic."
       }
     ]
   },

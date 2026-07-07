@@ -1465,38 +1465,6 @@
     ]
   },
   {
-    "id": "pubbusters-020",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "The Crown",
-        "aliases": [
-          "the crown",
-          "crown"
-        ],
-        "reasoning": "The (the) + Crown (a royal hat, worn by kings and queens, a crown) = The Crown"
-      },
-      {
-        "number": 2,
-        "answer": "The Kings Head",
-        "aliases": [
-          "the kings head",
-          "kings head"
-        ],
-        "reasoning": "The (the) + Kings (a monarch, a king) + Head (the top bit, the head on the sign) = The Kings Head"
-      },
-      {
-        "number": 3,
-        "answer": "Shove Halfpenny",
-        "aliases": [
-          "shove halfpenny",
-          "shove ha'penny"
-        ],
-        "reasoning": "Shove (a gentle push along a flat surface) + Halfpenny (an old coin worth half a penny, a ha'penny) = Shove Halfpenny"
-      }
-    ]
-  },
-  {
     "id": "operabusters-003",
     "clues": [
       {
@@ -3322,38 +3290,6 @@
     ]
   },
   {
-    "id": "pubbusters-016",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "The Anchor",
-        "aliases": [
-          "the anchor",
-          "anchor"
-        ],
-        "reasoning": "The (the) + Anchor (heavy metal thing dropped from a boat to keep it in place, an anchor) = The Anchor"
-      },
-      {
-        "number": 2,
-        "answer": "The Nags Head",
-        "aliases": [
-          "the nags head",
-          "nags head"
-        ],
-        "reasoning": "The (the) + Nags (old worn-out horses, nags) + Head (the head, what's on the sign) = The Nags Head"
-      },
-      {
-        "number": 3,
-        "answer": "The Chequers",
-        "aliases": [
-          "the chequers",
-          "chequers"
-        ],
-        "reasoning": "The (the) + Chequers (a checked black and white pattern, chequers, very common pub name) = The Chequers"
-      }
-    ]
-  },
-  {
     "id": "operabusters-002",
     "clues": [
       {
@@ -5146,38 +5082,6 @@
     ]
   },
   {
-    "id": "pubbusters-013",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "The Royal Oak",
-        "aliases": [
-          "the royal oak",
-          "royal oak"
-        ],
-        "reasoning": "The (the) + Royal (connected to royalty, a king) + Oak (a big old tree, acorns, an oak) = The Royal Oak"
-      },
-      {
-        "number": 2,
-        "answer": "The Windmill",
-        "aliases": [
-          "the windmill",
-          "windmill"
-        ],
-        "reasoning": "The (the) + Windmill (a tall cylindrical structure with turning sails, found in the countryside) = The Windmill"
-      },
-      {
-        "number": 3,
-        "answer": "The Steeple",
-        "aliases": [
-          "the steeple",
-          "steeple"
-        ],
-        "reasoning": "The (the) + Steeple (the pointy bit on top of a church, a steeple, very common pub name in English villages) = The Steeple"
-      }
-    ]
-  },
-  {
     "id": "operabusters-001",
     "clues": [
       {
@@ -6176,38 +6080,6 @@
     ]
   },
   {
-    "id": "pubbusters-011",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "The Coach and Horses",
-        "aliases": [
-          "the coach and horses",
-          "coach and horses"
-        ],
-        "reasoning": "The (the) + Coach (a big passenger vehicle, a coach) + and (and) + Horses (the animals out front pulling it) = The Coach and Horses"
-      },
-      {
-        "number": 2,
-        "answer": "Beer Garden",
-        "aliases": [
-          "beer garden"
-        ],
-        "reasoning": "Beer (the drink you have at a pub) + Garden (a garden, like the one out the back of the pub) = Beer Garden"
-      },
-      {
-        "number": 3,
-        "answer": "Opening and closing time",
-        "aliases": [
-          "opening and closing time",
-          "opening time",
-          "closing time"
-        ],
-        "reasoning": "Opening (when the pub opens) + closing (when they throw you out) + time (the time) = classic pub concept"
-      }
-    ]
-  },
-  {
     "id": "historybusters-004",
     "clues": [
       {
@@ -6899,38 +6771,6 @@
           "moana"
         ],
         "reasoning": "Moe (man's name) + Ana (woman's name) = Moana"
-      }
-    ]
-  },
-  {
-    "id": "pubbusters-012",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "The White Hart",
-        "aliases": [
-          "the white hart",
-          "white hart"
-        ],
-        "reasoning": "The (the) + White (pale, white as a sheet) + Hart (a male deer, a hart) = The White Hart"
-      },
-      {
-        "number": 2,
-        "answer": "The Black Swan",
-        "aliases": [
-          "the black swan",
-          "black swan"
-        ],
-        "reasoning": "The (the) + Black (dark, all black, unusual) + Swan (the gliding waterbird) = The Black Swan"
-      },
-      {
-        "number": 3,
-        "answer": "The Cricketers",
-        "aliases": [
-          "the cricketers",
-          "cricketers"
-        ],
-        "reasoning": "The (the) + Cricketers (people who play cricket, cricketers) = The Cricketers"
       }
     ]
   },
@@ -7717,38 +7557,6 @@
     ]
   },
   {
-    "id": "pubbusters-005",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "The Greyhound",
-        "aliases": [
-          "the greyhound",
-          "greyhound"
-        ],
-        "reasoning": "The (the) + Greyhound (a fast thin dog, used for racing, a greyhound) = The Greyhound"
-      },
-      {
-        "number": 2,
-        "answer": "The Lamb and Flag",
-        "aliases": [
-          "the lamb and flag",
-          "lamb and flag"
-        ],
-        "reasoning": "The (the) + Lamb (a young sheep, a lamb) + and (and) + Flag (a banner, a flag it's clinging to) = The Lamb and Flag"
-      },
-      {
-        "number": 3,
-        "answer": "The Nags Head",
-        "aliases": [
-          "the nags head",
-          "nags head"
-        ],
-        "reasoning": "The (the) + Nags (old horses, nags) + Head (a head, the top part of something) = The Nags Head"
-      }
-    ]
-  },
-  {
     "id": "historybusters-011",
     "clues": [
       {
@@ -8502,38 +8310,6 @@
     ]
   },
   {
-    "id": "pubbusters-007",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "The Chequers",
-        "aliases": [
-          "the chequers",
-          "chequers"
-        ],
-        "reasoning": "The (the) + Chequers (the black and white checked pattern, like on a draughts board, chequers) = The Chequers"
-      },
-      {
-        "number": 2,
-        "answer": "The Railway",
-        "aliases": [
-          "the railway",
-          "railway"
-        ],
-        "reasoning": "The (the) + Railway (a big iron track, trains going down it at speed) = The Railway"
-      },
-      {
-        "number": 3,
-        "answer": "The Volunteer",
-        "aliases": [
-          "the volunteer",
-          "volunteer"
-        ],
-        "reasoning": "The (the) + Volunteer (someone who's put their name down to help without being asked, a volunteer) = The Volunteer"
-      }
-    ]
-  },
-  {
     "id": "historybusters-019",
     "clues": [
       {
@@ -9204,38 +8980,6 @@
     ]
   },
   {
-    "id": "pubbusters-004",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "The Bell",
-        "aliases": [
-          "the bell",
-          "bell"
-        ],
-        "reasoning": "The (the) + Bell (the big metal thing inside a church tower that gets rung) = The Bell"
-      },
-      {
-        "number": 2,
-        "answer": "The Anchor",
-        "aliases": [
-          "the anchor",
-          "anchor"
-        ],
-        "reasoning": "The (the) + Anchor (the big metal hook that keeps a boat in place in a harbour) = The Anchor"
-      },
-      {
-        "number": 3,
-        "answer": "The Coach and Horses",
-        "aliases": [
-          "the coach and horses",
-          "coach and horses"
-        ],
-        "reasoning": "The (the) + Coach (a horse-drawn carriage) + and (and) + Horses (the animals pulling it, the horses) = The Coach and Horses"
-      }
-    ]
-  },
-  {
     "id": "historybusters-012",
     "clues": [
       {
@@ -9889,36 +9633,6 @@
           "the emperors new groove"
         ],
         "reasoning": "the + emperor's (the boss's) + new (recently acquired) + groove (like a channel, a thing) = The Emperor's New Groove"
-      }
-    ]
-  },
-  {
-    "id": "pubbusters-009",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "The Red Lion",
-        "aliases": [
-          "the red lion",
-          "red lion"
-        ],
-        "reasoning": "The (the) + Red (fire engine colour, bright red) + Lion (a big cat, a lion) = The Red Lion"
-      },
-      {
-        "number": 2,
-        "answer": "Last Orders",
-        "aliases": [
-          "last orders"
-        ],
-        "reasoning": "Last (final, the last ones) + Orders (what you call at the bar, last orders) = Last Orders"
-      },
-      {
-        "number": 3,
-        "answer": "Landlady",
-        "aliases": [
-          "landlady"
-        ],
-        "reasoning": "Land (the land, the place) + lady (a woman) = Landlady. The woman who runs the pub."
       }
     ]
   },
@@ -10615,36 +10329,6 @@
     ]
   },
   {
-    "id": "pubbusters-008",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Darts",
-        "aliases": [
-          "darts"
-        ],
-        "reasoning": "Darts (sharp-tipped things you throw at a circular board, darts) = Darts"
-      },
-      {
-        "number": 2,
-        "answer": "Shove Halfpenny",
-        "aliases": [
-          "shove halfpenny",
-          "shove ha'penny"
-        ],
-        "reasoning": "Shove (pushing with the heel of your hand, shoving) + Halfpenny (an old small coin, a ha'penny) = Shove Halfpenny"
-      },
-      {
-        "number": 3,
-        "answer": "Skittles",
-        "aliases": [
-          "skittles"
-        ],
-        "reasoning": "Skittles (nine wooden pins you knock over with a ball, skittles, classic pub game) = Skittles"
-      }
-    ]
-  },
-  {
     "id": "historybusters-006",
     "clues": [
       {
@@ -11279,37 +10963,6 @@
           "up"
         ],
         "reasoning": "up (the direction opposite to down) = Up"
-      }
-    ]
-  },
-  {
-    "id": "pubbusters-018",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Darts",
-        "aliases": [
-          "darts"
-        ],
-        "reasoning": "Darts (pointy things with feathered flights that you throw at a round board, darts) = Darts"
-      },
-      {
-        "number": 2,
-        "answer": "The Lamb and Flag",
-        "aliases": [
-          "the lamb and flag",
-          "lamb and flag"
-        ],
-        "reasoning": "The (the) + Lamb (a small woolly young sheep, a lamb) + and (and) + Flag (a flag, a banner) = The Lamb and Flag"
-      },
-      {
-        "number": 3,
-        "answer": "The Volunteer",
-        "aliases": [
-          "the volunteer",
-          "volunteer"
-        ],
-        "reasoning": "The (the) + Volunteer (someone who steps forward to help without being asked, a volunteer) = The Volunteer"
       }
     ]
   },
@@ -11970,37 +11623,6 @@
     ]
   },
   {
-    "id": "pubbusters-019",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "The Ship Inn",
-        "aliases": [
-          "the ship inn",
-          "ship inn"
-        ],
-        "reasoning": "The (the) + Ship (a big sea vessel docked in a harbour) + Inn (an inn, a place to stay the night) = The Ship Inn"
-      },
-      {
-        "number": 2,
-        "answer": "The Rising Sun",
-        "aliases": [
-          "the rising sun",
-          "rising sun"
-        ],
-        "reasoning": "The (the) + Rising (hauling itself up, coming up over the horizon) + Sun (the enormous glowing thing in the sky, the sun) = The Rising Sun"
-      },
-      {
-        "number": 3,
-        "answer": "Skittles",
-        "aliases": [
-          "skittles"
-        ],
-        "reasoning": "Skittles (nine wooden pins in a lane, knocked over with a ball, skittles, an ancient British pub game) = Skittles"
-      }
-    ]
-  },
-  {
     "id": "historybusters-013",
     "clues": [
       {
@@ -12572,38 +12194,6 @@
           "mulan"
         ],
         "reasoning": "moo (cow noise) + lan (lane, narrow road) = Mulan"
-      }
-    ]
-  },
-  {
-    "id": "pubbusters-017",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "The Railway",
-        "aliases": [
-          "the railway",
-          "railway"
-        ],
-        "reasoning": "The (the) + Railway (iron tracks, trains running along them, a railway) = The Railway"
-      },
-      {
-        "number": 2,
-        "answer": "The Hare and Hound",
-        "aliases": [
-          "the hare and hound",
-          "hare and hound"
-        ],
-        "reasoning": "The (the) + Hare (a long-eared fast animal, like a rabbit but faster) + and (and) + Hound (a chasing dog, a hound) = The Hare and Hound"
-      },
-      {
-        "number": 3,
-        "answer": "The Wheatsheaf",
-        "aliases": [
-          "the wheatsheaf",
-          "wheatsheaf"
-        ],
-        "reasoning": "The (the) + Wheatsheaf (a bundle of wheat stalks tied together, a wheat sheaf) = The Wheatsheaf"
       }
     ]
   },
@@ -13904,37 +13494,6 @@
     ]
   },
   {
-    "id": "pubbusters-010",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "The Tab",
-        "aliases": [
-          "the tab",
-          "tab"
-        ],
-        "reasoning": "The (the) + Tab (the running list of what you owe at the bar, a tab) = The Tab"
-      },
-      {
-        "number": 2,
-        "answer": "Pub Quiz",
-        "aliases": [
-          "pub quiz"
-        ],
-        "reasoning": "Pub (a pub, the place you go for a drink) + Quiz (questions, a knowledge test) = Pub Quiz"
-      },
-      {
-        "number": 3,
-        "answer": "Round",
-        "aliases": [
-          "round",
-          "a round"
-        ],
-        "reasoning": "Round (buying a round at the pub, your round means you buy drinks for everyone) = Round"
-      }
-    ]
-  },
-  {
     "id": "historybusters-015",
     "clues": [
       {
@@ -15214,38 +14773,6 @@
     ]
   },
   {
-    "id": "pubbusters-015",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "The Plough",
-        "aliases": [
-          "the plough",
-          "plough"
-        ],
-        "reasoning": "The (the) + Plough (the farming implement dragged by a horse to turn soil, a plough) = The Plough"
-      },
-      {
-        "number": 2,
-        "answer": "The Bell",
-        "aliases": [
-          "the bell",
-          "bell"
-        ],
-        "reasoning": "The (the) + Bell (a large metal ringing thing that hangs in a tower, a bell) = The Bell"
-      },
-      {
-        "number": 3,
-        "answer": "Shove Halfpenny",
-        "aliases": [
-          "shove halfpenny",
-          "shove ha'penny"
-        ],
-        "reasoning": "Shove (pushing/shoving it with the hand) + Halfpenny (a small old coin worth half a penny) = Shove Halfpenny"
-      }
-    ]
-  },
-  {
     "id": "historybusters-009",
     "clues": [
       {
@@ -15841,38 +15368,6 @@
           "dumbo"
         ],
         "reasoning": "dumb (unable to speak, silent) + bow (archery equipment) = Dumbo"
-      }
-    ]
-  },
-  {
-    "id": "pubbusters-006",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "The Hare and Hound",
-        "aliases": [
-          "the hare and hound",
-          "hare and hound"
-        ],
-        "reasoning": "The (the) + Hare (a rabbit-like animal, a hare) + and (and) + Hound (a hunting dog, a hound) = The Hare and Hound"
-      },
-      {
-        "number": 2,
-        "answer": "The Rising Sun",
-        "aliases": [
-          "the rising sun",
-          "rising sun"
-        ],
-        "reasoning": "The (the) + Rising (climbing, appearing, coming up) + Sun (the great big star, the sun) = The Rising Sun"
-      },
-      {
-        "number": 3,
-        "answer": "The Wheatsheaf",
-        "aliases": [
-          "the wheatsheaf",
-          "wheatsheaf"
-        ],
-        "reasoning": "The (the) + Wheatsheaf (a bundle of wheat stalks tied together, a wheat sheaf) = The Wheatsheaf"
       }
     ]
   },
@@ -17108,38 +16603,6 @@
           "inside out"
         ],
         "reasoning": "inside (on the interior) + out (on the exterior) = Inside Out"
-      }
-    ]
-  },
-  {
-    "id": "pubbusters-014",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "The Fox and Hound",
-        "aliases": [
-          "the fox and hound",
-          "fox and hound"
-        ],
-        "reasoning": "The (the) + Fox (cunning orange animal) + and (and) + Hound (a big chasing dog, a hound) = The Fox and Hound"
-      },
-      {
-        "number": 2,
-        "answer": "The Greyhound",
-        "aliases": [
-          "the greyhound",
-          "greyhound"
-        ],
-        "reasoning": "The (the) + Greyhound (a thin, fast racing dog, a greyhound) = The Greyhound"
-      },
-      {
-        "number": 3,
-        "answer": "Beer Pump",
-        "aliases": [
-          "beer pump",
-          "hand pump"
-        ],
-        "reasoning": "Beer (the drink) + Pump (the hand-pump at the bar you pull to pour real ale) = Beer Pump"
       }
     ]
   },

@@ -2121,7 +2121,7 @@
     - moana
     reasoning: Moe (a man's name) + Ana (a woman's name) = Moana
 - id: pubbusters-020
-  enabled: true
+  enabled: false
   title: Pubbusters
   topic: British pub names, pub culture, and classic pub games
   difficulty: easy
@@ -4600,7 +4600,7 @@
     - monsters inc.
     reasoning: monsters (terrifying creatures) + ink (the writing fluid) = Monsters Inc
 - id: pubbusters-016
-  enabled: true
+  enabled: false
   title: Pubbusters
   topic: British pub names, pub culture, and classic pub games
   difficulty: easy
@@ -7079,7 +7079,7 @@
     - ratatouille
     reasoning: rat (the rodent) + a + touille sounds like twee (precious, overly refined) = Ratatouille
 - id: pubbusters-013
-  enabled: true
+  enabled: false
   title: Pubbusters
   topic: British pub names, pub culture, and classic pub games
   difficulty: easy
@@ -8426,7 +8426,7 @@
     - ratatouille
     reasoning: rat (the rodent) + a + touille sounds like twee (overly precious and fussy) = Ratatouille
 - id: pubbusters-011
-  enabled: true
+  enabled: false
   title: Pubbusters
   topic: British pub names, pub culture, and classic pub games
   difficulty: easy
@@ -9563,7 +9563,7 @@
     - moana
     reasoning: Moe (man's name) + Ana (woman's name) = Moana
 - id: pubbusters-012
-  enabled: true
+  enabled: false
   title: Pubbusters
   topic: British pub names, pub culture, and classic pub games
   difficulty: easy
@@ -10638,7 +10638,7 @@
     - hercules
     reasoning: her (she) + cools (cooling things down) + ease (doing it easily) = Hercules
 - id: pubbusters-005
-  enabled: true
+  enabled: false
   title: Pubbusters
   topic: British pub names, pub culture, and classic pub games
   difficulty: easy
@@ -11719,7 +11719,7 @@
     - monsters inc.
     reasoning: monsters (big scary creatures) + ink (writing fluid) = Monsters Inc
 - id: pubbusters-007
-  enabled: true
+  enabled: false
   title: Pubbusters
   topic: British pub names, pub culture, and classic pub games
   difficulty: easy
@@ -12802,7 +12802,7 @@
     - mulan
     reasoning: moo (the noise a cow makes) + lan (a narrow lane) = Mulan
 - id: pubbusters-004
-  enabled: true
+  enabled: false
   title: Pubbusters
   topic: British pub names, pub culture, and classic pub games
   difficulty: easy
@@ -13874,7 +13874,7 @@
     - the emperors new groove
     reasoning: the + emperor's (the boss's) + new (recently acquired) + groove (like a channel, a thing) = The Emperor's New Groove
 - id: pubbusters-009
-  enabled: true
+  enabled: false
   title: Pubbusters
   topic: British pub names, pub culture, and classic pub games
   difficulty: easy
@@ -14944,7 +14944,7 @@
     - cinderella
     reasoning: cinder (ash and burnt coal remains) + Ella (the girl's name) = Cinderella
 - id: pubbusters-008
-  enabled: true
+  enabled: false
   title: Pubbusters
   topic: British pub names, pub culture, and classic pub games
   difficulty: easy
@@ -15919,7 +15919,7 @@
     - up
     reasoning: up (the direction opposite to down) = Up
 - id: pubbusters-018
-  enabled: true
+  enabled: false
   title: Pubbusters
   topic: British pub names, pub culture, and classic pub games
   difficulty: easy
@@ -16851,7 +16851,7 @@
     - aladdin
     reasoning: a + lad (young fella) + in (inside something) = Aladdin
 - id: pubbusters-019
-  enabled: true
+  enabled: false
   title: Pubbusters
   topic: British pub names, pub culture, and classic pub games
   difficulty: easy
@@ -17792,7 +17792,7 @@
     - mulan
     reasoning: moo (cow noise) + lan (lane, narrow road) = Mulan
 - id: pubbusters-017
-  enabled: true
+  enabled: false
   title: Pubbusters
   topic: British pub names, pub culture, and classic pub games
   difficulty: easy
@@ -19672,7 +19672,7 @@
     - cinderella
     reasoning: cinder (the ashy remains of fire) + Ella (a woman's name) = Cinderella
 - id: pubbusters-010
-  enabled: true
+  enabled: false
   title: Pubbusters
   topic: British pub names, pub culture, and classic pub games
   difficulty: easy
@@ -21565,7 +21565,7 @@
     - bambi
     reasoning: bam (a smack) + bee (an insect) = Bambi
 - id: pubbusters-015
-  enabled: true
+  enabled: false
   title: Pubbusters
   topic: British pub names, pub culture, and classic pub games
   difficulty: easy
@@ -22503,7 +22503,7 @@
     - dumbo
     reasoning: dumb (unable to speak, silent) + bow (archery equipment) = Dumbo
 - id: pubbusters-006
-  enabled: true
+  enabled: false
   title: Pubbusters
   topic: British pub names, pub culture, and classic pub games
   difficulty: easy
@@ -24382,7 +24382,7 @@
     - inside out
     reasoning: inside (on the interior) + out (on the exterior) = Inside Out
 - id: pubbusters-014
-  enabled: true
+  enabled: false
   title: Pubbusters
   topic: British pub names, pub culture, and classic pub games
   difficulty: easy
