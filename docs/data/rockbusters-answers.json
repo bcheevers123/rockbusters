@@ -830,38 +830,6 @@
     ]
   },
   {
-    "id": "philosophybusters-003",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Wittgenstein",
-        "aliases": [
-          "wittgenstein",
-          "ludwig wittgenstein"
-        ],
-        "reasoning": "witt (sounds like 'wit', clever wordplay, or the name Witty) + gen (to generate, or a generation) + stein (a big beer mug, or the German word for stone) = Witt-gen-stein = Wittgenstein"
-      },
-      {
-        "number": 2,
-        "answer": "Heidegger",
-        "aliases": [
-          "heidegger",
-          "martin heidegger"
-        ],
-        "reasoning": "heide (sounds like 'high-duh', a German heath or moor) + gger (sounds like 'guh', a grunting sound of deep thought) = Hy-deg-uh = Heidegger"
-      },
-      {
-        "number": 3,
-        "answer": "Simone de Beauvoir",
-        "aliases": [
-          "simone de beauvoir",
-          "de beauvoir"
-        ],
-        "reasoning": "simone (the name Simone, sounds like 'si-moan') + de (sounds like 'duh', the French word for of) + beauvoir (sounds like 'boh-vwah', like beautiful view in French) = Si-moan duh Boh-vwah = Simone de Beauvoir"
-      }
-    ]
-  },
-  {
     "id": "currencybusters-003",
     "clues": [
       {
@@ -1434,65 +1402,6 @@
     ]
   },
   {
-    "id": "operabusters-003",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Don Giovanni",
-        "aliases": [
-          "don giovanni",
-          "giovanni"
-        ],
-        "reasoning": "don (a title, or just the name Don, a bloke called Don) + gio (sounds like 'jee-oh', a shortened version of a fancy Italian name) + vann (sounds like 'van', a vehicle, or a fella called Vann) + ee (a small vowel sound at the end tying it together) = Don Jee-oh-van-ee = Don Giovanni"
-      },
-      {
-        "number": 2,
-        "answer": "Turandot",
-        "aliases": [
-          "turandot"
-        ],
-        "reasoning": "too (more than enough, or the number two said casually) + ran (moved quickly, legged it) + dot (a small mark, or a woman called Dot) = Too-ran-dot = Turandot"
-      },
-      {
-        "number": 3,
-        "answer": "Lohengrin",
-        "aliases": [
-          "lohengrin"
-        ],
-        "reasoning": "low (not high, down near the ground, or someone speaking quietly) + en (a small joining sound, like 'un') + grin (a smile, someone looking smug or pleased) = Low-en-grin = Lohengrin"
-      }
-    ]
-  },
-  {
-    "id": "winebusters-003",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Viognier",
-        "aliases": [
-          "viognier"
-        ],
-        "reasoning": "vio (sounds like 'vee-oh', a sighting noise) + gn (sounds like 'ny', the French nasal sound) + ier (sounds like 'ee-ay', or just 'knee-ay') = Vio-gnier = Viognier"
-      },
-      {
-        "number": 2,
-        "answer": "Sangiovese",
-        "aliases": [
-          "sangiovese"
-        ],
-        "reasoning": "san (sounds like 'san', holy or blood of) + gio (sounds like 'jo', a name, or Gio, short for Giovanni) + vese (sounds like 'veeze', or 'veh-zeh', ending with an Italian flourish) = San-gio-vese = Sangiovese"
-      },
-      {
-        "number": 3,
-        "answer": "Aglianico",
-        "aliases": [
-          "aglianico"
-        ],
-        "reasoning": "agli (sounds like 'al-ye', garlic in Italian, or just a suffering noise) + an (sounds like 'an', the article) + ico (sounds like 'ee-ko', a small Italian suffix indicating something regional and intense) = Agli-an-ico = Aglianico"
-      }
-    ]
-  },
-  {
     "id": "treebusters-003",
     "clues": [
       {
@@ -1519,35 +1428,6 @@
           "monkey-puzzle"
         ],
         "reasoning": "monkey (a primate, not a gorilla) + puzzle (a jigsaw, something that stumps you) = monkey-puzzle = Monkey Puzzle"
-      }
-    ]
-  },
-  {
-    "id": "languagebusters-003",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Tagalog",
-        "aliases": [
-          "tagalog"
-        ],
-        "reasoning": "ta (sounds like 'the', sort of, or a filler) + gal (a girl, a woman, a female person) + og (sounds like 'og', as in a log without the l, or just 'og' like a caveman) = Ta-gal-og = Tagalog"
-      },
-      {
-        "number": 2,
-        "answer": "Esperanto",
-        "aliases": [
-          "esperanto"
-        ],
-        "reasoning": "es (sounds like 'S' or 'spare' shortened) + per (sounds like 'per', as in per unit) + rant (a proper going-on about something) + oh (the noise you make at the end of a rant when you've run out of things to say) = Es-per-rant-oh = Esperanto"
-      },
-      {
-        "number": 3,
-        "answer": "Punjabi",
-        "aliases": [
-          "punjabi"
-        ],
-        "reasoning": "pun (a wordplay joke, usually quite bad) + jab (a quick injection or a short sharp poke) + ee (sounds like 'ee', a short exclamation, northern) = Pun-jab-ee = Punjabi"
       }
     ]
   },
@@ -1665,35 +1545,6 @@
           "harvey wallbanger"
         ],
         "reasoning": "Harvey (a man's name) + wall (a partition, a dividing structure) + bang (to hit something hard, a headbutt) + er (the suffix, someone who does the action) = Harvey-Wall-bang-er = Harvey Wallbanger."
-      }
-    ]
-  },
-  {
-    "id": "extremeweatherbusters-001",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Hurricane",
-        "aliases": [
-          "hurricane"
-        ],
-        "reasoning": "hurri (sounds like 'hurry', to rush, or 'her-ree') + cane (sounds like 'cane', a walking stick or sugarcane) = Hurri-cane = Hurricane"
-      },
-      {
-        "number": 2,
-        "answer": "Tornado",
-        "aliases": [
-          "tornado"
-        ],
-        "reasoning": "tor (sounds like 'tore', past tense of tear) + nay (sounds like 'nay', a refusal) + do (sounds like 'do', to do something) = Tor-nay-do = Tornado"
-      },
-      {
-        "number": 3,
-        "answer": "Blizzard",
-        "aliases": [
-          "blizzard"
-        ],
-        "reasoning": "bliz (sounds like 'bliss', pure happiness, just without the s) + ard (sounds like 'ard', northern English for hard, or just 'ard') = Bliz-ard = Blizzard"
       }
     ]
   },
@@ -2614,8 +2465,9 @@
       },
       {
         "number": 3,
-        "answer": "Theremin",
+        "answer": "Guitar",
         "aliases": [
+          "guitar",
           "theremin"
         ],
         "reasoning": "there-min. There (in the cupboard, in there) + min (sounds like 'rummage' reduced, or 'min' as in minimum/small thing) = Theremin. 'In there' + 'min' = Theremin"
@@ -2678,36 +2530,6 @@
           "pterodactyl"
         ],
         "reasoning": "terror (terrified, a great fright) + oh (the sound) + dactyl (Greek for finger, like a digit doing backwards cycling) = Terror-oh-dactyl = Pterodactyl"
-      }
-    ]
-  },
-  {
-    "id": "philosophybusters-002",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Aristotle",
-        "aliases": [
-          "aristotle"
-        ],
-        "reasoning": "arry (sounds like 'arri', informal version of Aristotle's start) + stotle (sounds like 'stott-ul', something being categorised vigorously) = Arri-stott-ul = Aristotle"
-      },
-      {
-        "number": 2,
-        "answer": "Plato",
-        "aliases": [
-          "plato"
-        ],
-        "reasoning": "plate (a plate of food, a flat round thing) + o (a surprised sound at the end) = Plate-o = Plato"
-      },
-      {
-        "number": 3,
-        "answer": "Kierkegaard",
-        "aliases": [
-          "kierkegaard",
-          "soren kierkegaard"
-        ],
-        "reasoning": "kirk (a church, or the name Kirk, very common in Scandinavia) + e (a small sound) + gaard (sounds like 'guard', someone watching the door) = Kirk-e-gaard = Kierkegaard"
       }
     ]
   },
@@ -3259,67 +3081,6 @@
     ]
   },
   {
-    "id": "operabusters-002",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Rigoletto",
-        "aliases": [
-          "rigoletto"
-        ],
-        "reasoning": "rigg (sounds like 'rig', or the name Rigger) + oh (a sound of mild resignation) + let (to allow something) + oh (another mild sound at the end) = Rig-oh-let-oh = Rigoletto"
-      },
-      {
-        "number": 2,
-        "answer": "Nabucco",
-        "aliases": [
-          "nabucco",
-          "nabucodonosor"
-        ],
-        "reasoning": "nab (to grab or steal something, very casual theft) + uck (a sound of mild disgust or surprise) + oh (a trailing sound as the consequences unfold) = Nab-uck-oh = Nabucco"
-      },
-      {
-        "number": 3,
-        "answer": "Lucia di Lammermoor",
-        "aliases": [
-          "lucia di lammermoor",
-          "lucia"
-        ],
-        "reasoning": "loo (a toilet, or the name Lu, someone called Lou going somewhere urgent) + chee (a sharp little sound, like teeth) + ah (a sigh of relief or despair) + dee (the letter D as a word, meaning of, sort of) + lammer (sounds like 'lam-uh', like a lamb having a go) + moor (a soggy bit of land in the north of England or Scotland, very bleak) = Loo-chee-ah dee Lam-uh-moor = Lucia di Lammermoor"
-      }
-    ]
-  },
-  {
-    "id": "winebusters-002",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Gewurztraminer",
-        "aliases": [
-          "gewurztraminer",
-          "gewürztraminer"
-        ],
-        "reasoning": "ge (sounds like 'geh', a German noise of mild concern) + wurz (sounds like 'wurts', worries or worsted) + tram (sounds like 'tram', a vehicle, or traminer, a trainer on a tram) + iner (sounds like 'iner', a trainer suffix) = Ge-wurz-tram-iner = Gewurztraminer"
-      },
-      {
-        "number": 2,
-        "answer": "Tempranillo",
-        "aliases": [
-          "tempranillo"
-        ],
-        "reasoning": "temp (sounds like 'temp', temporary, not permanent, just passing through) + ran (sounds like 'ran', he ran and fell) + illo (sounds like 'illo', a Spanish diminutive, little) = Temp-ran-illo = Tempranillo"
-      },
-      {
-        "number": 3,
-        "answer": "Nebbiolo",
-        "aliases": [
-          "nebbiolo"
-        ],
-        "reasoning": "nebb (sounds like 'neb', a beak or a nosy snout) + iolo (sounds like 'ee-oh-lo', a little noise at the end, or 'nebbia' meaning fog in Italian) = Nebb-iolo = Nebbiolo"
-      }
-    ]
-  },
-  {
     "id": "treebusters-002",
     "clues": [
       {
@@ -3346,36 +3107,6 @@
           "weeping-willow"
         ],
         "reasoning": "weeping (having a good cry) + will (they're going to do it) + ow (an exclamation of resignation, sounds like 'oh') = weeping-will-ow = Weeping Willow"
-      }
-    ]
-  },
-  {
-    "id": "languagebusters-002",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Malayalam",
-        "aliases": [
-          "malayalam"
-        ],
-        "reasoning": "mal (sounds like 'Mal' or 'Molly' shortened) + a (just the letter a, a pause) + yalam (sounds like 'yalarm', as in 'her alarm') = Mal-a-yalam = Malayalam"
-      },
-      {
-        "number": 2,
-        "answer": "Quechua",
-        "aliases": [
-          "quechua",
-          "quecha"
-        ],
-        "reasoning": "ketch (a type of two-masted sailing boat) + wah (the sound a baby makes when it's not happy) = Ketch-wah = Quechua"
-      },
-      {
-        "number": 3,
-        "answer": "Catalan",
-        "aliases": [
-          "catalan"
-        ],
-        "reasoning": "cat (a furry animal, sits on things) + a (just a, the article) + lan (sounds like 'Lan', a Welsh-ish short name, or 'land' with the d gone quiet) = Cat-a-lan = Catalan"
       }
     ]
   },
@@ -3467,35 +3198,6 @@
           "negroni"
         ],
         "reasoning": "neg (to neg someone, give a backhanded compliment or put-down) + row (to argue, or to row a boat) + knee (the joint in the middle of your leg) = neg-row-nee = Negroni."
-      }
-    ]
-  },
-  {
-    "id": "extremeweatherbusters-002",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Typhoon",
-        "aliases": [
-          "typhoon"
-        ],
-        "reasoning": "ty (sounds like 'tie', to tie something up) + phoon (sounds like 'foon', or 'phone' said quickly without the e) = Ty-phoon = Typhoon"
-      },
-      {
-        "number": 2,
-        "answer": "Tsunami",
-        "aliases": [
-          "tsunami"
-        ],
-        "reasoning": "tsu (sounds like 'soo', as in Sue, a name) + nami (sounds like 'nah-me', or 'nammy', like a nan figure) = Soo-nami = Tsunami"
-      },
-      {
-        "number": 3,
-        "answer": "Monsoon",
-        "aliases": [
-          "monsoon"
-        ],
-        "reasoning": "mon (sounds like 'mon', as in Monday, or 'mon' meaning my in some languages) + soon (sounds like 'soon', not long now) = Mon-soon = Monsoon"
       }
     ]
   },
@@ -4357,37 +4059,6 @@
     ]
   },
   {
-    "id": "instrumentbusters-003",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Balalaika",
-        "aliases": [
-          "balalaika"
-        ],
-        "reasoning": "bala-lai-ka. Bala (sounds like 'baller', a lad) + lai (sounds like 'lie', or 'lake') + ka (sounds like 'car' or just the ending) = Balalaika. More specifically: bala (a place or bag) + lake + a = Balalaika"
-      },
-      {
-        "number": 2,
-        "answer": "Bouzouki",
-        "aliases": [
-          "bouzouki",
-          "buzuki"
-        ],
-        "reasoning": "bou-zouki. Bou (sounds like 'boo', called him in) + zouki (sounds like 'Zuki', the Greek fella's name) = Bouzouki"
-      },
-      {
-        "number": 3,
-        "answer": "Flugelhorn",
-        "aliases": [
-          "flugelhorn",
-          "flügelhorn"
-        ],
-        "reasoning": "flugel-horn. Flugel (sounds like 'frugal' or 'floo-gel', something French and a bit fancy) + horn (a thing water comes out of, like a nozzle or spout) = Flugelhorn"
-      }
-    ]
-  },
-  {
     "id": "superherobusters-002",
     "clues": [
       {
@@ -5020,66 +4691,6 @@
     ]
   },
   {
-    "id": "operabusters-001",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Carmen",
-        "aliases": [
-          "carmen"
-        ],
-        "reasoning": "car (a vehicle, or the name Kar) + men (blokes, more than one fella) = Car-men = Carmen"
-      },
-      {
-        "number": 2,
-        "answer": "Tosca",
-        "aliases": [
-          "tosca"
-        ],
-        "reasoning": "toss (to throw something, or to fling old cans about) + ka (a short sharp sound at the end, like a door slamming) = Toss-ka = Tosca"
-      },
-      {
-        "number": 3,
-        "answer": "Aida",
-        "aliases": [
-          "aida"
-        ],
-        "reasoning": "ay (a drawn-out sound of surprise, like when you spot something big) + ee-da (sounds like 'ida', a name, or someone realising something slowly) = Ay-ee-da = Aida"
-      }
-    ]
-  },
-  {
-    "id": "winebusters-001",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Chardonnay",
-        "aliases": [
-          "chardonnay"
-        ],
-        "reasoning": "char (sounds like 'sha', a sound of gratitude in French-ish) + don (sounds like 'don', to give or a gift) + nay (sounds like 'nay', no, or a refusal, which is ironic given how much people drink it) = Char-don-nay = Chardonnay"
-      },
-      {
-        "number": 2,
-        "answer": "Sauvignon Blanc",
-        "aliases": [
-          "sauvignon blanc",
-          "sauvignon"
-        ],
-        "reasoning": "sauvi (sounds like 'savvy', to understand) + gnon (sounds like 'nyon', a French-ish town sound) + blanc (sounds like 'blank', empty, nothing there) = Sauvi-gnon Blanc = Sauvignon Blanc"
-      },
-      {
-        "number": 3,
-        "answer": "Pinot Grigio",
-        "aliases": [
-          "pinot grigio",
-          "pinot gris"
-        ],
-        "reasoning": "pin (sounds like 'pin', small, sharp) + ot (sounds like 'ot', short, clipped) + grig (sounds like 'grey', going grey) + io (sounds like 'ee-oh', a surprised noise at the end) = Pin-ot Grig-io = Pinot Grigio"
-      }
-    ]
-  },
-  {
     "id": "treebusters-001",
     "clues": [
       {
@@ -5106,35 +4717,6 @@
           "horse-chestnut"
         ],
         "reasoning": "horse (the large animal that pulls carriages) + chest (a barrel-shaped torso) + nut (gone crackers/crazy) = Horse Chestnut"
-      }
-    ]
-  },
-  {
-    "id": "languagebusters-001",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Mandarin",
-        "aliases": [
-          "mandarin"
-        ],
-        "reasoning": "man (a bloke, just a man) + duh (that pause you make when you're figuring something out) + rin (sounds like 'rind', as in the skin of a lemon) = Man-duh-rin = Mandarin"
-      },
-      {
-        "number": 2,
-        "answer": "Afrikaans",
-        "aliases": [
-          "afrikaans"
-        ],
-        "reasoning": "af (sounds like 'aff', half off, or the start of Africa) + ri (sounds like 'ree', a quick filler) + kaans (sounds like 'cans', tins of things) = Af-ri-kaans = Afrikaans"
-      },
-      {
-        "number": 3,
-        "answer": "Swahili",
-        "aliases": [
-          "swahili"
-        ],
-        "reasoning": "swa (sounds like 'swore', past tense of swear, but cut short) + hee (sounds like 'he') + li (sounds like 'Lee', a name, quite common) = Swa-hee-li = Swahili"
       }
     ]
   },
@@ -5255,38 +4837,6 @@
           "aperol spritz"
         ],
         "reasoning": "ape (a large primate, like a gorilla or chimp) + er (the sound) + ol (just the end sound) + spritz (a fizzing spray of liquid) = ape-er-ol-spritz = Aperol Spritz. Say it: ape-er-ol spritz."
-      }
-    ]
-  },
-  {
-    "id": "extremeweatherbusters-003",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Heatwave",
-        "aliases": [
-          "heatwave",
-          "heat wave"
-        ],
-        "reasoning": "heat (sounds like 'heat', warmth) + wave (sounds like 'wave', a gesture or an ocean wave) = Heat-wave = Heatwave"
-      },
-      {
-        "number": 2,
-        "answer": "Whirlwind",
-        "aliases": [
-          "whirlwind",
-          "whirl wind"
-        ],
-        "reasoning": "whirl (sounds like 'whirl', to spin rapidly) + wind (sounds like 'wind', moving air) = Whirl-wind = Whirlwind"
-      },
-      {
-        "number": 3,
-        "answer": "Thunderstorm",
-        "aliases": [
-          "thunderstorm",
-          "thunder storm"
-        ],
-        "reasoning": "thun (sounds like 'thun', as in Thun, a Swiss city, or thunder without the 'der') + der (sounds like 'der', a confused filler) + storm (sounds like 'storm', bad weather) = Thun-der-storm = Thunderstorm"
       }
     ]
   },

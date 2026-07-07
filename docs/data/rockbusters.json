@@ -817,36 +817,6 @@
     ]
   },
   {
-    "id": "philosophybusters-003",
-    "enabled": true,
-    "title": "Philosophybusters",
-    "topic": "famous philosophers from across history",
-    "difficulty": "hard",
-    "office_safe": true,
-    "region_relevance": [
-      "Global"
-    ],
-    "intro": "Philosophybusters. Three big thinkers hiding in here. The answers are all phonetic. Say them out loud and see if the sounds add up to a philosopher.",
-    "prize": "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "W",
-        "clue": "A man called Witty has joined a group of people who are all arguing about what language means. He's said something clever but no one can agree on what it meant. He's fine with that."
-      },
-      {
-        "number": 2,
-        "initials": "H",
-        "clue": "A bloke called Higger has been out in a German forest for quite a long time just thinking about being. Being in the forest. Being in general. He's written it all down but it's very hard to follow."
-      },
-      {
-        "number": 3,
-        "initials": "S D B",
-        "clue": "A woman called Sim has walked into a shop but the bloke working there keeps treating her differently to the other customers. She's written about sixteen hundred pages on the subject."
-      }
-    ]
-  },
-  {
     "id": "currencybusters-003",
     "enabled": true,
     "title": "Currencybusters",
@@ -1423,66 +1393,6 @@
     ]
   },
   {
-    "id": "operabusters-003",
-    "enabled": true,
-    "title": "Operabusters",
-    "topic": "Opera titles",
-    "difficulty": "hard",
-    "office_safe": true,
-    "region_relevance": [
-      "Global"
-    ],
-    "intro": "Last lot of Operabusters. Three more famous operas in here, all hidden in the sounds. Give the clues a read out loud. The answer's there somewhere, you've just got to listen for it.",
-    "prize": "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "D G",
-        "clue": "A bloke called Don has gone round to his mate Giovanni's house. Giovanni is not in. Nobody's seen Giovanni for a bit actually. There's been some trouble."
-      },
-      {
-        "number": 2,
-        "initials": "T",
-        "clue": "A woman called Toora has climbed up on top of something very tall in China and she's given everyone a very difficult puzzle. Nobody's been able to solve it yet. She's fine with that."
-      },
-      {
-        "number": 3,
-        "initials": "L",
-        "clue": "A fella called Low has walked into a pub and ordered something. He's very laid back about it. He's leaning on the bar. He's been in there a while. He's in no hurry."
-      }
-    ]
-  },
-  {
-    "id": "winebusters-003",
-    "enabled": true,
-    "title": "Winebusters",
-    "topic": "wine varieties from around the world",
-    "difficulty": "hard",
-    "office_safe": true,
-    "region_relevance": [
-      "Global"
-    ],
-    "intro": "Last lot. Winebusters three. All grape varieties again. The sounds are what matter, not the letters. Give each one a go out loud before you give up.",
-    "prize": "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "V",
-        "clue": "A bloke in the south of France has spotted something from a distance and gone, oi, there's a knee over there. He's pointing at it. Nobody else can see a knee. He seems very sure about it."
-      },
-      {
-        "number": 2,
-        "initials": "S",
-        "clue": "A bloke called Gio has had a bit of blood. Nothing serious. He's in Tuscany, very calm about the whole thing. Someone's written it down and named a grape after the incident."
-      },
-      {
-        "number": 3,
-        "initials": "A",
-        "clue": "A woman in southern Italy has had a proper struggle. Really been through it. She's come out the other side and she's standing there going, well, that was horrible. She looks like she needs a sit down."
-      }
-    ]
-  },
-  {
     "id": "treebusters-003",
     "enabled": true,
     "title": "Treebusters",
@@ -1509,36 +1419,6 @@
         "number": 3,
         "initials": "M P",
         "clue": "One of those primates - the smaller ones, not gorillas - has gone and bought itself a jigsaw. Proper stumped by it."
-      }
-    ]
-  },
-  {
-    "id": "languagebusters-003",
-    "enabled": true,
-    "title": "Languagebusters",
-    "topic": "languages spoken around the world",
-    "difficulty": "hard",
-    "office_safe": true,
-    "region_relevance": [
-      "Global"
-    ],
-    "intro": "Languagebusters. Still all languages. Still all phonetic. Say it out loud, that's all you need to do.",
-    "prize": "Email in. Winner gets a printed photo from a disposable camera, framed.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "T",
-        "clue": "A girl, a proper gal, has got herself a log. Big heavy log. Nobody knows where she got it from or what she plans to do with it. She's very committed to the log."
-      },
-      {
-        "number": 2,
-        "initials": "E",
-        "clue": "Someone's gone spare and had a proper rant about something. Like a full-on, going-for-it rant. And at the end of it they've just gone oh. That's it. Rant done. Oh."
-      },
-      {
-        "number": 3,
-        "initials": "P",
-        "clue": "Someone's made a joke, not a great one, a real groaner, and then immediately given someone a jab. Like a vaccination jab, not a punch. The jab comes right after the pun. Very efficient."
       }
     ]
   },
@@ -1663,36 +1543,6 @@
         "number": 3,
         "initials": "H W B",
         "clue": "Right, there's a fella called Harvey and he's only gone and headbutted a partition. Straight into it. What's he done that for?"
-      }
-    ]
-  },
-  {
-    "id": "extremeweatherbusters-001",
-    "enabled": true,
-    "title": "Extremeweatherbusters",
-    "topic": "extreme weather events",
-    "difficulty": "hard",
-    "office_safe": true,
-    "region_relevance": [
-      "Global"
-    ],
-    "intro": "Right, Extremeweatherbusters. All extreme weather events hiding in the sounds of these clues. Say them out loud. Don't try and work it out on paper, that won't help. It's about what it sounds like, not what it looks like.",
-    "prize": "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "H",
-        "clue": "A bloke called Rick has gone and hurt his shin again. Third time this week. His nan is not impressed. She's sent him a card but she's not coming round."
-      },
-      {
-        "number": 2,
-        "initials": "T",
-        "clue": "A fella called Al has gone shopping for a birthday. He's come back with something that spins. He's not sure who it's for but it was on offer and it looked good."
-      },
-      {
-        "number": 3,
-        "initials": "B",
-        "clue": "A woman called Liz has gone somewhere very cold and she's had a bit of a dizzy spell. She's fine but she sat down in the snow for a bit. Everyone was quite concerned."
       }
     ]
   },
@@ -2603,7 +2453,7 @@
       {
         "number": 3,
         "initials": "T",
-        "clue": "Someone's been in the cupboard where you keep your stuff. Had a proper rummage in there. Found something odd."
+        "clue": "[CLUE NEEDS REWRITE] Someone's been in the cupboard where you keep your stuff. Had a proper rummage in there. Found something odd."
       }
     ]
   },
@@ -2664,36 +2514,6 @@
         "number": 3,
         "initials": "P",
         "clue": "A fella has absolutely terrified everyone and now he's doing a backwards cycling motion with his fingers. Nobody knows what he wants. He's still frightening though."
-      }
-    ]
-  },
-  {
-    "id": "philosophybusters-002",
-    "enabled": true,
-    "title": "Philosophybusters",
-    "topic": "famous philosophers from across history",
-    "difficulty": "hard",
-    "office_safe": true,
-    "region_relevance": [
-      "Global"
-    ],
-    "intro": "Philosophybusters two. Three more thinkers hiding in the sounds. Say these out loud. Reading them quietly won't do you any good.",
-    "prize": "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "A",
-        "clue": "A man called Arry has got himself tangled up in a discussion about what a stoat actually is. He's got four categories for it. Nobody asked for four."
-      },
-      {
-        "number": 2,
-        "initials": "P",
-        "clue": "A man's been looking at plates and plates and plates, but he reckons none of them are the real plate. The real plate is somewhere else. In a sort of perfect plate world."
-      },
-      {
-        "number": 3,
-        "initials": "K",
-        "clue": "A Danish bloke called Kirk has arrived at a party but he can't commit to being there. He's anxious about it. He keeps going outside for a think."
       }
     ]
   },
@@ -3243,66 +3063,6 @@
     ]
   },
   {
-    "id": "operabusters-002",
-    "enabled": true,
-    "title": "Operabusters",
-    "topic": "Opera titles",
-    "difficulty": "hard",
-    "office_safe": true,
-    "region_relevance": [
-      "Global"
-    ],
-    "intro": "Operabusters two. Three more famous operas hiding in the sounds here. These are a bit trickier. Say them out loud. Reading them in your head will get you nowhere.",
-    "prize": "Email in. Winner gets a printed photo from a disposable camera, framed.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "R",
-        "clue": "A fella called Rigger has decided to go to a very small, awkward party. It's a lot. He didn't need to go but someone told him to. He's there now. Too late."
-      },
-      {
-        "number": 2,
-        "initials": "N",
-        "clue": "A fella called Nab has gone and grabbed someone else's cow. He's very pleased with himself. This is going to cause a lot of trouble and everyone can see that except him."
-      },
-      {
-        "number": 3,
-        "initials": "L",
-        "clue": "A woman called Lu has been put in a very difficult situation and she's decided to travel a very long way to sort it out. All the way to Scotland. She did not enjoy the journey."
-      }
-    ]
-  },
-  {
-    "id": "winebusters-002",
-    "enabled": true,
-    "title": "Winebusters",
-    "topic": "wine varieties from around the world",
-    "difficulty": "hard",
-    "office_safe": true,
-    "region_relevance": [
-      "Global"
-    ],
-    "intro": "Winebusters two. More grape varieties. All phonetic, say them out loud. Don't try and spell them. That's not the point. Ready? Go on then.",
-    "prize": "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "G",
-        "clue": "A woman in Germany has got the worries. Proper worries. And she's been wearing a hat with flowers on it to deal with the situation. She's a trainer, of sorts. It's a lot going on."
-      },
-      {
-        "number": 2,
-        "initials": "T",
-        "clue": "A little fella has gone to Spain and tripped over something. Just gone right over. He's a bit embarrassed. He's been lying there for a while and nobody's helped him up."
-      },
-      {
-        "number": 3,
-        "initials": "N",
-        "clue": "Someone in northern Italy has seen a cloud and gone, no, I'm not having that. Very foggy up there. They've named something after the weather because they ran out of other ideas."
-      }
-    ]
-  },
-  {
     "id": "treebusters-002",
     "enabled": true,
     "title": "Treebusters",
@@ -3329,36 +3089,6 @@
         "number": 3,
         "initials": "W W",
         "clue": "Someone's been having a right cry about it. Really upset. And they're going to do it. They will. They're going to do it. Oh."
-      }
-    ]
-  },
-  {
-    "id": "languagebusters-002",
-    "enabled": true,
-    "title": "Languagebusters",
-    "topic": "languages spoken around the world",
-    "difficulty": "hard",
-    "office_safe": true,
-    "region_relevance": [
-      "Global"
-    ],
-    "intro": "Languagebusters two. More languages. All phonetic, all in the sounds. Don't think about it too much. That's when it goes wrong. Just say the clue out loud and let your brain have a go.",
-    "prize": "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "M",
-        "clue": "A woman called Molly has set her alarm. Very firm about it. Gets up every morning, no arguments. Alarm's gone off, Molly's up. That's the whole story, it's not a long one."
-      },
-      {
-        "number": 2,
-        "initials": "Q",
-        "clue": "Someone's bought a small sailing boat and immediately a baby's started crying nearby. The two things are completely unrelated but they've happened at the same time. The boat's called a ketch. The baby's not pleased."
-      },
-      {
-        "number": 3,
-        "initials": "C",
-        "clue": "A cat has got itself a plot of land. Not a big plot, just enough for the cat. The land's got a Welsh bloke's name on the deeds for some reason. The cat doesn't seem bothered."
       }
     ]
   },
@@ -3452,36 +3182,6 @@
         "number": 3,
         "initials": "N",
         "clue": "Right, this woman's been given a bit of a put-down - someone's having a go at her - and then she rows somewhere, and then she lands on her knee. All in one afternoon."
-      }
-    ]
-  },
-  {
-    "id": "extremeweatherbusters-002",
-    "enabled": true,
-    "title": "Extremeweatherbusters",
-    "topic": "extreme weather events",
-    "difficulty": "hard",
-    "office_safe": true,
-    "region_relevance": [
-      "Global"
-    ],
-    "intro": "Extremeweatherbusters two. More extreme weather in the sounds. You need to say these out loud and let your brain figure it out. Your brain knows the answer already, it just needs a minute.",
-    "prize": "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "T",
-        "clue": "A bloke from Thailand is flying a kite on top of a massive wave. The kite looks like a phone. It's not a phone, it's a kite. He seems very calm about the situation."
-      },
-      {
-        "number": 2,
-        "initials": "T",
-        "clue": "Someone has been in a wave and it's gone right over them. Their mate Sue is at the shore looking a bit worried. She's got a towel but it won't be enough."
-      },
-      {
-        "number": 3,
-        "initials": "M",
-        "clue": "A lad called Marvin has gone to visit his son, just turned up on a Wednesday. Very wet outside. Marvin's brought biscuits. The son wasn't expecting him but he's alright about it."
       }
     ]
   },
@@ -4335,36 +4035,6 @@
     ]
   },
   {
-    "id": "instrumentbusters-003",
-    "enabled": true,
-    "title": "Instrumentbusters",
-    "topic": "Musical instruments",
-    "difficulty": "hard",
-    "office_safe": true,
-    "region_relevance": [
-      "Global"
-    ],
-    "intro": "Last of the Instrumentbusters. Three more obscure instruments phonetically disguised. Give it a go.",
-    "prize": "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "B",
-        "clue": "Right, a Russian fella's gone and put his chips in a lake. Dropped the whole bag in. Just standing there watching them sink."
-      },
-      {
-        "number": 2,
-        "initials": "B",
-        "clue": "Someone's called in a Greek fella. His name's Zuki. He's come over to sort the electrics. Bit of a specialist."
-      },
-      {
-        "number": 3,
-        "initials": "F",
-        "clue": "That thing in the corner of the garden where water comes out. It's gone a bit French. Got a beret on and everything."
-      }
-    ]
-  },
-  {
     "id": "superherobusters-002",
     "enabled": true,
     "title": "Superherobusters",
@@ -5001,66 +4671,6 @@
     ]
   },
   {
-    "id": "operabusters-001",
-    "enabled": true,
-    "title": "Operabusters",
-    "topic": "Opera titles",
-    "difficulty": "hard",
-    "office_safe": true,
-    "region_relevance": [
-      "Global"
-    ],
-    "intro": "Right, Operabusters. It's Rockbusters but all the answers are famous operas. Say the clues out loud. The opera is hiding somewhere in the sounds. Might help if you do a little bit of singing.",
-    "prize": "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "C",
-        "clue": "A bloke called Kar has found a man, and that man is wearing a very long coat. Big collar on it. Very dramatic entrance. Everybody's staring."
-      },
-      {
-        "number": 2,
-        "initials": "T",
-        "clue": "A woman has climbed up on top of a big pile of old tin cans. She's absolutely furious. Nobody's sure why she's up there but she won't come down."
-      },
-      {
-        "number": 3,
-        "initials": "A",
-        "clue": "A woman called Ada has gone on a long journey and now she's in Egypt. She's not said much since she arrived. She just keeps looking at the pyramids with her arms folded."
-      }
-    ]
-  },
-  {
-    "id": "winebusters-001",
-    "enabled": true,
-    "title": "Winebusters",
-    "topic": "wine varieties from around the world",
-    "difficulty": "hard",
-    "office_safe": true,
-    "region_relevance": [
-      "Global"
-    ],
-    "intro": "Right, Winebusters. All grape varieties hiding in phonetic clues. Say them out loud. The sounds'll get you there. Nothing to do with spelling. It never is.",
-    "prize": "Email in. Winner gets a copy of Shrek on DVD and a keyring from a service station.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "C",
-        "clue": "A woman called Sharon has gone to France and someone there has done her a favour. She's not entirely sure what the favour was but she's saying thank you anyway. There's a vineyard involved."
-      },
-      {
-        "number": 2,
-        "initials": "S B",
-        "clue": "A bloke is looking over a fence at someone else's field. Very blank expression. Bit nosy. The field is white and he's just gone, yeah, that's that then."
-      },
-      {
-        "number": 3,
-        "initials": "P G",
-        "clue": "A small bloke called Pete has gone grey. Just overnight. Bit of a shock. He's standing in Italy looking quite confused about the whole thing."
-      }
-    ]
-  },
-  {
     "id": "treebusters-001",
     "enabled": true,
     "title": "Treebusters",
@@ -5087,36 +4697,6 @@
         "number": 3,
         "initials": "H C",
         "clue": "That large animal - the one that pulls the carriage - it's got a big barrel of a chest and it's gone a bit crackers. Not sure what's got into it."
-      }
-    ]
-  },
-  {
-    "id": "languagebusters-001",
-    "enabled": true,
-    "title": "Languagebusters",
-    "topic": "languages spoken around the world",
-    "difficulty": "hard",
-    "office_safe": true,
-    "region_relevance": [
-      "Global"
-    ],
-    "intro": "Right, Languagebusters. All languages from around the world hidden in phonetic clues. Say them out loud. The answer's somewhere in the sounds. Nothing to do with spelling, that's your first mistake if you're writing things down.",
-    "prize": "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "M",
-        "clue": "A fella, just a regular man, has gone and dried himself out completely. Like a piece of fruit left in a greenhouse. He's a man, but he's also somehow a rind now. Don't ask."
-      },
-      {
-        "number": 2,
-        "initials": "A",
-        "clue": "Someone's had a go at Africa but they've only managed half of it. They've been very insistent about bringing cans. Loads of cans. Nobody asked for the cans but here we are."
-      },
-      {
-        "number": 3,
-        "initials": "S",
-        "clue": "A bloke called Lee has gone and sworn about something. Not massively, just a light swear. He's a bit soggy as well, not sure why. Lee's had a difficult morning."
       }
     ]
   },
@@ -5241,36 +4821,6 @@
         "number": 3,
         "initials": "A S",
         "clue": "There's a large primate - a big one - and it's gone and rolled itself into a ball. Just lying there in a roll. And there's a fizzing sound as well."
-      }
-    ]
-  },
-  {
-    "id": "extremeweatherbusters-003",
-    "enabled": true,
-    "title": "Extremeweatherbusters",
-    "topic": "extreme weather events",
-    "difficulty": "hard",
-    "office_safe": true,
-    "region_relevance": [
-      "Global"
-    ],
-    "intro": "Extremeweatherbusters. Extreme weather, phonetic clues, say them out loud. If you're reading them silently and expecting that to work, it won't. You have been warned.",
-    "prize": "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "H",
-        "clue": "A woman has gone on holiday somewhere really warm and she's bought some sort of hat, one of them ones that keeps nothing out. Her neck is bright red. She knew it would happen."
-      },
-      {
-        "number": 2,
-        "initials": "WW",
-        "clue": "A gust of wind has come round a corner and gone absolutely mad, spinning about, picking things up, acting like it owns the place. A woman's hat has gone. She's not happy about the hat."
-      },
-      {
-        "number": 3,
-        "initials": "TS",
-        "clue": "A fella called Thun is in a drum kit shop. He's asking about something that rumbles. He keeps doing an impression of the sound he wants. The shop assistant thinks he wants a bass drum but he doesn't."
       }
     ]
   },

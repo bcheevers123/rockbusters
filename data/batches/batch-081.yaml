@@ -1,5 +1,5 @@
 - id: languagebusters-001
-  enabled: true
+  enabled: false
   title: Languagebusters
   topic: languages spoken around the world
   difficulty: hard
@@ -31,7 +31,7 @@
     - swahili
     reasoning: swa (sounds like 'swore', past tense of swear, but cut short) + hee (sounds like 'he') + li (sounds like 'Lee', a name, quite common) = Swa-hee-li = Swahili
 - id: languagebusters-002
-  enabled: true
+  enabled: false
   title: Languagebusters
   topic: languages spoken around the world
   difficulty: hard
@@ -64,7 +64,7 @@
     - catalan
     reasoning: cat (a furry animal, sits on things) + a (just a, the article) + lan (sounds like 'Lan', a Welsh-ish short name, or 'land' with the d gone quiet) = Cat-a-lan = Catalan
 - id: languagebusters-003
-  enabled: true
+  enabled: false
   title: Languagebusters
   topic: languages spoken around the world
   difficulty: hard

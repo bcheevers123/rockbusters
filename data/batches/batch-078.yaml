@@ -1,101 +1,99 @@
 - id: operabusters-001
-  enabled: true
+  enabled: false
   title: Operabusters
   topic: Opera titles
   difficulty: hard
   office_safe: true
   region_relevance:
-    - Global
-  intro: "Right, Operabusters. It's Rockbusters but all the answers are famous operas. Say the clues out loud. The opera is hiding somewhere in the sounds. Might help if you do a little bit of singing."
-  prize: "Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette."
+  - Global
+  intro: Right, Operabusters. It's Rockbusters but all the answers are famous operas. Say the clues out loud. The opera is hiding somewhere in the sounds. Might help if you do a little bit of singing.
+  prize: Email in. Winner gets a Blockbuster loyalty card and a Now 52 cassette.
   clues:
-    - number: 1
-      initials: C
-      clue: "A bloke called Kar has found a man, and that man is wearing a very long coat. Big collar on it. Very dramatic entrance. Everybody's staring."
-      answer: Carmen
-      aliases:
-        - carmen
-      reasoning: "car (a vehicle, or the name Kar) + men (blokes, more than one fella) = Car-men = Carmen"
-    - number: 2
-      initials: T
-      clue: "A woman has climbed up on top of a big pile of old tin cans. She's absolutely furious. Nobody's sure why she's up there but she won't come down."
-      answer: Tosca
-      aliases:
-        - tosca
-      reasoning: "toss (to throw something, or to fling old cans about) + ka (a short sharp sound at the end, like a door slamming) = Toss-ka = Tosca"
-    - number: 3
-      initials: A
-      clue: "A woman called Ada has gone on a long journey and now she's in Egypt. She's not said much since she arrived. She just keeps looking at the pyramids with her arms folded."
-      answer: Aida
-      aliases:
-        - aida
-      reasoning: "ay (a drawn-out sound of surprise, like when you spot something big) + ee-da (sounds like 'ida', a name, or someone realising something slowly) = Ay-ee-da = Aida"
-
+  - number: 1
+    initials: C
+    clue: A bloke called Kar has found a man, and that man is wearing a very long coat. Big collar on it. Very dramatic entrance. Everybody's staring.
+    answer: Carmen
+    aliases:
+    - carmen
+    reasoning: car (a vehicle, or the name Kar) + men (blokes, more than one fella) = Car-men = Carmen
+  - number: 2
+    initials: T
+    clue: A woman has climbed up on top of a big pile of old tin cans. She's absolutely furious. Nobody's sure why she's up there but she won't come down.
+    answer: Tosca
+    aliases:
+    - tosca
+    reasoning: toss (to throw something, or to fling old cans about) + ka (a short sharp sound at the end, like a door slamming) = Toss-ka = Tosca
+  - number: 3
+    initials: A
+    clue: A woman called Ada has gone on a long journey and now she's in Egypt. She's not said much since she arrived. She just keeps looking at the pyramids with her arms folded.
+    answer: Aida
+    aliases:
+    - aida
+    reasoning: ay (a drawn-out sound of surprise, like when you spot something big) + ee-da (sounds like 'ida', a name, or someone realising something slowly) = Ay-ee-da = Aida
 - id: operabusters-002
-  enabled: true
+  enabled: false
   title: Operabusters
   topic: Opera titles
   difficulty: hard
   office_safe: true
   region_relevance:
-    - Global
-  intro: "Operabusters two. Three more famous operas hiding in the sounds here. These are a bit trickier. Say them out loud. Reading them in your head will get you nowhere."
-  prize: "Email in. Winner gets a printed photo from a disposable camera, framed."
+  - Global
+  intro: Operabusters two. Three more famous operas hiding in the sounds here. These are a bit trickier. Say them out loud. Reading them in your head will get you nowhere.
+  prize: Email in. Winner gets a printed photo from a disposable camera, framed.
   clues:
-    - number: 1
-      initials: R
-      clue: "A fella called Rigger has decided to go to a very small, awkward party. It's a lot. He didn't need to go but someone told him to. He's there now. Too late."
-      answer: Rigoletto
-      aliases:
-        - rigoletto
-      reasoning: "rigg (sounds like 'rig', or the name Rigger) + oh (a sound of mild resignation) + let (to allow something) + oh (another mild sound at the end) = Rig-oh-let-oh = Rigoletto"
-    - number: 2
-      initials: N
-      clue: "A fella called Nab has gone and grabbed someone else's cow. He's very pleased with himself. This is going to cause a lot of trouble and everyone can see that except him."
-      answer: Nabucco
-      aliases:
-        - nabucco
-        - nabucodonosor
-      reasoning: "nab (to grab or steal something, very casual theft) + uck (a sound of mild disgust or surprise) + oh (a trailing sound as the consequences unfold) = Nab-uck-oh = Nabucco"
-    - number: 3
-      initials: L
-      clue: "A woman called Lu has been put in a very difficult situation and she's decided to travel a very long way to sort it out. All the way to Scotland. She did not enjoy the journey."
-      answer: Lucia di Lammermoor
-      aliases:
-        - lucia di lammermoor
-        - lucia
-      reasoning: "loo (a toilet, or the name Lu, someone called Lou going somewhere urgent) + chee (a sharp little sound, like teeth) + ah (a sigh of relief or despair) + dee (the letter D as a word, meaning of, sort of) + lammer (sounds like 'lam-uh', like a lamb having a go) + moor (a soggy bit of land in the north of England or Scotland, very bleak) = Loo-chee-ah dee Lam-uh-moor = Lucia di Lammermoor"
-
+  - number: 1
+    initials: R
+    clue: A fella called Rigger has decided to go to a very small, awkward party. It's a lot. He didn't need to go but someone told him to. He's there now. Too late.
+    answer: Rigoletto
+    aliases:
+    - rigoletto
+    reasoning: rigg (sounds like 'rig', or the name Rigger) + oh (a sound of mild resignation) + let (to allow something) + oh (another mild sound at the end) = Rig-oh-let-oh = Rigoletto
+  - number: 2
+    initials: N
+    clue: A fella called Nab has gone and grabbed someone else's cow. He's very pleased with himself. This is going to cause a lot of trouble and everyone can see that except him.
+    answer: Nabucco
+    aliases:
+    - nabucco
+    - nabucodonosor
+    reasoning: nab (to grab or steal something, very casual theft) + uck (a sound of mild disgust or surprise) + oh (a trailing sound as the consequences unfold) = Nab-uck-oh = Nabucco
+  - number: 3
+    initials: L
+    clue: A woman called Lu has been put in a very difficult situation and she's decided to travel a very long way to sort it out. All the way to Scotland. She did not enjoy the journey.
+    answer: Lucia di Lammermoor
+    aliases:
+    - lucia di lammermoor
+    - lucia
+    reasoning: loo (a toilet, or the name Lu, someone called Lou going somewhere urgent) + chee (a sharp little sound, like teeth) + ah (a sigh of relief or despair) + dee (the letter D as a word, meaning of, sort of) + lammer (sounds like 'lam-uh', like a lamb having a go) + moor (a soggy bit of land in the north of England or Scotland, very bleak) = Loo-chee-ah dee Lam-uh-moor = Lucia di Lammermoor
 - id: operabusters-003
-  enabled: true
+  enabled: false
   title: Operabusters
   topic: Opera titles
   difficulty: hard
   office_safe: true
   region_relevance:
-    - Global
-  intro: "Last lot of Operabusters. Three more famous operas in here, all hidden in the sounds. Give the clues a read out loud. The answer's there somewhere, you've just got to listen for it."
-  prize: "Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists."
+  - Global
+  intro: Last lot of Operabusters. Three more famous operas in here, all hidden in the sounds. Give the clues a read out loud. The answer's there somewhere, you've just got to listen for it.
+  prize: Email in. Winner gets an AOL trial disc and a mug from a company that no longer exists.
   clues:
-    - number: 1
-      initials: D G
-      clue: "A bloke called Don has gone round to his mate Giovanni's house. Giovanni is not in. Nobody's seen Giovanni for a bit actually. There's been some trouble."
-      answer: Don Giovanni
-      aliases:
-        - don giovanni
-        - giovanni
-      reasoning: "don (a title, or just the name Don, a bloke called Don) + gio (sounds like 'jee-oh', a shortened version of a fancy Italian name) + vann (sounds like 'van', a vehicle, or a fella called Vann) + ee (a small vowel sound at the end tying it together) = Don Jee-oh-van-ee = Don Giovanni"
-    - number: 2
-      initials: T
-      clue: "A woman called Toora has climbed up on top of something very tall in China and she's given everyone a very difficult puzzle. Nobody's been able to solve it yet. She's fine with that."
-      answer: Turandot
-      aliases:
-        - turandot
-      reasoning: "too (more than enough, or the number two said casually) + ran (moved quickly, legged it) + dot (a small mark, or a woman called Dot) = Too-ran-dot = Turandot"
-    - number: 3
-      initials: L
-      clue: "A fella called Low has walked into a pub and ordered something. He's very laid back about it. He's leaning on the bar. He's been in there a while. He's in no hurry."
-      answer: Lohengrin
-      aliases:
-        - lohengrin
-      reasoning: "low (not high, down near the ground, or someone speaking quietly) + en (a small joining sound, like 'un') + grin (a smile, someone looking smug or pleased) = Low-en-grin = Lohengrin"
+  - number: 1
+    initials: D G
+    clue: A bloke called Don has gone round to his mate Giovanni's house. Giovanni is not in. Nobody's seen Giovanni for a bit actually. There's been some trouble.
+    answer: Don Giovanni
+    aliases:
+    - don giovanni
+    - giovanni
+    reasoning: don (a title, or just the name Don, a bloke called Don) + gio (sounds like 'jee-oh', a shortened version of a fancy Italian name) + vann (sounds like 'van', a vehicle, or a fella called Vann) + ee (a small vowel sound at the end tying it together) = Don Jee-oh-van-ee = Don Giovanni
+  - number: 2
+    initials: T
+    clue: A woman called Toora has climbed up on top of something very tall in China and she's given everyone a very difficult puzzle. Nobody's been able to solve it yet. She's fine with that.
+    answer: Turandot
+    aliases:
+    - turandot
+    reasoning: too (more than enough, or the number two said casually) + ran (moved quickly, legged it) + dot (a small mark, or a woman called Dot) = Too-ran-dot = Turandot
+  - number: 3
+    initials: L
+    clue: A fella called Low has walked into a pub and ordered something. He's very laid back about it. He's leaning on the bar. He's been in there a while. He's in no hurry.
+    answer: Lohengrin
+    aliases:
+    - lohengrin
+    reasoning: low (not high, down near the ground, or someone speaking quietly) + en (a small joining sound, like 'un') + grin (a smile, someone looking smug or pleased) = Low-en-grin = Lohengrin

@@ -1384,7 +1384,7 @@
     - archaeopteryx
     reasoning: ark (a biblical boat, like Noah's) + he (a bloke) + opt (to choose) + er (a hesitating sound) + icks (a sharp, unpleasant sound) = Ark-he-opt-er-icks = Archaeopteryx
 - id: philosophybusters-003
-  enabled: true
+  enabled: false
   title: Philosophybusters
   topic: famous philosophers from across history
   difficulty: hard
@@ -2156,7 +2156,7 @@
     - shove ha'penny
     reasoning: Shove (a gentle push along a flat surface) + Halfpenny (an old coin worth half a penny, a ha'penny) = Shove Halfpenny
 - id: operabusters-003
-  enabled: true
+  enabled: false
   title: Operabusters
   topic: Opera titles
   difficulty: hard
@@ -2189,7 +2189,7 @@
     - lohengrin
     reasoning: low (not high, down near the ground, or someone speaking quietly) + en (a small joining sound, like 'un') + grin (a smile, someone looking smug or pleased) = Low-en-grin = Lohengrin
 - id: winebusters-003
-  enabled: true
+  enabled: false
   title: Winebusters
   topic: wine varieties from around the world
   difficulty: hard
@@ -2254,7 +2254,7 @@
     - monkey-puzzle
     reasoning: monkey (a primate, not a gorilla) + puzzle (a jigsaw, something that stumps you) = monkey-puzzle = Monkey Puzzle
 - id: languagebusters-003
-  enabled: true
+  enabled: false
   title: Languagebusters
   topic: languages spoken around the world
   difficulty: hard
@@ -2419,7 +2419,7 @@
     - harvey wallbanger
     reasoning: Harvey (a man's name) + wall (a partition, a dividing structure) + bang (to hit something hard, a headbutt) + er (the suffix, someone who does the action) = Harvey-Wall-bang-er = Harvey Wallbanger.
 - id: extremeweatherbusters-001
-  enabled: true
+  enabled: false
   title: Extremeweatherbusters
   topic: extreme weather events
   difficulty: hard
@@ -3791,8 +3791,8 @@
     reasoning: didgeri-doo. Didgeri (sounds like 'Didgery', or Derek-y, a bloke called Derek) + doo (sounds like 'do', done a little job) = Didgeridoo. Derek + he + redo. Did + geri + do = Didgeridoo
   - number: 3
     initials: T
-    clue: Someone's been in the cupboard where you keep your stuff. Had a proper rummage in there. Found something odd.
-    answer: Theremin
+    clue: '[CLUE NEEDS REWRITE] Someone''s been in the cupboard where you keep your stuff. Had a proper rummage in there. Found something odd.'
+    answer: Guitar
     aliases:
     - theremin
     reasoning: there-min. There (in the cupboard, in there) + min (sounds like 'rummage' reduced, or 'min' as in minimum/small thing) = Theremin. 'In there' + 'min' = Theremin
@@ -3862,7 +3862,7 @@
     - pterodactyl
     reasoning: terror (terrified, a great fright) + oh (the sound) + dactyl (Greek for finger, like a digit doing backwards cycling) = Terror-oh-dactyl = Pterodactyl
 - id: philosophybusters-002
-  enabled: true
+  enabled: false
   title: Philosophybusters
   topic: famous philosophers from across history
   difficulty: hard
@@ -4635,7 +4635,7 @@
     - chequers
     reasoning: The (the) + Chequers (a checked black and white pattern, chequers, very common pub name) = The Chequers
 - id: operabusters-002
-  enabled: true
+  enabled: false
   title: Operabusters
   topic: Opera titles
   difficulty: hard
@@ -4669,7 +4669,7 @@
     - lucia
     reasoning: loo (a toilet, or the name Lu, someone called Lou going somewhere urgent) + chee (a sharp little sound, like teeth) + ah (a sigh of relief or despair) + dee (the letter D as a word, meaning of, sort of) + lammer (sounds like 'lam-uh', like a lamb having a go) + moor (a soggy bit of land in the north of England or Scotland, very bleak) = Loo-chee-ah dee Lam-uh-moor = Lucia di Lammermoor
 - id: winebusters-002
-  enabled: true
+  enabled: false
   title: Winebusters
   topic: wine varieties from around the world
   difficulty: hard
@@ -4735,7 +4735,7 @@
     - weeping-willow
     reasoning: weeping (having a good cry) + will (they're going to do it) + ow (an exclamation of resignation, sounds like 'oh') = weeping-will-ow = Weeping Willow
 - id: languagebusters-002
-  enabled: true
+  enabled: false
   title: Languagebusters
   topic: languages spoken around the world
   difficulty: hard
@@ -4904,7 +4904,7 @@
     - negroni
     reasoning: neg (to neg someone, give a backhanded compliment or put-down) + row (to argue, or to row a boat) + knee (the joint in the middle of your leg) = neg-row-nee = Negroni.
 - id: extremeweatherbusters-002
-  enabled: true
+  enabled: false
   title: Extremeweatherbusters
   topic: extreme weather events
   difficulty: hard
@@ -6245,7 +6245,7 @@
     - circumference
     reasoning: sir (a polite address, like knighthood) + come (to arrive) + fer (sounds like 'fur', an animal coat) + ence (sounds like 'ense' or 'ents') = Sir-come-fer-ence = Circumference
 - id: instrumentbusters-003
-  enabled: true
+  enabled: false
   title: Instrumentbusters
   topic: Musical instruments
   difficulty: hard
@@ -7114,7 +7114,7 @@
     - steeple
     reasoning: The (the) + Steeple (the pointy bit on top of a church, a steeple, very common pub name in English villages) = The Steeple
 - id: operabusters-001
-  enabled: true
+  enabled: false
   title: Operabusters
   topic: Opera titles
   difficulty: hard
@@ -7146,7 +7146,7 @@
     - aida
     reasoning: ay (a drawn-out sound of surprise, like when you spot something big) + ee-da (sounds like 'ida', a name, or someone realising something slowly) = Ay-ee-da = Aida
 - id: winebusters-001
-  enabled: true
+  enabled: false
   title: Winebusters
   topic: wine varieties from around the world
   difficulty: hard
@@ -7213,7 +7213,7 @@
     - horse-chestnut
     reasoning: horse (the large animal that pulls carriages) + chest (a barrel-shaped torso) + nut (gone crackers/crazy) = Horse Chestnut
 - id: languagebusters-001
-  enabled: true
+  enabled: false
   title: Languagebusters
   topic: languages spoken around the world
   difficulty: hard
@@ -7381,7 +7381,7 @@
     - aperol spritz
     reasoning: 'ape (a large primate, like a gorilla or chimp) + er (the sound) + ol (just the end sound) + spritz (a fizzing spray of liquid) = ape-er-ol-spritz = Aperol Spritz. Say it: ape-er-ol spritz.'
 - id: extremeweatherbusters-003
-  enabled: true
+  enabled: false
   title: Extremeweatherbusters
   topic: extreme weather events
   difficulty: hard

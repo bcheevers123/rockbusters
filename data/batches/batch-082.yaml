@@ -1,5 +1,5 @@
 - id: extremeweatherbusters-001
-  enabled: true
+  enabled: false
   title: Extremeweatherbusters
   topic: extreme weather events
   difficulty: hard
@@ -31,7 +31,7 @@
     - blizzard
     reasoning: bliz (sounds like 'bliss', pure happiness, just without the s) + ard (sounds like 'ard', northern English for hard, or just 'ard') = Bliz-ard = Blizzard
 - id: extremeweatherbusters-002
-  enabled: true
+  enabled: false
   title: Extremeweatherbusters
   topic: extreme weather events
   difficulty: hard
@@ -63,7 +63,7 @@
     - monsoon
     reasoning: mon (sounds like 'mon', as in Monday, or 'mon' meaning my in some languages) + soon (sounds like 'soon', not long now) = Mon-soon = Monsoon
 - id: extremeweatherbusters-003
-  enabled: true
+  enabled: false
   title: Extremeweatherbusters
   topic: extreme weather events
   difficulty: hard

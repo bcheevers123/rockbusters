@@ -33,7 +33,7 @@
     - rene descartes
     reasoning: day (sounds like 'de') + cart (a wheeled thing for carrying stuff) + s (plural, or just the end) = De-cart-s = Descartes
 - id: philosophybusters-002
-  enabled: true
+  enabled: false
   title: Philosophybusters
   topic: famous philosophers from across history
   difficulty: hard
@@ -66,7 +66,7 @@
     - soren kierkegaard
     reasoning: kirk (a church, or the name Kirk, very common in Scandinavia) + e (a small sound) + gaard (sounds like 'guard', someone watching the door) = Kirk-e-gaard = Kierkegaard
 - id: philosophybusters-003
-  enabled: true
+  enabled: false
   title: Philosophybusters
   topic: famous philosophers from across history
   difficulty: hard
