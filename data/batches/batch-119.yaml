@@ -1,0 +1,101 @@
+- id: tvbusters-050
+  enabled: true
+  title: TV Busters
+  topic: classic and modern TV shows
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: TV Busters. Three more to finish.
+  prize: Email in. Winner gets the last episode of something they've been watching for years.
+  clues:
+  - number: 1
+    initials: T I C
+    clue: A definite article, followed by two letters, followed by a group of people who fix computers.
+    answer: The IT Crowd
+    aliases:
+    - the it crowd
+    reasoning: The + IT (information technology) + Crowd = The IT Crowd
+  - number: 2
+    initials: B
+    clue: A colour — gone all historical and started satirising British history from the Middle Ages.
+    answer: Blackadder
+    aliases:
+    - blackadder
+    reasoning: Black (colour) + adder (a snake) = Blackadder
+  - number: 3
+    initials: D G
+    clue: A group of young women from Northern Ireland — very funny, very Catholic, very 1990s.
+    answer: Derry Girls
+    aliases:
+    - derry girls
+    reasoning: Derry (city in Northern Ireland) + Girls = Derry Girls
+- id: filmbusters-061
+  enabled: true
+  title: Film Busters
+  topic: classic and modern films
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Film Busters. Three more classic films. All phonetic.
+  prize: Email in. Winner gets a cinema ticket for a film that started ten minutes ago.
+  clues:
+  - number: 1
+    initials: T D K
+    clue: The saddest hour of the day — gone all heroic and started fighting a man in face paint.
+    answer: The Dark Knight
+    aliases:
+    - the dark knight
+    reasoning: The + Dark (absence of light) + Knight (armoured warrior) = The Dark Knight
+  - number: 2
+    initials: T G
+    clue: A bloke who is the best at everything and has an offer you can't refuse.
+    answer: The Godfather
+    aliases:
+    - the godfather
+    reasoning: The + Godfather (a religious sponsor/mafia boss) = The Godfather
+  - number: 3
+    initials: B T F
+    clue: Returning to a time before now — gone all DeLorean and started involving a scientist.
+    answer: Back to the Future
+    aliases:
+    - back to the future
+    reasoning: Back + to + the + Future (time ahead) = Back to the Future
+- id: filmbusters-062
+  enabled: true
+  title: Film Busters
+  topic: classic and modern films
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Film Busters. Three more films.
+  prize: Email in. Winner gets a DVD with a scratch right through act two.
+  clues:
+  - number: 1
+    initials: E T
+    clue: Someone who doesn't live on this planet — gone all friendly and started eating sweets with a boy.
+    answer: E.T.
+    aliases:
+    - e.t.
+    - et
+    - e t
+    reasoning: E.T. (extra-terrestrial) = E.T.
+  - number: 2
+    initials: R O T L A
+    clue: A search for a missing chest — involves a man with a whip and a terrible fear of snakes.
+    answer: Raiders of the Lost Ark
+    aliases:
+    - raiders of the lost ark
+    reasoning: Raiders + of + the + Lost + Ark = Raiders of the Lost Ark
+  - number: 3
+    initials: S W
+    clue: Conflict among the galaxies — a bloke in a black helmet keeps breathing heavily.
+    answer: Star Wars
+    aliases:
+    - star wars
+    reasoning: Star (a celestial body) + Wars (conflicts) = Star Wars

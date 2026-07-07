@@ -1,0 +1,102 @@
+- id: gamebusters-025
+  enabled: true
+  title: Game Busters
+  topic: video games and board games
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Game Busters. Three more. All from gaming.
+  prize: Email in. Winner gets a loot box with nothing good in it.
+  clues:
+  - number: 1
+    initials: C 2
+    clue: A futuristic city — gone all dystopian and a bloke with implants drives around causing chaos.
+    answer: Cyberpunk 2077
+    aliases:
+    - cyberpunk 2077
+    - cyberpunk
+    reasoning: Cyberpunk + 2077 = Cyberpunk 2077
+  - number: 2
+    initials: H
+    clue: A ring — gone all military and started involving a group of soldiers in green armour fighting aliens.
+    answer: Halo
+    aliases:
+    - halo
+    reasoning: Halo (a ring of light/the game) = Halo
+  - number: 3
+    initials: P
+    clue: An underground walkway for pipes — gone all physics-based and started involving a woman called Chell.
+    answer: Portal
+    aliases:
+    - portal
+    reasoning: Portal (a doorway/the game) = Portal
+- id: gamebusters-026
+  enabled: true
+  title: Game Busters
+  topic: video games and board games
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Game Busters. Three more games.
+  prize: Email in. Winner gets a gaming headset that only picks up everyone else's breathing.
+  clues:
+  - number: 1
+    initials: R E
+    clue: A large old house — gone all zombies and started requiring a lot of puzzle solving.
+    answer: Resident Evil
+    aliases:
+    - resident evil
+    reasoning: Resident (one who lives somewhere) + Evil = Resident Evil
+  - number: 2
+    initials: M K
+    clue: A combat game — very violent, everyone does finishing moves nobody should describe.
+    answer: Mortal Kombat
+    aliases:
+    - mortal kombat
+    reasoning: Mortal (capable of dying) + Kombat (combat) = Mortal Kombat
+  - number: 3
+    initials: S F
+    clue: A fighting competition on a road — people in colourful outfits punch each other.
+    answer: Street Fighter
+    aliases:
+    - street fighter
+    reasoning: Street + Fighter = Street Fighter
+- id: gamebusters-027
+  enabled: true
+  title: Game Busters
+  topic: video games and board games
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Game Busters. Three more. All gaming classics.
+  prize: Email in. Winner gets a game over screen and no continue option.
+  clues:
+  - number: 1
+    initials: S T H
+    clue: A blue creature — goes very fast, collects rings, hates a fat scientist with a moustache.
+    answer: Sonic the Hedgehog
+    aliases:
+    - sonic the hedgehog
+    - sonic
+    reasoning: Sonic (sound/fast) + the + Hedgehog = Sonic the Hedgehog
+  - number: 2
+    initials: T R
+    clue: A female archaeologist — goes into old tombs and shoots things.
+    answer: Tomb Raider
+    aliases:
+    - tomb raider
+    reasoning: Tomb (burial chamber) + Raider (one who raids) = Tomb Raider
+  - number: 3
+    initials: Z
+    clue: An elf in a green tunic — goes around collecting triangles and saving a princess.
+    answer: Zelda
+    aliases:
+    - zelda
+    - the legend of zelda
+    reasoning: Zelda (the princess/the game series) = Zelda

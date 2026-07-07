@@ -1,0 +1,97 @@
+- id: foodbusters-041
+  enabled: true
+  title: Food Busters
+  topic: world foods and dishes
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  intro: Food Busters. More dishes. All phonetic.
+  prize: Email in. Winner gets a takeaway that arrives an hour late.
+  clues:
+  - number: 1
+    initials: F E
+    clue: A full morning meal — bacon, eggs, sausage, beans, everything. Very British. Very excessive.
+    answer: Full English
+    aliases:
+    - full english
+    - full english breakfast
+    reasoning: Full (complete) + English (from England) = Full English
+  - number: 2
+    initials: T I T H
+    clue: Sausages — submerged inside a Yorkshire pudding. Very British.
+    answer: Toad in the Hole
+    aliases:
+    - toad in the hole
+    reasoning: Toad + in + the + Hole = Toad in the Hole
+  - number: 3
+    initials: B A M
+    clue: Cylindrical meat products — accompanied by mashed potato. Very comforting.
+    answer: Bangers and Mash
+    aliases:
+    - bangers and mash
+    reasoning: Bangers (sausages) + and + Mash (mashed potato) = Bangers and Mash
+- id: foodbusters-042
+  enabled: true
+  title: Food Busters
+  topic: world foods and dishes
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  intro: Food Busters. Three more dishes.
+  prize: Email in. Winner gets a restaurant booking for the wrong day.
+  clues:
+  - number: 1
+    initials: C P
+    clue: A pastry shaped like a half-moon — filled with meat and vegetables, from the far south-west of England.
+    answer: Cornish Pasty
+    aliases:
+    - cornish pasty
+    reasoning: Cornish (from Cornwall) + Pasty (a pastry parcel) = Cornish Pasty
+  - number: 2
+    initials: S E
+    clue: A hard-boiled egg — wrapped in sausage meat and breadcrumbs. Very picnic.
+    answer: Scotch Egg
+    aliases:
+    - scotch egg
+    reasoning: Scotch (Scottish/a method of preparation) + Egg = Scotch Egg
+  - number: 3
+    initials: H
+    clue: A Scottish dish — made from a sheep's insides, with oatmeal, onion. Served on Burns Night.
+    answer: Haggis
+    aliases:
+    - haggis
+    reasoning: Haggis (the Scottish dish) = Haggis
+- id: foodbusters-043
+  enabled: true
+  title: Food Busters
+  topic: world foods and dishes
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  intro: Food Busters. Three more foods.
+  prize: Email in. Winner gets a michelin star for something they made in a microwave.
+  clues:
+  - number: 1
+    initials: Y P
+    clue: A large puffed-up pudding — goes with a Sunday roast, falls flat if you open the oven too early.
+    answer: Yorkshire Pudding
+    aliases:
+    - yorkshire pudding
+    reasoning: Yorkshire (county in England) + Pudding = Yorkshire Pudding
+  - number: 2
+    initials: W R
+    clue: A toasted cheese dish — from Wales, nothing to do with actual rabbits.
+    answer: Welsh Rarebit
+    aliases:
+    - welsh rarebit
+    reasoning: Welsh (from Wales) + Rarebit (a corruption of rabbit) = Welsh Rarebit
+  - number: 3
+    initials: B P
+    clue: A dark processed pig product — eaten in full breakfast, some people refuse to discuss it.
+    answer: Black Pudding
+    aliases:
+    - black pudding
+    reasoning: Black + Pudding (a type of sausage) = Black Pudding

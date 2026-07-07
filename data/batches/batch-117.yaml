@@ -1,0 +1,100 @@
+- id: tvbusters-044
+  enabled: true
+  title: TV Busters
+  topic: classic and modern TV shows
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: TV Busters. Three more telly shows.
+  prize: Email in. Winner gets a cliffhanger that never gets resolved.
+  clues:
+  - number: 1
+    initials: T S
+    clue: A cartoon family — yellow, live in Springfield, dad works at a nuclear plant.
+    answer: The Simpsons
+    aliases:
+    - the simpsons
+    reasoning: The + Simpsons (the animated family) = The Simpsons
+  - number: 2
+    initials: S
+    clue: A very unusual town — alien things keep happening there and two brothers investigate.
+    answer: Spaced
+    aliases:
+    - spaced
+    reasoning: Spaced (the British sitcom) = Spaced
+  - number: 3
+    initials: T X F
+    clue: That definite article, followed by an unknown quantity, followed by a bunch of filed documents.
+    answer: The X Files
+    aliases:
+    - the x files
+    - the x-files
+    reasoning: The + X (unknown) + Files = The X Files
+- id: tvbusters-045
+  enabled: true
+  title: TV Busters
+  topic: classic and modern TV shows
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: TV Busters. Three more. All phonetic.
+  prize: Email in. Winner gets a cancelled show brought back nobody wanted.
+  clues:
+  - number: 1
+    initials: P B
+    clue: A place for keeping criminals — someone's trying to get out of it using a tattoo of the building.
+    answer: Prison Break
+    aliases:
+    - prison break
+    reasoning: Prison (where criminals are kept) + Break (to escape) = Prison Break
+  - number: 2
+    initials: B B
+    clue: A chemistry teacher who's not very well — decides to make drugs in a campervan.
+    answer: Breaking Bad
+    aliases:
+    - breaking bad
+    reasoning: Breaking (going wrong) + Bad = Breaking Bad
+  - number: 3
+    initials: G O T
+    clue: A competitive event for sitting on a metal chair with pointy bits.
+    answer: Game of Thrones
+    aliases:
+    - game of thrones
+    reasoning: Game + of + Thrones (seats of power) = Game of Thrones
+- id: tvbusters-046
+  enabled: true
+  title: TV Busters
+  topic: classic and modern TV shows
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: TV Busters. Three more.
+  prize: Email in. Winner gets a TV licence reminder and a biscuit.
+  clues:
+  - number: 1
+    initials: T S
+    clue: A group of criminals in Birmingham who keep birds' beaks sewn into their caps.
+    answer: The Sopranos
+    aliases:
+    - the sopranos
+    reasoning: The + Sopranos (a singing range/the mob family) = The Sopranos
+  - number: 2
+    initials: T W
+    clue: That thing you do when you connect cables together — gone all gritty and started documenting Baltimore crime.
+    answer: The Wire
+    aliases:
+    - the wire
+    reasoning: The + Wire (a cable/to wire a room) = The Wire
+  - number: 3
+    initials: S
+    clue: A set of steps going up — gone all supernatural and started showing what happens after someone dies.
+    answer: Succession
+    aliases:
+    - succession
+    reasoning: Succession (sequence/the HBO show) = Succession

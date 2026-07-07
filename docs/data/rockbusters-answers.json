@@ -25680,5 +25680,2714 @@
         "reasoning": "David (a name) + Dobrik (a name) = David Dobrik"
       }
     ]
+  },
+  {
+    "id": "superherobusters-004",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Spider-Man",
+        "aliases": [
+          "spider-man",
+          "spiderman"
+        ],
+        "reasoning": "Spider (arachnid) + Man = Spider-Man"
+      },
+      {
+        "number": 2,
+        "answer": "Batman",
+        "aliases": [
+          "batman"
+        ],
+        "reasoning": "Bat (flying mammal) + man = Batman"
+      },
+      {
+        "number": 3,
+        "answer": "Superman",
+        "aliases": [
+          "superman"
+        ],
+        "reasoning": "Super (exceptional) + man = Superman"
+      }
+    ]
+  },
+  {
+    "id": "superherobusters-005",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Iron Man",
+        "aliases": [
+          "iron man",
+          "ironman"
+        ],
+        "reasoning": "Iron (metal/pressing tool) + Man = Iron Man"
+      },
+      {
+        "number": 2,
+        "answer": "Wonder Woman",
+        "aliases": [
+          "wonder woman"
+        ],
+        "reasoning": "Wonder (amazement) + Woman = Wonder Woman"
+      },
+      {
+        "number": 3,
+        "answer": "Thor",
+        "aliases": [
+          "thor"
+        ],
+        "reasoning": "Thor (Norse god of thunder) = Thor"
+      }
+    ]
+  },
+  {
+    "id": "superherobusters-006",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Captain America",
+        "aliases": [
+          "captain america"
+        ],
+        "reasoning": "Captain (rank) + America = Captain America"
+      },
+      {
+        "number": 2,
+        "answer": "Black Panther",
+        "aliases": [
+          "black panther"
+        ],
+        "reasoning": "Black (the colour) + Panther (a big cat) = Black Panther"
+      },
+      {
+        "number": 3,
+        "answer": "Doctor Strange",
+        "aliases": [
+          "doctor strange"
+        ],
+        "reasoning": "Doctor (medical title) + Strange (odd/peculiar) = Doctor Strange"
+      }
+    ]
+  },
+  {
+    "id": "superherobusters-007",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "The Flash",
+        "aliases": [
+          "the flash",
+          "flash"
+        ],
+        "reasoning": "The + Flash (lightning bolt) = The Flash"
+      },
+      {
+        "number": 2,
+        "answer": "Ant-Man",
+        "aliases": [
+          "ant-man",
+          "antman"
+        ],
+        "reasoning": "Ant (an insect) + Man = Ant-Man"
+      },
+      {
+        "number": 3,
+        "answer": "Black Widow",
+        "aliases": [
+          "black widow"
+        ],
+        "reasoning": "Black (a colour) + Widow (a woman whose husband has died) = Black Widow"
+      }
+    ]
+  },
+  {
+    "id": "superherobusters-008",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Wolverine",
+        "aliases": [
+          "wolverine"
+        ],
+        "reasoning": "Wolverine (an animal with sharp claws/retractable metal claws) = Wolverine"
+      },
+      {
+        "number": 2,
+        "answer": "Deadpool",
+        "aliases": [
+          "deadpool"
+        ],
+        "reasoning": "Dead + Pool (a body of water) = Deadpool"
+      },
+      {
+        "number": 3,
+        "answer": "Scarlet Witch",
+        "aliases": [
+          "scarlet witch"
+        ],
+        "reasoning": "Scarlet (a red colour) + Witch = Scarlet Witch"
+      }
+    ]
+  },
+  {
+    "id": "superherobusters-009",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "The Joker",
+        "aliases": [
+          "the joker",
+          "joker"
+        ],
+        "reasoning": "The + Joker (a jester/the Batman villain) = The Joker"
+      },
+      {
+        "number": 2,
+        "answer": "Lex Luthor",
+        "aliases": [
+          "lex luthor"
+        ],
+        "reasoning": "Lex (a name) + Luthor (a name) = Lex Luthor"
+      },
+      {
+        "number": 3,
+        "answer": "Thanos",
+        "aliases": [
+          "thanos"
+        ],
+        "reasoning": "Thanos (Greek deity of death) = Thanos"
+      }
+    ]
+  },
+  {
+    "id": "superherobusters-010",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Harley Quinn",
+        "aliases": [
+          "harley quinn"
+        ],
+        "reasoning": "Harley (a name/motorbike) + Quinn (a name, like a jester/harlequin) = Harley Quinn"
+      },
+      {
+        "number": 2,
+        "answer": "Aquaman",
+        "aliases": [
+          "aquaman"
+        ],
+        "reasoning": "Aqua (water) + man = Aquaman"
+      },
+      {
+        "number": 3,
+        "answer": "Magneto",
+        "aliases": [
+          "magneto"
+        ],
+        "reasoning": "Magneto (magnetic force) = Magneto"
+      }
+    ]
+  },
+  {
+    "id": "superherobusters-011",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Catwoman",
+        "aliases": [
+          "catwoman"
+        ],
+        "reasoning": "Cat (feline) + woman = Catwoman"
+      },
+      {
+        "number": 2,
+        "answer": "Supergirl",
+        "aliases": [
+          "supergirl"
+        ],
+        "reasoning": "Super (exceptional) + girl = Supergirl"
+      },
+      {
+        "number": 3,
+        "answer": "Green Lantern",
+        "aliases": [
+          "green lantern"
+        ],
+        "reasoning": "Green (a colour) + Lantern (a lamp) = Green Lantern"
+      }
+    ]
+  },
+  {
+    "id": "superherobusters-012",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Professor X",
+        "aliases": [
+          "professor x"
+        ],
+        "reasoning": "Professor (academic title) + X = Professor X"
+      },
+      {
+        "number": 2,
+        "answer": "Cyclops",
+        "aliases": [
+          "cyclops"
+        ],
+        "reasoning": "Cyclops (one-eyed creature/X-Men character) = Cyclops"
+      },
+      {
+        "number": 3,
+        "answer": "Storm",
+        "aliases": [
+          "storm"
+        ],
+        "reasoning": "Storm (weather phenomenon) = Storm"
+      }
+    ]
+  },
+  {
+    "id": "superherobusters-013",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Robin",
+        "aliases": [
+          "robin"
+        ],
+        "reasoning": "Robin (a bird/Batman's sidekick) = Robin"
+      },
+      {
+        "number": 2,
+        "answer": "Nightwing",
+        "aliases": [
+          "nightwing"
+        ],
+        "reasoning": "Night + Wing (a bird's limb) = Nightwing"
+      },
+      {
+        "number": 3,
+        "answer": "Loki",
+        "aliases": [
+          "loki"
+        ],
+        "reasoning": "Loki (Norse trickster god) = Loki"
+      }
+    ]
+  },
+  {
+    "id": "superherobusters-014",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Batgirl",
+        "aliases": [
+          "batgirl"
+        ],
+        "reasoning": "Bat (flying mammal) + girl = Batgirl"
+      },
+      {
+        "number": 2,
+        "answer": "Vision",
+        "aliases": [
+          "vision"
+        ],
+        "reasoning": "Vision (sight/perception) = Vision"
+      },
+      {
+        "number": 3,
+        "answer": "Hulk",
+        "aliases": [
+          "hulk"
+        ],
+        "reasoning": "Hulk (a large mass/the Marvel character) = Hulk"
+      }
+    ]
+  },
+  {
+    "id": "superherobusters-015",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Hawkeye",
+        "aliases": [
+          "hawkeye"
+        ],
+        "reasoning": "Hawk (a bird of prey) + Eye = Hawkeye"
+      },
+      {
+        "number": 2,
+        "answer": "Penguin",
+        "aliases": [
+          "penguin"
+        ],
+        "reasoning": "Penguin (the bird/Batman villain) = Penguin"
+      },
+      {
+        "number": 3,
+        "answer": "Two-Face",
+        "aliases": [
+          "two-face",
+          "two face"
+        ],
+        "reasoning": "Two + Face = Two-Face"
+      }
+    ]
+  },
+  {
+    "id": "tvbusters-041",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Friends",
+        "aliases": [
+          "friends"
+        ],
+        "reasoning": "Friends (companions/the TV show) = Friends"
+      },
+      {
+        "number": 2,
+        "answer": "Seinfeld",
+        "aliases": [
+          "seinfeld"
+        ],
+        "reasoning": "Seinfeld (Jerry Seinfeld's surname) = Seinfeld"
+      },
+      {
+        "number": 3,
+        "answer": "The Office",
+        "aliases": [
+          "the office"
+        ],
+        "reasoning": "The + Office (workplace) = The Office"
+      }
+    ]
+  },
+  {
+    "id": "tvbusters-042",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Mad Men",
+        "aliases": [
+          "mad men"
+        ],
+        "reasoning": "Mad (crazy) + Men = Mad Men"
+      },
+      {
+        "number": 2,
+        "answer": "Curb Your Enthusiasm",
+        "aliases": [
+          "curb your enthusiasm"
+        ],
+        "reasoning": "Curb + Your + Enthusiasm = Curb Your Enthusiasm"
+      },
+      {
+        "number": 3,
+        "answer": "Shameless",
+        "aliases": [
+          "shameless"
+        ],
+        "reasoning": "Shameless (without shame) = Shameless"
+      }
+    ]
+  },
+  {
+    "id": "tvbusters-043",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Ozark",
+        "aliases": [
+          "ozark"
+        ],
+        "reasoning": "Ozark (the Ozarks region/the TV show) = Ozark"
+      },
+      {
+        "number": 2,
+        "answer": "The Boys",
+        "aliases": [
+          "the boys"
+        ],
+        "reasoning": "The + Boys = The Boys"
+      },
+      {
+        "number": 3,
+        "answer": "Suits",
+        "aliases": [
+          "suits"
+        ],
+        "reasoning": "Suits (formal outfits/the TV show) = Suits"
+      }
+    ]
+  },
+  {
+    "id": "tvbusters-044",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "The Simpsons",
+        "aliases": [
+          "the simpsons"
+        ],
+        "reasoning": "The + Simpsons (the animated family) = The Simpsons"
+      },
+      {
+        "number": 2,
+        "answer": "Spaced",
+        "aliases": [
+          "spaced"
+        ],
+        "reasoning": "Spaced (the British sitcom) = Spaced"
+      },
+      {
+        "number": 3,
+        "answer": "The X Files",
+        "aliases": [
+          "the x files",
+          "the x-files"
+        ],
+        "reasoning": "The + X (unknown) + Files = The X Files"
+      }
+    ]
+  },
+  {
+    "id": "tvbusters-045",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Prison Break",
+        "aliases": [
+          "prison break"
+        ],
+        "reasoning": "Prison (where criminals are kept) + Break (to escape) = Prison Break"
+      },
+      {
+        "number": 2,
+        "answer": "Breaking Bad",
+        "aliases": [
+          "breaking bad"
+        ],
+        "reasoning": "Breaking (going wrong) + Bad = Breaking Bad"
+      },
+      {
+        "number": 3,
+        "answer": "Game of Thrones",
+        "aliases": [
+          "game of thrones"
+        ],
+        "reasoning": "Game + of + Thrones (seats of power) = Game of Thrones"
+      }
+    ]
+  },
+  {
+    "id": "tvbusters-046",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "The Sopranos",
+        "aliases": [
+          "the sopranos"
+        ],
+        "reasoning": "The + Sopranos (a singing range/the mob family) = The Sopranos"
+      },
+      {
+        "number": 2,
+        "answer": "The Wire",
+        "aliases": [
+          "the wire"
+        ],
+        "reasoning": "The + Wire (a cable/to wire a room) = The Wire"
+      },
+      {
+        "number": 3,
+        "answer": "Succession",
+        "aliases": [
+          "succession"
+        ],
+        "reasoning": "Succession (sequence/the HBO show) = Succession"
+      }
+    ]
+  },
+  {
+    "id": "tvbusters-047",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Frasier",
+        "aliases": [
+          "frasier"
+        ],
+        "reasoning": "Frasier (the character's surname) = Frasier"
+      },
+      {
+        "number": 2,
+        "answer": "Sherlock",
+        "aliases": [
+          "sherlock"
+        ],
+        "reasoning": "Sherlock (Holmes) = Sherlock"
+      },
+      {
+        "number": 3,
+        "answer": "Doctor Who",
+        "aliases": [
+          "doctor who"
+        ],
+        "reasoning": "Doctor (medical title) + Who (questioning pronoun) = Doctor Who"
+      }
+    ]
+  },
+  {
+    "id": "tvbusters-048",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "The Crown",
+        "aliases": [
+          "the crown"
+        ],
+        "reasoning": "The + Crown (royal headwear) = The Crown"
+      },
+      {
+        "number": 2,
+        "answer": "Downton Abbey",
+        "aliases": [
+          "downton abbey"
+        ],
+        "reasoning": "Downton (a place name) + Abbey (a monastery/church) = Downton Abbey"
+      },
+      {
+        "number": 3,
+        "answer": "Line of Duty",
+        "aliases": [
+          "line of duty"
+        ],
+        "reasoning": "Line + of + Duty = Line of Duty"
+      }
+    ]
+  },
+  {
+    "id": "tvbusters-049",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Peaky Blinders",
+        "aliases": [
+          "peaky blinders"
+        ],
+        "reasoning": "Peaky (peaks/pointed) + Blinders (blinkers/the cap gang) = Peaky Blinders"
+      },
+      {
+        "number": 2,
+        "answer": "Fleabag",
+        "aliases": [
+          "fleabag"
+        ],
+        "reasoning": "Flea (a small jumping insect) + bag = Fleabag"
+      },
+      {
+        "number": 3,
+        "answer": "Gavin and Stacey",
+        "aliases": [
+          "gavin and stacey"
+        ],
+        "reasoning": "Gavin + and + Stacey = Gavin and Stacey"
+      }
+    ]
+  },
+  {
+    "id": "tvbusters-050",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "The IT Crowd",
+        "aliases": [
+          "the it crowd"
+        ],
+        "reasoning": "The + IT (information technology) + Crowd = The IT Crowd"
+      },
+      {
+        "number": 2,
+        "answer": "Blackadder",
+        "aliases": [
+          "blackadder"
+        ],
+        "reasoning": "Black (colour) + adder (a snake) = Blackadder"
+      },
+      {
+        "number": 3,
+        "answer": "Derry Girls",
+        "aliases": [
+          "derry girls"
+        ],
+        "reasoning": "Derry (city in Northern Ireland) + Girls = Derry Girls"
+      }
+    ]
+  },
+  {
+    "id": "filmbusters-061",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "The Dark Knight",
+        "aliases": [
+          "the dark knight"
+        ],
+        "reasoning": "The + Dark (absence of light) + Knight (armoured warrior) = The Dark Knight"
+      },
+      {
+        "number": 2,
+        "answer": "The Godfather",
+        "aliases": [
+          "the godfather"
+        ],
+        "reasoning": "The + Godfather (a religious sponsor/mafia boss) = The Godfather"
+      },
+      {
+        "number": 3,
+        "answer": "Back to the Future",
+        "aliases": [
+          "back to the future"
+        ],
+        "reasoning": "Back + to + the + Future (time ahead) = Back to the Future"
+      }
+    ]
+  },
+  {
+    "id": "filmbusters-062",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "E.T.",
+        "aliases": [
+          "e.t.",
+          "et",
+          "e t"
+        ],
+        "reasoning": "E.T. (extra-terrestrial) = E.T."
+      },
+      {
+        "number": 2,
+        "answer": "Raiders of the Lost Ark",
+        "aliases": [
+          "raiders of the lost ark"
+        ],
+        "reasoning": "Raiders + of + the + Lost + Ark = Raiders of the Lost Ark"
+      },
+      {
+        "number": 3,
+        "answer": "Star Wars",
+        "aliases": [
+          "star wars"
+        ],
+        "reasoning": "Star (a celestial body) + Wars (conflicts) = Star Wars"
+      }
+    ]
+  },
+  {
+    "id": "filmbusters-063",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Gladiator",
+        "aliases": [
+          "gladiator"
+        ],
+        "reasoning": "Gladiator (Roman fighter/arena combatant) = Gladiator"
+      },
+      {
+        "number": 2,
+        "answer": "The Matrix",
+        "aliases": [
+          "the matrix"
+        ],
+        "reasoning": "The + Matrix (a grid/virtual reality) = The Matrix"
+      },
+      {
+        "number": 3,
+        "answer": "Schindler's List",
+        "aliases": [
+          "schindler's list",
+          "schindlers list"
+        ],
+        "reasoning": "Schindler's + List (a written catalogue) = Schindler's List"
+      }
+    ]
+  },
+  {
+    "id": "filmbusters-064",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Casino Royale",
+        "aliases": [
+          "casino royale"
+        ],
+        "reasoning": "Casino (gambling house) + Royale (royal/the Bond film) = Casino Royale"
+      },
+      {
+        "number": 2,
+        "answer": "Skyfall",
+        "aliases": [
+          "skyfall"
+        ],
+        "reasoning": "Sky (overhead space) + Fall (to drop) = Skyfall"
+      },
+      {
+        "number": 3,
+        "answer": "Blade Runner",
+        "aliases": [
+          "blade runner"
+        ],
+        "reasoning": "Blade (a sharp edge) + Runner (one who runs) = Blade Runner"
+      }
+    ]
+  },
+  {
+    "id": "filmbusters-065",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Troy",
+        "aliases": [
+          "troy"
+        ],
+        "reasoning": "Troy (ancient city/Brad Pitt film) = Troy"
+      },
+      {
+        "number": 2,
+        "answer": "300",
+        "aliases": [
+          "300",
+          "three hundred"
+        ],
+        "reasoning": "300 (Spartans at Thermopylae) = 300"
+      },
+      {
+        "number": 3,
+        "answer": "Nightmare Before Christmas",
+        "aliases": [
+          "nightmare before christmas",
+          "the nightmare before christmas"
+        ],
+        "reasoning": "Nightmare + Before + Christmas = Nightmare Before Christmas"
+      }
+    ]
+  },
+  {
+    "id": "filmbusters-066",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "The Lion King",
+        "aliases": [
+          "the lion king"
+        ],
+        "reasoning": "The + Lion (large feline) + King (ruler) = The Lion King"
+      },
+      {
+        "number": 2,
+        "answer": "Encanto",
+        "aliases": [
+          "encanto"
+        ],
+        "reasoning": "Encanto (Spanish for enchanted/the Disney film) = Encanto"
+      },
+      {
+        "number": 3,
+        "answer": "Inside Out",
+        "aliases": [
+          "inside out"
+        ],
+        "reasoning": "Inside + Out = Inside Out"
+      }
+    ]
+  },
+  {
+    "id": "filmbusters-067",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "The Good the Bad and the Ugly",
+        "aliases": [
+          "the good the bad and the ugly"
+        ],
+        "reasoning": "The + Good + the + Bad + and + the + Ugly = The Good the Bad and the Ugly"
+      },
+      {
+        "number": 2,
+        "answer": "Speed",
+        "aliases": [
+          "speed"
+        ],
+        "reasoning": "Speed (fast movement/the film) = Speed"
+      },
+      {
+        "number": 3,
+        "answer": "Avengers",
+        "aliases": [
+          "avengers",
+          "avengers endgame",
+          "avengers infinity war"
+        ],
+        "reasoning": "Avengers (those who avenge) = Avengers"
+      }
+    ]
+  },
+  {
+    "id": "filmbusters-068",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Wonka",
+        "aliases": [
+          "wonka"
+        ],
+        "reasoning": "Wonka (Willy Wonka) = Wonka"
+      },
+      {
+        "number": 2,
+        "answer": "Ratatouille",
+        "aliases": [
+          "ratatouille"
+        ],
+        "reasoning": "Ratatouille (a French vegetable dish/the film) = Ratatouille"
+      },
+      {
+        "number": 3,
+        "answer": "Paddington",
+        "aliases": [
+          "paddington",
+          "paddington 2"
+        ],
+        "reasoning": "Paddington (the bear/the London station) = Paddington"
+      }
+    ]
+  },
+  {
+    "id": "filmbusters-069",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Forrest Gump",
+        "aliases": [
+          "forrest gump"
+        ],
+        "reasoning": "Forrest (a name/a forest) + Gump (a name) = Forrest Gump"
+      },
+      {
+        "number": 2,
+        "answer": "Ghostbusters",
+        "aliases": [
+          "ghostbusters"
+        ],
+        "reasoning": "Ghost (spirit) + busters (those who bust) = Ghostbusters"
+      },
+      {
+        "number": 3,
+        "answer": "Jurassic Park",
+        "aliases": [
+          "jurassic park"
+        ],
+        "reasoning": "Jurassic (prehistoric era) + Park (an outdoor recreation area) = Jurassic Park"
+      }
+    ]
+  },
+  {
+    "id": "filmbusters-070",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "The Full Monty",
+        "aliases": [
+          "the full monty"
+        ],
+        "reasoning": "The + Full + Monty (the whole thing/the Sheffield film) = The Full Monty"
+      },
+      {
+        "number": 2,
+        "answer": "Trainspotting",
+        "aliases": [
+          "trainspotting"
+        ],
+        "reasoning": "Train (railway vehicle) + spotting (observing) = Trainspotting"
+      },
+      {
+        "number": 3,
+        "answer": "Four Weddings and a Funeral",
+        "aliases": [
+          "four weddings and a funeral"
+        ],
+        "reasoning": "Four + Weddings + and + a + Funeral = Four Weddings and a Funeral"
+      }
+    ]
+  },
+  {
+    "id": "cartoonbusters-021",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Brave",
+        "aliases": [
+          "brave"
+        ],
+        "reasoning": "Brave (courageous/the Pixar film) = Brave"
+      },
+      {
+        "number": 2,
+        "answer": "Tangled",
+        "aliases": [
+          "tangled"
+        ],
+        "reasoning": "Tangled (knotted/the Rapunzel film) = Tangled"
+      },
+      {
+        "number": 3,
+        "answer": "Encanto",
+        "aliases": [
+          "encanto"
+        ],
+        "reasoning": "Encanto (enchanted in Spanish) = Encanto"
+      }
+    ]
+  },
+  {
+    "id": "cartoonbusters-022",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Onward",
+        "aliases": [
+          "onward"
+        ],
+        "reasoning": "Onward (moving forward/the Pixar film) = Onward"
+      },
+      {
+        "number": 2,
+        "answer": "Soul",
+        "aliases": [
+          "soul"
+        ],
+        "reasoning": "Soul (spirit/the Pixar film) = Soul"
+      },
+      {
+        "number": 3,
+        "answer": "Turning Red",
+        "aliases": [
+          "turning red"
+        ],
+        "reasoning": "Turning + Red = Turning Red"
+      }
+    ]
+  },
+  {
+    "id": "cartoonbusters-023",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Despicable Me",
+        "aliases": [
+          "despicable me"
+        ],
+        "reasoning": "Despicable (contemptible) + Me = Despicable Me"
+      },
+      {
+        "number": 2,
+        "answer": "Kung Fu Panda",
+        "aliases": [
+          "kung fu panda"
+        ],
+        "reasoning": "Kung Fu (martial art) + Panda (the bear) = Kung Fu Panda"
+      },
+      {
+        "number": 3,
+        "answer": "How to Train Your Dragon",
+        "aliases": [
+          "how to train your dragon"
+        ],
+        "reasoning": "How + to + Train + Your + Dragon = How to Train Your Dragon"
+      }
+    ]
+  },
+  {
+    "id": "cartoonbusters-024",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Toy Story 2",
+        "aliases": [
+          "toy story 2"
+        ],
+        "reasoning": "Toy + Story + 2 = Toy Story 2"
+      },
+      {
+        "number": 2,
+        "answer": "Toy Story 3",
+        "aliases": [
+          "toy story 3"
+        ],
+        "reasoning": "Toy + Story + 3 = Toy Story 3"
+      },
+      {
+        "number": 3,
+        "answer": "Madagascar",
+        "aliases": [
+          "madagascar"
+        ],
+        "reasoning": "Madagascar (the island/the animated film) = Madagascar"
+      }
+    ]
+  },
+  {
+    "id": "cartoonbusters-025",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Sing",
+        "aliases": [
+          "sing"
+        ],
+        "reasoning": "Sing (to make music vocally/the film) = Sing"
+      },
+      {
+        "number": 2,
+        "answer": "Trolls",
+        "aliases": [
+          "trolls"
+        ],
+        "reasoning": "Trolls (mythological creatures/the film) = Trolls"
+      },
+      {
+        "number": 3,
+        "answer": "Boss Baby",
+        "aliases": [
+          "boss baby"
+        ],
+        "reasoning": "Boss (in charge) + Baby (infant) = Boss Baby"
+      }
+    ]
+  },
+  {
+    "id": "cartoonbusters-026",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "The Incredibles 2",
+        "aliases": [
+          "the incredibles 2",
+          "incredibles 2"
+        ],
+        "reasoning": "The + Incredibles + 2 = The Incredibles 2"
+      },
+      {
+        "number": 2,
+        "answer": "Ratatouille",
+        "aliases": [
+          "ratatouille"
+        ],
+        "reasoning": "Ratatouille (French dish/Pixar film) = Ratatouille"
+      },
+      {
+        "number": 3,
+        "answer": "Lightyear",
+        "aliases": [
+          "lightyear"
+        ],
+        "reasoning": "Light (not heavy/the toy) + year = Lightyear"
+      }
+    ]
+  },
+  {
+    "id": "cartoonbusters-027",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "WALL-E",
+        "aliases": [
+          "wall-e",
+          "walle",
+          "wall e"
+        ],
+        "reasoning": "WALL-E (Waste Allocation Load Lifter Earth-class) = WALL-E"
+      },
+      {
+        "number": 2,
+        "answer": "Up",
+        "aliases": [
+          "up"
+        ],
+        "reasoning": "Up (a direction/the Pixar film) = Up"
+      },
+      {
+        "number": 3,
+        "answer": "Monsters Inc",
+        "aliases": [
+          "monsters inc",
+          "monsters inc."
+        ],
+        "reasoning": "Monsters (scary creatures) + Inc (incorporated) = Monsters Inc"
+      }
+    ]
+  },
+  {
+    "id": "cartoonbusters-028",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "The Little Mermaid",
+        "aliases": [
+          "the little mermaid"
+        ],
+        "reasoning": "The + Little + Mermaid (half-fish creature) = The Little Mermaid"
+      },
+      {
+        "number": 2,
+        "answer": "The Emperor's New Groove",
+        "aliases": [
+          "the emperor's new groove",
+          "the emperors new groove"
+        ],
+        "reasoning": "The + Emperor's + New + Groove = The Emperor's New Groove"
+      },
+      {
+        "number": 3,
+        "answer": "Lilo and Stitch",
+        "aliases": [
+          "lilo and stitch"
+        ],
+        "reasoning": "Lilo (an inflatable mattress/a name) + and + Stitch = Lilo and Stitch"
+      }
+    ]
+  },
+  {
+    "id": "cartoonbusters-029",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Hercules",
+        "aliases": [
+          "hercules"
+        ],
+        "reasoning": "Hercules (the Greek hero) = Hercules"
+      },
+      {
+        "number": 2,
+        "answer": "Mulan",
+        "aliases": [
+          "mulan"
+        ],
+        "reasoning": "Mulan (the Chinese heroine) = Mulan"
+      },
+      {
+        "number": 3,
+        "answer": "Tarzan",
+        "aliases": [
+          "tarzan"
+        ],
+        "reasoning": "Tarzan (the jungle man) = Tarzan"
+      }
+    ]
+  },
+  {
+    "id": "cartoonbusters-030",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Moana",
+        "aliases": [
+          "moana"
+        ],
+        "reasoning": "Moana (the Polynesian heroine) = Moana"
+      },
+      {
+        "number": 2,
+        "answer": "Pinocchio",
+        "aliases": [
+          "pinocchio"
+        ],
+        "reasoning": "Pinocchio (the puppet/the Disney film) = Pinocchio"
+      },
+      {
+        "number": 3,
+        "answer": "Beauty and the Beast",
+        "aliases": [
+          "beauty and the beast"
+        ],
+        "reasoning": "Beauty + and + the + Beast = Beauty and the Beast"
+      }
+    ]
+  },
+  {
+    "id": "historybusters-021",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Nelson Mandela",
+        "aliases": [
+          "nelson mandela"
+        ],
+        "reasoning": "Nelson (a name) + Mandela (a name) = Nelson Mandela"
+      },
+      {
+        "number": 2,
+        "answer": "Abraham Lincoln",
+        "aliases": [
+          "abraham lincoln"
+        ],
+        "reasoning": "Abraham (a name) + Lincoln (a city/a car) = Abraham Lincoln"
+      },
+      {
+        "number": 3,
+        "answer": "George Washington",
+        "aliases": [
+          "george washington"
+        ],
+        "reasoning": "George (a name) + Washington (a place/a name) = George Washington"
+      }
+    ]
+  },
+  {
+    "id": "historybusters-022",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Queen Victoria",
+        "aliases": [
+          "queen victoria"
+        ],
+        "reasoning": "Queen (female ruler) + Victoria (a name) = Queen Victoria"
+      },
+      {
+        "number": 2,
+        "answer": "Florence Nightingale",
+        "aliases": [
+          "florence nightingale"
+        ],
+        "reasoning": "Florence (a city/a name) + Nightingale (a bird that sings at night) = Florence Nightingale"
+      },
+      {
+        "number": 3,
+        "answer": "Charles Dickens",
+        "aliases": [
+          "charles dickens"
+        ],
+        "reasoning": "Charles (a name) + Dickens (a name) = Charles Dickens"
+      }
+    ]
+  },
+  {
+    "id": "historybusters-023",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Marco Polo",
+        "aliases": [
+          "marco polo"
+        ],
+        "reasoning": "Marco (a name) + Polo (a sport/a name) = Marco Polo"
+      },
+      {
+        "number": 2,
+        "answer": "Leonardo da Vinci",
+        "aliases": [
+          "leonardo da vinci"
+        ],
+        "reasoning": "Leonardo (a name) + da + Vinci (from Vinci) = Leonardo da Vinci"
+      },
+      {
+        "number": 3,
+        "answer": "Galileo Galilei",
+        "aliases": [
+          "galileo galilei",
+          "galileo"
+        ],
+        "reasoning": "Galileo + Galilei = Galileo Galilei"
+      }
+    ]
+  },
+  {
+    "id": "historybusters-024",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Julius Caesar",
+        "aliases": [
+          "julius caesar"
+        ],
+        "reasoning": "Julius (a name) + Caesar (a name/Roman emperor) = Julius Caesar"
+      },
+      {
+        "number": 2,
+        "answer": "Cleopatra",
+        "aliases": [
+          "cleopatra"
+        ],
+        "reasoning": "Cleopatra (the Egyptian queen) = Cleopatra"
+      },
+      {
+        "number": 3,
+        "answer": "Attila the Hun",
+        "aliases": [
+          "attila the hun"
+        ],
+        "reasoning": "Attila (a name) + the + Hun (a nomadic people) = Attila the Hun"
+      }
+    ]
+  },
+  {
+    "id": "historybusters-025",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Napoleon Bonaparte",
+        "aliases": [
+          "napoleon bonaparte"
+        ],
+        "reasoning": "Napoleon (a name) + Bonaparte (a name) = Napoleon Bonaparte"
+      },
+      {
+        "number": 2,
+        "answer": "Genghis Khan",
+        "aliases": [
+          "genghis khan"
+        ],
+        "reasoning": "Genghis (a name) + Khan (a title/leader) = Genghis Khan"
+      },
+      {
+        "number": 3,
+        "answer": "Alexander the Great",
+        "aliases": [
+          "alexander the great"
+        ],
+        "reasoning": "Alexander + the + Great = Alexander the Great"
+      }
+    ]
+  },
+  {
+    "id": "historybusters-026",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Henry VIII",
+        "aliases": [
+          "henry viii",
+          "henry the eighth"
+        ],
+        "reasoning": "Henry (a name) + VIII (the eighth) = Henry VIII"
+      },
+      {
+        "number": 2,
+        "answer": "Elizabeth I",
+        "aliases": [
+          "elizabeth i",
+          "elizabeth the first"
+        ],
+        "reasoning": "Elizabeth (a name) + I (the first) = Elizabeth I"
+      },
+      {
+        "number": 3,
+        "answer": "William the Conqueror",
+        "aliases": [
+          "william the conqueror"
+        ],
+        "reasoning": "William + the + Conqueror = William the Conqueror"
+      }
+    ]
+  },
+  {
+    "id": "historybusters-027",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Christopher Columbus",
+        "aliases": [
+          "christopher columbus"
+        ],
+        "reasoning": "Christopher (a name) + Columbus (a name/a city) = Christopher Columbus"
+      },
+      {
+        "number": 2,
+        "answer": "Oliver Cromwell",
+        "aliases": [
+          "oliver cromwell"
+        ],
+        "reasoning": "Oliver (a name) + Cromwell (a name) = Oliver Cromwell"
+      },
+      {
+        "number": 3,
+        "answer": "Mary Queen of Scots",
+        "aliases": [
+          "mary queen of scots"
+        ],
+        "reasoning": "Mary + Queen + of + Scots = Mary Queen of Scots"
+      }
+    ]
+  },
+  {
+    "id": "historybusters-028",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Joseph Stalin",
+        "aliases": [
+          "joseph stalin"
+        ],
+        "reasoning": "Joseph (a name) + Stalin (steel in Russian) = Joseph Stalin"
+      },
+      {
+        "number": 2,
+        "answer": "Adolf Hitler",
+        "aliases": [
+          "adolf hitler"
+        ],
+        "reasoning": "Adolf (a name) + Hitler (a name) = Adolf Hitler"
+      },
+      {
+        "number": 3,
+        "answer": "Albert Einstein",
+        "aliases": [
+          "albert einstein"
+        ],
+        "reasoning": "Albert (a name) + Einstein (a name) = Albert Einstein"
+      }
+    ]
+  },
+  {
+    "id": "historybusters-029",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Richard the Lionheart",
+        "aliases": [
+          "richard the lionheart"
+        ],
+        "reasoning": "Richard + the + Lionheart (brave as a lion) = Richard the Lionheart"
+      },
+      {
+        "number": 2,
+        "answer": "Isaac Newton",
+        "aliases": [
+          "isaac newton"
+        ],
+        "reasoning": "Isaac (a name) + Newton (a name/unit of force) = Isaac Newton"
+      },
+      {
+        "number": 3,
+        "answer": "Charles Darwin",
+        "aliases": [
+          "charles darwin"
+        ],
+        "reasoning": "Charles (a name) + Darwin (a name/city in Australia) = Charles Darwin"
+      }
+    ]
+  },
+  {
+    "id": "historybusters-030",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Winston Churchill",
+        "aliases": [
+          "winston churchill"
+        ],
+        "reasoning": "Winston (a name) + Churchill (church + hill) = Winston Churchill"
+      },
+      {
+        "number": 2,
+        "answer": "Galileo Galilei",
+        "aliases": [
+          "galileo galilei",
+          "galileo"
+        ],
+        "reasoning": "Galileo + Galilei = Galileo Galilei"
+      },
+      {
+        "number": 3,
+        "answer": "Attila the Hun",
+        "aliases": [
+          "attila the hun"
+        ],
+        "reasoning": "Attila + the + Hun = Attila the Hun"
+      }
+    ]
+  },
+  {
+    "id": "holidaybusters-021",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Santorini",
+        "aliases": [
+          "santorini"
+        ],
+        "reasoning": "Santorini (Greek island) = Santorini"
+      },
+      {
+        "number": 2,
+        "answer": "Maldives",
+        "aliases": [
+          "maldives",
+          "the maldives"
+        ],
+        "reasoning": "Maldives (the island nation) = Maldives"
+      },
+      {
+        "number": 3,
+        "answer": "Cancun",
+        "aliases": [
+          "cancun"
+        ],
+        "reasoning": "Cancun (Mexican resort city) = Cancun"
+      }
+    ]
+  },
+  {
+    "id": "holidaybusters-022",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Phuket",
+        "aliases": [
+          "phuket"
+        ],
+        "reasoning": "Phuket (Thai island) = Phuket"
+      },
+      {
+        "number": 2,
+        "answer": "Mykonos",
+        "aliases": [
+          "mykonos"
+        ],
+        "reasoning": "Mykonos (Greek island) = Mykonos"
+      },
+      {
+        "number": 3,
+        "answer": "Bora Bora",
+        "aliases": [
+          "bora bora"
+        ],
+        "reasoning": "Bora + Bora = Bora Bora"
+      }
+    ]
+  },
+  {
+    "id": "holidaybusters-023",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Cornwall",
+        "aliases": [
+          "cornwall"
+        ],
+        "reasoning": "Cornwall (the UK county) = Cornwall"
+      },
+      {
+        "number": 2,
+        "answer": "Lake District",
+        "aliases": [
+          "lake district",
+          "the lake district"
+        ],
+        "reasoning": "Lake + District = Lake District"
+      },
+      {
+        "number": 3,
+        "answer": "Scottish Highlands",
+        "aliases": [
+          "scottish highlands",
+          "the highlands"
+        ],
+        "reasoning": "Scottish + Highlands = Scottish Highlands"
+      }
+    ]
+  },
+  {
+    "id": "holidaybusters-024",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Devon",
+        "aliases": [
+          "devon"
+        ],
+        "reasoning": "Devon (the UK county) = Devon"
+      },
+      {
+        "number": 2,
+        "answer": "Dorset",
+        "aliases": [
+          "dorset"
+        ],
+        "reasoning": "Dorset (the UK county) = Dorset"
+      },
+      {
+        "number": 3,
+        "answer": "New Forest",
+        "aliases": [
+          "new forest",
+          "the new forest"
+        ],
+        "reasoning": "New + Forest = New Forest"
+      }
+    ]
+  },
+  {
+    "id": "holidaybusters-025",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Peru",
+        "aliases": [
+          "peru"
+        ],
+        "reasoning": "Peru (South American country) = Peru"
+      },
+      {
+        "number": 2,
+        "answer": "Costa Rica",
+        "aliases": [
+          "costa rica"
+        ],
+        "reasoning": "Costa (coast in Spanish) + Rica (rich) = Costa Rica"
+      },
+      {
+        "number": 3,
+        "answer": "Thailand",
+        "aliases": [
+          "thailand"
+        ],
+        "reasoning": "Thailand (the country) = Thailand"
+      }
+    ]
+  },
+  {
+    "id": "holidaybusters-026",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Norfolk",
+        "aliases": [
+          "norfolk"
+        ],
+        "reasoning": "Norfolk (the UK county) = Norfolk"
+      },
+      {
+        "number": 2,
+        "answer": "Peak District",
+        "aliases": [
+          "peak district",
+          "the peak district"
+        ],
+        "reasoning": "Peak + District = Peak District"
+      },
+      {
+        "number": 3,
+        "answer": "Yorkshire",
+        "aliases": [
+          "yorkshire"
+        ],
+        "reasoning": "Yorkshire (the UK county) = Yorkshire"
+      }
+    ]
+  },
+  {
+    "id": "holidaybusters-027",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Dubrovnik",
+        "aliases": [
+          "dubrovnik"
+        ],
+        "reasoning": "Dubrovnik (Croatian city) = Dubrovnik"
+      },
+      {
+        "number": 2,
+        "answer": "Porto",
+        "aliases": [
+          "porto"
+        ],
+        "reasoning": "Porto (Portuguese city) = Porto"
+      },
+      {
+        "number": 3,
+        "answer": "Positano",
+        "aliases": [
+          "positano"
+        ],
+        "reasoning": "Positano (Italian coastal town) = Positano"
+      }
+    ]
+  },
+  {
+    "id": "holidaybusters-028",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Bali",
+        "aliases": [
+          "bali"
+        ],
+        "reasoning": "Bali (Indonesian island) = Bali"
+      },
+      {
+        "number": 2,
+        "answer": "Jamaica",
+        "aliases": [
+          "jamaica"
+        ],
+        "reasoning": "Jamaica (Caribbean island) = Jamaica"
+      },
+      {
+        "number": 3,
+        "answer": "Barbados",
+        "aliases": [
+          "barbados"
+        ],
+        "reasoning": "Barbados (Caribbean island) = Barbados"
+      }
+    ]
+  },
+  {
+    "id": "holidaybusters-029",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Crete",
+        "aliases": [
+          "crete"
+        ],
+        "reasoning": "Crete (Greek island) = Crete"
+      },
+      {
+        "number": 2,
+        "answer": "Cyprus",
+        "aliases": [
+          "cyprus"
+        ],
+        "reasoning": "Cyprus (Mediterranean island) = Cyprus"
+      },
+      {
+        "number": 3,
+        "answer": "Malta",
+        "aliases": [
+          "malta"
+        ],
+        "reasoning": "Malta (the island nation) = Malta"
+      }
+    ]
+  },
+  {
+    "id": "holidaybusters-030",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Ibiza",
+        "aliases": [
+          "ibiza"
+        ],
+        "reasoning": "Ibiza (Spanish party island) = Ibiza"
+      },
+      {
+        "number": 2,
+        "answer": "Tenerife",
+        "aliases": [
+          "tenerife"
+        ],
+        "reasoning": "Tenerife (Canary Island) = Tenerife"
+      },
+      {
+        "number": 3,
+        "answer": "Gran Canaria",
+        "aliases": [
+          "gran canaria"
+        ],
+        "reasoning": "Gran (great in Spanish) + Canaria (from Canaries) = Gran Canaria"
+      }
+    ]
+  },
+  {
+    "id": "gamebusters-021",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "The Last of Us",
+        "aliases": [
+          "the last of us"
+        ],
+        "reasoning": "The + Last + of + Us = The Last of Us"
+      },
+      {
+        "number": 2,
+        "answer": "God of War",
+        "aliases": [
+          "god of war"
+        ],
+        "reasoning": "God (a deity) + of + War (conflict) = God of War"
+      },
+      {
+        "number": 3,
+        "answer": "Red Dead Redemption",
+        "aliases": [
+          "red dead redemption"
+        ],
+        "reasoning": "Red + Dead + Redemption = Red Dead Redemption"
+      }
+    ]
+  },
+  {
+    "id": "gamebusters-022",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Assassin's Creed",
+        "aliases": [
+          "assassin's creed",
+          "assassins creed"
+        ],
+        "reasoning": "Assassin's (belonging to an assassin) + Creed (a set of beliefs) = Assassin's Creed"
+      },
+      {
+        "number": 2,
+        "answer": "The Sims",
+        "aliases": [
+          "the sims"
+        ],
+        "reasoning": "The + Sims (simulations/the game) = The Sims"
+      },
+      {
+        "number": 3,
+        "answer": "Candy Crush",
+        "aliases": [
+          "candy crush"
+        ],
+        "reasoning": "Candy (sweets) + Crush (to crush/match) = Candy Crush"
+      }
+    ]
+  },
+  {
+    "id": "gamebusters-023",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Angry Birds",
+        "aliases": [
+          "angry birds"
+        ],
+        "reasoning": "Angry (cross/annoyed) + Birds = Angry Birds"
+      },
+      {
+        "number": 2,
+        "answer": "Among Us",
+        "aliases": [
+          "among us"
+        ],
+        "reasoning": "Among (in the middle of) + Us = Among Us"
+      },
+      {
+        "number": 3,
+        "answer": "Overwatch",
+        "aliases": [
+          "overwatch"
+        ],
+        "reasoning": "Overwatch (to watch over/the game) = Overwatch"
+      }
+    ]
+  },
+  {
+    "id": "gamebusters-024",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Wordle",
+        "aliases": [
+          "wordle"
+        ],
+        "reasoning": "Wordle (word + -le suffix, the daily word game) = Wordle"
+      },
+      {
+        "number": 2,
+        "answer": "Roblox",
+        "aliases": [
+          "roblox"
+        ],
+        "reasoning": "Roblox (Rob + blocks/the game) = Roblox"
+      },
+      {
+        "number": 3,
+        "answer": "League of Legends",
+        "aliases": [
+          "league of legends"
+        ],
+        "reasoning": "League + of + Legends = League of Legends"
+      }
+    ]
+  },
+  {
+    "id": "gamebusters-025",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Cyberpunk 2077",
+        "aliases": [
+          "cyberpunk 2077",
+          "cyberpunk"
+        ],
+        "reasoning": "Cyberpunk + 2077 = Cyberpunk 2077"
+      },
+      {
+        "number": 2,
+        "answer": "Halo",
+        "aliases": [
+          "halo"
+        ],
+        "reasoning": "Halo (a ring of light/the game) = Halo"
+      },
+      {
+        "number": 3,
+        "answer": "Portal",
+        "aliases": [
+          "portal"
+        ],
+        "reasoning": "Portal (a doorway/the game) = Portal"
+      }
+    ]
+  },
+  {
+    "id": "gamebusters-026",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Resident Evil",
+        "aliases": [
+          "resident evil"
+        ],
+        "reasoning": "Resident (one who lives somewhere) + Evil = Resident Evil"
+      },
+      {
+        "number": 2,
+        "answer": "Mortal Kombat",
+        "aliases": [
+          "mortal kombat"
+        ],
+        "reasoning": "Mortal (capable of dying) + Kombat (combat) = Mortal Kombat"
+      },
+      {
+        "number": 3,
+        "answer": "Street Fighter",
+        "aliases": [
+          "street fighter"
+        ],
+        "reasoning": "Street + Fighter = Street Fighter"
+      }
+    ]
+  },
+  {
+    "id": "gamebusters-027",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Sonic the Hedgehog",
+        "aliases": [
+          "sonic the hedgehog",
+          "sonic"
+        ],
+        "reasoning": "Sonic (sound/fast) + the + Hedgehog = Sonic the Hedgehog"
+      },
+      {
+        "number": 2,
+        "answer": "Tomb Raider",
+        "aliases": [
+          "tomb raider"
+        ],
+        "reasoning": "Tomb (burial chamber) + Raider (one who raids) = Tomb Raider"
+      },
+      {
+        "number": 3,
+        "answer": "Zelda",
+        "aliases": [
+          "zelda",
+          "the legend of zelda"
+        ],
+        "reasoning": "Zelda (the princess/the game series) = Zelda"
+      }
+    ]
+  },
+  {
+    "id": "gamebusters-028",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Monopoly",
+        "aliases": [
+          "monopoly"
+        ],
+        "reasoning": "Monopoly (exclusive control/the board game) = Monopoly"
+      },
+      {
+        "number": 2,
+        "answer": "Scrabble",
+        "aliases": [
+          "scrabble"
+        ],
+        "reasoning": "Scrabble (to scramble/the word game) = Scrabble"
+      },
+      {
+        "number": 3,
+        "answer": "Trivial Pursuit",
+        "aliases": [
+          "trivial pursuit"
+        ],
+        "reasoning": "Trivial (insignificant) + Pursuit (a chase) = Trivial Pursuit"
+      }
+    ]
+  },
+  {
+    "id": "gamebusters-029",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Fortnite",
+        "aliases": [
+          "fortnite"
+        ],
+        "reasoning": "Fortnite (two weeks/the game) = Fortnite"
+      },
+      {
+        "number": 2,
+        "answer": "Minecraft",
+        "aliases": [
+          "minecraft"
+        ],
+        "reasoning": "Mine (to dig) + craft (to make) = Minecraft"
+      },
+      {
+        "number": 3,
+        "answer": "Grand Theft Auto",
+        "aliases": [
+          "grand theft auto",
+          "gta"
+        ],
+        "reasoning": "Grand (large/serious) + Theft + Auto = Grand Theft Auto"
+      }
+    ]
+  },
+  {
+    "id": "gamebusters-030",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Donkey Kong",
+        "aliases": [
+          "donkey kong"
+        ],
+        "reasoning": "Donkey (a stubborn animal) + Kong (a large ape) = Donkey Kong"
+      },
+      {
+        "number": 2,
+        "answer": "Pac-Man",
+        "aliases": [
+          "pac-man",
+          "pacman"
+        ],
+        "reasoning": "Pac (from 'paku-paku', Japanese for chomping) + Man = Pac-Man"
+      },
+      {
+        "number": 3,
+        "answer": "Call of Duty",
+        "aliases": [
+          "call of duty"
+        ],
+        "reasoning": "Call + of + Duty (obligation) = Call of Duty"
+      }
+    ]
+  },
+  {
+    "id": "foodbusters-041",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Full English",
+        "aliases": [
+          "full english",
+          "full english breakfast"
+        ],
+        "reasoning": "Full (complete) + English (from England) = Full English"
+      },
+      {
+        "number": 2,
+        "answer": "Toad in the Hole",
+        "aliases": [
+          "toad in the hole"
+        ],
+        "reasoning": "Toad + in + the + Hole = Toad in the Hole"
+      },
+      {
+        "number": 3,
+        "answer": "Bangers and Mash",
+        "aliases": [
+          "bangers and mash"
+        ],
+        "reasoning": "Bangers (sausages) + and + Mash (mashed potato) = Bangers and Mash"
+      }
+    ]
+  },
+  {
+    "id": "foodbusters-042",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Cornish Pasty",
+        "aliases": [
+          "cornish pasty"
+        ],
+        "reasoning": "Cornish (from Cornwall) + Pasty (a pastry parcel) = Cornish Pasty"
+      },
+      {
+        "number": 2,
+        "answer": "Scotch Egg",
+        "aliases": [
+          "scotch egg"
+        ],
+        "reasoning": "Scotch (Scottish/a method of preparation) + Egg = Scotch Egg"
+      },
+      {
+        "number": 3,
+        "answer": "Haggis",
+        "aliases": [
+          "haggis"
+        ],
+        "reasoning": "Haggis (the Scottish dish) = Haggis"
+      }
+    ]
+  },
+  {
+    "id": "foodbusters-043",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Yorkshire Pudding",
+        "aliases": [
+          "yorkshire pudding"
+        ],
+        "reasoning": "Yorkshire (county in England) + Pudding = Yorkshire Pudding"
+      },
+      {
+        "number": 2,
+        "answer": "Welsh Rarebit",
+        "aliases": [
+          "welsh rarebit"
+        ],
+        "reasoning": "Welsh (from Wales) + Rarebit (a corruption of rabbit) = Welsh Rarebit"
+      },
+      {
+        "number": 3,
+        "answer": "Black Pudding",
+        "aliases": [
+          "black pudding"
+        ],
+        "reasoning": "Black + Pudding (a type of sausage) = Black Pudding"
+      }
+    ]
+  },
+  {
+    "id": "foodbusters-044",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Gyoza",
+        "aliases": [
+          "gyoza"
+        ],
+        "reasoning": "Gyoza (Japanese dumplings) = Gyoza"
+      },
+      {
+        "number": 2,
+        "answer": "Baklava",
+        "aliases": [
+          "baklava"
+        ],
+        "reasoning": "Baklava (Middle Eastern pastry) = Baklava"
+      },
+      {
+        "number": 3,
+        "answer": "Spring Roll",
+        "aliases": [
+          "spring roll"
+        ],
+        "reasoning": "Spring + Roll (a type of food) = Spring Roll"
+      }
+    ]
+  },
+  {
+    "id": "foodbusters-045",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Samosa",
+        "aliases": [
+          "samosa"
+        ],
+        "reasoning": "Samosa (the Indian snack) = Samosa"
+      },
+      {
+        "number": 2,
+        "answer": "Pakora",
+        "aliases": [
+          "pakora"
+        ],
+        "reasoning": "Pakora (the Indian snack) = Pakora"
+      },
+      {
+        "number": 3,
+        "answer": "Dumplings",
+        "aliases": [
+          "dumplings",
+          "dumpling"
+        ],
+        "reasoning": "Dumplings (filled dough parcels) = Dumplings"
+      }
+    ]
+  },
+  {
+    "id": "foodbusters-046",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Sushi",
+        "aliases": [
+          "sushi"
+        ],
+        "reasoning": "Sushi (Japanese rice and fish dish) = Sushi"
+      },
+      {
+        "number": 2,
+        "answer": "Ramen",
+        "aliases": [
+          "ramen"
+        ],
+        "reasoning": "Ramen (Japanese noodle soup) = Ramen"
+      },
+      {
+        "number": 3,
+        "answer": "Pad Thai",
+        "aliases": [
+          "pad thai"
+        ],
+        "reasoning": "Pad (Thai for stir-fried) + Thai = Pad Thai"
+      }
+    ]
+  },
+  {
+    "id": "foodbusters-047",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Nachos",
+        "aliases": [
+          "nachos"
+        ],
+        "reasoning": "Nachos (the Mexican snack) = Nachos"
+      },
+      {
+        "number": 2,
+        "answer": "Enchilada",
+        "aliases": [
+          "enchilada"
+        ],
+        "reasoning": "Enchilada (the Mexican dish) = Enchilada"
+      },
+      {
+        "number": 3,
+        "answer": "Burrito",
+        "aliases": [
+          "burrito"
+        ],
+        "reasoning": "Burrito (the Mexican wrap) = Burrito"
+      }
+    ]
+  },
+  {
+    "id": "foodbusters-048",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Paella",
+        "aliases": [
+          "paella"
+        ],
+        "reasoning": "Paella (the Spanish rice dish) = Paella"
+      },
+      {
+        "number": 2,
+        "answer": "Moussaka",
+        "aliases": [
+          "moussaka"
+        ],
+        "reasoning": "Moussaka (the Greek dish) = Moussaka"
+      },
+      {
+        "number": 3,
+        "answer": "Goulash",
+        "aliases": [
+          "goulash"
+        ],
+        "reasoning": "Goulash (the Hungarian stew) = Goulash"
+      }
+    ]
+  },
+  {
+    "id": "foodbusters-049",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Treacle Tart",
+        "aliases": [
+          "treacle tart"
+        ],
+        "reasoning": "Treacle (dark syrup) + Tart (a pastry) = Treacle Tart"
+      },
+      {
+        "number": 2,
+        "answer": "Sticky Toffee Pudding",
+        "aliases": [
+          "sticky toffee pudding"
+        ],
+        "reasoning": "Sticky + Toffee + Pudding = Sticky Toffee Pudding"
+      },
+      {
+        "number": 3,
+        "answer": "Rice Pudding",
+        "aliases": [
+          "rice pudding"
+        ],
+        "reasoning": "Rice + Pudding = Rice Pudding"
+      }
+    ]
+  },
+  {
+    "id": "foodbusters-050",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Chicken Tikka Masala",
+        "aliases": [
+          "chicken tikka masala"
+        ],
+        "reasoning": "Chicken + Tikka + Masala = Chicken Tikka Masala"
+      },
+      {
+        "number": 2,
+        "answer": "Fish and Chips",
+        "aliases": [
+          "fish and chips"
+        ],
+        "reasoning": "Fish + and + Chips = Fish and Chips"
+      },
+      {
+        "number": 3,
+        "answer": "Eton Mess",
+        "aliases": [
+          "eton mess"
+        ],
+        "reasoning": "Eton (the school) + Mess (disorder) = Eton Mess"
+      }
+    ]
+  },
+  {
+    "id": "disasterbusters-004",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Hurricane Katrina",
+        "aliases": [
+          "hurricane katrina"
+        ],
+        "reasoning": "Hurricane (a tropical storm) + Katrina (a name) = Hurricane Katrina"
+      },
+      {
+        "number": 2,
+        "answer": "Great Fire of London",
+        "aliases": [
+          "great fire of london"
+        ],
+        "reasoning": "Great + Fire + of + London = Great Fire of London"
+      },
+      {
+        "number": 3,
+        "answer": "San Francisco Earthquake",
+        "aliases": [
+          "san francisco earthquake"
+        ],
+        "reasoning": "San Francisco + Earthquake = San Francisco Earthquake"
+      }
+    ]
+  },
+  {
+    "id": "disasterbusters-005",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Bhopal Disaster",
+        "aliases": [
+          "bhopal disaster",
+          "bhopal"
+        ],
+        "reasoning": "Bhopal (the Indian city) + Disaster = Bhopal Disaster"
+      },
+      {
+        "number": 2,
+        "answer": "Black Death",
+        "aliases": [
+          "black death"
+        ],
+        "reasoning": "Black + Death = Black Death"
+      },
+      {
+        "number": 3,
+        "answer": "Mount St Helens",
+        "aliases": [
+          "mount st helens",
+          "mount saint helens"
+        ],
+        "reasoning": "Mount + St + Helens = Mount St Helens"
+      }
+    ]
+  },
+  {
+    "id": "musicalbusters-004",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Oliver!",
+        "aliases": [
+          "oliver",
+          "oliver!"
+        ],
+        "reasoning": "Oliver! (the Dickens musical) = Oliver!"
+      },
+      {
+        "number": 2,
+        "answer": "The Phantom of the Opera",
+        "aliases": [
+          "the phantom of the opera",
+          "phantom of the opera"
+        ],
+        "reasoning": "The + Phantom + of + the + Opera = The Phantom of the Opera"
+      },
+      {
+        "number": 3,
+        "answer": "West Side Story",
+        "aliases": [
+          "west side story"
+        ],
+        "reasoning": "West + Side + Story = West Side Story"
+      }
+    ]
+  },
+  {
+    "id": "musicalbusters-005",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Grease",
+        "aliases": [
+          "grease"
+        ],
+        "reasoning": "Grease (the musical) = Grease"
+      },
+      {
+        "number": 2,
+        "answer": "Chicago",
+        "aliases": [
+          "chicago"
+        ],
+        "reasoning": "Chicago (the city/the musical) = Chicago"
+      },
+      {
+        "number": 3,
+        "answer": "Rent",
+        "aliases": [
+          "rent"
+        ],
+        "reasoning": "Rent (the musical) = Rent"
+      }
+    ]
+  },
+  {
+    "id": "wonderbusters-004",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Eiffel Tower",
+        "aliases": [
+          "eiffel tower"
+        ],
+        "reasoning": "Eiffel (the engineer) + Tower = Eiffel Tower"
+      },
+      {
+        "number": 2,
+        "answer": "Sydney Opera House",
+        "aliases": [
+          "sydney opera house"
+        ],
+        "reasoning": "Sydney + Opera + House = Sydney Opera House"
+      },
+      {
+        "number": 3,
+        "answer": "Grand Canyon",
+        "aliases": [
+          "grand canyon"
+        ],
+        "reasoning": "Grand (large/impressive) + Canyon = Grand Canyon"
+      }
+    ]
+  },
+  {
+    "id": "wonderbusters-005",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Golden Gate Bridge",
+        "aliases": [
+          "golden gate bridge"
+        ],
+        "reasoning": "Golden + Gate + Bridge = Golden Gate Bridge"
+      },
+      {
+        "number": 2,
+        "answer": "Niagara Falls",
+        "aliases": [
+          "niagara falls"
+        ],
+        "reasoning": "Niagara (a name) + Falls (water dropping) = Niagara Falls"
+      },
+      {
+        "number": 3,
+        "answer": "Burj Khalifa",
+        "aliases": [
+          "burj khalifa"
+        ],
+        "reasoning": "Burj (tower in Arabic) + Khalifa (a name) = Burj Khalifa"
+      }
+    ]
+  },
+  {
+    "id": "pokemonbusters-004",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Charmander",
+        "aliases": [
+          "charmander"
+        ],
+        "reasoning": "Char (to burn) + mander = Charmander"
+      },
+      {
+        "number": 2,
+        "answer": "Eevee",
+        "aliases": [
+          "eevee"
+        ],
+        "reasoning": "Eevee (the evolution Pokemon) = Eevee"
+      },
+      {
+        "number": 3,
+        "answer": "Jigglypuff",
+        "aliases": [
+          "jigglypuff"
+        ],
+        "reasoning": "Jiggly (wobbly) + puff (a ball of air) = Jigglypuff"
+      }
+    ]
+  },
+  {
+    "id": "pokemonbusters-005",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Psyduck",
+        "aliases": [
+          "psyduck"
+        ],
+        "reasoning": "Psy (psychic) + duck = Psyduck"
+      },
+      {
+        "number": 2,
+        "answer": "Magikarp",
+        "aliases": [
+          "magikarp"
+        ],
+        "reasoning": "Magic + carp (a fish) = Magikarp"
+      },
+      {
+        "number": 3,
+        "answer": "Dragonite",
+        "aliases": [
+          "dragonite"
+        ],
+        "reasoning": "Dragon + ite = Dragonite"
+      }
+    ]
+  },
+  {
+    "id": "comediansbusters-021",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Alan Carr",
+        "aliases": [
+          "alan carr"
+        ],
+        "reasoning": "Alan (a name) + Carr (a name) = Alan Carr"
+      },
+      {
+        "number": 2,
+        "answer": "Frank Skinner",
+        "aliases": [
+          "frank skinner"
+        ],
+        "reasoning": "Frank (a name) + Skinner (a name) = Frank Skinner"
+      },
+      {
+        "number": 3,
+        "answer": "Jo Brand",
+        "aliases": [
+          "jo brand"
+        ],
+        "reasoning": "Jo (a name) + Brand (a trademark) = Jo Brand"
+      }
+    ]
+  },
+  {
+    "id": "comediansbusters-022",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Billy Connolly",
+        "aliases": [
+          "billy connolly"
+        ],
+        "reasoning": "Billy (a name) + Connolly (a name) = Billy Connolly"
+      },
+      {
+        "number": 2,
+        "answer": "Kevin Bridges",
+        "aliases": [
+          "kevin bridges"
+        ],
+        "reasoning": "Kevin (a name) + Bridges (a name) = Kevin Bridges"
+      },
+      {
+        "number": 3,
+        "answer": "Russell Howard",
+        "aliases": [
+          "russell howard"
+        ],
+        "reasoning": "Russell (a name) + Howard (a name) = Russell Howard"
+      }
+    ]
   }
 ]

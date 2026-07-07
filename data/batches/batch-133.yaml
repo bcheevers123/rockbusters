@@ -1,0 +1,100 @@
+- id: gamebusters-022
+  enabled: true
+  title: Game Busters
+  topic: video games and board games
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Game Busters. Three more games.
+  prize: Email in. Winner gets a game that requires a day-one patch.
+  clues:
+  - number: 1
+    initials: A C
+    clue: A murderer in a hood — going around historical cities stabbing people from great heights.
+    answer: Assassin's Creed
+    aliases:
+    - assassin's creed
+    - assassins creed
+    reasoning: Assassin's (belonging to an assassin) + Creed (a set of beliefs) = Assassin's Creed
+  - number: 2
+    initials: T S
+    clue: A pretend family — you build their house, control their lives, and generally make things miserable.
+    answer: The Sims
+    aliases:
+    - the sims
+    reasoning: The + Sims (simulations/the game) = The Sims
+  - number: 3
+    initials: C C
+    clue: Sweets on a phone screen — matching coloured things in rows. Extremely addictive.
+    answer: Candy Crush
+    aliases:
+    - candy crush
+    reasoning: Candy (sweets) + Crush (to crush/match) = Candy Crush
+- id: gamebusters-023
+  enabled: true
+  title: Game Busters
+  topic: video games and board games
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Game Busters. Three more. All phonetic.
+  prize: Email in. Winner gets a gaming chair that broke after two weeks.
+  clues:
+  - number: 1
+    initials: A B
+    clue: Creatures that are very cross — being launched from a catapult at structures built by pigs.
+    answer: Angry Birds
+    aliases:
+    - angry birds
+    reasoning: Angry (cross/annoyed) + Birds = Angry Birds
+  - number: 2
+    initials: A U
+    clue: People on a spaceship — some of them are saboteurs, you have to figure out which ones.
+    answer: Among Us
+    aliases:
+    - among us
+    reasoning: Among (in the middle of) + Us = Among Us
+  - number: 3
+    initials: O
+    clue: A shooting game — go around with other players, build things, and fall out of a flying bus.
+    answer: Overwatch
+    aliases:
+    - overwatch
+    reasoning: Overwatch (to watch over/the game) = Overwatch
+- id: gamebusters-024
+  enabled: true
+  title: Game Busters
+  topic: video games and board games
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Game Busters. Three more games.
+  prize: Email in. Winner gets a save file from level 47 of a game they've never played.
+  clues:
+  - number: 1
+    initials: W
+    clue: A five-letter word guessing game — everyone plays it at breakfast and argues about it.
+    answer: Wordle
+    aliases:
+    - wordle
+    reasoning: Wordle (word + -le suffix, the daily word game) = Wordle
+  - number: 2
+    initials: R
+    clue: A large platform used for creative construction — millions of people playing in a blocky world.
+    answer: Roblox
+    aliases:
+    - roblox
+    reasoning: Roblox (Rob + blocks/the game) = Roblox
+  - number: 3
+    initials: L O L
+    clue: A competitive online arena — five players fight five others with fictional characters.
+    answer: League of Legends
+    aliases:
+    - league of legends
+    reasoning: League + of + Legends = League of Legends

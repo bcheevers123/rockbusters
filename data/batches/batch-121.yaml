@@ -1,0 +1,102 @@
+- id: filmbusters-066
+  enabled: true
+  title: Film Busters
+  topic: classic and modern films
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Film Busters. Three more. All from the big screen.
+  prize: Email in. Winner gets a medium popcorn that costs as much as a mortgage payment.
+  clues:
+  - number: 1
+    initials: T L K
+    clue: A very important male lion — gone all musical and started worrying about his place in the food chain.
+    answer: The Lion King
+    aliases:
+    - the lion king
+    reasoning: The + Lion (large feline) + King (ruler) = The Lion King
+  - number: 2
+    initials: E
+    clue: A film about a strange creature being raised by a family — very tall, very kind, makes you cry.
+    answer: Encanto
+    aliases:
+    - encanto
+    reasoning: Encanto (Spanish for enchanted/the Disney film) = Encanto
+  - number: 3
+    initials: I O
+    clue: Something happening inside the skull — gone all colourful and started fighting about feelings.
+    answer: Inside Out
+    aliases:
+    - inside out
+    reasoning: Inside + Out = Inside Out
+- id: filmbusters-067
+  enabled: true
+  title: Film Busters
+  topic: classic and modern films
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Film Busters. Three more classics.
+  prize: Email in. Winner gets a free cinema hot dog they'll regret.
+  clues:
+  - number: 1
+    initials: T G B
+    clue: How good something is — gone all spaghetti western and started involving three armed men.
+    answer: The Good the Bad and the Ugly
+    aliases:
+    - the good the bad and the ugly
+    reasoning: The + Good + the + Bad + and + the + Ugly = The Good the Bad and the Ugly
+  - number: 2
+    initials: N T D
+    clue: A timetable for something that hasn't happened yet — gone all Keanu Reeves and started on a bus.
+    answer: Speed
+    aliases:
+    - speed
+    reasoning: Speed (fast movement/the film) = Speed
+  - number: 3
+    initials: A
+    clue: An extraterrestrial being — gone all purple and started collecting gems to wipe out half of everything.
+    answer: Avengers
+    aliases:
+    - avengers
+    - avengers endgame
+    - avengers infinity war
+    reasoning: Avengers (those who avenge) = Avengers
+- id: filmbusters-068
+  enabled: true
+  title: Film Busters
+  topic: classic and modern films
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Film Busters. Three more. All phonetic.
+  prize: Email in. Winner gets a limited edition blu-ray with no special features.
+  clues:
+  - number: 1
+    initials: S
+    clue: A bloke in a top hat who lives in a stripy tower and makes chocolate.
+    answer: Wonka
+    aliases:
+    - wonka
+    reasoning: Wonka (Willy Wonka) = Wonka
+  - number: 2
+    initials: R
+    clue: A rat — gone all French and started cooking in a five-star restaurant in Paris.
+    answer: Ratatouille
+    aliases:
+    - ratatouille
+    reasoning: Ratatouille (a French vegetable dish/the film) = Ratatouille
+  - number: 3
+    initials: B
+    clue: A large bear from Peru — gone all British and started making marmalade sandwiches.
+    answer: Paddington
+    aliases:
+    - paddington
+    - paddington 2
+    reasoning: Paddington (the bear/the London station) = Paddington

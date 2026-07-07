@@ -1,0 +1,100 @@
+- id: superherobusters-013
+  enabled: true
+  title: Superherobusters
+  topic: superheroes and comic book characters
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Superherobusters. Nearly at the end of the capes.
+  prize: Email in. Winner gets an arch-enemy they didn't ask for.
+  clues:
+  - number: 1
+    initials: R
+    clue: A male Robin — gone all tights-wearing and started helping a man in a bat costume.
+    answer: Robin
+    aliases:
+    - robin
+    reasoning: Robin (a bird/Batman's sidekick) = Robin
+  - number: 2
+    initials: N
+    clue: Something that happens at night — gone all gymnastics and started swinging between buildings.
+    answer: Nightwing
+    aliases:
+    - nightwing
+    reasoning: Night + Wing (a bird's limb) = Nightwing
+  - number: 3
+    initials: L
+    clue: A mischievous Norse god — gone all trickster and started causing problems for his brother.
+    answer: Loki
+    aliases:
+    - loki
+    reasoning: Loki (Norse trickster god) = Loki
+- id: superherobusters-014
+  enabled: true
+  title: Superherobusters
+  topic: superheroes and comic book characters
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Superherobusters. More heroes.
+  prize: Email in. Winner gets a sequel nobody expected.
+  clues:
+  - number: 1
+    initials: B G
+    clue: A female version of a nocturnal flying mammal — gone all heroic and started fighting in Gotham.
+    answer: Batgirl
+    aliases:
+    - batgirl
+    reasoning: Bat (flying mammal) + girl = Batgirl
+  - number: 2
+    initials: V
+    clue: A synthetic humanoid — gone all complicated feelings and started living in a suburb.
+    answer: Vision
+    aliases:
+    - vision
+    reasoning: Vision (sight/perception) = Vision
+  - number: 3
+    initials: H
+    clue: A big green bloke who's very angry — smashes things when he gets upset.
+    answer: Hulk
+    aliases:
+    - hulk
+    reasoning: Hulk (a large mass/the Marvel character) = Hulk
+- id: superherobusters-015
+  enabled: true
+  title: Superherobusters
+  topic: superheroes and comic book characters
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Superherobusters. Three more to finish off the set.
+  prize: Email in. Winner gets a radioactive bite and mild superpowers.
+  clues:
+  - number: 1
+    initials: H
+    clue: An arrow — gone all feathered and started firing other arrows with great precision.
+    answer: Hawkeye
+    aliases:
+    - hawkeye
+    reasoning: Hawk (a bird of prey) + Eye = Hawkeye
+  - number: 2
+    initials: P
+    clue: A bird with a large beak — gone all villainous and started waddling around Gotham.
+    answer: Penguin
+    aliases:
+    - penguin
+    reasoning: Penguin (the bird/Batman villain) = Penguin
+  - number: 3
+    initials: T F
+    clue: A double-sided coin — gone all split personality and started terrorising Gotham.
+    answer: Two-Face
+    aliases:
+    - two-face
+    - two face
+    reasoning: Two + Face = Two-Face

@@ -1,0 +1,99 @@
+- id: historybusters-030
+  enabled: true
+  title: History Busters
+  topic: famous historical figures
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: History Busters. Three final historical figures.
+  prize: Email in. Winner gets a history GCSE they didn't revise for.
+  clues:
+  - number: 1
+    initials: W C
+    clue: A statesman who gave speeches during the war — very good with words, very fond of cigars.
+    answer: Winston Churchill
+    aliases:
+    - winston churchill
+    reasoning: Winston (a name) + Churchill (church + hill) = Winston Churchill
+  - number: 2
+    initials: G G
+    clue: An Italian bloke — went all astronomy and looked at the sky until the church told him to stop.
+    answer: Galileo Galilei
+    aliases:
+    - galileo galilei
+    - galileo
+    reasoning: Galileo + Galilei = Galileo Galilei
+  - number: 3
+    initials: A T H
+    clue: A fierce horseman — went all nomadic and terrorised Europe until he ran out of places to conquer.
+    answer: Attila the Hun
+    aliases:
+    - attila the hun
+    reasoning: Attila + the + Hun = Attila the Hun
+- id: holidaybusters-021
+  enabled: true
+  title: Holiday Busters
+  topic: holiday destinations
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  intro: Holiday Busters. More destinations. All phonetic.
+  prize: Email in. Winner gets a suitcase with a broken wheel.
+  clues:
+  - number: 1
+    initials: S
+    clue: A group of Greek islands — very beautiful, very blue, very expensive since someone did a travel piece on them.
+    answer: Santorini
+    aliases:
+    - santorini
+    reasoning: Santorini (Greek island) = Santorini
+  - number: 2
+    initials: M
+    clue: A series of small sandy islands in the Indian Ocean — very turquoise, very expensive, very remote.
+    answer: Maldives
+    aliases:
+    - maldives
+    - the maldives
+    reasoning: Maldives (the island nation) = Maldives
+  - number: 3
+    initials: C
+    clue: A region of Mexico with very white beaches — popular with people who want to drink cocktails on sand.
+    answer: Cancun
+    aliases:
+    - cancun
+    reasoning: Cancun (Mexican resort city) = Cancun
+- id: holidaybusters-022
+  enabled: true
+  title: Holiday Busters
+  topic: holiday destinations
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  intro: Holiday Busters. Three more destinations.
+  prize: Email in. Winner gets a hotel room that smells of other people.
+  clues:
+  - number: 1
+    initials: P
+    clue: A Thai island — very popular, very busy, full of people who thought it would be quiet.
+    answer: Phuket
+    aliases:
+    - phuket
+    reasoning: Phuket (Thai island) = Phuket
+  - number: 2
+    initials: M
+    clue: A Greek island — very fashionable, very white, windmills everywhere.
+    answer: Mykonos
+    aliases:
+    - mykonos
+    reasoning: Mykonos (Greek island) = Mykonos
+  - number: 3
+    initials: B B
+    clue: A French Polynesian island — so beautiful it barely seems real. Very good for honeymoons.
+    answer: Bora Bora
+    aliases:
+    - bora bora
+    reasoning: Bora + Bora = Bora Bora

@@ -1,0 +1,103 @@
+- id: disasterbusters-005
+  enabled: true
+  title: Disaster Busters
+  topic: famous disasters and catastrophes
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Disaster Busters. Three final disasters.
+  prize: Email in. Winner gets a hard hat and a very concerned look.
+  clues:
+  - number: 1
+    initials: B D
+    clue: A chemical plant — leaked poison gas in India in 1984. One of the worst industrial accidents.
+    answer: Bhopal Disaster
+    aliases:
+    - bhopal disaster
+    - bhopal
+    reasoning: Bhopal (the Indian city) + Disaster = Bhopal Disaster
+  - number: 2
+    initials: B D
+    clue: A very dark Tuesday — the financial markets went all panicky in 1929 and everything went wrong.
+    answer: Black Death
+    aliases:
+    - black death
+    reasoning: Black + Death = Black Death
+  - number: 3
+    initials: M S H
+    clue: A volcano — erupted dramatically in Washington state in 1980. Blew its top off.
+    answer: Mount St Helens
+    aliases:
+    - mount st helens
+    - mount saint helens
+    reasoning: Mount + St + Helens = Mount St Helens
+- id: musicalbusters-004
+  enabled: true
+  title: Musical Busters
+  topic: famous stage musicals
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Musical Busters. More stage shows. All phonetic.
+  prize: Email in. Winner gets a seat in the gods with a restricted view.
+  clues:
+  - number: 1
+    initials: O
+    clue: A boy who asks for more — goes to London, falls in with criminals. Very catchy songs.
+    answer: Oliver!
+    aliases:
+    - oliver
+    - oliver!
+    reasoning: Oliver! (the Dickens musical) = Oliver!
+  - number: 2
+    initials: T P O T O
+    clue: A masked man who lives beneath an opera house — not very happy about it.
+    answer: The Phantom of the Opera
+    aliases:
+    - the phantom of the opera
+    - phantom of the opera
+    reasoning: The + Phantom + of + the + Opera = The Phantom of the Opera
+  - number: 3
+    initials: W S S
+    clue: Two rival gangs in New York — dancing and fighting in equal measure. Very dramatic.
+    answer: West Side Story
+    aliases:
+    - west side story
+    reasoning: West + Side + Story = West Side Story
+- id: musicalbusters-005
+  enabled: true
+  title: Musical Busters
+  topic: famous stage musicals
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Musical Busters. Three final shows. All phonetic.
+  prize: Email in. Winner gets a programme that costs twelve pounds and tells you nothing.
+  clues:
+  - number: 1
+    initials: G
+    clue: A very popular American school musical — leather jackets, fast cars, summer romance.
+    answer: Grease
+    aliases:
+    - grease
+    reasoning: Grease (the musical) = Grease
+  - number: 2
+    initials: C
+    clue: A jazz-themed show about murder in 1920s Chicago — all razzle dazzle.
+    answer: Chicago
+    aliases:
+    - chicago
+    reasoning: Chicago (the city/the musical) = Chicago
+  - number: 3
+    initials: R
+    clue: A show about bohemians in New York — living for today, singing about seasons.
+    answer: Rent
+    aliases:
+    - rent
+    reasoning: Rent (the musical) = Rent

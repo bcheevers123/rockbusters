@@ -1,0 +1,99 @@
+- id: tvbusters-041
+  enabled: true
+  title: TV Busters
+  topic: classic and modern TV shows
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: TV Busters. Three more shows. All phonetic.
+  prize: Email in. Winner gets a remote control with a sticky button.
+  clues:
+  - number: 1
+    initials: F
+    clue: A group of people who are very close — live near each other in New York and sit on a sofa.
+    answer: Friends
+    aliases:
+    - friends
+    reasoning: Friends (companions/the TV show) = Friends
+  - number: 2
+    initials: S
+    clue: A bloke called Jerry who finds everything in life mildly irritating — makes a show about it.
+    answer: Seinfeld
+    aliases:
+    - seinfeld
+    reasoning: Seinfeld (Jerry Seinfeld's surname) = Seinfeld
+  - number: 3
+    initials: T O
+    clue: A place where you do your paperwork — gone all awkward and started filming everyone.
+    answer: The Office
+    aliases:
+    - the office
+    reasoning: The + Office (workplace) = The Office
+- id: tvbusters-042
+  enabled: true
+  title: TV Busters
+  topic: classic and modern TV shows
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: TV Busters. Three more classics.
+  prize: Email in. Winner gets a boxset with a scratched disc four.
+  clues:
+  - number: 1
+    initials: M M
+    clue: A bloke in a suit — gone all advertising and started drinking at his desk in the 1960s.
+    answer: Mad Men
+    aliases:
+    - mad men
+    reasoning: Mad (crazy) + Men = Mad Men
+  - number: 2
+    initials: C Y E
+    clue: A bloke called Larry who is perpetually annoyed by the smallest things.
+    answer: Curb Your Enthusiasm
+    aliases:
+    - curb your enthusiasm
+    reasoning: Curb + Your + Enthusiasm = Curb Your Enthusiasm
+  - number: 3
+    initials: S
+    clue: A state of shame — gone all British and started depicting a Manchester family in crisis.
+    answer: Shameless
+    aliases:
+    - shameless
+    reasoning: Shameless (without shame) = Shameless
+- id: tvbusters-043
+  enabled: true
+  title: TV Busters
+  topic: classic and modern TV shows
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: TV Busters. Three more shows.
+  prize: Email in. Winner gets a spoiler from someone who's already seen it.
+  clues:
+  - number: 1
+    initials: O Z
+    clue: A wonderful place — gone all criminal and started showing what happens when drug money piles up.
+    answer: Ozark
+    aliases:
+    - ozark
+    reasoning: Ozark (the Ozarks region/the TV show) = Ozark
+  - number: 2
+    initials: T B B
+    clue: A group of young men — gone all chemistry teacher and started making methamphetamine.
+    answer: The Boys
+    aliases:
+    - the boys
+    reasoning: The + Boys = The Boys
+  - number: 3
+    initials: S
+    clue: A number of people dressed in matching green outfits playing brutal games for money.
+    answer: Suits
+    aliases:
+    - suits
+    reasoning: Suits (formal outfits/the TV show) = Suits

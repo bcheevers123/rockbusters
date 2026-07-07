@@ -1,0 +1,100 @@
+- id: foodbusters-044
+  enabled: true
+  title: Food Busters
+  topic: world foods and dishes
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Food Busters. Three more international dishes.
+  prize: Email in. Winner gets a trip to a restaurant that's stopped doing that dish.
+  clues:
+  - number: 1
+    initials: G
+    clue: Small Japanese parcels of filling — fried or steamed, always delicious.
+    answer: Gyoza
+    aliases:
+    - gyoza
+    reasoning: Gyoza (Japanese dumplings) = Gyoza
+  - number: 2
+    initials: B
+    clue: A Middle Eastern pastry — layers of filo, honey, and nuts. Very sweet, very sticky.
+    answer: Baklava
+    aliases:
+    - baklava
+    reasoning: Baklava (Middle Eastern pastry) = Baklava
+  - number: 3
+    initials: S R
+    clue: A bread roll — gone all Vietnamese and started containing pork, pickles, and coriander.
+    answer: Spring Roll
+    aliases:
+    - spring roll
+    reasoning: Spring + Roll (a type of food) = Spring Roll
+- id: foodbusters-045
+  enabled: true
+  title: Food Busters
+  topic: world foods and dishes
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Food Busters. Three more. All phonetic.
+  prize: Email in. Winner gets a portion of something they can't identify.
+  clues:
+  - number: 1
+    initials: S
+    clue: A small Indian triangle — filled with potato and peas, deep fried. Excellent.
+    answer: Samosa
+    aliases:
+    - samosa
+    reasoning: Samosa (the Indian snack) = Samosa
+  - number: 2
+    initials: P
+    clue: An Indian fritter — vegetables in batter, deep fried. Excellent with chutney.
+    answer: Pakora
+    aliases:
+    - pakora
+    reasoning: Pakora (the Indian snack) = Pakora
+  - number: 3
+    initials: D
+    clue: Small parcels of dough filled with things — Chinese, steamed or fried, eaten with chopsticks.
+    answer: Dumplings
+    aliases:
+    - dumplings
+    - dumpling
+    reasoning: Dumplings (filled dough parcels) = Dumplings
+- id: foodbusters-046
+  enabled: true
+  title: Food Busters
+  topic: world foods and dishes
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Food Busters. Three more dishes.
+  prize: Email in. Winner gets a food delivery with the wrong order.
+  clues:
+  - number: 1
+    initials: S B
+    clue: A Japanese dish — raw fish on rice, beautiful presentation, someone spent years training for this.
+    answer: Sushi
+    aliases:
+    - sushi
+    reasoning: Sushi (Japanese rice and fish dish) = Sushi
+  - number: 2
+    initials: R
+    clue: A Japanese noodle dish — in a very rich broth, lots of toppings, became very fashionable.
+    answer: Ramen
+    aliases:
+    - ramen
+    reasoning: Ramen (Japanese noodle soup) = Ramen
+  - number: 3
+    initials: P T
+    clue: A Thai noodle dish — stir fried, with peanuts, bean sprouts, and a lime wedge.
+    answer: Pad Thai
+    aliases:
+    - pad thai
+    reasoning: Pad (Thai for stir-fried) + Thai = Pad Thai

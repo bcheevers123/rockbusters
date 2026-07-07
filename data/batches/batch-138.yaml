@@ -1,0 +1,99 @@
+- id: foodbusters-047
+  enabled: true
+  title: Food Busters
+  topic: world foods and dishes
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Food Busters. Three more.
+  prize: Email in. Winner gets a cookbook they'll never open.
+  clues:
+  - number: 1
+    initials: N
+    clue: Tortilla chips with cheese and toppings — found at Mexican restaurants and the cinema.
+    answer: Nachos
+    aliases:
+    - nachos
+    reasoning: Nachos (the Mexican snack) = Nachos
+  - number: 2
+    initials: E
+    clue: A wrap — filled with spicy meat, rice and beans, Mexican in origin.
+    answer: Enchilada
+    aliases:
+    - enchilada
+    reasoning: Enchilada (the Mexican dish) = Enchilada
+  - number: 3
+    initials: B
+    clue: A large flour wrap — filled with everything, rolled up, eaten with hands.
+    answer: Burrito
+    aliases:
+    - burrito
+    reasoning: Burrito (the Mexican wrap) = Burrito
+- id: foodbusters-048
+  enabled: true
+  title: Food Busters
+  topic: world foods and dishes
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Food Busters. Three more dishes. All phonetic.
+  prize: Email in. Winner gets a portion of leftovers from the day before.
+  clues:
+  - number: 1
+    initials: P A
+    clue: A Spanish rice dish — cooked in a big flat pan with seafood or chicken, very yellow.
+    answer: Paella
+    aliases:
+    - paella
+    reasoning: Paella (the Spanish rice dish) = Paella
+  - number: 2
+    initials: M
+    clue: A Greek baked dish — layers of meat, aubergine, and a white sauce on top.
+    answer: Moussaka
+    aliases:
+    - moussaka
+    reasoning: Moussaka (the Greek dish) = Moussaka
+  - number: 3
+    initials: G
+    clue: A central European stew — beef, paprika, very hearty, from Hungary.
+    answer: Goulash
+    aliases:
+    - goulash
+    reasoning: Goulash (the Hungarian stew) = Goulash
+- id: foodbusters-049
+  enabled: true
+  title: Food Busters
+  topic: world foods and dishes
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Food Busters. Three more.
+  prize: Email in. Winner gets a meal deal that expired yesterday.
+  clues:
+  - number: 1
+    initials: T T
+    clue: A dark sticky sweet — baked in a pastry case, found in Victorian cookbooks.
+    answer: Treacle Tart
+    aliases:
+    - treacle tart
+    reasoning: Treacle (dark syrup) + Tart (a pastry) = Treacle Tart
+  - number: 2
+    initials: S T P
+    clue: A dark sticky sponge — with a toffee sauce poured over, very indulgent.
+    answer: Sticky Toffee Pudding
+    aliases:
+    - sticky toffee pudding
+    reasoning: Sticky + Toffee + Pudding = Sticky Toffee Pudding
+  - number: 3
+    initials: R P
+    clue: Grains cooked in milk — sweet, comforting, either loved or hated by people who had it at school.
+    answer: Rice Pudding
+    aliases:
+    - rice pudding
+    reasoning: Rice + Pudding = Rice Pudding

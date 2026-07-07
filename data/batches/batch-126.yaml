@@ -1,0 +1,99 @@
+- id: historybusters-021
+  enabled: true
+  title: History Busters
+  topic: famous historical figures
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: History Busters. More famous figures from history. All phonetic.
+  prize: Email in. Winner gets a Wikipedia page that needs citations.
+  clues:
+  - number: 1
+    initials: N M
+    clue: A bloke called Nelson — went to prison, came out, and changed an entire country for the better.
+    answer: Nelson Mandela
+    aliases:
+    - nelson mandela
+    reasoning: Nelson (a name) + Mandela (a name) = Nelson Mandela
+  - number: 2
+    initials: A L
+    clue: A very tall honest bloke from America — had a hat, a beard, and freed a lot of people.
+    answer: Abraham Lincoln
+    aliases:
+    - abraham lincoln
+    reasoning: Abraham (a name) + Lincoln (a city/a car) = Abraham Lincoln
+  - number: 3
+    initials: G W
+    clue: A bloke who chopped down a cherry tree — became the first president of a very large country.
+    answer: George Washington
+    aliases:
+    - george washington
+    reasoning: George (a name) + Washington (a place/a name) = George Washington
+- id: historybusters-022
+  enabled: true
+  title: History Busters
+  topic: famous historical figures
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+  - UK
+  intro: History Busters. Three more from the history books.
+  prize: Email in. Winner gets a dated encyclopaedia and a smug expression.
+  clues:
+  - number: 1
+    initials: Q V
+    clue: A female ruler — gone all diamond jubilee and started wearing black for forty years.
+    answer: Queen Victoria
+    aliases:
+    - queen victoria
+    reasoning: Queen (female ruler) + Victoria (a name) = Queen Victoria
+  - number: 2
+    initials: F N
+    clue: A lamp — gone all nursing and started improving hospital conditions during a war.
+    answer: Florence Nightingale
+    aliases:
+    - florence nightingale
+    reasoning: Florence (a city/a name) + Nightingale (a bird that sings at night) = Florence Nightingale
+  - number: 3
+    initials: C D
+    clue: A bloke who writes things down — gone all Victorian and started inventing street urchins.
+    answer: Charles Dickens
+    aliases:
+    - charles dickens
+    reasoning: Charles (a name) + Dickens (a name) = Charles Dickens
+- id: historybusters-023
+  enabled: true
+  title: History Busters
+  topic: famous historical figures
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: History Busters. Three more great figures.
+  prize: Email in. Winner gets a history lesson they didn't ask for.
+  clues:
+  - number: 1
+    initials: M P
+    clue: A Venetian traveller — went all the way to China and wrote a very long book about it.
+    answer: Marco Polo
+    aliases:
+    - marco polo
+    reasoning: Marco (a name) + Polo (a sport/a name) = Marco Polo
+  - number: 2
+    initials: L D V
+    clue: A bloke who painted a woman smiling mysteriously and also designed flying machines that didn't work.
+    answer: Leonardo da Vinci
+    aliases:
+    - leonardo da vinci
+    reasoning: Leonardo (a name) + da + Vinci (from Vinci) = Leonardo da Vinci
+  - number: 3
+    initials: G G
+    clue: A bloke who looked through a tube at the sky and got in trouble for saying the Earth goes round the Sun.
+    answer: Galileo Galilei
+    aliases:
+    - galileo galilei
+    - galileo
+    reasoning: Galileo + Galilei = Galileo Galilei

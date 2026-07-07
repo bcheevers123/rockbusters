@@ -1,0 +1,99 @@
+- id: foodbusters-050
+  enabled: true
+  title: Food Busters
+  topic: world foods and dishes
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Food Busters. Three final dishes.
+  prize: Email in. Winner gets a very small portion of something very expensive.
+  clues:
+  - number: 1
+    initials: C T M
+    clue: A British-Indian classic — chicken in a creamy tomato sauce. Apparently Britain's favourite dish.
+    answer: Chicken Tikka Masala
+    aliases:
+    - chicken tikka masala
+    reasoning: Chicken + Tikka + Masala = Chicken Tikka Masala
+  - number: 2
+    initials: F A C
+    clue: A deep fried fish — sitting next to some chips. British institution.
+    answer: Fish and Chips
+    aliases:
+    - fish and chips
+    reasoning: Fish + and + Chips = Fish and Chips
+  - number: 3
+    initials: E M
+    clue: A messy British dessert — smashed meringue with cream and fruit. Very polite chaos.
+    answer: Eton Mess
+    aliases:
+    - eton mess
+    reasoning: Eton (the school) + Mess (disorder) = Eton Mess
+- id: mythbusters-011
+  enabled: true
+  title: Myth Busters
+  topic: mythology and legends
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Myth Busters. More mythological figures. All phonetic.
+  prize: Email in. Winner gets a golden fleece that's actually polyester.
+  clues:
+  - number: 1
+    initials: A
+    clue: A Greek warrior with one weak spot — very good at fighting, terrible at keeping his heel out of trouble.
+    answer: Achilles
+    aliases:
+    - achilles
+    reasoning: Achilles (the Greek hero) = Achilles
+  - number: 2
+    initials: O
+    clue: A Greek wanderer — spent ten years trying to get home from a war. Very distracted.
+    answer: Odysseus
+    aliases:
+    - odysseus
+    reasoning: Odysseus (the Greek hero/Ulysses) = Odysseus
+  - number: 3
+    initials: J
+    clue: A Greek hero — went off on a boat with a crew to find a very shiny sheep.
+    answer: Jason
+    aliases:
+    - jason
+    reasoning: Jason (the Greek hero of the Argonauts) = Jason
+- id: mythbusters-012
+  enabled: true
+  title: Myth Busters
+  topic: mythology and legends
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Myth Busters. Three more legends.
+  prize: Email in. Winner gets a labyrinth with no map and no exit sign.
+  clues:
+  - number: 1
+    initials: P
+    clue: A woman — opened a box she was told not to open. Released all the world's troubles. Classic.
+    answer: Pandora
+    aliases:
+    - pandora
+    reasoning: Pandora (the Greek myth/Pandora's Box) = Pandora
+  - number: 2
+    initials: I
+    clue: A young man who flew on wings made of wax — went too high, came down very fast.
+    answer: Icarus
+    aliases:
+    - icarus
+    reasoning: Icarus (the Greek myth of flight) = Icarus
+  - number: 3
+    initials: N
+    clue: A very attractive young man — fell in love with his own reflection in a pond. Couldn't leave.
+    answer: Narcissus
+    aliases:
+    - narcissus
+    reasoning: Narcissus (the Greek myth/origin of narcissism) = Narcissus

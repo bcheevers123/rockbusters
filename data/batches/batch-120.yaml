@@ -1,0 +1,102 @@
+- id: filmbusters-063
+  enabled: true
+  title: Film Busters
+  topic: classic and modern films
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Film Busters. Three more classics.
+  prize: Email in. Winner gets a sequel that's worse than the original.
+  clues:
+  - number: 1
+    initials: G
+    clue: A man in ancient Rome — gone all fighting and started entertaining crowds in an arena.
+    answer: Gladiator
+    aliases:
+    - gladiator
+    reasoning: Gladiator (Roman fighter/arena combatant) = Gladiator
+  - number: 2
+    initials: T M
+    clue: A computer programme — gone all leather and started offering red or blue pills.
+    answer: The Matrix
+    aliases:
+    - the matrix
+    reasoning: The + Matrix (a grid/virtual reality) = The Matrix
+  - number: 3
+    initials: S L
+    clue: A list — gone all historical and started saving lives during the Second World War.
+    answer: Schindler's List
+    aliases:
+    - schindler's list
+    - schindlers list
+    reasoning: Schindler's + List (a written catalogue) = Schindler's List
+- id: filmbusters-064
+  enabled: true
+  title: Film Busters
+  topic: classic and modern films
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Film Busters. Three more. All phonetic.
+  prize: Email in. Winner gets a film poster that doesn't fit any standard frame.
+  clues:
+  - number: 1
+    initials: C R
+    clue: A gambling establishment — gone all James Bond and started featuring a very good card game.
+    answer: Casino Royale
+    aliases:
+    - casino royale
+    reasoning: Casino (gambling house) + Royale (royal/the Bond film) = Casino Royale
+  - number: 2
+    initials: S
+    clue: A clear blue sky — gone all spy-like and started featuring a bloke called Silva.
+    answer: Skyfall
+    aliases:
+    - skyfall
+    reasoning: Sky (overhead space) + Fall (to drop) = Skyfall
+  - number: 3
+    initials: B R
+    clue: A sharp cutting tool — gone all futuristic and started hunting artificial people.
+    answer: Blade Runner
+    aliases:
+    - blade runner
+    reasoning: Blade (a sharp edge) + Runner (one who runs) = Blade Runner
+- id: filmbusters-065
+  enabled: true
+  title: Film Busters
+  topic: classic and modern films
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Film Busters. Three more films.
+  prize: Email in. Winner gets a limited release in three cinemas nobody can reach.
+  clues:
+  - number: 1
+    initials: T
+    clue: A large wooden horse — gone all Greek and started containing soldiers inside it.
+    answer: Troy
+    aliases:
+    - troy
+    reasoning: Troy (ancient city/Brad Pitt film) = Troy
+  - number: 2
+    initials: B R
+    clue: A man with a very large shield — gone all ancient Greek and started kicking people into pits.
+    answer: '300'
+    aliases:
+    - '300'
+    - three hundred
+    reasoning: 300 (Spartans at Thermopylae) = 300
+  - number: 3
+    initials: N T D
+    clue: Something that happens after midnight — gone all animated and started involving a man called Jack.
+    answer: Nightmare Before Christmas
+    aliases:
+    - nightmare before christmas
+    - the nightmare before christmas
+    reasoning: Nightmare + Before + Christmas = Nightmare Before Christmas

@@ -1,0 +1,97 @@
+- id: holidaybusters-029
+  enabled: true
+  title: Holiday Busters
+  topic: holiday destinations
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  intro: Holiday Busters. Three more destinations.
+  prize: Email in. Winner gets a souvenir that breaks on the way home.
+  clues:
+  - number: 1
+    initials: C
+    clue: A large island in the Mediterranean — very Greek, very mountainous, very popular.
+    answer: Crete
+    aliases:
+    - crete
+    reasoning: Crete (Greek island) = Crete
+  - number: 2
+    initials: C
+    clue: A small island in the Mediterranean — British for a very long time, very hot.
+    answer: Cyprus
+    aliases:
+    - cyprus
+    reasoning: Cyprus (Mediterranean island) = Cyprus
+  - number: 3
+    initials: M
+    clue: A small island nation in the middle of the Mediterranean — Knights Hospitaller, very old buildings.
+    answer: Malta
+    aliases:
+    - malta
+    reasoning: Malta (the island nation) = Malta
+- id: holidaybusters-030
+  enabled: true
+  title: Holiday Busters
+  topic: holiday destinations
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  intro: Holiday Busters. Three final destinations.
+  prize: Email in. Winner gets the middle seat on a long-haul flight.
+  clues:
+  - number: 1
+    initials: I
+    clue: A Spanish island — famous for nightclubs, sunburn, and people who should know better.
+    answer: Ibiza
+    aliases:
+    - ibiza
+    reasoning: Ibiza (Spanish party island) = Ibiza
+  - number: 2
+    initials: T
+    clue: A long thin island off the coast of Spain — Alcudia, Palma, loads of British tourists.
+    answer: Tenerife
+    aliases:
+    - tenerife
+    reasoning: Tenerife (Canary Island) = Tenerife
+  - number: 3
+    initials: G C
+    clue: A Spanish island — sand dunes, beaches, and people reading crime novels.
+    answer: Gran Canaria
+    aliases:
+    - gran canaria
+    reasoning: Gran (great in Spanish) + Canaria (from Canaries) = Gran Canaria
+- id: gamebusters-021
+  enabled: true
+  title: Game Busters
+  topic: video games and board games
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Game Busters. More games. All phonetic.
+  prize: Email in. Winner gets a controller with a sticky thumbstick.
+  clues:
+  - number: 1
+    initials: T L O U
+    clue: A zombie apocalypse — someone's trying to get a young girl from one side of America to the other.
+    answer: The Last of Us
+    aliases:
+    - the last of us
+    reasoning: The + Last + of + Us = The Last of Us
+  - number: 2
+    initials: G O W
+    clue: A deity of fighting — going around killing other gods and getting very angry about things.
+    answer: God of War
+    aliases:
+    - god of war
+    reasoning: God (a deity) + of + War (conflict) = God of War
+  - number: 3
+    initials: R D R
+    clue: A cowboy on a horse — going around the Wild West doing morally questionable things.
+    answer: Red Dead Redemption
+    aliases:
+    - red dead redemption
+    reasoning: Red + Dead + Redemption = Red Dead Redemption

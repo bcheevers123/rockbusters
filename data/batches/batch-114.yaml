@@ -1,0 +1,99 @@
+- id: superherobusters-010
+  enabled: true
+  title: Superherobusters
+  topic: superheroes and comic book characters
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Superherobusters. More heroes.
+  prize: Email in. Winner gets a cape that gets caught in doors.
+  clues:
+  - number: 1
+    initials: H Q
+    clue: A female jester — gone all lovesick and started causing mayhem with a mallet.
+    answer: Harley Quinn
+    aliases:
+    - harley quinn
+    reasoning: Harley (a name/motorbike) + Quinn (a name, like a jester/harlequin) = Harley Quinn
+  - number: 2
+    initials: A
+    clue: A man of the sea — gone all fishy and started talking to marine life.
+    answer: Aquaman
+    aliases:
+    - aquaman
+    reasoning: Aqua (water) + man = Aquaman
+  - number: 3
+    initials: M
+    clue: A bloke called Max who's got metal bones and can control other metals.
+    answer: Magneto
+    aliases:
+    - magneto
+    reasoning: Magneto (magnetic force) = Magneto
+- id: superherobusters-011
+  enabled: true
+  title: Superherobusters
+  topic: superheroes and comic book characters
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Superherobusters. Three more from the comics.
+  prize: Email in. Winner gets a secret identity nobody believes.
+  clues:
+  - number: 1
+    initials: C W
+    clue: A female feline burglar — gone all leather-suited and started robbing Gotham.
+    answer: Catwoman
+    aliases:
+    - catwoman
+    reasoning: Cat (feline) + woman = Catwoman
+  - number: 2
+    initials: S G
+    clue: A female version of a bloke who flies around in a cape — also flies around in a cape.
+    answer: Supergirl
+    aliases:
+    - supergirl
+    reasoning: Super (exceptional) + girl = Supergirl
+  - number: 3
+    initials: G L
+    clue: A ring on a finger — gone all heroic and started flying through space in green.
+    answer: Green Lantern
+    aliases:
+    - green lantern
+    reasoning: Green (a colour) + Lantern (a lamp) = Green Lantern
+- id: superherobusters-012
+  enabled: true
+  title: Superherobusters
+  topic: superheroes and comic book characters
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Superherobusters. Three more.
+  prize: Email in. Winner gets a villain who escapes every episode.
+  clues:
+  - number: 1
+    initials: P X
+    clue: A teacher — gone all bald and telepathic and started running a school for unusual teenagers.
+    answer: Professor X
+    aliases:
+    - professor x
+    reasoning: Professor (academic title) + X = Professor X
+  - number: 2
+    initials: C
+    clue: A large tropical bird — gone all dark and started firing arrows from rooftops.
+    answer: Cyclops
+    aliases:
+    - cyclops
+    reasoning: Cyclops (one-eyed creature/X-Men character) = Cyclops
+  - number: 3
+    initials: S
+    clue: A tempest — gone all female and started controlling the weather in a white wig.
+    answer: Storm
+    aliases:
+    - storm
+    reasoning: Storm (weather phenomenon) = Storm

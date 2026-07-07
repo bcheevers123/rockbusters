@@ -1,0 +1,99 @@
+- id: filmbusters-069
+  enabled: true
+  title: Film Busters
+  topic: classic and modern films
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Film Busters. Three more films.
+  prize: Email in. Winner gets a director's cut that's forty minutes too long.
+  clues:
+  - number: 1
+    initials: F F
+    clue: A quick walker — gone all Southern American and started running across the country with a box of chocolates.
+    answer: Forrest Gump
+    aliases:
+    - forrest gump
+    reasoning: Forrest (a name/a forest) + Gump (a name) = Forrest Gump
+  - number: 2
+    initials: G
+    clue: Phantom-catching equipment — gone all paranormal and started busting things in New York.
+    answer: Ghostbusters
+    aliases:
+    - ghostbusters
+    reasoning: Ghost (spirit) + busters (those who bust) = Ghostbusters
+  - number: 3
+    initials: J P
+    clue: A large extinct creature — gone all theme park and started eating visitors.
+    answer: Jurassic Park
+    aliases:
+    - jurassic park
+    reasoning: Jurassic (prehistoric era) + Park (an outdoor recreation area) = Jurassic Park
+- id: filmbusters-070
+  enabled: true
+  title: Film Busters
+  topic: classic and modern films
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Film Busters. Three more to finish.
+  prize: Email in. Winner gets a film adaptation of a book they loved that ruins everything.
+  clues:
+  - number: 1
+    initials: T F M
+    clue: That full nude version of a town — gone all Sheffield and started organising a strip show for charity.
+    answer: The Full Monty
+    aliases:
+    - the full monty
+    reasoning: The + Full + Monty (the whole thing/the Sheffield film) = The Full Monty
+  - number: 2
+    initials: T
+    clue: Heroin addiction in Edinburgh — a bloke chooses life, then doesn't, then does again.
+    answer: Trainspotting
+    aliases:
+    - trainspotting
+    reasoning: Train (railway vehicle) + spotting (observing) = Trainspotting
+  - number: 3
+    initials: F W A A F
+    clue: Four occasions when people get married — one occasion when someone dies.
+    answer: Four Weddings and a Funeral
+    aliases:
+    - four weddings and a funeral
+    reasoning: Four + Weddings + and + a + Funeral = Four Weddings and a Funeral
+- id: cartoonbusters-021
+  enabled: true
+  title: Cartoon Busters
+  topic: animated films
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Cartoon Busters. More animated films. All phonetic.
+  prize: Email in. Winner gets a plush toy of a character from a film they haven't seen.
+  clues:
+  - number: 1
+    initials: B
+    clue: A young female who is very brave — goes off into the Scottish highlands and causes a lot of trouble.
+    answer: Brave
+    aliases:
+    - brave
+    reasoning: Brave (courageous/the Pixar film) = Brave
+  - number: 2
+    initials: T
+    clue: A long-haired girl in a tower — goes out, causes chaos, and eventually gets a haircut.
+    answer: Tangled
+    aliases:
+    - tangled
+    reasoning: Tangled (knotted/the Rapunzel film) = Tangled
+  - number: 3
+    initials: E
+    clue: A film in Spanish — a family with magical powers lives in a house that's also magical.
+    answer: Encanto
+    aliases:
+    - encanto
+    reasoning: Encanto (enchanted in Spanish) = Encanto

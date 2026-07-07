@@ -1,0 +1,97 @@
+- id: pokemonbusters-005
+  enabled: true
+  title: Pokemon Busters
+  topic: Pokemon characters
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Pokemon Busters. Three final Pokemon.
+  prize: Email in. Winner gets a Pokemon that refuses to evolve.
+  clues:
+  - number: 1
+    initials: P
+    clue: A yellow duck — always looks confused. Has a perpetual headache.
+    answer: Psyduck
+    aliases:
+    - psyduck
+    reasoning: Psy (psychic) + duck = Psyduck
+  - number: 2
+    initials: M
+    clue: A useless fish — can barely swim, flops about. Evolves into something terrifying.
+    answer: Magikarp
+    aliases:
+    - magikarp
+    reasoning: Magic + carp (a fish) = Magikarp
+  - number: 3
+    initials: D
+    clue: A large dragon-like creature — orange, very powerful, very hard to control.
+    answer: Dragonite
+    aliases:
+    - dragonite
+    reasoning: Dragon + ite = Dragonite
+- id: comediansbusters-021
+  enabled: true
+  title: Comedians Busters
+  topic: UK comedians
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  intro: Comedians Busters. Two more comedians. All phonetic.
+  prize: Email in. Winner gets a heckle and an awkward silence.
+  clues:
+  - number: 1
+    initials: A C
+    clue: A camp bloke from Essex — very loud, very funny, talks about his life in detail.
+    answer: Alan Carr
+    aliases:
+    - alan carr
+    reasoning: Alan (a name) + Carr (a name) = Alan Carr
+  - number: 2
+    initials: F S
+    clue: A bloke from Birmingham — observational, very dry, been going since the 1980s.
+    answer: Frank Skinner
+    aliases:
+    - frank skinner
+    reasoning: Frank (a name) + Skinner (a name) = Frank Skinner
+  - number: 3
+    initials: J B
+    clue: A large female comedian — very deadpan, very dry, has been on every panel show.
+    answer: Jo Brand
+    aliases:
+    - jo brand
+    reasoning: Jo (a name) + Brand (a trademark) = Jo Brand
+- id: comediansbusters-022
+  enabled: true
+  title: Comedians Busters
+  topic: UK comedians
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  intro: Comedians Busters. Three final comedians.
+  prize: Email in. Winner gets a five-minute slot at an open mic night.
+  clues:
+  - number: 1
+    initials: B C
+    clue: A Scottish bloke — very big, very hairy, been making people laugh since before most of us were born.
+    answer: Billy Connolly
+    aliases:
+    - billy connolly
+    reasoning: Billy (a name) + Connolly (a name) = Billy Connolly
+  - number: 2
+    initials: K B
+    clue: A Scottish comedian — observational, very likeable, talks about being Scottish a lot.
+    answer: Kevin Bridges
+    aliases:
+    - kevin bridges
+    reasoning: Kevin (a name) + Bridges (a name) = Kevin Bridges
+  - number: 3
+    initials: R H
+    clue: A bloke called Russell — had a chat show, got in trouble, very quick-witted.
+    answer: Russell Howard
+    aliases:
+    - russell howard
+    reasoning: Russell (a name) + Howard (a name) = Russell Howard

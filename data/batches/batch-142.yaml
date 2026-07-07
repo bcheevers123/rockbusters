@@ -1,0 +1,99 @@
+- id: mythbusters-019
+  enabled: true
+  title: Myth Busters
+  topic: mythology and legends
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Myth Busters. Almost at the end of the myths.
+  prize: Email in. Winner gets a mythological creature they can't prove exists.
+  clues:
+  - number: 1
+    initials: K A
+    clue: A British king — had a round table, a magic sword, and a wizard who aged backwards.
+    answer: King Arthur
+    aliases:
+    - king arthur
+    reasoning: King + Arthur = King Arthur
+  - number: 2
+    initials: M
+    clue: A wise old wizard — advised a king, possibly aged backwards, lived in Britain long ago.
+    answer: Merlin
+    aliases:
+    - merlin
+    reasoning: Merlin (the wizard of Arthurian legend) = Merlin
+  - number: 3
+    initials: G
+    clue: A lady associated with a round table and a king — wife who caused a lot of trouble.
+    answer: Guinevere
+    aliases:
+    - guinevere
+    reasoning: Guinevere (Queen of Camelot) = Guinevere
+- id: mythbusters-020
+  enabled: true
+  title: Myth Busters
+  topic: mythology and legends
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Myth Busters. Three final mythological figures.
+  prize: Email in. Winner gets a legend that nobody can verify.
+  clues:
+  - number: 1
+    initials: R H
+    clue: A man in green — steals from the rich, gives to the poor. Lives in a forest.
+    answer: Robin Hood
+    aliases:
+    - robin hood
+    reasoning: Robin (a bird/a name) + Hood (a type of headwear) = Robin Hood
+  - number: 2
+    initials: M M
+    clue: A lady associated with Robin Hood — very capable, often overlooked.
+    answer: Maid Marian
+    aliases:
+    - maid marian
+    reasoning: Maid (a young woman) + Marian (a name) = Maid Marian
+  - number: 3
+    initials: L
+    clue: A knight — very loyal, very brave, very in love with the king's wife. Complicated.
+    answer: Lancelot
+    aliases:
+    - lancelot
+    reasoning: Lancelot (Arthurian knight) = Lancelot
+- id: disasterbusters-004
+  enabled: true
+  title: Disaster Busters
+  topic: famous disasters and catastrophes
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Disaster Busters. More famous disasters. All phonetic.
+  prize: Email in. Winner gets a disaster plan with several key sections missing.
+  clues:
+  - number: 1
+    initials: H K
+    clue: A tropical storm with a woman's name — went all American and flooded a very famous city.
+    answer: Hurricane Katrina
+    aliases:
+    - hurricane katrina
+    reasoning: Hurricane (a tropical storm) + Katrina (a name) = Hurricane Katrina
+  - number: 2
+    initials: G F O L
+    clue: A very large fire — happened in London in 1666. Destroyed most of the city.
+    answer: Great Fire of London
+    aliases:
+    - great fire of london
+    reasoning: Great + Fire + of + London = Great Fire of London
+  - number: 3
+    initials: S F E
+    clue: A city in California — shook violently and fell down in 1906. Very dramatic.
+    answer: San Francisco Earthquake
+    aliases:
+    - san francisco earthquake
+    reasoning: San Francisco + Earthquake = San Francisco Earthquake

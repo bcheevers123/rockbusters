@@ -1,0 +1,100 @@
+- id: cartoonbusters-028
+  enabled: true
+  title: Cartoon Busters
+  topic: animated films
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Cartoon Busters. Three more.
+  prize: Email in. Winner gets a signed cel from a film that was done on computers.
+  clues:
+  - number: 1
+    initials: T L M
+    clue: A young female fish — gone all curious about the surface world and started collecting forks.
+    answer: The Little Mermaid
+    aliases:
+    - the little mermaid
+    reasoning: The + Little + Mermaid (half-fish creature) = The Little Mermaid
+  - number: 2
+    initials: T E N G
+    clue: A royal who is also very silly — loses his kingdom through his own stupidity.
+    answer: The Emperor's New Groove
+    aliases:
+    - the emperor's new groove
+    - the emperors new groove
+    reasoning: The + Emperor's + New + Groove = The Emperor's New Groove
+  - number: 3
+    initials: L A S
+    clue: Two small Hawaiian people — one of them is an alien and causes nothing but trouble.
+    answer: Lilo and Stitch
+    aliases:
+    - lilo and stitch
+    reasoning: Lilo (an inflatable mattress/a name) + and + Stitch = Lilo and Stitch
+- id: cartoonbusters-029
+  enabled: true
+  title: Cartoon Busters
+  topic: animated films
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Cartoon Busters. Almost done with the animations.
+  prize: Email in. Winner gets a 3D glasses headache and a stiff neck.
+  clues:
+  - number: 1
+    initials: H
+    clue: A Greek demigod — gone all muscles and started having adventures while a gospel choir narrates.
+    answer: Hercules
+    aliases:
+    - hercules
+    reasoning: Hercules (the Greek hero) = Hercules
+  - number: 2
+    initials: M
+    clue: A Chinese soldier's daughter — pretends to be a man to save her father from war.
+    answer: Mulan
+    aliases:
+    - mulan
+    reasoning: Mulan (the Chinese heroine) = Mulan
+  - number: 3
+    initials: T
+    clue: A man raised by apes in the jungle — very good at swinging between trees.
+    answer: Tarzan
+    aliases:
+    - tarzan
+    reasoning: Tarzan (the jungle man) = Tarzan
+- id: cartoonbusters-030
+  enabled: true
+  title: Cartoon Busters
+  topic: animated films
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Cartoon Busters. Three final animations.
+  prize: Email in. Winner gets the animatic and absolutely nothing else.
+  clues:
+  - number: 1
+    initials: R A T D
+    clue: A young island girl — goes off to sea and has to find a demigod to save everyone.
+    answer: Moana
+    aliases:
+    - moana
+    reasoning: Moana (the Polynesian heroine) = Moana
+  - number: 2
+    initials: P
+    clue: A wooden puppet — really wants to be a real boy and tells lies with a growing nose.
+    answer: Pinocchio
+    aliases:
+    - pinocchio
+    reasoning: Pinocchio (the puppet/the Disney film) = Pinocchio
+  - number: 3
+    initials: B A T B
+    clue: A very beautiful female — falls for a large hairy creature that turns out to be a prince.
+    answer: Beauty and the Beast
+    aliases:
+    - beauty and the beast
+    reasoning: Beauty + and + the + Beast = Beauty and the Beast

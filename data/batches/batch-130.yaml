@@ -1,0 +1,99 @@
+- id: holidaybusters-023
+  enabled: true
+  title: Holiday Busters
+  topic: holiday destinations
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  intro: Holiday Busters. Three UK destinations.
+  prize: Email in. Winner gets a weekend in a caravan with intermittent rain.
+  clues:
+  - number: 1
+    initials: C
+    clue: The most south-westerly bit of England — beautiful coast, cream teas, very long drive to get there.
+    answer: Cornwall
+    aliases:
+    - cornwall
+    reasoning: Cornwall (the UK county) = Cornwall
+  - number: 2
+    initials: L D
+    clue: A region in the north of England — lots of lakes, lots of poets, lots of drizzle.
+    answer: Lake District
+    aliases:
+    - lake district
+    - the lake district
+    reasoning: Lake + District = Lake District
+  - number: 3
+    initials: S H
+    clue: The northern part of Scotland — mountains, lochs, midges, and tourists in waterproofs.
+    answer: Scottish Highlands
+    aliases:
+    - scottish highlands
+    - the highlands
+    reasoning: Scottish + Highlands = Scottish Highlands
+- id: holidaybusters-024
+  enabled: true
+  title: Holiday Busters
+  topic: holiday destinations
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  intro: Holiday Busters. More UK and European destinations.
+  prize: Email in. Winner gets a tourist information leaflet from 2003.
+  clues:
+  - number: 1
+    initials: D
+    clue: A place in the south of England — famous for white cliffs and looking at France.
+    answer: Devon
+    aliases:
+    - devon
+    reasoning: Devon (the UK county) = Devon
+  - number: 2
+    initials: D
+    clue: A coastal county famous for its coast and being a bit smug about it.
+    answer: Dorset
+    aliases:
+    - dorset
+    reasoning: Dorset (the UK county) = Dorset
+  - number: 3
+    initials: N F
+    clue: A forested area in southern England — deer, ponies, and people on bicycles.
+    answer: New Forest
+    aliases:
+    - new forest
+    - the new forest
+    reasoning: New + Forest = New Forest
+- id: holidaybusters-025
+  enabled: true
+  title: Holiday Busters
+  topic: holiday destinations
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  intro: Holiday Busters. Three more destinations.
+  prize: Email in. Winner gets a passport that expired six months ago.
+  clues:
+  - number: 1
+    initials: P
+    clue: A long thin country in South America — next to the sea, very mountainous.
+    answer: Peru
+    aliases:
+    - peru
+    reasoning: Peru (South American country) = Peru
+  - number: 2
+    initials: C R
+    clue: A Central American country — very green, lots of wildlife, people go there to look at things.
+    answer: Costa Rica
+    aliases:
+    - costa rica
+    reasoning: Costa (coast in Spanish) + Rica (rich) = Costa Rica
+  - number: 3
+    initials: T
+    clue: A Southeast Asian country — very cheap, very hot, beautiful temples everywhere.
+    answer: Thailand
+    aliases:
+    - thailand
+    reasoning: Thailand (the country) = Thailand

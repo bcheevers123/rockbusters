@@ -1,0 +1,101 @@
+- id: superherobusters-004
+  enabled: true
+  title: Superherobusters
+  topic: superheroes and comic book characters
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Superherobusters. More capes and powers. All phonetic.
+  prize: Email in. Winner gets a utility belt with nothing useful in it.
+  clues:
+  - number: 1
+    initials: S M
+    clue: A small creepy creature — gone all heroic and started climbing up buildings.
+    answer: Spider-Man
+    aliases:
+    - spider-man
+    - spiderman
+    reasoning: Spider (arachnid) + Man = Spider-Man
+  - number: 2
+    initials: B
+    clue: A small flying mammal — gone all brooding and started dressing in black in a cave.
+    answer: Batman
+    aliases:
+    - batman
+    reasoning: Bat (flying mammal) + man = Batman
+  - number: 3
+    initials: S
+    clue: A man of exceptional strength — gone all flying and started wearing his pants on the outside.
+    answer: Superman
+    aliases:
+    - superman
+    reasoning: Super (exceptional) + man = Superman
+- id: superherobusters-005
+  enabled: true
+  title: Superherobusters
+  topic: superheroes and comic book characters
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Superherobusters. Three more heroes. Say them out loud.
+  prize: Email in. Winner gets a sidekick who asks too many questions.
+  clues:
+  - number: 1
+    initials: I M
+    clue: A metal pressing tool — gone all billionaire and started flying around in a suit.
+    answer: Iron Man
+    aliases:
+    - iron man
+    - ironman
+    reasoning: Iron (metal/pressing tool) + Man = Iron Man
+  - number: 2
+    initials: W W
+    clue: A world of amazement — gone all warrior and started throwing a golden lasso at people.
+    answer: Wonder Woman
+    aliases:
+    - wonder woman
+    reasoning: Wonder (amazement) + Woman = Wonder Woman
+  - number: 3
+    initials: T
+    clue: A loud noise from the sky — gone all Norse and started swinging a hammer.
+    answer: Thor
+    aliases:
+    - thor
+    reasoning: Thor (Norse god of thunder) = Thor
+- id: superherobusters-006
+  enabled: true
+  title: Superherobusters
+  topic: superheroes and comic book characters
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Superherobusters. Three more. All capes and tights.
+  prize: Email in. Winner gets a superpower that only works in very specific circumstances.
+  clues:
+  - number: 1
+    initials: C A
+    clue: A large sailing vessel — gone all patriotic and started throwing a circular shield.
+    answer: Captain America
+    aliases:
+    - captain america
+    reasoning: Captain (rank) + America = Captain America
+  - number: 2
+    initials: B P
+    clue: A dark feline — gone all African royalty and started defending Wakanda.
+    answer: Black Panther
+    aliases:
+    - black panther
+    reasoning: Black (the colour) + Panther (a big cat) = Black Panther
+  - number: 3
+    initials: D S
+    clue: A medical doctor — gone all mystical and started bending time and space.
+    answer: Doctor Strange
+    aliases:
+    - doctor strange
+    reasoning: Doctor (medical title) + Strange (odd/peculiar) = Doctor Strange

@@ -26164,5 +26164,2839 @@
         "clue": "A bloke called David who filmed his friends doing things and everyone found it brilliant for a while."
       }
     ]
+  },
+  {
+    "id": "superherobusters-004",
+    "enabled": true,
+    "title": "Superherobusters",
+    "topic": "superheroes and comic book characters",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Superherobusters. More capes and powers. All phonetic.",
+    "prize": "Email in. Winner gets a utility belt with nothing useful in it.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "S M",
+        "clue": "A small creepy creature — gone all heroic and started climbing up buildings."
+      },
+      {
+        "number": 2,
+        "initials": "B",
+        "clue": "A small flying mammal — gone all brooding and started dressing in black in a cave."
+      },
+      {
+        "number": 3,
+        "initials": "S",
+        "clue": "A man of exceptional strength — gone all flying and started wearing his pants on the outside."
+      }
+    ]
+  },
+  {
+    "id": "superherobusters-005",
+    "enabled": true,
+    "title": "Superherobusters",
+    "topic": "superheroes and comic book characters",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Superherobusters. Three more heroes. Say them out loud.",
+    "prize": "Email in. Winner gets a sidekick who asks too many questions.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "I M",
+        "clue": "A metal pressing tool — gone all billionaire and started flying around in a suit."
+      },
+      {
+        "number": 2,
+        "initials": "W W",
+        "clue": "A world of amazement — gone all warrior and started throwing a golden lasso at people."
+      },
+      {
+        "number": 3,
+        "initials": "T",
+        "clue": "A loud noise from the sky — gone all Norse and started swinging a hammer."
+      }
+    ]
+  },
+  {
+    "id": "superherobusters-006",
+    "enabled": true,
+    "title": "Superherobusters",
+    "topic": "superheroes and comic book characters",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Superherobusters. Three more. All capes and tights.",
+    "prize": "Email in. Winner gets a superpower that only works in very specific circumstances.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "C A",
+        "clue": "A large sailing vessel — gone all patriotic and started throwing a circular shield."
+      },
+      {
+        "number": 2,
+        "initials": "B P",
+        "clue": "A dark feline — gone all African royalty and started defending Wakanda."
+      },
+      {
+        "number": 3,
+        "initials": "D S",
+        "clue": "A medical doctor — gone all mystical and started bending time and space."
+      }
+    ]
+  },
+  {
+    "id": "superherobusters-007",
+    "enabled": true,
+    "title": "Superherobusters",
+    "topic": "superheroes and comic book characters",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Superherobusters. Three more heroes.",
+    "prize": "Email in. Winner gets an origin story nobody asked for.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "T F",
+        "clue": "A bolt of electricity — gone all red and started running very fast."
+      },
+      {
+        "number": 2,
+        "initials": "A M",
+        "clue": "A tiny insect — gone all tiny and started shrinking to solve crimes."
+      },
+      {
+        "number": 3,
+        "initials": "B W",
+        "clue": "A dark colour — gone all spy-like and started fighting without any superpowers."
+      }
+    ]
+  },
+  {
+    "id": "superherobusters-008",
+    "enabled": true,
+    "title": "Superherobusters",
+    "topic": "superheroes and comic book characters",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Superherobusters. More Marvel and DC. All phonetic.",
+    "prize": "Email in. Winner gets a nemesis who keeps escaping.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "W",
+        "clue": "An animal with very sharp claws — gone all metal-boned and started fighting everyone."
+      },
+      {
+        "number": 2,
+        "initials": "D",
+        "clue": "A bloke who's already shuffled off — gone all fourth wall breaking and red-suited."
+      },
+      {
+        "number": 3,
+        "initials": "S W",
+        "clue": "A female relative of a witch — gone all reality-bending and started doing hex magic."
+      }
+    ]
+  },
+  {
+    "id": "superherobusters-009",
+    "enabled": true,
+    "title": "Superherobusters",
+    "topic": "superheroes and comic book characters",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Superherobusters. Three villains and heroes.",
+    "prize": "Email in. Winner gets a lair with inadequate heating.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "T J",
+        "clue": "A court jester — gone all unhinged and started causing chaos in Gotham."
+      },
+      {
+        "number": 2,
+        "initials": "L L",
+        "clue": "A very rich bloke — gone bald and started battling a man in a cape from a tall building."
+      },
+      {
+        "number": 3,
+        "initials": "T",
+        "clue": "A giant purple bloke — very determined to halve everything. Has an infinity glove."
+      }
+    ]
+  },
+  {
+    "id": "superherobusters-010",
+    "enabled": true,
+    "title": "Superherobusters",
+    "topic": "superheroes and comic book characters",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Superherobusters. More heroes.",
+    "prize": "Email in. Winner gets a cape that gets caught in doors.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "H Q",
+        "clue": "A female jester — gone all lovesick and started causing mayhem with a mallet."
+      },
+      {
+        "number": 2,
+        "initials": "A",
+        "clue": "A man of the sea — gone all fishy and started talking to marine life."
+      },
+      {
+        "number": 3,
+        "initials": "M",
+        "clue": "A bloke called Max who's got metal bones and can control other metals."
+      }
+    ]
+  },
+  {
+    "id": "superherobusters-011",
+    "enabled": true,
+    "title": "Superherobusters",
+    "topic": "superheroes and comic book characters",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Superherobusters. Three more from the comics.",
+    "prize": "Email in. Winner gets a secret identity nobody believes.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "C W",
+        "clue": "A female feline burglar — gone all leather-suited and started robbing Gotham."
+      },
+      {
+        "number": 2,
+        "initials": "S G",
+        "clue": "A female version of a bloke who flies around in a cape — also flies around in a cape."
+      },
+      {
+        "number": 3,
+        "initials": "G L",
+        "clue": "A ring on a finger — gone all heroic and started flying through space in green."
+      }
+    ]
+  },
+  {
+    "id": "superherobusters-012",
+    "enabled": true,
+    "title": "Superherobusters",
+    "topic": "superheroes and comic book characters",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Superherobusters. Three more.",
+    "prize": "Email in. Winner gets a villain who escapes every episode.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "P X",
+        "clue": "A teacher — gone all bald and telepathic and started running a school for unusual teenagers."
+      },
+      {
+        "number": 2,
+        "initials": "C",
+        "clue": "A large tropical bird — gone all dark and started firing arrows from rooftops."
+      },
+      {
+        "number": 3,
+        "initials": "S",
+        "clue": "A tempest — gone all female and started controlling the weather in a white wig."
+      }
+    ]
+  },
+  {
+    "id": "superherobusters-013",
+    "enabled": true,
+    "title": "Superherobusters",
+    "topic": "superheroes and comic book characters",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Superherobusters. Nearly at the end of the capes.",
+    "prize": "Email in. Winner gets an arch-enemy they didn't ask for.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "R",
+        "clue": "A male Robin — gone all tights-wearing and started helping a man in a bat costume."
+      },
+      {
+        "number": 2,
+        "initials": "N",
+        "clue": "Something that happens at night — gone all gymnastics and started swinging between buildings."
+      },
+      {
+        "number": 3,
+        "initials": "L",
+        "clue": "A mischievous Norse god — gone all trickster and started causing problems for his brother."
+      }
+    ]
+  },
+  {
+    "id": "superherobusters-014",
+    "enabled": true,
+    "title": "Superherobusters",
+    "topic": "superheroes and comic book characters",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Superherobusters. More heroes.",
+    "prize": "Email in. Winner gets a sequel nobody expected.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "B G",
+        "clue": "A female version of a nocturnal flying mammal — gone all heroic and started fighting in Gotham."
+      },
+      {
+        "number": 2,
+        "initials": "V",
+        "clue": "A synthetic humanoid — gone all complicated feelings and started living in a suburb."
+      },
+      {
+        "number": 3,
+        "initials": "H",
+        "clue": "A big green bloke who's very angry — smashes things when he gets upset."
+      }
+    ]
+  },
+  {
+    "id": "superherobusters-015",
+    "enabled": true,
+    "title": "Superherobusters",
+    "topic": "superheroes and comic book characters",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Superherobusters. Three more to finish off the set.",
+    "prize": "Email in. Winner gets a radioactive bite and mild superpowers.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "H",
+        "clue": "An arrow — gone all feathered and started firing other arrows with great precision."
+      },
+      {
+        "number": 2,
+        "initials": "P",
+        "clue": "A bird with a large beak — gone all villainous and started waddling around Gotham."
+      },
+      {
+        "number": 3,
+        "initials": "T F",
+        "clue": "A double-sided coin — gone all split personality and started terrorising Gotham."
+      }
+    ]
+  },
+  {
+    "id": "tvbusters-041",
+    "enabled": true,
+    "title": "TV Busters",
+    "topic": "classic and modern TV shows",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "TV Busters. Three more shows. All phonetic.",
+    "prize": "Email in. Winner gets a remote control with a sticky button.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "F",
+        "clue": "A group of people who are very close — live near each other in New York and sit on a sofa."
+      },
+      {
+        "number": 2,
+        "initials": "S",
+        "clue": "A bloke called Jerry who finds everything in life mildly irritating — makes a show about it."
+      },
+      {
+        "number": 3,
+        "initials": "T O",
+        "clue": "A place where you do your paperwork — gone all awkward and started filming everyone."
+      }
+    ]
+  },
+  {
+    "id": "tvbusters-042",
+    "enabled": true,
+    "title": "TV Busters",
+    "topic": "classic and modern TV shows",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "TV Busters. Three more classics.",
+    "prize": "Email in. Winner gets a boxset with a scratched disc four.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "M M",
+        "clue": "A bloke in a suit — gone all advertising and started drinking at his desk in the 1960s."
+      },
+      {
+        "number": 2,
+        "initials": "C Y E",
+        "clue": "A bloke called Larry who is perpetually annoyed by the smallest things."
+      },
+      {
+        "number": 3,
+        "initials": "S",
+        "clue": "A state of shame — gone all British and started depicting a Manchester family in crisis."
+      }
+    ]
+  },
+  {
+    "id": "tvbusters-043",
+    "enabled": true,
+    "title": "TV Busters",
+    "topic": "classic and modern TV shows",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "TV Busters. Three more shows.",
+    "prize": "Email in. Winner gets a spoiler from someone who's already seen it.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "O Z",
+        "clue": "A wonderful place — gone all criminal and started showing what happens when drug money piles up."
+      },
+      {
+        "number": 2,
+        "initials": "T B B",
+        "clue": "A group of young men — gone all chemistry teacher and started making methamphetamine."
+      },
+      {
+        "number": 3,
+        "initials": "S",
+        "clue": "A number of people dressed in matching green outfits playing brutal games for money."
+      }
+    ]
+  },
+  {
+    "id": "tvbusters-044",
+    "enabled": true,
+    "title": "TV Busters",
+    "topic": "classic and modern TV shows",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "TV Busters. Three more telly shows.",
+    "prize": "Email in. Winner gets a cliffhanger that never gets resolved.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "T S",
+        "clue": "A cartoon family — yellow, live in Springfield, dad works at a nuclear plant."
+      },
+      {
+        "number": 2,
+        "initials": "S",
+        "clue": "A very unusual town — alien things keep happening there and two brothers investigate."
+      },
+      {
+        "number": 3,
+        "initials": "T X F",
+        "clue": "That definite article, followed by an unknown quantity, followed by a bunch of filed documents."
+      }
+    ]
+  },
+  {
+    "id": "tvbusters-045",
+    "enabled": true,
+    "title": "TV Busters",
+    "topic": "classic and modern TV shows",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "TV Busters. Three more. All phonetic.",
+    "prize": "Email in. Winner gets a cancelled show brought back nobody wanted.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "P B",
+        "clue": "A place for keeping criminals — someone's trying to get out of it using a tattoo of the building."
+      },
+      {
+        "number": 2,
+        "initials": "B B",
+        "clue": "A chemistry teacher who's not very well — decides to make drugs in a campervan."
+      },
+      {
+        "number": 3,
+        "initials": "G O T",
+        "clue": "A competitive event for sitting on a metal chair with pointy bits."
+      }
+    ]
+  },
+  {
+    "id": "tvbusters-046",
+    "enabled": true,
+    "title": "TV Busters",
+    "topic": "classic and modern TV shows",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "TV Busters. Three more.",
+    "prize": "Email in. Winner gets a TV licence reminder and a biscuit.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "T S",
+        "clue": "A group of criminals in Birmingham who keep birds' beaks sewn into their caps."
+      },
+      {
+        "number": 2,
+        "initials": "T W",
+        "clue": "That thing you do when you connect cables together — gone all gritty and started documenting Baltimore crime."
+      },
+      {
+        "number": 3,
+        "initials": "S",
+        "clue": "A set of steps going up — gone all supernatural and started showing what happens after someone dies."
+      }
+    ]
+  },
+  {
+    "id": "tvbusters-047",
+    "enabled": true,
+    "title": "TV Busters",
+    "topic": "classic and modern TV shows",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "TV Busters. Three more shows.",
+    "prize": "Email in. Winner gets a streaming service they didn't sign up for.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "F",
+        "clue": "A bloke from Seattle who is very good at listening to people's problems on the radio."
+      },
+      {
+        "number": 2,
+        "initials": "S",
+        "clue": "That investigator with a pipe and a dressing gown — very clever, lives in Baker Street."
+      },
+      {
+        "number": 3,
+        "initials": "D W",
+        "clue": "A medical man who travels through time in a telephone box — been going since the 1960s."
+      }
+    ]
+  },
+  {
+    "id": "tvbusters-048",
+    "enabled": true,
+    "title": "TV Busters",
+    "topic": "classic and modern TV shows",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "TV Busters. Three more. All from the telly.",
+    "prize": "Email in. Winner gets a repeat and an episode they've already seen.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "T C",
+        "clue": "A big expensive hat — gone all royal and started depicting the Queen's life in great detail."
+      },
+      {
+        "number": 2,
+        "initials": "D A",
+        "clue": "Going down in rank — gone all Edwardian and started involving a lot of dinner parties."
+      },
+      {
+        "number": 3,
+        "initials": "L O D",
+        "clue": "A queue — gone all police procedural and started investigating corruption."
+      }
+    ]
+  },
+  {
+    "id": "tvbusters-049",
+    "enabled": true,
+    "title": "TV Busters",
+    "topic": "classic and modern TV shows",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "TV Busters. Three more.",
+    "prize": "Email in. Winner gets an episode guide nobody asked for.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "P B",
+        "clue": "A set of sharp spines on a mountain range — gone all Birmingham and started making razor blades."
+      },
+      {
+        "number": 2,
+        "initials": "F",
+        "clue": "A small insect that jumps — gone all Irish and started involving priests on a small island."
+      },
+      {
+        "number": 3,
+        "initials": "G A S",
+        "clue": "A bloke called Gavin — gone all Welsh and started being very fond of his girlfriend."
+      }
+    ]
+  },
+  {
+    "id": "tvbusters-050",
+    "enabled": true,
+    "title": "TV Busters",
+    "topic": "classic and modern TV shows",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "TV Busters. Three more to finish.",
+    "prize": "Email in. Winner gets the last episode of something they've been watching for years.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "T I C",
+        "clue": "A definite article, followed by two letters, followed by a group of people who fix computers."
+      },
+      {
+        "number": 2,
+        "initials": "B",
+        "clue": "A colour — gone all historical and started satirising British history from the Middle Ages."
+      },
+      {
+        "number": 3,
+        "initials": "D G",
+        "clue": "A group of young women from Northern Ireland — very funny, very Catholic, very 1990s."
+      }
+    ]
+  },
+  {
+    "id": "filmbusters-061",
+    "enabled": true,
+    "title": "Film Busters",
+    "topic": "classic and modern films",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Film Busters. Three more classic films. All phonetic.",
+    "prize": "Email in. Winner gets a cinema ticket for a film that started ten minutes ago.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "T D K",
+        "clue": "The saddest hour of the day — gone all heroic and started fighting a man in face paint."
+      },
+      {
+        "number": 2,
+        "initials": "T G",
+        "clue": "A bloke who is the best at everything and has an offer you can't refuse."
+      },
+      {
+        "number": 3,
+        "initials": "B T F",
+        "clue": "Returning to a time before now — gone all DeLorean and started involving a scientist."
+      }
+    ]
+  },
+  {
+    "id": "filmbusters-062",
+    "enabled": true,
+    "title": "Film Busters",
+    "topic": "classic and modern films",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Film Busters. Three more films.",
+    "prize": "Email in. Winner gets a DVD with a scratch right through act two.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "E T",
+        "clue": "Someone who doesn't live on this planet — gone all friendly and started eating sweets with a boy."
+      },
+      {
+        "number": 2,
+        "initials": "R O T L A",
+        "clue": "A search for a missing chest — involves a man with a whip and a terrible fear of snakes."
+      },
+      {
+        "number": 3,
+        "initials": "S W",
+        "clue": "Conflict among the galaxies — a bloke in a black helmet keeps breathing heavily."
+      }
+    ]
+  },
+  {
+    "id": "filmbusters-063",
+    "enabled": true,
+    "title": "Film Busters",
+    "topic": "classic and modern films",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Film Busters. Three more classics.",
+    "prize": "Email in. Winner gets a sequel that's worse than the original.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "G",
+        "clue": "A man in ancient Rome — gone all fighting and started entertaining crowds in an arena."
+      },
+      {
+        "number": 2,
+        "initials": "T M",
+        "clue": "A computer programme — gone all leather and started offering red or blue pills."
+      },
+      {
+        "number": 3,
+        "initials": "S L",
+        "clue": "A list — gone all historical and started saving lives during the Second World War."
+      }
+    ]
+  },
+  {
+    "id": "filmbusters-064",
+    "enabled": true,
+    "title": "Film Busters",
+    "topic": "classic and modern films",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Film Busters. Three more. All phonetic.",
+    "prize": "Email in. Winner gets a film poster that doesn't fit any standard frame.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "C R",
+        "clue": "A gambling establishment — gone all James Bond and started featuring a very good card game."
+      },
+      {
+        "number": 2,
+        "initials": "S",
+        "clue": "A clear blue sky — gone all spy-like and started featuring a bloke called Silva."
+      },
+      {
+        "number": 3,
+        "initials": "B R",
+        "clue": "A sharp cutting tool — gone all futuristic and started hunting artificial people."
+      }
+    ]
+  },
+  {
+    "id": "filmbusters-065",
+    "enabled": true,
+    "title": "Film Busters",
+    "topic": "classic and modern films",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Film Busters. Three more films.",
+    "prize": "Email in. Winner gets a limited release in three cinemas nobody can reach.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "T",
+        "clue": "A large wooden horse — gone all Greek and started containing soldiers inside it."
+      },
+      {
+        "number": 2,
+        "initials": "B R",
+        "clue": "A man with a very large shield — gone all ancient Greek and started kicking people into pits."
+      },
+      {
+        "number": 3,
+        "initials": "N T D",
+        "clue": "Something that happens after midnight — gone all animated and started involving a man called Jack."
+      }
+    ]
+  },
+  {
+    "id": "filmbusters-066",
+    "enabled": true,
+    "title": "Film Busters",
+    "topic": "classic and modern films",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Film Busters. Three more. All from the big screen.",
+    "prize": "Email in. Winner gets a medium popcorn that costs as much as a mortgage payment.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "T L K",
+        "clue": "A very important male lion — gone all musical and started worrying about his place in the food chain."
+      },
+      {
+        "number": 2,
+        "initials": "E",
+        "clue": "A film about a strange creature being raised by a family — very tall, very kind, makes you cry."
+      },
+      {
+        "number": 3,
+        "initials": "I O",
+        "clue": "Something happening inside the skull — gone all colourful and started fighting about feelings."
+      }
+    ]
+  },
+  {
+    "id": "filmbusters-067",
+    "enabled": true,
+    "title": "Film Busters",
+    "topic": "classic and modern films",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Film Busters. Three more classics.",
+    "prize": "Email in. Winner gets a free cinema hot dog they'll regret.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "T G B",
+        "clue": "How good something is — gone all spaghetti western and started involving three armed men."
+      },
+      {
+        "number": 2,
+        "initials": "N T D",
+        "clue": "A timetable for something that hasn't happened yet — gone all Keanu Reeves and started on a bus."
+      },
+      {
+        "number": 3,
+        "initials": "A",
+        "clue": "An extraterrestrial being — gone all purple and started collecting gems to wipe out half of everything."
+      }
+    ]
+  },
+  {
+    "id": "filmbusters-068",
+    "enabled": true,
+    "title": "Film Busters",
+    "topic": "classic and modern films",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Film Busters. Three more. All phonetic.",
+    "prize": "Email in. Winner gets a limited edition blu-ray with no special features.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "S",
+        "clue": "A bloke in a top hat who lives in a stripy tower and makes chocolate."
+      },
+      {
+        "number": 2,
+        "initials": "R",
+        "clue": "A rat — gone all French and started cooking in a five-star restaurant in Paris."
+      },
+      {
+        "number": 3,
+        "initials": "B",
+        "clue": "A large bear from Peru — gone all British and started making marmalade sandwiches."
+      }
+    ]
+  },
+  {
+    "id": "filmbusters-069",
+    "enabled": true,
+    "title": "Film Busters",
+    "topic": "classic and modern films",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Film Busters. Three more films.",
+    "prize": "Email in. Winner gets a director's cut that's forty minutes too long.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "F F",
+        "clue": "A quick walker — gone all Southern American and started running across the country with a box of chocolates."
+      },
+      {
+        "number": 2,
+        "initials": "G",
+        "clue": "Phantom-catching equipment — gone all paranormal and started busting things in New York."
+      },
+      {
+        "number": 3,
+        "initials": "J P",
+        "clue": "A large extinct creature — gone all theme park and started eating visitors."
+      }
+    ]
+  },
+  {
+    "id": "filmbusters-070",
+    "enabled": true,
+    "title": "Film Busters",
+    "topic": "classic and modern films",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Film Busters. Three more to finish.",
+    "prize": "Email in. Winner gets a film adaptation of a book they loved that ruins everything.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "T F M",
+        "clue": "That full nude version of a town — gone all Sheffield and started organising a strip show for charity."
+      },
+      {
+        "number": 2,
+        "initials": "T",
+        "clue": "Heroin addiction in Edinburgh — a bloke chooses life, then doesn't, then does again."
+      },
+      {
+        "number": 3,
+        "initials": "F W A A F",
+        "clue": "Four occasions when people get married — one occasion when someone dies."
+      }
+    ]
+  },
+  {
+    "id": "cartoonbusters-021",
+    "enabled": true,
+    "title": "Cartoon Busters",
+    "topic": "animated films",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Cartoon Busters. More animated films. All phonetic.",
+    "prize": "Email in. Winner gets a plush toy of a character from a film they haven't seen.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "B",
+        "clue": "A young female who is very brave — goes off into the Scottish highlands and causes a lot of trouble."
+      },
+      {
+        "number": 2,
+        "initials": "T",
+        "clue": "A long-haired girl in a tower — goes out, causes chaos, and eventually gets a haircut."
+      },
+      {
+        "number": 3,
+        "initials": "E",
+        "clue": "A film in Spanish — a family with magical powers lives in a house that's also magical."
+      }
+    ]
+  },
+  {
+    "id": "cartoonbusters-022",
+    "enabled": true,
+    "title": "Cartoon Busters",
+    "topic": "animated films",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Cartoon Busters. Three more animated films.",
+    "prize": "Email in. Winner gets a colouring book of a film nobody remembers.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "O",
+        "clue": "Something happening in a vehicle moving forward — gone all Pixar and started involving emotions as characters."
+      },
+      {
+        "number": 2,
+        "initials": "S",
+        "clue": "A state of being — gone all jazz and started following a music teacher into the afterlife."
+      },
+      {
+        "number": 3,
+        "initials": "T R",
+        "clue": "A young female panda — gone all red and started embarrassing her mother."
+      }
+    ]
+  },
+  {
+    "id": "cartoonbusters-023",
+    "enabled": true,
+    "title": "Cartoon Busters",
+    "topic": "animated films",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Cartoon Busters. Three more cartoons.",
+    "prize": "Email in. Winner gets a sequel to a film that didn't need one.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "D M",
+        "clue": "A bloke who is very bad — gone all minion-shaped and started trying to steal the moon."
+      },
+      {
+        "number": 2,
+        "initials": "K F P",
+        "clue": "A large black and white bear — gone all martial arts and started kicking things impressively."
+      },
+      {
+        "number": 3,
+        "initials": "H T T Y D",
+        "clue": "A guide for taming a fire-breathing creature — a boy manages it despite everyone's advice."
+      }
+    ]
+  },
+  {
+    "id": "cartoonbusters-024",
+    "enabled": true,
+    "title": "Cartoon Busters",
+    "topic": "animated films",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Cartoon Busters. More animated classics.",
+    "prize": "Email in. Winner gets a sing-along version nobody asked for.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "T S 2",
+        "clue": "Children's playthings — gone all cinematic and started having adventures without the boy."
+      },
+      {
+        "number": 2,
+        "initials": "T S 3",
+        "clue": "Children's playthings — gone all emotional and started going to university."
+      },
+      {
+        "number": 3,
+        "initials": "M",
+        "clue": "A large island with dancing lemurs — a lion, a hippo, a giraffe, and a zebra visit."
+      }
+    ]
+  },
+  {
+    "id": "cartoonbusters-025",
+    "enabled": true,
+    "title": "Cartoon Busters",
+    "topic": "animated films",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Cartoon Busters. Three more animated films.",
+    "prize": "Email in. Winner gets a Blu-ray with a bonus disc that's just the trailer.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "S",
+        "clue": "Music — gone all competitive and started featuring animated creatures singing their hearts out."
+      },
+      {
+        "number": 2,
+        "initials": "T",
+        "clue": "Small colourful creatures with big hair — gone all musical and started trying to be happy."
+      },
+      {
+        "number": 3,
+        "initials": "B B",
+        "clue": "An infant — gone all suited and started managing a corporation of babies."
+      }
+    ]
+  },
+  {
+    "id": "cartoonbusters-026",
+    "enabled": true,
+    "title": "Cartoon Busters",
+    "topic": "animated films",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Cartoon Busters. Three more cartoons.",
+    "prize": "Email in. Winner gets an animated short before the main feature.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "T I 2",
+        "clue": "A group of exceptional people — gone all retired and started fighting again."
+      },
+      {
+        "number": 2,
+        "initials": "R",
+        "clue": "A place for cooking in a French kitchen — gone all rat-shaped and started making gourmet food."
+      },
+      {
+        "number": 3,
+        "initials": "L",
+        "clue": "A small battery-powered toy — gone all space age and started having an identity crisis."
+      }
+    ]
+  },
+  {
+    "id": "cartoonbusters-027",
+    "enabled": true,
+    "title": "Cartoon Busters",
+    "topic": "animated films",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Cartoon Busters. Three more animated films. All phonetic.",
+    "prize": "Email in. Winner gets a cinema loyalty card for a cinema that's closed.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "W W",
+        "clue": "A small cylindrical robot — gone all lonely and started collecting rubbish on an abandoned Earth."
+      },
+      {
+        "number": 2,
+        "initials": "U",
+        "clue": "A direction — gone all Pixar and involved a house flying away on balloons."
+      },
+      {
+        "number": 3,
+        "initials": "M I",
+        "clue": "A company that frightens people for a living — turns out the monsters are scared too."
+      }
+    ]
+  },
+  {
+    "id": "cartoonbusters-028",
+    "enabled": true,
+    "title": "Cartoon Busters",
+    "topic": "animated films",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Cartoon Busters. Three more.",
+    "prize": "Email in. Winner gets a signed cel from a film that was done on computers.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "T L M",
+        "clue": "A young female fish — gone all curious about the surface world and started collecting forks."
+      },
+      {
+        "number": 2,
+        "initials": "T E N G",
+        "clue": "A royal who is also very silly — loses his kingdom through his own stupidity."
+      },
+      {
+        "number": 3,
+        "initials": "L A S",
+        "clue": "Two small Hawaiian people — one of them is an alien and causes nothing but trouble."
+      }
+    ]
+  },
+  {
+    "id": "cartoonbusters-029",
+    "enabled": true,
+    "title": "Cartoon Busters",
+    "topic": "animated films",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Cartoon Busters. Almost done with the animations.",
+    "prize": "Email in. Winner gets a 3D glasses headache and a stiff neck.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "H",
+        "clue": "A Greek demigod — gone all muscles and started having adventures while a gospel choir narrates."
+      },
+      {
+        "number": 2,
+        "initials": "M",
+        "clue": "A Chinese soldier's daughter — pretends to be a man to save her father from war."
+      },
+      {
+        "number": 3,
+        "initials": "T",
+        "clue": "A man raised by apes in the jungle — very good at swinging between trees."
+      }
+    ]
+  },
+  {
+    "id": "cartoonbusters-030",
+    "enabled": true,
+    "title": "Cartoon Busters",
+    "topic": "animated films",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Cartoon Busters. Three final animations.",
+    "prize": "Email in. Winner gets the animatic and absolutely nothing else.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "R A T D",
+        "clue": "A young island girl — goes off to sea and has to find a demigod to save everyone."
+      },
+      {
+        "number": 2,
+        "initials": "P",
+        "clue": "A wooden puppet — really wants to be a real boy and tells lies with a growing nose."
+      },
+      {
+        "number": 3,
+        "initials": "B A T B",
+        "clue": "A very beautiful female — falls for a large hairy creature that turns out to be a prince."
+      }
+    ]
+  },
+  {
+    "id": "historybusters-021",
+    "enabled": true,
+    "title": "History Busters",
+    "topic": "famous historical figures",
+    "difficulty": "medium",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "History Busters. More famous figures from history. All phonetic.",
+    "prize": "Email in. Winner gets a Wikipedia page that needs citations.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "N M",
+        "clue": "A bloke called Nelson — went to prison, came out, and changed an entire country for the better."
+      },
+      {
+        "number": 2,
+        "initials": "A L",
+        "clue": "A very tall honest bloke from America — had a hat, a beard, and freed a lot of people."
+      },
+      {
+        "number": 3,
+        "initials": "G W",
+        "clue": "A bloke who chopped down a cherry tree — became the first president of a very large country."
+      }
+    ]
+  },
+  {
+    "id": "historybusters-022",
+    "enabled": true,
+    "title": "History Busters",
+    "topic": "famous historical figures",
+    "difficulty": "medium",
+    "office_safe": true,
+    "region_relevance": [
+      "UK"
+    ],
+    "intro": "History Busters. Three more from the history books.",
+    "prize": "Email in. Winner gets a dated encyclopaedia and a smug expression.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "Q V",
+        "clue": "A female ruler — gone all diamond jubilee and started wearing black for forty years."
+      },
+      {
+        "number": 2,
+        "initials": "F N",
+        "clue": "A lamp — gone all nursing and started improving hospital conditions during a war."
+      },
+      {
+        "number": 3,
+        "initials": "C D",
+        "clue": "A bloke who writes things down — gone all Victorian and started inventing street urchins."
+      }
+    ]
+  },
+  {
+    "id": "historybusters-023",
+    "enabled": true,
+    "title": "History Busters",
+    "topic": "famous historical figures",
+    "difficulty": "medium",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "History Busters. Three more great figures.",
+    "prize": "Email in. Winner gets a history lesson they didn't ask for.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "M P",
+        "clue": "A Venetian traveller — went all the way to China and wrote a very long book about it."
+      },
+      {
+        "number": 2,
+        "initials": "L D V",
+        "clue": "A bloke who painted a woman smiling mysteriously and also designed flying machines that didn't work."
+      },
+      {
+        "number": 3,
+        "initials": "G G",
+        "clue": "A bloke who looked through a tube at the sky and got in trouble for saying the Earth goes round the Sun."
+      }
+    ]
+  },
+  {
+    "id": "historybusters-024",
+    "enabled": true,
+    "title": "History Busters",
+    "topic": "famous historical figures",
+    "difficulty": "medium",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "History Busters. More historical figures.",
+    "prize": "Email in. Winner gets a bronze plaque with the wrong dates on it.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "J C",
+        "clue": "Crossing a piece of water — gone all Roman and started stabbing his friends in the senate."
+      },
+      {
+        "number": 2,
+        "initials": "C",
+        "clue": "An Egyptian queen — had a nose that supposedly changed the course of history."
+      },
+      {
+        "number": 3,
+        "initials": "A T H",
+        "clue": "A warrior on horseback — went all nomadic and started conquering most of Europe and Asia."
+      }
+    ]
+  },
+  {
+    "id": "historybusters-025",
+    "enabled": true,
+    "title": "History Busters",
+    "topic": "famous historical figures",
+    "difficulty": "medium",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "History Busters. Three more. All from the textbooks.",
+    "prize": "Email in. Winner gets a footnote in a book nobody reads.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "N B",
+        "clue": "A short French bloke — went all general and started invading things. Very keen on hats."
+      },
+      {
+        "number": 2,
+        "initials": "G K",
+        "clue": "A bloke on horseback — went all Mongolian and conquered most of the known world."
+      },
+      {
+        "number": 3,
+        "initials": "A T G",
+        "clue": "A bloke called Alex — went all Greek and started conquering everything from Egypt to India."
+      }
+    ]
+  },
+  {
+    "id": "historybusters-026",
+    "enabled": true,
+    "title": "History Busters",
+    "topic": "famous historical figures",
+    "difficulty": "medium",
+    "office_safe": true,
+    "region_relevance": [
+      "UK"
+    ],
+    "intro": "History Busters. More British history.",
+    "prize": "Email in. Winner gets a commemorative mug with a chip in it.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "H V I I I",
+        "clue": "A Tudor monarch — had six wives and kept losing patience with them. Very fond of his dinner."
+      },
+      {
+        "number": 2,
+        "initials": "E I",
+        "clue": "A female monarch — went all Tudor and started defeating the Spanish Armada."
+      },
+      {
+        "number": 3,
+        "initials": "W T C",
+        "clue": "A French duke who sailed across to England and won a very important battle."
+      }
+    ]
+  },
+  {
+    "id": "historybusters-027",
+    "enabled": true,
+    "title": "History Busters",
+    "topic": "famous historical figures",
+    "difficulty": "medium",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "History Busters. Three more. All famous names.",
+    "prize": "Email in. Winner gets a history podcast that's eighty hours long.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "C C",
+        "clue": "A navigator — went all sailing and accidentally discovered somewhere he wasn't looking for."
+      },
+      {
+        "number": 2,
+        "initials": "O C",
+        "clue": "A bloke from Ireland — went all Puritan and started chopping off the king's head."
+      },
+      {
+        "number": 3,
+        "initials": "M Q O S",
+        "clue": "A Scottish female monarch — things didn't end well. Very tragic."
+      }
+    ]
+  },
+  {
+    "id": "historybusters-028",
+    "enabled": true,
+    "title": "History Busters",
+    "topic": "famous historical figures",
+    "difficulty": "medium",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "History Busters. Three more historical names.",
+    "prize": "Email in. Winner gets a primary school project about the Romans.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "J S",
+        "clue": "A Soviet leader — went all steely and started running a very large cold country."
+      },
+      {
+        "number": 2,
+        "initials": "A H",
+        "clue": "A failed Austrian artist — went all dictator and caused the worst war in history."
+      },
+      {
+        "number": 3,
+        "initials": "A E",
+        "clue": "A very clever bloke — had wild hair, worked out that energy equals mass times the speed of light squared."
+      }
+    ]
+  },
+  {
+    "id": "historybusters-029",
+    "enabled": true,
+    "title": "History Busters",
+    "topic": "famous historical figures",
+    "difficulty": "medium",
+    "office_safe": true,
+    "region_relevance": [
+      "UK"
+    ],
+    "intro": "History Busters. Three more. All from history.",
+    "prize": "Email in. Winner gets a bronze age artefact and no context.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "R T L H",
+        "clue": "A crusading king — went all lion-hearted and spent most of his reign abroad."
+      },
+      {
+        "number": 2,
+        "initials": "I N",
+        "clue": "An apple fell on his head — went all gravity and started explaining why things fall down."
+      },
+      {
+        "number": 3,
+        "initials": "C D",
+        "clue": "A bloke on a boat — went to the Galapagos and came back saying everything was related to everything else."
+      }
+    ]
+  },
+  {
+    "id": "historybusters-030",
+    "enabled": true,
+    "title": "History Busters",
+    "topic": "famous historical figures",
+    "difficulty": "medium",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "History Busters. Three final historical figures.",
+    "prize": "Email in. Winner gets a history GCSE they didn't revise for.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "W C",
+        "clue": "A statesman who gave speeches during the war — very good with words, very fond of cigars."
+      },
+      {
+        "number": 2,
+        "initials": "G G",
+        "clue": "An Italian bloke — went all astronomy and looked at the sky until the church told him to stop."
+      },
+      {
+        "number": 3,
+        "initials": "A T H",
+        "clue": "A fierce horseman — went all nomadic and terrorised Europe until he ran out of places to conquer."
+      }
+    ]
+  },
+  {
+    "id": "holidaybusters-021",
+    "enabled": true,
+    "title": "Holiday Busters",
+    "topic": "holiday destinations",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK"
+    ],
+    "intro": "Holiday Busters. More destinations. All phonetic.",
+    "prize": "Email in. Winner gets a suitcase with a broken wheel.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "S",
+        "clue": "A group of Greek islands — very beautiful, very blue, very expensive since someone did a travel piece on them."
+      },
+      {
+        "number": 2,
+        "initials": "M",
+        "clue": "A series of small sandy islands in the Indian Ocean — very turquoise, very expensive, very remote."
+      },
+      {
+        "number": 3,
+        "initials": "C",
+        "clue": "A region of Mexico with very white beaches — popular with people who want to drink cocktails on sand."
+      }
+    ]
+  },
+  {
+    "id": "holidaybusters-022",
+    "enabled": true,
+    "title": "Holiday Busters",
+    "topic": "holiday destinations",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK"
+    ],
+    "intro": "Holiday Busters. Three more destinations.",
+    "prize": "Email in. Winner gets a hotel room that smells of other people.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "P",
+        "clue": "A Thai island — very popular, very busy, full of people who thought it would be quiet."
+      },
+      {
+        "number": 2,
+        "initials": "M",
+        "clue": "A Greek island — very fashionable, very white, windmills everywhere."
+      },
+      {
+        "number": 3,
+        "initials": "B B",
+        "clue": "A French Polynesian island — so beautiful it barely seems real. Very good for honeymoons."
+      }
+    ]
+  },
+  {
+    "id": "holidaybusters-023",
+    "enabled": true,
+    "title": "Holiday Busters",
+    "topic": "holiday destinations",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK"
+    ],
+    "intro": "Holiday Busters. Three UK destinations.",
+    "prize": "Email in. Winner gets a weekend in a caravan with intermittent rain.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "C",
+        "clue": "The most south-westerly bit of England — beautiful coast, cream teas, very long drive to get there."
+      },
+      {
+        "number": 2,
+        "initials": "L D",
+        "clue": "A region in the north of England — lots of lakes, lots of poets, lots of drizzle."
+      },
+      {
+        "number": 3,
+        "initials": "S H",
+        "clue": "The northern part of Scotland — mountains, lochs, midges, and tourists in waterproofs."
+      }
+    ]
+  },
+  {
+    "id": "holidaybusters-024",
+    "enabled": true,
+    "title": "Holiday Busters",
+    "topic": "holiday destinations",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK"
+    ],
+    "intro": "Holiday Busters. More UK and European destinations.",
+    "prize": "Email in. Winner gets a tourist information leaflet from 2003.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "D",
+        "clue": "A place in the south of England — famous for white cliffs and looking at France."
+      },
+      {
+        "number": 2,
+        "initials": "D",
+        "clue": "A coastal county famous for its coast and being a bit smug about it."
+      },
+      {
+        "number": 3,
+        "initials": "N F",
+        "clue": "A forested area in southern England — deer, ponies, and people on bicycles."
+      }
+    ]
+  },
+  {
+    "id": "holidaybusters-025",
+    "enabled": true,
+    "title": "Holiday Busters",
+    "topic": "holiday destinations",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK"
+    ],
+    "intro": "Holiday Busters. Three more destinations.",
+    "prize": "Email in. Winner gets a passport that expired six months ago.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "P",
+        "clue": "A long thin country in South America — next to the sea, very mountainous."
+      },
+      {
+        "number": 2,
+        "initials": "C R",
+        "clue": "A Central American country — very green, lots of wildlife, people go there to look at things."
+      },
+      {
+        "number": 3,
+        "initials": "T",
+        "clue": "A Southeast Asian country — very cheap, very hot, beautiful temples everywhere."
+      }
+    ]
+  },
+  {
+    "id": "holidaybusters-026",
+    "enabled": true,
+    "title": "Holiday Busters",
+    "topic": "holiday destinations",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK"
+    ],
+    "intro": "Holiday Busters. Three more. All destinations.",
+    "prize": "Email in. Winner gets a delayed flight and a voucher for the airport Wetherspoons.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "N",
+        "clue": "A county in the east of England — very flat, very wide skies, lots of broads."
+      },
+      {
+        "number": 2,
+        "initials": "P D",
+        "clue": "A hilly region in the Midlands — popular with walkers who like to look at things from heights."
+      },
+      {
+        "number": 3,
+        "initials": "Y",
+        "clue": "A large county in the north of England — very proud of itself and its puddings."
+      }
+    ]
+  },
+  {
+    "id": "holidaybusters-027",
+    "enabled": true,
+    "title": "Holiday Busters",
+    "topic": "holiday destinations",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK"
+    ],
+    "intro": "Holiday Busters. Three more holiday spots.",
+    "prize": "Email in. Winner gets a travel plug adapter for the wrong country.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "D",
+        "clue": "A Croatian city on the coast — very old walls, very popular with people who like Game of Thrones."
+      },
+      {
+        "number": 2,
+        "initials": "P",
+        "clue": "A Portuguese city full of people drinking port and going up hills on trams."
+      },
+      {
+        "number": 3,
+        "initials": "P",
+        "clue": "A coastal town on the French Riviera — very glamorous, very warm, very full of yachts."
+      }
+    ]
+  },
+  {
+    "id": "holidaybusters-028",
+    "enabled": true,
+    "title": "Holiday Busters",
+    "topic": "holiday destinations",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK"
+    ],
+    "intro": "Holiday Busters. Three more destinations.",
+    "prize": "Email in. Winner gets a travel insurance claim that takes eighteen months.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "B",
+        "clue": "An Indonesian island — very spiritual, very beautiful, rice paddies everywhere."
+      },
+      {
+        "number": 2,
+        "initials": "J",
+        "clue": "A Caribbean island — reggae music, Blue Mountains, beaches everywhere."
+      },
+      {
+        "number": 3,
+        "initials": "B",
+        "clue": "A Caribbean island — cricket mad, very colonial, very beautiful."
+      }
+    ]
+  },
+  {
+    "id": "holidaybusters-029",
+    "enabled": true,
+    "title": "Holiday Busters",
+    "topic": "holiday destinations",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK"
+    ],
+    "intro": "Holiday Busters. Three more destinations.",
+    "prize": "Email in. Winner gets a souvenir that breaks on the way home.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "C",
+        "clue": "A large island in the Mediterranean — very Greek, very mountainous, very popular."
+      },
+      {
+        "number": 2,
+        "initials": "C",
+        "clue": "A small island in the Mediterranean — British for a very long time, very hot."
+      },
+      {
+        "number": 3,
+        "initials": "M",
+        "clue": "A small island nation in the middle of the Mediterranean — Knights Hospitaller, very old buildings."
+      }
+    ]
+  },
+  {
+    "id": "holidaybusters-030",
+    "enabled": true,
+    "title": "Holiday Busters",
+    "topic": "holiday destinations",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK"
+    ],
+    "intro": "Holiday Busters. Three final destinations.",
+    "prize": "Email in. Winner gets the middle seat on a long-haul flight.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "I",
+        "clue": "A Spanish island — famous for nightclubs, sunburn, and people who should know better."
+      },
+      {
+        "number": 2,
+        "initials": "T",
+        "clue": "A long thin island off the coast of Spain — Alcudia, Palma, loads of British tourists."
+      },
+      {
+        "number": 3,
+        "initials": "G C",
+        "clue": "A Spanish island — sand dunes, beaches, and people reading crime novels."
+      }
+    ]
+  },
+  {
+    "id": "gamebusters-021",
+    "enabled": true,
+    "title": "Game Busters",
+    "topic": "video games and board games",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Game Busters. More games. All phonetic.",
+    "prize": "Email in. Winner gets a controller with a sticky thumbstick.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "T L O U",
+        "clue": "A zombie apocalypse — someone's trying to get a young girl from one side of America to the other."
+      },
+      {
+        "number": 2,
+        "initials": "G O W",
+        "clue": "A deity of fighting — going around killing other gods and getting very angry about things."
+      },
+      {
+        "number": 3,
+        "initials": "R D R",
+        "clue": "A cowboy on a horse — going around the Wild West doing morally questionable things."
+      }
+    ]
+  },
+  {
+    "id": "gamebusters-022",
+    "enabled": true,
+    "title": "Game Busters",
+    "topic": "video games and board games",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Game Busters. Three more games.",
+    "prize": "Email in. Winner gets a game that requires a day-one patch.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "A C",
+        "clue": "A murderer in a hood — going around historical cities stabbing people from great heights."
+      },
+      {
+        "number": 2,
+        "initials": "T S",
+        "clue": "A pretend family — you build their house, control their lives, and generally make things miserable."
+      },
+      {
+        "number": 3,
+        "initials": "C C",
+        "clue": "Sweets on a phone screen — matching coloured things in rows. Extremely addictive."
+      }
+    ]
+  },
+  {
+    "id": "gamebusters-023",
+    "enabled": true,
+    "title": "Game Busters",
+    "topic": "video games and board games",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Game Busters. Three more. All phonetic.",
+    "prize": "Email in. Winner gets a gaming chair that broke after two weeks.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "A B",
+        "clue": "Creatures that are very cross — being launched from a catapult at structures built by pigs."
+      },
+      {
+        "number": 2,
+        "initials": "A U",
+        "clue": "People on a spaceship — some of them are saboteurs, you have to figure out which ones."
+      },
+      {
+        "number": 3,
+        "initials": "O",
+        "clue": "A shooting game — go around with other players, build things, and fall out of a flying bus."
+      }
+    ]
+  },
+  {
+    "id": "gamebusters-024",
+    "enabled": true,
+    "title": "Game Busters",
+    "topic": "video games and board games",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Game Busters. Three more games.",
+    "prize": "Email in. Winner gets a save file from level 47 of a game they've never played.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "W",
+        "clue": "A five-letter word guessing game — everyone plays it at breakfast and argues about it."
+      },
+      {
+        "number": 2,
+        "initials": "R",
+        "clue": "A large platform used for creative construction — millions of people playing in a blocky world."
+      },
+      {
+        "number": 3,
+        "initials": "L O L",
+        "clue": "A competitive online arena — five players fight five others with fictional characters."
+      }
+    ]
+  },
+  {
+    "id": "gamebusters-025",
+    "enabled": true,
+    "title": "Game Busters",
+    "topic": "video games and board games",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Game Busters. Three more. All from gaming.",
+    "prize": "Email in. Winner gets a loot box with nothing good in it.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "C 2",
+        "clue": "A futuristic city — gone all dystopian and a bloke with implants drives around causing chaos."
+      },
+      {
+        "number": 2,
+        "initials": "H",
+        "clue": "A ring — gone all military and started involving a group of soldiers in green armour fighting aliens."
+      },
+      {
+        "number": 3,
+        "initials": "P",
+        "clue": "An underground walkway for pipes — gone all physics-based and started involving a woman called Chell."
+      }
+    ]
+  },
+  {
+    "id": "gamebusters-026",
+    "enabled": true,
+    "title": "Game Busters",
+    "topic": "video games and board games",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Game Busters. Three more games.",
+    "prize": "Email in. Winner gets a gaming headset that only picks up everyone else's breathing.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "R E",
+        "clue": "A large old house — gone all zombies and started requiring a lot of puzzle solving."
+      },
+      {
+        "number": 2,
+        "initials": "M K",
+        "clue": "A combat game — very violent, everyone does finishing moves nobody should describe."
+      },
+      {
+        "number": 3,
+        "initials": "S F",
+        "clue": "A fighting competition on a road — people in colourful outfits punch each other."
+      }
+    ]
+  },
+  {
+    "id": "gamebusters-027",
+    "enabled": true,
+    "title": "Game Busters",
+    "topic": "video games and board games",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Game Busters. Three more. All gaming classics.",
+    "prize": "Email in. Winner gets a game over screen and no continue option.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "S T H",
+        "clue": "A blue creature — goes very fast, collects rings, hates a fat scientist with a moustache."
+      },
+      {
+        "number": 2,
+        "initials": "T R",
+        "clue": "A female archaeologist — goes into old tombs and shoots things."
+      },
+      {
+        "number": 3,
+        "initials": "Z",
+        "clue": "An elf in a green tunic — goes around collecting triangles and saving a princess."
+      }
+    ]
+  },
+  {
+    "id": "gamebusters-028",
+    "enabled": true,
+    "title": "Game Busters",
+    "topic": "video games and board games",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Game Busters. Three more games.",
+    "prize": "Email in. Winner gets a character skin that makes them look worse.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "M",
+        "clue": "A property board game — involves buying streets, building hotels, and ruining relationships."
+      },
+      {
+        "number": 2,
+        "initials": "S",
+        "clue": "A word game — seven tiles, a board, a dictionary argument, and a family row."
+      },
+      {
+        "number": 3,
+        "initials": "T P",
+        "clue": "A quiz game in a pie shape — a wedge for every category, complete arguments over geography."
+      }
+    ]
+  },
+  {
+    "id": "gamebusters-029",
+    "enabled": true,
+    "title": "Game Busters",
+    "topic": "video games and board games",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Game Busters. Three more.",
+    "prize": "Email in. Winner gets a battle pass that expires before they can use it.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "F",
+        "clue": "A survival game — drop onto a large island, find weapons, be the last one standing."
+      },
+      {
+        "number": 2,
+        "initials": "M",
+        "clue": "A blocky world — dig, build, craft, survive the night when everything comes to kill you."
+      },
+      {
+        "number": 3,
+        "initials": "G T A",
+        "clue": "A car-themed crime game — go around a city causing chaos and avoiding police."
+      }
+    ]
+  },
+  {
+    "id": "gamebusters-030",
+    "enabled": true,
+    "title": "Game Busters",
+    "topic": "video games and board games",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Game Busters. Three final games.",
+    "prize": "Email in. Winner gets an achievement nobody will ever see.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "D K",
+        "clue": "A large ape — throws barrels at a little man trying to climb up to rescue someone."
+      },
+      {
+        "number": 2,
+        "initials": "P M",
+        "clue": "A circular yellow creature — eats dots, avoids ghosts, been doing it since 1980."
+      },
+      {
+        "number": 3,
+        "initials": "C O D",
+        "clue": "A military fish — gone all first-person shooter and started having very serious conversations over headsets."
+      }
+    ]
+  },
+  {
+    "id": "foodbusters-041",
+    "enabled": true,
+    "title": "Food Busters",
+    "topic": "world foods and dishes",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK"
+    ],
+    "intro": "Food Busters. More dishes. All phonetic.",
+    "prize": "Email in. Winner gets a takeaway that arrives an hour late.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "F E",
+        "clue": "A full morning meal — bacon, eggs, sausage, beans, everything. Very British. Very excessive."
+      },
+      {
+        "number": 2,
+        "initials": "T I T H",
+        "clue": "Sausages — submerged inside a Yorkshire pudding. Very British."
+      },
+      {
+        "number": 3,
+        "initials": "B A M",
+        "clue": "Cylindrical meat products — accompanied by mashed potato. Very comforting."
+      }
+    ]
+  },
+  {
+    "id": "foodbusters-042",
+    "enabled": true,
+    "title": "Food Busters",
+    "topic": "world foods and dishes",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK"
+    ],
+    "intro": "Food Busters. Three more dishes.",
+    "prize": "Email in. Winner gets a restaurant booking for the wrong day.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "C P",
+        "clue": "A pastry shaped like a half-moon — filled with meat and vegetables, from the far south-west of England."
+      },
+      {
+        "number": 2,
+        "initials": "S E",
+        "clue": "A hard-boiled egg — wrapped in sausage meat and breadcrumbs. Very picnic."
+      },
+      {
+        "number": 3,
+        "initials": "H",
+        "clue": "A Scottish dish — made from a sheep's insides, with oatmeal, onion. Served on Burns Night."
+      }
+    ]
+  },
+  {
+    "id": "foodbusters-043",
+    "enabled": true,
+    "title": "Food Busters",
+    "topic": "world foods and dishes",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK"
+    ],
+    "intro": "Food Busters. Three more foods.",
+    "prize": "Email in. Winner gets a michelin star for something they made in a microwave.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "Y P",
+        "clue": "A large puffed-up pudding — goes with a Sunday roast, falls flat if you open the oven too early."
+      },
+      {
+        "number": 2,
+        "initials": "W R",
+        "clue": "A toasted cheese dish — from Wales, nothing to do with actual rabbits."
+      },
+      {
+        "number": 3,
+        "initials": "B P",
+        "clue": "A dark processed pig product — eaten in full breakfast, some people refuse to discuss it."
+      }
+    ]
+  },
+  {
+    "id": "foodbusters-044",
+    "enabled": true,
+    "title": "Food Busters",
+    "topic": "world foods and dishes",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Food Busters. Three more international dishes.",
+    "prize": "Email in. Winner gets a trip to a restaurant that's stopped doing that dish.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "G",
+        "clue": "Small Japanese parcels of filling — fried or steamed, always delicious."
+      },
+      {
+        "number": 2,
+        "initials": "B",
+        "clue": "A Middle Eastern pastry — layers of filo, honey, and nuts. Very sweet, very sticky."
+      },
+      {
+        "number": 3,
+        "initials": "S R",
+        "clue": "A bread roll — gone all Vietnamese and started containing pork, pickles, and coriander."
+      }
+    ]
+  },
+  {
+    "id": "foodbusters-045",
+    "enabled": true,
+    "title": "Food Busters",
+    "topic": "world foods and dishes",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Food Busters. Three more. All phonetic.",
+    "prize": "Email in. Winner gets a portion of something they can't identify.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "S",
+        "clue": "A small Indian triangle — filled with potato and peas, deep fried. Excellent."
+      },
+      {
+        "number": 2,
+        "initials": "P",
+        "clue": "An Indian fritter — vegetables in batter, deep fried. Excellent with chutney."
+      },
+      {
+        "number": 3,
+        "initials": "D",
+        "clue": "Small parcels of dough filled with things — Chinese, steamed or fried, eaten with chopsticks."
+      }
+    ]
+  },
+  {
+    "id": "foodbusters-046",
+    "enabled": true,
+    "title": "Food Busters",
+    "topic": "world foods and dishes",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Food Busters. Three more dishes.",
+    "prize": "Email in. Winner gets a food delivery with the wrong order.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "S B",
+        "clue": "A Japanese dish — raw fish on rice, beautiful presentation, someone spent years training for this."
+      },
+      {
+        "number": 2,
+        "initials": "R",
+        "clue": "A Japanese noodle dish — in a very rich broth, lots of toppings, became very fashionable."
+      },
+      {
+        "number": 3,
+        "initials": "P T",
+        "clue": "A Thai noodle dish — stir fried, with peanuts, bean sprouts, and a lime wedge."
+      }
+    ]
+  },
+  {
+    "id": "foodbusters-047",
+    "enabled": true,
+    "title": "Food Busters",
+    "topic": "world foods and dishes",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Food Busters. Three more.",
+    "prize": "Email in. Winner gets a cookbook they'll never open.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "N",
+        "clue": "Tortilla chips with cheese and toppings — found at Mexican restaurants and the cinema."
+      },
+      {
+        "number": 2,
+        "initials": "E",
+        "clue": "A wrap — filled with spicy meat, rice and beans, Mexican in origin."
+      },
+      {
+        "number": 3,
+        "initials": "B",
+        "clue": "A large flour wrap — filled with everything, rolled up, eaten with hands."
+      }
+    ]
+  },
+  {
+    "id": "foodbusters-048",
+    "enabled": true,
+    "title": "Food Busters",
+    "topic": "world foods and dishes",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Food Busters. Three more dishes. All phonetic.",
+    "prize": "Email in. Winner gets a portion of leftovers from the day before.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "P A",
+        "clue": "A Spanish rice dish — cooked in a big flat pan with seafood or chicken, very yellow."
+      },
+      {
+        "number": 2,
+        "initials": "M",
+        "clue": "A Greek baked dish — layers of meat, aubergine, and a white sauce on top."
+      },
+      {
+        "number": 3,
+        "initials": "G",
+        "clue": "A central European stew — beef, paprika, very hearty, from Hungary."
+      }
+    ]
+  },
+  {
+    "id": "foodbusters-049",
+    "enabled": true,
+    "title": "Food Busters",
+    "topic": "world foods and dishes",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Food Busters. Three more.",
+    "prize": "Email in. Winner gets a meal deal that expired yesterday.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "T T",
+        "clue": "A dark sticky sweet — baked in a pastry case, found in Victorian cookbooks."
+      },
+      {
+        "number": 2,
+        "initials": "S T P",
+        "clue": "A dark sticky sponge — with a toffee sauce poured over, very indulgent."
+      },
+      {
+        "number": 3,
+        "initials": "R P",
+        "clue": "Grains cooked in milk — sweet, comforting, either loved or hated by people who had it at school."
+      }
+    ]
+  },
+  {
+    "id": "foodbusters-050",
+    "enabled": true,
+    "title": "Food Busters",
+    "topic": "world foods and dishes",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Food Busters. Three final dishes.",
+    "prize": "Email in. Winner gets a very small portion of something very expensive.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "C T M",
+        "clue": "A British-Indian classic — chicken in a creamy tomato sauce. Apparently Britain's favourite dish."
+      },
+      {
+        "number": 2,
+        "initials": "F A C",
+        "clue": "A deep fried fish — sitting next to some chips. British institution."
+      },
+      {
+        "number": 3,
+        "initials": "E M",
+        "clue": "A messy British dessert — smashed meringue with cream and fruit. Very polite chaos."
+      }
+    ]
+  },
+  {
+    "id": "disasterbusters-004",
+    "enabled": true,
+    "title": "Disaster Busters",
+    "topic": "famous disasters and catastrophes",
+    "difficulty": "medium",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Disaster Busters. More famous disasters. All phonetic.",
+    "prize": "Email in. Winner gets a disaster plan with several key sections missing.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "H K",
+        "clue": "A tropical storm with a woman's name — went all American and flooded a very famous city."
+      },
+      {
+        "number": 2,
+        "initials": "G F O L",
+        "clue": "A very large fire — happened in London in 1666. Destroyed most of the city."
+      },
+      {
+        "number": 3,
+        "initials": "S F E",
+        "clue": "A city in California — shook violently and fell down in 1906. Very dramatic."
+      }
+    ]
+  },
+  {
+    "id": "disasterbusters-005",
+    "enabled": true,
+    "title": "Disaster Busters",
+    "topic": "famous disasters and catastrophes",
+    "difficulty": "medium",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Disaster Busters. Three final disasters.",
+    "prize": "Email in. Winner gets a hard hat and a very concerned look.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "B D",
+        "clue": "A chemical plant — leaked poison gas in India in 1984. One of the worst industrial accidents."
+      },
+      {
+        "number": 2,
+        "initials": "B D",
+        "clue": "A very dark Tuesday — the financial markets went all panicky in 1929 and everything went wrong."
+      },
+      {
+        "number": 3,
+        "initials": "M S H",
+        "clue": "A volcano — erupted dramatically in Washington state in 1980. Blew its top off."
+      }
+    ]
+  },
+  {
+    "id": "musicalbusters-004",
+    "enabled": true,
+    "title": "Musical Busters",
+    "topic": "famous stage musicals",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Musical Busters. More stage shows. All phonetic.",
+    "prize": "Email in. Winner gets a seat in the gods with a restricted view.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "O",
+        "clue": "A boy who asks for more — goes to London, falls in with criminals. Very catchy songs."
+      },
+      {
+        "number": 2,
+        "initials": "T P O T O",
+        "clue": "A masked man who lives beneath an opera house — not very happy about it."
+      },
+      {
+        "number": 3,
+        "initials": "W S S",
+        "clue": "Two rival gangs in New York — dancing and fighting in equal measure. Very dramatic."
+      }
+    ]
+  },
+  {
+    "id": "musicalbusters-005",
+    "enabled": true,
+    "title": "Musical Busters",
+    "topic": "famous stage musicals",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Musical Busters. Three final shows. All phonetic.",
+    "prize": "Email in. Winner gets a programme that costs twelve pounds and tells you nothing.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "G",
+        "clue": "A very popular American school musical — leather jackets, fast cars, summer romance."
+      },
+      {
+        "number": 2,
+        "initials": "C",
+        "clue": "A jazz-themed show about murder in 1920s Chicago — all razzle dazzle."
+      },
+      {
+        "number": 3,
+        "initials": "R",
+        "clue": "A show about bohemians in New York — living for today, singing about seasons."
+      }
+    ]
+  },
+  {
+    "id": "wonderbusters-004",
+    "enabled": true,
+    "title": "Wonder Busters",
+    "topic": "wonders of the world",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Wonder Busters. Two more wonders.",
+    "prize": "Email in. Winner gets a fridge magnet that doesn't stick.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "E T",
+        "clue": "A metal tower — went all Parisian and became the most recognisable thing in France."
+      },
+      {
+        "number": 2,
+        "initials": "S O H",
+        "clue": "A building shaped like sails — went all Australian and started hosting opera."
+      },
+      {
+        "number": 3,
+        "initials": "G C",
+        "clue": "A very large crack in the ground — in Arizona, millions of years old, very photogenic."
+      }
+    ]
+  },
+  {
+    "id": "wonderbusters-005",
+    "enabled": true,
+    "title": "Wonder Busters",
+    "topic": "wonders of the world",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Wonder Busters. Three final wonders.",
+    "prize": "Email in. Winner gets a wonder that's currently under renovation.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "G G B",
+        "clue": "A reddish-orange bridge — went all San Franciscan and became very famous for being very foggy."
+      },
+      {
+        "number": 2,
+        "initials": "N F",
+        "clue": "A large amount of water going over a ledge — on the border of America and Canada. Very loud."
+      },
+      {
+        "number": 3,
+        "initials": "B K",
+        "clue": "A very tall building in Dubai — went all glass-and-steel and became the tallest thing in the world."
+      }
+    ]
+  },
+  {
+    "id": "pokemonbusters-004",
+    "enabled": true,
+    "title": "Pokemon Busters",
+    "topic": "Pokemon characters",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Pokemon Busters. More Pokemon. Say them out loud.",
+    "prize": "Email in. Winner gets a holographic card that's not rare anymore.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "C",
+        "clue": "A small orange lizard — has a flame on its tail. Goes all fire and starts breathing it."
+      },
+      {
+        "number": 2,
+        "initials": "E",
+        "clue": "A small fox-like creature — can evolve into almost anything. Very popular."
+      },
+      {
+        "number": 3,
+        "initials": "J",
+        "clue": "A pink round creature — sings a lullaby that puts everyone to sleep. Annoying."
+      }
+    ]
+  },
+  {
+    "id": "pokemonbusters-005",
+    "enabled": true,
+    "title": "Pokemon Busters",
+    "topic": "Pokemon characters",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Pokemon Busters. Three final Pokemon.",
+    "prize": "Email in. Winner gets a Pokemon that refuses to evolve.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "P",
+        "clue": "A yellow duck — always looks confused. Has a perpetual headache."
+      },
+      {
+        "number": 2,
+        "initials": "M",
+        "clue": "A useless fish — can barely swim, flops about. Evolves into something terrifying."
+      },
+      {
+        "number": 3,
+        "initials": "D",
+        "clue": "A large dragon-like creature — orange, very powerful, very hard to control."
+      }
+    ]
+  },
+  {
+    "id": "comediansbusters-021",
+    "enabled": true,
+    "title": "Comedians Busters",
+    "topic": "UK comedians",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK"
+    ],
+    "intro": "Comedians Busters. Two more comedians. All phonetic.",
+    "prize": "Email in. Winner gets a heckle and an awkward silence.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "A C",
+        "clue": "A camp bloke from Essex — very loud, very funny, talks about his life in detail."
+      },
+      {
+        "number": 2,
+        "initials": "F S",
+        "clue": "A bloke from Birmingham — observational, very dry, been going since the 1980s."
+      },
+      {
+        "number": 3,
+        "initials": "J B",
+        "clue": "A large female comedian — very deadpan, very dry, has been on every panel show."
+      }
+    ]
+  },
+  {
+    "id": "comediansbusters-022",
+    "enabled": true,
+    "title": "Comedians Busters",
+    "topic": "UK comedians",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK"
+    ],
+    "intro": "Comedians Busters. Three final comedians.",
+    "prize": "Email in. Winner gets a five-minute slot at an open mic night.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "B C",
+        "clue": "A Scottish bloke — very big, very hairy, been making people laugh since before most of us were born."
+      },
+      {
+        "number": 2,
+        "initials": "K B",
+        "clue": "A Scottish comedian — observational, very likeable, talks about being Scottish a lot."
+      },
+      {
+        "number": 3,
+        "initials": "R H",
+        "clue": "A bloke called Russell — had a chat show, got in trouble, very quick-witted."
+      }
+    ]
   }
 ]

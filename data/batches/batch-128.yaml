@@ -1,0 +1,98 @@
+- id: historybusters-027
+  enabled: true
+  title: History Busters
+  topic: famous historical figures
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: History Busters. Three more. All famous names.
+  prize: Email in. Winner gets a history podcast that's eighty hours long.
+  clues:
+  - number: 1
+    initials: C C
+    clue: A navigator — went all sailing and accidentally discovered somewhere he wasn't looking for.
+    answer: Christopher Columbus
+    aliases:
+    - christopher columbus
+    reasoning: Christopher (a name) + Columbus (a name/a city) = Christopher Columbus
+  - number: 2
+    initials: O C
+    clue: A bloke from Ireland — went all Puritan and started chopping off the king's head.
+    answer: Oliver Cromwell
+    aliases:
+    - oliver cromwell
+    reasoning: Oliver (a name) + Cromwell (a name) = Oliver Cromwell
+  - number: 3
+    initials: M Q O S
+    clue: A Scottish female monarch — things didn't end well. Very tragic.
+    answer: Mary Queen of Scots
+    aliases:
+    - mary queen of scots
+    reasoning: Mary + Queen + of + Scots = Mary Queen of Scots
+- id: historybusters-028
+  enabled: true
+  title: History Busters
+  topic: famous historical figures
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: History Busters. Three more historical names.
+  prize: Email in. Winner gets a primary school project about the Romans.
+  clues:
+  - number: 1
+    initials: J S
+    clue: A Soviet leader — went all steely and started running a very large cold country.
+    answer: Joseph Stalin
+    aliases:
+    - joseph stalin
+    reasoning: Joseph (a name) + Stalin (steel in Russian) = Joseph Stalin
+  - number: 2
+    initials: A H
+    clue: A failed Austrian artist — went all dictator and caused the worst war in history.
+    answer: Adolf Hitler
+    aliases:
+    - adolf hitler
+    reasoning: Adolf (a name) + Hitler (a name) = Adolf Hitler
+  - number: 3
+    initials: A E
+    clue: A very clever bloke — had wild hair, worked out that energy equals mass times the speed of light squared.
+    answer: Albert Einstein
+    aliases:
+    - albert einstein
+    reasoning: Albert (a name) + Einstein (a name) = Albert Einstein
+- id: historybusters-029
+  enabled: true
+  title: History Busters
+  topic: famous historical figures
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+  - UK
+  intro: History Busters. Three more. All from history.
+  prize: Email in. Winner gets a bronze age artefact and no context.
+  clues:
+  - number: 1
+    initials: R T L H
+    clue: A crusading king — went all lion-hearted and spent most of his reign abroad.
+    answer: Richard the Lionheart
+    aliases:
+    - richard the lionheart
+    reasoning: Richard + the + Lionheart (brave as a lion) = Richard the Lionheart
+  - number: 2
+    initials: I N
+    clue: An apple fell on his head — went all gravity and started explaining why things fall down.
+    answer: Isaac Newton
+    aliases:
+    - isaac newton
+    reasoning: Isaac (a name) + Newton (a name/unit of force) = Isaac Newton
+  - number: 3
+    initials: C D
+    clue: A bloke on a boat — went to the Galapagos and came back saying everything was related to everything else.
+    answer: Charles Darwin
+    aliases:
+    - charles darwin
+    reasoning: Charles (a name) + Darwin (a name/city in Australia) = Charles Darwin

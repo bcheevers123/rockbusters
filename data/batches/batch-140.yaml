@@ -1,0 +1,99 @@
+- id: mythbusters-013
+  enabled: true
+  title: Myth Busters
+  topic: mythology and legends
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Myth Busters. Three more mythological characters.
+  prize: Email in. Winner gets a prophecy that's open to interpretation.
+  clues:
+  - number: 1
+    initials: P
+    clue: A hero — sliced off a snake-haired woman's head and used it to turn people to stone.
+    answer: Perseus
+    aliases:
+    - perseus
+    reasoning: Perseus (Greek hero who slew Medusa) = Perseus
+  - number: 2
+    initials: T
+    clue: An Athenian hero — killed a half-man half-bull in a maze. Very brave.
+    answer: Theseus
+    aliases:
+    - theseus
+    reasoning: Theseus (killed the Minotaur) = Theseus
+  - number: 3
+    initials: O
+    clue: A musician — went down into the underworld to get his wife back. Looked back. Shouldn't have.
+    answer: Orpheus
+    aliases:
+    - orpheus
+    reasoning: Orpheus (the musician who descended to Hades) = Orpheus
+- id: mythbusters-014
+  enabled: true
+  title: Myth Busters
+  topic: mythology and legends
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Myth Busters. Three more. All mythological.
+  prize: Email in. Winner gets an oracle that's deliberately vague.
+  clues:
+  - number: 1
+    initials: A
+    clue: A Greek goddess — born from sea foam. Very beautiful, in charge of love.
+    answer: Aphrodite
+    aliases:
+    - aphrodite
+    reasoning: Aphrodite (Greek goddess of love) = Aphrodite
+  - number: 2
+    initials: A
+    clue: A Greek goddess — born from her father's head. In charge of wisdom and warfare.
+    answer: Athena
+    aliases:
+    - athena
+    reasoning: Athena (Greek goddess of wisdom) = Athena
+  - number: 3
+    initials: A
+    clue: A Greek god — twin of Artemis. In charge of the sun, music, and poetry.
+    answer: Apollo
+    aliases:
+    - apollo
+    reasoning: Apollo (Greek god of the sun) = Apollo
+- id: mythbusters-015
+  enabled: true
+  title: Myth Busters
+  topic: mythology and legends
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Myth Busters. Three more mythological figures.
+  prize: Email in. Winner gets an epic poem about their commute.
+  clues:
+  - number: 1
+    initials: P
+    clue: A winged horse — white, flies, very majestic, born from Medusa's blood.
+    answer: Pegasus
+    aliases:
+    - pegasus
+    reasoning: Pegasus (the winged horse) = Pegasus
+  - number: 2
+    initials: P
+    clue: A Greek goddess — went to live in the underworld for six months of the year. That's why we have winter.
+    answer: Persephone
+    aliases:
+    - persephone
+    reasoning: Persephone (goddess of spring/queen of underworld) = Persephone
+  - number: 3
+    initials: P
+    clue: A Greek god — in charge of the sea. Very temperamental. Has a trident.
+    answer: Poseidon
+    aliases:
+    - poseidon
+    reasoning: Poseidon (Greek god of the sea) = Poseidon

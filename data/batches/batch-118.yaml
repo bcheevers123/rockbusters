@@ -1,0 +1,99 @@
+- id: tvbusters-047
+  enabled: true
+  title: TV Busters
+  topic: classic and modern TV shows
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: TV Busters. Three more shows.
+  prize: Email in. Winner gets a streaming service they didn't sign up for.
+  clues:
+  - number: 1
+    initials: F
+    clue: A bloke from Seattle who is very good at listening to people's problems on the radio.
+    answer: Frasier
+    aliases:
+    - frasier
+    reasoning: Frasier (the character's surname) = Frasier
+  - number: 2
+    initials: S
+    clue: That investigator with a pipe and a dressing gown — very clever, lives in Baker Street.
+    answer: Sherlock
+    aliases:
+    - sherlock
+    reasoning: Sherlock (Holmes) = Sherlock
+  - number: 3
+    initials: D W
+    clue: A medical man who travels through time in a telephone box — been going since the 1960s.
+    answer: Doctor Who
+    aliases:
+    - doctor who
+    reasoning: Doctor (medical title) + Who (questioning pronoun) = Doctor Who
+- id: tvbusters-048
+  enabled: true
+  title: TV Busters
+  topic: classic and modern TV shows
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: TV Busters. Three more. All from the telly.
+  prize: Email in. Winner gets a repeat and an episode they've already seen.
+  clues:
+  - number: 1
+    initials: T C
+    clue: A big expensive hat — gone all royal and started depicting the Queen's life in great detail.
+    answer: The Crown
+    aliases:
+    - the crown
+    reasoning: The + Crown (royal headwear) = The Crown
+  - number: 2
+    initials: D A
+    clue: Going down in rank — gone all Edwardian and started involving a lot of dinner parties.
+    answer: Downton Abbey
+    aliases:
+    - downton abbey
+    reasoning: Downton (a place name) + Abbey (a monastery/church) = Downton Abbey
+  - number: 3
+    initials: L O D
+    clue: A queue — gone all police procedural and started investigating corruption.
+    answer: Line of Duty
+    aliases:
+    - line of duty
+    reasoning: Line + of + Duty = Line of Duty
+- id: tvbusters-049
+  enabled: true
+  title: TV Busters
+  topic: classic and modern TV shows
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: TV Busters. Three more.
+  prize: Email in. Winner gets an episode guide nobody asked for.
+  clues:
+  - number: 1
+    initials: P B
+    clue: A set of sharp spines on a mountain range — gone all Birmingham and started making razor blades.
+    answer: Peaky Blinders
+    aliases:
+    - peaky blinders
+    reasoning: Peaky (peaks/pointed) + Blinders (blinkers/the cap gang) = Peaky Blinders
+  - number: 2
+    initials: F
+    clue: A small insect that jumps — gone all Irish and started involving priests on a small island.
+    answer: Fleabag
+    aliases:
+    - fleabag
+    reasoning: Flea (a small jumping insect) + bag = Fleabag
+  - number: 3
+    initials: G A S
+    clue: A bloke called Gavin — gone all Welsh and started being very fond of his girlfriend.
+    answer: Gavin and Stacey
+    aliases:
+    - gavin and stacey
+    reasoning: Gavin + and + Stacey = Gavin and Stacey

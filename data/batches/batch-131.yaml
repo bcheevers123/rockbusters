@@ -1,0 +1,97 @@
+- id: holidaybusters-026
+  enabled: true
+  title: Holiday Busters
+  topic: holiday destinations
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  intro: Holiday Busters. Three more. All destinations.
+  prize: Email in. Winner gets a delayed flight and a voucher for the airport Wetherspoons.
+  clues:
+  - number: 1
+    initials: N
+    clue: A county in the east of England — very flat, very wide skies, lots of broads.
+    answer: Norfolk
+    aliases:
+    - norfolk
+    reasoning: Norfolk (the UK county) = Norfolk
+  - number: 2
+    initials: P D
+    clue: A hilly region in the Midlands — popular with walkers who like to look at things from heights.
+    answer: Peak District
+    aliases:
+    - peak district
+    - the peak district
+    reasoning: Peak + District = Peak District
+  - number: 3
+    initials: Y
+    clue: A large county in the north of England — very proud of itself and its puddings.
+    answer: Yorkshire
+    aliases:
+    - yorkshire
+    reasoning: Yorkshire (the UK county) = Yorkshire
+- id: holidaybusters-027
+  enabled: true
+  title: Holiday Busters
+  topic: holiday destinations
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  intro: Holiday Busters. Three more holiday spots.
+  prize: Email in. Winner gets a travel plug adapter for the wrong country.
+  clues:
+  - number: 1
+    initials: D
+    clue: A Croatian city on the coast — very old walls, very popular with people who like Game of Thrones.
+    answer: Dubrovnik
+    aliases:
+    - dubrovnik
+    reasoning: Dubrovnik (Croatian city) = Dubrovnik
+  - number: 2
+    initials: P
+    clue: A Portuguese city full of people drinking port and going up hills on trams.
+    answer: Porto
+    aliases:
+    - porto
+    reasoning: Porto (Portuguese city) = Porto
+  - number: 3
+    initials: P
+    clue: A coastal town on the French Riviera — very glamorous, very warm, very full of yachts.
+    answer: Positano
+    aliases:
+    - positano
+    reasoning: Positano (Italian coastal town) = Positano
+- id: holidaybusters-028
+  enabled: true
+  title: Holiday Busters
+  topic: holiday destinations
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  intro: Holiday Busters. Three more destinations.
+  prize: Email in. Winner gets a travel insurance claim that takes eighteen months.
+  clues:
+  - number: 1
+    initials: B
+    clue: An Indonesian island — very spiritual, very beautiful, rice paddies everywhere.
+    answer: Bali
+    aliases:
+    - bali
+    reasoning: Bali (Indonesian island) = Bali
+  - number: 2
+    initials: J
+    clue: A Caribbean island — reggae music, Blue Mountains, beaches everywhere.
+    answer: Jamaica
+    aliases:
+    - jamaica
+    reasoning: Jamaica (Caribbean island) = Jamaica
+  - number: 3
+    initials: B
+    clue: A Caribbean island — cricket mad, very colonial, very beautiful.
+    answer: Barbados
+    aliases:
+    - barbados
+    reasoning: Barbados (Caribbean island) = Barbados

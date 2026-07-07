@@ -1,0 +1,99 @@
+- id: wonderbusters-004
+  enabled: true
+  title: Wonder Busters
+  topic: wonders of the world
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Wonder Busters. Two more wonders.
+  prize: Email in. Winner gets a fridge magnet that doesn't stick.
+  clues:
+  - number: 1
+    initials: E T
+    clue: A metal tower — went all Parisian and became the most recognisable thing in France.
+    answer: Eiffel Tower
+    aliases:
+    - eiffel tower
+    reasoning: Eiffel (the engineer) + Tower = Eiffel Tower
+  - number: 2
+    initials: S O H
+    clue: A building shaped like sails — went all Australian and started hosting opera.
+    answer: Sydney Opera House
+    aliases:
+    - sydney opera house
+    reasoning: Sydney + Opera + House = Sydney Opera House
+  - number: 3
+    initials: G C
+    clue: A very large crack in the ground — in Arizona, millions of years old, very photogenic.
+    answer: Grand Canyon
+    aliases:
+    - grand canyon
+    reasoning: Grand (large/impressive) + Canyon = Grand Canyon
+- id: wonderbusters-005
+  enabled: true
+  title: Wonder Busters
+  topic: wonders of the world
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Wonder Busters. Three final wonders.
+  prize: Email in. Winner gets a wonder that's currently under renovation.
+  clues:
+  - number: 1
+    initials: G G B
+    clue: A reddish-orange bridge — went all San Franciscan and became very famous for being very foggy.
+    answer: Golden Gate Bridge
+    aliases:
+    - golden gate bridge
+    reasoning: Golden + Gate + Bridge = Golden Gate Bridge
+  - number: 2
+    initials: N F
+    clue: A large amount of water going over a ledge — on the border of America and Canada. Very loud.
+    answer: Niagara Falls
+    aliases:
+    - niagara falls
+    reasoning: Niagara (a name) + Falls (water dropping) = Niagara Falls
+  - number: 3
+    initials: B K
+    clue: A very tall building in Dubai — went all glass-and-steel and became the tallest thing in the world.
+    answer: Burj Khalifa
+    aliases:
+    - burj khalifa
+    reasoning: Burj (tower in Arabic) + Khalifa (a name) = Burj Khalifa
+- id: pokemonbusters-004
+  enabled: true
+  title: Pokemon Busters
+  topic: Pokemon characters
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Pokemon Busters. More Pokemon. Say them out loud.
+  prize: Email in. Winner gets a holographic card that's not rare anymore.
+  clues:
+  - number: 1
+    initials: C
+    clue: A small orange lizard — has a flame on its tail. Goes all fire and starts breathing it.
+    answer: Charmander
+    aliases:
+    - charmander
+    reasoning: Char (to burn) + mander = Charmander
+  - number: 2
+    initials: E
+    clue: A small fox-like creature — can evolve into almost anything. Very popular.
+    answer: Eevee
+    aliases:
+    - eevee
+    reasoning: Eevee (the evolution Pokemon) = Eevee
+  - number: 3
+    initials: J
+    clue: A pink round creature — sings a lullaby that puts everyone to sleep. Annoying.
+    answer: Jigglypuff
+    aliases:
+    - jigglypuff
+    reasoning: Jiggly (wobbly) + puff (a ball of air) = Jigglypuff

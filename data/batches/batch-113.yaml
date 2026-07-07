@@ -1,0 +1,102 @@
+- id: superherobusters-007
+  enabled: true
+  title: Superherobusters
+  topic: superheroes and comic book characters
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Superherobusters. Three more heroes.
+  prize: Email in. Winner gets an origin story nobody asked for.
+  clues:
+  - number: 1
+    initials: T F
+    clue: A bolt of electricity — gone all red and started running very fast.
+    answer: The Flash
+    aliases:
+    - the flash
+    - flash
+    reasoning: The + Flash (lightning bolt) = The Flash
+  - number: 2
+    initials: A M
+    clue: A tiny insect — gone all tiny and started shrinking to solve crimes.
+    answer: Ant-Man
+    aliases:
+    - ant-man
+    - antman
+    reasoning: Ant (an insect) + Man = Ant-Man
+  - number: 3
+    initials: B W
+    clue: A dark colour — gone all spy-like and started fighting without any superpowers.
+    answer: Black Widow
+    aliases:
+    - black widow
+    reasoning: Black (a colour) + Widow (a woman whose husband has died) = Black Widow
+- id: superherobusters-008
+  enabled: true
+  title: Superherobusters
+  topic: superheroes and comic book characters
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Superherobusters. More Marvel and DC. All phonetic.
+  prize: Email in. Winner gets a nemesis who keeps escaping.
+  clues:
+  - number: 1
+    initials: W
+    clue: An animal with very sharp claws — gone all metal-boned and started fighting everyone.
+    answer: Wolverine
+    aliases:
+    - wolverine
+    reasoning: Wolverine (an animal with sharp claws/retractable metal claws) = Wolverine
+  - number: 2
+    initials: D
+    clue: A bloke who's already shuffled off — gone all fourth wall breaking and red-suited.
+    answer: Deadpool
+    aliases:
+    - deadpool
+    reasoning: Dead + Pool (a body of water) = Deadpool
+  - number: 3
+    initials: S W
+    clue: A female relative of a witch — gone all reality-bending and started doing hex magic.
+    answer: Scarlet Witch
+    aliases:
+    - scarlet witch
+    reasoning: Scarlet (a red colour) + Witch = Scarlet Witch
+- id: superherobusters-009
+  enabled: true
+  title: Superherobusters
+  topic: superheroes and comic book characters
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Superherobusters. Three villains and heroes.
+  prize: Email in. Winner gets a lair with inadequate heating.
+  clues:
+  - number: 1
+    initials: T J
+    clue: A court jester — gone all unhinged and started causing chaos in Gotham.
+    answer: The Joker
+    aliases:
+    - the joker
+    - joker
+    reasoning: The + Joker (a jester/the Batman villain) = The Joker
+  - number: 2
+    initials: L L
+    clue: A very rich bloke — gone bald and started battling a man in a cape from a tall building.
+    answer: Lex Luthor
+    aliases:
+    - lex luthor
+    reasoning: Lex (a name) + Luthor (a name) = Lex Luthor
+  - number: 3
+    initials: T
+    clue: A giant purple bloke — very determined to halve everything. Has an infinity glove.
+    answer: Thanos
+    aliases:
+    - thanos
+    reasoning: Thanos (Greek deity of death) = Thanos

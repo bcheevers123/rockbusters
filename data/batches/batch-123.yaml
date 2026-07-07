@@ -1,0 +1,99 @@
+- id: cartoonbusters-022
+  enabled: true
+  title: Cartoon Busters
+  topic: animated films
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Cartoon Busters. Three more animated films.
+  prize: Email in. Winner gets a colouring book of a film nobody remembers.
+  clues:
+  - number: 1
+    initials: O
+    clue: Something happening in a vehicle moving forward — gone all Pixar and started involving emotions as characters.
+    answer: Onward
+    aliases:
+    - onward
+    reasoning: Onward (moving forward/the Pixar film) = Onward
+  - number: 2
+    initials: S
+    clue: A state of being — gone all jazz and started following a music teacher into the afterlife.
+    answer: Soul
+    aliases:
+    - soul
+    reasoning: Soul (spirit/the Pixar film) = Soul
+  - number: 3
+    initials: T R
+    clue: A young female panda — gone all red and started embarrassing her mother.
+    answer: Turning Red
+    aliases:
+    - turning red
+    reasoning: Turning + Red = Turning Red
+- id: cartoonbusters-023
+  enabled: true
+  title: Cartoon Busters
+  topic: animated films
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Cartoon Busters. Three more cartoons.
+  prize: Email in. Winner gets a sequel to a film that didn't need one.
+  clues:
+  - number: 1
+    initials: D M
+    clue: A bloke who is very bad — gone all minion-shaped and started trying to steal the moon.
+    answer: Despicable Me
+    aliases:
+    - despicable me
+    reasoning: Despicable (contemptible) + Me = Despicable Me
+  - number: 2
+    initials: K F P
+    clue: A large black and white bear — gone all martial arts and started kicking things impressively.
+    answer: Kung Fu Panda
+    aliases:
+    - kung fu panda
+    reasoning: Kung Fu (martial art) + Panda (the bear) = Kung Fu Panda
+  - number: 3
+    initials: H T T Y D
+    clue: A guide for taming a fire-breathing creature — a boy manages it despite everyone's advice.
+    answer: How to Train Your Dragon
+    aliases:
+    - how to train your dragon
+    reasoning: How + to + Train + Your + Dragon = How to Train Your Dragon
+- id: cartoonbusters-024
+  enabled: true
+  title: Cartoon Busters
+  topic: animated films
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Cartoon Busters. More animated classics.
+  prize: Email in. Winner gets a sing-along version nobody asked for.
+  clues:
+  - number: 1
+    initials: T S 2
+    clue: Children's playthings — gone all cinematic and started having adventures without the boy.
+    answer: Toy Story 2
+    aliases:
+    - toy story 2
+    reasoning: Toy + Story + 2 = Toy Story 2
+  - number: 2
+    initials: T S 3
+    clue: Children's playthings — gone all emotional and started going to university.
+    answer: Toy Story 3
+    aliases:
+    - toy story 3
+    reasoning: Toy + Story + 3 = Toy Story 3
+  - number: 3
+    initials: M
+    clue: A large island with dancing lemurs — a lion, a hippo, a giraffe, and a zebra visit.
+    answer: Madagascar
+    aliases:
+    - madagascar
+    reasoning: Madagascar (the island/the animated film) = Madagascar

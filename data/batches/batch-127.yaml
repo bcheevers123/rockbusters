@@ -1,0 +1,100 @@
+- id: historybusters-024
+  enabled: true
+  title: History Busters
+  topic: famous historical figures
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: History Busters. More historical figures.
+  prize: Email in. Winner gets a bronze plaque with the wrong dates on it.
+  clues:
+  - number: 1
+    initials: J C
+    clue: Crossing a piece of water — gone all Roman and started stabbing his friends in the senate.
+    answer: Julius Caesar
+    aliases:
+    - julius caesar
+    reasoning: Julius (a name) + Caesar (a name/Roman emperor) = Julius Caesar
+  - number: 2
+    initials: C
+    clue: An Egyptian queen — had a nose that supposedly changed the course of history.
+    answer: Cleopatra
+    aliases:
+    - cleopatra
+    reasoning: Cleopatra (the Egyptian queen) = Cleopatra
+  - number: 3
+    initials: A T H
+    clue: A warrior on horseback — went all nomadic and started conquering most of Europe and Asia.
+    answer: Attila the Hun
+    aliases:
+    - attila the hun
+    reasoning: Attila (a name) + the + Hun (a nomadic people) = Attila the Hun
+- id: historybusters-025
+  enabled: true
+  title: History Busters
+  topic: famous historical figures
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: History Busters. Three more. All from the textbooks.
+  prize: Email in. Winner gets a footnote in a book nobody reads.
+  clues:
+  - number: 1
+    initials: N B
+    clue: A short French bloke — went all general and started invading things. Very keen on hats.
+    answer: Napoleon Bonaparte
+    aliases:
+    - napoleon bonaparte
+    reasoning: Napoleon (a name) + Bonaparte (a name) = Napoleon Bonaparte
+  - number: 2
+    initials: G K
+    clue: A bloke on horseback — went all Mongolian and conquered most of the known world.
+    answer: Genghis Khan
+    aliases:
+    - genghis khan
+    reasoning: Genghis (a name) + Khan (a title/leader) = Genghis Khan
+  - number: 3
+    initials: A T G
+    clue: A bloke called Alex — went all Greek and started conquering everything from Egypt to India.
+    answer: Alexander the Great
+    aliases:
+    - alexander the great
+    reasoning: Alexander + the + Great = Alexander the Great
+- id: historybusters-026
+  enabled: true
+  title: History Busters
+  topic: famous historical figures
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+  - UK
+  intro: History Busters. More British history.
+  prize: Email in. Winner gets a commemorative mug with a chip in it.
+  clues:
+  - number: 1
+    initials: H V I I I
+    clue: A Tudor monarch — had six wives and kept losing patience with them. Very fond of his dinner.
+    answer: Henry VIII
+    aliases:
+    - henry viii
+    - henry the eighth
+    reasoning: Henry (a name) + VIII (the eighth) = Henry VIII
+  - number: 2
+    initials: E I
+    clue: A female monarch — went all Tudor and started defeating the Spanish Armada.
+    answer: Elizabeth I
+    aliases:
+    - elizabeth i
+    - elizabeth the first
+    reasoning: Elizabeth (a name) + I (the first) = Elizabeth I
+  - number: 3
+    initials: W T C
+    clue: A French duke who sailed across to England and won a very important battle.
+    answer: William the Conqueror
+    aliases:
+    - william the conqueror
+    reasoning: William + the + Conqueror = William the Conqueror

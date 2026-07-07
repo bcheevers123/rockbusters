@@ -1,0 +1,100 @@
+- id: mythbusters-016
+  enabled: true
+  title: Myth Busters
+  topic: mythology and legends
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Myth Busters. More legends.
+  prize: Email in. Winner gets a curse that only activates in mild inconvenience.
+  clues:
+  - number: 1
+    initials: P
+    clue: A Greek Titan — stole fire from the gods and gave it to humans. Gods were not pleased.
+    answer: Prometheus
+    aliases:
+    - prometheus
+    reasoning: Prometheus (stole fire from the gods) = Prometheus
+  - number: 2
+    initials: H
+    clue: A Greek god — forge master to the gods. Lame, not beautiful, but made the best weapons.
+    answer: Hephaestus
+    aliases:
+    - hephaestus
+    reasoning: Hephaestus (Greek god of fire/forge) = Hephaestus
+  - number: 3
+    initials: D
+    clue: A Greek god — in charge of wine and partying. Very popular at festivals.
+    answer: Dionysus
+    aliases:
+    - dionysus
+    reasoning: Dionysus (Greek god of wine) = Dionysus
+- id: mythbusters-017
+  enabled: true
+  title: Myth Busters
+  topic: mythology and legends
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Myth Busters. Three more figures.
+  prize: Email in. Winner gets a myth that turns out to be historically accurate.
+  clues:
+  - number: 1
+    initials: H
+    clue: A Greek goddess — in charge of the hearth and home. Very important, rarely mentioned.
+    answer: Hera
+    aliases:
+    - hera
+    reasoning: Hera (queen of the Greek gods) = Hera
+  - number: 2
+    initials: A
+    clue: A Greek god — twin of Apollo. In charge of hunting and the moon. Has a bow and arrow.
+    answer: Artemis
+    aliases:
+    - artemis
+    reasoning: Artemis (Greek goddess of the hunt) = Artemis
+  - number: 3
+    initials: A
+    clue: A Greek god — in charge of war. Very aggressive. Not well-liked even by his own parents.
+    answer: Ares
+    aliases:
+    - ares
+    reasoning: Ares (Greek god of war) = Ares
+- id: mythbusters-018
+  enabled: true
+  title: Myth Busters
+  topic: mythology and legends
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Myth Busters. Three more mythological names.
+  prize: Email in. Winner gets a quest with no clear objective.
+  clues:
+  - number: 1
+    initials: H
+    clue: A Greek god — in charge of the dead. Lives underground. Very serious about it.
+    answer: Hades
+    aliases:
+    - hades
+    reasoning: Hades (Greek god of the underworld) = Hades
+  - number: 2
+    initials: D
+    clue: A Greek goddess — in charge of grain and the harvest. Mother of Persephone.
+    answer: Demeter
+    aliases:
+    - demeter
+    reasoning: Demeter (Greek goddess of harvest) = Demeter
+  - number: 3
+    initials: H
+    clue: A Greek hero — given twelve impossible tasks. Completed them all. Very strong.
+    answer: Heracles
+    aliases:
+    - heracles
+    - hercules
+    reasoning: Heracles (Greek name for Hercules) = Heracles

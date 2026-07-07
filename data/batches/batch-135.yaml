@@ -1,0 +1,101 @@
+- id: gamebusters-028
+  enabled: true
+  title: Game Busters
+  topic: video games and board games
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Game Busters. Three more games.
+  prize: Email in. Winner gets a character skin that makes them look worse.
+  clues:
+  - number: 1
+    initials: M
+    clue: A property board game — involves buying streets, building hotels, and ruining relationships.
+    answer: Monopoly
+    aliases:
+    - monopoly
+    reasoning: Monopoly (exclusive control/the board game) = Monopoly
+  - number: 2
+    initials: S
+    clue: A word game — seven tiles, a board, a dictionary argument, and a family row.
+    answer: Scrabble
+    aliases:
+    - scrabble
+    reasoning: Scrabble (to scramble/the word game) = Scrabble
+  - number: 3
+    initials: T P
+    clue: A quiz game in a pie shape — a wedge for every category, complete arguments over geography.
+    answer: Trivial Pursuit
+    aliases:
+    - trivial pursuit
+    reasoning: Trivial (insignificant) + Pursuit (a chase) = Trivial Pursuit
+- id: gamebusters-029
+  enabled: true
+  title: Game Busters
+  topic: video games and board games
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Game Busters. Three more.
+  prize: Email in. Winner gets a battle pass that expires before they can use it.
+  clues:
+  - number: 1
+    initials: F
+    clue: A survival game — drop onto a large island, find weapons, be the last one standing.
+    answer: Fortnite
+    aliases:
+    - fortnite
+    reasoning: Fortnite (two weeks/the game) = Fortnite
+  - number: 2
+    initials: M
+    clue: A blocky world — dig, build, craft, survive the night when everything comes to kill you.
+    answer: Minecraft
+    aliases:
+    - minecraft
+    reasoning: Mine (to dig) + craft (to make) = Minecraft
+  - number: 3
+    initials: G T A
+    clue: A car-themed crime game — go around a city causing chaos and avoiding police.
+    answer: Grand Theft Auto
+    aliases:
+    - grand theft auto
+    - gta
+    reasoning: Grand (large/serious) + Theft + Auto = Grand Theft Auto
+- id: gamebusters-030
+  enabled: true
+  title: Game Busters
+  topic: video games and board games
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Game Busters. Three final games.
+  prize: Email in. Winner gets an achievement nobody will ever see.
+  clues:
+  - number: 1
+    initials: D K
+    clue: A large ape — throws barrels at a little man trying to climb up to rescue someone.
+    answer: Donkey Kong
+    aliases:
+    - donkey kong
+    reasoning: Donkey (a stubborn animal) + Kong (a large ape) = Donkey Kong
+  - number: 2
+    initials: P M
+    clue: A circular yellow creature — eats dots, avoids ghosts, been doing it since 1980.
+    answer: Pac-Man
+    aliases:
+    - pac-man
+    - pacman
+    reasoning: Pac (from 'paku-paku', Japanese for chomping) + Man = Pac-Man
+  - number: 3
+    initials: C O D
+    clue: A military fish — gone all first-person shooter and started having very serious conversations over headsets.
+    answer: Call of Duty
+    aliases:
+    - call of duty
+    reasoning: Call + of + Duty (obligation) = Call of Duty

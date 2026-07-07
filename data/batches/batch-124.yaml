@@ -1,0 +1,103 @@
+- id: cartoonbusters-025
+  enabled: true
+  title: Cartoon Busters
+  topic: animated films
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Cartoon Busters. Three more animated films.
+  prize: Email in. Winner gets a Blu-ray with a bonus disc that's just the trailer.
+  clues:
+  - number: 1
+    initials: S
+    clue: Music — gone all competitive and started featuring animated creatures singing their hearts out.
+    answer: Sing
+    aliases:
+    - sing
+    reasoning: Sing (to make music vocally/the film) = Sing
+  - number: 2
+    initials: T
+    clue: Small colourful creatures with big hair — gone all musical and started trying to be happy.
+    answer: Trolls
+    aliases:
+    - trolls
+    reasoning: Trolls (mythological creatures/the film) = Trolls
+  - number: 3
+    initials: B B
+    clue: An infant — gone all suited and started managing a corporation of babies.
+    answer: Boss Baby
+    aliases:
+    - boss baby
+    reasoning: Boss (in charge) + Baby (infant) = Boss Baby
+- id: cartoonbusters-026
+  enabled: true
+  title: Cartoon Busters
+  topic: animated films
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Cartoon Busters. Three more cartoons.
+  prize: Email in. Winner gets an animated short before the main feature.
+  clues:
+  - number: 1
+    initials: T I 2
+    clue: A group of exceptional people — gone all retired and started fighting again.
+    answer: The Incredibles 2
+    aliases:
+    - the incredibles 2
+    - incredibles 2
+    reasoning: The + Incredibles + 2 = The Incredibles 2
+  - number: 2
+    initials: R
+    clue: A place for cooking in a French kitchen — gone all rat-shaped and started making gourmet food.
+    answer: Ratatouille
+    aliases:
+    - ratatouille
+    reasoning: Ratatouille (French dish/Pixar film) = Ratatouille
+  - number: 3
+    initials: L
+    clue: A small battery-powered toy — gone all space age and started having an identity crisis.
+    answer: Lightyear
+    aliases:
+    - lightyear
+    reasoning: Light (not heavy/the toy) + year = Lightyear
+- id: cartoonbusters-027
+  enabled: true
+  title: Cartoon Busters
+  topic: animated films
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Cartoon Busters. Three more animated films. All phonetic.
+  prize: Email in. Winner gets a cinema loyalty card for a cinema that's closed.
+  clues:
+  - number: 1
+    initials: W W
+    clue: A small cylindrical robot — gone all lonely and started collecting rubbish on an abandoned Earth.
+    answer: WALL-E
+    aliases:
+    - wall-e
+    - walle
+    - wall e
+    reasoning: WALL-E (Waste Allocation Load Lifter Earth-class) = WALL-E
+  - number: 2
+    initials: U
+    clue: A direction — gone all Pixar and involved a house flying away on balloons.
+    answer: Up
+    aliases:
+    - up
+    reasoning: Up (a direction/the Pixar film) = Up
+  - number: 3
+    initials: M I
+    clue: A company that frightens people for a living — turns out the monsters are scared too.
+    answer: Monsters Inc
+    aliases:
+    - monsters inc
+    - monsters inc.
+    reasoning: Monsters (scary creatures) + Inc (incorporated) = Monsters Inc
