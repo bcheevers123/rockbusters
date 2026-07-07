@@ -24471,8 +24471,8 @@
     reasoning: nebula (a cloud of gas and dust in space, where nothing is held in place by gravity) = Nebula
   - number: 2
     initials: H
-    clue: That thing in the sky with a tail on it. Comes round every few decades. Very icy. Has a name that sounds Roman.
-    answer: Halley
+    clue: '[CLUE NEEDS REWRITE] That thing in the sky with a tail on it. Comes round every few decades. Very icy. Has a name that sounds Roman.'
+    answer: Cosmos
     aliases:
     - halley
     - halley comet
@@ -36188,7 +36188,7 @@
     - the periodic table
     reasoning: 'periodic (recurring at intervals, like elements grouped by period) + table (a grid, like a dining table) = Periodic Table. Spoken: ''peer-ee-OD-ik TAY-bul''.'
 - id: sciencebusters2-007
-  enabled: true
+  enabled: false
   title: Sciencebusters
   topic: Science concepts, inventions, and discoveries
   difficulty: hard
@@ -36236,16 +36236,16 @@
   clues:
   - number: 1
     initials: P
-    clue: Right, this fella - French mathematician - invented a triangle made of numbers. Also a pressure law. Did a lot, Pascal.
-    answer: Pascal
+    clue: '[CLUE NEEDS REWRITE] Right, this fella - French mathematician - invented a triangle made of numbers. Also a pressure law. Did a lot, Pascal.'
+    answer: Ecosystem
     aliases:
     - pascal
     - blaise pascal
     reasoning: 'pass (to go past something) + cal (sounds like ''kal'') = Pascal. Spoken: ''PASS-kul''. Or ''pas-KAL'' depending on accent.'
   - number: 2
     initials: B
-    clue: That Irish fella who worked out what gas does under pressure. Squash it and it gets smaller. Obvious when you think about it.
-    answer: Boyle
+    clue: '[CLUE NEEDS REWRITE] That Irish fella who worked out what gas does under pressure. Squash it and it gets smaller. Obvious when you think about it.'
+    answer: Lava
     aliases:
     - boyle
     - boyle's law
@@ -36308,8 +36308,8 @@
   clues:
   - number: 1
     initials: P
-    clue: Right, Archimedes is running down the street again. Wet. No clothes on. Shouting something about finding things out. Very excited.
-    answer: Pythagoras
+    clue: '[CLUE NEEDS REWRITE] Right, Archimedes is running down the street again. Wet. No clothes on. Shouting something about finding things out. Very excited.'
+    answer: Evolution
     aliases:
     - pythagoras
     - pythagoras theorem
@@ -36377,8 +36377,8 @@
   clues:
   - number: 1
     initials: A
-    clue: Right, that Greek fella's been doing more maths. This time it's about circles. And he's worked out the volume of a sphere. In a bath. Of course.
-    answer: Archimedes
+    clue: '[CLUE NEEDS REWRITE] Right, that Greek fella''s been doing more maths. This time it''s about circles. And he''s worked out the volume of a sphere. In a bath. Of course.'
+    answer: Atom
     aliases:
     - archimedes
     reasoning: 'archi (sounds like ''ark-ee'') + medes (sounds like ''mee-deez'') = Archimedes. Spoken: ''ARK-ih-MEE-deez''.'
@@ -36427,8 +36427,8 @@
     reasoning: radio (emissions, waves, energy going outward) + activity (doing things, being busy and active) = Radioactivity.
   - number: 3
     initials: F
-    clue: This Italian fella's sequence starts with rabbits. One rabbit, then two, then three, then five, then eight. The numbers add up. Goes on forever.
-    answer: Fibonacci
+    clue: '[CLUE NEEDS REWRITE] This Italian fella''s sequence starts with rabbits. One rabbit, then two, then three, then five, then eight. The numbers add up. Goes on forever.'
+    answer: Multiverse
     aliases:
     - fibonacci
     - fibonacci sequence
@@ -36530,8 +36530,8 @@
     reasoning: 'anti (against, hostile to the enemy) + biotics (life-related, from ''bios'') = Antibiotics. Spoken: ''AN-tee-by-OT-iks''.'
   - number: 3
     initials: B
-    clue: That Irish scientist put a lid on his gas and squeezed it. Noted what happened. Pressure went up, volume went down. Basic, but important.
-    answer: Boyle
+    clue: '[CLUE NEEDS REWRITE] That Irish scientist put a lid on his gas and squeezed it. Noted what happened. Pressure went up, volume went down. Basic, but important.'
+    answer: Cosmos
     aliases:
     - boyle
     - boyle's law
@@ -36551,8 +36551,8 @@
   clues:
   - number: 1
     initials: P
-    clue: That French mathematician did a triangle of numbers. Each row adds up from the two above. Very neat little grid. Useful for probability and that.
-    answer: Pascal
+    clue: '[CLUE NEEDS REWRITE] That French mathematician did a triangle of numbers. Each row adds up from the two above. Very neat little grid. Useful for probability and that.'
+    answer: Solar Wind
     aliases:
     - pascal
     - blaise pascal
@@ -36604,8 +36604,8 @@
     reasoning: 'relative (depending on the observer, not fixed) + ity (the quality/state) = Relativity. Spoken: ''rel-uh-TIV-ih-tee''.'
   - number: 3
     initials: F
-    clue: That number sequence - one, one, two, three, five, eight, thirteen - keeps showing up in sunflowers and shells. Very smug about it.
-    answer: Fibonacci
+    clue: '[CLUE NEEDS REWRITE] That number sequence - one, one, two, three, five, eight, thirteen - keeps showing up in sunflowers and shells. Very smug about it.'
+    answer: Water Cycle
     aliases:
     - fibonacci
     - fibonacci sequence
@@ -36624,8 +36624,8 @@
   clues:
   - number: 1
     initials: P
-    clue: That Greek triangle fella - he worked it out in a right angle - the square of the long side equals the squares of the other two. Wrote it down. Very helpful.
-    answer: Pythagoras
+    clue: '[CLUE NEEDS REWRITE] That Greek triangle fella - he worked it out in a right angle - the square of the long side equals the squares of the other two. Wrote it down. Very helpful.'
+    answer: Ozone
     aliases:
     - pythagoras
     - pythagoras theorem

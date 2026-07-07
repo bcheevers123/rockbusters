@@ -16835,7 +16835,7 @@
       {
         "number": 2,
         "initials": "H",
-        "clue": "That thing in the sky with a tail on it. Comes round every few decades. Very icy. Has a name that sounds Roman."
+        "clue": "[CLUE NEEDS REWRITE] That thing in the sky with a tail on it. Comes round every few decades. Very icy. Has a name that sounds Roman."
       },
       {
         "number": 3,
@@ -24955,37 +24955,6 @@
     ]
   },
   {
-    "id": "sciencebusters2-007",
-    "enabled": true,
-    "title": "Sciencebusters",
-    "topic": "Science concepts, inventions, and discoveries",
-    "difficulty": "hard",
-    "office_safe": true,
-    "region_relevance": [
-      "UK",
-      "US"
-    ],
-    "intro": "Right, Sciencebusters seven. Scientists and mathematicians now. Three phonetic clues. You know the drill.",
-    "prize": "Email in. Winner gets a mug from a company that no longer exists and a geometry set.",
-    "clues": [
-      {
-        "number": 1,
-        "initials": "F",
-        "clue": "Right, there's this sequence of numbers where each one is the sum of the two before it. Italian fella came up with it. Very famous rabbit problem."
-      },
-      {
-        "number": 2,
-        "initials": "P",
-        "clue": "That Greek fella who spent a lot of time looking at right-angled triangles. Worked out something about the longest side. Very pleased with himself."
-      },
-      {
-        "number": 3,
-        "initials": "A",
-        "clue": "That old Greek in his bath - had a bit of a revelation about water displacement - ran out into the street about it. Bit dramatic for a Tuesday."
-      }
-    ]
-  },
-  {
     "id": "sciencebusters2-008",
     "enabled": true,
     "title": "Sciencebusters",
@@ -25002,12 +24971,12 @@
       {
         "number": 1,
         "initials": "P",
-        "clue": "Right, this fella - French mathematician - invented a triangle made of numbers. Also a pressure law. Did a lot, Pascal."
+        "clue": "[CLUE NEEDS REWRITE] Right, this fella - French mathematician - invented a triangle made of numbers. Also a pressure law. Did a lot, Pascal."
       },
       {
         "number": 2,
         "initials": "B",
-        "clue": "That Irish fella who worked out what gas does under pressure. Squash it and it gets smaller. Obvious when you think about it."
+        "clue": "[CLUE NEEDS REWRITE] That Irish fella who worked out what gas does under pressure. Squash it and it gets smaller. Obvious when you think about it."
       },
       {
         "number": 3,
@@ -25064,7 +25033,7 @@
       {
         "number": 1,
         "initials": "P",
-        "clue": "Right, Archimedes is running down the street again. Wet. No clothes on. Shouting something about finding things out. Very excited."
+        "clue": "[CLUE NEEDS REWRITE] Right, Archimedes is running down the street again. Wet. No clothes on. Shouting something about finding things out. Very excited."
       },
       {
         "number": 2,
@@ -25126,7 +25095,7 @@
       {
         "number": 1,
         "initials": "A",
-        "clue": "Right, that Greek fella's been doing more maths. This time it's about circles. And he's worked out the volume of a sphere. In a bath. Of course."
+        "clue": "[CLUE NEEDS REWRITE] Right, that Greek fella's been doing more maths. This time it's about circles. And he's worked out the volume of a sphere. In a bath. Of course."
       },
       {
         "number": 2,
@@ -25167,7 +25136,7 @@
       {
         "number": 3,
         "initials": "F",
-        "clue": "This Italian fella's sequence starts with rabbits. One rabbit, then two, then three, then five, then eight. The numbers add up. Goes on forever."
+        "clue": "[CLUE NEEDS REWRITE] This Italian fella's sequence starts with rabbits. One rabbit, then two, then three, then five, then eight. The numbers add up. Goes on forever."
       }
     ]
   },
@@ -25260,7 +25229,7 @@
       {
         "number": 3,
         "initials": "B",
-        "clue": "That Irish scientist put a lid on his gas and squeezed it. Noted what happened. Pressure went up, volume went down. Basic, but important."
+        "clue": "[CLUE NEEDS REWRITE] That Irish scientist put a lid on his gas and squeezed it. Noted what happened. Pressure went up, volume went down. Basic, but important."
       }
     ]
   },
@@ -25281,7 +25250,7 @@
       {
         "number": 1,
         "initials": "P",
-        "clue": "That French mathematician did a triangle of numbers. Each row adds up from the two above. Very neat little grid. Useful for probability and that."
+        "clue": "[CLUE NEEDS REWRITE] That French mathematician did a triangle of numbers. Each row adds up from the two above. Very neat little grid. Useful for probability and that."
       },
       {
         "number": 2,
@@ -25322,7 +25291,7 @@
       {
         "number": 3,
         "initials": "F",
-        "clue": "That number sequence - one, one, two, three, five, eight, thirteen - keeps showing up in sunflowers and shells. Very smug about it."
+        "clue": "[CLUE NEEDS REWRITE] That number sequence - one, one, two, three, five, eight, thirteen - keeps showing up in sunflowers and shells. Very smug about it."
       }
     ]
   },
@@ -25343,7 +25312,7 @@
       {
         "number": 1,
         "initials": "P",
-        "clue": "That Greek triangle fella - he worked it out in a right angle - the square of the long side equals the squares of the other two. Wrote it down. Very helpful."
+        "clue": "[CLUE NEEDS REWRITE] That Greek triangle fella - he worked it out in a right angle - the square of the long side equals the squares of the other two. Wrote it down. Very helpful."
       },
       {
         "number": 2,

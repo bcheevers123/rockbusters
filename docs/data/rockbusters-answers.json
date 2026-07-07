@@ -16649,8 +16649,9 @@
       },
       {
         "number": 2,
-        "answer": "Halley",
+        "answer": "Cosmos",
         "aliases": [
+          "cosmos",
           "halley",
           "halley comet",
           "halley's comet"
@@ -24525,43 +24526,13 @@
     ]
   },
   {
-    "id": "sciencebusters2-007",
-    "clues": [
-      {
-        "number": 1,
-        "answer": "Fibonacci",
-        "aliases": [
-          "fibonacci",
-          "fibonacci sequence"
-        ],
-        "reasoning": "fib (a small lie) + on (continuing) + acci (sounds like 'ah-chee') = Fibonacci. Spoken: 'fib-uh-NAH-chee'. Phonetically: 'FIB-on-AH-chee'."
-      },
-      {
-        "number": 2,
-        "answer": "Pythagoras",
-        "aliases": [
-          "pythagoras",
-          "pythagoras theorem"
-        ],
-        "reasoning": "pie (sounds like 'py', like pi the number) + thag (sounds like 'thag') + oras (sounds like 'oh-ras') = Pythagoras. Spoken: 'py-THAG-uh-rus'."
-      },
-      {
-        "number": 3,
-        "answer": "Archimedes",
-        "aliases": [
-          "archimedes"
-        ],
-        "reasoning": "archi (sounds like 'ark-ee') + medes (sounds like 'mee-deez') = Archimedes. Spoken: 'ark-ih-MEE-deez'. Famous for his bath moment."
-      }
-    ]
-  },
-  {
     "id": "sciencebusters2-008",
     "clues": [
       {
         "number": 1,
-        "answer": "Pascal",
+        "answer": "Ecosystem",
         "aliases": [
+          "ecosystem",
           "pascal",
           "blaise pascal"
         ],
@@ -24569,8 +24540,9 @@
       },
       {
         "number": 2,
-        "answer": "Boyle",
+        "answer": "Lava",
         "aliases": [
+          "lava",
           "boyle",
           "boyle's law",
           "robert boyle"
@@ -24624,8 +24596,9 @@
     "clues": [
       {
         "number": 1,
-        "answer": "Pythagoras",
+        "answer": "Evolution",
         "aliases": [
+          "evolution",
           "pythagoras",
           "pythagoras theorem"
         ],
@@ -24685,8 +24658,9 @@
     "clues": [
       {
         "number": 1,
-        "answer": "Archimedes",
+        "answer": "Atom",
         "aliases": [
+          "atom",
           "archimedes"
         ],
         "reasoning": "archi (sounds like 'ark-ee') + medes (sounds like 'mee-deez') = Archimedes. Spoken: 'ARK-ih-MEE-deez'."
@@ -24733,8 +24707,9 @@
       },
       {
         "number": 3,
-        "answer": "Fibonacci",
+        "answer": "Multiverse",
         "aliases": [
+          "multiverse",
           "fibonacci",
           "fibonacci sequence"
         ],
@@ -24824,8 +24799,9 @@
       },
       {
         "number": 3,
-        "answer": "Boyle",
+        "answer": "Cosmos",
         "aliases": [
+          "cosmos",
           "boyle",
           "boyle's law",
           "robert boyle"
@@ -24839,8 +24815,9 @@
     "clues": [
       {
         "number": 1,
-        "answer": "Pascal",
+        "answer": "Solar Wind",
         "aliases": [
+          "solar wind",
           "pascal",
           "blaise pascal"
         ],
@@ -24890,8 +24867,9 @@
       },
       {
         "number": 3,
-        "answer": "Fibonacci",
+        "answer": "Water Cycle",
         "aliases": [
+          "water cycle",
           "fibonacci",
           "fibonacci sequence"
         ],
@@ -24904,8 +24882,9 @@
     "clues": [
       {
         "number": 1,
-        "answer": "Pythagoras",
+        "answer": "Ozone",
         "aliases": [
+          "ozone",
           "pythagoras",
           "pythagoras theorem"
         ],
