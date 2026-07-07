@@ -38229,7 +38229,7 @@
     - bruce reynolds
     reasoning: Bruce + Reynolds (Reynolds Wrap = tin foil brand, 'ren-olds') = Bruce Reynolds
 - id: ukplacesbusters-001
-  enabled: true
+  enabled: false
   title: Ukplacesbusters
   topic: British town and village names with funny or unusual pronunciations
   difficulty: easy
@@ -38261,7 +38261,7 @@
     - maidstone
     reasoning: maid (domestic worker) + stone (large flat rock) = Maidstone. Maid-stone.
 - id: ukplacesbusters-002
-  enabled: true
+  enabled: false
   title: Ukplacesbusters
   topic: British town and village names with funny or unusual pronunciations
   difficulty: easy
@@ -38293,7 +38293,7 @@
     - crawley
     reasoning: crawl (to drag yourself along on your belly, like a crow shuffling about) + ee (the -ley sound) = Crawley. Crawl-ee.
 - id: ukplacesbusters-003
-  enabled: true
+  enabled: false
   title: Ukplacesbusters
   topic: British town and village names with funny or unusual pronunciations
   difficulty: easy
@@ -38325,7 +38325,7 @@
     - worthing
     reasoning: worth (deserving of, entitled to) + ing (ongoing, still at it) = Worthing. Worth-ing.
 - id: ukplacesbusters-004
-  enabled: true
+  enabled: false
   title: Ukplacesbusters
   topic: British town and village names with funny or unusual pronunciations
   difficulty: easy
@@ -38357,7 +38357,7 @@
     - tonbridge
     reasoning: ton (a unit of weight, a lot of it) + bridge (a crossing over water) = Tonbridge. Ton-bridge.
 - id: ukplacesbusters-005
-  enabled: true
+  enabled: false
   title: Ukplacesbusters
   topic: British town and village names with funny or unusual pronunciations
   difficulty: easy
@@ -38389,7 +38389,7 @@
     - basingstoke
     reasoning: basing (building your argument on a foundation) + stoke (to stoke a fire, keep it going) = Basingstoke. Basing-stoke.
 - id: ukplacesbusters-006
-  enabled: true
+  enabled: false
   title: Ukplacesbusters
   topic: British town and village names with funny or unusual pronunciations
   difficulty: easy
@@ -38421,7 +38421,7 @@
     - hastings
     reasoning: haste (to be in a rush, to hurry) + ings (multiple stings from wasps or bees) = Hastings. Haste-ings. Hast-ings.
 - id: ukplacesbusters-007
-  enabled: true
+  enabled: false
   title: Ukplacesbusters
   topic: British town and village names with funny or unusual pronunciations
   difficulty: easy
@@ -38453,7 +38453,7 @@
     - welwyn garden city
     reasoning: well + win (doing well, coming out on top) + garden (a lovely outdoor growing space) + city (a proper settlement, a community) = Welwyn Garden City. Well-win-garden-city.
 - id: ukplacesbusters-008
-  enabled: true
+  enabled: false
   title: Ukplacesbusters
   topic: British town and village names with funny or unusual pronunciations
   difficulty: easy
@@ -38486,7 +38486,7 @@
     - woking
     reasoning: woke (awakened, roused from sleep) + ing (still going, ongoing) = Woking. Woke-ing.
 - id: ukplacesbusters-009
-  enabled: true
+  enabled: false
   title: Ukplacesbusters
   topic: British town and village names with funny or unusual pronunciations
   difficulty: easy
@@ -38519,7 +38519,7 @@
     - folkestone
     reasoning: folks (all the local people, everyone from round here) + tone / stone (a great big lump of rock) = Folkestone. Folks-tone.
 - id: ukplacesbusters-010
-  enabled: true
+  enabled: false
   title: Ukplacesbusters
   topic: British town and village names with funny or unusual pronunciations
   difficulty: easy
@@ -38552,7 +38552,7 @@
     - crawley
     reasoning: crawl (to drag yourself along on your front) + ee (the -ley ending, a meadow or clearing) = Crawley. Crawl-ee.
 - id: ukplacesbusters-011
-  enabled: true
+  enabled: false
   title: Ukplacesbusters
   topic: British town and village names with funny or unusual pronunciations
   difficulty: easy
@@ -38584,7 +38584,7 @@
     - sevenoaks
     reasoning: seven (the number, someone counted) + oaks (oak trees, all the same type) = Sevenoaks. Seven-oaks.
 - id: ukplacesbusters-012
-  enabled: true
+  enabled: false
   title: Ukplacesbusters
   topic: British town and village names with funny or unusual pronunciations
   difficulty: easy
@@ -38616,7 +38616,7 @@
     - basingstoke
     reasoning: basing (building an argument on a foundation) + stoke (to stoke a fire, keep it burning) = Basingstoke. Basing-stoke.
 - id: ukplacesbusters-013
-  enabled: true
+  enabled: false
   title: Ukplacesbusters
   topic: British town and village names with funny or unusual pronunciations
   difficulty: easy
@@ -38648,7 +38648,7 @@
     - milton keynes
     reasoning: mill + ton (a mill, and a ton weight) + keens (sounds like keen, enthusiastic) = Milton Keynes. Mill-ton-keens.
 - id: ukplacesbusters-014
-  enabled: true
+  enabled: false
   title: Ukplacesbusters
   topic: British town and village names with funny or unusual pronunciations
   difficulty: easy
@@ -38680,7 +38680,7 @@
     - wolverhampton
     reasoning: wolf + er (to err, to hesitate) + hamp (a damp place, damp sound to it) + ton (a small settlement, common English suffix) = Wolverhampton. Wolf-er-hamp-ton.
 - id: ukplacesbusters-015
-  enabled: true
+  enabled: false
   title: Ukplacesbusters
   topic: British town and village names with funny or unusual pronunciations
   difficulty: easy
@@ -38712,7 +38712,7 @@
     - whitstable
     reasoning: wits (mental sharpness, having your wits about you) + stable (where the horse sleeps, a barn) = Whitstable. Wits-table... Whit-stable.
 - id: ukplacesbusters-016
-  enabled: true
+  enabled: false
   title: Ukplacesbusters
   topic: British town and village names with funny or unusual pronunciations
   difficulty: easy
@@ -38745,7 +38745,7 @@
     - stoke-on-trent
     reasoning: stoke (to feed and maintain a fire) + on (perched on top of something) + Trent (the river Trent in the Midlands) = Stoke-on-Trent. Stoke-on-Trent.
 - id: ukplacesbusters-017
-  enabled: true
+  enabled: false
   title: Ukplacesbusters
   topic: British town and village names with funny or unusual pronunciations
   difficulty: easy
@@ -38778,7 +38778,7 @@
     - bognor regis
     reasoning: bog (a swamp or marshy area) + nor (not quite, a bit off) + regis (Latin for royal, of the king) = Bognor Regis. Bog-nor-regis.
 - id: ukplacesbusters-018
-  enabled: true
+  enabled: false
   title: Ukplacesbusters
   topic: British town and village names with funny or unusual pronunciations
   difficulty: easy
@@ -38811,7 +38811,7 @@
     - folkestone
     reasoning: folks (the local people, everyone round here) + tone (a lovely deep sound, a musical note) = Folkestone. Folks-tone.
 - id: ukplacesbusters-019
-  enabled: true
+  enabled: false
   title: Ukplacesbusters
   topic: British town and village names with funny or unusual pronunciations
   difficulty: easy
@@ -38843,7 +38843,7 @@
     - stevenage
     reasoning: Steve (a man named Steve) + an + age (he's reached an age, been around a fair while) = Stevenage. Steve-an-age.
 - id: ukplacesbusters-020
-  enabled: true
+  enabled: false
   title: Ukplacesbusters
   topic: British town and village names with funny or unusual pronunciations
   difficulty: easy
