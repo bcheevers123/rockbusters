@@ -1,0 +1,100 @@
+- id: 2020spopbusters-005
+  enabled: true
+  title: 2020s Pop Busters
+  topic: pop artists from the 2020s
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: 2020s pop. Three more artists who've been all over the charts.
+  prize: Email in. Winner gets a vinyl record of something nobody asked for.
+  clues:
+  - number: 1
+    initials: L D R
+    clue: A woman called Lana who lives by a river and writes very long, sad songs about it.
+    answer: Lana Del Rey
+    aliases:
+    - lana del rey
+    reasoning: Lana (a name) + Del Rey (of the king) = Lana Del Rey
+  - number: 2
+    initials: T W
+    clue: That seven days — gone all moody and started making R&B records.
+    answer: The Weeknd
+    aliases:
+    - the weeknd
+    reasoning: the + weeknd (weekend) = The Weeknd
+  - number: 3
+    initials: I S
+    clue: Frozen water, but it's got a bit spicy and started doing drill music.
+    answer: Ice Spice
+    aliases:
+    - ice spice
+    reasoning: ice (frozen water) + spice (seasoning) = Ice Spice
+- id: realitytvbusters-001
+  enabled: true
+  title: Reality TV Busters
+  topic: reality TV shows
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  intro: Reality TV Busters. All shows where real people embarrass themselves on telly. Say the clues out loud.
+  prize: Email in. Winner gets a rejection letter from a reality TV casting director.
+  clues:
+  - number: 1
+    initials: L I
+    clue: A piece of land surrounded by water — gone all romantic and started pairing people up.
+    answer: Love Island
+    aliases:
+    - love island
+    reasoning: love + island (land surrounded by water) = Love Island
+  - number: 2
+    initials: S C D
+    clue: Doing something tightly, in a formal way — gone all glittery and started waltzing.
+    answer: Strictly Come Dancing
+    aliases:
+    - strictly come dancing
+    reasoning: strictly (in a strict manner) + come + dancing = Strictly Come Dancing
+  - number: 3
+    initials: T G B B O
+    clue: That large cooking competition — everyone's very polite about it despite the stress.
+    answer: The Great British Bake Off
+    aliases:
+    - the great british bake off
+    - great british bake off
+    - bake off
+    reasoning: The + Great + British + Bake + Off = The Great British Bake Off
+- id: realitytvbusters-002
+  enabled: true
+  title: Reality TV Busters
+  topic: reality TV shows
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  intro: More reality telly. Three phonetic clues, all unscripted chaos.
+  prize: Email in. Winner gets a fake tan and a bruised ego.
+  clues:
+  - number: 1
+    initials: I A C
+    clue: That statement of existence, followed by a royal, then a big cold country full of moose.
+    answer: I'm a Celebrity
+    aliases:
+    - im a celebrity
+    - i'm a celebrity get me out of here
+    reasoning: I'm + a + Celebrity = I'm a Celebrity
+  - number: 2
+    initials: T A
+    clue: That bloke in charge of everything has given someone a task and is watching them fail at it.
+    answer: The Apprentice
+    aliases:
+    - the apprentice
+    reasoning: the + apprentice (trainee) = The Apprentice
+  - number: 3
+    initials: B B
+    clue: A large sibling — watching everyone inside a house and judging their every move.
+    answer: Big Brother
+    aliases:
+    - big brother
+    reasoning: big + brother (male sibling) = Big Brother

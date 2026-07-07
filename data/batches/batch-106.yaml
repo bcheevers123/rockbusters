@@ -1,0 +1,96 @@
+- id: gameshowbusters-002
+  enabled: true
+  title: Game Show Busters
+  topic: famous TV game shows
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  intro: Game Show Busters. Three more famous TV quizzes.
+  prize: Email in. Winner gets a lifetime supply of incorrect final answers.
+  clues:
+  - number: 1
+    initials: D O N D
+    clue: That thing you do when you make an agreement — someone's telling you not to do it. Peculiar request.
+    answer: Deal or No Deal
+    aliases:
+    - deal or no deal
+    reasoning: Deal + or + No + Deal = Deal or No Deal
+  - number: 2
+    initials: C
+    clue: A clock going backwards — people shouting letters at a screen on a weekday afternoon.
+    answer: Countdown
+    aliases:
+    - countdown
+    reasoning: countdown (counting down from a number) = Countdown
+  - number: 3
+    initials: T W L
+    clue: That thing you can't do when you're strong — gone all Anne Robinson and started being nasty.
+    answer: The Weakest Link
+    aliases:
+    - the weakest link
+    reasoning: the + weakest + link (a chain component) = The Weakest Link
+- id: gameshowbusters-003
+  enabled: true
+  title: Game Show Busters
+  topic: famous TV game shows
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  intro: Game Show Busters. Three more. All phonetic.
+  prize: Email in. Winner gets a consolation prize that's worse than nothing.
+  clues:
+  - number: 1
+    initials: C
+    clue: A word you shout when you've caught someone doing something — gone all Saturday teatime.
+    answer: Catchphrase
+    aliases:
+    - catchphrase
+    reasoning: catch + phrase = Catchphrase
+  - number: 2
+    initials: B
+    clue: A large round target — someone's throwing sharp things at it in a pub. Now it's a game show.
+    answer: Bullseye
+    aliases:
+    - bullseye
+    reasoning: bull's + eye (centre of a target) = Bullseye
+  - number: 3
+    initials: B B
+    clue: Something that's empty on the inside — gone all television and started rhyming things.
+    answer: Blankety Blank
+    aliases:
+    - blankety blank
+    reasoning: blankety + blank (empty space) = Blankety Blank
+- id: gameshowbusters-004
+  enabled: true
+  title: Game Show Busters
+  topic: famous TV game shows
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  intro: Game Show Busters. Three more classics.
+  prize: Email in. Winner gets a bonus question nobody can answer.
+  clues:
+  - number: 1
+    initials: T P I R
+    clue: The cost of a tin of beans — someone's guessing it without going over. Very tense.
+    answer: The Price is Right
+    aliases:
+    - the price is right
+    reasoning: the + price + is + right = The Price is Right
+  - number: 2
+    initials: B
+    clue: A place where you stop moving vehicles — gone all educational and started asking general knowledge questions.
+    answer: Blockbusters
+    aliases:
+    - blockbusters
+    reasoning: block (obstruction) + busters = Blockbusters
+  - number: 3
+    initials: P Y C R
+    clue: A suggestion that you gamble with flat pieces of paper — someone's doing it on a Saturday evening.
+    answer: Play Your Cards Right
+    aliases:
+    - play your cards right
+    reasoning: play + your + cards + right = Play Your Cards Right

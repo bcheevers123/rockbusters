@@ -1,0 +1,99 @@
+- id: 2020stvbusters-001
+  enabled: true
+  title: 2020s TV Busters
+  topic: hit TV shows from the 2020s
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Right, 2020s TV Busters. All shows from the last few years. Say the clues out loud.
+  prize: Email in. Winner gets a Netflix password that probably doesn't work anymore.
+  clues:
+  - number: 1
+    initials: S G
+    clue: That bloke who squeezes things for a living — runs a little stall. Rhymes with fluid game.
+    answer: Squid Game
+    aliases:
+    - squid game
+    reasoning: squid (sea creature) + game (competition) = Squid Game
+  - number: 2
+    initials: S
+    clue: When you take over from someone else at work and follow them up the stairs, that's what you've done to their job.
+    answer: Succession
+    aliases:
+    - succession
+    reasoning: suc-cess-ion sounds like succession = Succession
+  - number: 3
+    initials: T L
+    clue: A cup of that hot brown stuff you drink, but it's gone all relaxed and put its feet up.
+    answer: Ted Lasso
+    aliases:
+    - ted lasso
+    reasoning: Ted (a name) + lasso (a rope) = Ted Lasso
+- id: 2020stvbusters-002
+  enabled: true
+  title: 2020s TV Busters
+  topic: hit TV shows from the 2020s
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: More telly from the 2020s. Three clues, all phonetic. Have a go.
+  prize: Email in. Winner gets a binge-watch hangover and a cold cup of tea.
+  clues:
+  - number: 1
+    initials: W L
+    clue: That woman over there has gone all pale and porcelain. Standing on a small wall.
+    answer: White Lotus
+    aliases:
+    - white lotus
+    reasoning: white (pale) + lotus (a flower/wall) = White Lotus
+  - number: 2
+    initials: B
+    clue: A small bridge, but it's been given a fancy title and thinks it's better than the others.
+    answer: Bridgerton
+    aliases:
+    - bridgerton
+    reasoning: bridge + -erton (suffix) = Bridgerton
+  - number: 3
+    initials: E
+    clue: That Greek goddess of the dawn has gone a bit dizzy and started spinning round.
+    answer: Euphoria
+    aliases:
+    - euphoria
+    reasoning: eu-phor-ia sounds like euphoria = Euphoria
+- id: 2020stvbusters-003
+  enabled: true
+  title: 2020s TV Busters
+  topic: hit TV shows from the 2020s
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: 2020s TV. Three more. All phonetic, all from the last few years.
+  prize: Email in. Winner gets a streaming subscription to a service that got cancelled.
+  clues:
+  - number: 1
+    initials: H O T D
+    clue: A place where you sleep — made entirely of fire-breathing lizards. Bit of a fire hazard.
+    answer: House of the Dragon
+    aliases:
+    - house of the dragon
+    reasoning: house (accommodation) + of + the + dragon (fire lizard) = House of the Dragon
+  - number: 2
+    initials: S
+    clue: That bloke's gone a bit serious and cut himself off from the rest of the office. Bit aloof.
+    answer: Severance
+    aliases:
+    - severance
+    reasoning: sever-ance = Severance
+  - number: 3
+    initials: T B
+    clue: A grizzly animal that works in a kitchen. Very intense about its sandwiches.
+    answer: The Bear
+    aliases:
+    - the bear
+    reasoning: the + bear (large animal) = The Bear

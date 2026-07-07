@@ -1,0 +1,99 @@
+- id: horrorbusters-005
+  enabled: true
+  title: Horror Busters
+  topic: famous horror films
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Horror Busters. Three more. Say them out loud and something might get you.
+  prize: Email in. Winner gets a door that won't lock properly.
+  clues:
+  - number: 1
+    initials: M
+    clue: A sunny Swedish festival — everyone's wearing flowers and smiling. Something is very wrong.
+    answer: Midsommar
+    aliases:
+    - midsommar
+    reasoning: Midsommar (midsummer in Swedish) = Midsommar
+  - number: 2
+    initials: T C
+    clue: People consulting a bloke in an overalls about plumbing — turns out it's all connected to something evil.
+    answer: The Conjuring
+    aliases:
+    - the conjuring
+    reasoning: the + conjuring (summoning/magic) = The Conjuring
+  - number: 3
+    initials: U
+    clue: A pronoun for people together — gone all paranoid and started running from their other selves.
+    answer: Us
+    aliases:
+    - us
+    reasoning: Us (we/the group) = Us
+- id: christmasfilmbusters-001
+  enabled: true
+  title: Christmas Film Busters
+  topic: classic Christmas films
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Christmas Film Busters. All festive classics. Say the clues out loud.
+  prize: Email in. Winner gets a selection box with all the good ones already eaten.
+  clues:
+  - number: 1
+    initials: H A
+    clue: A house — gone all solitary and started booby-trapping itself for burglars.
+    answer: Home Alone
+    aliases:
+    - home alone
+    reasoning: home (house) + alone (by itself) = Home Alone
+  - number: 2
+    initials: E
+    clue: A Christmas fairy — gone a bit tall and started working in a sweet shop in New York.
+    answer: Elf
+    aliases:
+    - elf
+    reasoning: Elf (a Christmas sprite) = Elf
+  - number: 3
+    initials: D H
+    clue: A bloke who dies — gone all heroic inside a tall building at Christmas. Very festive.
+    answer: Die Hard
+    aliases:
+    - die hard
+    reasoning: Die (to die) + Hard (difficult) = Die Hard
+- id: christmasfilmbusters-002
+  enabled: true
+  title: Christmas Film Busters
+  topic: classic Christmas films
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  intro: Christmas films. Three more classics. All phonetic.
+  prize: Email in. Winner gets a Christmas card from someone they can't quite place.
+  clues:
+  - number: 1
+    initials: L A
+    clue: Something you feel for someone — gone all romantic and started happening around an airport.
+    answer: Love Actually
+    aliases:
+    - love actually
+    reasoning: love + actually = Love Actually
+  - number: 2
+    initials: T H
+    clue: A break from work — gone all snowy and involved two women swapping houses.
+    answer: The Holiday
+    aliases:
+    - the holiday
+    reasoning: the + holiday (a break) = The Holiday
+  - number: 3
+    initials: T P E
+    clue: That public transport for cold, icy regions — gone all magical and started heading to the North Pole.
+    answer: The Polar Express
+    aliases:
+    - the polar express
+    - polar express
+    reasoning: the + Polar (arctic) + Express (fast train) = The Polar Express

@@ -1,0 +1,33 @@
+- id: youtuberbusters-003
+  enabled: true
+  title: YouTuber Busters
+  topic: famous YouTubers
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: YouTuber Busters. Three final ones.
+  prize: Email in. Winner gets one viral video and fifteen years of diminishing returns.
+  clues:
+  - number: 1
+    initials: C N
+    clue: A bloke with a camera and a van — drove around America filming things and made everyone jealous.
+    answer: Casey Neistat
+    aliases:
+    - casey neistat
+    reasoning: Casey (a name) + Neistat (a name) = Casey Neistat
+  - number: 2
+    initials: E C
+    clue: A young woman called Emma who drinks coffee and vlogs about doing very ordinary things.
+    answer: Emma Chamberlain
+    aliases:
+    - emma chamberlain
+    reasoning: Emma (a name) + Chamberlain (a name) = Emma Chamberlain
+  - number: 3
+    initials: D D
+    clue: A bloke called David who filmed his friends doing things and everyone found it brilliant for a while.
+    answer: David Dobrik
+    aliases:
+    - david dobrik
+    reasoning: David (a name) + Dobrik (a name) = David Dobrik

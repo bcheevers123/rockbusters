@@ -1,0 +1,99 @@
+- id: actressbusters-004
+  enabled: true
+  title: Actress Busters
+  topic: modern actresses
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Actress Busters. Three more modern actresses.
+  prize: Email in. Winner gets a table read they weren't invited to.
+  clues:
+  - number: 1
+    initials: V D
+    clue: A musical instrument with strings — gone all powerful and started giving speeches.
+    answer: Viola Davis
+    aliases:
+    - viola davis
+    reasoning: Viola (a string instrument) + Davis (a name) = Viola Davis
+  - number: 2
+    initials: L N
+    clue: A small wolf pup — gone all Kenyan and started winning Oscars.
+    answer: Lupita Nyong'o
+    aliases:
+    - lupita nyongo
+    - lupita nyong'o
+    reasoning: Lupita (a name, lupa = wolf) + Nyong'o (a name) = Lupita Nyong'o
+  - number: 3
+    initials: J L
+    clue: A bloke called Jen — gone all enthusiastic about films involving districts and hunger.
+    answer: Jennifer Lawrence
+    aliases:
+    - jennifer lawrence
+    reasoning: Jennifer (a name) + Lawrence (a name) = Jennifer Lawrence
+- id: actressbusters-005
+  enabled: true
+  title: Actress Busters
+  topic: modern actresses
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Actress Busters. Three final modern actresses.
+  prize: Email in. Winner gets a director's cut nobody asked for.
+  clues:
+  - number: 1
+    initials: C B
+    clue: A white cliff — gone all elegant and started winning every award going.
+    answer: Cate Blanchett
+    aliases:
+    - cate blanchett
+    reasoning: Cate (a name, sounds like Kate) + Blanchett (blanc = white) = Cate Blanchett
+  - number: 2
+    initials: M Y
+    clue: An Asian year — gone all martial and started kicking things impressively.
+    answer: Michelle Yeoh
+    aliases:
+    - michelle yeoh
+    reasoning: Michelle (a name) + Yeoh (a name) = Michelle Yeoh
+  - number: 3
+    initials: S S
+    clue: A female pig that swims — gone all Hollywood and started starring in very popular series.
+    answer: Sydney Sweeney
+    aliases:
+    - sydney sweeney
+    reasoning: Sydney (a city/name) + Sweeney (a name, sounds like sweeny) = Sydney Sweeney
+- id: gameshowbusters-001
+  enabled: true
+  title: Game Show Busters
+  topic: famous TV game shows
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  intro: Game Show Busters. All famous TV game shows. Say the clues out loud.
+  prize: Email in. Winner gets a cheque for the right amount but made out to the wrong person.
+  clues:
+  - number: 1
+    initials: W W T B A M
+    clue: A bloke asking if he could possibly become very wealthy — had some help from a friend on the phone.
+    answer: Who Wants to be a Millionaire
+    aliases:
+    - who wants to be a millionaire
+    reasoning: Who + Wants + to + be + a + Millionaire = Who Wants to be a Millionaire
+  - number: 2
+    initials: T C
+    clue: That person who runs after you in a race — gone all brainy and started sitting behind a desk.
+    answer: The Chase
+    aliases:
+    - the chase
+    reasoning: the + chase (pursuit) = The Chase
+  - number: 3
+    initials: P
+    clue: Something that serves no purpose whatsoever — gone all intellectual and won a quiz.
+    answer: Pointless
+    aliases:
+    - pointless
+    reasoning: pointless (serving no purpose) = Pointless

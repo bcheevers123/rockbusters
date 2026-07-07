@@ -1,0 +1,98 @@
+- id: landmarkbusters-002
+  enabled: true
+  title: Landmark Busters
+  topic: famous UK landmarks
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  intro: Landmark Busters. Three more famous UK landmarks.
+  prize: Email in. Winner gets a laminated tourist map from 1987.
+  clues:
+  - number: 1
+    initials: S
+    clue: Large rocks arranged in a circle on a plain. Been there for ages. Nobody knows why.
+    answer: Stonehenge
+    aliases:
+    - stonehenge
+    reasoning: stone + henge (prehistoric monument type) = Stonehenge
+  - number: 2
+    initials: A O T N
+    clue: A heavenly body — gone all pointy and landed in the north of England.
+    answer: Angel of the North
+    aliases:
+    - angel of the north
+    reasoning: Angel (heavenly being) + of + the + North = Angel of the North
+  - number: 3
+    initials: W C
+    clue: A place where the wind blows through a gap — gone all regal and started wearing a crown.
+    answer: Windsor Castle
+    aliases:
+    - windsor castle
+    reasoning: Windsor (winds + or) + Castle (fortification) = Windsor Castle
+- id: landmarkbusters-003
+  enabled: true
+  title: Landmark Busters
+  topic: famous UK landmarks
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  intro: Landmark Busters. Three more. All phonetic, all famous.
+  prize: Email in. Winner gets a guided tour of a car park that used to be something interesting.
+  clues:
+  - number: 1
+    initials: H W
+    clue: A wall built by a bloke called Adrian — keeps the cold out and the Romans in.
+    answer: Hadrian's Wall
+    aliases:
+    - hadrians wall
+    - hadrian's wall
+    reasoning: Hadrian's (the emperor) + Wall = Hadrian's Wall
+  - number: 2
+    initials: T S
+    clue: That definite article, followed by something very pointed and glass-covered in London.
+    answer: The Shard
+    aliases:
+    - the shard
+    reasoning: The + Shard (a sharp fragment/glass building) = The Shard
+  - number: 3
+    initials: T S
+    clue: A large open area in London — lions on columns, pigeons everywhere, tourists gawping.
+    answer: Trafalgar Square
+    aliases:
+    - trafalgar square
+    reasoning: Trafalgar (famous battle) + Square (open public space) = Trafalgar Square
+- id: horrorbusters-001
+  enabled: true
+  title: Horror Busters
+  topic: famous horror films
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Horror Busters. All famous horror films. Say the clues out loud if you dare.
+  prize: Email in. Winner gets a torch that runs out of batteries at the worst moment.
+  clues:
+  - number: 1
+    initials: T S
+    clue: That bloke who's been polishing floors all winter — gone a bit peculiar and started chasing his family.
+    answer: The Shining
+    aliases:
+    - the shining
+    reasoning: the + shining (polishing/glowing) = The Shining
+  - number: 2
+    initials: H
+    clue: A spooky event that happens on the night before November — gone all masked and stabby.
+    answer: Halloween
+    aliases:
+    - halloween
+    reasoning: Halloween (Oct 31st holiday) = Halloween
+  - number: 3
+    initials: P
+    clue: A bloke who works with brains for a living — gone a bit eccentric and started running a motel.
+    answer: Psycho
+    aliases:
+    - psycho
+    reasoning: Psycho (psychiatry/crazy) = Psycho

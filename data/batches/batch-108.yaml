@@ -1,0 +1,98 @@
+- id: castlebusters-003
+  enabled: true
+  title: Castle Busters
+  topic: famous UK castles
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  intro: Castle Busters. Three more. All phonetic.
+  prize: Email in. Winner gets a turret with a very cold draught.
+  clues:
+  - number: 1
+    initials: B C
+    clue: A Scottish estate where a very famous family goes on holiday — tartan everywhere.
+    answer: Balmoral Castle
+    aliases:
+    - balmoral castle
+    reasoning: Balmoral (Scottish royal residence) + Castle = Balmoral Castle
+  - number: 2
+    initials: S C
+    clue: Something that's stopped moving — gone all Scottish and started overlooking a city.
+    answer: Stirling Castle
+    aliases:
+    - stirling castle
+    reasoning: Stirling (a Scottish city) + Castle = Stirling Castle
+  - number: 3
+    initials: D C
+    clue: That white stuff on a cliff face — gone all historical and started staring at France.
+    answer: Dover Castle
+    aliases:
+    - dover castle
+    reasoning: Dover (white cliffs) + Castle = Dover Castle
+- id: numbertwobusters-001
+  enabled: true
+  title: Number Two Busters
+  topic: things always known as second best
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Number Two Busters. All things that came second. Say the clues out loud.
+  prize: Email in. Winner gets a silver medal and nobody's attention.
+  clues:
+  - number: 1
+    initials: P
+    clue: A fizzy drink — not the one everyone prefers, but it keeps trying. Blind tests and everything.
+    answer: Pepsi
+    aliases:
+    - pepsi
+    reasoning: Pepsi (the second cola) = Pepsi
+  - number: 2
+    initials: B K
+    clue: A place where burgers are prepared — not the most famous one, but the flame-grilled one.
+    answer: Burger King
+    aliases:
+    - burger king
+    reasoning: Burger (a meat patty) + King (royalty) = Burger King
+  - number: 3
+    initials: A
+    clue: A car rental company — they try harder because they know they're not top of the pile.
+    answer: Avis
+    aliases:
+    - avis
+    reasoning: Avis (the car rental company, famous for 'We Try Harder') = Avis
+- id: numbertwobusters-002
+  enabled: true
+  title: Number Two Busters
+  topic: things always known as second best
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Number Two Busters. More runners-up. All phonetic.
+  prize: Email in. Winner gets a consolation prize and a very small podium.
+  clues:
+  - number: 1
+    initials: B
+    clue: A search engine — not the one everyone uses. Comes pre-installed on things and gets quietly removed.
+    answer: Bing
+    aliases:
+    - bing
+    reasoning: Bing (Microsoft's search engine, second to Google) = Bing
+  - number: 2
+    initials: Y
+    clue: A cowboy sound — but it's a website. Used to be a big deal. Still alive, just about.
+    answer: Yahoo
+    aliases:
+    - yahoo
+    reasoning: Yahoo (exclamation/search engine) = Yahoo
+  - number: 3
+    initials: B
+    clue: A small dark fruit from a bush — gone all mobile and started making phones with tiny keyboards.
+    answer: Blackberry
+    aliases:
+    - blackberry
+    reasoning: Blackberry (the fruit/the phone brand) = Blackberry

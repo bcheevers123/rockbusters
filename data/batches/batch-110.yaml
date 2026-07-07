@@ -1,0 +1,100 @@
+- id: internetslangbusters-003
+  enabled: true
+  title: Internet Slang Busters
+  topic: internet slang and online culture
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Internet Slang Busters. Three final ones.
+  prize: Email in. Winner gets a DM that says 'hey'.
+  clues:
+  - number: 1
+    initials: T
+    clue: Something that's very popular right now — going up and up on the charts with no explanation.
+    answer: Trending
+    aliases:
+    - trending
+    reasoning: trending (becoming popular) = Trending
+  - number: 2
+    initials: H
+    clue: A symbol that turns a word into a category — the pound sign went all social media.
+    answer: Hashtag
+    aliases:
+    - hashtag
+    reasoning: 'hash (the # symbol) + tag = Hashtag'
+  - number: 3
+    initials: T
+    clue: A person hiding behind a screen being horrible to strangers — not the kind that lives under bridges.
+    answer: Trolling
+    aliases:
+    - trolling
+    reasoning: trolling (harassing online, from troll) = Trolling
+- id: youtuberbusters-001
+  enabled: true
+  title: YouTuber Busters
+  topic: famous YouTubers
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: YouTuber Busters. All famous YouTubers. Say the clues out loud.
+  prize: Email in. Winner gets a subscribe button and zero new subscribers.
+  clues:
+  - number: 1
+    initials: M B
+    clue: A large carnivorous creature — gone all generous and started giving things away to random strangers.
+    answer: MrBeast
+    aliases:
+    - mrbeast
+    - mr beast
+    reasoning: Mr (a title) + Beast (large animal) = MrBeast
+  - number: 2
+    initials: K
+    clue: A British boxer — gone all gaming and started making music. Won't leave the internet alone.
+    answer: KSI
+    aliases:
+    - ksi
+    reasoning: KSI (Knowledge, Strength, Integrity — YouTuber name) = KSI
+  - number: 3
+    initials: Z
+    clue: A young woman — gone all beauty tutorial and taken over the internet in the early 2010s.
+    answer: Zoella
+    aliases:
+    - zoella
+    reasoning: Zoella (Zoe + -ella suffix) = Zoella
+- id: youtuberbusters-002
+  enabled: true
+  title: YouTuber Busters
+  topic: famous YouTubers
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: YouTuber Busters. Three more internet famous people.
+  prize: Email in. Winner gets a ring light and a total lack of content ideas.
+  clues:
+  - number: 1
+    initials: P
+    clue: A bloke from Sweden who plays games on camera and shouts at them. Very popular about it.
+    answer: PewDiePie
+    aliases:
+    - pewdiepie
+    reasoning: Pew (a church bench) + Die (to die) + Pie (pastry) = PewDiePie
+  - number: 2
+    initials: L P
+    clue: A man called Logan who jumped into things and filmed it. Caused quite a stir.
+    answer: Logan Paul
+    aliases:
+    - logan paul
+    reasoning: Logan (a name) + Paul (a name) = Logan Paul
+  - number: 3
+    initials: D P
+    clue: Blokes doing brilliant things — gone all sporty and started throwing balls through hoops very impressively.
+    answer: Dude Perfect
+    aliases:
+    - dude perfect
+    reasoning: Dude (a casual term for a man) + Perfect (flawless) = Dude Perfect

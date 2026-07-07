@@ -1,0 +1,96 @@
+- id: primeministersbusters-004
+  enabled: true
+  title: Prime Ministers Busters
+  topic: UK Prime Ministers
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+  - UK
+  intro: Prime Ministers Busters. Older ones now. Full names, all phonetic.
+  prize: Email in. Winner gets a black door with a number on it.
+  clues:
+  - number: 1
+    initials: H W
+    clue: A bloke called Harold who's gone off to get some water from a well. Very determined about it.
+    answer: Harold Wilson
+    aliases:
+    - harold wilson
+    reasoning: Harold (a name) + Wilson (son of Will) = Harold Wilson
+  - number: 2
+    initials: E H
+    clue: A patch of open land covered in purple flowers — it's gone all grand and put on a suit.
+    answer: Edward Heath
+    aliases:
+    - edward heath
+    reasoning: Edward (a name) + Heath (open land with heather) = Edward Heath
+  - number: 3
+    initials: W C
+    clue: A person who wins things — goes into small rooms and comes out victorious.
+    answer: Winston Churchill
+    aliases:
+    - winston churchill
+    reasoning: Winston (a name) + Churchill (church + hill) = Winston Churchill
+- id: primeministersbusters-005
+  enabled: true
+  title: Prime Ministers Busters
+  topic: UK Prime Ministers
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+  - UK
+  intro: Prime Ministers Busters. Three more from the history books.
+  prize: Email in. Winner gets a memoirs book nobody's read past chapter two.
+  clues:
+  - number: 1
+    initials: C A
+    clue: A bloke from the church — gone all political and started nationalising things left, right, and centre.
+    answer: Clement Attlee
+    aliases:
+    - clement attlee
+    reasoning: Clement (a church title/name) + Attlee (at-lee) = Clement Attlee
+  - number: 2
+    initials: H M
+    clue: A bloke called Harold who's gone all grand and started living in a big house on a hill.
+    answer: Harold Macmillan
+    aliases:
+    - harold macmillan
+    reasoning: Harold (a name) + Macmillan (mac + millan) = Harold Macmillan
+  - number: 3
+    initials: J C
+    clue: A bloke called James who's very calm about everything. Very tranquil. Not a care in the world.
+    answer: James Callaghan
+    aliases:
+    - james callaghan
+    reasoning: James (a name) + Callaghan (calla-han) = James Callaghan
+- id: landmarkbusters-001
+  enabled: true
+  title: Landmark Busters
+  topic: famous UK landmarks
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  intro: Landmark Busters. All famous UK landmarks. Say the clues out loud.
+  prize: Email in. Winner gets a fridge magnet of somewhere they've never been.
+  clues:
+  - number: 1
+    initials: B B
+    clue: A large male pig — gone all tall and started telling everyone what time it is.
+    answer: Big Ben
+    aliases:
+    - big ben
+    reasoning: Big (large) + Ben (a name) = Big Ben
+  - number: 2
+    initials: B P
+    clue: A large container for water — gone all royal and got a long driveway.
+    answer: Buckingham Palace
+    aliases:
+    - buckingham palace
+    reasoning: Buckingham (a place) + Palace (grand residence) = Buckingham Palace
+  - number: 3
+    initials: T O L
+    clue: That tall structure — gone all old and started locking people inside it.
+    answer: Tower of London
+    aliases:
+    - tower of london
+    reasoning: Tower (tall structure) + of + London = Tower of London

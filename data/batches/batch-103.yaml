@@ -1,0 +1,98 @@
+- id: christmasfilmbusters-003
+  enabled: true
+  title: Christmas Film Busters
+  topic: classic Christmas films
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  intro: Christmas films. Three more. Say them out loud.
+  prize: Email in. Winner gets a tangerine and a coin at the bottom of a stocking.
+  clues:
+  - number: 1
+    initials: A C C
+    clue: That miserly bloke being visited by three transparent people who show him what a rotter he's been.
+    answer: A Christmas Carol
+    aliases:
+    - a christmas carol
+    reasoning: A + Christmas + Carol (festive song) = A Christmas Carol
+  - number: 2
+    initials: I A W L
+    clue: That thing said when something exists — gone all wonderful and started involving an angel earning wings.
+    answer: It's a Wonderful Life
+    aliases:
+    - its a wonderful life
+    - it's a wonderful life
+    reasoning: It's + a + Wonderful + Life = It's a Wonderful Life
+  - number: 3
+    initials: K
+    clue: A small ship — gone all animated and started delivering presents to children.
+    answer: Klaus
+    aliases:
+    - klaus
+    reasoning: Klaus (Santa Klaus) = Klaus
+- id: christmasfilmbusters-004
+  enabled: true
+  title: Christmas Film Busters
+  topic: classic Christmas films
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  intro: Christmas films. Three more festive classics.
+  prize: Email in. Winner gets a pair of novelty socks they'll never wear.
+  clues:
+  - number: 1
+    initials: A C
+    clue: A festive song — going by boat, past all the presents under the tree.
+    answer: Arthur Christmas
+    aliases:
+    - arthur christmas
+    reasoning: Arthur (a name) + Christmas = Arthur Christmas
+  - number: 2
+    initials: T S
+    clue: That thing in a room where it's very cold and everyone's wearing jumpers. Frosty atmosphere.
+    answer: The Snowman
+    aliases:
+    - the snowman
+    reasoning: the + snowman (figure made of snow) = The Snowman
+  - number: 3
+    initials: W C
+    clue: A colour that's gone all festive and started singing carols in black and white.
+    answer: White Christmas
+    aliases:
+    - white christmas
+    reasoning: white (the colour) + Christmas = White Christmas
+- id: christmasfilmbusters-005
+  enabled: true
+  title: Christmas Film Busters
+  topic: classic Christmas films
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  intro: Christmas films. Three more for the festive season.
+  prize: Email in. Winner gets a festive jumper from a charity shop.
+  clues:
+  - number: 1
+    initials: S C T M
+    clue: That jolly big bloke in red — gone all Hollywood and started explaining how he does it all in one night.
+    answer: Santa Claus the Movie
+    aliases:
+    - santa claus the movie
+    - santa claus
+    reasoning: Santa + Claus + the + Movie = Santa Claus the Movie
+  - number: 2
+    initials: H I
+    clue: A place where aircraft land — but it's warm and everyone keeps singing.
+    answer: Holiday Inn
+    aliases:
+    - holiday inn
+    reasoning: Holiday (festive break) + Inn (a place to stay) = Holiday Inn
+  - number: 3
+    initials: J F
+    clue: A month of the year — gone all icy and started singing in a scarf.
+    answer: Jack Frost
+    aliases:
+    - jack frost
+    reasoning: Jack (a name) + Frost (frozen condensation) = Jack Frost

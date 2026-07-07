@@ -1,0 +1,101 @@
+- id: numbertwobusters-003
+  enabled: true
+  title: Number Two Busters
+  topic: things always known as second best
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Number Two Busters. Three more also-rans.
+  prize: Email in. Winner gets an honourable mention nobody will remember.
+  clues:
+  - number: 1
+    initials: B
+    clue: The video format that lost the war — now nobody can play it even if they wanted to.
+    answer: Betamax
+    aliases:
+    - betamax
+    - beta max
+    reasoning: Beta (the format) + max (maximum) = Betamax
+  - number: 2
+    initials: M
+    clue: A website where everyone used to be friends with a bloke called Tom. Gone quiet now.
+    answer: MySpace
+    aliases:
+    - myspace
+    reasoning: My + Space = MySpace
+  - number: 3
+    initials: A J
+    clue: A digital butler — you could ask it things, but Google came along and answered faster.
+    answer: Ask Jeeves
+    aliases:
+    - ask jeeves
+    - askjeeves
+    reasoning: Ask (to ask a question) + Jeeves (the famous butler) = Ask Jeeves
+- id: internetslangbusters-001
+  enabled: true
+  title: Internet Slang Busters
+  topic: internet slang and online culture
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Internet Slang Busters. All modern online words and phrases. Say them out loud.
+  prize: Email in. Winner gets a verified tick and zero followers.
+  clues:
+  - number: 1
+    initials: G O A T
+    clue: A farmyard animal — gone all internet and decided it's the best there's ever been.
+    answer: GOAT
+    aliases:
+    - goat
+    reasoning: GOAT (Greatest Of All Time) = GOAT
+  - number: 2
+    initials: F O M O
+    clue: That feeling when everyone else is out having fun and you're at home knowing about it.
+    answer: FOMO
+    aliases:
+    - fomo
+    reasoning: FOMO (Fear Of Missing Out) = FOMO
+  - number: 3
+    initials: G V
+    clue: Something spreading very fast across the internet — not a disease, but behaves like one.
+    answer: Going Viral
+    aliases:
+    - going viral
+    reasoning: going + viral (spreading like a virus) = Going Viral
+- id: internetslangbusters-002
+  enabled: true
+  title: Internet Slang Busters
+  topic: internet slang and online culture
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Internet Slang Busters. Three more. All phonetic.
+  prize: Email in. Winner gets a notification they can't turn off.
+  clues:
+  - number: 1
+    initials: G
+    clue: When someone disappears from your life without warning — just stops replying. Vanished.
+    answer: Ghosting
+    aliases:
+    - ghosting
+    reasoning: ghosting (disappearing like a ghost) = Ghosting
+  - number: 2
+    initials: C B
+    clue: Something that gets you to look at it under false pretences — a misleading title on the internet.
+    answer: Clickbait
+    aliases:
+    - clickbait
+    reasoning: click + bait (lure) = Clickbait
+  - number: 3
+    initials: S
+    clue: A photograph of yourself, taken by yourself, on a stick or just an outstretched arm.
+    answer: Selfie
+    aliases:
+    - selfie
+    reasoning: selfie (self-photograph) = Selfie

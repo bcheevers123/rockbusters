@@ -1,0 +1,99 @@
+- id: horrorbusters-002
+  enabled: true
+  title: Horror Busters
+  topic: famous horror films
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Horror Busters. Three more classics. All phonetic.
+  prize: Email in. Winner gets a babysitting job they can't get out of.
+  clues:
+  - number: 1
+    initials: A
+    clue: Something from outer space — not friendly. Very tall, drools a lot. In space, nobody can hear it.
+    answer: Alien
+    aliases:
+    - alien
+    reasoning: Alien (extraterrestrial creature) = Alien
+  - number: 2
+    initials: J
+    clue: A very large fish — lurking in shallow water near the beach. Put people off swimming for decades.
+    answer: Jaws
+    aliases:
+    - jaws
+    reasoning: Jaws (the mouth of a large shark) = Jaws
+  - number: 3
+    initials: S
+    clue: A loud, high-pitched sound coming from someone in a white mask — been doing it since 1996.
+    answer: Scream
+    aliases:
+    - scream
+    reasoning: Scream (a loud shriek) = Scream
+- id: horrorbusters-003
+  enabled: true
+  title: Horror Busters
+  topic: famous horror films
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Horror Busters. Three more scary ones.
+  prize: Email in. Winner gets a nightlight and a very thin duvet.
+  clues:
+  - number: 1
+    initials: T E
+    clue: That church bloke — gone all possessed and started spinning his head round.
+    answer: The Exorcist
+    aliases:
+    - the exorcist
+    reasoning: the + exorcist (one who performs exorcisms) = The Exorcist
+  - number: 2
+    initials: I
+    clue: A personal pronoun — gone all red and started floating in the drains.
+    answer: It
+    aliases:
+    - it
+    reasoning: It (pronoun/the clown) = It
+  - number: 3
+    initials: G O
+    clue: That colour you use to leave somewhere — gone all racial and started uncovering hidden fears.
+    answer: Get Out
+    aliases:
+    - get out
+    reasoning: Get + Out (leave/escape) = Get Out
+- id: horrorbusters-004
+  enabled: true
+  title: Horror Busters
+  topic: famous horror films
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Horror Busters. More scary films. All phonetic.
+  prize: Email in. Winner gets a creaky floorboard and an unidentified noise downstairs.
+  clues:
+  - number: 1
+    initials: H
+    clue: Going to live somewhere that is inherited from someone — gone all dark and started flickering the lights.
+    answer: Hereditary
+    aliases:
+    - hereditary
+    reasoning: hereditary (passed down through family) = Hereditary
+  - number: 2
+    initials: A Q P
+    clue: A very silent spot — no noise whatsoever. Best not make a sound or something very bad happens.
+    answer: A Quiet Place
+    aliases:
+    - a quiet place
+    reasoning: A + Quiet (silent) + Place (location) = A Quiet Place
+  - number: 3
+    initials: C
+    clue: A young woman covered in something red at a school dance — not happy about it.
+    answer: Carrie
+    aliases:
+    - carrie
+    reasoning: Carrie (a name, also to carry) = Carrie

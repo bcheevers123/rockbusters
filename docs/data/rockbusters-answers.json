@@ -24071,5 +24071,1614 @@
         "reasoning": "Steve (a man's name) + jobs (multiple occupations, different lines of work) = Steve Jobs"
       }
     ]
+  },
+  {
+    "id": "2020stvbusters-001",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Squid Game",
+        "aliases": [
+          "squid game"
+        ],
+        "reasoning": "squid (sea creature) + game (competition) = Squid Game"
+      },
+      {
+        "number": 2,
+        "answer": "Succession",
+        "aliases": [
+          "succession"
+        ],
+        "reasoning": "suc-cess-ion sounds like succession = Succession"
+      },
+      {
+        "number": 3,
+        "answer": "Ted Lasso",
+        "aliases": [
+          "ted lasso"
+        ],
+        "reasoning": "Ted (a name) + lasso (a rope) = Ted Lasso"
+      }
+    ]
+  },
+  {
+    "id": "2020stvbusters-002",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "White Lotus",
+        "aliases": [
+          "white lotus"
+        ],
+        "reasoning": "white (pale) + lotus (a flower/wall) = White Lotus"
+      },
+      {
+        "number": 2,
+        "answer": "Bridgerton",
+        "aliases": [
+          "bridgerton"
+        ],
+        "reasoning": "bridge + -erton (suffix) = Bridgerton"
+      },
+      {
+        "number": 3,
+        "answer": "Euphoria",
+        "aliases": [
+          "euphoria"
+        ],
+        "reasoning": "eu-phor-ia sounds like euphoria = Euphoria"
+      }
+    ]
+  },
+  {
+    "id": "2020stvbusters-003",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "House of the Dragon",
+        "aliases": [
+          "house of the dragon"
+        ],
+        "reasoning": "house (accommodation) + of + the + dragon (fire lizard) = House of the Dragon"
+      },
+      {
+        "number": 2,
+        "answer": "Severance",
+        "aliases": [
+          "severance"
+        ],
+        "reasoning": "sever-ance = Severance"
+      },
+      {
+        "number": 3,
+        "answer": "The Bear",
+        "aliases": [
+          "the bear"
+        ],
+        "reasoning": "the + bear (large animal) = The Bear"
+      }
+    ]
+  },
+  {
+    "id": "2020stvbusters-004",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "The Traitors",
+        "aliases": [
+          "the traitors"
+        ],
+        "reasoning": "the + traitors (people who betray) = The Traitors"
+      },
+      {
+        "number": 2,
+        "answer": "Wednesday",
+        "aliases": [
+          "wednesday"
+        ],
+        "reasoning": "Wednesday (middle of the week, also Addams Family character) = Wednesday"
+      },
+      {
+        "number": 3,
+        "answer": "The Last of Us",
+        "aliases": [
+          "the last of us"
+        ],
+        "reasoning": "the + last (final) + of + us (ewe/us) = The Last of Us"
+      }
+    ]
+  },
+  {
+    "id": "2020stvbusters-005",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Beef",
+        "aliases": [
+          "beef"
+        ],
+        "reasoning": "beef (a type of meat/also a grudge) = Beef"
+      },
+      {
+        "number": 2,
+        "answer": "Heartstopper",
+        "aliases": [
+          "heartstopper"
+        ],
+        "reasoning": "heart + stopper = Heartstopper"
+      },
+      {
+        "number": 3,
+        "answer": "Abbott Elementary",
+        "aliases": [
+          "abbott elementary"
+        ],
+        "reasoning": "Abbott (a name) + Elementary (primary school level) = Abbott Elementary"
+      }
+    ]
+  },
+  {
+    "id": "2020spopbusters-001",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Harry Styles",
+        "aliases": [
+          "harry styles"
+        ],
+        "reasoning": "Harry (a name) + Styles (fashion choices) = Harry Styles"
+      },
+      {
+        "number": 2,
+        "answer": "Dua Lipa",
+        "aliases": [
+          "dua lipa"
+        ],
+        "reasoning": "Dua (a name) + Lipa (lip-a) = Dua Lipa"
+      },
+      {
+        "number": 3,
+        "answer": "Billie Eilish",
+        "aliases": [
+          "billie eilish"
+        ],
+        "reasoning": "Billie (a name) + Eilish (eel-ish) = Billie Eilish"
+      }
+    ]
+  },
+  {
+    "id": "2020spopbusters-002",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Olivia Rodrigo",
+        "aliases": [
+          "olivia rodrigo"
+        ],
+        "reasoning": "Olivia (olive-ia) + Rodrigo (rod-ree-go) = Olivia Rodrigo"
+      },
+      {
+        "number": 2,
+        "answer": "Stormzy",
+        "aliases": [
+          "stormzy"
+        ],
+        "reasoning": "storm-zy = Stormzy"
+      },
+      {
+        "number": 3,
+        "answer": "Lewis Capaldi",
+        "aliases": [
+          "lewis capaldi"
+        ],
+        "reasoning": "Lewis (a name) + Capaldi (ca-pal-di) = Lewis Capaldi"
+      }
+    ]
+  },
+  {
+    "id": "2020spopbusters-003",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Bad Bunny",
+        "aliases": [
+          "bad bunny"
+        ],
+        "reasoning": "bad (naughty) + bunny (rabbit) = Bad Bunny"
+      },
+      {
+        "number": 2,
+        "answer": "Post Malone",
+        "aliases": [
+          "post malone"
+        ],
+        "reasoning": "post (mail) + Malone (a name) = Post Malone"
+      },
+      {
+        "number": 3,
+        "answer": "Lizzo",
+        "aliases": [
+          "lizzo"
+        ],
+        "reasoning": "Lizzo (liz-zo) = Lizzo"
+      }
+    ]
+  },
+  {
+    "id": "2020spopbusters-004",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Doja Cat",
+        "aliases": [
+          "doja cat"
+        ],
+        "reasoning": "Doja (doe-ja) + Cat (feline) = Doja Cat"
+      },
+      {
+        "number": 2,
+        "answer": "Wet Leg",
+        "aliases": [
+          "wet leg"
+        ],
+        "reasoning": "wet (damp) + leg (limb) = Wet Leg"
+      },
+      {
+        "number": 3,
+        "answer": "Sam Fender",
+        "aliases": [
+          "sam fender"
+        ],
+        "reasoning": "Sam (a name) + Fender (a guitar brand/car part) = Sam Fender"
+      }
+    ]
+  },
+  {
+    "id": "2020spopbusters-005",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Lana Del Rey",
+        "aliases": [
+          "lana del rey"
+        ],
+        "reasoning": "Lana (a name) + Del Rey (of the king) = Lana Del Rey"
+      },
+      {
+        "number": 2,
+        "answer": "The Weeknd",
+        "aliases": [
+          "the weeknd"
+        ],
+        "reasoning": "the + weeknd (weekend) = The Weeknd"
+      },
+      {
+        "number": 3,
+        "answer": "Ice Spice",
+        "aliases": [
+          "ice spice"
+        ],
+        "reasoning": "ice (frozen water) + spice (seasoning) = Ice Spice"
+      }
+    ]
+  },
+  {
+    "id": "realitytvbusters-001",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Love Island",
+        "aliases": [
+          "love island"
+        ],
+        "reasoning": "love + island (land surrounded by water) = Love Island"
+      },
+      {
+        "number": 2,
+        "answer": "Strictly Come Dancing",
+        "aliases": [
+          "strictly come dancing"
+        ],
+        "reasoning": "strictly (in a strict manner) + come + dancing = Strictly Come Dancing"
+      },
+      {
+        "number": 3,
+        "answer": "The Great British Bake Off",
+        "aliases": [
+          "the great british bake off",
+          "great british bake off",
+          "bake off"
+        ],
+        "reasoning": "The + Great + British + Bake + Off = The Great British Bake Off"
+      }
+    ]
+  },
+  {
+    "id": "realitytvbusters-002",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "I'm a Celebrity",
+        "aliases": [
+          "im a celebrity",
+          "i'm a celebrity get me out of here"
+        ],
+        "reasoning": "I'm + a + Celebrity = I'm a Celebrity"
+      },
+      {
+        "number": 2,
+        "answer": "The Apprentice",
+        "aliases": [
+          "the apprentice"
+        ],
+        "reasoning": "the + apprentice (trainee) = The Apprentice"
+      },
+      {
+        "number": 3,
+        "answer": "Big Brother",
+        "aliases": [
+          "big brother"
+        ],
+        "reasoning": "big + brother (male sibling) = Big Brother"
+      }
+    ]
+  },
+  {
+    "id": "realitytvbusters-003",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "The Traitors",
+        "aliases": [
+          "the traitors"
+        ],
+        "reasoning": "the + traitors = The Traitors"
+      },
+      {
+        "number": 2,
+        "answer": "Gogglebox",
+        "aliases": [
+          "gogglebox"
+        ],
+        "reasoning": "goggle (stare) + box (TV) = Gogglebox"
+      },
+      {
+        "number": 3,
+        "answer": "Married at First Sight",
+        "aliases": [
+          "married at first sight"
+        ],
+        "reasoning": "married + at + first + sight = Married at First Sight"
+      }
+    ]
+  },
+  {
+    "id": "realitytvbusters-004",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "First Dates",
+        "aliases": [
+          "first dates"
+        ],
+        "reasoning": "first + dates = First Dates"
+      },
+      {
+        "number": 2,
+        "answer": "The Circle",
+        "aliases": [
+          "the circle"
+        ],
+        "reasoning": "the + circle (geometric shape) = The Circle"
+      },
+      {
+        "number": 3,
+        "answer": "Race Across the World",
+        "aliases": [
+          "race across the world"
+        ],
+        "reasoning": "race + across + the + world = Race Across the World"
+      }
+    ]
+  },
+  {
+    "id": "realitytvbusters-005",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Celebrity Big Brother",
+        "aliases": [
+          "celebrity big brother"
+        ],
+        "reasoning": "celebrity + big + brother = Celebrity Big Brother"
+      },
+      {
+        "number": 2,
+        "answer": "Hunted",
+        "aliases": [
+          "hunted"
+        ],
+        "reasoning": "hunted (being tracked down) = Hunted"
+      },
+      {
+        "number": 3,
+        "answer": "Survivor",
+        "aliases": [
+          "survivor"
+        ],
+        "reasoning": "survivor (one who survives) = Survivor"
+      }
+    ]
+  },
+  {
+    "id": "primeministersbusters-001",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Margaret Thatcher",
+        "aliases": [
+          "margaret thatcher"
+        ],
+        "reasoning": "Margaret (a name) + Thatcher (someone who thatches roofs) = Margaret Thatcher"
+      },
+      {
+        "number": 2,
+        "answer": "Tony Blair",
+        "aliases": [
+          "tony blair"
+        ],
+        "reasoning": "Tony (a name) + Blair (sounds like 'blare' or a Scottish place) = Tony Blair"
+      },
+      {
+        "number": 3,
+        "answer": "John Major",
+        "aliases": [
+          "john major"
+        ],
+        "reasoning": "John (a name) + Major (army rank/important) = John Major"
+      }
+    ]
+  },
+  {
+    "id": "primeministersbusters-002",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Gordon Brown",
+        "aliases": [
+          "gordon brown"
+        ],
+        "reasoning": "Gordon (a name) + Brown (the colour) = Gordon Brown"
+      },
+      {
+        "number": 2,
+        "answer": "David Cameron",
+        "aliases": [
+          "david cameron"
+        ],
+        "reasoning": "David (a name) + Cameron (sounds like camera) = David Cameron"
+      },
+      {
+        "number": 3,
+        "answer": "Theresa May",
+        "aliases": [
+          "theresa may"
+        ],
+        "reasoning": "Theresa (a name) + May (the month) = Theresa May"
+      }
+    ]
+  },
+  {
+    "id": "primeministersbusters-003",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Boris Johnson",
+        "aliases": [
+          "boris johnson"
+        ],
+        "reasoning": "Boris (a name) + Johnson (a surname) = Boris Johnson"
+      },
+      {
+        "number": 2,
+        "answer": "Liz Truss",
+        "aliases": [
+          "liz truss"
+        ],
+        "reasoning": "Liz (a name) + Truss (a structural support) = Liz Truss"
+      },
+      {
+        "number": 3,
+        "answer": "Rishi Sunak",
+        "aliases": [
+          "rishi sunak"
+        ],
+        "reasoning": "Rishi (a name) + Sunak (soo-nak) = Rishi Sunak"
+      }
+    ]
+  },
+  {
+    "id": "primeministersbusters-004",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Harold Wilson",
+        "aliases": [
+          "harold wilson"
+        ],
+        "reasoning": "Harold (a name) + Wilson (son of Will) = Harold Wilson"
+      },
+      {
+        "number": 2,
+        "answer": "Edward Heath",
+        "aliases": [
+          "edward heath"
+        ],
+        "reasoning": "Edward (a name) + Heath (open land with heather) = Edward Heath"
+      },
+      {
+        "number": 3,
+        "answer": "Winston Churchill",
+        "aliases": [
+          "winston churchill"
+        ],
+        "reasoning": "Winston (a name) + Churchill (church + hill) = Winston Churchill"
+      }
+    ]
+  },
+  {
+    "id": "primeministersbusters-005",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Clement Attlee",
+        "aliases": [
+          "clement attlee"
+        ],
+        "reasoning": "Clement (a church title/name) + Attlee (at-lee) = Clement Attlee"
+      },
+      {
+        "number": 2,
+        "answer": "Harold Macmillan",
+        "aliases": [
+          "harold macmillan"
+        ],
+        "reasoning": "Harold (a name) + Macmillan (mac + millan) = Harold Macmillan"
+      },
+      {
+        "number": 3,
+        "answer": "James Callaghan",
+        "aliases": [
+          "james callaghan"
+        ],
+        "reasoning": "James (a name) + Callaghan (calla-han) = James Callaghan"
+      }
+    ]
+  },
+  {
+    "id": "landmarkbusters-001",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Big Ben",
+        "aliases": [
+          "big ben"
+        ],
+        "reasoning": "Big (large) + Ben (a name) = Big Ben"
+      },
+      {
+        "number": 2,
+        "answer": "Buckingham Palace",
+        "aliases": [
+          "buckingham palace"
+        ],
+        "reasoning": "Buckingham (a place) + Palace (grand residence) = Buckingham Palace"
+      },
+      {
+        "number": 3,
+        "answer": "Tower of London",
+        "aliases": [
+          "tower of london"
+        ],
+        "reasoning": "Tower (tall structure) + of + London = Tower of London"
+      }
+    ]
+  },
+  {
+    "id": "landmarkbusters-002",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Stonehenge",
+        "aliases": [
+          "stonehenge"
+        ],
+        "reasoning": "stone + henge (prehistoric monument type) = Stonehenge"
+      },
+      {
+        "number": 2,
+        "answer": "Angel of the North",
+        "aliases": [
+          "angel of the north"
+        ],
+        "reasoning": "Angel (heavenly being) + of + the + North = Angel of the North"
+      },
+      {
+        "number": 3,
+        "answer": "Windsor Castle",
+        "aliases": [
+          "windsor castle"
+        ],
+        "reasoning": "Windsor (winds + or) + Castle (fortification) = Windsor Castle"
+      }
+    ]
+  },
+  {
+    "id": "landmarkbusters-003",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Hadrian's Wall",
+        "aliases": [
+          "hadrians wall",
+          "hadrian's wall"
+        ],
+        "reasoning": "Hadrian's (the emperor) + Wall = Hadrian's Wall"
+      },
+      {
+        "number": 2,
+        "answer": "The Shard",
+        "aliases": [
+          "the shard"
+        ],
+        "reasoning": "The + Shard (a sharp fragment/glass building) = The Shard"
+      },
+      {
+        "number": 3,
+        "answer": "Trafalgar Square",
+        "aliases": [
+          "trafalgar square"
+        ],
+        "reasoning": "Trafalgar (famous battle) + Square (open public space) = Trafalgar Square"
+      }
+    ]
+  },
+  {
+    "id": "horrorbusters-001",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "The Shining",
+        "aliases": [
+          "the shining"
+        ],
+        "reasoning": "the + shining (polishing/glowing) = The Shining"
+      },
+      {
+        "number": 2,
+        "answer": "Halloween",
+        "aliases": [
+          "halloween"
+        ],
+        "reasoning": "Halloween (Oct 31st holiday) = Halloween"
+      },
+      {
+        "number": 3,
+        "answer": "Psycho",
+        "aliases": [
+          "psycho"
+        ],
+        "reasoning": "Psycho (psychiatry/crazy) = Psycho"
+      }
+    ]
+  },
+  {
+    "id": "horrorbusters-002",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Alien",
+        "aliases": [
+          "alien"
+        ],
+        "reasoning": "Alien (extraterrestrial creature) = Alien"
+      },
+      {
+        "number": 2,
+        "answer": "Jaws",
+        "aliases": [
+          "jaws"
+        ],
+        "reasoning": "Jaws (the mouth of a large shark) = Jaws"
+      },
+      {
+        "number": 3,
+        "answer": "Scream",
+        "aliases": [
+          "scream"
+        ],
+        "reasoning": "Scream (a loud shriek) = Scream"
+      }
+    ]
+  },
+  {
+    "id": "horrorbusters-003",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "The Exorcist",
+        "aliases": [
+          "the exorcist"
+        ],
+        "reasoning": "the + exorcist (one who performs exorcisms) = The Exorcist"
+      },
+      {
+        "number": 2,
+        "answer": "It",
+        "aliases": [
+          "it"
+        ],
+        "reasoning": "It (pronoun/the clown) = It"
+      },
+      {
+        "number": 3,
+        "answer": "Get Out",
+        "aliases": [
+          "get out"
+        ],
+        "reasoning": "Get + Out (leave/escape) = Get Out"
+      }
+    ]
+  },
+  {
+    "id": "horrorbusters-004",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Hereditary",
+        "aliases": [
+          "hereditary"
+        ],
+        "reasoning": "hereditary (passed down through family) = Hereditary"
+      },
+      {
+        "number": 2,
+        "answer": "A Quiet Place",
+        "aliases": [
+          "a quiet place"
+        ],
+        "reasoning": "A + Quiet (silent) + Place (location) = A Quiet Place"
+      },
+      {
+        "number": 3,
+        "answer": "Carrie",
+        "aliases": [
+          "carrie"
+        ],
+        "reasoning": "Carrie (a name, also to carry) = Carrie"
+      }
+    ]
+  },
+  {
+    "id": "horrorbusters-005",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Midsommar",
+        "aliases": [
+          "midsommar"
+        ],
+        "reasoning": "Midsommar (midsummer in Swedish) = Midsommar"
+      },
+      {
+        "number": 2,
+        "answer": "The Conjuring",
+        "aliases": [
+          "the conjuring"
+        ],
+        "reasoning": "the + conjuring (summoning/magic) = The Conjuring"
+      },
+      {
+        "number": 3,
+        "answer": "Us",
+        "aliases": [
+          "us"
+        ],
+        "reasoning": "Us (we/the group) = Us"
+      }
+    ]
+  },
+  {
+    "id": "christmasfilmbusters-001",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Home Alone",
+        "aliases": [
+          "home alone"
+        ],
+        "reasoning": "home (house) + alone (by itself) = Home Alone"
+      },
+      {
+        "number": 2,
+        "answer": "Elf",
+        "aliases": [
+          "elf"
+        ],
+        "reasoning": "Elf (a Christmas sprite) = Elf"
+      },
+      {
+        "number": 3,
+        "answer": "Die Hard",
+        "aliases": [
+          "die hard"
+        ],
+        "reasoning": "Die (to die) + Hard (difficult) = Die Hard"
+      }
+    ]
+  },
+  {
+    "id": "christmasfilmbusters-002",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Love Actually",
+        "aliases": [
+          "love actually"
+        ],
+        "reasoning": "love + actually = Love Actually"
+      },
+      {
+        "number": 2,
+        "answer": "The Holiday",
+        "aliases": [
+          "the holiday"
+        ],
+        "reasoning": "the + holiday (a break) = The Holiday"
+      },
+      {
+        "number": 3,
+        "answer": "The Polar Express",
+        "aliases": [
+          "the polar express",
+          "polar express"
+        ],
+        "reasoning": "the + Polar (arctic) + Express (fast train) = The Polar Express"
+      }
+    ]
+  },
+  {
+    "id": "christmasfilmbusters-003",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "A Christmas Carol",
+        "aliases": [
+          "a christmas carol"
+        ],
+        "reasoning": "A + Christmas + Carol (festive song) = A Christmas Carol"
+      },
+      {
+        "number": 2,
+        "answer": "It's a Wonderful Life",
+        "aliases": [
+          "its a wonderful life",
+          "it's a wonderful life"
+        ],
+        "reasoning": "It's + a + Wonderful + Life = It's a Wonderful Life"
+      },
+      {
+        "number": 3,
+        "answer": "Klaus",
+        "aliases": [
+          "klaus"
+        ],
+        "reasoning": "Klaus (Santa Klaus) = Klaus"
+      }
+    ]
+  },
+  {
+    "id": "christmasfilmbusters-004",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Arthur Christmas",
+        "aliases": [
+          "arthur christmas"
+        ],
+        "reasoning": "Arthur (a name) + Christmas = Arthur Christmas"
+      },
+      {
+        "number": 2,
+        "answer": "The Snowman",
+        "aliases": [
+          "the snowman"
+        ],
+        "reasoning": "the + snowman (figure made of snow) = The Snowman"
+      },
+      {
+        "number": 3,
+        "answer": "White Christmas",
+        "aliases": [
+          "white christmas"
+        ],
+        "reasoning": "white (the colour) + Christmas = White Christmas"
+      }
+    ]
+  },
+  {
+    "id": "christmasfilmbusters-005",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Santa Claus the Movie",
+        "aliases": [
+          "santa claus the movie",
+          "santa claus"
+        ],
+        "reasoning": "Santa + Claus + the + Movie = Santa Claus the Movie"
+      },
+      {
+        "number": 2,
+        "answer": "Holiday Inn",
+        "aliases": [
+          "holiday inn"
+        ],
+        "reasoning": "Holiday (festive break) + Inn (a place to stay) = Holiday Inn"
+      },
+      {
+        "number": 3,
+        "answer": "Jack Frost",
+        "aliases": [
+          "jack frost"
+        ],
+        "reasoning": "Jack (a name) + Frost (frozen condensation) = Jack Frost"
+      }
+    ]
+  },
+  {
+    "id": "actressbusters-001",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Margot Robbie",
+        "aliases": [
+          "margot robbie"
+        ],
+        "reasoning": "Margot (a name) + Robbie (a name) = Margot Robbie"
+      },
+      {
+        "number": 2,
+        "answer": "Florence Pugh",
+        "aliases": [
+          "florence pugh"
+        ],
+        "reasoning": "Florence (a city/name) + Pugh (a name, sounds like 'pew') = Florence Pugh"
+      },
+      {
+        "number": 3,
+        "answer": "Zendaya",
+        "aliases": [
+          "zendaya"
+        ],
+        "reasoning": "Zen (calm/energy) + daya = Zendaya"
+      }
+    ]
+  },
+  {
+    "id": "actressbusters-002",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Emma Stone",
+        "aliases": [
+          "emma stone"
+        ],
+        "reasoning": "Emma (a name) + Stone (a rock) = Emma Stone"
+      },
+      {
+        "number": 2,
+        "answer": "Saoirse Ronan",
+        "aliases": [
+          "saoirse ronan"
+        ],
+        "reasoning": "Saoirse (an Irish name, sounds like Sur-sha) + Ronan (a name) = Saoirse Ronan"
+      },
+      {
+        "number": 3,
+        "answer": "Anya Taylor-Joy",
+        "aliases": [
+          "anya taylor-joy",
+          "anya taylor joy"
+        ],
+        "reasoning": "Anya (a name) + Taylor (one who tailors) + Joy (happiness) = Anya Taylor-Joy"
+      }
+    ]
+  },
+  {
+    "id": "actressbusters-003",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Ana de Armas",
+        "aliases": [
+          "ana de armas"
+        ],
+        "reasoning": "Ana (a name) + de + Armas (of arms/weapons in Spanish) = Ana de Armas"
+      },
+      {
+        "number": 2,
+        "answer": "Carey Mulligan",
+        "aliases": [
+          "carey mulligan"
+        ],
+        "reasoning": "Carey (a name) + Mulligan (a do-over in golf) = Carey Mulligan"
+      },
+      {
+        "number": 3,
+        "answer": "Daisy Ridley",
+        "aliases": [
+          "daisy ridley"
+        ],
+        "reasoning": "Daisy (a flower) + Ridley (a name) = Daisy Ridley"
+      }
+    ]
+  },
+  {
+    "id": "actressbusters-004",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Viola Davis",
+        "aliases": [
+          "viola davis"
+        ],
+        "reasoning": "Viola (a string instrument) + Davis (a name) = Viola Davis"
+      },
+      {
+        "number": 2,
+        "answer": "Lupita Nyong'o",
+        "aliases": [
+          "lupita nyongo",
+          "lupita nyong'o"
+        ],
+        "reasoning": "Lupita (a name, lupa = wolf) + Nyong'o (a name) = Lupita Nyong'o"
+      },
+      {
+        "number": 3,
+        "answer": "Jennifer Lawrence",
+        "aliases": [
+          "jennifer lawrence"
+        ],
+        "reasoning": "Jennifer (a name) + Lawrence (a name) = Jennifer Lawrence"
+      }
+    ]
+  },
+  {
+    "id": "actressbusters-005",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Cate Blanchett",
+        "aliases": [
+          "cate blanchett"
+        ],
+        "reasoning": "Cate (a name, sounds like Kate) + Blanchett (blanc = white) = Cate Blanchett"
+      },
+      {
+        "number": 2,
+        "answer": "Michelle Yeoh",
+        "aliases": [
+          "michelle yeoh"
+        ],
+        "reasoning": "Michelle (a name) + Yeoh (a name) = Michelle Yeoh"
+      },
+      {
+        "number": 3,
+        "answer": "Sydney Sweeney",
+        "aliases": [
+          "sydney sweeney"
+        ],
+        "reasoning": "Sydney (a city/name) + Sweeney (a name, sounds like sweeny) = Sydney Sweeney"
+      }
+    ]
+  },
+  {
+    "id": "gameshowbusters-001",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Who Wants to be a Millionaire",
+        "aliases": [
+          "who wants to be a millionaire"
+        ],
+        "reasoning": "Who + Wants + to + be + a + Millionaire = Who Wants to be a Millionaire"
+      },
+      {
+        "number": 2,
+        "answer": "The Chase",
+        "aliases": [
+          "the chase"
+        ],
+        "reasoning": "the + chase (pursuit) = The Chase"
+      },
+      {
+        "number": 3,
+        "answer": "Pointless",
+        "aliases": [
+          "pointless"
+        ],
+        "reasoning": "pointless (serving no purpose) = Pointless"
+      }
+    ]
+  },
+  {
+    "id": "gameshowbusters-002",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Deal or No Deal",
+        "aliases": [
+          "deal or no deal"
+        ],
+        "reasoning": "Deal + or + No + Deal = Deal or No Deal"
+      },
+      {
+        "number": 2,
+        "answer": "Countdown",
+        "aliases": [
+          "countdown"
+        ],
+        "reasoning": "countdown (counting down from a number) = Countdown"
+      },
+      {
+        "number": 3,
+        "answer": "The Weakest Link",
+        "aliases": [
+          "the weakest link"
+        ],
+        "reasoning": "the + weakest + link (a chain component) = The Weakest Link"
+      }
+    ]
+  },
+  {
+    "id": "gameshowbusters-003",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Catchphrase",
+        "aliases": [
+          "catchphrase"
+        ],
+        "reasoning": "catch + phrase = Catchphrase"
+      },
+      {
+        "number": 2,
+        "answer": "Bullseye",
+        "aliases": [
+          "bullseye"
+        ],
+        "reasoning": "bull's + eye (centre of a target) = Bullseye"
+      },
+      {
+        "number": 3,
+        "answer": "Blankety Blank",
+        "aliases": [
+          "blankety blank"
+        ],
+        "reasoning": "blankety + blank (empty space) = Blankety Blank"
+      }
+    ]
+  },
+  {
+    "id": "gameshowbusters-004",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "The Price is Right",
+        "aliases": [
+          "the price is right"
+        ],
+        "reasoning": "the + price + is + right = The Price is Right"
+      },
+      {
+        "number": 2,
+        "answer": "Blockbusters",
+        "aliases": [
+          "blockbusters"
+        ],
+        "reasoning": "block (obstruction) + busters = Blockbusters"
+      },
+      {
+        "number": 3,
+        "answer": "Play Your Cards Right",
+        "aliases": [
+          "play your cards right"
+        ],
+        "reasoning": "play + your + cards + right = Play Your Cards Right"
+      }
+    ]
+  },
+  {
+    "id": "gameshowbusters-005",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Fifteen to One",
+        "aliases": [
+          "fifteen to one"
+        ],
+        "reasoning": "fifteen + to + one = Fifteen to One"
+      },
+      {
+        "number": 2,
+        "answer": "3-2-1",
+        "aliases": [
+          "3-2-1",
+          "three two one"
+        ],
+        "reasoning": "3-2-1 (countdown) = 3-2-1"
+      },
+      {
+        "number": 3,
+        "answer": "Bob's Full House",
+        "aliases": [
+          "bobs full house",
+          "bob's full house"
+        ],
+        "reasoning": "Bob's + Full + House = Bob's Full House"
+      }
+    ]
+  },
+  {
+    "id": "castlebusters-001",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Windsor Castle",
+        "aliases": [
+          "windsor castle"
+        ],
+        "reasoning": "Windsor (winds-or) + Castle = Windsor Castle"
+      },
+      {
+        "number": 2,
+        "answer": "Edinburgh Castle",
+        "aliases": [
+          "edinburgh castle"
+        ],
+        "reasoning": "Edinburgh (Scottish capital) + Castle = Edinburgh Castle"
+      },
+      {
+        "number": 3,
+        "answer": "Leeds Castle",
+        "aliases": [
+          "leeds castle"
+        ],
+        "reasoning": "Leeds (a city) + Castle = Leeds Castle"
+      }
+    ]
+  },
+  {
+    "id": "castlebusters-002",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Warwick Castle",
+        "aliases": [
+          "warwick castle"
+        ],
+        "reasoning": "Warwick (a town) + Castle = Warwick Castle"
+      },
+      {
+        "number": 2,
+        "answer": "Bamburgh Castle",
+        "aliases": [
+          "bamburgh castle"
+        ],
+        "reasoning": "Bamburgh (a village in Northumberland) + Castle = Bamburgh Castle"
+      },
+      {
+        "number": 3,
+        "answer": "Caernarfon Castle",
+        "aliases": [
+          "caernarfon castle"
+        ],
+        "reasoning": "Caernarfon (a Welsh town) + Castle = Caernarfon Castle"
+      }
+    ]
+  },
+  {
+    "id": "castlebusters-003",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Balmoral Castle",
+        "aliases": [
+          "balmoral castle"
+        ],
+        "reasoning": "Balmoral (Scottish royal residence) + Castle = Balmoral Castle"
+      },
+      {
+        "number": 2,
+        "answer": "Stirling Castle",
+        "aliases": [
+          "stirling castle"
+        ],
+        "reasoning": "Stirling (a Scottish city) + Castle = Stirling Castle"
+      },
+      {
+        "number": 3,
+        "answer": "Dover Castle",
+        "aliases": [
+          "dover castle"
+        ],
+        "reasoning": "Dover (white cliffs) + Castle = Dover Castle"
+      }
+    ]
+  },
+  {
+    "id": "numbertwobusters-001",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Pepsi",
+        "aliases": [
+          "pepsi"
+        ],
+        "reasoning": "Pepsi (the second cola) = Pepsi"
+      },
+      {
+        "number": 2,
+        "answer": "Burger King",
+        "aliases": [
+          "burger king"
+        ],
+        "reasoning": "Burger (a meat patty) + King (royalty) = Burger King"
+      },
+      {
+        "number": 3,
+        "answer": "Avis",
+        "aliases": [
+          "avis"
+        ],
+        "reasoning": "Avis (the car rental company, famous for 'We Try Harder') = Avis"
+      }
+    ]
+  },
+  {
+    "id": "numbertwobusters-002",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Bing",
+        "aliases": [
+          "bing"
+        ],
+        "reasoning": "Bing (Microsoft's search engine, second to Google) = Bing"
+      },
+      {
+        "number": 2,
+        "answer": "Yahoo",
+        "aliases": [
+          "yahoo"
+        ],
+        "reasoning": "Yahoo (exclamation/search engine) = Yahoo"
+      },
+      {
+        "number": 3,
+        "answer": "Blackberry",
+        "aliases": [
+          "blackberry"
+        ],
+        "reasoning": "Blackberry (the fruit/the phone brand) = Blackberry"
+      }
+    ]
+  },
+  {
+    "id": "numbertwobusters-003",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Betamax",
+        "aliases": [
+          "betamax",
+          "beta max"
+        ],
+        "reasoning": "Beta (the format) + max (maximum) = Betamax"
+      },
+      {
+        "number": 2,
+        "answer": "MySpace",
+        "aliases": [
+          "myspace"
+        ],
+        "reasoning": "My + Space = MySpace"
+      },
+      {
+        "number": 3,
+        "answer": "Ask Jeeves",
+        "aliases": [
+          "ask jeeves",
+          "askjeeves"
+        ],
+        "reasoning": "Ask (to ask a question) + Jeeves (the famous butler) = Ask Jeeves"
+      }
+    ]
+  },
+  {
+    "id": "internetslangbusters-001",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "GOAT",
+        "aliases": [
+          "goat"
+        ],
+        "reasoning": "GOAT (Greatest Of All Time) = GOAT"
+      },
+      {
+        "number": 2,
+        "answer": "FOMO",
+        "aliases": [
+          "fomo"
+        ],
+        "reasoning": "FOMO (Fear Of Missing Out) = FOMO"
+      },
+      {
+        "number": 3,
+        "answer": "Going Viral",
+        "aliases": [
+          "going viral"
+        ],
+        "reasoning": "going + viral (spreading like a virus) = Going Viral"
+      }
+    ]
+  },
+  {
+    "id": "internetslangbusters-002",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Ghosting",
+        "aliases": [
+          "ghosting"
+        ],
+        "reasoning": "ghosting (disappearing like a ghost) = Ghosting"
+      },
+      {
+        "number": 2,
+        "answer": "Clickbait",
+        "aliases": [
+          "clickbait"
+        ],
+        "reasoning": "click + bait (lure) = Clickbait"
+      },
+      {
+        "number": 3,
+        "answer": "Selfie",
+        "aliases": [
+          "selfie"
+        ],
+        "reasoning": "selfie (self-photograph) = Selfie"
+      }
+    ]
+  },
+  {
+    "id": "internetslangbusters-003",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Trending",
+        "aliases": [
+          "trending"
+        ],
+        "reasoning": "trending (becoming popular) = Trending"
+      },
+      {
+        "number": 2,
+        "answer": "Hashtag",
+        "aliases": [
+          "hashtag"
+        ],
+        "reasoning": "hash (the # symbol) + tag = Hashtag"
+      },
+      {
+        "number": 3,
+        "answer": "Trolling",
+        "aliases": [
+          "trolling"
+        ],
+        "reasoning": "trolling (harassing online, from troll) = Trolling"
+      }
+    ]
+  },
+  {
+    "id": "youtuberbusters-001",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "MrBeast",
+        "aliases": [
+          "mrbeast",
+          "mr beast"
+        ],
+        "reasoning": "Mr (a title) + Beast (large animal) = MrBeast"
+      },
+      {
+        "number": 2,
+        "answer": "KSI",
+        "aliases": [
+          "ksi"
+        ],
+        "reasoning": "KSI (Knowledge, Strength, Integrity — YouTuber name) = KSI"
+      },
+      {
+        "number": 3,
+        "answer": "Zoella",
+        "aliases": [
+          "zoella"
+        ],
+        "reasoning": "Zoella (Zoe + -ella suffix) = Zoella"
+      }
+    ]
+  },
+  {
+    "id": "youtuberbusters-002",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "PewDiePie",
+        "aliases": [
+          "pewdiepie"
+        ],
+        "reasoning": "Pew (a church bench) + Die (to die) + Pie (pastry) = PewDiePie"
+      },
+      {
+        "number": 2,
+        "answer": "Logan Paul",
+        "aliases": [
+          "logan paul"
+        ],
+        "reasoning": "Logan (a name) + Paul (a name) = Logan Paul"
+      },
+      {
+        "number": 3,
+        "answer": "Dude Perfect",
+        "aliases": [
+          "dude perfect"
+        ],
+        "reasoning": "Dude (a casual term for a man) + Perfect (flawless) = Dude Perfect"
+      }
+    ]
+  },
+  {
+    "id": "youtuberbusters-003",
+    "clues": [
+      {
+        "number": 1,
+        "answer": "Casey Neistat",
+        "aliases": [
+          "casey neistat"
+        ],
+        "reasoning": "Casey (a name) + Neistat (a name) = Casey Neistat"
+      },
+      {
+        "number": 2,
+        "answer": "Emma Chamberlain",
+        "aliases": [
+          "emma chamberlain"
+        ],
+        "reasoning": "Emma (a name) + Chamberlain (a name) = Emma Chamberlain"
+      },
+      {
+        "number": 3,
+        "answer": "David Dobrik",
+        "aliases": [
+          "david dobrik"
+        ],
+        "reasoning": "David (a name) + Dobrik (a name) = David Dobrik"
+      }
+    ]
   }
 ]

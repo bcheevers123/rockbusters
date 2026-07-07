@@ -24486,5 +24486,1683 @@
         "clue": "There's a man called Steve and he's taken on about six different lines of work. All at the same time. Keeps himself busy."
       }
     ]
+  },
+  {
+    "id": "2020stvbusters-001",
+    "enabled": true,
+    "title": "2020s TV Busters",
+    "topic": "hit TV shows from the 2020s",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Right, 2020s TV Busters. All shows from the last few years. Say the clues out loud.",
+    "prize": "Email in. Winner gets a Netflix password that probably doesn't work anymore.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "S G",
+        "clue": "That bloke who squeezes things for a living — runs a little stall. Rhymes with fluid game."
+      },
+      {
+        "number": 2,
+        "initials": "S",
+        "clue": "When you take over from someone else at work and follow them up the stairs, that's what you've done to their job."
+      },
+      {
+        "number": 3,
+        "initials": "T L",
+        "clue": "A cup of that hot brown stuff you drink, but it's gone all relaxed and put its feet up."
+      }
+    ]
+  },
+  {
+    "id": "2020stvbusters-002",
+    "enabled": true,
+    "title": "2020s TV Busters",
+    "topic": "hit TV shows from the 2020s",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "More telly from the 2020s. Three clues, all phonetic. Have a go.",
+    "prize": "Email in. Winner gets a binge-watch hangover and a cold cup of tea.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "W L",
+        "clue": "That woman over there has gone all pale and porcelain. Standing on a small wall."
+      },
+      {
+        "number": 2,
+        "initials": "B",
+        "clue": "A small bridge, but it's been given a fancy title and thinks it's better than the others."
+      },
+      {
+        "number": 3,
+        "initials": "E",
+        "clue": "That Greek goddess of the dawn has gone a bit dizzy and started spinning round."
+      }
+    ]
+  },
+  {
+    "id": "2020stvbusters-003",
+    "enabled": true,
+    "title": "2020s TV Busters",
+    "topic": "hit TV shows from the 2020s",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "2020s TV. Three more. All phonetic, all from the last few years.",
+    "prize": "Email in. Winner gets a streaming subscription to a service that got cancelled.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "H O T D",
+        "clue": "A place where you sleep — made entirely of fire-breathing lizards. Bit of a fire hazard."
+      },
+      {
+        "number": 2,
+        "initials": "S",
+        "clue": "That bloke's gone a bit serious and cut himself off from the rest of the office. Bit aloof."
+      },
+      {
+        "number": 3,
+        "initials": "T B",
+        "clue": "A grizzly animal that works in a kitchen. Very intense about its sandwiches."
+      }
+    ]
+  },
+  {
+    "id": "2020stvbusters-004",
+    "enabled": true,
+    "title": "2020s TV Busters",
+    "topic": "hit TV shows from the 2020s",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK"
+    ],
+    "intro": "2020s telly. Three more shows you've probably been watching instead of going outside.",
+    "prize": "Email in. Winner gets a TV remote with a sticky button.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "T T",
+        "clue": "Those people who try to catch you out — bunch of them, aren't trustworthy. Keep betraying each other."
+      },
+      {
+        "number": 2,
+        "initials": "W",
+        "clue": "That day in the middle of the week has gone a bit spooky and started wearing all black."
+      },
+      {
+        "number": 3,
+        "initials": "T L O U",
+        "clue": "That definite article, followed by a word for the end of something, then the word for a female sheep."
+      }
+    ]
+  },
+  {
+    "id": "2020stvbusters-005",
+    "enabled": true,
+    "title": "2020s TV Busters",
+    "topic": "hit TV shows from the 2020s",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "2020s TV. Three shows everyone's been banging on about.",
+    "prize": "Email in. Winner gets a DVD box set of something nobody watches anymore.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "B",
+        "clue": "Two bits of steak, sat next to each other. Just hanging about. Not doing much."
+      },
+      {
+        "number": 2,
+        "initials": "H",
+        "clue": "That thing that keeps your chest warm — gone all romantic and started holding hands with someone."
+      },
+      {
+        "number": 3,
+        "initials": "A E",
+        "clue": "That primary school in America — all the teachers are basically just winging it."
+      }
+    ]
+  },
+  {
+    "id": "2020spopbusters-001",
+    "enabled": true,
+    "title": "2020s Pop Busters",
+    "topic": "pop artists from the 2020s",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "2020s Pop Busters. All big music acts from recent years. Say it out loud.",
+    "prize": "Email in. Winner gets a Spotify playlist with one good song and forty filler tracks.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "H S",
+        "clue": "A bloke's hair, but it's gone all fashionable and started wearing a feather boa."
+      },
+      {
+        "number": 2,
+        "initials": "D L",
+        "clue": "That locked entrance to a place — it's gone all musical and started dancing about."
+      },
+      {
+        "number": 3,
+        "initials": "B E",
+        "clue": "A small invoice, but it's gone all mysterious and started whispering into microphones."
+      }
+    ]
+  },
+  {
+    "id": "2020spopbusters-002",
+    "enabled": true,
+    "title": "2020s Pop Busters",
+    "topic": "pop artists from the 2020s",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK"
+    ],
+    "intro": "More 2020s pop acts. Big names, all phonetic.",
+    "prize": "Email in. Winner gets a signed photo of someone they've never heard of.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "O R",
+        "clue": "A green oil from Spanish trees, but it's from the other side of the world and writes sad songs."
+      },
+      {
+        "number": 2,
+        "initials": "S",
+        "clue": "That thing you stir a drink with — gone all fierce and started making grime tracks."
+      },
+      {
+        "number": 3,
+        "initials": "L C",
+        "clue": "A bloke from Scotland who sounds like he's been crying into his own songs for years."
+      }
+    ]
+  },
+  {
+    "id": "2020spopbusters-003",
+    "enabled": true,
+    "title": "2020s Pop Busters",
+    "topic": "pop artists from the 2020s",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "2020s pop. Three more big acts from recent years.",
+    "prize": "Email in. Winner gets a pair of earphones with only one side working.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "B B",
+        "clue": "A bad rabbit — mischievous little thing. Won't stop making music about it."
+      },
+      {
+        "number": 2,
+        "initials": "P M",
+        "clue": "A bloke delivering letters who's gone a bit melancholy and started rapping about it."
+      },
+      {
+        "number": 3,
+        "initials": "L",
+        "clue": "A city in Italy, but it's gone big and started belting out pop songs."
+      }
+    ]
+  },
+  {
+    "id": "2020spopbusters-004",
+    "enabled": true,
+    "title": "2020s Pop Busters",
+    "topic": "pop artists from the 2020s",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "2020s pop artists. Three more. All phonetic.",
+    "prize": "Email in. Winner gets a music festival wristband from 2019 that's gone mouldy.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "D C",
+        "clue": "That female dog from Japan — gone all colourful and started releasing bangers."
+      },
+      {
+        "number": 2,
+        "initials": "W L",
+        "clue": "A damp piece of wood that's got all wobbly and started playing indie music."
+      },
+      {
+        "number": 3,
+        "initials": "S F",
+        "clue": "A bloke from Newcastle who gets emotional about his surroundings and writes songs about them."
+      }
+    ]
+  },
+  {
+    "id": "2020spopbusters-005",
+    "enabled": true,
+    "title": "2020s Pop Busters",
+    "topic": "pop artists from the 2020s",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "2020s pop. Three more artists who've been all over the charts.",
+    "prize": "Email in. Winner gets a vinyl record of something nobody asked for.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "L D R",
+        "clue": "A woman called Lana who lives by a river and writes very long, sad songs about it."
+      },
+      {
+        "number": 2,
+        "initials": "T W",
+        "clue": "That seven days — gone all moody and started making R&B records."
+      },
+      {
+        "number": 3,
+        "initials": "I S",
+        "clue": "Frozen water, but it's got a bit spicy and started doing drill music."
+      }
+    ]
+  },
+  {
+    "id": "realitytvbusters-001",
+    "enabled": true,
+    "title": "Reality TV Busters",
+    "topic": "reality TV shows",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK"
+    ],
+    "intro": "Reality TV Busters. All shows where real people embarrass themselves on telly. Say the clues out loud.",
+    "prize": "Email in. Winner gets a rejection letter from a reality TV casting director.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "L I",
+        "clue": "A piece of land surrounded by water — gone all romantic and started pairing people up."
+      },
+      {
+        "number": 2,
+        "initials": "S C D",
+        "clue": "Doing something tightly, in a formal way — gone all glittery and started waltzing."
+      },
+      {
+        "number": 3,
+        "initials": "T G B B O",
+        "clue": "That large cooking competition — everyone's very polite about it despite the stress."
+      }
+    ]
+  },
+  {
+    "id": "realitytvbusters-002",
+    "enabled": true,
+    "title": "Reality TV Busters",
+    "topic": "reality TV shows",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK"
+    ],
+    "intro": "More reality telly. Three phonetic clues, all unscripted chaos.",
+    "prize": "Email in. Winner gets a fake tan and a bruised ego.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "I A C",
+        "clue": "That statement of existence, followed by a royal, then a big cold country full of moose."
+      },
+      {
+        "number": 2,
+        "initials": "T A",
+        "clue": "That bloke in charge of everything has given someone a task and is watching them fail at it."
+      },
+      {
+        "number": 3,
+        "initials": "B B",
+        "clue": "A large sibling — watching everyone inside a house and judging their every move."
+      }
+    ]
+  },
+  {
+    "id": "realitytvbusters-003",
+    "enabled": true,
+    "title": "Reality TV Busters",
+    "topic": "reality TV shows",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK"
+    ],
+    "intro": "Reality TV. Three more shows where ordinary people lose the plot on camera.",
+    "prize": "Email in. Winner gets a NDA and a taxi home.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "T T",
+        "clue": "A group of people who can't be trusted — all scheming away in a castle somewhere."
+      },
+      {
+        "number": 2,
+        "initials": "G",
+        "clue": "People sitting on a sofa watching telly and commenting on it — which is basically what everyone does anyway."
+      },
+      {
+        "number": 3,
+        "initials": "M A F S",
+        "clue": "Two strangers saying those two big words in a church to someone they've never met before."
+      }
+    ]
+  },
+  {
+    "id": "realitytvbusters-004",
+    "enabled": true,
+    "title": "Reality TV Busters",
+    "topic": "reality TV shows",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK"
+    ],
+    "intro": "Reality TV Busters. Three more shows. All phonetic.",
+    "prize": "Email in. Winner gets fifteen minutes of fame and a very short Wikipedia page.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "F D",
+        "clue": "That number one, followed by the things you go on before you decide if you like someone."
+      },
+      {
+        "number": 2,
+        "initials": "T C",
+        "clue": "That definite article, followed by a geometric shape with all equal sides. People inside it talking to cameras."
+      },
+      {
+        "number": 3,
+        "initials": "R A T W",
+        "clue": "Moving at speed across the whole planet — but doing it on a shoestring budget."
+      }
+    ]
+  },
+  {
+    "id": "realitytvbusters-005",
+    "enabled": true,
+    "title": "Reality TV Busters",
+    "topic": "reality TV shows",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK"
+    ],
+    "intro": "Reality TV. Three more. Say the clues out loud and you'll get there.",
+    "prize": "Email in. Winner gets a selfie stick and zero followers.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "C B B",
+        "clue": "Famous people, but they're siblings — all crammed in a house together being watched."
+      },
+      {
+        "number": 2,
+        "initials": "H",
+        "clue": "A group of people being chased across the country by professionals trying to find them."
+      },
+      {
+        "number": 3,
+        "initials": "S",
+        "clue": "People on an island trying to outlast each other — voting each other off one by one."
+      }
+    ]
+  },
+  {
+    "id": "primeministersbusters-001",
+    "enabled": true,
+    "title": "Prime Ministers Busters",
+    "topic": "UK Prime Ministers",
+    "difficulty": "medium",
+    "office_safe": true,
+    "region_relevance": [
+      "UK"
+    ],
+    "intro": "Prime Ministers Busters. All UK PMs, full names. Say the clues out loud.",
+    "prize": "Email in. Winner gets a resignation letter and a chauffeur-driven car going the wrong way.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "M T",
+        "clue": "A female relative of mine — she's a bit metalworking, likes to fix things made of iron."
+      },
+      {
+        "number": 2,
+        "initials": "T B",
+        "clue": "A tiny piece of something — very small, like an insect's leg. Very enthusiastic about it though."
+      },
+      {
+        "number": 3,
+        "initials": "J M",
+        "clue": "A bloke called John who's gone all big and important and is working in a quarry now."
+      }
+    ]
+  },
+  {
+    "id": "primeministersbusters-002",
+    "enabled": true,
+    "title": "Prime Ministers Busters",
+    "topic": "UK Prime Ministers",
+    "difficulty": "medium",
+    "office_safe": true,
+    "region_relevance": [
+      "UK"
+    ],
+    "intro": "More UK Prime Ministers. Three more full names, all phonetic.",
+    "prize": "Email in. Winner gets a safe seat in a constituency they've never visited.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "G B",
+        "clue": "A bloke called Gordon whose skin has turned a sort of golden colour. Bit shiny about it."
+      },
+      {
+        "number": 2,
+        "initials": "D C",
+        "clue": "A bloke called Dave who's gone all photogenic and started shooting things with a lens."
+      },
+      {
+        "number": 3,
+        "initials": "T M",
+        "clue": "That month in spring — gone female and taken charge of the whole country."
+      }
+    ]
+  },
+  {
+    "id": "primeministersbusters-003",
+    "enabled": true,
+    "title": "Prime Ministers Busters",
+    "topic": "UK Prime Ministers",
+    "difficulty": "medium",
+    "office_safe": true,
+    "region_relevance": [
+      "UK"
+    ],
+    "intro": "Prime Ministers Busters. More full names, all phonetic.",
+    "prize": "Email in. Winner gets a press conference no one shows up to.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "B J",
+        "clue": "A bloke called Boris who makes you laugh but you're not sure why. Bit of a joker."
+      },
+      {
+        "number": 2,
+        "initials": "L T",
+        "clue": "A female relative — gone all transparent and started falling through things."
+      },
+      {
+        "number": 3,
+        "initials": "R S",
+        "clue": "That bloke with very rich parents — he's rolling in it, isn't he. Very well off."
+      }
+    ]
+  },
+  {
+    "id": "primeministersbusters-004",
+    "enabled": true,
+    "title": "Prime Ministers Busters",
+    "topic": "UK Prime Ministers",
+    "difficulty": "medium",
+    "office_safe": true,
+    "region_relevance": [
+      "UK"
+    ],
+    "intro": "Prime Ministers Busters. Older ones now. Full names, all phonetic.",
+    "prize": "Email in. Winner gets a black door with a number on it.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "H W",
+        "clue": "A bloke called Harold who's gone off to get some water from a well. Very determined about it."
+      },
+      {
+        "number": 2,
+        "initials": "E H",
+        "clue": "A patch of open land covered in purple flowers — it's gone all grand and put on a suit."
+      },
+      {
+        "number": 3,
+        "initials": "W C",
+        "clue": "A person who wins things — goes into small rooms and comes out victorious."
+      }
+    ]
+  },
+  {
+    "id": "primeministersbusters-005",
+    "enabled": true,
+    "title": "Prime Ministers Busters",
+    "topic": "UK Prime Ministers",
+    "difficulty": "medium",
+    "office_safe": true,
+    "region_relevance": [
+      "UK"
+    ],
+    "intro": "Prime Ministers Busters. Three more from the history books.",
+    "prize": "Email in. Winner gets a memoirs book nobody's read past chapter two.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "C A",
+        "clue": "A bloke from the church — gone all political and started nationalising things left, right, and centre."
+      },
+      {
+        "number": 2,
+        "initials": "H M",
+        "clue": "A bloke called Harold who's gone all grand and started living in a big house on a hill."
+      },
+      {
+        "number": 3,
+        "initials": "J C",
+        "clue": "A bloke called James who's very calm about everything. Very tranquil. Not a care in the world."
+      }
+    ]
+  },
+  {
+    "id": "landmarkbusters-001",
+    "enabled": true,
+    "title": "Landmark Busters",
+    "topic": "famous UK landmarks",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK"
+    ],
+    "intro": "Landmark Busters. All famous UK landmarks. Say the clues out loud.",
+    "prize": "Email in. Winner gets a fridge magnet of somewhere they've never been.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "B B",
+        "clue": "A large male pig — gone all tall and started telling everyone what time it is."
+      },
+      {
+        "number": 2,
+        "initials": "B P",
+        "clue": "A large container for water — gone all royal and got a long driveway."
+      },
+      {
+        "number": 3,
+        "initials": "T O L",
+        "clue": "That tall structure — gone all old and started locking people inside it."
+      }
+    ]
+  },
+  {
+    "id": "landmarkbusters-002",
+    "enabled": true,
+    "title": "Landmark Busters",
+    "topic": "famous UK landmarks",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK"
+    ],
+    "intro": "Landmark Busters. Three more famous UK landmarks.",
+    "prize": "Email in. Winner gets a laminated tourist map from 1987.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "S",
+        "clue": "Large rocks arranged in a circle on a plain. Been there for ages. Nobody knows why."
+      },
+      {
+        "number": 2,
+        "initials": "A O T N",
+        "clue": "A heavenly body — gone all pointy and landed in the north of England."
+      },
+      {
+        "number": 3,
+        "initials": "W C",
+        "clue": "A place where the wind blows through a gap — gone all regal and started wearing a crown."
+      }
+    ]
+  },
+  {
+    "id": "landmarkbusters-003",
+    "enabled": true,
+    "title": "Landmark Busters",
+    "topic": "famous UK landmarks",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK"
+    ],
+    "intro": "Landmark Busters. Three more. All phonetic, all famous.",
+    "prize": "Email in. Winner gets a guided tour of a car park that used to be something interesting.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "H W",
+        "clue": "A wall built by a bloke called Adrian — keeps the cold out and the Romans in."
+      },
+      {
+        "number": 2,
+        "initials": "T S",
+        "clue": "That definite article, followed by something very pointed and glass-covered in London."
+      },
+      {
+        "number": 3,
+        "initials": "T S",
+        "clue": "A large open area in London — lions on columns, pigeons everywhere, tourists gawping."
+      }
+    ]
+  },
+  {
+    "id": "horrorbusters-001",
+    "enabled": true,
+    "title": "Horror Busters",
+    "topic": "famous horror films",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Horror Busters. All famous horror films. Say the clues out loud if you dare.",
+    "prize": "Email in. Winner gets a torch that runs out of batteries at the worst moment.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "T S",
+        "clue": "That bloke who's been polishing floors all winter — gone a bit peculiar and started chasing his family."
+      },
+      {
+        "number": 2,
+        "initials": "H",
+        "clue": "A spooky event that happens on the night before November — gone all masked and stabby."
+      },
+      {
+        "number": 3,
+        "initials": "P",
+        "clue": "A bloke who works with brains for a living — gone a bit eccentric and started running a motel."
+      }
+    ]
+  },
+  {
+    "id": "horrorbusters-002",
+    "enabled": true,
+    "title": "Horror Busters",
+    "topic": "famous horror films",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Horror Busters. Three more classics. All phonetic.",
+    "prize": "Email in. Winner gets a babysitting job they can't get out of.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "A",
+        "clue": "Something from outer space — not friendly. Very tall, drools a lot. In space, nobody can hear it."
+      },
+      {
+        "number": 2,
+        "initials": "J",
+        "clue": "A very large fish — lurking in shallow water near the beach. Put people off swimming for decades."
+      },
+      {
+        "number": 3,
+        "initials": "S",
+        "clue": "A loud, high-pitched sound coming from someone in a white mask — been doing it since 1996."
+      }
+    ]
+  },
+  {
+    "id": "horrorbusters-003",
+    "enabled": true,
+    "title": "Horror Busters",
+    "topic": "famous horror films",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Horror Busters. Three more scary ones.",
+    "prize": "Email in. Winner gets a nightlight and a very thin duvet.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "T E",
+        "clue": "That church bloke — gone all possessed and started spinning his head round."
+      },
+      {
+        "number": 2,
+        "initials": "I",
+        "clue": "A personal pronoun — gone all red and started floating in the drains."
+      },
+      {
+        "number": 3,
+        "initials": "G O",
+        "clue": "That colour you use to leave somewhere — gone all racial and started uncovering hidden fears."
+      }
+    ]
+  },
+  {
+    "id": "horrorbusters-004",
+    "enabled": true,
+    "title": "Horror Busters",
+    "topic": "famous horror films",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Horror Busters. More scary films. All phonetic.",
+    "prize": "Email in. Winner gets a creaky floorboard and an unidentified noise downstairs.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "H",
+        "clue": "Going to live somewhere that is inherited from someone — gone all dark and started flickering the lights."
+      },
+      {
+        "number": 2,
+        "initials": "A Q P",
+        "clue": "A very silent spot — no noise whatsoever. Best not make a sound or something very bad happens."
+      },
+      {
+        "number": 3,
+        "initials": "C",
+        "clue": "A young woman covered in something red at a school dance — not happy about it."
+      }
+    ]
+  },
+  {
+    "id": "horrorbusters-005",
+    "enabled": true,
+    "title": "Horror Busters",
+    "topic": "famous horror films",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Horror Busters. Three more. Say them out loud and something might get you.",
+    "prize": "Email in. Winner gets a door that won't lock properly.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "M",
+        "clue": "A sunny Swedish festival — everyone's wearing flowers and smiling. Something is very wrong."
+      },
+      {
+        "number": 2,
+        "initials": "T C",
+        "clue": "People consulting a bloke in an overalls about plumbing — turns out it's all connected to something evil."
+      },
+      {
+        "number": 3,
+        "initials": "U",
+        "clue": "A pronoun for people together — gone all paranoid and started running from their other selves."
+      }
+    ]
+  },
+  {
+    "id": "christmasfilmbusters-001",
+    "enabled": true,
+    "title": "Christmas Film Busters",
+    "topic": "classic Christmas films",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Christmas Film Busters. All festive classics. Say the clues out loud.",
+    "prize": "Email in. Winner gets a selection box with all the good ones already eaten.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "H A",
+        "clue": "A house — gone all solitary and started booby-trapping itself for burglars."
+      },
+      {
+        "number": 2,
+        "initials": "E",
+        "clue": "A Christmas fairy — gone a bit tall and started working in a sweet shop in New York."
+      },
+      {
+        "number": 3,
+        "initials": "D H",
+        "clue": "A bloke who dies — gone all heroic inside a tall building at Christmas. Very festive."
+      }
+    ]
+  },
+  {
+    "id": "christmasfilmbusters-002",
+    "enabled": true,
+    "title": "Christmas Film Busters",
+    "topic": "classic Christmas films",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK"
+    ],
+    "intro": "Christmas films. Three more classics. All phonetic.",
+    "prize": "Email in. Winner gets a Christmas card from someone they can't quite place.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "L A",
+        "clue": "Something you feel for someone — gone all romantic and started happening around an airport."
+      },
+      {
+        "number": 2,
+        "initials": "T H",
+        "clue": "A break from work — gone all snowy and involved two women swapping houses."
+      },
+      {
+        "number": 3,
+        "initials": "T P E",
+        "clue": "That public transport for cold, icy regions — gone all magical and started heading to the North Pole."
+      }
+    ]
+  },
+  {
+    "id": "christmasfilmbusters-003",
+    "enabled": true,
+    "title": "Christmas Film Busters",
+    "topic": "classic Christmas films",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK"
+    ],
+    "intro": "Christmas films. Three more. Say them out loud.",
+    "prize": "Email in. Winner gets a tangerine and a coin at the bottom of a stocking.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "A C C",
+        "clue": "That miserly bloke being visited by three transparent people who show him what a rotter he's been."
+      },
+      {
+        "number": 2,
+        "initials": "I A W L",
+        "clue": "That thing said when something exists — gone all wonderful and started involving an angel earning wings."
+      },
+      {
+        "number": 3,
+        "initials": "K",
+        "clue": "A small ship — gone all animated and started delivering presents to children."
+      }
+    ]
+  },
+  {
+    "id": "christmasfilmbusters-004",
+    "enabled": true,
+    "title": "Christmas Film Busters",
+    "topic": "classic Christmas films",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK"
+    ],
+    "intro": "Christmas films. Three more festive classics.",
+    "prize": "Email in. Winner gets a pair of novelty socks they'll never wear.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "A C",
+        "clue": "A festive song — going by boat, past all the presents under the tree."
+      },
+      {
+        "number": 2,
+        "initials": "T S",
+        "clue": "That thing in a room where it's very cold and everyone's wearing jumpers. Frosty atmosphere."
+      },
+      {
+        "number": 3,
+        "initials": "W C",
+        "clue": "A colour that's gone all festive and started singing carols in black and white."
+      }
+    ]
+  },
+  {
+    "id": "christmasfilmbusters-005",
+    "enabled": true,
+    "title": "Christmas Film Busters",
+    "topic": "classic Christmas films",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK"
+    ],
+    "intro": "Christmas films. Three more for the festive season.",
+    "prize": "Email in. Winner gets a festive jumper from a charity shop.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "S C T M",
+        "clue": "That jolly big bloke in red — gone all Hollywood and started explaining how he does it all in one night."
+      },
+      {
+        "number": 2,
+        "initials": "H I",
+        "clue": "A place where aircraft land — but it's warm and everyone keeps singing."
+      },
+      {
+        "number": 3,
+        "initials": "J F",
+        "clue": "A month of the year — gone all icy and started singing in a scarf."
+      }
+    ]
+  },
+  {
+    "id": "actressbusters-001",
+    "enabled": true,
+    "title": "Actress Busters",
+    "topic": "modern actresses",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Actress Busters. All modern actresses. Say the clues out loud.",
+    "prize": "Email in. Winner gets a supporting role in something they'll never watch.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "M R",
+        "clue": "A large female deer — gone all glamorous and started producing films about dolls."
+      },
+      {
+        "number": 2,
+        "initials": "F P",
+        "clue": "A small, rounded cushion — gone all fierce and started appearing in Marvel films."
+      },
+      {
+        "number": 3,
+        "initials": "Z",
+        "clue": "A small piece of energy — gone all tall and started taking over Spider-Man films."
+      }
+    ]
+  },
+  {
+    "id": "actressbusters-002",
+    "enabled": true,
+    "title": "Actress Busters",
+    "topic": "modern actresses",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Actress Busters. Three more modern actresses.",
+    "prize": "Email in. Winner gets a walk-on part and no speaking lines.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "E S",
+        "clue": "A rock — gone all precious and started winning Oscars left, right, and centre."
+      },
+      {
+        "number": 2,
+        "initials": "S R",
+        "clue": "That Irish female sheep — gone all serious and started making very good films."
+      },
+      {
+        "number": 3,
+        "initials": "A T J",
+        "clue": "Any female deer — gone all otherworldly and started playing chess in a period drama."
+      }
+    ]
+  },
+  {
+    "id": "actressbusters-003",
+    "enabled": true,
+    "title": "Actress Busters",
+    "topic": "modern actresses",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Actress Busters. Three more. All phonetic.",
+    "prize": "Email in. Winner gets a BAFTA they have to give back by Monday.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "A D A",
+        "clue": "A small channel for water — gone all mysterious and started appearing in Bond films."
+      },
+      {
+        "number": 2,
+        "initials": "C M",
+        "clue": "A female relative — gone all proper and started appearing in serious British dramas."
+      },
+      {
+        "number": 3,
+        "initials": "D R",
+        "clue": "A puzzle — gone all galactic and started wielding a lightsabre."
+      }
+    ]
+  },
+  {
+    "id": "actressbusters-004",
+    "enabled": true,
+    "title": "Actress Busters",
+    "topic": "modern actresses",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Actress Busters. Three more modern actresses.",
+    "prize": "Email in. Winner gets a table read they weren't invited to.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "V D",
+        "clue": "A musical instrument with strings — gone all powerful and started giving speeches."
+      },
+      {
+        "number": 2,
+        "initials": "L N",
+        "clue": "A small wolf pup — gone all Kenyan and started winning Oscars."
+      },
+      {
+        "number": 3,
+        "initials": "J L",
+        "clue": "A bloke called Jen — gone all enthusiastic about films involving districts and hunger."
+      }
+    ]
+  },
+  {
+    "id": "actressbusters-005",
+    "enabled": true,
+    "title": "Actress Busters",
+    "topic": "modern actresses",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Actress Busters. Three final modern actresses.",
+    "prize": "Email in. Winner gets a director's cut nobody asked for.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "C B",
+        "clue": "A white cliff — gone all elegant and started winning every award going."
+      },
+      {
+        "number": 2,
+        "initials": "M Y",
+        "clue": "An Asian year — gone all martial and started kicking things impressively."
+      },
+      {
+        "number": 3,
+        "initials": "S S",
+        "clue": "A female pig that swims — gone all Hollywood and started starring in very popular series."
+      }
+    ]
+  },
+  {
+    "id": "gameshowbusters-001",
+    "enabled": true,
+    "title": "Game Show Busters",
+    "topic": "famous TV game shows",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK"
+    ],
+    "intro": "Game Show Busters. All famous TV game shows. Say the clues out loud.",
+    "prize": "Email in. Winner gets a cheque for the right amount but made out to the wrong person.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "W W T B A M",
+        "clue": "A bloke asking if he could possibly become very wealthy — had some help from a friend on the phone."
+      },
+      {
+        "number": 2,
+        "initials": "T C",
+        "clue": "That person who runs after you in a race — gone all brainy and started sitting behind a desk."
+      },
+      {
+        "number": 3,
+        "initials": "P",
+        "clue": "Something that serves no purpose whatsoever — gone all intellectual and won a quiz."
+      }
+    ]
+  },
+  {
+    "id": "gameshowbusters-002",
+    "enabled": true,
+    "title": "Game Show Busters",
+    "topic": "famous TV game shows",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK"
+    ],
+    "intro": "Game Show Busters. Three more famous TV quizzes.",
+    "prize": "Email in. Winner gets a lifetime supply of incorrect final answers.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "D O N D",
+        "clue": "That thing you do when you make an agreement — someone's telling you not to do it. Peculiar request."
+      },
+      {
+        "number": 2,
+        "initials": "C",
+        "clue": "A clock going backwards — people shouting letters at a screen on a weekday afternoon."
+      },
+      {
+        "number": 3,
+        "initials": "T W L",
+        "clue": "That thing you can't do when you're strong — gone all Anne Robinson and started being nasty."
+      }
+    ]
+  },
+  {
+    "id": "gameshowbusters-003",
+    "enabled": true,
+    "title": "Game Show Busters",
+    "topic": "famous TV game shows",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK"
+    ],
+    "intro": "Game Show Busters. Three more. All phonetic.",
+    "prize": "Email in. Winner gets a consolation prize that's worse than nothing.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "C",
+        "clue": "A word you shout when you've caught someone doing something — gone all Saturday teatime."
+      },
+      {
+        "number": 2,
+        "initials": "B",
+        "clue": "A large round target — someone's throwing sharp things at it in a pub. Now it's a game show."
+      },
+      {
+        "number": 3,
+        "initials": "B B",
+        "clue": "Something that's empty on the inside — gone all television and started rhyming things."
+      }
+    ]
+  },
+  {
+    "id": "gameshowbusters-004",
+    "enabled": true,
+    "title": "Game Show Busters",
+    "topic": "famous TV game shows",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK"
+    ],
+    "intro": "Game Show Busters. Three more classics.",
+    "prize": "Email in. Winner gets a bonus question nobody can answer.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "T P I R",
+        "clue": "The cost of a tin of beans — someone's guessing it without going over. Very tense."
+      },
+      {
+        "number": 2,
+        "initials": "B",
+        "clue": "A place where you stop moving vehicles — gone all educational and started asking general knowledge questions."
+      },
+      {
+        "number": 3,
+        "initials": "P Y C R",
+        "clue": "A suggestion that you gamble with flat pieces of paper — someone's doing it on a Saturday evening."
+      }
+    ]
+  },
+  {
+    "id": "gameshowbusters-005",
+    "enabled": true,
+    "title": "Game Show Busters",
+    "topic": "famous TV game shows",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK"
+    ],
+    "intro": "Game Show Busters. Three more. All from the telly.",
+    "prize": "Email in. Winner gets a parting gift and a handshake from the host.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "F T O",
+        "clue": "Fifteen people — one of them is slowly getting removed from the room."
+      },
+      {
+        "number": 2,
+        "initials": "3-2-1",
+        "clue": "A countdown, going backwards from a small number. Someone in a robot costume is involved."
+      },
+      {
+        "number": 3,
+        "initials": "B F H",
+        "clue": "A large rotund bloke who has a very complete answer to every question. Very satisfied with it."
+      }
+    ]
+  },
+  {
+    "id": "castlebusters-001",
+    "enabled": true,
+    "title": "Castle Busters",
+    "topic": "famous UK castles",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK"
+    ],
+    "intro": "Castle Busters. All famous UK castles. Say the clues out loud.",
+    "prize": "Email in. Winner gets a portcullis that sticks.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "W C",
+        "clue": "A place where the wind comes through a gap — gone all regal and put on a crown."
+      },
+      {
+        "number": 2,
+        "initials": "E C",
+        "clue": "A city in Scotland full of festivals — it's got a massive fort on top of a volcanic rock."
+      },
+      {
+        "number": 3,
+        "initials": "L C",
+        "clue": "A city in Yorkshire with a complicated football club — it's got a medieval fortress nearby."
+      }
+    ]
+  },
+  {
+    "id": "castlebusters-002",
+    "enabled": true,
+    "title": "Castle Busters",
+    "topic": "famous UK castles",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK"
+    ],
+    "intro": "Castle Busters. Three more famous castles.",
+    "prize": "Email in. Winner gets a drawbridge that won't lower.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "W C",
+        "clue": "A place associated with conflict — gone all medieval and started charging tourists to visit."
+      },
+      {
+        "number": 2,
+        "initials": "B C",
+        "clue": "A long stick used for hitting things — gone all Scottish and sat on a clifftop."
+      },
+      {
+        "number": 3,
+        "initials": "C C",
+        "clue": "A Welsh word meaning fortress — gone all UNESCO and started attracting tourists."
+      }
+    ]
+  },
+  {
+    "id": "castlebusters-003",
+    "enabled": true,
+    "title": "Castle Busters",
+    "topic": "famous UK castles",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK"
+    ],
+    "intro": "Castle Busters. Three more. All phonetic.",
+    "prize": "Email in. Winner gets a turret with a very cold draught.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "B C",
+        "clue": "A Scottish estate where a very famous family goes on holiday — tartan everywhere."
+      },
+      {
+        "number": 2,
+        "initials": "S C",
+        "clue": "Something that's stopped moving — gone all Scottish and started overlooking a city."
+      },
+      {
+        "number": 3,
+        "initials": "D C",
+        "clue": "That white stuff on a cliff face — gone all historical and started staring at France."
+      }
+    ]
+  },
+  {
+    "id": "numbertwobusters-001",
+    "enabled": true,
+    "title": "Number Two Busters",
+    "topic": "things always known as second best",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Number Two Busters. All things that came second. Say the clues out loud.",
+    "prize": "Email in. Winner gets a silver medal and nobody's attention.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "P",
+        "clue": "A fizzy drink — not the one everyone prefers, but it keeps trying. Blind tests and everything."
+      },
+      {
+        "number": 2,
+        "initials": "B K",
+        "clue": "A place where burgers are prepared — not the most famous one, but the flame-grilled one."
+      },
+      {
+        "number": 3,
+        "initials": "A",
+        "clue": "A car rental company — they try harder because they know they're not top of the pile."
+      }
+    ]
+  },
+  {
+    "id": "numbertwobusters-002",
+    "enabled": true,
+    "title": "Number Two Busters",
+    "topic": "things always known as second best",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Number Two Busters. More runners-up. All phonetic.",
+    "prize": "Email in. Winner gets a consolation prize and a very small podium.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "B",
+        "clue": "A search engine — not the one everyone uses. Comes pre-installed on things and gets quietly removed."
+      },
+      {
+        "number": 2,
+        "initials": "Y",
+        "clue": "A cowboy sound — but it's a website. Used to be a big deal. Still alive, just about."
+      },
+      {
+        "number": 3,
+        "initials": "B",
+        "clue": "A small dark fruit from a bush — gone all mobile and started making phones with tiny keyboards."
+      }
+    ]
+  },
+  {
+    "id": "numbertwobusters-003",
+    "enabled": true,
+    "title": "Number Two Busters",
+    "topic": "things always known as second best",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Number Two Busters. Three more also-rans.",
+    "prize": "Email in. Winner gets an honourable mention nobody will remember.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "B",
+        "clue": "The video format that lost the war — now nobody can play it even if they wanted to."
+      },
+      {
+        "number": 2,
+        "initials": "M",
+        "clue": "A website where everyone used to be friends with a bloke called Tom. Gone quiet now."
+      },
+      {
+        "number": 3,
+        "initials": "A J",
+        "clue": "A digital butler — you could ask it things, but Google came along and answered faster."
+      }
+    ]
+  },
+  {
+    "id": "internetslangbusters-001",
+    "enabled": true,
+    "title": "Internet Slang Busters",
+    "topic": "internet slang and online culture",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Internet Slang Busters. All modern online words and phrases. Say them out loud.",
+    "prize": "Email in. Winner gets a verified tick and zero followers.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "G O A T",
+        "clue": "A farmyard animal — gone all internet and decided it's the best there's ever been."
+      },
+      {
+        "number": 2,
+        "initials": "F O M O",
+        "clue": "That feeling when everyone else is out having fun and you're at home knowing about it."
+      },
+      {
+        "number": 3,
+        "initials": "G V",
+        "clue": "Something spreading very fast across the internet — not a disease, but behaves like one."
+      }
+    ]
+  },
+  {
+    "id": "internetslangbusters-002",
+    "enabled": true,
+    "title": "Internet Slang Busters",
+    "topic": "internet slang and online culture",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Internet Slang Busters. Three more. All phonetic.",
+    "prize": "Email in. Winner gets a notification they can't turn off.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "G",
+        "clue": "When someone disappears from your life without warning — just stops replying. Vanished."
+      },
+      {
+        "number": 2,
+        "initials": "C B",
+        "clue": "Something that gets you to look at it under false pretences — a misleading title on the internet."
+      },
+      {
+        "number": 3,
+        "initials": "S",
+        "clue": "A photograph of yourself, taken by yourself, on a stick or just an outstretched arm."
+      }
+    ]
+  },
+  {
+    "id": "internetslangbusters-003",
+    "enabled": true,
+    "title": "Internet Slang Busters",
+    "topic": "internet slang and online culture",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "Internet Slang Busters. Three final ones.",
+    "prize": "Email in. Winner gets a DM that says 'hey'.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "T",
+        "clue": "Something that's very popular right now — going up and up on the charts with no explanation."
+      },
+      {
+        "number": 2,
+        "initials": "H",
+        "clue": "A symbol that turns a word into a category — the pound sign went all social media."
+      },
+      {
+        "number": 3,
+        "initials": "T",
+        "clue": "A person hiding behind a screen being horrible to strangers — not the kind that lives under bridges."
+      }
+    ]
+  },
+  {
+    "id": "youtuberbusters-001",
+    "enabled": true,
+    "title": "YouTuber Busters",
+    "topic": "famous YouTubers",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "YouTuber Busters. All famous YouTubers. Say the clues out loud.",
+    "prize": "Email in. Winner gets a subscribe button and zero new subscribers.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "M B",
+        "clue": "A large carnivorous creature — gone all generous and started giving things away to random strangers."
+      },
+      {
+        "number": 2,
+        "initials": "K",
+        "clue": "A British boxer — gone all gaming and started making music. Won't leave the internet alone."
+      },
+      {
+        "number": 3,
+        "initials": "Z",
+        "clue": "A young woman — gone all beauty tutorial and taken over the internet in the early 2010s."
+      }
+    ]
+  },
+  {
+    "id": "youtuberbusters-002",
+    "enabled": true,
+    "title": "YouTuber Busters",
+    "topic": "famous YouTubers",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "YouTuber Busters. Three more internet famous people.",
+    "prize": "Email in. Winner gets a ring light and a total lack of content ideas.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "P",
+        "clue": "A bloke from Sweden who plays games on camera and shouts at them. Very popular about it."
+      },
+      {
+        "number": 2,
+        "initials": "L P",
+        "clue": "A man called Logan who jumped into things and filmed it. Caused quite a stir."
+      },
+      {
+        "number": 3,
+        "initials": "D P",
+        "clue": "Blokes doing brilliant things — gone all sporty and started throwing balls through hoops very impressively."
+      }
+    ]
+  },
+  {
+    "id": "youtuberbusters-003",
+    "enabled": true,
+    "title": "YouTuber Busters",
+    "topic": "famous YouTubers",
+    "difficulty": "easy",
+    "office_safe": true,
+    "region_relevance": [
+      "UK",
+      "US"
+    ],
+    "intro": "YouTuber Busters. Three final ones.",
+    "prize": "Email in. Winner gets one viral video and fifteen years of diminishing returns.",
+    "clues": [
+      {
+        "number": 1,
+        "initials": "C N",
+        "clue": "A bloke with a camera and a van — drove around America filming things and made everyone jealous."
+      },
+      {
+        "number": 2,
+        "initials": "E C",
+        "clue": "A young woman called Emma who drinks coffee and vlogs about doing very ordinary things."
+      },
+      {
+        "number": 3,
+        "initials": "D D",
+        "clue": "A bloke called David who filmed his friends doing things and everyone found it brilliant for a while."
+      }
+    ]
   }
 ]

@@ -1,0 +1,98 @@
+- id: gameshowbusters-005
+  enabled: true
+  title: Game Show Busters
+  topic: famous TV game shows
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  intro: Game Show Busters. Three more. All from the telly.
+  prize: Email in. Winner gets a parting gift and a handshake from the host.
+  clues:
+  - number: 1
+    initials: F T O
+    clue: Fifteen people — one of them is slowly getting removed from the room.
+    answer: Fifteen to One
+    aliases:
+    - fifteen to one
+    reasoning: fifteen + to + one = Fifteen to One
+  - number: 2
+    initials: 3-2-1
+    clue: A countdown, going backwards from a small number. Someone in a robot costume is involved.
+    answer: 3-2-1
+    aliases:
+    - 3-2-1
+    - three two one
+    reasoning: 3-2-1 (countdown) = 3-2-1
+  - number: 3
+    initials: B F H
+    clue: A large rotund bloke who has a very complete answer to every question. Very satisfied with it.
+    answer: Bob's Full House
+    aliases:
+    - bobs full house
+    - bob's full house
+    reasoning: Bob's + Full + House = Bob's Full House
+- id: castlebusters-001
+  enabled: true
+  title: Castle Busters
+  topic: famous UK castles
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  intro: Castle Busters. All famous UK castles. Say the clues out loud.
+  prize: Email in. Winner gets a portcullis that sticks.
+  clues:
+  - number: 1
+    initials: W C
+    clue: A place where the wind comes through a gap — gone all regal and put on a crown.
+    answer: Windsor Castle
+    aliases:
+    - windsor castle
+    reasoning: Windsor (winds-or) + Castle = Windsor Castle
+  - number: 2
+    initials: E C
+    clue: A city in Scotland full of festivals — it's got a massive fort on top of a volcanic rock.
+    answer: Edinburgh Castle
+    aliases:
+    - edinburgh castle
+    reasoning: Edinburgh (Scottish capital) + Castle = Edinburgh Castle
+  - number: 3
+    initials: L C
+    clue: A city in Yorkshire with a complicated football club — it's got a medieval fortress nearby.
+    answer: Leeds Castle
+    aliases:
+    - leeds castle
+    reasoning: Leeds (a city) + Castle = Leeds Castle
+- id: castlebusters-002
+  enabled: true
+  title: Castle Busters
+  topic: famous UK castles
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  intro: Castle Busters. Three more famous castles.
+  prize: Email in. Winner gets a drawbridge that won't lower.
+  clues:
+  - number: 1
+    initials: W C
+    clue: A place associated with conflict — gone all medieval and started charging tourists to visit.
+    answer: Warwick Castle
+    aliases:
+    - warwick castle
+    reasoning: Warwick (a town) + Castle = Warwick Castle
+  - number: 2
+    initials: B C
+    clue: A long stick used for hitting things — gone all Scottish and sat on a clifftop.
+    answer: Bamburgh Castle
+    aliases:
+    - bamburgh castle
+    reasoning: Bamburgh (a village in Northumberland) + Castle = Bamburgh Castle
+  - number: 3
+    initials: C C
+    clue: A Welsh word meaning fortress — gone all UNESCO and started attracting tourists.
+    answer: Caernarfon Castle
+    aliases:
+    - caernarfon castle
+    reasoning: Caernarfon (a Welsh town) + Castle = Caernarfon Castle

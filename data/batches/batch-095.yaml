@@ -1,0 +1,98 @@
+- id: 2020spopbusters-002
+  enabled: true
+  title: 2020s Pop Busters
+  topic: pop artists from the 2020s
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  intro: More 2020s pop acts. Big names, all phonetic.
+  prize: Email in. Winner gets a signed photo of someone they've never heard of.
+  clues:
+  - number: 1
+    initials: O R
+    clue: A green oil from Spanish trees, but it's from the other side of the world and writes sad songs.
+    answer: Olivia Rodrigo
+    aliases:
+    - olivia rodrigo
+    reasoning: Olivia (olive-ia) + Rodrigo (rod-ree-go) = Olivia Rodrigo
+  - number: 2
+    initials: S
+    clue: That thing you stir a drink with — gone all fierce and started making grime tracks.
+    answer: Stormzy
+    aliases:
+    - stormzy
+    reasoning: storm-zy = Stormzy
+  - number: 3
+    initials: L C
+    clue: A bloke from Scotland who sounds like he's been crying into his own songs for years.
+    answer: Lewis Capaldi
+    aliases:
+    - lewis capaldi
+    reasoning: Lewis (a name) + Capaldi (ca-pal-di) = Lewis Capaldi
+- id: 2020spopbusters-003
+  enabled: true
+  title: 2020s Pop Busters
+  topic: pop artists from the 2020s
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: 2020s pop. Three more big acts from recent years.
+  prize: Email in. Winner gets a pair of earphones with only one side working.
+  clues:
+  - number: 1
+    initials: B B
+    clue: A bad rabbit — mischievous little thing. Won't stop making music about it.
+    answer: Bad Bunny
+    aliases:
+    - bad bunny
+    reasoning: bad (naughty) + bunny (rabbit) = Bad Bunny
+  - number: 2
+    initials: P M
+    clue: A bloke delivering letters who's gone a bit melancholy and started rapping about it.
+    answer: Post Malone
+    aliases:
+    - post malone
+    reasoning: post (mail) + Malone (a name) = Post Malone
+  - number: 3
+    initials: L
+    clue: A city in Italy, but it's gone big and started belting out pop songs.
+    answer: Lizzo
+    aliases:
+    - lizzo
+    reasoning: Lizzo (liz-zo) = Lizzo
+- id: 2020spopbusters-004
+  enabled: true
+  title: 2020s Pop Busters
+  topic: pop artists from the 2020s
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: 2020s pop artists. Three more. All phonetic.
+  prize: Email in. Winner gets a music festival wristband from 2019 that's gone mouldy.
+  clues:
+  - number: 1
+    initials: D C
+    clue: That female dog from Japan — gone all colourful and started releasing bangers.
+    answer: Doja Cat
+    aliases:
+    - doja cat
+    reasoning: Doja (doe-ja) + Cat (feline) = Doja Cat
+  - number: 2
+    initials: W L
+    clue: A damp piece of wood that's got all wobbly and started playing indie music.
+    answer: Wet Leg
+    aliases:
+    - wet leg
+    reasoning: wet (damp) + leg (limb) = Wet Leg
+  - number: 3
+    initials: S F
+    clue: A bloke from Newcastle who gets emotional about his surroundings and writes songs about them.
+    answer: Sam Fender
+    aliases:
+    - sam fender
+    reasoning: Sam (a name) + Fender (a guitar brand/car part) = Sam Fender

@@ -1,0 +1,96 @@
+- id: primeministersbusters-001
+  enabled: true
+  title: Prime Ministers Busters
+  topic: UK Prime Ministers
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+  - UK
+  intro: Prime Ministers Busters. All UK PMs, full names. Say the clues out loud.
+  prize: Email in. Winner gets a resignation letter and a chauffeur-driven car going the wrong way.
+  clues:
+  - number: 1
+    initials: M T
+    clue: A female relative of mine — she's a bit metalworking, likes to fix things made of iron.
+    answer: Margaret Thatcher
+    aliases:
+    - margaret thatcher
+    reasoning: Margaret (a name) + Thatcher (someone who thatches roofs) = Margaret Thatcher
+  - number: 2
+    initials: T B
+    clue: A tiny piece of something — very small, like an insect's leg. Very enthusiastic about it though.
+    answer: Tony Blair
+    aliases:
+    - tony blair
+    reasoning: Tony (a name) + Blair (sounds like 'blare' or a Scottish place) = Tony Blair
+  - number: 3
+    initials: J M
+    clue: A bloke called John who's gone all big and important and is working in a quarry now.
+    answer: John Major
+    aliases:
+    - john major
+    reasoning: John (a name) + Major (army rank/important) = John Major
+- id: primeministersbusters-002
+  enabled: true
+  title: Prime Ministers Busters
+  topic: UK Prime Ministers
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+  - UK
+  intro: More UK Prime Ministers. Three more full names, all phonetic.
+  prize: Email in. Winner gets a safe seat in a constituency they've never visited.
+  clues:
+  - number: 1
+    initials: G B
+    clue: A bloke called Gordon whose skin has turned a sort of golden colour. Bit shiny about it.
+    answer: Gordon Brown
+    aliases:
+    - gordon brown
+    reasoning: Gordon (a name) + Brown (the colour) = Gordon Brown
+  - number: 2
+    initials: D C
+    clue: A bloke called Dave who's gone all photogenic and started shooting things with a lens.
+    answer: David Cameron
+    aliases:
+    - david cameron
+    reasoning: David (a name) + Cameron (sounds like camera) = David Cameron
+  - number: 3
+    initials: T M
+    clue: That month in spring — gone female and taken charge of the whole country.
+    answer: Theresa May
+    aliases:
+    - theresa may
+    reasoning: Theresa (a name) + May (the month) = Theresa May
+- id: primeministersbusters-003
+  enabled: true
+  title: Prime Ministers Busters
+  topic: UK Prime Ministers
+  difficulty: medium
+  office_safe: true
+  region_relevance:
+  - UK
+  intro: Prime Ministers Busters. More full names, all phonetic.
+  prize: Email in. Winner gets a press conference no one shows up to.
+  clues:
+  - number: 1
+    initials: B J
+    clue: A bloke called Boris who makes you laugh but you're not sure why. Bit of a joker.
+    answer: Boris Johnson
+    aliases:
+    - boris johnson
+    reasoning: Boris (a name) + Johnson (a surname) = Boris Johnson
+  - number: 2
+    initials: L T
+    clue: A female relative — gone all transparent and started falling through things.
+    answer: Liz Truss
+    aliases:
+    - liz truss
+    reasoning: Liz (a name) + Truss (a structural support) = Liz Truss
+  - number: 3
+    initials: R S
+    clue: That bloke with very rich parents — he's rolling in it, isn't he. Very well off.
+    answer: Rishi Sunak
+    aliases:
+    - rishi sunak
+    reasoning: Rishi (a name) + Sunak (soo-nak) = Rishi Sunak

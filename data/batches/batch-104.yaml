@@ -1,0 +1,100 @@
+- id: actressbusters-001
+  enabled: true
+  title: Actress Busters
+  topic: modern actresses
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Actress Busters. All modern actresses. Say the clues out loud.
+  prize: Email in. Winner gets a supporting role in something they'll never watch.
+  clues:
+  - number: 1
+    initials: M R
+    clue: A large female deer — gone all glamorous and started producing films about dolls.
+    answer: Margot Robbie
+    aliases:
+    - margot robbie
+    reasoning: Margot (a name) + Robbie (a name) = Margot Robbie
+  - number: 2
+    initials: F P
+    clue: A small, rounded cushion — gone all fierce and started appearing in Marvel films.
+    answer: Florence Pugh
+    aliases:
+    - florence pugh
+    reasoning: Florence (a city/name) + Pugh (a name, sounds like 'pew') = Florence Pugh
+  - number: 3
+    initials: Z
+    clue: A small piece of energy — gone all tall and started taking over Spider-Man films.
+    answer: Zendaya
+    aliases:
+    - zendaya
+    reasoning: Zen (calm/energy) + daya = Zendaya
+- id: actressbusters-002
+  enabled: true
+  title: Actress Busters
+  topic: modern actresses
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Actress Busters. Three more modern actresses.
+  prize: Email in. Winner gets a walk-on part and no speaking lines.
+  clues:
+  - number: 1
+    initials: E S
+    clue: A rock — gone all precious and started winning Oscars left, right, and centre.
+    answer: Emma Stone
+    aliases:
+    - emma stone
+    reasoning: Emma (a name) + Stone (a rock) = Emma Stone
+  - number: 2
+    initials: S R
+    clue: That Irish female sheep — gone all serious and started making very good films.
+    answer: Saoirse Ronan
+    aliases:
+    - saoirse ronan
+    reasoning: Saoirse (an Irish name, sounds like Sur-sha) + Ronan (a name) = Saoirse Ronan
+  - number: 3
+    initials: A T J
+    clue: Any female deer — gone all otherworldly and started playing chess in a period drama.
+    answer: Anya Taylor-Joy
+    aliases:
+    - anya taylor-joy
+    - anya taylor joy
+    reasoning: Anya (a name) + Taylor (one who tailors) + Joy (happiness) = Anya Taylor-Joy
+- id: actressbusters-003
+  enabled: true
+  title: Actress Busters
+  topic: modern actresses
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: Actress Busters. Three more. All phonetic.
+  prize: Email in. Winner gets a BAFTA they have to give back by Monday.
+  clues:
+  - number: 1
+    initials: A D A
+    clue: A small channel for water — gone all mysterious and started appearing in Bond films.
+    answer: Ana de Armas
+    aliases:
+    - ana de armas
+    reasoning: Ana (a name) + de + Armas (of arms/weapons in Spanish) = Ana de Armas
+  - number: 2
+    initials: C M
+    clue: A female relative — gone all proper and started appearing in serious British dramas.
+    answer: Carey Mulligan
+    aliases:
+    - carey mulligan
+    reasoning: Carey (a name) + Mulligan (a do-over in golf) = Carey Mulligan
+  - number: 3
+    initials: D R
+    clue: A puzzle — gone all galactic and started wielding a lightsabre.
+    answer: Daisy Ridley
+    aliases:
+    - daisy ridley
+    reasoning: Daisy (a flower) + Ridley (a name) = Daisy Ridley

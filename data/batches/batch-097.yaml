@@ -1,0 +1,96 @@
+- id: realitytvbusters-003
+  enabled: true
+  title: Reality TV Busters
+  topic: reality TV shows
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  intro: Reality TV. Three more shows where ordinary people lose the plot on camera.
+  prize: Email in. Winner gets a NDA and a taxi home.
+  clues:
+  - number: 1
+    initials: T T
+    clue: A group of people who can't be trusted — all scheming away in a castle somewhere.
+    answer: The Traitors
+    aliases:
+    - the traitors
+    reasoning: the + traitors = The Traitors
+  - number: 2
+    initials: G
+    clue: People sitting on a sofa watching telly and commenting on it — which is basically what everyone does anyway.
+    answer: Gogglebox
+    aliases:
+    - gogglebox
+    reasoning: goggle (stare) + box (TV) = Gogglebox
+  - number: 3
+    initials: M A F S
+    clue: Two strangers saying those two big words in a church to someone they've never met before.
+    answer: Married at First Sight
+    aliases:
+    - married at first sight
+    reasoning: married + at + first + sight = Married at First Sight
+- id: realitytvbusters-004
+  enabled: true
+  title: Reality TV Busters
+  topic: reality TV shows
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  intro: Reality TV Busters. Three more shows. All phonetic.
+  prize: Email in. Winner gets fifteen minutes of fame and a very short Wikipedia page.
+  clues:
+  - number: 1
+    initials: F D
+    clue: That number one, followed by the things you go on before you decide if you like someone.
+    answer: First Dates
+    aliases:
+    - first dates
+    reasoning: first + dates = First Dates
+  - number: 2
+    initials: T C
+    clue: That definite article, followed by a geometric shape with all equal sides. People inside it talking to cameras.
+    answer: The Circle
+    aliases:
+    - the circle
+    reasoning: the + circle (geometric shape) = The Circle
+  - number: 3
+    initials: R A T W
+    clue: Moving at speed across the whole planet — but doing it on a shoestring budget.
+    answer: Race Across the World
+    aliases:
+    - race across the world
+    reasoning: race + across + the + world = Race Across the World
+- id: realitytvbusters-005
+  enabled: true
+  title: Reality TV Busters
+  topic: reality TV shows
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  intro: Reality TV. Three more. Say the clues out loud and you'll get there.
+  prize: Email in. Winner gets a selfie stick and zero followers.
+  clues:
+  - number: 1
+    initials: C B B
+    clue: Famous people, but they're siblings — all crammed in a house together being watched.
+    answer: Celebrity Big Brother
+    aliases:
+    - celebrity big brother
+    reasoning: celebrity + big + brother = Celebrity Big Brother
+  - number: 2
+    initials: H
+    clue: A group of people being chased across the country by professionals trying to find them.
+    answer: Hunted
+    aliases:
+    - hunted
+    reasoning: hunted (being tracked down) = Hunted
+  - number: 3
+    initials: S
+    clue: People on an island trying to outlast each other — voting each other off one by one.
+    answer: Survivor
+    aliases:
+    - survivor
+    reasoning: survivor (one who survives) = Survivor

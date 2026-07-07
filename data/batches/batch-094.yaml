@@ -1,0 +1,98 @@
+- id: 2020stvbusters-004
+  enabled: true
+  title: 2020s TV Busters
+  topic: hit TV shows from the 2020s
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  intro: 2020s telly. Three more shows you've probably been watching instead of going outside.
+  prize: Email in. Winner gets a TV remote with a sticky button.
+  clues:
+  - number: 1
+    initials: T T
+    clue: Those people who try to catch you out — bunch of them, aren't trustworthy. Keep betraying each other.
+    answer: The Traitors
+    aliases:
+    - the traitors
+    reasoning: the + traitors (people who betray) = The Traitors
+  - number: 2
+    initials: W
+    clue: That day in the middle of the week has gone a bit spooky and started wearing all black.
+    answer: Wednesday
+    aliases:
+    - wednesday
+    reasoning: Wednesday (middle of the week, also Addams Family character) = Wednesday
+  - number: 3
+    initials: T L O U
+    clue: That definite article, followed by a word for the end of something, then the word for a female sheep.
+    answer: The Last of Us
+    aliases:
+    - the last of us
+    reasoning: the + last (final) + of + us (ewe/us) = The Last of Us
+- id: 2020stvbusters-005
+  enabled: true
+  title: 2020s TV Busters
+  topic: hit TV shows from the 2020s
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: 2020s TV. Three shows everyone's been banging on about.
+  prize: Email in. Winner gets a DVD box set of something nobody watches anymore.
+  clues:
+  - number: 1
+    initials: B
+    clue: Two bits of steak, sat next to each other. Just hanging about. Not doing much.
+    answer: Beef
+    aliases:
+    - beef
+    reasoning: beef (a type of meat/also a grudge) = Beef
+  - number: 2
+    initials: H
+    clue: That thing that keeps your chest warm — gone all romantic and started holding hands with someone.
+    answer: Heartstopper
+    aliases:
+    - heartstopper
+    reasoning: heart + stopper = Heartstopper
+  - number: 3
+    initials: A E
+    clue: That primary school in America — all the teachers are basically just winging it.
+    answer: Abbott Elementary
+    aliases:
+    - abbott elementary
+    reasoning: Abbott (a name) + Elementary (primary school level) = Abbott Elementary
+- id: 2020spopbusters-001
+  enabled: true
+  title: 2020s Pop Busters
+  topic: pop artists from the 2020s
+  difficulty: easy
+  office_safe: true
+  region_relevance:
+  - UK
+  - US
+  intro: 2020s Pop Busters. All big music acts from recent years. Say it out loud.
+  prize: Email in. Winner gets a Spotify playlist with one good song and forty filler tracks.
+  clues:
+  - number: 1
+    initials: H S
+    clue: A bloke's hair, but it's gone all fashionable and started wearing a feather boa.
+    answer: Harry Styles
+    aliases:
+    - harry styles
+    reasoning: Harry (a name) + Styles (fashion choices) = Harry Styles
+  - number: 2
+    initials: D L
+    clue: That locked entrance to a place — it's gone all musical and started dancing about.
+    answer: Dua Lipa
+    aliases:
+    - dua lipa
+    reasoning: Dua (a name) + Lipa (lip-a) = Dua Lipa
+  - number: 3
+    initials: B E
+    clue: A small invoice, but it's gone all mysterious and started whispering into microphones.
+    answer: Billie Eilish
+    aliases:
+    - billie eilish
+    reasoning: Billie (a name) + Eilish (eel-ish) = Billie Eilish
