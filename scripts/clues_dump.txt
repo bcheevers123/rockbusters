@@ -1,0 +1,510 @@
+SET:actorbusters-015|N:1|ANS:Hugh Grant|CLUE:Right, someone's been at that tree trunk with an axe, and when they were done they went, yeah alright, you can have it. Generous.
+SET:actorbusters-015|N:2|ANS:Peter OToole|CLUE:There's a bloke called Pete and he's got a small amount of that cooking liquid, and he's come in looking useful. Like an implement.
+SET:actorbusters-015|N:3|ANS:Richard Burton|CLUE:Rich bloke from Wales, right, and there's a town nearby. Small town. He's staring at it like it means something.
+SET:biologybusters-003|N:1|ANS:Serotonin|CLUE:A fella called Sear has gone to a town called Tone-in. Very small place. Not on many maps. He seems happy there. Something to do with mood.
+SET:biologybusters-003|N:2|ANS:Testosterone|CLUE:A bloke called Tess has got a proper big stone and he's carrying it around with great determination.
+SET:biologybusters-003|N:3|ANS:Photosynthesis|CLUE:A photo has been taken by someone with an unusual name and it's come out all green. Something about light and plants.
+SET:bandbusters-004|N:1|ANS:The Prodigy|CLUE:Right, someone's given a child genius a little poke to get their attention. A prod, like. The kid's apparently very gifted.
+SET:bandbusters-004|N:2|ANS:Amy Winehouse|CLUE:A woman called Amy's aiming at something, she's lined it up, very focused, and behind her there's a house full of wine bottles. Bit of a state.
+SET:bandbusters-004|N:3|ANS:Adele|CLUE:It's that letter A, right, and then someone's said the word 'dell' after it. Like a small valley. Together. Say it out loud. There you go.
+SET:anatomybusters-001|N:1|ANS:Bicep|CLUE:There's a woman called Sarah and she's gone and rung the bell at him. Just stood there and rang it. Didn't say anything. Bell him, Sarah.
+SET:anatomybusters-001|N:2|ANS:Kneecap|CLUE:Someone's made a small vehicle entirely out of clay. Just sat there on the table. Bit of an odd project but there you go.
+SET:anatomybusters-001|N:3|ANS:Collarbone|CLUE:Right, they've gone and dyed a picture frame. Whole thing. Didn't need doing but someone's gone ahead and done it anyway.
+SET:brandbusters-008|N:1|ANS:Michelin|CLUE:Right, a small French bloke has only gone and made a book about tyres. Wrote the whole thing. Very comprehensive.
+SET:brandbusters-008|N:2|ANS:Marlboro|CLUE:Someone at the market has gone and borrowed a load of women. Not sure why. Just borrowed them. A load of them.
+SET:brandbusters-008|N:3|ANS:Baileys|CLUE:There's a fella at the back of a queue and he's gone all wobbly and smooth. Very liquidy now. Nice.
+SET:animalbusters-007|N:1|ANS:Warthog|CLUE:There's been a conflict, right, and the pig at the middle of it all just won't leave. Stubborn animal.
+SET:animalbusters-007|N:2|ANS:Hyena|CLUE:Saying hello to a lady called Ena. Very politely and that.
+SET:animalbusters-007|N:3|ANS:Gorilla|CLUE:Right, a pot that's been left out in the open, it's gone all wild. Just standing there being feral.
+SET:actorbusters-017|N:1|ANS:Tom Hardy|CLUE:That plant in the garden, the one that survives frost, it's also got a bloke called Tom's name on it somehow. Resilient plant, is Tom.
+SET:actorbusters-017|N:2|ANS:Michael Caine|CLUE:Right, I've carved a walking stick out of coal. That black fuel stuff. It's mine, this stick. My coal walking aid.
+SET:actorbusters-017|N:3|ANS:Emma Thompson|CLUE:Emma's at the door and Tom's lad is right behind her. Come in, both of you.
+SET:biologybusters-001|N:1|ANS:Mitochondria|CLUE:My toe is in a state. It's got a condition, something wrong with it, and it's been going on for a while. My toe. Con-dry-a.
+SET:biologybusters-001|N:2|ANS:Chromosome|CLUE:A fella called Chris has gone to a place in Rome where they vote. He's in there now. Voting away. Very civic-minded.
+SET:biologybusters-001|N:3|ANS:Adrenaline|CLUE:A fella called Adren has lined up at the starting blocks. The gun goes off. He's gone. He's absolutely legged it. Very fast man.
+SET:bandbusters-007|N:1|ANS:Radiohead|CLUE:[CLUE NEEDS REWRITE] You've arrived in a harbour town, right, and you order a glass of that dark fortified wine they do, and the barman just says it is. Like that's the whole answer.
+SET:bandbusters-007|N:2|ANS:Daft Punk|CLUE:[CLUE NEEDS REWRITE] Someone's got a really big something, enormous, massive, and it's come at them at full speed. That's the whole situation.
+SET:bandbusters-007|N:3|ANS:Elastica|CLUE:A woman called Ella's doing a stretchy exercise class, really going for it, and she's made of elastic. Near enough.
+SET:anatomybusters-003|N:1|ANS:Quadriceps|CLUE:Right, the trapeze act. It was us up there. On the wire. We were the ones doing it. Bit unexpected, really.
+SET:anatomybusters-003|N:2|ANS:Hamstring|CLUE:Someone's gone into the school courtyard - the square one with the benches - and they're doing something involving rye bread and it's all gone a bit off. Smells.
+SET:anatomybusters-003|N:3|ANS:Eardrum|CLUE:Someone's tied a piece of string round a ham. Don't know why. Just looped it round and left it there. That's all that happened.
+SET:brandbusters-001|N:1|ANS:Starbucks|CLUE:A celestial body has gone and collected a load of male deer money. Just piled it all up. No reason given.
+SET:brandbusters-001|N:2|ANS:Volvo|CLUE:There's a fella. And he's going round and round. Just rotating. Continuously. Won't stop.
+SET:brandbusters-001|N:3|ANS:Ikea|CLUE:This fella called Ike has had a bit of a look at something. Proper inspection. Had a good gander.
+SET:actorbusters-006|N:1|ANS:Maggie Smith|CLUE:Maggie's standing at an anvil hammering a bit of metal. She's gone into the trade. Good for her.
+SET:actorbusters-006|N:2|ANS:Ian McKellen|CLUE:Ian's got an Irish mate called Ellen. They've just turned up together. Bit unexpected.
+SET:actorbusters-006|N:3|ANS:Gary Oldman|CLUE:Gary's absolutely ancient. Really old fella, Gary. Lived a long time, he has.
+SET:biologybusters-002|N:1|ANS:Pancreas|CLUE:A fella's gone and made a massive meal out of something but it's turned into a right old drama. Everyone's tense.
+SET:biologybusters-002|N:2|ANS:Cerebellum|CLUE:A part of your brain, a little one at the back, sounds like it could be a small Italian biscuit. Sort of a cerebell-type situation. Hard to spell. Easy to damage.
+SET:biologybusters-002|N:3|ANS:Hippocampus|CLUE:A very large African animal has enrolled at university. Very keen. Taking it all very seriously.
+SET:bandbusters-009|N:1|ANS:Pearl Jam|CLUE:[CLUE NEEDS REWRITE] The first one on offer, the screaming at the beginning, the initial burst, it's primal, they reckon. Very raw.
+SET:bandbusters-009|N:2|ANS:Foo Fighters|CLUE:[CLUE NEEDS REWRITE] A bloke's wearing a really nice suit, very elegant, bit fancy, and someone's asked where it's from. Just one word.
+SET:bandbusters-009|N:3|ANS:Ed Sheeran|CLUE:Right, someone called Ed is standing there with a pair of scissors. Just cutting things. Snip snip. Carries them everywhere apparently.
+SET:anatomybusters-002|N:1|ANS:Ribcage|CLUE:She fell over, and well, blimey. Just went down. Said something like 'oh, jeez' on the way. Bit of a tumble.
+SET:anatomybusters-002|N:2|ANS:Shin|CLUE:He bumped into a mate outside the car park. Just stood there chatting. His mate owns a car, that's sort of the whole story.
+SET:anatomybusters-002|N:3|ANS:Shoulder Blade|CLUE:He ran into a woman called Sal who works in road maintenance. She was covered in tar. Just standing there.
+SET:brandbusters-003|N:1|ANS:Lego|CLUE:A fella's gone. Just departed. Left everything behind. All his stuff is still there, he's just gone.
+SET:brandbusters-003|N:2|ANS:Nokia|CLUE:Right, there's a fella who won't have any of it. Not on your life. Absolutely refuses. Nokia.
+SET:brandbusters-003|N:3|ANS:Nikon|CLUE:Someone's saying no very quickly and then talking about an icon. Some sort of symbol. Won't stop going on about it.
+SET:artbusters-020|N:1|ANS:Damien Hirst|CLUE:Right, the day before yesterday - no wait, just a day - I ended up at this place called Hurst. Turned up there. That's all.
+SET:artbusters-020|N:2|ANS:Guernica|CLUE:She's stood there in her pants doing the most horrific face you've ever seen. Won't stop doing it. Just gurning away.
+SET:artbusters-020|N:3|ANS:Mona Lisa|CLUE:Right, this woman keeps moaning. And the bloke standing nearby - he rents out commercial properties. That's his job, renting.
+SET:animalbusters-001|N:1|ANS:Hippopotamus|CLUE:Right, that big round cooking vessel, the bloke who used to burn incense has gone and sat in it. Don't ask why.
+SET:animalbusters-001|N:2|ANS:Rhinoceros|CLUE:That bloke's got a proper sharp hooter on him, and he's absolutely covered in the stuff. Rough skin and that.
+SET:animalbusters-001|N:3|ANS:Chimpanzee|CLUE:Some fella's frying pan's gone down the river and there's a letter Z sitting in it. Bit odd.
+SET:actorbusters-019|N:1|ANS:Ralph Fiennes|CLUE:Poor old Rafe. He's completely hemmed in by these demons. Absolute mob of them around him. No way out.
+SET:actorbusters-019|N:2|ANS:Ian McKellen|CLUE:Ian's brought his Irish pal Mick and a woman called Ellen to the party. All three of them just arrived.
+SET:actorbusters-019|N:3|ANS:Anthony Hopkins|CLUE:The ant's got a knee and it's doing a little hop on it. The knee of the ant. Hopping away. Kins.
+SET:bandbusters-016|N:1|ANS:Ed Sheeran|CLUE:A bloke called Ed's gone and got a pair of shears, the big garden ones, and he's trimming everything. Can't stop himself. Edward Scissorhands vibes.
+SET:bandbusters-016|N:2|ANS:Amy Winehouse|CLUE:A woman called Amy's built her house entirely out of bottles of the red stuff. Bit impractical but that's her choice.
+SET:bandbusters-016|N:3|ANS:Elastica|CLUE:A woman called Ella's doing one of them stretchy workouts, all bendy and flexible. She IS the material. Near enough.
+SET:brandbusters-005|N:1|ANS:Evian|CLUE:There's a fella called Ev and he's only gone and banned something. Just banned it outright. Won't allow it.
+SET:brandbusters-005|N:2|ANS:Jacuzzi|CLUE:An Italian fella called Jack has gone a bit buzzy. Like, vibrating. Sort of fizzing about the place.
+SET:brandbusters-005|N:3|ANS:Lacoste|CLUE:Right, someone's only gone and put a cost on something. A price tag. In a French manner. Gave it a cost.
+SET:artbusters-014|N:1|ANS:Starry Night|CLUE:Right, everything's covered in little points of light up above, and it's not daytime. That Dutch bloke painted it. Swirly sky and that.
+SET:artbusters-014|N:2|ANS:Sunflowers|CLUE:Your lad's only gone and grown into a big yellow plant. Didn't water him or anything. Just happened.
+SET:artbusters-014|N:3|ANS:Water Lilies|CLUE:A small woman called Lil has got a verruca. It's on her toe. She's not making a fuss about it but it's definitely there.
+SET:animalbusters-014|N:1|ANS:Mamba|CLUE:Right, some fella called Bra, he's arrived and he's standing by the big cats. Proud of himself.
+SET:animalbusters-014|N:2|ANS:Opossum|CLUE:The possum thing, right, it's gone full digging mode. Proper burrowing away.
+SET:animalbusters-014|N:3|ANS:Bear|CLUE:[CLUE NEEDS REWRITE] That bloke in the vest, he's gone up really high. Proper elevated. Bit cold up there.
+SET:actorbusters-020|N:1|ANS:Gary Oldman|CLUE:There's a Gary. And he's old. And he's a man. That's the whole thing, that is. Old man Gary.
+SET:actorbusters-020|N:2|ANS:Maggie Smith|CLUE:Maggie's set up a smithy. Hammer, anvil, the lot. She's making horseshoes. Dame Maggie the blacksmith.
+SET:actorbusters-020|N:3|ANS:Peter Sellers|CLUE:Peter's gone into retail. He's got things and he's shifting them. He's one of them people what sells stuff.
+SET:bandbusters-014|N:1|ANS:Depeche Mode|CLUE:Right, someone's sent a message using the French word for dispatch, and the way they've delivered it is very fashionable. Very of the moment.
+SET:bandbusters-014|N:2|ANS:The Jam|CLUE:You've opened a jar of strawberry preserve. It's a good one. A proper jar. The best one in the cupboard.
+SET:bandbusters-014|N:3|ANS:Nirvana|CLUE:[CLUE NEEDS REWRITE] It's an absolutely enormous assault. Really huge. Came from nowhere. Massive thing altogether.
+SET:brandbusters-006|N:1|ANS:Benetton|CLUE:There's a group of people and they've all been given a nice amount of something. Lots of it. Generous distribution. Good haul all round.
+SET:brandbusters-006|N:2|ANS:Dyson|CLUE:A fella's doing a bit of hover-craft manoeuvring and he's going over something. Just passed right over it.
+SET:brandbusters-006|N:3|ANS:Tupperware|CLUE:Right, two people have been placed inside some containers. Just the two of them. In there with the lid on. Bit snug.
+SET:actorbusters-009|N:1|ANS:Colin Firth|CLUE:You've dialled someone up, haven't you, and now you're at the mouth of a Scottish river. Bit of a trek for a phone call.
+SET:actorbusters-009|N:2|ANS:Emma Thompson|CLUE:Emma's standing there and Tom's boy has shown up. Nice lad, Tom's lad.
+SET:actorbusters-009|N:3|ANS:Benedict Cumberbatch|CLUE:Benny's dictating into a machine, there's a great long cucumber on the table, and he's just pulled a fresh batch of something out of the oven. Mad scene.
+SET:bandbusters-013|N:1|ANS:The Smiths|CLUE:That bloke in the kitchen, the one who makes stuff out of metal, shoes horses, all that, he's not alone. There's loads of them. Whole family.
+SET:bandbusters-013|N:2|ANS:The Kinks|CLUE:There's a wire, right, all twisted up, can't get it straight. Full of kinks. Annoying. The whole thing.
+SET:bandbusters-013|N:3|ANS:Blur|CLUE:[CLUE NEEDS REWRITE] You've put the orange in a press and you've gone too hard. Now it's all white stringy bits floating about. That's what comes out.
+SET:brandbusters-014|N:1|ANS:Thermos|CLUE:Two people have been placed inside some containers. Very snug. Lids on. They seem alright about it.
+SET:brandbusters-014|N:2|ANS:Sellotape|CLUE:Someone's gone to the market and used tape to stick down all the price labels. Used the transparent sticky stuff. All of them.
+SET:brandbusters-014|N:3|ANS:Dyson|CLUE:A bloke's doing something with a hover machine over a surface. Just passing over it. Hover and over. That's the thing.
+SET:animalbusters-008|N:1|ANS:Leopard|CLUE:That thing that lives in a pond or a lake, the amphibious one, it's got an L in front of it. That's the size of it.
+SET:animalbusters-008|N:2|ANS:Lion|CLUE:[CLUE NEEDS REWRITE] He's given it a proper bash, right, the punching type. Gone right in there.
+SET:animalbusters-008|N:3|ANS:Jaguar|CLUE:She's been hunting him down, hasn't she. The gu + are type. Very determined.
+SET:actorbusters-003|N:1|ANS:Benedict Cumberbatch|CLUE:Right, Benny's gone and dictated something about a cucumber that someone baked in a batch. No idea why.
+SET:actorbusters-003|N:2|ANS:Tom Hardy|CLUE:There's a bloke called Tom and he's absolutely solid. Won't be pushed around. Tough as anything.
+SET:actorbusters-003|N:3|ANS:Daniel Craig|CLUE:Dan's got a slippery river creature with him, and there's also a fella called Craig standing nearby. Odd combination.
+SET:bandbusters-018|N:1|ANS:Rolling Stones|CLUE:Right, someone keeps bowling these massive boulders down the hill. Can't stop them. They're just going. Rolling away.
+SET:bandbusters-018|N:2|ANS:David Bowie|CLUE:A bloke named David's standing in a field with a bow and arrow. Very focused. Won't put it down.
+SET:bandbusters-018|N:3|ANS:The Prodigy|CLUE:Someone's given a very gifted young child a bit of a nudge to get them moving. A prod, like. The child's some kind of genius apparently.
+SET:brandbusters-002|N:1|ANS:Adidas|CLUE:Right, someone's done a bit of arithmetic with some form of identification. Added it all up. The ID is in there.
+SET:brandbusters-002|N:2|ANS:Pepsi|CLUE:A fella called Pep has gone and had a little sit down. Just parked himself. Very casual about it.
+SET:brandbusters-002|N:3|ANS:Pringles|CLUE:Some circular things and they're all mingling at a party. Right social little discs. Making themselves at home in a tube.
+SET:animalbusters-013|N:1|ANS:Zebra|CLUE:[CLUE NEEDS REWRITE] The hoofed thing, right, he's gone off on his own. A proper loner. Just wandered into the trees.
+SET:animalbusters-013|N:2|ANS:Panda|CLUE:[CLUE NEEDS REWRITE] The great big one, that African cat, it's gone to the coast. Sitting by the ocean now.
+SET:animalbusters-013|N:3|ANS:Gazelle|CLUE:That bloke's gone and been a gazelle about the whole situation, hasn't he. Really nimble about it.
+SET:actorbusters-004|N:1|ANS:Keira Knightley|CLUE:She's really worried about that nighttime stretch. Particularly the bit in the meadow. Anxious about it.
+SET:actorbusters-004|N:2|ANS:Michael Caine|CLUE:That walking stick's mine. Made of coal and everything. Don't touch it.
+SET:actorbusters-004|N:3|ANS:Roger Moore|CLUE:Roger wants another one. He's already had loads but he's standing there going, more please. Cheeky.
+SET:bandbusters-005|N:1|ANS:Coldplay|CLUE:The swimming pool's gone freezing and there's a load of kids in there still splashing about. Absolutely brass monkeys. That's the clue.
+SET:bandbusters-005|N:2|ANS:Arctic Monkeys|CLUE:Someone's drawn a great big curved shape, like the bottom of a bridge, and it's got a tick on it, and inside there's a monkey holding a bunch of keys. Take your time.
+SET:bandbusters-005|N:3|ANS:The Kinks|CLUE:There's a hosepipe, right, and it's got a right nasty bend in it. Won't flow properly. Annoying.
+SET:brandbusters-019|N:1|ANS:Prada|CLUE:Right, a bunch of people have all received a generous allocation. A good helping of something. A ton of benefit. All of them.
+SET:brandbusters-019|N:2|ANS:Marlboro|CLUE:Someone's borrowed a load of women - quite a few of them - from a place with clay in the ground. Near the marl.
+SET:brandbusters-019|N:3|ANS:Nikon|CLUE:Someone's saying no to everything and then going on about this famous symbol they keep seeing. Keeps pointing at the icon.
+SET:actorbusters-012|N:1|ANS:Peter Sellers|CLUE:Peter's at a market. He's got a stall. He's shifting goods. He's a man of commerce, is Peter.
+SET:actorbusters-012|N:2|ANS:Alec Guinness|CLUE:Alec's been given a glass of the black stuff. Proper Irish stout. He seems pleased.
+SET:actorbusters-012|N:3|ANS:Roger Moore|CLUE:That's Roger over there, and he's not satisfied. He wants another go. Or another biscuit. One of the two.
+SET:bandbusters-010|N:1|ANS:The Beatles|CLUE:A bloke called Paul's been doing a lot of drumming, tapping away on the table, can't stop, and this time he's gone ahead and played the actual beat. Loud.
+SET:bandbusters-010|N:2|ANS:Radiohead|CLUE:You're tuned into the broadcast, it's coming through clear as anything, and it's coming from inside someone's skull. Bit odd.
+SET:bandbusters-010|N:3|ANS:Blur|CLUE:Right, there's a bloke called Gene just sat there. That's it. His name's Gene. One word. Easy one this.
+SET:brandbusters-015|N:1|ANS:Michelin|CLUE:A very small French fella has gone and written the definitive guide to something. Very thorough. Small bloke, big book.
+SET:brandbusters-015|N:2|ANS:Castrol|CLUE:Someone's thrown a cylinder of oil down a lane. Just bowled it off. It went quite far actually.
+SET:brandbusters-015|N:3|ANS:Ferrari|CLUE:There's a long pointed thing - like a spike - and it's gone and got itself round someone's wrist. Italian. Very round.
+SET:animalbusters-004|N:1|ANS:Armadillo|CLUE:The limb, right, the one you wave at people, it's sitting next to a herb from the pickle jar. Mysterious.
+SET:animalbusters-004|N:2|ANS:Chameleon|CLUE:That bloke Lee, he arrived recently, and he's just sort of... on things. Everywhere.
+SET:animalbusters-004|N:3|ANS:Platypus|CLUE:Like a flat thing, but with a weird infection at the end. You wouldn't want it.
+SET:actorbusters-011|N:1|ANS:Tom Hardy|CLUE:Tom's not soft. Not soft at all. He's proper robust, Tom. Like a plant in winter, he is.
+SET:actorbusters-011|N:2|ANS:Daniel Craig|CLUE:Dan's got one of them long slippery fish, the kind that looks like a snake, and there's a Craig standing next to him. Just Craig.
+SET:actorbusters-011|N:3|ANS:Sean Connery|CLUE:Sean's run some sort of elaborate deception. A proper con. And he's still doing it. It's ongoing.
+SET:bandbusters-001|N:1|ANS:The Beatles|CLUE:Right, that thing you hit with a drumstick, you've just given it a proper whack, and there's a bloke called Les stood next to it. That's all.
+SET:bandbusters-001|N:2|ANS:Rolling Stones|CLUE:Someone keeps moving these great big rocks. Just rolling them down a hill. Can't leave them alone.
+SET:bandbusters-001|N:3|ANS:Led Zeppelin|CLUE:They've melted some of that heavy grey metal and then gone and named a massive airship after it. Bit much.
+SET:brandbusters-011|N:1|ANS:Adidas|CLUE:Someone's totted up some identification numbers. Done the sums on them. Added the IDs together like you would.
+SET:brandbusters-011|N:2|ANS:Nokia|CLUE:Right, there's a fella saying no and then going on about a musical instrument. A lute or something. Won't stop.
+SET:brandbusters-011|N:3|ANS:Pringles|CLUE:Some little circular flat things - not the pasta - they've all got together. Had a gathering in a tube. Very orderly.
+SET:animalbusters-017|N:1|ANS:Lynx|CLUE:The whole lot of it, every single one. Right, that's gone a bit mad. Running around on all the legs.
+SET:animalbusters-017|N:2|ANS:Tiger|CLUE:[CLUE NEEDS REWRITE] That bloke has gone and shunned the lot of them, right. Said no to all of it.
+SET:animalbusters-017|N:3|ANS:Wolf|CLUE:[CLUE NEEDS REWRITE] Right, that thing cub scouts are in, it's gone wild and furry. Running about on all fours.
+SET:actorbusters-018|N:1|ANS:Sean Connery|CLUE:Sean's running some sort of long con on someone. He's been at it for a while now. Persistent.
+SET:actorbusters-018|N:2|ANS:Daniel Craig|CLUE:Dan's holding one of them slithery river fish, the long bendy ones, and Craig's just standing there watching. Neither of them saying anything.
+SET:actorbusters-018|N:3|ANS:Keira Knightley|CLUE:This lass is really concerned about that evening, particularly the grassy bit at the end. Very worried about a night in a clearing.
+SET:bandbusters-006|N:1|ANS:The Smiths|CLUE:Right, you've got a load of blacksmiths, you know, the ones who bash metal and shoe horses, and they've all turned up at once. A whole group of them.
+SET:bandbusters-006|N:2|ANS:The Prodigy|CLUE:[CLUE NEEDS REWRITE] You've squeezed an orange too hard and the white stringy bits are floating about in the juice. That's the clue. One word.
+SET:bandbusters-006|N:3|ANS:Blur|CLUE:[CLUE NEEDS REWRITE] Superman's had a look at next door's lawn and he thinks it's exceptional. Really first rate. Says so an' all.
+SET:brandbusters-017|N:1|ANS:Baileys|CLUE:There's a crowd at the Bailey and they've all gone a bit smooth and creamy. Very liquidy now. Flowing about.
+SET:brandbusters-017|N:2|ANS:Velcro|CLUE:A bloke in velvet is moving extremely quickly. Full pelt. The velvet's a blur.
+SET:brandbusters-017|N:3|ANS:Durex|CLUE:Something's lasted a very long time. Very durable. The experience of it has a certain history to it.
+SET:animalbusters-020|N:1|ANS:Aardvark|CLUE:Right, a bloke called Vark, he's had a really, really tough time of it. Poor lad.
+SET:animalbusters-020|N:2|ANS:Pangolin|CLUE:That scaly thing, right, it's gone all pang and then Lin showed up and made it worse. Tense atmosphere.
+SET:animalbusters-020|N:3|ANS:Tasmanian Devil|CLUE:The island at the bottom of Australia, right. Whatever lives there is absolutely furious about something.
+SET:actorbusters-002|N:1|ANS:Helen Mirren|CLUE:Chaos has broken out inside a reflective surface. Complete pandemonium in there.
+SET:actorbusters-002|N:2|ANS:Emma Thompson|CLUE:There's a woman called Emma, right, and her mate Tom's lad has just turned up. Unexpected visit.
+SET:actorbusters-002|N:3|ANS:Kate Winslet|CLUE:Kate's won. She's actually done it. But they've still gone and let her anyway. Make your mind up.
+SET:bandbusters-003|N:1|ANS:David Bowie|CLUE:A bloke named Dave, David, full name, he's holding a bow and arrow. Not sure why. He's just stood there with it.
+SET:bandbusters-003|N:2|ANS:Blur|CLUE:You're trying to read the sign but it's gone all smudgy. Everything's a bit fuzzy. Can't make it out. One word, that's your lot.
+SET:bandbusters-003|N:3|ANS:Radiohead|CLUE:There's a transistor radio, right, and it's just sort of sitting on someone's head. Balanced there. No reason given.
+SET:brandbusters-020|N:1|ANS:Pepsi|CLUE:A fella called Pep's had a little rest. Very quick. Sat himself down and had a sit. Very casual about the whole thing.
+SET:brandbusters-020|N:2|ANS:Adidas|CLUE:Right, a fella's done the maths on some ID. Added up the numbers on it. Totted them all up. The identification's been calculated.
+SET:brandbusters-020|N:3|ANS:Starbucks|CLUE:There's a massive glowing thing up in the sky and it's gone and collected quite a sum in cash. Deer money, mainly.
+SET:actorbusters-014|N:1|ANS:Ralph Fiennes|CLUE:Rafe's in a spot of bother. He's completely surrounded by what you'd call demons. Loads of them. Circle of demons.
+SET:actorbusters-014|N:2|ANS:Anthony Hopkins|CLUE:The tiny insect's leg joint is bouncing up and down. It's having a hop, the knee of an ant. Weird to watch.
+SET:actorbusters-014|N:3|ANS:Keira Knightley|CLUE:She's quite anxious about this evening, right, especially the bit in the field. Very worried about the night in the meadow.
+SET:bandbusters-008|N:1|ANS:The Cure|CLUE:Right, you've got someone who looks after a place, a guard, like, and his name's Ian. Someone's keeping an eye on Ian. Sort of ironic.
+SET:bandbusters-008|N:2|ANS:The Jam|CLUE:You've got a jar full of something, jam, like, and it's a very particular jar. A special one. The jam. That's it.
+SET:bandbusters-008|N:3|ANS:Depeche Mode|CLUE:Someone's slipped into a really deep sort of mood, kind of gloomy, a bit dramatic, and they've gone off to stand near some synthesisers. Bit theatrical.
+SET:brandbusters-007|N:1|ANS:Durex|CLUE:There's been some lasting and persistent activity happening. It's gone on for a while. Very enduring. Quite the stamina on it.
+SET:brandbusters-007|N:2|ANS:Sellotape|CLUE:Someone's selling something at a market stall and they've put tape on the price labels. The stuff you use to stick paper. Clear tape.
+SET:brandbusters-007|N:3|ANS:Velcro|CLUE:A fella wearing velvet is going full speed. All the way. Not stopping. Pedal to the metal on the velvet.
+SET:animalbusters-009|N:1|ANS:Mongoose|CLUE:That animal's a bit of a monk, isn't it. Proper contemplative. Sitting there thinking.
+SET:animalbusters-009|N:2|ANS:Badger|CLUE:[CLUE NEEDS REWRITE] That's a proper big one, isn't it. Goes around in the long grass. The bloke keeps catching it.
+SET:animalbusters-009|N:3|ANS:Fox|CLUE:[CLUE NEEDS REWRITE] Right, a young one, a baby badger type, but it's gone absolutely massive. Didn't see that coming.
+SET:actorbusters-013|N:1|ANS:Ian McKellen|CLUE:Ian's turned up with a bloke called Mick and a woman called Ellen. They're all just stood there. Bit crowded.
+SET:actorbusters-013|N:2|ANS:Gary Oldman|CLUE:Right, Gary. He's old. He's a man. That's really all there is to it. Very old man called Gary.
+SET:actorbusters-013|N:3|ANS:Maggie Smith|CLUE:Dame Maggie's at the forge. She's got the hammer, she's got the anvil, she's shaping hot metal. She's gone full blacksmith.
+SET:bandbusters-015|N:1|ANS:Pearl Jam|CLUE:[CLUE NEEDS REWRITE] Before anything else, right at the very start, the most basic and raw noise a human can make, someone's done one. At full volume.
+SET:bandbusters-015|N:2|ANS:Foo Fighters|CLUE:[CLUE NEEDS REWRITE] That jacket is very soft and brushed. The material on it. Very nice texture. You'd want to stroke it.
+SET:bandbusters-015|N:3|ANS:Radiohead|CLUE:[CLUE NEEDS REWRITE] You've gone and arrived at the docks. There's a port there. And it IS the head. That's where you are. Portishead. Bit niche.
+SET:brandbusters-009|N:1|ANS:Castrol|CLUE:Right, someone's put a load of oil in a container and then rolled it off to the left. That's what's happened. Off to the left it went.
+SET:brandbusters-009|N:2|ANS:Ferrari|CLUE:There's a fella called Pear and he's gone to Italy and got a bit wriggly. Quite animated. Pear but Italian and wriggling.
+SET:brandbusters-009|N:3|ANS:Campari|CLUE:Someone's been doing a load of camping and now they're looking a bit rosy. All that fresh air. Bit flushed in the camp.
+SET:actorbusters-007|N:1|ANS:Ralph Fiennes|CLUE:There's a bloke called Rafe and he's completely surrounded by demons. Loads of them. Just demons everywhere.
+SET:actorbusters-007|N:2|ANS:Anthony Hopkins|CLUE:The insect's knee joint is doing a hop. Why the ant's hopping on its knee I don't know, but there it is.
+SET:actorbusters-007|N:3|ANS:Richard Burton|CLUE:Someone's doing a burn inside what sounds like a shed for cows. It's a bit agricultural.
+SET:bandbusters-002|N:1|ANS:Pink Floyd|CLUE:That fella who's gone a bit rosy-cheeked, the one who looks like he's been out in the cold, him and a bloke called Floyd. Off somewhere together.
+SET:bandbusters-002|N:2|ANS:The Clash|CLUE:Two shopping trolleys have gone and smashed into each other in the cereal aisle. Someone's going to have to sort that out.
+SET:bandbusters-002|N:3|ANS:Oasis|CLUE:Right, you're in a desert, dead thirsty, and suddenly there it is. That thing with the palm tree and the water. One word. Near enough.
+SET:brandbusters-010|N:1|ANS:Martini|CLUE:Right, a fella called Martin's only gone and put his knee down on something. Just knelt on it. On his knee. There.
+SET:brandbusters-010|N:2|ANS:Lamborghini|CLUE:There's a lamb - small woolly one - and it's gone and hired itself a really big powerful engine. For some reason.
+SET:brandbusters-010|N:3|ANS:Starbucks|CLUE:A massive ball of burning gas in the sky has gone and collected payment for something. Quite a lot of it. In bucks.
+SET:animalbusters-002|N:1|ANS:Crocodile|CLUE:That old footwear, the slip-on type, it's gone and rung someone up on the phone. Why would it do that.
+SET:animalbusters-002|N:2|ANS:Kangaroo|CLUE:A walking stick, right, and next to it there's a bit of regret. The two of them just standing there.
+SET:animalbusters-002|N:3|ANS:Cheetah|CLUE:She's being a bit sneaky about it, hasn't she. Proper two-faced. That's all.
+SET:actorbusters-008|N:1|ANS:Peter OToole|CLUE:Right, Pete's got some oil and he's just sort of... standing there with it. Like a tool.
+SET:actorbusters-008|N:2|ANS:Hugh Grant|CLUE:Someone's been properly chopping at that log for ages, and eventually they said alright, you can borrow the axe. Fair enough.
+SET:actorbusters-008|N:3|ANS:Judi Dench|CLUE:There's a lady called Judith but everyone's dropped the last bit of her name. And she's sitting on one of them long wooden seat things. Just sitting there.
+SET:bandbusters-011|N:1|ANS:Led Zeppelin|CLUE:They've used the soft grey metal for the wiring, right, and then some German fella's gone and attached it to one of them enormous floating balloon ships. Very on brand.
+SET:bandbusters-011|N:2|ANS:Oasis|CLUE:Middle of the desert, miles from anywhere, and suddenly there's a pool of clean water and a palm tree. You'd be well chuffed.
+SET:bandbusters-011|N:3|ANS:Pink Floyd|CLUE:He's gone bright pink, this Floyd, from being in the sun too long. Serves him right.
+SET:brandbusters-013|N:1|ANS:Reebok|CLUE:A plant - one of those reedy things from the riverbank - has produced some literature. Written a book. Quite a feat.
+SET:brandbusters-013|N:2|ANS:Evian|CLUE:A bloke called Ev is talking about someone called Ian. Won't stop mentioning him. Ev and Ian this, Ev and Ian that.
+SET:brandbusters-013|N:3|ANS:Jacuzzi|CLUE:Right, there's a fella from Italy called Giacomo and he's got himself in a right buzzy situation. All vibrating. Water going everywhere.
+SET:animalbusters-005|N:1|ANS:Elephant|CLUE:[CLUE NEEDS REWRITE] Some big fella named Barry came in, sat on a hat, and disappeared into a bar. Busy day for him.
+SET:animalbusters-005|N:2|ANS:Wolverine|CLUE:All that fabric from a sheep, right, and it's gone all tough and muscly. Like the hard stuff.
+SET:animalbusters-005|N:3|ANS:Aardvark|CLUE:That's a tough one to say out loud. The opposite of soft-bark, isn't it. The dog's done a proper bark and it was difficult.
+SET:actorbusters-016|N:1|ANS:Colin Firth|CLUE:Someone's dialled a number, got through, and now they're standing in the tidal mouth of a Scottish river. Cold day for it.
+SET:actorbusters-016|N:2|ANS:Judi Dench|CLUE:There's a Judith, right, but she's dropped the ith. She's just Judi now. And she's found herself in a sort of dark corner of a room.
+SET:actorbusters-016|N:3|ANS:Helen Mirren|CLUE:All that chaos and noise has got itself inside a looking glass somehow. You look in the mirror and it's just hell in there.
+SET:bandbusters-017|N:1|ANS:The Cure|CLUE:There's been a remedy found. The doctor's written it down, given it to the chemist. That's it. They've found the thing that fixes it.
+SET:bandbusters-017|N:2|ANS:Arctic Monkeys|CLUE:Right, there's a curved shape like the bottom of a bridge, a proper arc, and on top of it there's a tiny tick, and a monkey's holding a ring of keys. Don't ask.
+SET:bandbusters-017|N:3|ANS:Oasis|CLUE:[CLUE NEEDS REWRITE] The lawn at the front's been done up lovely. Superman's had a look and he's very impressed. Called it super.
+SET:brandbusters-004|N:1|ANS:Skoda|CLUE:A bloke called Sko has turned up at the door. Just standing there. Bit of a scene.
+SET:brandbusters-004|N:2|ANS:Häagen-Dazs|CLUE:A pig has only gone and shoved something into a container of sauce. The whole thing. In the daz. Whatever daz is.
+SET:brandbusters-004|N:3|ANS:Reebok|CLUE:Right, there's a stream and it's only gone and written something in a book. Like, the river has documented itself. Signed off on it.
+SET:animalbusters-018|N:1|ANS:Buffalo|CLUE:That big shaggy thing from up north, right, it's gone all buffo about the situation. Puffed up.
+SET:animalbusters-018|N:2|ANS:Rabbit|CLUE:[CLUE NEEDS REWRITE] The mole, right, that underground digger, it's gone and got itself a ratt on the end. Bit grim.
+SET:animalbusters-018|N:3|ANS:Wombat|CLUE:That lazy-looking one, it's just sitting there being all bearish in Australia. Taking its time.
+SET:actorbusters-010|N:1|ANS:Michael Caine|CLUE:It's my fuel. That lump of black stuff you burn. And I've made it into a walking aid. Mine. Don't touch.
+SET:actorbusters-010|N:2|ANS:Kate Winslet|CLUE:She's gone and won the thing. Kate has. Proper won it. But they've let her in anyway. Both at once.
+SET:actorbusters-010|N:3|ANS:Helen Mirren|CLUE:Hell's broken out inside that mirror on the wall. Chaos in there. Absolute mayhem.
+SET:bandbusters-019|N:1|ANS:The Beatles|CLUE:Right, the bloke in charge of making sure nobody gets in, that guard fella, his name happens to be Ian. Someone's keeping watch over Ian. Bit meta.
+SET:bandbusters-019|N:2|ANS:The Clash|CLUE:Two cars have come round the corner at the same time and gone straight into each other. Big collision. Right mess.
+SET:bandbusters-019|N:3|ANS:The Prodigy|CLUE:[CLUE NEEDS REWRITE] His name's just Gene. That's it. Nothing else to it. Easy one this. You've probably got it.
+SET:brandbusters-016|N:1|ANS:Campari|CLUE:Some people have been out camping in the fresh air. Come back all rosy-cheeked and cheerful. Bit of a ree at the campsite.
+SET:brandbusters-016|N:2|ANS:Martini|CLUE:A fella called Martin has gone and put himself in a very small metal container. On his own. In the tin. Just him.
+SET:brandbusters-016|N:3|ANS:Lamborghini|CLUE:Right, a young sheep has borrowed a very powerful car. No licence, nothing. Just gone off in it. A big engine on that lamb.
+SET:actorbusters-001|N:1|ANS:Hugh Grant|CLUE:That fella's been chopping wood for hours, but then he's said yeah, go on then, you can have it. Nice of him really.
+SET:actorbusters-001|N:2|ANS:Colin Firth|CLUE:Right, you've rung someone up, and now you're standing at the edge of a Scottish estuary. Why? Don't know.
+SET:actorbusters-001|N:3|ANS:Judi Dench|CLUE:Someone's taken the T off a trench and shoved it in a den. Bit of a liberty.
+SET:bandbusters-020|N:1|ANS:Led Zeppelin|CLUE:Someone's gone and wired the whole thing in soft grey metal, used it for all the connections, and then named this enormous balloon airship after themselves. Both things together.
+SET:bandbusters-020|N:2|ANS:Fleetwood Mac|CLUE:[CLUE NEEDS REWRITE] You've squeezed that fruit too hard, haven't you. All the stringy white bits have come out. Floating about in there now.
+SET:bandbusters-020|N:3|ANS:Radiohead|CLUE:[CLUE NEEDS REWRITE] Someone's gone and built a whole house out of wine at the docks. Port wine. And it's got a head on it. Right at the front.
+SET:brandbusters-012|N:1|ANS:Lego|CLUE:A bloke's had both his legs go. Just departed. Wandered off without him. And he's meant to be going somewhere.
+SET:brandbusters-012|N:2|ANS:Volvo|CLUE:There's a container of something and it's gone round. Done a full revolution. Back where it started.
+SET:brandbusters-012|N:3|ANS:Häagen-Dazs|CLUE:A large farmyard animal has only gone and pushed something into a bucket of that washing powder. The white stuff. Into the daz.
+SET:animalbusters-006|N:1|ANS:Pangolin|CLUE:The pain, right, it's walking around somewhere, and there's a bloke called Lin there too. All a bit tense.
+SET:animalbusters-006|N:2|ANS:Tasmanian Devil|CLUE:The road in Australia is, apparently, mostly just evil in there. Bit grim.
+SET:animalbusters-006|N:3|ANS:Meerkat|CLUE:It's almost a cat, isn't it. Barely. Just look at the thing.
+SET:actorbusters-005|N:1|ANS:Sean Connery|CLUE:Right, Sean's gone and pulled a fast one on someone, and now he's just... doing it. Ongoing con.
+SET:actorbusters-005|N:2|ANS:Peter Sellers|CLUE:Peter's flogging stuff to people. All sorts. Bit of a market trader, Peter.
+SET:actorbusters-005|N:3|ANS:Alec Guinness|CLUE:There's a fella called Alec and he's just been handed a pint of that dark Irish stuff. Lucky Alec.
+SET:bandbusters-012|N:1|ANS:Adele|CLUE:A bloke called Del has gone and put a letter in front of his name. The first one. 'A-Dell.' That's what he's going by now.
+SET:bandbusters-012|N:2|ANS:Coldplay|CLUE:The swimming baths have gone below zero. Kids are still having a play in there. Parents are mental.
+SET:bandbusters-012|N:3|ANS:Blur|CLUE:Everything's gone a bit smudgy. Can't focus. The whole scene is fuzzy and indistinct. Just one word, this one.
+SET:brandbusters-018|N:1|ANS:Ikea|CLUE:There's a bloke called Ike. He's had a proper look at something. Examined it thoroughly. Had a real gander. Ike's done his research.
+SET:brandbusters-018|N:2|ANS:Skoda|CLUE:A bloke called Sko has only gone and knocked on someone's door. Turned up unannounced. There he is at the door.
+SET:brandbusters-018|N:3|ANS:Lacoste|CLUE:A bloke's put a price tag on something in France. Very deliberately. Gave it a cost, right there in France.
+SET:animalbusters-003|N:1|ANS:Flamingo|CLUE:Right, that thing's on fire, and it's gone somewhere. Just left. Walked off while burning.
+SET:animalbusters-003|N:2|ANS:Porcupine|CLUE:The pig meat's for you, that is. And there's a tree involved. Bit of a spread.
+SET:animalbusters-003|N:3|ANS:Giraffe|CLUE:That bloke Ralph, the one with the long neck, he's having a laugh, isn't he.
+SET:bandbusters-021|N:1|ANS:Nirvana|CLUE:You're almost touching that white transit thing. Nearly there, just a whisker off it.
+SET:bandbusters-021|N:2|ANS:Taylor Swift|CLUE:The fella who takes in your trousers is in a right hurry. Legs going like the clappers.
+SET:bandbusters-021|N:3|ANS:Drake|CLUE:That's a male duck, that is. Just a male duck. That's the whole thing.
+SET:bandbusters-022|N:1|ANS:Eminem|CLUE:Right, there's a letter of the alphabet, and it's gone inside another one, which happens to be the same letter. Bit weird.
+SET:bandbusters-022|N:2|ANS:Rihanna|CLUE:The back end of a woman called Anna. That's it. Near enough.
+SET:bandbusters-022|N:3|ANS:Kendrick Lamar|CLUE:Young Kenneth's pulled off a cheeky move, right, and now he's standing by the water going, yeah, that'll do.
+SET:bandbusters-023|N:1|ANS:Beyonce|CLUE:There's a bee, right, and it's just sitting on top of someone, and that someone's in the middle of saying something. Say it out loud.
+SET:bandbusters-023|N:2|ANS:Lady Gaga|CLUE:A woman's having a lie down, and a baby wanders over making that noise. You know the one. That sound babies make.
+SET:bandbusters-023|N:3|ANS:Michael Jackson|CLUE:That lad Michael's gone and put a car-lifting device underneath his youngest. Don't ask why.
+SET:bandbusters-024|N:1|ANS:ABBA|CLUE:Right, someone's got really solid stomach muscles, and then a sheep's wandered over making that noise sheep make. Odd combination.
+SET:bandbusters-024|N:2|ANS:Madonna|CLUE:Your mum's spotted a woman called Donna across the street and she's waving her over. That's all.
+SET:bandbusters-024|N:3|ANS:Fleetwood Mac|CLUE:The whole navy's turned up, they've brought a plank with them, and someone's chucked a raincoat over the lot of it.
+SET:bandbusters-025|N:1|ANS:Kanye West|CLUE:You've got an empty tin, and someone nearby's going yeah alright, and they're pointing off towards the setting sun. Sort of works.
+SET:bandbusters-025|N:2|ANS:Jay Z|CLUE:One of them little birds, a jay, it's perched itself right on top of the very last letter of the alphabet. Just sitting there.
+SET:bandbusters-025|N:3|ANS:Guns N Roses|CLUE:A load of weapons, and between them and the flowers there's just a little word holding it all together. Leave it.
+SET:bandbusters-026|N:1|ANS:Bruce Springsteen|CLUE:Someone's got a right nasty mark on their arm from a knock, right, and now they're somehow standing inside a big coiled metal thing. Looks uncomfortable.
+SET:bandbusters-026|N:2|ANS:Green Day|CLUE:The colour of grass. And then a day of the week. That's it.
+SET:bandbusters-026|N:3|ANS:Pearl Jam|CLUE:A round precious thing from an oyster has fallen into a pot of strawberry preserve. What a waste.
+SET:bandbusters-027|N:1|ANS:AC DC|CLUE:You're going through the alphabet, pick the first one, skip to the third, then the fourth, then back to the third again. Say them out one at a time.
+SET:bandbusters-027|N:2|ANS:Metallica|CLUE:Someone's bumped into a woman called Alice and before they could finish their sentence they were already off. Met her, started to say something, and gone.
+SET:bandbusters-027|N:3|ANS:Daft Punk|CLUE:He's a bit soft in the head, this lad, and he's well into that rebellious underground music. You'd have a word with him.
+SET:bandbusters-028|N:1|ANS:Eagles|CLUE:The fifth letter of the alphabet, right, and then a load of them screaming seaside birds. Put them together.
+SET:bandbusters-028|N:2|ANS:Metallica|CLUE:[CLUE NEEDS REWRITE] There's a noise coming from underneath where Gordon grows his veg. From right under the flowerbed.
+SET:bandbusters-028|N:3|ANS:Blink 182|CLUE:You've shut your eyes and opened them again, and when you do, someone's gone and written a hundred and eighty-two on the wall. No explanation.
+SET:bandbusters-029|N:1|ANS:Red Hot Chili Peppers|CLUE:Right, something's gone a vivid colour, it's piping hot, and it lives inside a spicy plant. That's your lot.
+SET:bandbusters-029|N:2|ANS:Foo Fighters|CLUE:A load of idiots, right, all having a massive ruck with each other. Loads of them. What are they like.
+SET:bandbusters-029|N:3|ANS:Led Zeppelin|CLUE:You've got the metal that old piping's made of, and it's right next to one of them massive sausage-shaped airships. Say it slow.
+SET:bandbusters-030|N:1|ANS:Pink Floyd|CLUE:There's a flower, right, and it's gone a sort of rosy colour. Just sitting on the wall. A pink one, with a fella's name.
+SET:bandbusters-030|N:2|ANS:U2|CLUE:The letter before V and the number after one. Easy one this.
+SET:bandbusters-030|N:3|ANS:Queen|CLUE:A load of people stood in a long line waiting for something, right, and then someone's added an N on the end. Don't overthink it.
+SET:bandbusters-031|N:1|ANS:Rolling Stones|CLUE:Right, you've got some large bits of rock, and they're moving. Getting some momentum going. Rolling about.
+SET:bandbusters-031|N:2|ANS:David Bowie|CLUE:Some fella called David's doing a little bow, like he's acknowledging applause. Leaning right forward and everything.
+SET:bandbusters-031|N:3|ANS:Oasis|CLUE:In the middle of all that desert, there's a little patch where the ground's wet and plants are growing. Bit of a relief for everyone.
+SET:bandbusters-032|N:1|ANS:Amy Winehouse|CLUE:There's a woman called Amy, right, and she lives in a building that's absolutely packed full of fermented grape stuff. Every room.
+SET:bandbusters-032|N:2|ANS:Bob Dylan|CLUE:Someone's done a little nod of the head, right, like they're agreeing with something. And the fella's name is Dylan.
+SET:bandbusters-032|N:3|ANS:Coldplay|CLUE:Someone's feeling a bit nippy. Not freezing, just a bit chilly. And they've gone for a bit of a play. That's all.
+SET:bandbusters-033|N:1|ANS:Radiohead|CLUE:There's a broadcast coming from inside someone's head. Their actual thoughts are being transmitted through the airwaves. Bit alarming.
+SET:bandbusters-033|N:2|ANS:Prince|CLUE:A member of the royal family. Not the top one, the next one down. That one.
+SET:bandbusters-033|N:3|ANS:The Beatles|CLUE:Right, the rhythm's crawled inside a little insect. The insect that's basically already named after them. Sort of works.
+SET:bandbusters-034|N:1|ANS:Nine Inch Nails|CLUE:The number before ten, and then a unit of measurement, and then what you bash into wood with a hammer. Three bits, say them together.
+SET:bandbusters-034|N:2|ANS:Depeche Mode|CLUE:Someone's sent a message, dispatched it, but the setting's all wrong. Wrong channel, wrong mode. It'll never get there.
+SET:bandbusters-034|N:3|ANS:Bob Marley|CLUE:There's a little nod, right, like when someone bobs their head, and the person doing it is called Marley. That's your lot.
+SET:bandbusters-035|N:1|ANS:Ed Sheeran|CLUE:A bloke called Ed. A woman ran off somewhere. Put them together and say it natural.
+SET:bandbusters-035|N:2|ANS:The Cure|CLUE:Something's been fixed. Treated properly until it's all better. All sorted out. That's the act.
+SET:bandbusters-035|N:3|ANS:Blur|CLUE:Everything's gone a bit soft and fuzzy around the edges. Like a photo where nothing's quite in focus. That.
+SET:bandbusters-036|N:1|ANS:Adele|CLUE:There's a small wooded hollow, right, and you're saying, oh, a small wooded hollow. A dell. Like that.
+SET:bandbusters-036|N:2|ANS:Justin Timberlake|CLUE:Right, you've only just managed to get inside a load of wood, and there's a big body of water right next to it all.
+SET:bandbusters-036|N:3|ANS:Shakira|CLUE:Someone's having a good shake for a long period of time. A whole era of shaking. Bit much, really.
+SET:bandbusters-037|N:1|ANS:Britney Spears|CLUE:A British person's knee, right, and there are some long pointy weapons sticking out of it. Bit grim.
+SET:bandbusters-037|N:2|ANS:Mick Jagger|CLUE:There's a fella called Mick, right, and he's got a jagged notch on him. Like something's taken a little bite out of the edge.
+SET:bandbusters-037|N:3|ANS:Katy Perry|CLUE:There's a woman called Katy and she's drinking something fizzy made from fermented pears. Very refined.
+SET:bandbusters-038|N:1|ANS:Whitney Houston|CLUE:That woman's leg joint has gone and got soaking wet, right, and she's from Texas. That's the whole clue.
+SET:bandbusters-038|N:2|ANS:Mariah Carey|CLUE:There's a woman called Maria, right, and she's carrying something heavy. Struggling a bit under the weight of it.
+SET:bandbusters-038|N:3|ANS:Justin Bieber|CLUE:You've only just managed to get inside something, and there's a beaver right there waiting. Don't ask.
+SET:bandbusters-039|N:1|ANS:Elton John|CLUE:There's a Spanish word for the word the, right, and then a heavy weight sitting on top of a name that means toilet. Say it slow.
+SET:bandbusters-039|N:2|ANS:Billy Joel|CLUE:You've got a bill, like an invoice, right, and there's a sound of satisfaction at the end of it. And a bloke. A fella. Kind of works.
+SET:bandbusters-039|N:3|ANS:Stevie Wonder|CLUE:There's a bloke called Steve, right, and he's genuinely amazed at something. Gobsmacked. Going, I wonder what that is.
+SET:bandbusters-040|N:1|ANS:Bruno Mars|CLUE:Right, there's a bloke called Bruno, and he's come from somewhere very far away to get to this point. Mars, near enough.
+SET:bandbusters-040|N:2|ANS:Sam Smith|CLUE:There's a fella called Sam, right, and he works metal. He's got his hammer and everything, going at the anvil.
+SET:bandbusters-040|N:3|ANS:Lorde|CLUE:A person with authority over other people. A proper title. Not a king or queen, but below that. One step down from royalty.
+SET:bookbusters-001|N:1|ANS:Harry Potter|CLUE:That fella's covered in fur, right, and he's sat there making things out of clay on a wheel. Bit odd.
+SET:bookbusters-001|N:2|ANS:Severus Snape|CLUE:You've got to cut clean through something, right, and there's a load of us involved. Then there's a reptile crossed with a primate at the end. Say it out loud.
+SET:bookbusters-001|N:3|ANS:Ron Weasley|CLUE:There's a bloke called Ron, alright, and he's acting all weasel-like. Sneaky. That sort of thing.
+SET:bookbusters-002|N:1|ANS:Albus Dumbledore|CLUE:Everyone got on the bus, didn't they. All of them. Every single one. Then they couldn't speak, could they, there was a bell, and someone left a door open. That's it.
+SET:bookbusters-002|N:2|ANS:Sherlock Holmes|CLUE:You're absolutely certain about this one. Lock it in. And the fella lives in a row of houses.
+SET:bookbusters-002|N:3|ANS:Doctor Watson|CLUE:Right, there's a short fella on a rocky hill. He's measuring electricity. And he's got a son. Bit specific, that.
+SET:bookbusters-003|N:1|ANS:Bilbo Baggins|CLUE:Someone's sent you an invoice, right, and there's a bloke doing a sort of archery pose. Then there's a bag. Then something's gone in. That's your lot.
+SET:bookbusters-003|N:2|ANS:Frodo Baggins|CLUE:There's a big afro hairstyle, and a female deer standing there. Then a bag. Then things have gone inside it. Near enough.
+SET:bookbusters-003|N:3|ANS:Gandalf|CLUE:Some fella called Alf, right, proper grand he is. Thinks very highly of himself. That's all.
+SET:bookbusters-006|N:1|ANS:Ebenezer Scrooge|CLUE:Right, there's a pond, and the water level's going down at the edge, yeah? It's on its knees. Then there's a bloke who's tight with money. You know the type.
+SET:bookbusters-006|N:2|ANS:Long John Silver|CLUE:Something's really lengthy, and there's a toilet, and it's made of precious metal. Say it out loud.
+SET:bookbusters-006|N:3|ANS:Captain Hook|CLUE:There's a hat, right, a cap. It's made of tin. And at the end someone's hung something bent on it. All makes sense when you say it.
+SET:bookbusters-007|N:1|ANS:Robinson Crusoe|CLUE:A robin's sitting there, alright. It's someone's son, the robin is. And there's a ship's crew nearby. And then someone just says 'so'. Alright? Leave it.
+SET:bookbusters-007|N:2|ANS:Hermione Granger|CLUE:There's a woman called Hermia, right, she's having a proper moan. Her knee's involved somehow. And at the end a farmer's wandered in.
+SET:bookbusters-007|N:3|ANS:Voldemort|CLUE:Some bloke's had a few too many, yeah. He's absolutely vole-faced. And there's a mort in there somewhere. Don't ask why. Bit dark.
+SET:bandbusters-041|N:1|ANS:Take That|CLUE:Right, someone's grabbing hold of something and pointing at it at the same time. That's all it is.
+SET:bandbusters-041|N:2|ANS:Boyzone|CLUE:Some lad's wandered into an area he's not allowed in. Got a sign and everything. Off you go, son.
+SET:bandbusters-041|N:3|ANS:Westlife|CLUE:The direction the sun sets, yeah? That's basically existence, that is. Think about it.
+SET:bandbusters-042|N:1|ANS:Spice Girls|CLUE:Those little jars in the rack, the ones that make your eyes water when you cook with them. But they're lasses.
+SET:bandbusters-042|N:2|ANS:Girls Aloud|CLUE:Some women, right, and they're not being quiet about it. Proper noisy lot.
+SET:bandbusters-042|N:3|ANS:All Saints|CLUE:Every single one of them holy people. The whole lot. Not one sinner among them.
+SET:bandbusters-043|N:1|ANS:Backstreet Boys|CLUE:The rear of a road. You know, round the back of a street. And there's some lads there as well.
+SET:bandbusters-043|N:2|ANS:New Kids on the Block|CLUE:Fresh young ones, right, and they're on top of a big wooden cube. Don't ask why, that's just where they are.
+SET:bandbusters-043|N:3|ANS:Five|CLUE:The number after four. That's it. Say it out loud. Near enough.
+SET:bandbusters-044|N:1|ANS:S Club 7|CLUE:Right, there's the letter at the end of the alphabet before T, then there's a place you go for a drink, then it's the number between six and eight. Sort of works.
+SET:bandbusters-044|N:2|ANS:Atomic Kitten|CLUE:One tiny little cat. Not a big cat. A very small one. Bit radioactive sounding, if anything.
+SET:bandbusters-044|N:3|ANS:Girls Aloud|CLUE:[CLUE NEEDS REWRITE] She's gone and put a spell on something. Got her pointed hat on. The whole business.
+SET:bandbusters-045|N:1|ANS:Sugababes|CLUE:Right, she's put loads of the white granulated stuff in her tea. The sweet one. Too much of it.
+SET:bandbusters-045|N:2|ANS:One Direction|CLUE:You've won something, right. And now someone's pointing you the way to go. Off you go. That direction.
+SET:bandbusters-045|N:3|ANS:The Wanted|CLUE:Law enforcement's got a poster up. Someone's done something wrong and they're after them. Bit dramatic.
+SET:bandbusters-046|N:1|ANS:Little Mix|CLUE:Something small, right, and it's been chucked in a blender with a load of other things. Bit of a muddle.
+SET:bandbusters-046|N:2|ANS:East 17|CLUE:The direction the sun comes up, and a number that's a teenager. That's your lot.
+SET:bandbusters-046|N:3|ANS:Five|CLUE:[CLUE NEEDS REWRITE] You've opened the cage, haven't you. And now whatever was in there has gone off running. Couldn't stop it.
+SET:bandbusters-047|N:1|ANS:N Sync|CLUE:Everything's perfectly timed. All together. Not one of them is out of step. Proper coordinated.
+SET:bandbusters-047|N:2|ANS:All Saints|CLUE:[CLUE NEEDS REWRITE] You listen to a thing, then you say a thing about it. Word gets around. That's gossip, that is.
+SET:bandbusters-047|N:3|ANS:Liberty X|CLUE:Freedom, right. Like you've been released. And then there's your old partner stood there looking a bit awkward.
+SET:bandbusters-048|N:1|ANS:Take That|CLUE:Someone's come along and picked something up. And then they've pointed at it as well. That's all they're doing.
+SET:bandbusters-048|N:2|ANS:Blue|CLUE:That colour, like the sky on a nice day. Or the sea. Sad, some people call it. Say it out loud. Easy one.
+SET:bandbusters-048|N:3|ANS:Westlife|CLUE:The part of the world where the sun disappears at the end of the day. And then the fact that you're alive. Put it together.
+SET:bandbusters-049|N:1|ANS:Boyzone|CLUE:He's a lad, right, and he's standing in one of them restricted areas. The ones with the cones.
+SET:bandbusters-049|N:2|ANS:Spice Girls|CLUE:The stuff in them little jars that make your curry taste nice. And then some women as well.
+SET:bandbusters-049|N:3|ANS:Atomic Kitten|CLUE:It's like nuclear, but it's also a tiny little cat that's not grown up yet. Bit of an odd combination.
+SET:bandbusters-050|N:1|ANS:New Kids on the Block|CLUE:Young ones, fresh out the box, stood on top of a large cube. Nobody's explained why.
+SET:bandbusters-050|N:2|ANS:East 17|CLUE:That way, towards where it gets light in the morning. And the age you are just before you turn eighteen.
+SET:bandbusters-050|N:3|ANS:Five|CLUE:One hand, all five fingers out. The number of them. That's your answer. Say it.
+SET:bandbusters-051|N:1|ANS:Girls Aloud|CLUE:A group of women being very vocal about things. Proper speaking their minds, they are.
+SET:bandbusters-051|N:2|ANS:Little Mix|CLUE:It's tiny, right, and it's all mixed up together. Could be a cake, could be a band. Could be both.
+SET:bandbusters-051|N:3|ANS:Sugababes|CLUE:The woman's made her cup of tea way too sweet. Proper loaded it up with the white stuff. That's her lot.
+SET:bandbusters-052|N:1|ANS:All Saints|CLUE:The complete set of them holy ones, every single blessed person. Not a sinner in the bunch.
+SET:bandbusters-052|N:2|ANS:Backstreet Boys|CLUE:It's the lane at the back of the houses, right, and there's a load of young lads hanging about. As they do.
+SET:bandbusters-052|N:3|ANS:The Wanted|CLUE:There's a poster on the wall with a face on it. Police want someone. They're after them. Reward and everything.
+SET:bandbusters-053|N:1|ANS:N Sync|CLUE:They're all moving at exactly the same time. In perfect rhythm. Not one of them is off. Clockwork.
+SET:bandbusters-053|N:2|ANS:One Direction|CLUE:You've finished first in a race, and now someone's pointing you down a road. That way, they're saying. Off you go.
+SET:bandbusters-053|N:3|ANS:Sugababes|CLUE:[CLUE NEEDS REWRITE] Someone's listened to a bit of news, then they've passed it on. It's going round. That's how these things spread.
+SET:bandbusters-054|N:1|ANS:Blue|CLUE:That colour, right, the one people say when they're feeling a bit down. Sky-coloured. The sea, maybe. Say it.
+SET:bandbusters-054|N:2|ANS:Liberty X|CLUE:She's free, isn't she. Proper independent. And then there's her old fella, her ex, just stood there.
+SET:bandbusters-054|N:3|ANS:Five|CLUE:[CLUE NEEDS REWRITE] Someone's undone the latch on the pen, and now that animal has gone running off into the field. Couldn't stop it.
+SET:bandbusters-055|N:1|ANS:Westlife|CLUE:That direction, the one where everything goes dark at the end of the day. And then you're alive, aren't you. That's your life.
+SET:bandbusters-055|N:2|ANS:Boyzone|CLUE:There's a young fella stood in one of them marked-off sections. The sort with the lines on the ground. Security's watching.
+SET:bandbusters-055|N:3|ANS:All Saints|CLUE:[CLUE NEEDS REWRITE] Something's had a hex put on it. Proper bewitched. Someone in a pointy hat's had a go at it.
+SET:bandbusters-056|N:1|ANS:S Club 7|CLUE:There's a letter, the one that looks like a curly snake. Then a place where you go for a drink with a jukebox. Then count up from six.
+SET:bandbusters-056|N:2|ANS:Take That|CLUE:You've grabbed something off a shelf. And you're pointing at it as well, for some reason. Both at once.
+SET:bandbusters-056|N:3|ANS:Spice Girls|CLUE:Them hot powders in the spice rack, all of them, and they've all turned into women somehow. Don't ask.
+SET:bandbusters-057|N:1|ANS:All Saints|CLUE:Right, every single one of them is a holy person. The lot of them. Not one bad egg among them. Every last one.
+SET:bandbusters-057|N:2|ANS:Girls Aloud|CLUE:Some women making themselves heard. Properly loud. You can hear them from the next room and all.
+SET:bandbusters-057|N:3|ANS:Sugababes|CLUE:Too much of the sweet white granules in that recipe. They've overdone it. Now everything tastes of sugar and babies apparently.
+SET:bandbusters-058|N:1|ANS:Little Mix|CLUE:Small thing. Tiny. And it's all jumbled up together with other things. Bit of everything. Sort of blended.
+SET:bandbusters-058|N:2|ANS:One Direction|CLUE:You came first, didn't you. Number one. And now they're pointing you off that way. Follow the signs.
+SET:bandbusters-058|N:3|ANS:East 17|CLUE:Go that way, towards the morning. And how old you are when you're nearly old enough to vote.
+SET:bandbusters-059|N:1|ANS:Backstreet Boys|CLUE:Round the back of them houses, the alley bit, and there's a load of lads standing about looking shifty.
+SET:bandbusters-059|N:2|ANS:The Wanted|CLUE:There's a notice gone up with a face on it. The police are after someone. Wanted, it says at the top. That's it.
+SET:bandbusters-059|N:3|ANS:Five|CLUE:One more than four. Fingers on one hand minus the thumb, if you want. Just say the number.
+SET:bandbusters-060|N:1|ANS:N Sync|CLUE:They're all doing it at exactly the same time. Perfect rhythm. Like they've rehearsed it loads. All in time.
+SET:bandbusters-060|N:2|ANS:Girls Aloud|CLUE:[CLUE NEEDS REWRITE] They've opened the gate, haven't they, and now whatever was penned in there is off across the field. Gone.
+SET:bandbusters-060|N:3|ANS:Atomic Kitten|CLUE:[CLUE NEEDS REWRITE] You've overheard something and now you're telling everyone about it. It's going round. That's what people do.
+SET:animalbusters-021|N:1|ANS:Blue Whale|CLUE:Right, there's a bloke called Will, and he's covered head to toe in blue paint. Don't know why. That's him.
+SET:animalbusters-021|N:2|ANS:Pelican|CLUE:That bloke with the big beak, right, he's got a massive bottom lip like a bucket. Keeps the shopping in there. Bit odd.
+SET:animalbusters-021|N:3|ANS:Octopus|CLUE:Eight arms, right, and it sounds like you've got eight of something. October's got eight in it somewhere. Sort of works.
+SET:animalbusters-022|N:1|ANS:Great White Shark|CLUE:Right, it's a really impressive ivory-coloured fella going for a swim. Top of his game. Genuinely brilliant at what he does.
+SET:animalbusters-022|N:2|ANS:Kingfisher|CLUE:That king - right proper monarch - he's gone fishing. Caught something too. Sat there on a branch looking well chuffed.
+SET:animalbusters-022|N:3|ANS:Flamingo|CLUE:Say this one out loud. A group of them are standing in a pond, all pink, doing nothing. Flamey sort of colour. Go on.
+SET:animalbusters-023|N:1|ANS:Hammerhead Shark|CLUE:A bloke's gone and balanced a tool for hitting nails on top of his head. Like a hat, but for DIY. Bit impractical.
+SET:animalbusters-023|N:2|ANS:Albatross|CLUE:Some fella called Al, right, he's gone completely across the ocean on his own. Massive wingspan. Just off. That's it.
+SET:animalbusters-023|N:3|ANS:Stingray|CLUE:[CLUE NEEDS REWRITE] Right, you know that sound a crow makes? That bird's been at the beach all day picking at things. Near enough.
+SET:animalbusters-024|N:1|ANS:Squid|CLUE:[CLUE NEEDS REWRITE] There's a bloke called Ray, right, and he's doing something incredible with his hands. Magical, like a proper showman. Bit flashy.
+SET:animalbusters-024|N:2|ANS:Peacock|CLUE:Me mate's gone and bought a bird for the living room. It's got proper colourful tail feathers and it's just showing off. All day.
+SET:animalbusters-024|N:3|ANS:Seagull|CLUE:[CLUE NEEDS REWRITE] Me nan's got a new candle. She says it smells lovely. Flowers and that. I dunno. It's just a bird in the end.
+SET:animalbusters-025|N:1|ANS:Sea Horse|CLUE:That little horse, right, it's gone vertical. Standing upright in the water, totally dignified about it. Sort of majestic.
+SET:animalbusters-025|N:2|ANS:Toucan|CLUE:Two-can. Like, you've got one tin but you need another. Two of them. That's your bird right there. Say it fast.
+SET:animalbusters-025|N:3|ANS:Jellyfish|CLUE:That jelly stuff from a jar, right, and a load of fish swimming about near it. Doesn't quite make sense but the sound does.
+SET:animalbusters-026|N:1|ANS:Bottlenose Dolphin|CLUE:Right, there's a bottle, yeah, and a fella's got his nose right in the end of it. Like he's sniffing it. That's your creature.
+SET:animalbusters-026|N:2|ANS:Hummingbird|CLUE:That tiny little bird, right, it hums. Not singing, just humming. Like it's heard a tune and can't quite remember the words.
+SET:animalbusters-026|N:3|ANS:Lobster|CLUE:Some fella called Rob, he's in the sea, and he's got enormous claws. Just sitting on the seabed looking menacing. Alright?
+SET:animalbusters-027|N:1|ANS:Squid|CLUE:That bloke who went squidging everything at the market - all soft and wobbly. Left ink everywhere. Nobody liked him.
+SET:animalbusters-027|N:2|ANS:Parrot|CLUE:A bird's gone and flown into some kind of cage or container - like a prison but for poultry. Bright colours. Talks back.
+SET:animalbusters-027|N:3|ANS:Puffin|CLUE:Right, it's a small black and white bird, lives up north in cold places, looks like it's dressed for work. Sort of smart but also silly.
+SET:animalbusters-028|N:1|ANS:Crab|CLUE:Easy this. Something's gone sideways - proper crabby about it too. Scuttling off in completely the wrong direction. That's them.
+SET:animalbusters-028|N:2|ANS:Macaw|CLUE:Right, there's a bird, and it's the most flashy tropical one you've ever seen. Sounds like it should be flying over the Amazon.
+SET:animalbusters-028|N:3|ANS:Oyster|CLUE:That mouth area in your shell, right - it's gone and made something valuable in there. All shiny. Takes ages apparently.
+SET:animalbusters-029|N:1|ANS:Great White Shark|CLUE:Massive thing in the ocean, right, and it's truly outstanding at its job. White as anything. Not to be messed with.
+SET:animalbusters-029|N:2|ANS:Pigeon|CLUE:Me gran's got a bird in her garden. It keeps turning up, very reliable, making that same cooing sound over and over. Devotion.
+SET:animalbusters-029|N:3|ANS:Albatross|CLUE:That famous fella from a film, Al, he's crossing something - maybe the road, maybe the sea. Big wingspan, very determined.
+SET:animalbusters-030|N:1|ANS:Squid|CLUE:Right, something's been squeezed - all the ink's come out and it's made a right mess. Eight arms, probably.
+SET:animalbusters-030|N:2|ANS:Sea Horse|CLUE:The ocean's got a small horse in it, swimming upright, not making a fuss. Just getting on with it. Sort of admirable.
+SET:animalbusters-030|N:3|ANS:Kingfisher|CLUE:Alright, the king of this establishment has gone fishing. Caught one an' all. Sitting by the river looking very pleased.
+SET:animalbusters-031|N:1|ANS:Swordfish|CLUE:[CLUE NEEDS REWRITE] Some magician fella called Ray is doing tricks under the sea. Big flat hands, very dramatic about it all.
+SET:animalbusters-031|N:2|ANS:Parrot|CLUE:Two birds have got themselves into a proper fight - a real scrap. One of 'em started it, the other's just reacting.
+SET:animalbusters-031|N:3|ANS:Bottlenose Dolphin|CLUE:There's a glass container, right, and its nose end is all pointy. It's leapt out of the water looking very pleased with itself.
+SET:animalbusters-032|N:1|ANS:Hummingbird|CLUE:Tiny little thing, it's making a noise but not a proper tune. Just a sort of vibrating hum while it works. Never stops.
+SET:animalbusters-032|N:2|ANS:Jellyfish|CLUE:That wobbly transparent thing in the water, right, it drifts. Doesn't go anywhere in particular. Just floating about. Good for nothing.
+SET:animalbusters-032|N:3|ANS:Penguin|CLUE:[CLUE NEEDS REWRITE] Right, some bloke's been well grumpy all day - couldn't find his keys, train was late, all of that. Sideways personality on him.
+SET:animalbusters-033|N:1|ANS:Octopus|CLUE:Right, there's eight of these things, all arms, sitting in a pot. Sounds like a number from Latin, and the pot's important.
+SET:animalbusters-033|N:2|ANS:Flamingo|CLUE:That bird, right, it's standing in shallow water on one leg, looking pink and dramatic. Very flashy. Like it's on the telly.
+SET:animalbusters-033|N:3|ANS:Seagull|CLUE:[CLUE NEEDS REWRITE] That seabird at the coast, mate - it'll eat your chips if you're not quick. Absolute gannet. There's a clue in that somewhere.
+SET:animalbusters-034|N:1|ANS:Puffin|CLUE:Right, a small lad's gone up to the Arctic. Cold, black and white, looks like it's wearing a tiny suit. Very formal for a bird.
+SET:animalbusters-034|N:2|ANS:Lobster|CLUE:Some fella's lobbed something into the sea - just launched it in there. It's got massive claws and it's boiling hot now.
+SET:animalbusters-034|N:3|ANS:Toucan|CLUE:Two tins of something. You've got one and I've got one. That's two cans. That's your colourful tropical bird sorted.
+SET:animalbusters-035|N:1|ANS:Hammerhead Shark|CLUE:That DIY tool for bashing nails - it's got a giant version of itself on top of its own head. Bit weird, but there it is.
+SET:animalbusters-035|N:2|ANS:Peacock|CLUE:That king of the garden birds, right, massive tail, all fanned out, well pleased with himself. Showing off at a wedding.
+SET:animalbusters-035|N:3|ANS:Oyster|CLUE:She's got a pearl inside her, sitting on the sea floor, very pleased about it. Fancy restaurant territory, this one.
+SET:animalbusters-036|N:1|ANS:Blue Whale|CLUE:The biggest thing in the ocean, and it's absolutely freezing - made of cold colour, just massive and slow. Drifting about.
+SET:animalbusters-036|N:2|ANS:Macaw|CLUE:A crow's gone to the shops - said its mum needed something. Makes a cawing sound, tropical colours, lives in the rainforest.
+SET:animalbusters-036|N:3|ANS:Crab|CLUE:There's a bloke, right, and he's gone sideways. Not fallen over, just moving sideways on purpose. Bit stubborn about it.
+SET:animalbusters-037|N:1|ANS:Albatross|CLUE:Right, long journey over the ocean, big wingspan, never seems to land. Al's gone off again. Said he'd be back by Thursday.
+SET:animalbusters-037|N:2|ANS:Squid|CLUE:Someone at the fishmonger's squashed everything in that tray. Ink everywhere. Eight arms worth. Took ages to clean up.
+SET:animalbusters-037|N:3|ANS:Pelican|CLUE:Big pouchy beak, stands by the water, catches fish in that bag under its chin. Bit smug about the whole operation.
+SET:animalbusters-038|N:1|ANS:Sea Horse|CLUE:The ocean's got a horse in it again. Upright, vertical, just swimming about with its snout in the current. Normal Tuesday.
+SET:animalbusters-038|N:2|ANS:Hummingbird|CLUE:Smallest bird you'll find, right, and it's just vibrating. Wings going so fast you can't see them. Makes a noise like an engine warming up.
+SET:animalbusters-038|N:3|ANS:Great White Shark|CLUE:It's phenomenal, this thing. Totally white, absolutely massive, best in the sea at what it does. Don't go in the water.
+SET:animalbusters-039|N:1|ANS:Octopus|CLUE:All eight of its arms are reaching into a cooking pot. Sounds like a Roman number at the start. Say it out loud.
+SET:animalbusters-039|N:2|ANS:Parrot|CLUE:That colourful thing in the cage, right, keeps repeating everything you say back at you. Par for the course with those birds.
+SET:animalbusters-039|N:3|ANS:Puffin|CLUE:[CLUE NEEDS REWRITE] There's a bird that dives into the sea and comes up with fish. Goes all black and sleek. Spreads its wings out to dry after. Fair enough.
+SET:animalbusters-040|N:1|ANS:Flamingo|CLUE:Right, that pink tropical bird standing on one leg in a lagoon - it's the colour of a sunset and looks like it's modelling. Dramatic about it.
+SET:animalbusters-040|N:2|ANS:Jellyfish|CLUE:Wobbly. Transparent. Drifting. Stings you if you're unlucky. Not quite a fish, not quite anything. Just sort of there in the water.
+SET:animalbusters-040|N:3|ANS:Bottlenose Dolphin|CLUE:Last one. A glass container's been given a very long pointy nose. It's jumped out of the sea doing tricks and everyone clapped.
+SET:artbusters-001|N:1|ANS:Mona Lisa|CLUE:There's a woman, right, and she won't stop complaining. Going on and on. And the bloke next to her hires things out for a living. Say it out loud.
+SET:artbusters-001|N:2|ANS:Starry Night|CLUE:That fella up in outer space, he's taken up knitting. Sitting there with his needles. No idea why.
+SET:artbusters-001|N:3|ANS:The Scream|CLUE:Someone's just had a proper shock. Gone bright red and let out a massive yell. That's what they did. That's all.
+SET:artbusters-002|N:1|ANS:Guernica|CLUE:Right, she's pulling the most horrible face you've ever seen. And she's wearing some underwear. Just standing there doing it.
+SET:artbusters-002|N:2|ANS:Sunflowers|CLUE:Your boy's only gone and turned himself into a big yellow plant. Don't know how. Standing in the garden looking at you.
+SET:artbusters-002|N:3|ANS:Water Lilies|CLUE:There's a woman called Lil who's got a growth on her finger. She's not that bothered about it actually. Just getting on with things.
+SET:artbusters-003|N:1|ANS:Girl with a Pearl Earring|CLUE:A woman with a very small round hat has got a gemstone stuck to her ear. Posh. She's from Holland, sort of.
+SET:artbusters-003|N:2|ANS:The Birth of Venus|CLUE:Right, that planet named after a goddess - the one next to us - it's arrived. Just shown up. Out of a shell, apparently.
+SET:artbusters-003|N:3|ANS:The Last Supper|CLUE:That meal they had before things went a bit wrong - the one with all them blokes round a long table - it was the final one. Near enough.
+SET:businessbusters-001|N:1|ANS:Richard Branson|CLUE:A very wealthy man, very firm about everything, is eating breakfast cereal with his young lad. Just the two of them. Sat there.
+SET:businessbusters-001|N:2|ANS:Jeff Bezos|CLUE:A man called Jeff's only gone and put a load of bees on something. Just left them there. The bees are very settled.
+SET:businessbusters-001|N:3|ANS:Bill Gates|CLUE:Someone's come to collect payment for something and they've ended up at an entrance. Just standing by the gate with an invoice.
+SET:businessbusters-002|N:1|ANS:Alan Sugar|CLUE:Right, there's a fella called Al, and he's only gone and got himself completely covered in sweetener. Head to toe. Not sure how.
+SET:businessbusters-002|N:2|ANS:Elon Musk|CLUE:There's an eel, right, and it's sitting on a bottle of men's cologne. Just perched there. Smells nice apparently.
+SET:businessbusters-002|N:3|ANS:Steve Jobs|CLUE:A fella called Steve has got about four different occupations on the go. Doing all of them at once. Very busy man.
+SET:businessbusters-009|N:1|ANS:Richard Branson|CLUE:He's got a lot of money, this fella, and he's quite tough about it. And he's eating his morning cereal with his boy. That's the scene.
+SET:businessbusters-009|N:2|ANS:Bill Gates|CLUE:The invoice has turned up at the garden gate. Just sitting there. Someone's going to have to pay it.
+SET:businessbusters-009|N:3|ANS:Jeff Bezos|CLUE:Right, Jeff's gone and brought a load of bees. They're buzzing around something. I don't know what he expected to happen.
+SET:businessbusters-010|N:1|ANS:Elon Musk|CLUE:There's an elongated wriggly fish and it's on top of something that smells very woody and musky. Just sitting on it.
+SET:businessbusters-010|N:2|ANS:Alan Sugar|CLUE:A fella called Al has got his name down for something, and then he's fallen headfirst into a bowl of the sweet white stuff.
+SET:businessbusters-010|N:3|ANS:Mark Zuckerberg|CLUE:There's a scratch on something, and the person who made it was really going to town on an ice lolly. Cold thing. Big one.
+SET:businessbusters-011|N:1|ANS:Warren Buffett|CLUE:A rabbit's underground network is full of a tenant who's been vigorously polishing things. Everything's gleaming in there.
+SET:businessbusters-011|N:2|ANS:Oprah Winfrey|CLUE:Someone's gone oh, and then they've done a sort of prayer sound, and then they've had a massive win and walked out the door without paying for anything.
+SET:businessbusters-011|N:3|ANS:Steve Jobs|CLUE:There's a man called Steve and he's taken on about six different lines of work. All at the same time. Keeps himself busy.
+SET:2020stvbusters-001|N:1|ANS:Squid Game|CLUE:That bloke who squeezes things for a living, runs a little stall. Rhymes with fluid game.
+SET:2020stvbusters-001|N:2|ANS:Succession|CLUE:When you take over from someone else at work and follow them up the stairs, that's what you've done to their job.
+SET:2020stvbusters-001|N:3|ANS:Ted Lasso|CLUE:A cup of that hot brown stuff you drink, but it's gone all relaxed and put its feet up.
+SET:2020stvbusters-002|N:1|ANS:White Lotus|CLUE:That woman over there has gone all pale and porcelain. Standing on a small wall.
+SET:2020stvbusters-002|N:2|ANS:Bridgerton|CLUE:A small bridge, but it's been given a fancy title and thinks it's better than the others.
+SET:2020stvbusters-002|N:3|ANS:Euphoria|CLUE:That Greek goddess of the dawn has gone a bit dizzy and started spinning round.
+SET:2020stvbusters-003|N:1|ANS:House of the Dragon|CLUE:A place where you sleep, made entirely of fire-breathing lizards. Bit of a fire hazard.
+SET:2020stvbusters-003|N:2|ANS:Severance|CLUE:That bloke's gone a bit serious and cut himself off from the rest of the office. Bit aloof.
+SET:2020stvbusters-003|N:3|ANS:The Bear|CLUE:A grizzly animal that works in a kitchen. Very intense about its sandwiches.
+SET:2020stvbusters-004|N:1|ANS:The Traitors|CLUE:Those people who try to catch you out, bunch of them, aren't trustworthy. Keep betraying each other.
+SET:2020stvbusters-004|N:2|ANS:Wednesday|CLUE:That day in the middle of the week has gone a bit spooky and started wearing all black.
+SET:2020stvbusters-004|N:3|ANS:The Last of Us|CLUE:That definite article, followed by a word for the end of something, then the word for a female sheep.
+SET:2020stvbusters-005|N:1|ANS:Beef|CLUE:Two bits of steak, sat next to each other. Just hanging about. Not doing much.
+SET:2020stvbusters-005|N:2|ANS:Heartstopper|CLUE:That thing that keeps your chest warm, gone all romantic and started holding hands with someone.
+SET:2020stvbusters-005|N:3|ANS:Abbott Elementary|CLUE:That primary school in America, all the teachers are basically just winging it.
+SET:2020spopbusters-001|N:1|ANS:Harry Styles|CLUE:A bloke's hair, but it's gone all fashionable and started wearing a feather boa.
+SET:2020spopbusters-001|N:2|ANS:Dua Lipa|CLUE:That locked entrance to a place, it's gone all musical and started dancing about.
+SET:2020spopbusters-001|N:3|ANS:Billie Eilish|CLUE:A small invoice, but it's gone all mysterious and started whispering into microphones.
+SET:2020spopbusters-002|N:1|ANS:Olivia Rodrigo|CLUE:A green oil from Spanish trees, but it's from the other side of the world and writes sad songs.
+SET:2020spopbusters-002|N:2|ANS:Stormzy|CLUE:That thing you stir a drink with, gone all fierce and started making grime tracks.
+SET:2020spopbusters-002|N:3|ANS:Lewis Capaldi|CLUE:A bloke from Scotland who sounds like he's been crying into his own songs for years.
+SET:2020spopbusters-003|N:1|ANS:Bad Bunny|CLUE:A bad rabbit, mischievous little thing. Won't stop making music about it.
+SET:2020spopbusters-003|N:2|ANS:Post Malone|CLUE:A bloke delivering letters who's gone a bit melancholy and started rapping about it.
+SET:2020spopbusters-003|N:3|ANS:Lizzo|CLUE:A city in Italy, but it's gone big and started belting out pop songs.
+SET:2020spopbusters-004|N:1|ANS:Doja Cat|CLUE:That female dog from Japan, gone all colourful and started releasing bangers.
+SET:2020spopbusters-004|N:2|ANS:Wet Leg|CLUE:A damp piece of wood that's got all wobbly and started playing indie music.
+SET:2020spopbusters-004|N:3|ANS:Sam Fender|CLUE:A bloke from Newcastle who gets emotional about his surroundings and writes songs about them.
+SET:2020spopbusters-005|N:1|ANS:Lana Del Rey|CLUE:A woman called Lana who lives by a river and writes very long, sad songs about it.
+SET:2020spopbusters-005|N:2|ANS:The Weeknd|CLUE:That seven days, gone all moody and started making R&B records.
+SET:2020spopbusters-005|N:3|ANS:Ice Spice|CLUE:A beam of sunshine, proper ray of light, has gone all Spanish and decided it's royalty. Very sad about the whole thing.
+SET:actressbusters-001|N:1|ANS:Margot Robbie|CLUE:A large female deer, gone all glamorous and started producing films about dolls.
+SET:actressbusters-001|N:2|ANS:Florence Pugh|CLUE:A small, rounded cushion, gone all fierce and started appearing in Marvel films.
+SET:actressbusters-001|N:3|ANS:Zendaya|CLUE:A small piece of energy, gone all tall and started taking over Spider-Man films.
+SET:actressbusters-002|N:1|ANS:Emma Stone|CLUE:A rock, gone all precious and started winning Oscars left, right, and centre.
+SET:actressbusters-002|N:2|ANS:Saoirse Ronan|CLUE:That Irish female sheep, gone all serious and started making very good films.
+SET:actressbusters-002|N:3|ANS:Anya Taylor-Joy|CLUE:Any female deer, gone all otherworldly and started playing chess in a period drama.
+SET:actressbusters-003|N:1|ANS:Ana de Armas|CLUE:A small channel for water, gone all mysterious and started appearing in Bond films.
+SET:actressbusters-003|N:2|ANS:Carey Mulligan|CLUE:A female relative, gone all proper and started appearing in serious British dramas.
+SET:actressbusters-003|N:3|ANS:Daisy Ridley|CLUE:A puzzle, gone all galactic and started wielding a lightsabre.
+SET:actressbusters-004|N:1|ANS:Viola Davis|CLUE:The law's been applied very strictly to someone's rental situation, a young woman called Jenny's taken full advantage of it.
+SET:actressbusters-004|N:2|ANS:Lupita Nyong'o|CLUE:A small wolf pup, gone all Kenyan and started winning Oscars.
+SET:actressbusters-004|N:3|ANS:Jennifer Lawrence|CLUE:A bloke called Jen, gone all enthusiastic about films involving districts and hunger.
+SET:actressbusters-005|N:1|ANS:Cate Blanchett|CLUE:A white cliff, gone all elegant and started winning every award going.
+SET:actressbusters-005|N:2|ANS:Michelle Yeoh|CLUE:An Asian year, gone all martial and started kicking things impressively.
+SET:actressbusters-005|N:3|ANS:Sydney Sweeney|CLUE:A female pig that swims, gone all Hollywood and started starring in very popular series.

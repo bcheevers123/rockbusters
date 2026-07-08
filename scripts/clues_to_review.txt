@@ -1,0 +1,927 @@
+=== cyberbusters-002 ===
+  [1] ANS: Malware
+      CLUE: Something has viciously attacked a bloke who was just stood there in his best outfit. Completely unprovoked. He's still wearing it, to be fair.
+  [2] ANS: Dark Web
+      CLUE: A spider has gone somewhere it really shouldn't. Very dim in there. It's not coming back out and it won't say what it found.
+  [3] ANS: Two Factor
+      CLUE: A pair of things, just two of them, have been to a factory and come out having multiplied. There were two going in and considerably more coming out.
+
+=== countrybusters-018 ===
+  [1] ANS: Malawi
+      CLUE: Your mum's gone all legal. Very firm on the law, she is, and she's agreeing with absolutely everything.
+  [2] ANS: Namibia
+      CLUE: Something you say firmly when you mean it, the opposite of yes, and a small buzzing creature has got itself mixed up in the whole thing. Going ooh about it.
+  [3] ANS: Rwanda
+      CLUE: That wandering woman, always off somewhere, but she always puts the letter R at the front of her name. On everything.
+
+=== festivalbusters-003 ===
+  [1] ANS: Edinburgh Fringe
+      CLUE: A lad called Ed has gone inside somewhere and he keeps appearing at the edge of things. Not quite in the main bit. Just around the fringes. He's at the periphery but he seems alright about it.
+  [2] ANS: Reading Festival
+      CLUE: A small silly noise has been made by someone's dad in a very casual way near a toilet abroad. He seems very relaxed. Nobody knows quite what he said. He said it confidently though.
+  [3] ANS: Fuji Rock
+      CLUE: A famous Japanese mountain has been having a bit of a moment with some very loud music. The mountain itself isn't playing. It's just standing there being volcanic while bands do their thing nearby.
+
+=== drinkbusters-004 ===
+  [1] ANS: Becks
+      CLUE: That lad from Germany, right, he's trying to tell you something but you're not listening. He keeps trying.
+  [2] ANS: Fosters
+      CLUE: Right, you've got four of something, each one slightly more annoying than the last. Someone's been breeding them.
+  [3] ANS: Irn Bru
+      CLUE: That Scottish bloke's got a metal bar where his eyebrow is. Bit alarming really.
+
+=== dinosaurbusters-003 ===
+  [1] ANS: Diplodocus
+      CLUE: Someone's dipped into something quite heavy, a real load of it, and then there's a bloke swearing at the end of the whole business. Very undignified situation.
+  [2] ANS: Iguanodon
+      CLUE: A lizard's been on a long journey and at the end of it he's met a bloke called Don. The lizard hasn't said much. Don's been doing all the talking.
+  [3] ANS: Archaeopteryx
+      CLUE: A bloke called Archie has gone off on a boat, a proper biblical one, and then he's chosen something, but it all ends very suddenly with a sharp sound. Archie seems pleased.
+
+=== currencybusters-003 ===
+  [1] ANS: Guilder
+      CLUE: A fish has got breathing equipment fitted on its side and someone from Bavaria has pointed at it going 'der'. Like they're explaining something obvious.
+  [2] ANS: Peseta
+      CLUE: A small animal, a cat or a dog, something like that, has said something out loud and then thanked you for listening. Very polite.
+  [3] ANS: Lira
+      CLUE: A person who makes things up, can't help themselves, just says whatever suits them, has gone and done it again. No surprise there.
+
+=== dancebusters-002 ===
+  [1] ANS: Tango
+      CLUE: Someone's been sat in the sun for a bit too long and now they need to get moving. Got a bit of colour. Time to leave.
+  [2] ANS: Samba
+      CLUE: There's a bloke called Sam and he's doing an impression of a sheep. Not a great one. Very short. Just the one noise.
+  [3] ANS: Bolero
+      CLUE: Right, someone at the cricket's doing the thing where they send the ball down the pitch. Nice and round, the arm. Doing it properly.
+
+=== disasterbusters-002 ===
+  [1] ANS: Chernobyl
+      CLUE: A woman called Cheryl has gone to a place in the Ukraine. She's had a good look round. She's bought a postcard. She's not been able to post it because the post office has been shut for about forty years.
+  [2] ANS: Titanic
+      CLUE: A big lad called Titus has been on a boat. He said it was unsinkable. His mate Ian said that was tempting fate. Titus said it'd be fine. It wasn't fine.
+  [3] ANS: Columbia
+      CLUE: A fella called Colin has gone on a trip to South America. Not on a plane. In a rocket. Everyone watching said it'd go fine. Colin said it'd go fine. It didn't go fine. There's a river named after the place he was heading.
+
+=== elementsbusters-002 ===
+  [1] ANS: Manganese
+      CLUE: A bloke from Manchester called Stan has gone missing during a mango-eating competition. Nobody's too bothered. His brother says it happens every summer.
+  [2] ANS: Californium
+      CLUE: A woman from California has gone to a forum. Not online. An actual forum. Like the Romans had. She's asked a question and everyone's having a proper debate about it.
+  [3] ANS: Potassium
+      CLUE: Someone's potted a plant and it's done well. Really well. Suspiciously well. The neighbours are a bit jealous about it. They've been asking what he put in the soil and he's not telling.
+
+=== filmbusters-018 ===
+  [1] ANS: The Mask
+      CLUE: There's a face covering, right, and it belongs to someone specific. That's your clue.
+  [2] ANS: Grease
+      CLUE: The cooking fat's gone all runny because it warmed up. Left it on the hob too long.
+  [3] ANS: Rocky
+      CLUE: The path up to the house is absolutely covered in stones. Not maintained at all.
+
+=== cyberbusters-003 ===
+  [1] ANS: Trojan Horse
+      CLUE: A bloke called John, definitely from Troy, he's been very clear about that, has turned up on a horse. He won't say what's inside it.
+  [2] ANS: Zero Day
+      CLUE: Nothing has happened today. Absolutely nothing. Someone's kept a record of it. Full log. Completely empty.
+  [3] ANS: SQL Injection
+      CLUE: A film came out, a sequel to a previous one, and it went straight to the doctor for a jab. Didn't even wait for the reviews.
+
+=== countrybusters-020 ===
+  [1] ANS: Philippines
+      CLUE: Right, that Phili has gone and got himself a pine. A tall tree. Phili-pine. And there's more than one. Phili-pines. Plural and everything.
+  [2] ANS: Indonesia
+      CLUE: That bloke Indone has gone and found himself something. Classic. He seems very happy with it.
+  [3] ANS: Malaysia
+      CLUE: Your mum's gone completely flat out, just lying there, and there's a small island next to her.
+
+=== culturebusters-010 ===
+  [1] ANS: Michelangelo
+      CLUE: Someone's gone and put a microphone in the middle of an angel. Wedged it right in.
+  [2] ANS: Vincent van Gogh
+      CLUE: The wine bottle got sent off in a vehicle and it drove away. Gone now.
+  [3] ANS: Salvador Dali
+      CLUE: There's a soothing cream on the door and someone applies it to the door every single day without fail.
+
+=== festivalbusters-002 ===
+  [1] ANS: Mardi Gras
+      CLUE: A soft lad in New Orleans has been a bit of a snitch. He's gone and told on someone. The French blokes nearby are not impressed but they've still got their beads out.
+  [2] ANS: Burning Man
+      CLUE: There's a fella in the Nevada desert who's clearly on fire. He's a bloke. He's been on fire for a while now. Everyone around him seems to think this is part of the event.
+  [3] ANS: Notting Hill Carnival
+      CLUE: A piece of land has been promised to someone but not until the next day. Then the day after that. It keeps getting pushed back. The land itself seems quite optimistic about it.
+
+=== drinkbusters-018 ===
+  [1] ANS: Kronenbourg
+      CLUE: Right, there's a town in France, and all the people there, every single one of them, has got a crown on. Proper fancy.
+  [2] ANS: Budweiser
+      CLUE: Budgie's mate reckons he knows best. Proper clever, he thinks. Always got the answer to everything, has this bloke.
+  [3] ANS: Shandy Bass
+      CLUE: Half beer, half lemonade, and it's got a name. Not a famous name. Just a name. Bass, as it goes.
+
+=== dinosaurbusters-001 ===
+  [1] ANS: Stegosaurus
+      CLUE: A bloke called Steg has gone and hurt himself, something to do with his back plates apparently, and now he's really sore about the whole thing. We all are.
+  [2] ANS: Velociraptor
+      CLUE: Someone's been moving very fast, almost at top speed, and then they've gone and done a bit of wrapping on someone. In a tropical setting. Very quick. Very violent.
+  [3] ANS: Pterodactyl
+      CLUE: A fella has absolutely terrified everyone and now he's doing a backwards cycling motion with his fingers. Nobody knows what he wants. He's still frightening though.
+
+=== currencybusters-002 ===
+  [1] ANS: Drachma
+      CLUE: Someone's mum has been grabbed and forcibly pulled along a corridor. She's not happy about it and she's made that very clear.
+  [2] ANS: Krona
+      CLUE: A large black bird has turned up at a Scandinavian door and said something dismissive. Just one syllable. Then it left.
+  [3] ANS: Florin
+      CLUE: Water's been moving through a pipe somewhere and someone's left a piece of jewellery right in the middle of it. Not ideal plumbing.
+
+=== dancebusters-003 ===
+  [1] ANS: Flamenco
+      CLUE: There's a fire - proper burning thing - and it's gone and set up a limited company. Filed the paperwork and everything. Trading now.
+  [2] ANS: Cha Cha
+      CLUE: Right, you know when you're in a cafe and someone keeps asking for another brew. Said it twice now. Very insistent about the tea.
+  [3] ANS: Bhangra
+      CLUE: Someone's decided to put a stop to their nan coming round. Official notice. She's not allowed over on Tuesdays anymore.
+
+=== disasterbusters-001 ===
+  [1] ANS: Pompeii
+      CLUE: A bloke called Pom has gone on holiday to Italy. He's found a lovely little cafe near a ruin. He's ordered something he can't pronounce. The waiter's not impressed but he's brought it out anyway.
+  [2] ANS: Krakatoa
+      CLUE: There's a volcano somewhere warm. A cracker has gone off and woken everyone up on a nearby island. They're not best pleased. The noise went right across the sea. People on the next island heard it and thought it was a kettle.
+  [3] ANS: Hiroshima
+      CLUE: A fella called Hiro has been to a shima, that's a Japanese island, and he's asked someone what it means. They've told him it means island. He's written it down and come back and shown everyone but nobody cares.
+
+=== elementsbusters-001 ===
+  [1] ANS: Phosphorus
+      CLUE: A bloke called Ross has been given a job moving heavy things around a factory. He's got a van. He's picking stuff up. The foreman keeps phoning asking where the deliveries are.
+  [2] ANS: Magnesium
+      CLUE: A woman called Maggie has been told her knees are in a bad way. The doctor has had a look. He's not thrilled. Said she's been overdoing it on some kind of machine.
+  [3] ANS: Fluorine
+      CLUE: A woman called Flo has gone in and had a look at a drain. She's not happy with what she found in there. She's reporting it back but nobody's listening properly.
+
+=== cyberbusters-001 ===
+  [1] ANS: Phishing
+      CLUE: A fish has taken up a hobby. Not swimming. Something else. A leisure activity. It's casting a line, which is ironic, but that's what it's doing.
+  [2] ANS: Ransomware
+      CLUE: A bloke has done a quick sprint, then stopped to do a bit of arithmetic, then put on a coat. All three things. In that order. Nobody knows why.
+  [3] ANS: Firewall
+      CLUE: There's been a bit of a blaze and it's hit a load of bricks. The bricks are fine. They're not bothered. The fire is out now.
+
+=== countrybusters-017 ===
+  [1] ANS: Kazakhstan
+      CLUE: That silk thing men wear round their collar, the proper neckwear, has gone tropical and found itself a country to sit on.
+  [2] ANS: Uzbekistan
+      CLUE: That bloke Uzbek, he's found a Stan as well. Uzbek's Stan. Different Stan to the last one, mind.
+  [3] ANS: Thailand
+      CLUE: Right, Thai. Like the neckwear. And then land. The neckwear's found a land. Thai-land. There you go.
+
+=== festivalbusters-001 ===
+  [1] ANS: Glastonbury
+      CLUE: A woman's gone to visit her nan but she's carrying a very heavy drinking vessel and she keeps stopping to put it down in the road. She's buried it now apparently. Just left it there.
+  [2] ANS: Carnival Rio
+      CLUE: A sports instructor has taken a shine to a woman called Ella. He's not being weird about it. He's just her coach. She keeps turning up to training and he's going, right, Ella, again.
+  [3] ANS: Oktoberfest
+      CLUE: Someone's been celebrating the tenth month a bit too enthusiastically. They've organised a party in a tent and it's got a bit out of hand. There's a lot of beer. It is a celebration, which is a kind of fest.
+
+=== drinkbusters-002 ===
+  [1] ANS: Stella Artois
+      CLUE: Right, a proper fancy star, not a normal one, it's twirling around near some paintings and sculptures. Very cultured.
+  [2] ANS: Peroni
+      CLUE: That bloke's got a tiny little horse-drawn cart and he's been riding it round Italy all day. Bit odd, really.
+  [3] ANS: Ribena
+      CLUE: That lady's been lying on the ground so long she's sort of become part of the garden. Near enough.
+
+=== dinosaurbusters-002 ===
+  [1] ANS: Triceratops
+      CLUE: Someone's having a go at something, a real proper attempt, three times if necessary, and Sarah keeps turning up with hats on. Just loads of hats. Three of them on her head.
+  [2] ANS: Ankylosaurus
+      CLUE: Someone's twisted their ankle and they're really sore about it and they want all of us to know that. Not just them. Us as well. The ankle is central to this story.
+  [3] ANS: Brachiosaurus
+      CLUE: A donkey's made a noise, proper loud bray, while holding a key, and then something sore has come up involving the lot of us. It's been a long afternoon.
+
+=== currencybusters-001 ===
+  [1] ANS: Zloty
+      CLUE: Someone's put a very small amount of tea into a narrow opening and it just about fitted.
+  [2] ANS: Rupiah
+      CLUE: A kangaroo has gone to the facilities. Urgently. The sound it made when it got there said it all.
+  [3] ANS: Dirham
+      CLUE: A large stag has moved to a small village in west London that's got a funny old name. Very specific postcode.
+
+=== dancebusters-001 ===
+  [1] ANS: Foxtrot
+      CLUE: That animal with the bushy tail - the one that gets into the bins - has gone for a little jog. Not a sprint. Just a relaxed trot.
+  [2] ANS: Quickstep
+      CLUE: Right, someone's moving very fast - but it's one foot at a time. Not rushing exactly, just not hanging about. Each foot landing in turn.
+  [3] ANS: Waltz
+      CLUE: There's a fella called Walt, right, and he's wandering about the place. Not lost. Just sort of... drifting from room to room.
+
+=== disasterbusters-003 ===
+  [1] ANS: Vesuvius
+      CLUE: A Roman woman called Vera went to see a doctor called Zeus about her knees. He had a look and said he wasn't sure what was going on with them. She asked if he'd seen anything like it before. He said he hadn't. The knees were very sus.
+  [2] ANS: Fukushima
+      CLUE: A bloke called Fuku has gone over to an island called Shima. He's found a really nice spot. He told someone back home he was at a shima near a power station. They said that sounds dodgy. It was a bit dodgy, as it turned out.
+  [3] ANS: Deepwater Horizon
+      CLUE: There's a bloke called Len who works on an oil rig. It's deep out there. Very deep. He's got some water in his boots. More water than you'd want really. He's saying something about the horizon but he can't see it anymore.
+
+=== elementsbusters-003 ===
+  [1] ANS: Einsteinium
+      CLUE: Albert has moved into a new place. He's in a flat above a gym. He's been at it all day. Lots of effort. His neighbour says he never stops. The gym doesn't open until nine but Albert's already at it.
+  [2] ANS: Fermium
+      CLUE: A bloke called Enrico has decided to run a pub. Nobody's sure why. He's named the pub after himself. He keeps fermenting things in the cellar that probably shouldn't be fermented.
+  [3] ANS: Curium
+      CLUE: Marie has gone on a city tour. She's very thorough about it. She's been round every street. She's taken notes. She's come back and she's writing it all up and saying she's quite fond of the place.
+
+=== filmbusters-016 ===
+  [1] ANS: Terminator
+      CLUE: The lad in charge is going to sort something out later, but he keeps delaying it. He'll do it, mind.
+  [2] ANS: Forrest Gump
+      CLUE: Something's meant to rest, and then there's a bloke called Gump. That's your lot.
+  [3] ANS: Hook
+      CLUE: That bit of metal that bends round, right. You hang things on it. One word. Easy.
+
+=== countrybusters-016 ===
+  [1] ANS: Georgia
+      CLUE: A saint who beheads dragons has had a bit of a singing voice, gone on the stage. Lovely warm tenor.
+  [2] ANS: Armenia
+      CLUE: The whole alphabet, and then buying something for a bloke called Jan for Christmas. A to Z and buy Jan a present.
+  [3] ANS: Azerbaijan
+      CLUE: A bird has gone all baffled, just baffled at everything, and then a coach on public transport has turned up.
+
+=== culturebusters-008 ===
+  [1] ANS: Stephen Hawking
+      CLUE: There's a hen, yeah, and someone's trying to auction it off. The hen's not impressed.
+  [2] ANS: Marie Curie
+      CLUE: She's been to the registry office and wed a fella whose whole job is making poorly people better. That's it.
+  [3] ANS: Charles Darwin
+      CLUE: The dark colour actually won. Just pipped the others at the post.
+
+=== drinkbusters-009 ===
+  [1] ANS: Tizer
+      CLUE: That bloke's found some kind of red dye and he's going absolutely wild with it. Everything's going red. Bit much.
+  [2] ANS: Shandy Bass
+      CLUE: That's a proper weak one, isn't it. Half and half. Can't commit either way. You know what it is.
+  [3] ANS: Lucozade
+      CLUE: There's a road, right, and at the end of it there's a crossing. And someone's selling stuff there. Say it out loud.
+
+=== filmbusters-003 ===
+  [1] ANS: Die Hard
+      CLUE: Someone's gone and coloured their hair, right, and it came out well stiff. Don't know why.
+  [2] ANS: Speed
+      CLUE: A little wee. There, that's your clue. Near enough.
+  [3] ANS: Hook
+      CLUE: That curved metal thing you hang your coat on. Just the one word. Leave it.
+
+=== countrybusters-015 ===
+  [1] ANS: Morocco
+      CLUE: That famous runner Mo has found a massive legendary bird and gone completely overwhelmed by the sight of it.
+  [2] ANS: Tunisia
+      CLUE: Someone's bought two kneepads and then a Persian king turned up to inspect them.
+  [3] ANS: Algeria
+      CLUE: Your mate Al has got himself all the kit. Every bit of equipment you could want.
+
+=== drinkbusters-013 ===
+  [1] ANS: Strongbow
+      CLUE: This archer, right, he's absolutely massive. Like, properly huge. And his bow's enormous. Just enormous.
+  [2] ANS: Irn Bru
+      CLUE: There's a Scottish fella who's had a whole metal bar welded onto his forehead. He seems alright about it, actually.
+  [3] ANS: Pimms
+      CLUE: Right, it's about this garden party thing. Loads of cucumber. Loads of mint. Bloke in a blazer standing near a jug.
+
+=== filmbusters-007 ===
+  [1] ANS: Misery
+      CLUE: Someone's being really tight with their money, right, and they're in a right state about it.
+  [2] ANS: Jurassic Park
+      CLUE: There's this outdoor green space, right, and it belongs to a court of law. Sort of.
+  [3] ANS: Grease
+      CLUE: Right, it's grease, but it rhymes with something you wear over your shoulders. Or a country. Sort of.
+
+=== countrybusters-007 ===
+  [1] ANS: Switzerland
+      CLUE: That fella's swapped out the land for a very fancy place. Switzer is what they call him. Switzer's got a land. That's it.
+  [2] ANS: Cambodia
+      CLUE: Right, that camp in the bush. The cam. And there's a Bod. And then an E-ah. All together now.
+  [3] ANS: Bolivia
+      CLUE: That bloke Boll, right, he's gone and given someone an IVia. A boll-ivia. Don't ask.
+
+=== culturebusters-016 ===
+  [1] ANS: Vincent van Gogh
+      CLUE: The wine got dispatched in a delivery vehicle and the vehicle drove off. It's gone.
+  [2] ANS: Rembrandt
+      CLUE: That proper deep dream sleep, it's had a company logo stamped all over it. A brand. Someone's branded it.
+  [3] ANS: Salvador Dali
+      CLUE: There's some antiseptic cream on the doorframe, and it gets put there fresh every morning without exception.
+
+=== drinkbusters-016 ===
+  [1] ANS: Prosecco
+      CLUE: Those bubbles, right, they've all come together and they're acting really professionally. Like a proper business bubble team.
+  [2] ANS: Carling
+      CLUE: That fella Carl is just lingering, isn't he. Just hanging about. Won't go home. Just sort of... Carl-ing.
+  [3] ANS: San Miguel
+      CLUE: A vehicle, four wheels, engine, the works, that's gone all purple and heathery up north. The car's gone native.
+
+=== filmbusters-009 ===
+  [1] ANS: The Mask
+      CLUE: There's this covering you put on your face, right, and it belongs to someone. That's your clue.
+  [2] ANS: Grease
+      CLUE: It's not been cold out, it got a bit warmer actually, and now the fat's all liquefied. Gone runny.
+  [3] ANS: Alien
+      CLUE: Some chap is not heavy, you know. Travelling light. Say it out loud, it'll come to you.
+
+=== countrybusters-004 ===
+  [1] ANS: Montenegro
+      CLUE: Some fella's wearing a big black hood and he's gone and climbed a mountain.
+  [2] ANS: Albania
+      CLUE: That Albanian woman - she's gone all the way to a place called Bania and she's taking the waters. Nice.
+  [3] ANS: Bosnia
+      CLUE: Right, some bones and a Herzegovina situation. I'll be honest, Herzegovina does most of the heavy lifting there.
+
+=== culturebusters-003 ===
+  [1] ANS: Leonardo da Vinci
+      CLUE: There's a lion, yeah, and he's doing something near a van, and he's got the keys. Bit weird.
+  [2] ANS: Michelangelo
+      CLUE: Someone's put a microphone on an angel. Don't overthink it.
+  [3] ANS: Rembrandt
+      CLUE: That REM sleep thing, yeah, the dream one, it's got a logo burned onto it. Like a cattle brand. Say it out loud.
+
+=== drinkbusters-015 ===
+  [1] ANS: Ribena
+      CLUE: There's a woman from a soap opera and she's shrunk. Got proper tiny. She's wandered into someone's garden.
+  [2] ANS: Becks
+      CLUE: Right, that German bloke's sprinting but you're not bothered. Not impressed at all. Just watching him go.
+  [3] ANS: Peroni
+      CLUE: That little pony's wandered inside somehow. It's in the kitchen now. Nobody's quite sure how it got in.
+
+=== filmbusters-015 ===
+  [1] ANS: Ghostbusters
+      CLUE: Someone's departed, right, and they've gone and wrecked a big vehicle. Just left it there in bits.
+  [2] ANS: Robocop
+      CLUE: A police officer's been connected up to some machinery. He's running the place now.
+  [3] ANS: Beetlejuice
+      CLUE: That small crawly insect thing, right, and then some kind of drink. Put them together, say it fast.
+
+=== countrybusters-010 ===
+  [1] ANS: Zambia
+      CLUE: That practical bloke with the flat cap, always asking if you're capable, right. Can ya? Ken wants to know.
+  [2] ANS: Ghana
+      CLUE: Right, those people who live in the trees, the gorillas and that - they've all gone and got themselves a uh. A ghan sound. Ghana. Gan-a.
+  [3] ANS: Kenya
+      CLUE: That Ken fella's got himself a yard. A big yard. Ken's yard. Ken-ya. He's quite proud of it.
+
+=== drinkbusters-020 ===
+  [1] ANS: Stella Artois
+      CLUE: There's a really posh star, not a normal star, a proper A-lister, and it's hanging around a French gallery. Of course it is.
+  [2] ANS: Ribena
+      CLUE: That dark fruit stuff, it's got purple all over it and there's a little woman from Coronation Street in there somewhere.
+  [3] ANS: Irn Bru
+      CLUE: Some bloke from Glasgow's turned up with a massive metal rod balanced across his face. He seems fine about it.
+
+=== filmbusters-001 ===
+  [1] ANS: Jaws
+      CLUE: Right, the lower half of someone's face, it belongs to a fella. That's it.
+  [2] ANS: Alien
+      CLUE: Someone who's not carrying any extra weight. Right trim they are. Say it out loud.
+  [3] ANS: Rocky
+      CLUE: The path is absolutely covered in stones. Can't walk on it. Bit annoying.
+
+=== countrybusters-014 ===
+  [1] ANS: Nigeria
+      CLUE: Something very dark in the middle of the night, no lights at all, and a fella called Jer has moved in. Very committed to the dark.
+  [2] ANS: Ethiopia
+      CLUE: The letter E has gone sulphurous, all rotten eggs and that, and then it has ordered itself a nice pastry. Proper treat.
+  [3] ANS: Tanzania
+      CLUE: A deep mahogany tan on someone who has overdone the sunbed. All bronzed and happy. Gone and found an island as well.
+
+=== drinkbusters-012 ===
+  [1] ANS: Corona
+      CLUE: There's a king sitting on a throne and all around him there's a shiny metallic ring. And he's grinning about it.
+  [2] ANS: Kopparberg
+      CLUE: A copper's found a mountain in Scandinavia. He's proper chuffed about it. Just standing there next to it.
+  [3] ANS: Carlsberg
+      CLUE: That lass is making a proper fuss about getting on a boat. She won't stop going on about the gangway.
+
+=== filmbusters-005 ===
+  [1] ANS: Forrest Gump
+      CLUE: Right, there's a fella called Gump, but before him, someone else was meant to go first. That's sorted.
+  [2] ANS: Rain Man
+      CLUE: Water's coming down from the sky, and there's a bloke standing in it. Just standing there.
+  [3] ANS: Goodfellas
+      CLUE: These people are well-regarded. And then they tripped over, the lot of them. Same height though.
+
+=== countrybusters-012 ===
+  [1] ANS: Colombia
+      CLUE: Right, them people in Chile, the northern ones. Col-um. Col has gone and found himself a bia. Good for him.
+  [2] ANS: Panama
+      CLUE: That pan - like a cooking pan - it's made itself a country. A pan and a ma. Pan's gone and done it.
+  [3] ANS: Costa Rica
+      CLUE: That bloke's got a rich coast. A cost a. Costa Rica. The cost is rich. Or the coast is. Bit of both really.
+
+=== culturebusters-017 ===
+  [1] ANS: Nikola Tesla
+      CLUE: Someone's stolen la off the piano, right, and then gone and done some scientific tests on it. Come back with results and everything.
+  [2] ANS: Andy Warhol
+      CLUE: He over there has dug a hole. A big one. And he did it in the middle of a conflict zone. That's all there is to it.
+  [3] ANS: Charles Darwin
+      CLUE: The bits that have gone all crispy and black, they actually won. Beat everything else. Came first.
+
+=== drinkbusters-005 ===
+  [1] ANS: Kopparberg
+      CLUE: That mountain range in Sweden, right, it's absolutely overflowing with something. Can't get enough of it up there.
+  [2] ANS: Pimms
+      CLUE: That fella Pim, right, he's got loads of stuff. Just loads of it. More than you'd expect.
+  [3] ANS: Baileys
+      CLUE: Right, he's gone and bought a load at half price. Absolute bargain. Two for the price of one and that.
+
+=== filmbusters-010 ===
+  [1] ANS: Jaws
+      CLUE: Right, the bottom part of your face, right, the bit that moves when you talk. It's gone somewhere.
+  [2] ANS: Speed
+      CLUE: The dog did something on the kitchen floor and everyone's a bit shaken about it. Move quick.
+  [3] ANS: Fargo
+      CLUE: Miles away, over there, and now someone's telling you to leave. Cheers then.
+
+=== countrybusters-009 ===
+  [1] ANS: Madagascar
+      CLUE: That big car, right, the Mad one. The Mad-a-gas one. And it's got a car on it. Mad gas car.
+  [2] ANS: Mozambique
+      CLUE: Some bloke called Mo, he's been on a zambique. That's what he says, anyway. Mo's been on one.
+  [3] ANS: Zimbabwe
+      CLUE: Right, there's a zim frame - you know, one of them walking frames - and it's gone to a place called Bab. Zim went to Bab, basically. And there's a way there.
+
+=== culturebusters-001 ===
+  [1] ANS: Isaac Newton
+      CLUE: Right, someone's eye has got a little bag hanging off it, and he's just invented a brand new weight. That's all.
+  [2] ANS: Stephen Hawking
+      CLUE: That bloke Steve's got a chicken, right, and he's trying to flog it at the market. Goes without saying.
+  [3] ANS: Marie Curie
+      CLUE: She's getting wed to the bloke who fixes everything. Sort of works.
+
+=== drinkbusters-017 ===
+  [1] ANS: Aperol Spritz
+      CLUE: There's this great ape, right, and he's spinning around and getting everyone a bit damp. Just spray everywhere.
+  [2] ANS: Tennents
+      CLUE: Those tents, there's ten of them in a field. Someone's moved into all of them at once. Fair enough.
+  [3] ANS: Lucozade
+      CLUE: He's had an energy drink and now he's absolutely bouncing around the whole of Piccadilly Circus. You can tell, can't you.
+
+=== countrybusters-001 ===
+  [1] ANS: Portugal
+      CLUE: Right, that bloke Port's gone and given something to gal. She didn't ask for it but there you go.
+  [2] ANS: Romania
+      CLUE: Row, row, row your boat but only one row. Then someone called Mania turns up. Bit much.
+  [3] ANS: Slovakia
+      CLUE: That bloke's gone all quiet and shy, hasn't he. Says he's slack. Bit of a via situation.
+
+=== culturebusters-002 ===
+  [1] ANS: Charles Darwin
+      CLUE: The toast has gone completely black, right, and then the dark bit actually won the race. Near enough.
+  [2] ANS: Nikola Tesla
+      CLUE: Some fella's nicked all the la notes off the piano, then run a load of tests on them.
+  [3] ANS: Vincent van Gogh
+      CLUE: The wine's been posted off, right, in a van, and the van's moving. That's your lot.
+
+=== drinkbusters-014 ===
+  [1] ANS: Tizer
+      CLUE: These red berries have got absolutely no fear. No shame. Just strolling about, letting everyone know they're here.
+  [2] ANS: Fosters
+      CLUE: He's fostering something. Not sure what. Could be a child, could be a good idea. Either way, he's nurturing it.
+  [3] ANS: Dandelion and Burdock
+      CLUE: Right, a lion's turned up to a field full of tiny prickly things next to a jetty. Bit unusual.
+
+=== countrybusters-006 ===
+  [1] ANS: Norway
+      CLUE: Right, a place called Nor. It's gone and picked up a way, has Nor. Nor found its way, basically.
+  [2] ANS: Denmark
+      CLUE: Them markings, right, they're on a den somewhere. Den's got markings on it. Bit of a den-mark situation.
+  [3] ANS: Finland
+      CLUE: An animal's private space, proper underground lair, and there's a notch on the wall. Someone's been keeping score in there.
+
+=== drinkbusters-010 ===
+  [1] ANS: Guinness
+      CLUE: That fella's got a proper unique way of spelling his name. Starts with a G but sounds like it shouldn't. Irish. Obviously.
+  [2] ANS: Peroni
+      CLUE: Right, she's lost her glasses and now she's just wandering around near some Italian hills going, where am I. Sort of Italian.
+  [3] ANS: Vimto
+      CLUE: There's vim in that place, loads of energy, but nobody knows what to do with it. Just sitting there, buzzing.
+
+=== countrybusters-003 ===
+  [1] ANS: Estonia
+      CLUE: Them things you eat on toast - the round ones. Bit rubbery. They've all gone east, apparently.
+  [2] ANS: Latvia
+      CLUE: That bloke's brought loads of stuff, right, loads of it. A real lat of it. Via there.
+  [3] ANS: Moldova
+      CLUE: That mole - the little furry thing - has gone and built himself a door. Mole + door. There you go.
+
+=== drinkbusters-007 ===
+  [1] ANS: Carling
+      CLUE: That bloke Carl, right, he's just sitting there all smug. He reckons he's got something on you. And maybe he has.
+  [2] ANS: Tennents
+      CLUE: Ten of those little tents. Loads of them. All in a row. Someone's going camping in a big way.
+  [3] ANS: San Miguel
+      CLUE: There's a bloke from the Mediterranean, right, but he's ever so tiny. Like a miniature version. Sort of works, that.
+
+=== countrybusters-008 ===
+  [1] ANS: Ecuador
+      CLUE: That bloke Eck, he's gone and swallowed a door. A proper door. Eck-wah-door. Bit much.
+  [2] ANS: Paraguay
+      CLUE: There's a pair of something and a guy. Par and a guy. Par-a-guy. That's a country, that is.
+  [3] ANS: Uruguay
+      CLUE: Your mate's gone and urinated on some guy. Very embarrassing for everyone involved.
+
+=== culturebusters-009 ===
+  [1] ANS: Leonardo da Vinci
+      CLUE: The lion's doing something next to a van, and he's holding the keys to it. Works out.
+  [2] ANS: Rembrandt
+      CLUE: That stage of sleep where you dream, yeah, it's had a cattle brand pressed right onto it.
+  [3] ANS: Pablo Picasso
+      CLUE: Right, the father's blowing on the handle of the pickaxe. Not using it. Just blowing.
+
+=== drinkbusters-003 ===
+  [1] ANS: Heineken
+      CLUE: Ten of something, ten of what nobody knows, but they've all arrived at once. Typical.
+  [2] ANS: Corona
+      CLUE: That king fella, right, he's made of ice. Standing there, frozen. Looking a bit regal though.
+  [3] ANS: Strongbow
+      CLUE: Some strong bloke's gone and fired an arrow so hard it's come apart. Bits everywhere. Don't know why he did that.
+
+=== countrybusters-002 ===
+  [1] ANS: Slovenia
+      CLUE: Right, that fella Slow, he's gone and come back, hasn't he. Returned. Reappeared.
+  [2] ANS: Bulgaria
+      CLUE: There's a big full bag of something, right, and it's gone and started singing. Really belting it out.
+  [3] ANS: Lithuania
+      CLUE: Someone's lit a candle. Dead thin one. And it's in a place called Ania. That's it.
+
+=== drinkbusters-019 ===
+  [1] ANS: Guinness
+      CLUE: That Irish bloke's got a hiss. Like, whenever he opens his mouth, just this faint hiss. It's very specific.
+  [2] ANS: Carlsberg
+      CLUE: Right, that Scandinavian bloke called Carl, not Danish, not Norwegian, the other one, he's been at it again.
+  [3] ANS: Vimto
+      CLUE: There's a lot of energy in that place and it's heading somewhere specific. It's got direction, that energy. You know where it's going.
+
+=== countrybusters-005 ===
+  [1] ANS: Croatia
+      CLUE: Someone's cro-ing something. Like, half-crossing something. A sha. Bit of a sha to be honest. Cro and sha.
+  [2] ANS: Serbia
+      CLUE: A very attentive waiter, formal, silver salver, the works, who makes a slightly odd sound at the end of each sentence.
+  [3] ANS: Iceland
+      CLUE: The eye of the storm. Ice cold. Land below. Put them sounds together and you've got yourself a country. Sort of works.
+
+=== drinkbusters-008 ===
+  [1] ANS: Kronenbourg
+      CLUE: That fella from Normandy is trying to get his crops in before the rain. He's going at a fair pace, I'll tell you that.
+  [2] ANS: Budweiser
+      CLUE: Right, there's a fella from Germany and he's absolutely loaded. Made of money, he is.
+  [3] ANS: Dandelion and Burdock
+      CLUE: Someone's had a blazing row over a yellow flower. And then this other thing, a male deer, has turned up. Sort of explains itself, that.
+
+=== countrybusters-013 ===
+  [1] ANS: Argentina
+      CLUE: Someone's had a really frustrating moment, made that noise, and then a very thin woman appeared. Infuriating combination.
+  [2] ANS: Peru
+      CLUE: Someone's gone and put a roo in a pot. A per-roo situation. Per-u. The roo's in Peru now.
+  [3] ANS: Chile
+      CLUE: Right, them chilly peppers, the ones that are a bit nippy. That's a country that is. Say it out loud.
+
+=== culturebusters-004 ===
+  [1] ANS: Pablo Picasso
+      CLUE: The dad's blowing air on his pickaxe handle, for some reason. Just blowing on it.
+  [2] ANS: Salvador Dali
+      CLUE: There's some ointment on the door, and it's being put on every single day. Alright?
+  [3] ANS: Andy Warhol
+      CLUE: Him over there's gone and dug a great big hole in the middle of the battlefield. For what reason, nobody knows.
+
+=== drinkbusters-006 ===
+  [1] ANS: Prosecco
+      CLUE: Those bubbles are acting really pleased with themselves. Proper fizzing about going, look at us, aren't we brilliant.
+  [2] ANS: Aperol Spritz
+      CLUE: That orange bloke, April's brother, he's gone and burst everywhere. Bit wet.
+  [3] ANS: Carlsberg
+      CLUE: The mechanic's working on a Swedish brand of flat-pack furniture and he's absolutely raging about it. You know how it is.
+
+=== countrybusters-011 ===
+  [1] ANS: Jordan
+      CLUE: That ceramic vessel your great-nan used to keep under the bed. Gone all golden and warm. You know the one.
+  [2] ANS: Oman
+      CLUE: Right, a man. Just a man. Oman. That's the clue. Say it out loud. Easy one this.
+  [3] ANS: Iran
+      CLUE: That fella's gone to rack and ruin. I-rack. I-ran off. Two countries in there if you're not careful. Pick the right one.
+
+=== drinkbusters-011 ===
+  [1] ANS: Stella Artois
+      CLUE: That shining thing in the sky near some oil paintings and a bit of French. Don't ask, just say it out loud.
+  [2] ANS: Heineken
+      CLUE: Right, that bloke's really tall. Like, nine foot tall. And he's just arrived. Hi, nine. Sort of.
+  [3] ANS: Baileys
+      CLUE: There's loads of daffodils waving about in a field. Makes you feel cheerful and that. Quite nice, actually.
+
+=== countrybusters-019 ===
+  [1] ANS: Sri Lanka
+      CLUE: Right, that bloke Sri, he's gone and found a Lanka. Sri found a Lanka. Couldn't believe it. Big island and that.
+  [2] ANS: Nepal
+      CLUE: A very loud door slam, proper bang, and then the flattest, most tuneless sound imaginable after it. Desh.
+  [3] ANS: Bangladesh
+      CLUE: That bloke Bangla, he's found a desh. A whole desh. Bangla-desh. He's made a country out of it.
+
+=== culturebusters-014 ===
+  [1] ANS: Isaac Newton
+      CLUE: Right, there's a bag hanging off someone's eyeball, and just nearby someone has built a completely new settlement. Say it out loud.
+  [2] ANS: Marie Curie
+      CLUE: She married a healer, right. Someone who makes ill people well again. That's what she did.
+  [3] ANS: Stephen Hawking
+      CLUE: Steve's got a hen and he's out there trying to get rid of it. Selling it on. Bit desperate.
+
+=== drinkbusters-001 ===
+  [1] ANS: Guinness
+      CLUE: That bloke with the glasses is making a strange sound with his mouth. Sort of a buzzing hum. That's all.
+  [2] ANS: Lucozade
+      CLUE: She's turned up and all the sparkle has just gone out of the room. Bit flat, that.
+  [3] ANS: Vimto
+      CLUE: Right, that weed growing up the wall, it's completely taken over the whole building. More than a bit.
+
+=== filmbusters-004 ===
+  [1] ANS: Titanic
+      CLUE: Right, there's a fella called Mick, sort of squeezed into something tight. Looks uncomfortable.
+  [2] ANS: Braveheart
+      CLUE: Someone's being very courageous, right, and then there's that pumping organ in their chest. Bit dramatic.
+  [3] ANS: Terminator
+      CLUE: There's a lad called Mick, and he's going to finish something off later. He'll get round to it.
+
+=== filmbusters-006 ===
+  [1] ANS: Pulp Fiction
+      CLUE: There's some soft mushy stuff, right, and it's making something up. Just inventing things.
+  [2] ANS: Toy Story
+      CLUE: A plaything, right, and it's gone up several floors in a building. Don't know how.
+  [3] ANS: Home Alone
+      CLUE: You've gone back to your house, but someone's lent you something and now they've gone. Bit odd.
+
+=== filmbusters-011 ===
+  [1] ANS: Titanic
+      CLUE: A fella called Nick's been squeezed into something well tight. Bit uncomfortable for him.
+  [2] ANS: Rocky
+      CLUE: Covered in stones and pebbles, that path is. Wouldn't push a trolley down it.
+  [3] ANS: Psycho
+      CLUE: A doctor's letting out a big sigh and there's a company involved somewhere. That's the clue.
+
+=== filmbusters-012 ===
+  [1] ANS: Die Hard
+      CLUE: Someone's gone and put colour on their hair, and it turned out well tough. Sort of crispy.
+  [2] ANS: Goodfellas
+      CLUE: These lads are decent enough, right, and then they all went over at the same time. Odd that.
+  [3] ANS: Braveheart
+      CLUE: The soldier was well courageous. Then he went and had a listen to his own chest. Heard something.
+
+=== filmbusters-013 ===
+  [1] ANS: Pulp Fiction
+      CLUE: Oranges have been squeezed into a liquid, right, and then someone's gone and invented a story about it.
+  [2] ANS: Home Alone
+      CLUE: Went back to the house, didn't they. But someone's lent them something and then cleared off. Just by themselves.
+  [3] ANS: Toy Story
+      CLUE: It's a little plaything, right, and it's somehow made it up to the third floor. Nobody knows how.
+
+=== filmbusters-017 ===
+  [1] ANS: Basic Instinct
+      CLUE: Something simple, right, just the essentials. And there's a gut feeling involved. Something's not right.
+  [2] ANS: Alien
+      CLUE: That bloke's well slim. Not an ounce on him. Travels light. Say it out loud.
+  [3] ANS: Jurassic Park
+      CLUE: There's a big green space, and somehow a jury has gone and parked up near it. Don't ask.
+
+=== filmbusters-019 ===
+  [1] ANS: Die Hard
+      CLUE: Someone's gone and tinted their hair, and it's set rock solid. Can't get a comb through it.
+  [2] ANS: Speed
+      CLUE: The cat's been on the rug and now everyone's moving quickly to deal with it. Urgently.
+  [3] ANS: Fargo
+      CLUE: You've sent something a very long distance, and now you're telling it to move along. Off it goes.
+
+=== filmbusters-020 ===
+  [1] ANS: Braveheart
+      CLUE: The lad was really courageous out there, and then his heart gave a little thump. Bit emotional.
+  [2] ANS: Ghostbusters
+      CLUE: There's a spirit, like a see-through figure, and it's smashed up a bus. Caused carnage.
+  [3] ANS: Pulp Fiction
+      CLUE: The stuff left over from squeezing fruit, right. And it's all made up. None of it's true.
+
+=== filmbusters-021 ===
+  [1] ANS: Inception
+      CLUE: Right, that big ship's been going in, like actually into something. Slid right inside. You know what I mean.
+  [2] ANS: Finding Nemo
+      CLUE: That fish, right, it's gone missing. Someone's looking for it. The whole ocean's involved apparently.
+  [3] ANS: Avatar
+      CLUE: He's only gone and turned himself into one of them big blue fellas with the tail. Don't ask why. Just has.
+
+=== filmbusters-022 ===
+  [1] ANS: Shrek
+      CLUE: Big green fella, bit smelly, lives in a swamp. Everyone leaves him alone. That's all.
+  [2] ANS: Elf
+      CLUE: Right, a bloke's gone to work in one of them workshops up north, very far north, and he's made entirely of Christmas. Sort of.
+  [3] ANS: Frozen
+      CLUE: Everything's gone solid and cold and there's a queen involved. She's not best pleased but she's made her peace with it. Near enough.
+
+=== filmbusters-023 ===
+  [1] ANS: Mean Girls
+      CLUE: These girls, right, they're not very nice to each other. But they think they are. Secondary school, lots of hair. Bit cruel.
+  [2] ANS: Dune
+      CLUE: It's all sand and worms, massive ones, and everyone wants this one bit of spice. Bit of a trek to get there.
+  [3] ANS: Joker
+      CLUE: That lad's gone all clowny and laughing but he doesn't mean it. White face, purple suit. You wouldn't want to meet him.
+
+=== filmbusters-026 ===
+  [1] ANS: Oppenheimer
+      CLUE: Some bloke's built a whopping big bomb and now everyone's a bit worried about what he's done. Lot of hats and suits in it.
+  [2] ANS: Barbie
+      CLUE: She's all pink and plastic and lives in a big house in Malibu. Everything's perfect. A bit too perfect, actually.
+  [3] ANS: Wonka
+      CLUE: This fella in the big top hat's showing everyone round his sweet shop. It's all a bit strange but the chocolate's good.
+
+=== filmbusters-030 ===
+  [1] ANS: Inception
+      CLUE: Right, this bloke keeps going deeper into people's dreams. Like, dreams inside dreams. You lose track after a bit. DiCaprio's in it.
+  [2] ANS: The Revenant
+      CLUE: He's come back, this bloke, from somewhere really awful. Snow everywhere, a bear's had a go at him. Still walking though.
+  [3] ANS: Deadpool
+      CLUE: This bloke with the red outfit keeps going on about chimichangas and breaking the fourth wall. Very full of himself. Sort of works.
+
+=== filmbusters-031 ===
+  [1] ANS: Frozen
+      CLUE: It's all gone solid outside, ice and snow everywhere, and this one lass has just accepted that that's her thing now. She's fine.
+  [2] ANS: Avatar
+      CLUE: Right, these massive blue creatures on another planet, tall they are, and some humans have gone over there and made a right mess.
+  [3] ANS: Coco
+      CLUE: This lad's on a sort of Day of the Dead holiday, bit unusual, all marigolds and skeletons, and he wants to be a musician. Family's not keen.
+
+=== filmbusters-034 ===
+  [1] ANS: Mean Girls
+      CLUE: These teenage girls are absolutely vicious to each other in the corridors. Smiling while they do it. Very American. Bit much.
+  [2] ANS: Dune
+      CLUE: All sand, massive worms underground, bloke in a robe walking around looking serious. Spice is involved. Very important spice apparently.
+  [3] ANS: Poor Things
+      CLUE: Strange woman, lots of experiments, set in the olden days but not really. She's making the best of a weird situation. It's odd but good.
+
+=== filmbusters-035 ===
+  [1] ANS: Interstellar
+      CLUE: These astronauts have gone off to find a new planet because this one's had it. Loads of space and time travel and a massive organ going. Very loud.
+  [2] ANS: Black Panther
+      CLUE: There's a king who's died and someone's got to take over and everything's in Africa and the suits are incredible. Very serious, very good.
+  [3] ANS: Joker
+      CLUE: He's laughing but he shouldn't be, sort of uncontrollable, poor fella. White face paint, green hair, purple coat. Not having a great time of it.
+
+=== filmbusters-037 ===
+  [1] ANS: Paddington
+      CLUE: Small Peruvian lad, he's in London now, got a red hat on and a suitcase. Jam on everything. Very well-mannered for a bear.
+  [2] ANS: Bohemian Rhapsody
+      CLUE: Four lads in tight trousers playing very big rock music and one of them's incredible and they all want to know if he's real or fantasy. Sort of both.
+  [3] ANS: Mamma Mia
+      CLUE: There's a wedding on a Greek island, and three possible dads, and ABBA songs keep coming on. Nobody's particularly calm about any of it.
+
+=== filmbusters-040 ===
+  [1] ANS: Inception
+      CLUE: He's going into someone's dream, inside the head while they're asleep, and planting an idea in there. Very complicated. Just go with it.
+  [2] ANS: Black Panther
+      CLUE: This king's died, right, and the young lad has to come back and take over because no one else can do it. Big African kingdom, lots of ceremony.
+  [3] ANS: Bohemian Rhapsody
+      CLUE: This rock band's singer is absolutely unbelievable live, huge voice, huge crowd, huge teeth, and this is the story of how he got there. True story.
+
+=== filmbusters-047 ===
+  [1] ANS: Lock Stock and Two Smoking Barrels
+      CLUE: There's a padlock on something you fasten things shut with, and two guns that are letting off a lot of smoke. Bit chaotic.
+  [2] ANS: Snatch
+      CLUE: Someone's grabbed something they shouldn't have and legged it. Quick. Gone.
+  [3] ANS: Hot Fuzz
+      CLUE: The heating's been cranked right up, and there's all this soft wispy stuff floating about. Warm but odd.
+
+=== filmbusters-052 ===
+  [1] ANS: Snatch
+      CLUE: Someone's grabbed hold of a diamond and done a runner. Very fast. Didn't hang about.
+  [2] ANS: Lock Stock and Two Smoking Barrels
+      CLUE: There's a thing you lock, then a thing you use to store stuff, and two guns giving off a lot of smoke. All in one go.
+  [3] ANS: Hot Fuzz
+      CLUE: Someone's put a load of linty stuff on a radiator. It's toasty in there now. Bit dusty though.
+
+=== filmbusters-060 ===
+  [1] ANS: Snatch
+      CLUE: Someone's grabbed something quickly and gone. Very quick. Didn't see it happen. It's gone.
+  [2] ANS: Lock Stock and Two Smoking Barrels
+      CLUE: There's a padlock, then a load of supplies, and at the end two firearms are putting out a cloud of smoke. Bit much.
+  [3] ANS: The Full Monty
+      CLUE: Right, they've done the whole lot. Every last stitch. Nothing left whatsoever. Completely and utterly everything. That's the full works.
+
+=== fashionbusters-001 ===
+  [1] ANS: Primark
+      CLUE: That bloke's trying to force open a lid, and he's left a big mark on it in the process. Bit heavy-handed.
+  [2] ANS: Topshop
+      CLUE: She's gone and found the very best place to buy things. Right at the top. That's the one.
+  [3] ANS: New Look
+      CLUE: You've had a haircut, different glasses, bit of colour on your face. Everyone keeps saying you seem different somehow.
+
+=== fashionbusters-002 ===
+  [1] ANS: River Island
+      CLUE: Right, there's a lump of land sat right in the middle of a big bit of flowing water. Just sitting there.
+  [2] ANS: Next
+      CLUE: Loads of giraffes, all stood in a queue at the post office. Bit of a wait.
+  [3] ANS: Marks and Spencer
+      CLUE: That fella Spencer, right, he's been scribbling all over the walls. Left his marks everywhere. Landlord's going to be furious.
+
+=== fashionbusters-020 ===
+  [1] ANS: Burberry
+      CLUE: Right, there's these tiny spiked things from plants, the ones that get stuck in your socks, and someone's gone and planted them in the garden. Put them in the ground. Buried them.
+  [2] ANS: Chanel
+      CLUE: There's a very sophisticated, not-quite-white colour in a smart shop window. Bit off. Not wrong, just not quite right. Elegant though.
+  [3] ANS: Louis Vuitton
+      CLUE: Louie did the smallest possible amount of something, right, absolutely tiny, but according to everyone who was there it weighed an enormous amount. A whole ton apparently.
+
+=== filmbusters-061 ===
+  [1] ANS: The Dark Knight
+      CLUE: The saddest hour of the day, gone all heroic and started fighting a man in face paint.
+  [2] ANS: The Godfather
+      CLUE: A bloke who is the best at everything and has an offer you can't refuse.
+  [3] ANS: Back to the Future
+      CLUE: Returning to a time before now, gone all DeLorean and started involving a scientist.
+
+=== filmbusters-062 ===
+  [1] ANS: E.T.
+      CLUE: Someone who doesn't live on this planet, gone all friendly and started eating sweets with a boy.
+  [2] ANS: Raiders of the Lost Ark
+      CLUE: A search for a missing chest, involves a man with a whip and a terrible fear of snakes.
+  [3] ANS: Star Wars
+      CLUE: Conflict among the galaxies, a bloke in a black helmet keeps breathing heavily.
+
+=== filmbusters-063 ===
+  [1] ANS: Gladiator
+      CLUE: A man in ancient Rome, gone all fighting and started entertaining crowds in an arena.
+  [2] ANS: The Matrix
+      CLUE: A computer programme, gone all leather and started offering red or blue pills.
+  [3] ANS: Schindler's List
+      CLUE: A list, gone all historical and started saving lives during the Second World War.
+
+=== filmbusters-064 ===
+  [1] ANS: Casino Royale
+      CLUE: A gambling establishment, gone all James Bond and started featuring a very good card game.
+  [2] ANS: Skyfall
+      CLUE: A clear blue sky, gone all spy-like and started featuring a bloke called Silva.
+  [3] ANS: Blade Runner
+      CLUE: A sharp cutting tool, gone all futuristic and started hunting artificial people.
+
+=== filmbusters-065 ===
+  [1] ANS: Troy
+      CLUE: A large wooden horse, gone all Greek and started containing soldiers inside it.
+  [2] ANS: 300
+      CLUE: A man with a very large shield, gone all ancient Greek and started kicking people into pits.
+  [3] ANS: Nightmare Before Christmas
+      CLUE: Something that happens after midnight, gone all animated and started involving a man called Jack.
+
+=== filmbusters-066 ===
+  [1] ANS: The Lion King
+      CLUE: A very important male lion, gone all musical and started worrying about his place in the food chain.
+  [2] ANS: Encanto
+      CLUE: A film about a strange creature being raised by a family, very tall, very kind, makes you cry.
+  [3] ANS: Inside Out
+      CLUE: Something happening inside the skull, gone all colourful and started fighting about feelings.
+
+=== filmbusters-067 ===
+  [1] ANS: The Good the Bad and the Ugly
+      CLUE: How good something is, gone all spaghetti western and started involving three armed men.
+  [2] ANS: Speed
+      CLUE: A timetable for something that hasn't happened yet, gone all Keanu Reeves and started on a bus.
+  [3] ANS: Avengers
+      CLUE: An extraterrestrial being, gone all purple and started collecting gems to wipe out half of everything.
+
+=== filmbusters-068 ===
+  [1] ANS: Wonka
+      CLUE: A bloke in a top hat who lives in a stripy tower and makes chocolate.
+  [2] ANS: Ratatouille
+      CLUE: A rat, gone all French and started cooking in a five-star restaurant in Paris.
+  [3] ANS: Paddington
+      CLUE: A large bear from Peru, gone all British and started making marmalade sandwiches.
+
+=== filmbusters-069 ===
+  [1] ANS: Forrest Gump
+      CLUE: A quick walker, gone all Southern American and started running across the country with a box of chocolates.
+  [2] ANS: Ghostbusters
+      CLUE: Phantom-catching equipment, gone all paranormal and started busting things in New York.
+  [3] ANS: Jurassic Park
+      CLUE: A large extinct creature, gone all theme park and started eating visitors.
+
+=== filmbusters-070 ===
+  [1] ANS: The Full Monty
+      CLUE: That full nude version of a town, gone all Sheffield and started organising a strip show for charity.
+  [2] ANS: Trainspotting
+      CLUE: Heroin addiction in Edinburgh, a bloke chooses life, then doesn't, then does again.
+  [3] ANS: Four Weddings and a Funeral
+      CLUE: Four occasions when people get married, one occasion when someone dies.
+
+=== disasterbusters-004 ===
+  [1] ANS: Hurricane Katrina
+      CLUE: A tropical storm with a woman's name, went all American and flooded a very famous city.
+  [2] ANS: Great Fire of London
+      CLUE: A very large fire, happened in London in 1666. Destroyed most of the city.
+  [3] ANS: San Francisco Earthquake
+      CLUE: A city in California, shook violently and fell down in 1906. Very dramatic.
+
+=== disasterbusters-005 ===
+  [1] ANS: Bhopal Disaster
+      CLUE: A chemical plant, leaked poison gas in India in 1984. One of the worst industrial accidents.
+  [2] ANS: Black Death
+      CLUE: A very dark Tuesday, the financial markets went all panicky in 1929 and everything went wrong.
+  [3] ANS: Mount St Helens
+      CLUE: A volcano, erupted dramatically in Washington state in 1980. Blew its top off.
