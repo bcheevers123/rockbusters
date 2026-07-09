@@ -15,17 +15,17 @@
       {
         "number": 1,
         "initials": "T",
-        "clue": "Right, there's a woman who ties things. Professional tier, she is. Ties knots for a living. And she's just landed somewhere. Tie-land."
+        "clue": "Right, there's a woman who ties things for a living. Professional tier, she is. Ties knots all day long. And she's just touched down somewhere."
       },
       {
         "number": 2,
         "initials": "B",
-        "clue": "A load of balls. Literally. Someone's just dropped a box of small round balls all over the floor. Ball-ee. Everywhere."
+        "clue": "Someone's growing the grain they use to make beer. Quite a lot of it actually. The whole field. That's your Indonesian island."
       },
       {
         "number": 3,
         "initials": "J",
-        "clue": "Jay's got some jam. He's standing there in May. Jay, jam, May. He's having a lovely time. Sort of."
+        "clue": "There's a glass jar, it's the month of May, and there's a motor parked outside. Put them together. Caribbean island."
       }
     ]
   },
@@ -50,12 +50,12 @@
       {
         "number": 2,
         "initials": "H",
-        "clue": "Right, something belongs to someone, his, it's his, and there's a small frying pan involved, and a woman called Viola who's dropped the V. Caribbean island, shared between two countries."
+        "clue": "Something belongs to this fella, right. It is very much his. He has got a frying pan. And someone nearby is singing through the musical alphabet, E, O, la. Caribbean island, split between two countries."
       },
       {
         "number": 3,
-        "initials": "S",
-        "clue": "A group of people are describing a stretch of land as being free. They keep saying it's free. And there's a crow flying about making that ka sound. South Asia."
+        "initials": "S L",
+        "clue": "Someone went on an absolute spending spree and came back with a load of tall, gangly mates. Lanky lot. Island nation in the Indian Ocean."
       }
     ]
   },
@@ -142,7 +142,7 @@
       {
         "number": 2,
         "initials": "Z",
-        "clue": "She keeps getting taken. Every time. You'd think they'd have sorted the security by now. It's become a bit of a pattern."
+        "clue": "Someone had a load of stuff to flog. Got it all laid out. Their old man turned up to help shift it. Sell, da. That's your video game."
       },
       {
         "number": 3,
@@ -237,7 +237,7 @@
       },
       {
         "number": 3,
-        "initials": "BH",
+        "initials": "B",
         "clue": "That lad's gone radiant - just glowing - and he's moved to the coast. Very lit up, the whole town is."
       }
     ]
@@ -258,17 +258,17 @@
       {
         "number": 1,
         "initials": "A",
-        "clue": "A bloke called Matt has gone and done something to the west side of something. Quite aggressive about it. He's done it in the middle of a historical drama and no one seems bothered."
+        "clue": "Someone IS right there, just existing. And they have gone and sat on a thistle. Just quietly existing on a thistle. Bit awkward. Still there though."
       },
       {
         "number": 2,
         "initials": "T",
-        "clue": "Someone has bought a turban and decided it needs a bit of a wash. They've given it a proper rinse. It's come out a bit greenish. Nobody's surprised."
+        "clue": "A Turkish fella is out in the garden playing quoits. Just chucking metal rings about. Nobody has asked why. The rings are quite greenish-blue."
       },
       {
         "number": 3,
         "initials": "C",
-        "clue": "A bloke called Carl has found a lion who's in a bit of a state. The lion is making a noise like it needs something. Carl's keeping his distance. Wisely."
+        "clue": "Someone has abandoned their motor and got down on their knees right there in the car park. Just knelt there. And there is an Ian involved somehow. Ian, on his knees, next to the car."
       }
     ]
   },
@@ -323,7 +323,7 @@
       {
         "number": 2,
         "initials": "D B",
-        "clue": "There's a fella called Dime who's doing a bit of scaffolding. Just the one bar. Standing there."
+        "clue": "Right, someone has left an American ten-cent coin balanced on a single metal bar. Just sitting there on the shelf. No explanation given."
       },
       {
         "number": 3,
@@ -352,7 +352,7 @@
       },
       {
         "number": 2,
-        "initials": "A M",
+        "initials": "A W",
         "clue": "A woman called Amy's aiming at something, she's lined it up, very focused, and behind her there's a house full of wine bottles. Bit of a state."
       },
       {
@@ -377,8 +377,8 @@
     "clues": [
       {
         "number": 1,
-        "initials": "E",
-        "clue": "A lad called Ed has gone inside somewhere and he keeps appearing at the edge of things. Not quite in the main bit. Just around the fringes. He's at the periphery but he seems alright about it."
+        "initials": "E F",
+        "clue": "A lad called Ed has gone inside somewhere and he keeps appearing at the edge of things. Not quite in the main bit. Just around the fringes. He is at the periphery but he seems alright about it."
       },
       {
         "number": 2,
@@ -387,7 +387,7 @@
       },
       {
         "number": 3,
-        "initials": "F",
+        "initials": "F R",
         "clue": "A famous Japanese mountain has been having a bit of a moment with some very loud music. The mountain itself isn't playing. It's just standing there being volcanic while bands do their thing nearby."
       }
     ]
@@ -408,17 +408,17 @@
       {
         "number": 1,
         "initials": "C",
-        "clue": "There's a woman called Sarah and she's gone and rung the bell at him. Just stood there and rang it. Didn't say anything. Bell him, Sarah."
+        "clue": "There is a woman called Sara and she has gone and rung a bell at someone. Just stood there and rang it. Didn't say anything. Just bell him, Sara. Then went 'um'."
       },
       {
         "number": 2,
         "initials": "C",
-        "clue": "Someone's made a small vehicle entirely out of clay. Just sat there on the table. Bit of an odd project but there you go."
+        "clue": "Someone has made a small vehicle entirely out of clay. Just sat there on the table. Bit of an odd project but there you go."
       },
       {
         "number": 3,
         "initials": "D",
-        "clue": "Right, they've gone and dyed a picture frame. Whole thing. Didn't need doing but someone's gone ahead and done it anyway."
+        "clue": "Right, they have gone and dyed a picture frame. Whole thing. Didn't need doing but someone has gone ahead and done it anyway."
       }
     ]
   },
@@ -510,7 +510,7 @@
       {
         "number": 3,
         "initials": "I B",
-        "clue": "That Scottish bloke's got a metal bar where his eyebrow is. Bit alarming really."
+        "clue": "Some Scottish fella has gone and ironed his best shirt while making a brew at the same time. Multitasking. Didn't even spill it. Good for him."
       }
     ]
   },
@@ -560,17 +560,17 @@
       {
         "number": 1,
         "initials": "M",
-        "clue": "In Southeast Asia, someone has gone for a long wander and ended up eating something halfway through. Very much on the go. They're still chewing. The river doesn't care, it just keeps moving."
+        "clue": "Some self-absorbed fella keeps going on about King Kong. Me and Kong this, me and Kong that. Never shuts up about it. Southeast Asian river."
       },
       {
         "number": 2,
         "initials": "L",
-        "clue": "A bloke in southern Africa has had a look at this river and said something that sounds like it belongs to a Kipling poem. He's said it with great confidence. Nobody's questioned him. The hippopotamus nearby did not react."
+        "clue": "A bloke in southern Africa has had a look at this river and said something that sounds like it belongs to a Kipling poem. He has said it with great confidence. Nobody has questioned him. The hippopotamus nearby did not react."
       },
       {
         "number": 3,
         "initials": "T",
-        "clue": "In Iraq, someone has spotted a very old river and said, that one's got his name on it. Very possessive. The tiger in question was not consulted. It just flows on, quietly ignoring the whole dispute."
+        "clue": "Someone's put on their best necktie and then gone and got it covered in cooking grease. No reason for it. Just happened."
       }
     ]
   },
@@ -712,12 +712,12 @@
       {
         "number": 1,
         "initials": "T",
-        "clue": "A bloke called Trap has been out to sea in a small boat. He's come back with four sides but two of them are parallel. Says it's fine."
+        "clue": "There's one of those spring-loaded catching devices - the kind you put out in the garden for things - and everything's going very easy for it. Um. That's a four-sided shape with two parallel sides, that is."
       },
       {
         "number": 2,
         "initials": "R",
-        "clue": "A diamond-shaped fella from the housing estate, everyone round there knows him, has got four equal sides and he's not apologising for any of them."
+        "clue": "Someone's been to see one of those romantic comedies at the cinema and then got on the bus home. Four equal sides. No right angles. Very pleased with itself as a shape."
       },
       {
         "number": 3,
@@ -933,7 +933,7 @@
       },
       {
         "number": 3,
-        "initials": "L G",
+        "initials": "L",
         "clue": "There's a lemon. It's on the grass. That's it. Someone's just left a lemon on the grass and walked off. Nobody's explained why."
       }
     ]
@@ -1136,17 +1136,17 @@
       {
         "number": 1,
         "initials": "T",
-        "clue": "A Greek woman has a jar of yoghurt and a cucumber and she's getting properly stuck in. There's a goat nearby just watching. The goat seems fine with the whole situation."
+        "clue": "Right, someone's gone and bought a load of cheap rubbish at a car boot sale and then made a buzzing sound about it and gone to unlock the door. Cucumber dip, apparently."
       },
       {
         "number": 2,
         "initials": "A",
-        "clue": "A bloke in Provence has seen something and gone, right, I'll have some of that. He's saying it in a very French way. There's garlic and oil involved. He's very confident about the garlic."
+        "clue": "Someone's gone and poked themselves in the eye and said 'oh' and then wandered off to the sheltered side of a hill. It's garlic sauce, not a medical emergency."
       },
       {
         "number": 3,
         "initials": "H",
-        "clue": "Someone in North Africa has been having a right row. Properly going for it. Very fiery about the whole thing. They've put the row into a jar and labelled it. It's quite red."
+        "clue": "Someone from the Isle of Harris has put an A on the end of their name and called it a sauce. Very spicy. They sell a lot of it."
       }
     ]
   },
@@ -1171,12 +1171,12 @@
       {
         "number": 2,
         "initials": "R R",
-        "clue": "Right, there's this road and at the end of it there's another road, and at the end of that one there's a bloke called Ron. And he's ranged all along it."
+        "clue": "Someone had a row on a boat and got tangled in the net. Then they rang a bloke called Nathan to sort it out."
       },
       {
         "number": 3,
         "initials": "N K",
-        "clue": "Someone called Nish is kneeling in a field going through a big bunch of keys. He's looking for one specific one. Won't say which."
+        "clue": "There's a Jewish pastry, the k is silent, and a pigeon that won't stop cooing, and between the two of them they've gone and spoiled something."
       }
     ]
   },
@@ -1201,12 +1201,12 @@
       {
         "number": 2,
         "initials": "T",
-        "clue": "A big lad called Titus has been on a boat. He said it was unsinkable. His mate Ian said that was tempting fate. Titus said it'd be fine. It wasn't fine."
+        "clue": "Someone's put a necktie on a very tanned bloke and the general reaction to the whole scene was 'ick'. That's fair enough really."
       },
       {
         "number": 3,
         "initials": "C",
-        "clue": "A fella called Colin has gone on a trip to South America. Not on a plane. In a rocket. Everyone watching said it'd go fine. Colin said it'd go fine. It didn't go fine. There's a river named after the place he was heading."
+        "clue": "There's a high mountain pass, and when someone got to the other side they went 'um', and there was a bee there just hovering about."
       }
     ]
   },
@@ -1232,7 +1232,7 @@
       {
         "number": 2,
         "initials": "C",
-        "clue": "Right, there's a saucepan. And someone's arrived. And they seem quite pleased about both of those things. That's the gist of it."
+        "clue": "Someone's arrived and there's their dad sitting there with a dodgy knee. Nobody explains why. It's just that situation."
       },
       {
         "number": 3,
@@ -1257,12 +1257,12 @@
       {
         "number": 1,
         "initials": "D S",
-        "clue": "The letter that makes the dee sound has gone on holiday to somewhere sheltered from the wind (very calm there, protected) and when it got back it had become a blacksmith. Made a few horseshoes. Seemed pleased."
+        "clue": "There's a river in Wales, all sheltered from the wind on the calm side, and at the end of it there's a blacksmith just standing there with a hammer."
       },
       {
         "number": 2,
         "initials": "M B",
-        "clue": "A female horse has come in and it's gone a bit red in the face, embarrassed about something. And there's a small round fruit (soft, grows on a bush) sitting there looking very smug about the whole situation."
+        "clue": "Someone's gone and got wed to a small soft fruit. It grows on a bush. Nobody raised any concerns at the time."
       },
       {
         "number": 3,
@@ -1327,7 +1327,7 @@
       {
         "number": 3,
         "initials": "P",
-        "clue": "Someone's potted a plant and it's done well. Really well. Suspiciously well. The neighbours are a bit jealous about it. They've been asking what he put in the soil and he's not telling."
+        "clue": "Someone's potted a plant and it's done suspiciously well. The neighbours have been asking what he put in the soil and he's not saying."
       }
     ]
   },
@@ -1346,8 +1346,8 @@
     "clues": [
       {
         "number": 1,
-        "initials": "A O L",
-        "clue": "A lad's said something, right, and it was an order, and then he just went off and did his laundry. That's his whole day."
+        "initials": "A",
+        "clue": "There's the word 'a', just the one, then someone goes 'oh' like they've just remembered something, and then there's the letter you stick on the back of a learner's car. That's the internet company."
       },
       {
         "number": 2,
@@ -1356,8 +1356,8 @@
       },
       {
         "number": 3,
-        "initials": "I C Q",
-        "clue": "That lad Ian's checking something out, then he's putting it in a line. Just queuing things up all day."
+        "initials": "I",
+        "clue": "Someone went off on their own to have a look at something, and when they got back there was a massive queue waiting. They were not pleased."
       }
     ]
   },
@@ -1382,7 +1382,7 @@
       },
       {
         "number": 2,
-        "initials": "W E",
+        "initials": "W",
         "clue": "A wall. Solid wall, nice brickwork. And right next to it, someone's put the letter E. Just the letter, leaning on the wall. That's your lot."
       },
       {
@@ -1408,7 +1408,7 @@
       {
         "number": 1,
         "initials": "M",
-        "clue": "There's a magazine - a glossy one - and it's saying no, and then someone's telling a lie. All happening at once, which is a lot."
+        "clue": "There's a magazine that keeps saying no to everything in it, and it's all happening in a very sheltered, calm spot."
       },
       {
         "number": 2,
@@ -1479,7 +1479,7 @@
       },
       {
         "number": 3,
-        "initials": "D N A",
+        "initials": "D",
         "clue": "That twisty ladder thing inside every single one of your cells. Has all your information on it. Like a filing system."
       }
     ]
@@ -1532,16 +1532,16 @@
       {
         "number": 1,
         "initials": "M",
-        "clue": "There's a bloke called Mo, right, and he's absolutely roasting in the heat. Proper sweating. Then he makes a disappointed noise."
+        "clue": "Someone's mowing the lawn and a bloke's gone and stood right on the end bit. Right on the toe. Very unfortunate."
       },
       {
         "number": 2,
         "initials": "C",
-        "clue": "Someone's clearing a floor with a bucket and they've got the thing attached to a stick - you know the thing - and it's a bit lit up, and there's a man. All happening at the same time."
+        "clue": "Someone said 'cos' and then mopped the floor, and then the letter O went and lit itself up, and there was a man there just taking it all in."
       },
       {
         "number": 3,
-        "initials": "H W B",
+        "initials": "H W",
         "clue": "A hearty laugh, then the letter V, then someone's headbutted a wall and made a right bang."
       }
     ]
@@ -1592,12 +1592,12 @@
       {
         "number": 1,
         "initials": "M",
-        "clue": "We all want a bit more of something but it's making us feel a bit poorly. There's a group of us involved and we're all in the same boat. Indian Ocean."
+        "clue": "We all want a bit more of something but it's left us all feeling a bit ish. All of us together in the same boat. Quite warm."
       },
       {
         "number": 2,
         "initials": "S",
-        "clue": "A woman is standing by the sea saying the word for a hard outer casing of a sea creature over and over. Just repeating it. Calmly. Indian Ocean again."
+        "clue": "A woman's standing by the sea saying the word for those hard round things you find on beaches. Just saying it over and over. Calm as anything."
       },
       {
         "number": 3,
@@ -1632,7 +1632,7 @@
       {
         "number": 3,
         "initials": "S I",
-        "clue": "A film came out, a sequel to a previous one, and it went straight to the doctor for a jab. Didn't even wait for the reviews."
+        "clue": "A film came out, a sequel, and it went straight to the doctor for a jab. Didn't bother waiting for the reviews."
       }
     ]
   },
@@ -1693,7 +1693,7 @@
       },
       {
         "number": 3,
-        "initials": "BK",
+        "initials": "B",
         "clue": "Right, there's a bear with a bird in his backpack. They're best mates. Off on some sort of musical adventure. Bit mad."
       }
     ]
@@ -1714,7 +1714,7 @@
       {
         "number": 1,
         "initials": "P",
-        "clue": "A pet called Peter has gone to a shop (a very rocky one, carved into a cliff face) and come back with something. In Jordan. He went through a narrow gap to get there. Didn't explain why."
+        "clue": "Someone's pet is in a stare-off with the Egyptian sun god. Just Ra and the pet. Neither backing down. Jordan."
       },
       {
         "number": 2,
@@ -1848,7 +1848,7 @@
       {
         "number": 3,
         "initials": "T",
-        "clue": "There's a tan being done in a country. The whole country is getting a tan, very systematically. Someone's timing it. The tan is coming out quite nice actually."
+        "clue": "There's a load of people who tan all the time and they've been at it well into the night. Just tanning away in the dark. Very committed."
       }
     ]
   },
@@ -1868,7 +1868,7 @@
       {
         "number": 1,
         "initials": "M",
-        "clue": "My toe is in a state. It's got a condition, something wrong with it, and it's been going on for a while. My toe. Con-dry-a."
+        "clue": "Something's gone wrong with my toe. It's been a proper con and it's all dried up now. There's no explaining it."
       },
       {
         "number": 2,
@@ -1928,12 +1928,12 @@
       {
         "number": 1,
         "initials": "P",
-        "clue": "[CLUE NEEDS REWRITE] You've arrived in a harbour town, right, and you order a glass of that dark fortified wine they do, and the barman just says it is. Like that's the whole answer."
+        "clue": "There's a harbour town and someone's been asked if the dark fortified wine they're pouring comes from the headland. Turns out it does. Port, is, head. There you go."
       },
       {
         "number": 2,
         "initials": "M A",
-        "clue": "[CLUE NEEDS REWRITE] Someone's got a really big something, enormous, massive, and it's come at them at full speed. That's the whole situation."
+        "clue": "There's a mother out there sieving something, don't know what, flour maybe. And then she just went for it. Attacked. Not sure why."
       },
       {
         "number": 3,
@@ -1957,12 +1957,12 @@
     "clues": [
       {
         "number": 1,
-        "initials": "M",
+        "initials": "M G",
         "clue": "A soft lad in New Orleans has been a bit of a snitch. He's gone and told on someone. The French blokes nearby are not impressed but they've still got their beads out."
       },
       {
         "number": 2,
-        "initials": "B",
+        "initials": "B M",
         "clue": "There's a fella in the Nevada desert who's clearly on fire. He's a bloke. He's been on fire for a while now. Everyone around him seems to think this is part of the event."
       },
       {
@@ -1993,7 +1993,7 @@
       {
         "number": 2,
         "initials": "Q",
-        "clue": "Someone's gone into the school courtyard - the square one with the benches - and they're doing something involving rye bread and it's all gone a bit off. Smells."
+        "clue": "Someone's gone into the school courtyard, the square one with the benches, and they're doing something involving rye bread and it's all gone a bit off. Smells."
       },
       {
         "number": 3,
@@ -2019,7 +2019,7 @@
     "clues": [
       {
         "number": 1,
-        "initials": "S B",
+        "initials": "S",
         "clue": "A celestial body has gone and collected a load of male deer money. Just piled it all up. No reason given."
       },
       {
@@ -2115,12 +2115,12 @@
       {
         "number": 2,
         "initials": "D E",
-        "clue": "Someone's had a bit of a wobble right in the middle of their workout. Light went out. Didn't finish the set."
+        "clue": "The letter D is standing next to something that is the colour of fresh snow. And then there's a very calm-looking eye. Someone's asking how, and hesitating at the end."
       },
       {
         "number": 3,
         "initials": "J C",
-        "clue": "That bloke from Nazareth's gone and got himself a little vehicle. Nothing fancy. Just rolling about."
+        "clue": "Someone's taken a jimmy to a small cart. Just gone at it with the pry bar. Pushed it right over. Er."
       }
     ]
   },
@@ -2139,7 +2139,7 @@
     "clues": [
       {
         "number": 1,
-        "initials": "W M",
+        "initials": "W",
         "clue": "You're out west somewhere. Everything's going brilliantly. And there's a massive horse. Just standing there, looking impressive."
       },
       {
@@ -2200,17 +2200,17 @@
       {
         "number": 1,
         "initials": "E",
-        "clue": "In ancient Mesopotamia, someone has had an incredibly long bath. Been in it for weeks. Very relaxed about the whole thing. Civilisations have risen and fallen while he's just been lying there. Took the phrase 'you fret too much' very seriously."
+        "clue": "Someone's pointing right at you, saying you've started a bit of a scuffle, and there are golf pegs all over the place."
       },
       {
         "number": 2,
         "initials": "Z",
-        "clue": "In southern Africa, a bloke has tried to spell something out loud and made it sound like a sneeze in the middle. He's finished the sentence and looked quite pleased with himself. Everyone else is baffled but polite about it."
+        "clue": "The letter Z is having one of those days. Just going 'am'. Then 'be'. Then 'zee'. Very repetitive for a consonant."
       },
       {
         "number": 3,
         "initials": "V",
-        "clue": "A Russian bloke has had a look at Europe's longest river and gone, right, that's ours. Very proprietary about it. He's standing at the bank with his arms folded. The river carries on regardless."
+        "clue": "Someone's eaten one of those little pastry cases, a vol-au-vent, and just gone 'gah' straight after. Bit of a reaction. The pastry was perfectly fine."
       }
     ]
   },
@@ -2235,7 +2235,7 @@
       {
         "number": 2,
         "initials": "M B",
-        "clue": "Right, it's very important that someone has a wash. The whole thing hinges on it. Can't stress it enough."
+        "clue": "Someone's got one of the twelve calendar things and left it completely blank. Not a thing written in it. Blank. The whole lot."
       },
       {
         "number": 3,
@@ -2261,7 +2261,7 @@
       {
         "number": 1,
         "initials": "J",
-        "clue": "A jay bird - the blue one, a bit aggressive with the other birds - has had a son. A baby jay. A son. That's it."
+        "clue": "A jay bird, the blue one, a bit aggressive with the other birds, has had a son. A baby jay. A son. That's it."
       },
       {
         "number": 2,
@@ -2300,7 +2300,7 @@
       },
       {
         "number": 3,
-        "initials": "E A F",
+        "initials": "E A",
         "clue": "There's a bloke called Al and someone's been watching him. Following him about. And this Al, right, he's in quite good shape."
       }
     ]
@@ -2413,12 +2413,12 @@
       {
         "number": 1,
         "initials": "P",
-        "clue": "An ancient Greek bloke has turned up with a set of triangles and he's very smug about the long side. Won't stop going on about it."
+        "clue": "Right, there's some spongy white stuff from inside a plant stem, and then something's gone and got very gory and violent, and all of us have been dragged into it somehow."
       },
       {
         "number": 2,
         "initials": "L",
-        "clue": "There's a wooden cabin in a forest and someone's doing a sum in there. Very slow sum. Took most of the afternoon."
+        "clue": "There's a floating bit of timber and someone's banging a very regular beat on it. Drifting downstream, keeping time. Very committed."
       },
       {
         "number": 3,
@@ -2452,8 +2452,8 @@
       },
       {
         "number": 3,
-        "initials": "T",
-        "clue": "[CLUE NEEDS REWRITE] Someone's been in the cupboard where you keep your stuff. Had a proper rummage in there. Found something odd."
+        "initials": "G",
+        "clue": "There's a complete idiot standing there going arr at everyone. Like a pirate, but worse. Making a racket."
       }
     ]
   },
@@ -2508,7 +2508,7 @@
       {
         "number": 2,
         "initials": "V",
-        "clue": "Someone's been moving very fast, almost at top speed, and then they've gone and done a bit of wrapping on someone. In a tropical setting. Very quick. Very violent."
+        "clue": "Something's been moving at incredible velocity and then rapped hard on the door of a rocky tor up on a hillside. Nobody was in. Very anticlimactic."
       },
       {
         "number": 3,
@@ -2543,7 +2543,7 @@
       {
         "number": 3,
         "initials": "F",
-        "clue": "Water's been moving through a pipe somewhere and someone's left a piece of jewellery right in the middle of it. Not ideal plumbing."
+        "clue": "Right, there's someone trapped inside the floor. Just in the floor. Can't get out. Very odd situation and nobody's dealing with it."
       }
     ]
   },
@@ -2595,7 +2595,7 @@
       {
         "number": 1,
         "initials": "S",
-        "clue": "A bloke in Japan is doing something very carefully with raw fish and rice. He's very particular about it. Won't be rushed."
+        "clue": "A woman has decided to take someone to court. She's going to sue. She is. Very determined. Just her and the legal system."
       },
       {
         "number": 2,
@@ -2806,7 +2806,7 @@
       {
         "number": 1,
         "initials": "W",
-        "clue": "A bloke from a county in England has gone to see someone called Chester but he's got a bad knee and he's got to go through a place that sounds like it belongs to a sock. It's a lot of effort for a sauce."
+        "clue": "There's a fella been going round chatting up a county of England. Very persistent. Keeps saying ta. Moved into the shire and everything."
       },
       {
         "number": 2,
@@ -2816,7 +2816,7 @@
       {
         "number": 3,
         "initials": "B",
-        "clue": "A French bloke called Bernie has gone and shaved something. Very precisely. Took ages. The end result is a white sauce and everyone's acting like it's completely normal."
+        "clue": "Someone's given something a right good thump. And then a celebrity called Mel has turned up and got involved. White sauce all round."
       }
     ]
   },
@@ -2840,8 +2840,8 @@
       },
       {
         "number": 2,
-        "initials": "B B",
-        "clue": "There's a bloke called Bob and he's just sat there doing absolutely nothing. He's been there an hour. He seems content."
+        "initials": "B M",
+        "clue": "There's a bloke called Bob who keeps asking for just a bit more time on his countdown. Very relaxed about it. In no rush whatsoever."
       },
       {
         "number": 3,
@@ -2866,12 +2866,12 @@
       {
         "number": 1,
         "initials": "P",
-        "clue": "A cheerleader's fluffy pompom has gone and earned a wage and gone ee about it."
+        "clue": "A cheerleader's fluffy pompom has gone and landed itself a job. Getting paid now. Very proud of itself."
       },
       {
         "number": 2,
         "initials": "K",
-        "clue": "There's a volcano somewhere warm. A cracker has gone off and woken everyone up on a nearby island. They're not best pleased. The noise went right across the sea. People on the next island heard it and thought it was a kettle."
+        "clue": "There's a volcano somewhere warm. A cracker has gone off and woken everyone up on a nearby island. They're not best pleased. The noise went right across the sea."
       },
       {
         "number": 3,
@@ -2902,12 +2902,12 @@
       {
         "number": 2,
         "initials": "H",
-        "clue": "There's a pig joint in a tin, it's not well, and there's a heavy lump of metal on top of it. All in a row. No idea what's going on there."
+        "clue": "There is a tin of pig meat, it is not well, and there is a heavy unit of weight on top of it. All in a row. No idea what is going on there."
       },
       {
         "number": 3,
         "initials": "C",
-        "clue": "There's a very timid sort of car and it's just driven off. Won't come back. Bit embarrassed about something."
+        "clue": "There is a very timid sort of car and it has just driven off. Will not come back. Bit embarrassed about something."
       }
     ]
   },
@@ -2927,17 +2927,17 @@
       {
         "number": 1,
         "initials": "G R",
-        "clue": "A bloke with a very grand title (like a Don, a proper important one) has walked into a field and come face to face with a male sheep that's started talking. The sheep says something. Nobody knows what."
+        "clue": "There has been a bit of a gory mess, and then a very important bloke with a grand title has walked into a field and come face to face with a male sheep that will not stop talking."
       },
       {
         "number": 2,
         "initials": "H B",
-        "clue": "Someone's weighed out exactly a ton of flowers that have just come into bloom and they're standing there feeling very philosophical about the whole thing. Taken ages. Lot of petals involved."
+        "clue": "Apparently he is carrying a ton of very tall blue men. Very specific. He seems satisfied with the outcome."
       },
       {
         "number": 3,
         "initials": "N L",
-        "clue": "There's a kid who keeps saying no, very insistent about it, and they've gone all wobbly like a dessert at a children's party. Meanwhile someone's had a row with the police and won. Which is unusual."
+        "clue": "Someone has gone and bent their knee and it has turned completely jelly-like, and now the police have turned up with their lad. It has all got very complicated."
       }
     ]
   },
@@ -2987,17 +2987,17 @@
       {
         "number": 1,
         "initials": "P",
-        "clue": "A bloke called Ross has been given a job moving heavy things around a factory. He's got a van. He's picking stuff up. The foreman keeps phoning asking where the deliveries are."
+        "clue": "There is a big old ditch that has been dug on behalf of all of us. Nobody asked for it but there it is. Just sitting there."
       },
       {
         "number": 2,
         "initials": "M",
-        "clue": "A woman called Maggie has been told her knees are in a bad way. The doctor has had a look. He's not thrilled. Said she's been overdoing it on some kind of machine."
+        "clue": "There is a magazine, and someone has had a proper look at their dodgy knee in it, then gone um about the whole thing. Three separate events."
       },
       {
         "number": 3,
         "initials": "F",
-        "clue": "A woman called Flo has gone in and had a look at a drain. She's not happy with what she found in there. She's reporting it back but nobody's listening properly."
+        "clue": "A bird flew straight into a drainage channel and came out the other end. Nobody was expecting it. The bird was not bothered."
       }
     ]
   },
@@ -3078,12 +3078,12 @@
       {
         "number": 1,
         "initials": "E",
-        "clue": "You've gone and called out to us. Shouted over. But there's a lip involved and it's all got a bit fussy from there."
+        "clue": "A yew tree has been calling out to some lips, and then the whole lot got tossed aside. Bit of an overreaction."
       },
       {
         "number": 2,
         "initials": "B",
-        "clue": "Right, there's a bay window - like on an old Victorian house - and someone's said oh, and then called their mate bab. All in one breath."
+        "clue": "Right, there is a bay window, like on an old Victorian house, and someone has said oh, and then called their mate bab. All in one breath."
       },
       {
         "number": 3,
@@ -3118,7 +3118,7 @@
       },
       {
         "number": 3,
-        "initials": "H",
+        "initials": "H V",
         "clue": "The chicken kept squawking out the Roman numeral for eight. Over and over. Didn't stop."
       }
     ]
@@ -3181,7 +3181,7 @@
       {
         "number": 3,
         "initials": "N",
-        "clue": "Right, this woman's been given a bit of a put-down - someone's having a go at her - and then she rows somewhere, and then she lands on her knee. All in one afternoon."
+        "clue": "This woman has been given a bit of a put-down, then she rows somewhere, and then she lands on her knee. All in one afternoon."
       }
     ]
   },
@@ -3261,17 +3261,17 @@
       {
         "number": 1,
         "initials": "M",
-        "clue": "A car that runs on gas has completely lost the plot. Absolute state of it. Driving around an African island causing bother."
+        "clue": "Something has gone completely mad, and a gas-powered car has arrived. That is the whole story. African island."
       },
       {
         "number": 2,
         "initials": "B",
-        "clue": "A fella's knee is absolutely fed up. Just bored to death. Gone oh about the whole thing. Tropical island situation."
+        "clue": "A knee is absolutely fed up. Just bored to death. Gone oh about the whole thing. Tropical island situation."
       },
       {
         "number": 3,
         "initials": "S",
-        "clue": "A woman called Sue has taken her mum to court while they were both on a tram somewhere exotic. The mum's not pleased."
+        "clue": "Someone has decided to take legal action against their mum while she is balancing a tray. Poor timing all round."
       }
     ]
   },
@@ -3291,7 +3291,7 @@
       {
         "number": 1,
         "initials": "P",
-        "clue": "A fish has taken up a hobby. Not swimming. Something else. A leisure activity. It's casting a line, which is ironic, but that's what it's doing."
+        "clue": "A fish has taken up a hobby. Not swimming. Something else. A leisure activity. It is casting a line, which is ironic, but that is what it is doing."
       },
       {
         "number": 2,
@@ -3300,7 +3300,7 @@
       },
       {
         "number": 3,
-        "initials": "F W",
+        "initials": "F",
         "clue": "There's been a bit of a blaze and it's hit a load of bricks. The bricks are fine. They're not bothered. The fire is out now."
       }
     ]
@@ -3393,7 +3393,7 @@
       {
         "number": 3,
         "initials": "C",
-        "clue": "Someone in Rome has got a building shaped like a big ring and they're asking everyone to come in. Very enthusiastically. The word 'come' keeps cropping up. And 'see um'. Odd tour guide."
+        "clue": "There is a mountain pass, and all of us are standing there having a look at something, then going um about it. Bit of a tourist situation."
       }
     ]
   },
@@ -3474,7 +3474,7 @@
       {
         "number": 1,
         "initials": "A",
-        "clue": "Alex has gone somewhere quite far and he's been writing. Writing and writing. He's done it in a proper hurry. Everyone's asking what he's written and he's saying it's all quite light."
+        "clue": "Someone has given their ex absolutely everything, and it turns out the ex was right the whole time. Make of that what you will."
       },
       {
         "number": 2,
@@ -3484,7 +3484,7 @@
       {
         "number": 3,
         "initials": "M",
-        "clue": "A green woman called Mal has decided to hit something quite hard. She's done it methodically. The thing she's hit has gone a bit stripy. Nobody's sure why she did it."
+        "clue": "Something has gone badly wrong and there is a kite circling overhead looking for an opportunity. Does not bode well."
       }
     ]
   },
@@ -3504,7 +3504,7 @@
       {
         "number": 1,
         "initials": "P",
-        "clue": "A fella's gone and made a massive meal out of something but it's turned into a right old drama. Everyone's tense."
+        "clue": "There is a cooking pan, and apparently the Cree are involved, and the whole thing affects all of us. That is biology for you."
       },
       {
         "number": 2,
@@ -3564,12 +3564,12 @@
       {
         "number": 1,
         "initials": "P S",
-        "clue": "[CLUE NEEDS REWRITE] The first one on offer, the screaming at the beginning, the initial burst, it's primal, they reckon. Very raw."
+        "clue": "There's a first-rate bit of beef, top quality stuff, and a bloke called Al has seen something that's given him a proper fright. Real shriek, it was."
       },
       {
         "number": 2,
         "initials": "S",
-        "clue": "[CLUE NEEDS REWRITE] A bloke's wearing a really nice suit, very elegant, bit fancy, and someone's asked where it's from. Just one word."
+        "clue": "Someone's been completely won over. Totally moved over to one side. Couldn't say no to it in the end."
       },
       {
         "number": 3,
@@ -3624,7 +3624,7 @@
       {
         "number": 1,
         "initials": "P",
-        "clue": "She fell over, and well, blimey. Just went down. Said something like 'oh, jeez' on the way. Bit of a tumble."
+        "clue": "Someone's belting out that note from music class, the fa one, then they're talking about their bit of ground, their land, and then they go 'jeez' about the whole thing."
       },
       {
         "number": 2,
@@ -3661,12 +3661,12 @@
       {
         "number": 2,
         "initials": "N",
-        "clue": "Right, there's a fella who won't have any of it. Not on your life. Absolutely refuses. Nokia."
+        "clue": "Right, there's a fella who won't have any of it. Keeps saying no. He's also lost his door key and can't find it anywhere."
       },
       {
         "number": 3,
         "initials": "N",
-        "clue": "Someone's saying no very quickly and then talking about an icon. Some sort of symbol. Won't stop going on about it."
+        "clue": "Someone's nearly done something, very close to finishing, and they've been conned at the same time. Swindled on the home stretch."
       }
     ]
   },
@@ -3721,7 +3721,7 @@
       {
         "number": 2,
         "initials": "P",
-        "clue": "That bloke's got a tiny little horse-drawn cart and he's been riding it round Italy all day. Bit odd, really."
+        "clue": "A cat's sat there making that noise, purring away, then someone's said oh, and then it turns out there's a knee involved. Very odd combination."
       },
       {
         "number": 3,
@@ -3786,7 +3786,7 @@
       {
         "number": 3,
         "initials": "P",
-        "clue": "A man with very large ears has been working in a field. He's done a good job and now someone's offering him a pen. As a reward. For the ears situation."
+        "clue": "Someone's got a writing instrument and it's managed to collide with the bit of their leg that bends. Nothing to do with each other but there they are."
       }
     ]
   },
@@ -3816,7 +3816,7 @@
       {
         "number": 3,
         "initials": "O",
-        "clue": "In Venezuela, someone has ordered something and it's come round, looped back and gone past them again. Very circular situation. They're confused but they keep ordering. The waiter has done about four laps now."
+        "clue": "Someone's given a choice, saying or, then they're all surprised about it, ee, then they say no, and it turns out it's a company. Lot of drama over not very much."
       }
     ]
   },
@@ -3868,12 +3868,12 @@
       {
         "number": 1,
         "initials": "P",
-        "clue": "There's a handbag - a little purse - and she's easy to get on with. Very relaxed. And there are two of them together. That's what's happening."
+        "clue": "There's a handbag, a little purse, and she's easy to get on with. Very relaxed. And there are two of them together. That's what's happening."
       },
       {
         "number": 2,
         "initials": "M",
-        "clue": "A woman keeps saying it belongs to her. That thing over there - she says it's hers. She's doing it, she says. And there's a snooze involved somehow."
+        "clue": "A woman keeps saying it belongs to her. That thing over there, she says it's hers. She's doing it, she says. And there's a snooze involved somehow."
       },
       {
         "number": 3,
@@ -3934,7 +3934,7 @@
       {
         "number": 2,
         "initials": "N",
-        "clue": "There's a mesh thing - like what you'd use for catching fish - and it's going round kicking and flicking. Very energetic."
+        "clue": "There's a mesh thing - like what you'd use for catching fish - and it's teamed up with the old word for going to see a picture. Your nan would say she was off to the flicks."
       },
       {
         "number": 3,
@@ -4025,12 +4025,12 @@
       {
         "number": 2,
         "initials": "F",
-        "clue": "An Italian bloke, quite old, medieval sort, has been adding up rabbits. Keeps starting with one and then adding them together. He looks very satisfied."
+        "clue": "Someone's told a small lie, gone a bit surprised about it, said nah to the whole situation, and then all their life energy drained away. Very medieval Italian mathematician about it."
       },
       {
         "number": 3,
         "initials": "C",
-        "clue": "Someone's worked out the distance round the outside of a circle. It's taken ages. They're measuring the rim of a large wheel. Very focused."
+        "clue": "A knight's turned up wearing a furry coat and there are ants everywhere. Right on him. Bit distracting when you're trying to work out the distance round the outside of a circle."
       }
     ]
   },
@@ -4080,17 +4080,17 @@
       {
         "number": 1,
         "initials": "T",
-        "clue": "Someone's having a go at something, a real proper attempt, three times if necessary, and Sarah keeps turning up with hats on. Just loads of hats. Three of them on her head."
+        "clue": "Someone's having a go at something, proper attempt, and there's a knighted bloke going ah about a pile of hats. Three horns, very prehistoric."
       },
       {
         "number": 2,
         "initials": "A",
-        "clue": "Someone's twisted their ankle and they're really sore about it and they want all of us to know that. Not just them. Us as well. The ankle is central to this story."
+        "clue": "Someone's twisted their ankle, gone oh about it, and they're really quite sore. Wants all of us to know. Not a quiet sufferer."
       },
       {
         "number": 3,
         "initials": "B",
-        "clue": "A donkey's made a noise, proper loud bray, while holding a key, and then something sore has come up involving the lot of us. It's been a long afternoon."
+        "clue": "A donkey's made a right racket, proper loud bray, while holding a door key. Went oh when it realised. The whole thing ended up being quite sore for all of us."
       }
     ]
   },
@@ -4110,17 +4110,17 @@
       {
         "number": 1,
         "initials": "S",
-        "clue": "A bloke called Soak has had a go at something and made a right mess of it. His mate Rates has watched the whole thing. Both of them are standing in Athens looking baffled."
+        "clue": "A piece of hosiery's been shouting encouragement at the golf course. Very vocal. Right by the little pegs where you tee off. Bit inappropriate."
       },
       {
         "number": 2,
         "initials": "N",
-        "clue": "A fella called Neat has gone over a set of railings, and he's done it in a sort of stylish way. He's very pleased with himself. Bit much."
+        "clue": "Someone's gone down on one knee for a cup of cha. Very dramatic way to have a brew. German fella, bit intense."
       },
       {
         "number": 3,
         "initials": "D",
-        "clue": "A man's sitting in a room in France and he's not sure if anything exists. He's thinking very hard about it. He's convinced himself he's there but not much else."
+        "clue": "It was a specific day of the week and someone had a wheeled trolley. Very philosophical about whether any of it actually happened."
       }
     ]
   },
@@ -4207,12 +4207,12 @@
       {
         "number": 2,
         "initials": "R",
-        "clue": "A Japanese bloke called Ray has had enough of men. Just had it with them. He's making broth instead. Very wise."
+        "clue": "A beam of light has had enough of blokes. Just had it with them. Making broth instead. Very wise."
       },
       {
         "number": 3,
         "initials": "G",
-        "clue": "Something thick and sticky has lashed out at someone in Budapest. Completely unprovoked. Beef involved."
+        "clue": "Something thick and sticky has gone and lashed out. Very aggressive for a stew. Hungarian setting, beef involved."
       }
     ]
   },
@@ -4242,7 +4242,7 @@
       {
         "number": 3,
         "initials": "G",
-        "clue": "Right, there's a girl who's gone a bit angular somehow. She's all elbows and angles. And then another girl has turned up to look at her."
+        "clue": "There's a girl who's completely obsessed with geometry. Just gone totally angle about everything. Corners everywhere. Very specific spice."
       }
     ]
   },
@@ -4298,7 +4298,7 @@
       {
         "number": 2,
         "initials": "C",
-        "clue": "Right, that fella in the library - the one who stamps the books and that - he's had a bit of a look and come back with a result. Found what he was after."
+        "clue": "Someone's had a good look at all their cash, gone oh about what they found, and there's a small round green vegetable sitting right next to it. Star constellation."
       },
       {
         "number": 3,
@@ -4323,7 +4323,7 @@
       {
         "number": 1,
         "initials": "E",
-        "clue": "There's a woman called Emma - nice enough - and she's very, very tall. Unusually tall. Just standing there being tall about it."
+        "clue": "There's a unit of print measurement that's gone completely mad. Just lost the plot. It's a Swiss cheese with holes in."
       },
       {
         "number": 2,
@@ -4333,7 +4333,7 @@
       {
         "number": 3,
         "initials": "P",
-        "clue": "A golfer hits it exactly average - right on par - then there's me, just standing there, and then that jungle fella who swings on vines shows up. All in a row."
+        "clue": "A golfer hits it exactly average, right on par, then there's me just standing there, and then that jungle fella who swings on vines shows up. All in a row."
       }
     ]
   },
@@ -4414,7 +4414,7 @@
       {
         "number": 1,
         "initials": "G",
-        "clue": "A Korean bloke has found a large jug and decided to put chilli and fermented things in it. He's very pleased with himself. The jug is a bit sticky now."
+        "clue": "Someone's been told to get going and catch the choo-choo. They drop their keys and make a right jang on the way out."
       },
       {
         "number": 2,
@@ -4443,8 +4443,8 @@
     "clues": [
       {
         "number": 1,
-        "initials": "B B",
-        "clue": "That fella Bob's gone and got himself stuck in the outer wall of a castle. Just his head sticking out. He's calm. Says the stone's quite comfortable actually."
+        "initials": "B M",
+        "clue": "A bloke's bobbing about in the pool. He keeps saying he wants more time in there. He's gone and set a kitchen timer on the edge. Nobody asked him to bring a kitchen timer to a pool."
       },
       {
         "number": 2,
@@ -4474,16 +4474,16 @@
       {
         "number": 1,
         "initials": "V",
-        "clue": "A Roman woman called Vera went to see a doctor called Zeus about her knees. He had a look and said he wasn't sure what was going on with them. She asked if he'd seen anything like it before. He said he hadn't. The knees were very sus."
+        "clue": "It's the letter V. Then someone's taking their neighbour to court. Then that same letter again. And all of us are involved somehow."
       },
       {
         "number": 2,
         "initials": "F",
-        "clue": "A kung fu move, a very long queue of people, a young woman, and her mum."
+        "clue": "There's the fighting bit of kung fu. A pigeon turns up and does its thing. Then a young woman. And her mum."
       },
       {
         "number": 3,
-        "initials": "C",
+        "initials": "D H",
         "clue": "There's a bloke called Len who works on an oil rig. It's deep out there. Very deep. He's got some water in his boots. More water than you'd want really. He's saying something about the horizon but he can't see it anymore."
       }
     ]
@@ -4535,12 +4535,12 @@
       {
         "number": 1,
         "initials": "J O",
-        "clue": "A bird (big blue one, sits in trees, makes a racket) has gone and borrowed something of yours. Just helped itself. And there's a bloke called Ollie standing nearby who's gone a bit green. Might be the bird's fault."
+        "clue": "A noisy blue garden bird's had something of mine. Just helped itself. And then there's a Mediterranean fruit with an extra letter R tacked onto the end of it for some reason."
       },
       {
         "number": 2,
         "initials": "N S",
-        "clue": "A lad keeps going no and going all stiff like he's set in jelly. Won't move. Very firm about it. Then someone comes in from the side and absolutely does him in. Very dramatic end to it all."
+        "clue": "Something's getting very close now. Someone's done their hair up. Then a lad gets absolutely done over at something. And there's a polite ta at the end of it all."
       },
       {
         "number": 3,
@@ -4595,7 +4595,7 @@
       {
         "number": 1,
         "initials": "E",
-        "clue": "Albert has moved into a new place. He's in a flat above a gym. He's been at it all day. Lots of effort. His neighbour says he never stops. The gym doesn't open until nine but Albert's already at it."
+        "clue": "There's the letter I, then the letter N, then a big German beer mug, then the joint in your leg, and then someone going um about the whole thing."
       },
       {
         "number": 2,
@@ -4605,7 +4605,7 @@
       {
         "number": 3,
         "initials": "C",
-        "clue": "Marie has gone on a city tour. She's very thorough about it. She's been round every street. She's taken notes. She's come back and she's writing it all up and saying she's quite fond of the place."
+        "clue": "Someone's found a remedy for what was wrong. Dead pleased about it. Then they write the letter E down. Then they just stand there going um and not saying anything else."
       }
     ]
   },
@@ -4655,7 +4655,7 @@
     "clues": [
       {
         "number": 1,
-        "initials": "L S",
+        "initials": "L A S",
         "clue": "Right, someone's gone into hiding - keeping a low profile, not drawing attention to themselves - and they've also mended their trousers. Done a bit of needlework while they were at it."
       },
       {
@@ -4686,7 +4686,7 @@
       {
         "number": 1,
         "initials": "S",
-        "clue": "Someone's had a big sigh and then gone back for extra helpings. Really wanted more of it. Can't help themselves."
+        "clue": "Someone's not feeling well at all. And yet they want more of whatever it is. They can't help themselves. Not ideal."
       },
       {
         "number": 2,
@@ -4716,7 +4716,7 @@
     "clues": [
       {
         "number": 1,
-        "initials": "H",
+        "initials": "H V",
         "clue": "That bird in the farmyard won't stop announcing a number. The Roman one. Repeatedly."
       },
       {
@@ -4820,7 +4820,7 @@
       {
         "number": 3,
         "initials": "A S",
-        "clue": "There's a large primate - a big one - and it's gone and rolled itself into a ball. Just lying there in a roll. And there's a fizzing sound as well."
+        "clue": "There's a large primate and it's gone and found a bread roll. Just sitting there with this bread roll, looking at it. And then there's a fizzing sound as well."
       }
     ]
   },
@@ -4880,7 +4880,7 @@
       {
         "number": 3,
         "initials": "M",
-        "clue": "Me nan keeps mixing up her tablets. She's going through all her little pill packs. Malta, she's saying. Where are me Malta, she goes."
+        "clue": "Me nan keeps mixing up her tablets with her malted drink powder. Just the one sachet of it, she's after. The tablets can wait."
       }
     ]
   },
@@ -4931,8 +4931,8 @@
     "clues": [
       {
         "number": 1,
-        "initials": "PM",
-        "clue": "There's a fella eating dots in a dark corridor. Just going around munching. Everyone's chasing him. Odd way to spend an evening."
+        "initials": "P",
+        "clue": "There's a fella who packs everything away as quick as he can. Very thorough at it. Dots, whatever's there. He's a man. That's about all there is to him."
       },
       {
         "number": 2,
@@ -4963,8 +4963,8 @@
     "clues": [
       {
         "number": 1,
-        "initials": "P",
-        "clue": "[CLUE NEEDS REWRITE] Some fella's at the harbour, pouring something out. Bit wasteful if you ask me."
+        "initials": "K",
+        "clue": "There's a right crack in something. Then someone goes ow. That's the size of it."
       },
       {
         "number": 2,
@@ -5118,12 +5118,12 @@
       {
         "number": 1,
         "initials": "E",
-        "clue": "There's a fella called Ev and he's only gone and banned something. Just banned it outright. Won't allow it."
+        "clue": "The night before something, and a bloke called Ian has turned up. He doesn't know what for. Very calm about it."
       },
       {
         "number": 2,
         "initials": "J",
-        "clue": "An Italian fella called Jack has gone a bit buzzy. Like, vibrating. Sort of fizzing about the place."
+        "clue": "Someone's using the tool you lift a car up with. A pigeon turns up. Then there's a bit of a buzzing zee sound."
       },
       {
         "number": 3,
@@ -5423,7 +5423,7 @@
     "clues": [
       {
         "number": 1,
-        "initials": "OFH",
+        "initials": "O F A H",
         "clue": "Right, there's just one fool in this situation. And he's got a horse. That's it."
       },
       {
@@ -5464,8 +5464,8 @@
       },
       {
         "number": 3,
-        "initials": "V",
-        "clue": "[CLUE NEEDS REWRITE] That bloke in the vest, he's gone up really high. Proper elevated. Bit cold up there."
+        "initials": "B",
+        "clue": "Right, some fella's gone out with nothing on. Completely starkers. Not a stitch. Out in the open."
       }
     ]
   },
@@ -5485,17 +5485,17 @@
       {
         "number": 1,
         "initials": "B M",
-        "clue": "That fella's sitting in the middle of a swamp doing a very dramatic impression of a gravestone. He's committed to it. Nobody's watching."
+        "clue": "Right, there's this bloke floating up and down in the water, and he's dead chuffed because there's a bit more time left on the clock for him."
       },
       {
         "number": 2,
         "initials": "V R",
-        "clue": "Right, Victor's gone and entered himself in a race and he's got his sleeve caught on a fence. He's still shuffling forward. Very committed."
+        "clue": "There's someone who's rubbed that mentholated chest stuff all over themselves, and now they're in charge of a load of medieval estate managers."
       },
       {
         "number": 3,
         "initials": "H H",
-        "clue": "Someone's drawn a great big face on a hillside. It's smiling. You can see it from the motorway. Nobody knows who did it."
+        "clue": "Right, someone's been proper pestering this hill. Just relentlessly hassling the elevated bit of ground. Won't leave it alone."
       }
     ]
   },
@@ -5515,7 +5515,7 @@
       {
         "number": 1,
         "initials": "T",
-        "clue": "Right, that little digital pet thing - Tim's gone and got one, and now he won't stop feeding it. Cost him about a tenner from Woolies."
+        "clue": "Right, someone's put on a flat Scottish cap, then found a bit of that Eastern life-force energy, and somehow he's gone and obtained one."
       },
       {
         "number": 2,
@@ -5669,17 +5669,17 @@
       {
         "number": 1,
         "initials": "M",
-        "clue": "Right, the month before June. That's it. That's the clue. The month. Before June. With a ca on the end. Easy one this."
+        "clue": "Right, it's the month before June and there's one of them massive black and white killer whales floating about in it."
       },
       {
         "number": 2,
         "initials": "C",
-        "clue": "This bloke's right pleased with himself. He's found a small amount of something. Just a tiny bit. Core few. Core plus few."
+        "clue": "This bloke's right pleased with himself. He's found a small amount of something. Just a tiny bit."
       },
       {
         "number": 3,
         "initials": "I",
-        "clue": "That DJ again - he's got absolutely no idea what he's doing behind the decks. He be za - he be nothing, that's what he be."
+        "clue": "Right, there's this organ you look with, and a load of stinging insects have come along. And the letter A."
       }
     ]
   },
@@ -5710,7 +5710,7 @@
       {
         "number": 3,
         "initials": "A",
-        "clue": "Your mate Al has got himself all the kit. Every bit of equipment you could want."
+        "clue": "Right, your mate Al's gone on a nature walk and found one of them narrow coastal inlets. Bit chuffed about it."
       }
     ]
   },
@@ -5762,8 +5762,8 @@
     "clues": [
       {
         "number": 1,
-        "initials": "L",
-        "clue": "[CLUE NEEDS REWRITE] Right, a bloke called Lee has got himself a lion. Just the one. Standing there."
+        "initials": "N",
+        "clue": "Right, there's a city on the French Riviera and if you asked someone what the weather was like or how pleasant the people were, the word they'd use also happens to be the name of the place."
       },
       {
         "number": 2,
@@ -5772,8 +5772,8 @@
       },
       {
         "number": 3,
-        "initials": "N",
-        "clue": "[CLUE NEEDS REWRITE] That's quite a tidy-looking place, isn't it. Someone's been round with a cloth. Say it out loud."
+        "initials": "L",
+        "clue": "Right, there's a woman called Liz and she's gone all French about it. Everything's bon this, bon that. Very pleased."
       }
     ]
   },
@@ -5863,8 +5863,8 @@
       },
       {
         "number": 3,
-        "initials": "M A",
-        "clue": "[CLUE NEEDS REWRITE] It's an absolutely enormous assault. Really huge. Came from nowhere. Massive thing altogether."
+        "initials": "N",
+        "clue": "Something's just round the corner, very close by, and a big delivery van's pulled up right next to it. And there's one more vowel."
       }
     ]
   },
@@ -5890,8 +5890,8 @@
       },
       {
         "number": 2,
-        "initials": "H",
-        "clue": "A fella's doing a bit of hover-craft manoeuvring and he's going over something. Just passed right over it."
+        "initials": "D",
+        "clue": "Right, someone's gone and coloured something with that fabric stuff, and their boy's standing there watching the whole thing."
       },
       {
         "number": 3,
@@ -5925,8 +5925,8 @@
       },
       {
         "number": 3,
-        "initials": "D C",
-        "clue": "Big old church - proper massive Norman one. Towers, pointed roof, the lot. Durham. That'll do."
+        "initials": "Y M",
+        "clue": "Right, there's the yellow round bit in the middle of an egg, and it's landed on top of a massive old cathedral-style place."
       }
     ]
   },
@@ -5945,13 +5945,13 @@
     "clues": [
       {
         "number": 1,
-        "initials": "S B",
+        "initials": "S",
         "clue": "This archer, right, he's absolutely massive. Like, properly huge. And his bow's enormous. Just enormous."
       },
       {
         "number": 2,
         "initials": "I B",
-        "clue": "There's a Scottish fella who's had a whole metal bar welded onto his forehead. He seems alright about it, actually."
+        "clue": "Right, there's a big heavy lump of iron and someone's gone and made a hot drink out of it somehow. Scottish. Very on-brand."
       },
       {
         "number": 3,
@@ -6012,12 +6012,12 @@
       {
         "number": 2,
         "initials": "D",
-        "clue": "Someone's gone and cut a rope clean in two - severed it - and now there's a right argument going on about it. Disagreement."
+        "clue": "Someone's gone and cut a rope clean in two, severed it, and now there's a right argument going on about it."
       },
       {
         "number": 3,
         "initials": "P",
-        "clue": "There's a noticeboard covered in sharp little things - you know the type - and someone's taken a real interest in it. Very invested."
+        "clue": "There's a noticeboard covered in sharp little things, you know the type, and someone's taken a real interest in it. Very invested."
       }
     ]
   },
@@ -6130,7 +6130,7 @@
     "clues": [
       {
         "number": 1,
-        "initials": "C A A A L",
+        "initials": "C A A A A L",
         "clue": "Right, the price of this thing was someone's entire upper limb and also one of their lower limbs. Very expensive. Left them in a state."
       },
       {
@@ -6166,12 +6166,12 @@
       {
         "number": 2,
         "initials": "B B",
-        "clue": "Right, Bill's been given a pile of twigs and branches and he's building something. He won't say what. He's been at it three days."
+        "clue": "There's an invoice that's come through, right. For an outer wall of a castle. They've billed you for the bailey. A bill for the bailey."
       },
       {
         "number": 3,
-        "initials": "R H",
-        "clue": "[CLUE NEEDS REWRITE] Someone's built a great big hall and it's painted entirely red. All the walls, the ceiling, the floor. Red as anything."
+        "initials": "H H",
+        "clue": "Someone won't stop pestering a big mound of earth. Just harrying it. Going at it repeatedly. Won't leave the hill alone."
       }
     ]
   },
@@ -6200,7 +6200,7 @@
       },
       {
         "number": 3,
-        "initials": "M S",
+        "initials": "M",
         "clue": "There's loads of empty room up there. Miles and miles of it. And someone's put a face on it."
       }
     ]
@@ -6221,7 +6221,7 @@
     "clues": [
       {
         "number": 1,
-        "initials": "W E",
+        "initials": "W",
         "clue": "There's a wall. Big solid wall. And someone's placed the fifth letter of the alphabet right next to it. Just the letter, stood there by the wall."
       },
       {
@@ -6375,17 +6375,17 @@
       {
         "number": 1,
         "initials": "E",
-        "clue": "Something ancient and underground. This fella's gone deep, into the earth. E-jipt. Deep into it. Very mysterious he is."
+        "clue": "Some fella's gone and cheated his mate in a deal. Did him right over. He jipped him. Paid less than he should've. North Africa."
       },
       {
         "number": 2,
         "initials": "M",
-        "clue": "That stone again. Someone's polished up a round rock and stuck a little flag on it. Mo-rock-o. The polished rock with a flag."
+        "clue": "Give us a mo. Someone's lobbed a rock and the whole thing ends with a great big oh. That's all there is to it. North Africa."
       },
       {
         "number": 3,
         "initials": "T",
-        "clue": "A big festive roasting bird has packed its bags and become a country."
+        "clue": "A big roasting bird that appears on Christmas dinner tables has decided to up sticks and become a country."
       }
     ]
   },
@@ -6411,12 +6411,12 @@
       {
         "number": 2,
         "initials": "C",
-        "clue": "Right, that camp in the bush. The cam. And there's a Bod. And then an E-ah. All together now."
+        "clue": "Someone's set the cam up to film a body. Just the cam and a body. Not sure what's going on. Southeast Asia."
       },
       {
         "number": 3,
         "initials": "B",
-        "clue": "That bloke Boll, right, he's gone and given someone an IVia. A boll-ivia. Don't ask."
+        "clue": "Someone's gone and put their liver in a bowl. Just placed it in there. No explanation given. South America."
       }
     ]
   },
@@ -6436,7 +6436,7 @@
     "clues": [
       {
         "number": 1,
-        "initials": "SH",
+        "initials": "S T H",
         "clue": "He goes very fast. Very very fast. Blue, small, spiky. Runs through loops. Does it in seconds."
       },
       {
@@ -6478,8 +6478,8 @@
       },
       {
         "number": 3,
-        "initials": "L",
-        "clue": "[CLUE NEEDS REWRITE] Right, a bloke called Burg is really enjoying his lager. A proper Lux moment."
+        "initials": "C",
+        "clue": "Someone's coping somehow. They've got a pen. There's hay involved. Then someone turns up with a gun. It's all happening in Denmark."
       }
     ]
   },
@@ -6600,8 +6600,8 @@
       },
       {
         "number": 3,
-        "initials": "P",
-        "clue": "[CLUE NEEDS REWRITE] You've put the orange in a press and you've gone too hard. Now it's all white stringy bits floating about. That's what comes out."
+        "initials": "B",
+        "clue": "Someone took a photo but moved while pressing the shutter. Came out all fuzzy. Nothing sharp about it. Great Escape and all that."
       }
     ]
   },
@@ -6632,8 +6632,8 @@
       },
       {
         "number": 3,
-        "initials": "H",
-        "clue": "A bloke's doing something with a hover machine over a surface. Just passing over it. Hover and over. That's the thing."
+        "initials": "D",
+        "clue": "Someone's gone and dyed their son. Don't ask why. The lad's a completely different colour now."
       }
     ]
   },
@@ -6837,7 +6837,7 @@
       {
         "number": 1,
         "initials": "F A C",
-        "clue": "A fin, like off a fish, has done something rude and then a bloke called Chip has turned up. Bit of an odd sequence."
+        "clue": "A fin, like off a fish, has done something rude and then there are little broken-off fragments scattered about everywhere. All over the floor."
       },
       {
         "number": 2,
@@ -6877,7 +6877,7 @@
       },
       {
         "number": 3,
-        "initials": "C A A A L",
+        "initials": "C A A A A L",
         "clue": "The price of it was literally a complete arm plus a complete leg. Whoever bought it isn't in great shape now."
       }
     ]
@@ -6903,8 +6903,8 @@
       },
       {
         "number": 2,
-        "initials": "B",
-        "clue": "[CLUE NEEDS REWRITE] He's given it a proper bash, right, the punching type. Gone right in there."
+        "initials": "L",
+        "clue": "Someone's told a porky. A proper lie. And they've done it while resting on something. Flat out lying on top of it. Africa."
       },
       {
         "number": 3,
@@ -6958,7 +6958,7 @@
     "clues": [
       {
         "number": 1,
-        "initials": "M S",
+        "initials": "M",
         "clue": "There's loads of room up there. And it belongs to someone. Their room, their space, their profile picture."
       },
       {
@@ -6968,7 +6968,7 @@
       },
       {
         "number": 3,
-        "initials": "H M V",
+        "initials": "H",
         "clue": "Some posh fella owns that sound. Belongs to him. Very much his, that voice."
       }
     ]
@@ -7123,7 +7123,7 @@
       {
         "number": 3,
         "initials": "C",
-        "clue": "That bloke keeps going on about the centre of an apple. The core. And he's pressing something at the same time."
+        "clue": "Someone lets out a big sigh and then immediately presses something. A button or whatever. Sigh. Press. That's a Mediterranean island."
       }
     ]
   },
@@ -7149,12 +7149,12 @@
       {
         "number": 2,
         "initials": "A",
-        "clue": "A bloke called Al has been banned from something and is extremely unhappy about it."
+        "clue": "Someone's got an awl, the pointy leather tool, and they've been told it's the bane of their life. The awl. The bane. Yeah. Eastern Europe."
       },
       {
         "number": 3,
         "initials": "B",
-        "clue": "Right, some bones and a Herzegovina situation. I'll be honest, Herzegovina does most of the heavy lifting there."
+        "clue": "Your gaffer's gone and done their knee in, right, and let out one of those little sighs about it."
       }
     ]
   },
@@ -7185,7 +7185,7 @@
       {
         "number": 3,
         "initials": "R",
-        "clue": "Bit of a gamble this one. You've got your armies, right, and it all comes down to whether you fancy your chances. That's the whole idea."
+        "clue": "You know that feeling when you're about to do something and it could all go properly wrong. That tension. That's the board game's name, right there."
       }
     ]
   },
@@ -7359,7 +7359,7 @@
       {
         "number": 1,
         "initials": "A",
-        "clue": "Right, someone's done a bit of arithmetic with some form of identification. Added it all up. The ID is in there."
+        "clue": "Someone's done a bit of arithmetic with their identification card. Added it all up and there's a small word tacked on at the end."
       },
       {
         "number": 2,
@@ -7429,7 +7429,7 @@
       {
         "number": 3,
         "initials": "P",
-        "clue": "That little pony's wandered inside somehow. It's in the kitchen now. Nobody's quite sure how it got in."
+        "clue": "There's a cat doing its usual noise, someone nearby is having a big argument, and then a leg joint gets involved somehow."
       }
     ]
   },
@@ -7480,7 +7480,7 @@
       {
         "number": 1,
         "initials": "A",
-        "clue": "That primate - the big hairy one at the zoo - has decided it wants to haul something across the enclosure. Won't be told otherwise."
+        "clue": "Right, there's one of them little programs you download on your phone, and someone's gone and dragged it across the room."
       },
       {
         "number": 2,
@@ -7573,7 +7573,7 @@
       {
         "number": 1,
         "initials": "T",
-        "clue": "A train has gone into a narrow passage and come out in North Africa. Not sure how. The driver seems fine with it."
+        "clue": "Someone's done that British informal thank-you, right, and then they've gone and combined it with a pair of denim trousers. Came out as a North African cooking pot somehow."
       },
       {
         "number": 2,
@@ -7583,7 +7583,7 @@
       {
         "number": 3,
         "initials": "P",
-        "clue": "Someone in Vietnam has done something wrong and got chased by someone called Fred. Fred's catching up."
+        "clue": "Someone's got a proper enemy out there. Not a mate. Someone who'd quite happily see them come unstuck. That sound, right there, is a Vietnamese soup."
       }
     ]
   },
@@ -7664,13 +7664,13 @@
     "clues": [
       {
         "number": 1,
-        "initials": "S",
-        "clue": "[CLUE NEEDS REWRITE] The hoofed thing, right, he's gone off on his own. A proper loner. Just wandered into the trees."
+        "initials": "Z",
+        "clue": "The last letter of the alphabet and a ladies' undergarment. That's your lot."
       },
       {
         "number": 2,
-        "initials": "I",
-        "clue": "[CLUE NEEDS REWRITE] The great big one, that African cat, it's gone to the coast. Sitting by the ocean now."
+        "initials": "P",
+        "clue": "There's a cooking pot, right, and someone's gone and made the most obvious statement imaginable right next to it."
       },
       {
         "number": 3,
@@ -7817,13 +7817,13 @@
     "clues": [
       {
         "number": 1,
-        "initials": "G",
+        "initials": "G G",
         "clue": "Right, it is that planet with all the rings around it. Just sitting there in space with its rings on. Very pleased with itself."
       },
       {
         "number": 2,
-        "initials": "S",
-        "clue": "One flank of something has found multiple directions to travel in."
+        "initials": "U",
+        "clue": "Apparently you went and absolutely ran the whole group of us into the ground. Just knackered everyone."
       },
       {
         "number": 3,
@@ -7858,7 +7858,7 @@
       },
       {
         "number": 3,
-        "initials": "B J",
+        "initials": "B",
         "clue": "That small crawly insect thing, right, and then some kind of drink. Put them together, say it fast."
       }
     ]
@@ -7909,17 +7909,17 @@
       {
         "number": 1,
         "initials": "C",
-        "clue": "Right, there's a cube. Just a cube sat there on the table. Cube. And then someone adds a small ah sound at the end. Cyoo-ba. The cube."
+        "clue": "There's a massive queue of people standing about, and then someone's being really dismissive about the whole situation."
       },
       {
         "number": 2,
         "initials": "T",
-        "clue": "Too much. That's what he's said. Too much of everything, and his knee hurts, and someone called Sha is watching. All three at once."
+        "clue": "Too much. That's what he's said. Too much of everything, his knee's gone again, and the ruler of Persia is watching from the sidelines. All three at once."
       },
       {
         "number": 3,
         "initials": "B",
-        "clue": "There's a bay, right, with a bar across it, and someone called Dos is standing guard."
+        "clue": "Right, there's a watering hole on a coastal inlet, and the Spanish number two is hanging about near the entrance."
       }
     ]
   },
@@ -7940,12 +7940,12 @@
       {
         "number": 1,
         "initials": "Z",
-        "clue": "That practical bloke with the flat cap, always asking if you're capable, right. Can ya? Ken wants to know."
+        "clue": "The back end of a test paper, right, then a buzzing insect, and then a small sigh of relief at the end."
       },
       {
         "number": 2,
         "initials": "G",
-        "clue": "Right, those people who live in the trees, the gorillas and that - they've all gone and got themselves a uh. A ghan sound. Ghana. Gan-a."
+        "clue": "Someone's just let out one of those frustrated sounds, you know, when things go wrong. And then they've turned something down flat."
       },
       {
         "number": 3,
@@ -7970,7 +7970,7 @@
     "clues": [
       {
         "number": 1,
-        "initials": "SH",
+        "initials": "S T H",
         "clue": "There's this speedy little fella. Blue, very quick. And he's got spikes on him. Lives on a planet or something."
       },
       {
@@ -7980,7 +7980,7 @@
       },
       {
         "number": 3,
-        "initials": "BK",
+        "initials": "B",
         "clue": "Right, there's a fella called Jim. No wait, it's Banjo. And he's got a bear mate. And they're both off on some sort of adventure."
       }
     ]
@@ -8008,12 +8008,12 @@
       {
         "number": 2,
         "initials": "G",
-        "clue": "[CLUE NEEDS REWRITE] There's a lad called Raz, and something's been done to him that he did not ask for. He's been grazed."
+        "clue": "A sheep's wandered into a field and it's having a lovely old nibble at the grass. Just grazing away. That's your city."
       },
       {
         "number": 3,
-        "initials": "I",
-        "clue": "[CLUE NEEDS REWRITE] Some fella's been calling himself a capital. Bit presumptuous. But he sort of is one, in a way."
+        "initials": "V",
+        "clue": "Someone's been going in a straight line and then suddenly swerved off to one side, and they're being very dismissive about the whole thing."
       }
     ]
   },
@@ -8136,7 +8136,7 @@
       {
         "number": 3,
         "initials": "N",
-        "clue": "Someone's saying no to everything and then going on about this famous symbol they keep seeing. Keeps pointing at the icon."
+        "clue": "Someone's gone and hurt the joint below their thigh, and then been completely swindled on top of that. Rough day all round."
       }
     ]
   },
@@ -8196,7 +8196,7 @@
       {
         "number": 3,
         "initials": "I B",
-        "clue": "Some bloke from Glasgow's turned up with a massive metal rod balanced across his face. He seems fine about it."
+        "clue": "A Scottish fella's carrying a load of iron around and simultaneously brewing himself a drink. Efficient use of an afternoon."
       }
     ]
   },
@@ -8227,7 +8227,7 @@
       {
         "number": 3,
         "initials": "M",
-        "clue": "His bird - the black one he keeps - has gone all docile and mild-mannered. Not pecking anyone."
+        "clue": "Someone's gone and fitted a recording device to something, there's been a bit of a barney about it, but it's all been kept very civil throughout."
       }
     ]
   },
@@ -8315,7 +8315,7 @@
       {
         "number": 2,
         "initials": "S",
-        "clue": "A Japanese fella is doing something careful with a knife and he's being very quiet about it. Very precise. Very silent."
+        "clue": "Right, there's a woman and she's taking someone to court. She is. Full legal action, the lot."
       },
       {
         "number": 3,
@@ -8565,7 +8565,7 @@
       {
         "number": 3,
         "initials": "T",
-        "clue": "A well-known brand found in care home bathrooms and a coral reef."
+        "clue": "Right, someone's gone and lost a ten-pound note down a coral reef. That's gone. Can't get it back now."
       }
     ]
   },
@@ -8596,7 +8596,7 @@
       {
         "number": 3,
         "initials": "T",
-        "clue": "A deep mahogany tan on someone who has overdone the sunbed. All bronzed and happy. Gone and found an island as well."
+        "clue": "Right, someone's been sunbathing and come back looking all bronzed, and everything they do is just more eccentric than the last thing. Proper getting zanier."
       }
     ]
   },
@@ -8617,12 +8617,12 @@
       {
         "number": 1,
         "initials": "F",
-        "clue": "Right, there's a big competition. World one. Football, basically. Everyone's in it. England probably go out on penalties."
+        "clue": "Someone's being charged for entry, and then they've played a single musical note. That fah one. Just the one."
       },
       {
         "number": 2,
         "initials": "T",
-        "clue": "These blocks keep falling. You can't stop them. They just come down. One after another. And you've got to sort it out."
+        "clue": "A bloke's had his tetanus jab and then gone home for a bowl of rice. That's his afternoon sorted, really."
       },
       {
         "number": 3,
@@ -8717,8 +8717,8 @@
       },
       {
         "number": 3,
-        "initials": "G",
-        "clue": "Right, there's a bloke called Gene just sat there. That's it. His name's Gene. One word. Easy one this."
+        "initials": "B",
+        "clue": "Someone's tried to take a photo but their hands were shaking and the whole thing came out a right smudged mess. Couldn't tell what it was meant to be."
       }
     ]
   },
@@ -8749,8 +8749,8 @@
       },
       {
         "number": 3,
-        "initials": "P",
-        "clue": "There's a long pointed thing - like a spike - and it's gone and got itself round someone's wrist. Italian. Very round."
+        "initials": "F",
+        "clue": "Someone's skinned an animal and it's come out all breezy and light. Like a pelt, but very airy. Italian, apparently."
       }
     ]
   },
@@ -8800,7 +8800,7 @@
       {
         "number": 1,
         "initials": "C",
-        "clue": "There's a king sitting on a throne and all around him there's a shiny metallic ring. And he's grinning about it."
+        "clue": "Someone's gone 'cor blimey' at something they own. Made a whole big thing of it. Bit of a fuss over nothing, really."
       },
       {
         "number": 2,
@@ -8836,12 +8836,12 @@
       {
         "number": 2,
         "initials": "A",
-        "clue": "Right, some fella's telling everyone he's a male offspring. Very proud of it. That's all."
+        "clue": "Right, this fella's announcing his existence, and then he's staked out a designated area for himself. That's his zone, that is."
       },
       {
         "number": 3,
         "initials": "M",
-        "clue": "His crow - the one he keeps as a pet - it's gone all gentle and calm. Not causing trouble anymore."
+        "clue": "Someone's gone and set up a microphone somewhere, there's been a bit of an argument about it, but nobody's raised their voice much."
       }
     ]
   },
@@ -8954,7 +8954,7 @@
     "clues": [
       {
         "number": 1,
-        "initials": "L T C O T B",
+        "initials": "L T C O O T B",
         "clue": "Right, a feline's been let loose from a holdall. Someone's gone and opened it up and now it's out. That's the end of that secret."
       },
       {
@@ -8964,7 +8964,7 @@
       },
       {
         "number": 3,
-        "initials": "T B S I B W",
+        "initials": "T B I I Y C",
         "clue": "There's a sphere - the kind you kick - and it's landed inside an enclosed sporting area. Up to you now."
       }
     ]
@@ -9056,7 +9056,7 @@
       {
         "number": 3,
         "initials": "C",
-        "clue": "The news is coming through the television. No presenter. Just pages of text. Press one hundred and one."
+        "clue": "Someone's spotted something happening and immediately sent through the details by facsimile machine. Old school, but the information got there."
       }
     ]
   },
@@ -9200,16 +9200,16 @@
       {
         "number": 1,
         "initials": "C",
-        "clue": "Right, Crete. The stuff walls are made of. Concrete minus the con. What you're left with is just crete. Like a building material without the dodgy bit."
+        "clue": "That stuff they pour into a mould to make roads and buildings, take the swindle off the front of it, and you've got yourself a Greek island."
       },
       {
         "number": 2,
         "initials": "M",
-        "clue": "Someone's gone and stocked up on Maggie's leftovers after she's gone and done one."
+        "clue": "Someone's on a boat reading their favourite magazine, and they've gone and pointed the front edge of the sail into the wind. Nautical and well-read."
       },
       {
         "number": 3,
-        "initials": "M",
+        "initials": "G C",
         "clue": "That older woman, the gran. She can do it. She really can. She's capable, right. And she wants you to know it."
       }
     ]
@@ -9231,7 +9231,7 @@
       {
         "number": 1,
         "initials": "C",
-        "clue": "Right, them people in Chile, the northern ones. Col-um. Col has gone and found himself a bia. Good for him."
+        "clue": "There's a mountain pass, someone's sat there doing their spiritual chanting, and a bee has wandered in and joined them. Everything seems fine."
       },
       {
         "number": 2,
@@ -9240,7 +9240,7 @@
       },
       {
         "number": 3,
-        "initials": "C",
+        "initials": "C R",
         "clue": "A well-known motorway service station coffee chain has counted its money and become a country."
       }
     ]
@@ -9667,12 +9667,12 @@
       },
       {
         "number": 2,
-        "initials": "L T C O T B",
+        "initials": "L T C O O T B",
         "clue": "Right, permission's been given for a feline to escape from a holdall. It's out now. Can't get it back in."
       },
       {
         "number": 3,
-        "initials": "T B S I B W",
+        "initials": "T B I I Y C",
         "clue": "There's a round thing - for kicking - and it's inside a rectangular space used for sport. Over to someone else now."
       }
     ]
@@ -9692,7 +9692,7 @@
     "clues": [
       {
         "number": 1,
-        "initials": "BC",
+        "initials": "B",
         "clue": "Right, a wide open place by the sea. Bit grim. Someone's been done in and everyone's suspects. That's all."
       },
       {
@@ -9728,13 +9728,13 @@
       },
       {
         "number": 2,
-        "initials": "S",
-        "clue": "[CLUE NEEDS REWRITE] That bloke has gone and shunned the lot of them, right. Said no to all of it."
+        "initials": "T",
+        "clue": "Someone's gone and knotted their neckwear too tight and it's started snarling back at them. Not what you want before a meeting."
       },
       {
         "number": 3,
-        "initials": "C",
-        "clue": "[CLUE NEEDS REWRITE] Right, that thing cub scouts are in, it's gone wild and furry. Running about on all fours."
+        "initials": "W",
+        "clue": "Right, there's some of that fluffy stuff you get off a sheep, and someone's gone and pinned the letter F to the end of it. As you do."
       }
     ]
   },
@@ -9753,12 +9753,12 @@
     "clues": [
       {
         "number": 1,
-        "initials": "V H S",
+        "initials": "V",
         "clue": "That vehicle's really quite tall, and it's parked near a man called Steve. Don't ask."
       },
       {
         "number": 2,
-        "initials": "M D",
+        "initials": "M",
         "clue": "There's a tiny little disc, right, and it's claiming to be the minimum amount required. Bit full of itself."
       },
       {
@@ -9815,7 +9815,7 @@
     "clues": [
       {
         "number": 1,
-        "initials": "H",
+        "initials": "H V",
         "clue": "That farmyard bird keeps saying the number eight out loud. Every single time. The other animals are sick of it."
       },
       {
@@ -10036,7 +10036,7 @@
       },
       {
         "number": 2,
-        "initials": "R C",
+        "initials": "R A C",
         "clue": "That pink garden vegetable - the sour one that goes in crumble - has had a bit of a sit-down at the jail."
       },
       {
@@ -10066,13 +10066,13 @@
       },
       {
         "number": 2,
-        "initials": "P",
-        "clue": "[CLUE NEEDS REWRITE] You've squeezed an orange too hard and the white stringy bits are floating about in the juice. That's the clue. One word."
+        "initials": "T P",
+        "clue": "Right, the whole outfit's gone and jabbed the letter I and then told the horse to get moving. Bit of a racket as you'd expect."
       },
       {
         "number": 3,
-        "initials": "S",
-        "clue": "[CLUE NEEDS REWRITE] Superman's had a look at next door's lawn and he thinks it's exceptional. Really first rate. Says so an' all."
+        "initials": "B",
+        "clue": "Someone's taken a photo but they've moved the camera too fast and everything's come out all smudged and indistinct. You can't make head nor tail of it. That's the band."
       }
     ]
   },
@@ -10123,7 +10123,7 @@
     "clues": [
       {
         "number": 1,
-        "initials": "S H",
+        "initials": "S",
         "clue": "Right, that big flat rock, it's a bit rusty and creaky, like the thing your door swings on. Sort of makes a noise."
       },
       {
@@ -10251,7 +10251,7 @@
       {
         "number": 2,
         "initials": "R T",
-        "clue": "A bloke called Rich - proper name, not a comment on his finances - he's put the kettle on. That's literally it. He's having a brew."
+        "clue": "Right, there's a very wealthy hot drink. Proper loaded. Put the kettle on and everything. Got itself a biscuit to dunk an' all."
       },
       {
         "number": 3,
@@ -10339,7 +10339,7 @@
     "clues": [
       {
         "number": 1,
-        "initials": "H",
+        "initials": "A",
         "clue": "A painting has gone off into the dark."
       },
       {
@@ -10374,8 +10374,8 @@
       },
       {
         "number": 2,
-        "initials": "A O L",
-        "clue": "A fella ordered something from a catalogue, then put his washing on. That's his evening sorted."
+        "initials": "A",
+        "clue": "Someone says yes in a very Scottish way, then goes 'oh' when they see the bill, then points out the twelfth letter of the alphabet. Three sounds. Famous dial-up internet service."
       },
       {
         "number": 3,
@@ -10499,12 +10499,12 @@
       {
         "number": 2,
         "initials": "R",
-        "clue": "Row, row, row your boat but only one row. Then someone called Mania turns up. Bit much."
+        "clue": "Someone's had a proper row with their neighbour and then gone completely mad about it. Full-on obsession. Bit of an overreaction, to be honest."
       },
       {
         "number": 3,
         "initials": "S",
-        "clue": "That bloke's gone all quiet and shy, hasn't he. Says he's slack. Bit of a via situation."
+        "clue": "There are some small dark berries for making gin, someone's got the hoover out, and they're cocking an ear to listen. Three things. No idea why."
       }
     ]
   },
@@ -10617,7 +10617,7 @@
       {
         "number": 1,
         "initials": "A",
-        "clue": "There's a load of weapons just sitting in a big building. A whole stock of them. Not subtle."
+        "clue": "Someone's gone and set a building on fire deliberately, and then gone straight to the pub for a pint of real ale afterwards. Bit casual about the whole thing."
       },
       {
         "number": 2,
@@ -10709,16 +10709,16 @@
       {
         "number": 1,
         "initials": "P",
-        "clue": "Some real pep and energy and then having a good look around."
+        "clue": "Someone's got loads of energy and they're having a good look out at the ocean. Full of pep, staring at the sea."
       },
       {
         "number": 2,
         "initials": "A",
-        "clue": "Right, a fella's done the maths on some ID. Added up the numbers on it. Totted them all up. The identification's been calculated."
+        "clue": "Right, someone's been doing some adding up, had their ID checked at the door, and then done it all over again exactly as before. Three things. Striped sportswear."
       },
       {
         "number": 3,
-        "initials": "S B",
+        "initials": "S",
         "clue": "There's a massive glowing thing up in the sky and it's gone and collected quite a sum in cash. Deer money, mainly."
       }
     ]
@@ -10743,8 +10743,8 @@
       },
       {
         "number": 2,
-        "initials": "D C",
-        "clue": "Big old Norman church, right, biggest one in the north, and it's got these towers and a massive roof. Durham."
+        "initials": "Y M",
+        "clue": "The yellow bit from inside an egg has ended up at one of them proper serious old churches. Not a little parish church. The big impressive kind."
       },
       {
         "number": 3,
@@ -10778,7 +10778,7 @@
       },
       {
         "number": 3,
-        "initials": "D B",
+        "initials": "D A B",
         "clue": "Right, a lion's turned up to a field full of tiny prickly things next to a jetty. Bit unusual."
       }
     ]
@@ -10798,7 +10798,7 @@
     "clues": [
       {
         "number": 1,
-        "initials": "S T",
+        "initials": "S",
         "clue": "Someone's poking a fire. Really giving it some. And they're doing it on top of something, and there's a river below them."
       },
       {
@@ -10830,7 +10830,7 @@
       {
         "number": 1,
         "initials": "A",
-        "clue": "Right, there's a large fruit - a smooth green and red one - and someone's giving it a proper tug. Won't let go."
+        "clue": "Right, there's one of them big hairy monkeys and it's pulling at something. Won't let go. Just yanking away at it."
       },
       {
         "number": 2,
@@ -10840,7 +10840,7 @@
       {
         "number": 3,
         "initials": "T",
-        "clue": "That rhythmic clock noise - you know the one, going back and forth - someone's built an entire video platform around it."
+        "clue": "That rhythmic clock noise, you know the one, going back and forth. Someone's built an entire video platform around it."
       }
     ]
   },
@@ -11023,8 +11023,8 @@
       },
       {
         "number": 3,
-        "initials": "V H S",
-        "clue": "Someone's recorded Coronation Street on a big black thing. It's in a drawer somewhere."
+        "initials": "V",
+        "clue": "Someone's doing a V-sign, making an aitch shape with their arms, and then drawing a squiggly S in the air. Three letters in a row. Used to record Coronation Street."
       }
     ]
   },
@@ -11138,7 +11138,7 @@
       {
         "number": 1,
         "initials": "N",
-        "clue": "Right, a place called Nor. It's gone and picked up a way, has Nor. Nor found its way, basically."
+        "clue": "Someone's saying it's neither this nor that, and then pointing out a path forward. Make your mind up, mate."
       },
       {
         "number": 2,
@@ -11148,7 +11148,7 @@
       {
         "number": 3,
         "initials": "F",
-        "clue": "An animal's private space, proper underground lair, and there's a notch on the wall. Someone's been keeping score in there."
+        "clue": "A shark's back fin is sticking out of the water, and then something touches down on solid ground. Just arriving."
       }
     ]
   },
@@ -11169,7 +11169,7 @@
       {
         "number": 1,
         "initials": "S",
-        "clue": "He breathes fire. He's small for a dragon. Purple. Quite sprightly. Probably shouldn't underestimate him."
+        "clue": "A secret agent is having a massive public row with someone. Going right at each other in the street."
       },
       {
         "number": 2,
@@ -11292,7 +11292,7 @@
       {
         "number": 1,
         "initials": "D",
-        "clue": "There's been some lasting and persistent activity happening. It's gone on for a while. Very enduring. Quite the stamina on it."
+        "clue": "There's morning moisture on the grass and then a great big dinosaur king. Both of them together. Make of that what you will."
       },
       {
         "number": 2,
@@ -11302,7 +11302,7 @@
       {
         "number": 3,
         "initials": "V",
-        "clue": "A fella wearing velvet is going full speed. All the way. Not stopping. Pedal to the metal on the velvet."
+        "clue": "There's some South African open grassland, the flat scrubby kind, and a big black bird sitting in the middle of it. Cawing."
       }
     ]
   },
@@ -11321,7 +11321,7 @@
     "clues": [
       {
         "number": 1,
-        "initials": "S H",
+        "initials": "S",
         "clue": "That flat slab of rock again - a different one this time - and it's making a creaky noise every time the wind blows. Wiltshire."
       },
       {
@@ -11388,7 +11388,7 @@
       {
         "number": 2,
         "initials": "T",
-        "clue": "That sound a clock makes - you know, that rhythmic ticking noise. Someone's named a whole app after it."
+        "clue": "That sound a clock makes, you know, that rhythmic ticking noise. Someone's named a whole app after it."
       },
       {
         "number": 3,
@@ -11476,17 +11476,17 @@
       {
         "number": 1,
         "initials": "S",
-        "clue": "A man from the Middle East is waving at people while rotating slowly. Very slowly. Like he's on a spit. Friendly though."
+        "clue": "Right, a Persian king's gone and started a proper conflict somewhere, then rung his mum about it. In that order."
       },
       {
         "number": 2,
         "initials": "F",
-        "clue": "A person who is unsteady on their feet has made a ball out of chickpeas. They've done it while wobbling. It's fallen on the floor."
+        "clue": "Someone's going to drop right now, present tense, and they've already gone down before, past tense. Same thing happening twice. Different times though."
       },
       {
         "number": 3,
         "initials": "H",
-        "clue": "Right, a crowd of people have gone very quiet in a bus shelter. They're all just humming something. Nobody knows the tune."
+        "clue": "There's a group of people and they're all making that soft humming noise together. All of them at once. And someone's pointing at the whole lot of them going, that's us, that is."
       }
     ]
   },
@@ -11542,13 +11542,13 @@
       },
       {
         "number": 2,
-        "initials": "O",
-        "clue": "[CLUE NEEDS REWRITE] That's a proper big one, isn't it. Goes around in the long grass. The bloke keeps catching it."
+        "initials": "B",
+        "clue": "Someone's been given one of them pins you clip on your jacket. Official recognition, could be a club thing, a job thing. And now they're the one who hands them all out."
       },
       {
         "number": 3,
-        "initials": "B",
-        "clue": "[CLUE NEEDS REWRITE] Right, a young one, a baby badger type, but it's gone absolutely massive. Didn't see that coming."
+        "initials": "F",
+        "clue": "There's a great big working animal, bovine type, the strong one they used to use on farms before tractors came along. And someone's given it a name starting with the letter that comes after E."
       }
     ]
   },
@@ -11660,7 +11660,7 @@
     "clues": [
       {
         "number": 1,
-        "initials": "P S",
+        "initials": "P",
         "clue": "That process where the green things turn sunlight into food. Like cooking but the oven is the sun."
       },
       {
@@ -11722,17 +11722,17 @@
       {
         "number": 1,
         "initials": "E",
-        "clue": "Them things you eat on toast - the round ones. Bit rubbery. They've all gone east, apparently."
+        "clue": "Someone's headed east, proper east, right to the far end of it. And when they get there they're asking if it's yours. Belongs to ya, does it."
       },
       {
         "number": 2,
         "initials": "L",
-        "clue": "That bloke's brought loads of stuff, right, loads of it. A real lat of it. Via there."
+        "clue": "Bloke's done his lat workout, the big back muscle, and then taken the long way home. Not a straight route. Via somewhere completely different."
       },
       {
         "number": 3,
         "initials": "M",
-        "clue": "That mole - the little furry thing - has gone and built himself a door. Mole + door. There you go."
+        "clue": "Something's gone proper mouldy, right off it. And someone's left a load of biological eggs right next to it. The round scientific ones from the lab."
       }
     ]
   },
@@ -11763,7 +11763,7 @@
       {
         "number": 3,
         "initials": "Z",
-        "clue": "That princess hasn't half gone off somewhere. Nobody can find her. Bloke's been looking for ages. Getting on a bit now."
+        "clue": "Someone's got a massive enthusiasm for something, a real passion for it. And when you ask them why they keep going on about it, they just look at you like it's absolutely obvious."
       }
     ]
   },
@@ -11874,17 +11874,17 @@
       {
         "number": 1,
         "initials": "P S",
-        "clue": "[CLUE NEEDS REWRITE] Before anything else, right at the very start, the most basic and raw noise a human can make, someone's done one. At full volume."
+        "clue": "Someone's doing the most basic, primitive, raw noise a human being can make. Right from the gut. No words. No tune. Just going for it at full volume."
       },
       {
         "number": 2,
         "initials": "S",
-        "clue": "[CLUE NEEDS REWRITE] That jacket is very soft and brushed. The material on it. Very nice texture. You'd want to stroke it."
+        "clue": "Someone's been having a go at convincing this bloke of something for absolutely ages. Done a proper job of it as well. He's been fully moved. Completely over to the other side now."
       },
       {
         "number": 3,
         "initials": "P",
-        "clue": "[CLUE NEEDS REWRITE] You've gone and arrived at the docks. There's a port there. And it IS the head. That's where you are. Portishead. Bit niche."
+        "clue": "There's a harbour, right, a proper port for ships and that. And it's sitting right at the end of a great big headland. Port, is, head. There you go."
       }
     ]
   },
@@ -11911,7 +11911,7 @@
       {
         "number": 2,
         "initials": "P",
-        "clue": "There's a fella called Pear and he's gone to Italy and got a bit wriggly. Quite animated. Pear but Italian and wriggling."
+        "clue": "There's one of them green fruits, the slightly lumpy teardrop-shaped ones. And it's keeping company with an elephant. Just the pear and the elephant. Bit odd."
       },
       {
         "number": 3,
@@ -11935,7 +11935,7 @@
     "clues": [
       {
         "number": 1,
-        "initials": "S H",
+        "initials": "S",
         "clue": "Flat rock. Creaky door hinge noise. Wiltshire. That's all you need, really."
       },
       {
@@ -11971,7 +11971,7 @@
       {
         "number": 2,
         "initials": "T",
-        "clue": "Ten of those little tents. Loads of them. All in a row. Someone's going camping in a big way."
+        "clue": "Someone's gone and counted them out, exactly ten of those tiny insects that march about in lines. Not eleven. Not nine. Ten of the things."
       },
       {
         "number": 3,
@@ -12211,7 +12211,7 @@
     "clues": [
       {
         "number": 1,
-        "initials": "B T B",
+        "initials": "B A T B",
         "clue": "An insect's gone and made itself a hot drink, a proper cup of tea, and then there's a wild animal hanging around as well."
       },
       {
@@ -12365,7 +12365,7 @@
       {
         "number": 1,
         "initials": "E",
-        "clue": "That bloke Eck, he's gone and swallowed a door. A proper door. Eck-wah-door. Bit much."
+        "clue": "Someone lets out a right noise of disgust, a proper eck. And then a baby starts up, wah. And then someone slams a door. All in one go."
       },
       {
         "number": 2,
@@ -12375,7 +12375,7 @@
       {
         "number": 3,
         "initials": "U",
-        "clue": "Your mate's gone and urinated on some guy. Very embarrassing for everyone involved."
+        "clue": "Bloke's gone and asked someone a very direct question. Just pointing at them and asking if they're a fella. That's the whole conversation. You're a guy, aren't you."
       }
     ]
   },
@@ -12400,12 +12400,12 @@
       },
       {
         "number": 2,
-        "initials": "BK",
+        "initials": "B",
         "clue": "There's a bear. He plays a stringed instrument. And his mate makes a different noise altogether. They're on a mission, these two."
       },
       {
         "number": 3,
-        "initials": "GE",
+        "initials": "G",
         "clue": "Bond film. On a Nintendo. At your mate's house in 1997. Four-player. Someone always picks Oddjob. That person knows what they're doing."
       }
     ]
@@ -12550,7 +12550,7 @@
       {
         "number": 1,
         "initials": "M",
-        "clue": "Right, a fella called Martin's only gone and put his knee down on something. Just knelt on it. On his knee. There."
+        "clue": "Something's been ruined, properly damaged, got a mark on it. And whatever caused the damage is absolutely minuscule. Tiny. Weeny. Teeny."
       },
       {
         "number": 2,
@@ -12559,7 +12559,7 @@
       },
       {
         "number": 3,
-        "initials": "S B",
+        "initials": "S",
         "clue": "A massive ball of burning gas in the sky has gone and collected payment for something. Quite a lot of it. In bucks."
       }
     ]
@@ -12610,16 +12610,16 @@
       {
         "number": 1,
         "initials": "H",
-        "clue": "Ten of something, ten of what nobody knows, but they've all arrived at once. Typical."
+        "clue": "Someone's said hello to their own neck. Just waved at it, greeted it. And then stepped inside somewhere. Very unusual behaviour."
       },
       {
         "number": 2,
         "initials": "C",
-        "clue": "That king fella, right, he's made of ice. Standing there, frozen. Looking a bit regal though."
+        "clue": "A big black bird's been asked to do something and it's just flatly refused. Sat there on a branch and said no. Nah. Not interested."
       },
       {
         "number": 3,
-        "initials": "S B",
+        "initials": "S",
         "clue": "Some strong bloke's gone and fired an arrow so hard it's come apart. Bits everywhere. Don't know why he did that."
       }
     ]
@@ -12676,7 +12676,7 @@
       {
         "number": 2,
         "initials": "E",
-        "clue": "Someone's come over all enthusiastic and they've covered themselves in homemade crafts. Can't miss them."
+        "clue": "That little alien from the film, right, the one with the glowing finger and the short legs. And someone wants to have a look at something."
       },
       {
         "number": 3,
@@ -12769,7 +12769,7 @@
       {
         "number": 2,
         "initials": "G",
-        "clue": "A Hungarian man has gone a bit red in the face while explaining something about beef. It's quite a passionate story. There's paprika involved."
+        "clue": "Something sticky and gooey has gone and given someone a right lashing. Very unexpected. Nasty situation."
       },
       {
         "number": 3,
@@ -12980,7 +12980,7 @@
       {
         "number": 1,
         "initials": "S",
-        "clue": "Right, that fella Slow, he's gone and come back, hasn't he. Returned. Reappeared."
+        "clue": "A really slow bloke's got hold of the letter V, then someone's kneed him. Slow. Vee. Knee. A. That's a country."
       },
       {
         "number": 2,
@@ -13020,7 +13020,7 @@
       },
       {
         "number": 3,
-        "initials": "PM",
+        "initials": "P",
         "clue": "That fella's eating his way through a maze. Just chomping. Going around corners, eating stuff. Something's chasing him but he's not bothered."
       }
     ]
@@ -13081,8 +13081,8 @@
       },
       {
         "number": 3,
-        "initials": "A B",
-        "clue": "[CLUE NEEDS REWRITE] Some little round things and they're rolling around like they're at the seaside. On the green stuff. Little black ones."
+        "initials": "R",
+        "clue": "These people have made themselves clean and not stale all over again. Done it before, doing it again. Re-fresh-ers. Little chewy ones."
       }
     ]
   },
@@ -13144,7 +13144,7 @@
       {
         "number": 3,
         "initials": "J",
-        "clue": "Right, there's a fella from Italy called Giacomo and he's got himself in a right buzzy situation. All vibrating. Water going everywhere."
+        "clue": "A bloke called Jack has found some sort of seeping, oozy water situation. All bubbly about it. Water going everywhere."
       }
     ]
   },
@@ -13233,7 +13233,7 @@
       },
       {
         "number": 3,
-        "initials": "S T",
+        "initials": "S",
         "clue": "Someone's really going at the fire. Keeping it well stoked. And they're perched on something, with a river running underneath."
       }
     ]
@@ -13358,7 +13358,7 @@
       {
         "number": 3,
         "initials": "T",
-        "clue": "A Moroccan man has got a pointy clay lid on his head and he's just walking around. Very calm about it. Smells of spices."
+        "clue": "Someone's said 'ta' to a biologist for explaining what a gene is. Very appreciative. North African clay pot involved somehow."
       }
     ]
   },
@@ -13409,8 +13409,8 @@
     "clues": [
       {
         "number": 1,
-        "initials": "C",
-        "clue": "[CLUE NEEDS REWRITE] Some big fella named Barry came in, sat on a hat, and disappeared into a bar. Busy day for him."
+        "initials": "E",
+        "clue": "A woman called Ella has gone and changed the font on her computer. Big grey letters. Very lumbering about it."
       },
       {
         "number": 2,
@@ -13439,7 +13439,7 @@
     "clues": [
       {
         "number": 1,
-        "initials": "M D",
+        "initials": "M",
         "clue": "It's the smallest disc you've ever seen. And it's standing there going - I am the minimum viable disc. Right."
       },
       {
@@ -13449,7 +13449,7 @@
       },
       {
         "number": 3,
-        "initials": "M S",
+        "initials": "M",
         "clue": "Someone's claimed all the empty room in the universe as their own. All of it. Their space. All that space."
       }
     ]
@@ -13475,7 +13475,7 @@
       },
       {
         "number": 2,
-        "initials": "W E",
+        "initials": "W",
         "clue": "There's a wall, right. Just a wall. And someone's gone and put the letter E right at the end of it. Standing there next to the brickwork."
       },
       {
@@ -13624,7 +13624,7 @@
       {
         "number": 1,
         "initials": "C",
-        "clue": "Someone's cro-ing something. Like, half-crossing something. A sha. Bit of a sha to be honest. Cro and sha."
+        "clue": "A black bird's only gone and relocated itself to Asia. Don't know why. Crow's in Asia now. That's a country, that."
       },
       {
         "number": 2,
@@ -13634,7 +13634,7 @@
       {
         "number": 3,
         "initials": "I",
-        "clue": "The eye of the storm. Ice cold. Land below. Put them sounds together and you've got yourself a country. Sort of works."
+        "clue": "Frozen water sitting on the ground. That's it, really. Ice on land. They've gone and named themselves after it."
       }
     ]
   },
@@ -13659,13 +13659,13 @@
       },
       {
         "number": 2,
-        "initials": "GE",
+        "initials": "G",
         "clue": "James Bond, right, but it's not actually James Bond. It's a game about him. On that Nintendo thing. At your mate's house round 1997."
       },
       {
         "number": 3,
         "initials": "S",
-        "clue": "That little purple fella. Breathes fire. Very small dragon but acts like a big one. Sort of works if you squint."
+        "clue": "A secret agent's gone and had a bit of a row. Or maybe lined up in a row. Either way, spy and row. That's it."
       }
     ]
   },
@@ -13755,8 +13755,8 @@
       },
       {
         "number": 3,
-        "initials": "S",
-        "clue": "[CLUE NEEDS REWRITE] The lawn at the front's been done up lovely. Superman's had a look and he's very impressed. Called it super."
+        "initials": "O",
+        "clue": "Someone said 'oh' when they spotted an ace playing card sitting in the middle of the desert. There it is. Oh. Ace. Is."
       }
     ]
   },
@@ -13778,12 +13778,12 @@
       {
         "number": 1,
         "initials": "S",
-        "clue": "A fizzy carbonated drink has escaped to Eastern Europe and become a motor vehicle."
+        "clue": "The letter S has only gone and attached itself to the final bit of a piece of music. That coda. S and a coda. Eastern European car, that."
       },
       {
         "number": 2,
-        "initials": "H D",
-        "clue": "A pig has only gone and shoved something into a container of sauce. The whole thing. In the daz. Whatever daz is."
+        "initials": "H",
+        "clue": "Someone's put dried grass in with some useful information and then used a well-known washing powder to clean up the mess. Hay-gen-Daz. Ice cream, that."
       },
       {
         "number": 3,
@@ -13847,7 +13847,7 @@
       },
       {
         "number": 3,
-        "initials": "D B",
+        "initials": "D A B",
         "clue": "Someone's had a blazing row over a yellow flower. And then this other thing, a male deer, has turned up. Sort of explains itself, that."
       }
     ]
@@ -13904,7 +13904,7 @@
       {
         "number": 2,
         "initials": "R",
-        "clue": "Easy one. They went through the whole document - read the entire thing - and then felt the need to tell everyone about it online."
+        "clue": "Easy one. They went through the whole document, read the entire thing, and then felt the need to tell everyone about it online."
       },
       {
         "number": 3,
@@ -13997,12 +13997,12 @@
       {
         "number": 2,
         "initials": "S",
-        "clue": "A Middle Eastern bloke has been rotating on the spot for about four hours. Very slowly. He's been selling slices to passers-by."
+        "clue": "Someone's mum has declared war on a small patch of woodland. Right into it, she is. Shaw-war-ma. Rotisserie meat, that."
       },
       {
         "number": 3,
         "initials": "F",
-        "clue": "A nervous person has made a small ball out of chickpeas and then tripped over while carrying it. The ball survived."
+        "clue": "Someone tripped over. Done it before, doing it again. Fall, a brief pause, then fell again. Fall-a-fell. Very clumsy individual."
       }
     ]
   },
@@ -14027,12 +14027,12 @@
       },
       {
         "number": 2,
-        "initials": "T B S I B W",
+        "initials": "T B I I Y C",
         "clue": "There's a spherical object for kicking about, and it's landed inside a sporting enclosure. Your turn now, apparently."
       },
       {
         "number": 3,
-        "initials": "C A A A L",
+        "initials": "C A A A A L",
         "clue": "Right, the bill for something came to the total value of an upper limb plus a lower limb. Expensive doesn't cover it."
       }
     ]
@@ -14058,8 +14058,8 @@
       },
       {
         "number": 2,
-        "initials": "M",
-        "clue": "[CLUE NEEDS REWRITE] The mole, right, that underground digger, it's gone and got itself a ratt on the end. Bit grim."
+        "initials": "R",
+        "clue": "The Egyptian sun god's gone and found himself a small bit of something. Ra's only got a bit of it. That's an animal."
       },
       {
         "number": 3,
@@ -14083,7 +14083,7 @@
     "clues": [
       {
         "number": 1,
-        "initials": "M D",
+        "initials": "M",
         "clue": "It's a small thing, disc-shaped, and it's the minimum. As in it's the least amount you could possibly have. In disc form."
       },
       {
@@ -14093,7 +14093,7 @@
       },
       {
         "number": 3,
-        "initials": "I C Q",
+        "initials": "I",
         "clue": "Right, I can see there's a queue. Long one. I'm looking at it. That's all."
       }
     ]
@@ -14211,7 +14211,7 @@
       },
       {
         "number": 2,
-        "initials": "R H",
+        "initials": "R",
         "clue": "That lad Ron's gone and built a halo out of Dinho - which I think is a tropical fruit or something. Sort of worked."
       },
       {
@@ -14243,7 +14243,7 @@
       {
         "number": 2,
         "initials": "P",
-        "clue": "Someone's gone and put a roo in a pot. A per-roo situation. Per-u. The roo's in Peru now."
+        "clue": "Someone's gone and put a roo in a pot. A per-roo situation. The roo's in there now. Won't come out."
       },
       {
         "number": 3,
@@ -14400,8 +14400,8 @@
       },
       {
         "number": 3,
-        "initials": "G",
-        "clue": "[CLUE NEEDS REWRITE] His name's just Gene. That's it. Nothing else to it. Easy one this. You've probably got it."
+        "initials": "T P",
+        "clue": "A professional has gone out and started digging in the garden. Right keen about it. Just there on their own with a spade, going ee every time they find something."
       }
     ]
   },
@@ -14519,7 +14519,7 @@
       {
         "number": 2,
         "initials": "U",
-        "clue": "Someone's telling you - yes, you personally - that you are now the proud owner of a large furry animal. Congratulations."
+        "clue": "Someone's telling you, yes you personally, that you are now the proud owner of a large furry animal. Congratulations."
       },
       {
         "number": 3,
@@ -14607,7 +14607,7 @@
       {
         "number": 1,
         "initials": "E",
-        "clue": "A woman called Enid has gone on a long trip but she's been told she has to go. She's not happy about it."
+        "clue": "A woman called Ada has gone into a restaurant and ordered something a bit nippy, with a chill to it. Right into the chilli."
       },
       {
         "number": 2,
@@ -14797,12 +14797,12 @@
       {
         "number": 2,
         "initials": "O",
-        "clue": "Right, a man. Just a man. Oman. That's the clue. Say it out loud. Easy one this."
+        "clue": "Right, a man. Just a man standing there minding his own business. Oh, man. That's a country that is."
       },
       {
         "number": 3,
         "initials": "I",
-        "clue": "That fella's gone to rack and ruin. I-rack. I-ran off. Two countries in there if you're not careful. Pick the right one."
+        "clue": "That fella legged it, didn't he. I scarpered. I was off. Said to himself, I ran. And off he went."
       }
     ]
   },
@@ -14832,7 +14832,7 @@
       },
       {
         "number": 3,
-        "initials": "GE",
+        "initials": "G",
         "clue": "This eye, right, it's made of gold. Just sitting there. Very shiny. Very suspicious looking."
       }
     ]
@@ -14918,13 +14918,13 @@
       },
       {
         "number": 2,
-        "initials": "P",
-        "clue": "[CLUE NEEDS REWRITE] You've squeezed that fruit too hard, haven't you. All the stringy white bits have come out. Floating about in there now."
+        "initials": "F M",
+        "clue": "There's a whole fleet of ships, right, all built from timber. And every single sailor on board is wearing a big waterproof coat. Every single one. At the same time."
       },
       {
         "number": 3,
-        "initials": "S",
-        "clue": "[CLUE NEEDS REWRITE] Someone's gone and built a whole house out of wine at the docks. Port wine. And it's got a head on it. Right at the front."
+        "initials": "R",
+        "clue": "Someone's replaced their bonce with a transistor radio. Just sitting there on their shoulders picking up Radio 4. Nobody's mentioned it."
       }
     ]
   },
@@ -14955,7 +14955,7 @@
       },
       {
         "number": 3,
-        "initials": "H D",
+        "initials": "H",
         "clue": "A large farmyard animal has only gone and pushed something into a bucket of that washing powder. The white stuff. Into the daz."
       }
     ]
@@ -14981,12 +14981,12 @@
       {
         "number": 2,
         "initials": "E P",
-        "clue": "That bloke Adam - from the Bible, the original one - he's got a massive construction project on the go. Cornwall."
+        "clue": "That bloke Adam, from the Bible, the original one, he's got a massive construction project on the go. Cornwall."
       },
       {
         "number": 3,
         "initials": "D C",
-        "clue": "Them massive church towers up north - proper Norman ones - and someone's gone and put a big pointy roof on the lot of them. Durham."
+        "clue": "Them massive church towers up north, proper Norman ones, and someone's gone and put a big pointy roof on the lot of them. Durham."
       }
     ]
   },
@@ -15042,7 +15042,7 @@
       {
         "number": 2,
         "initials": "E",
-        "clue": "Right, there's a lad who's overly eager - dead keen - and he's gone and covered himself in something crafty. Bit intense."
+        "clue": "Right, there's a lad who's overly eager, dead keen, and he's gone and covered himself in something crafty. Bit intense."
       },
       {
         "number": 3,
@@ -15135,7 +15135,7 @@
       {
         "number": 2,
         "initials": "R",
-        "clue": "It's been raining a lot in Japan and someone's decided to make something warm out of noodles. Very logical in the circumstances."
+        "clue": "Someone in the crowd gives a big loud cheer, and then a load of blokes walk in. Japanese noodle situation immediately follows."
       },
       {
         "number": 3,
@@ -15252,12 +15252,12 @@
     "clues": [
       {
         "number": 1,
-        "initials": "B T B",
+        "initials": "B A T B",
         "clue": "Some sort of flying creature, yeah, has made itself a cup of something hot - like a proper sit-down brew. Just a bee with a cup of tea. That's it."
       },
       {
         "number": 2,
-        "initials": "L S",
+        "initials": "L A S",
         "clue": "There's a fella who's keeping himself hidden, right - lying low, not drawing attention. And then he's also done a bit of sewing. Mended something."
       },
       {
@@ -15384,7 +15384,7 @@
       },
       {
         "number": 3,
-        "initials": "R H",
+        "initials": "R",
         "clue": "Ron's making a racket. A proper din. He's banging pots and pans together in what I can only describe as a tropical way."
       }
     ]
@@ -15405,13 +15405,13 @@
     "clues": [
       {
         "number": 1,
-        "initials": "S",
+        "initials": "S L",
         "clue": "Right, that bloke Sri, he's gone and found a Lanka. Sri found a Lanka. Couldn't believe it. Big island and that."
       },
       {
         "number": 2,
         "initials": "N",
-        "clue": "A very loud door slam, proper bang, and then the flattest, most tuneless sound imaginable after it. Desh."
+        "clue": "A joint in the middle of your leg has gone and made itself a close friend. Nice for it."
       },
       {
         "number": 3,
@@ -15529,7 +15529,7 @@
       {
         "number": 1,
         "initials": "K K",
-        "clue": "Right, that thing you do just before you eat - a bit of a tap on the door, isn't it. Doing it twice, mind. That's all."
+        "clue": "A footballer's strip and a furry four-legged animal have decided to team up. Very sponsorship-friendly."
       },
       {
         "number": 2,
@@ -15591,17 +15591,17 @@
       {
         "number": 1,
         "initials": "I",
-        "clue": "Someone pointing at themselves, a door key, and an indefinite article out front."
+        "clue": "Someone pointing at themselves, then there's a door key involved, and it all ends with an indefinite article."
       },
       {
         "number": 2,
         "initials": "S",
-        "clue": "A fizzy carbonated drink has found itself an extra consonant and become a Czech car."
+        "clue": "A British teatime baked good has paired up with the informal word for your father. Oddly specific outcome."
       },
       {
         "number": 3,
         "initials": "L",
-        "clue": "A bloke's put a price tag on something in France. Very deliberately. Gave it a cost, right there in France."
+        "clue": "The French definite article has gone and worked out exactly what something is worth. Finally got round to it."
       }
     ]
   },
@@ -15656,7 +15656,7 @@
       {
         "number": 2,
         "initials": "L",
-        "clue": "She's turned up and all the sparkle has just gone out of the room. Bit flat, that."
+        "clue": "Right, someone went to the toilet because their mate needed a hand with something. Very selfless."
       },
       {
         "number": 3,
@@ -15692,7 +15692,7 @@
       {
         "number": 3,
         "initials": "Z",
-        "clue": "Right, there's a keeper at an animal park and they've just taken charge of that one specific animal. That fella. Him."
+        "clue": "An animal park has gone and swallowed up the thirteenth letter of the alphabet. Just kept it. That's its now."
       }
     ]
   },
@@ -15775,7 +15775,7 @@
       {
         "number": 1,
         "initials": "P",
-        "clue": "A Spanish fella has dropped a very large flat pan and everything yellow has flown off in different directions. He's not bothered."
+        "clue": "Your old man has found himself a Spanish lass called Ella. She seems happy enough about it. Rice everywhere."
       },
       {
         "number": 2,
@@ -15785,7 +15785,7 @@
       {
         "number": 3,
         "initials": "E",
-        "clue": "Someone's going in, definitely going in, but it's going to require them to stay calm and there's a woman called Ada involved somehow."
+        "clue": "Someone's going in, right, but they're going to have to stay calm about it. And there's a woman called Ada at the end of it all."
       }
     ]
   },
@@ -15810,7 +15810,7 @@
       },
       {
         "number": 2,
-        "initials": "L T C O T B",
+        "initials": "L T C O O T B",
         "clue": "Someone's opened up a holdall and a cat has legged it out. Completely out now. That's done it."
       },
       {
@@ -15876,8 +15876,8 @@
       },
       {
         "number": 3,
-        "initials": "H M V",
-        "clue": "That bloke in the hat's got loads of music. He's a musical fella, him. Very musical."
+        "initials": "H",
+        "clue": "A faithful dog is sitting next to a horn gramophone listening to his owner talking into it. Very loyal animal."
       }
     ]
   },
@@ -15964,8 +15964,8 @@
       },
       {
         "number": 2,
-        "initials": "H",
-        "clue": "[CLUE NEEDS REWRITE] That thing in the sky with a tail on it. Comes round every few decades. Very icy. Has a name that sounds Roman."
+        "initials": "C",
+        "clue": "Someone's done their hair with a flat styling tool and then just pointed at it. Very matter-of-fact."
       },
       {
         "number": 3,
@@ -16022,7 +16022,7 @@
       {
         "number": 1,
         "initials": "B",
-        "clue": "Right, that big rod thing you hit a ball with, right, it's done something - it's gone and covered itself in a bit of a skin tone. Odd."
+        "clue": "A pub, a tiny enclosed room, all placed on top of an indefinite article. Very Spanish atmosphere somehow."
       },
       {
         "number": 2,
@@ -16032,7 +16032,7 @@
       {
         "number": 3,
         "initials": "A",
-        "clue": "Some fella's saying he's a dam - like a wall holding water back. Bit full of himself, to be honest."
+        "clue": "A bloke announces he exists, then gives something a good mix, then builds a great big wall to hold back water. Very Dutch sequence."
       }
     ]
   },
@@ -16186,13 +16186,13 @@
       },
       {
         "number": 2,
-        "initials": "N",
-        "clue": "[CLUE NEEDS REWRITE] That's a very pleasant-looking spot, isn't it. Someone would say it's quite nice. Which it is."
+        "initials": "C",
+        "clue": "Right, there's a company name, then something you write with, then what horses eat, then the word soldiers use for inside information. All one place."
       },
       {
         "number": 3,
         "initials": "B",
-        "clue": "[CLUE NEEDS REWRITE] There's a fella called Bruge. He's just sort of... there. Standing around. That's it."
+        "clue": "Someone's taken a knock and gone all purple and yellow on their arm. That's your European city right there."
       }
     ]
   },
@@ -16218,13 +16218,13 @@
       },
       {
         "number": 2,
-        "initials": "R",
-        "clue": "[CLUE NEEDS REWRITE] Right, that place that sounds like it's got ice in the name. And it has. Because it's in Iceland. Bit on the nose."
+        "initials": "H",
+        "clue": "Right, you've got your infernal underworld, then someone's committed a wrongdoing, then there's a door opener involved. Very Finnish."
       },
       {
         "number": 3,
-        "initials": "T",
-        "clue": "[CLUE NEEDS REWRITE] Some fella called Tallin has gone and done it. Bit thin on detail but that's what's happened."
+        "initials": "O",
+        "clue": "A tiny unit of weight is feeling very down about itself. Right on the floor it is. Can't lift itself."
       }
     ]
   },
@@ -16246,7 +16246,7 @@
       {
         "number": 1,
         "initials": "Z",
-        "clue": "There's a lad called Rich and he's gone and done a bit of a sketch. Drawn something. On paper."
+        "clue": "An animal park that's doing very well for itself financially. Quite flush, apparently."
       },
       {
         "number": 2,
@@ -16255,8 +16255,8 @@
       },
       {
         "number": 3,
-        "initials": "A",
-        "clue": "[CLUE NEEDS REWRITE] There's a bloke called Twerp and something's thrown off his thinking a bit. A bit off, is Twerp."
+        "initials": "B",
+        "clue": "Someone being a bit sharp and impatient with people, and then a load of long slimy fish. That's your Belgian capital."
       }
     ]
   },
@@ -17020,7 +17020,7 @@
     "clues": [
       {
         "number": 1,
-        "initials": "A C D C",
+        "initials": "A D",
         "clue": "You're going through the alphabet, pick the first one, skip to the third, then the fourth, then back to the third again. Say them out one at a time."
       },
       {
@@ -17056,12 +17056,12 @@
       },
       {
         "number": 2,
-        "initials": "S G",
-        "clue": "[CLUE NEEDS REWRITE] There's a noise coming from underneath where Gordon grows his veg. From right under the flowerbed."
+        "initials": "M",
+        "clue": "There's a bit of metal on the table, right, and some lad's come along and given it a good lick. Metal. Lick. And there's just the letter A sitting there at the end as well."
       },
       {
         "number": 3,
-        "initials": "B 182",
+        "initials": "B",
         "clue": "You've shut your eyes and opened them again, and when you do, someone's gone and written a hundred and eighty-two on the wall. No explanation."
       }
     ]
@@ -17118,7 +17118,7 @@
       },
       {
         "number": 2,
-        "initials": "U 2",
+        "initials": "U",
         "clue": "The letter before V and the number after one. Easy one this."
       },
       {
@@ -17216,7 +17216,7 @@
       },
       {
         "number": 3,
-        "initials": "T B",
+        "initials": "B",
         "clue": "Right, the rhythm's crawled inside a little insect. The insect that's basically already named after them. Sort of works."
       }
     ]
@@ -17738,7 +17738,7 @@
       {
         "number": 2,
         "initials": "C",
-        "clue": "There's this bloke right, and he keeps saying crete, like the stuff you build with. But he's saying it wrong, keeps going on about it."
+        "clue": "There's a North American people, the Cree, and they've got the letter T following them about everywhere they go. Cree-T. That's a Greek island, that."
       },
       {
         "number": 3,
@@ -17803,7 +17803,7 @@
       {
         "number": 3,
         "initials": "B",
-        "clue": "This island right, it's covered in tiny balls - like ball bearings. Bali. Ball-ee. The little round things, everywhere."
+        "clue": "This island right, it's covered in tiny balls, like ball bearings. The little round things, everywhere."
       }
     ]
   },
@@ -17823,12 +17823,12 @@
       {
         "number": 1,
         "initials": "B",
-        "clue": "The Spanish word for sea, they say mar, the Spanish, and a beautiful woman's gone and sat down next to it. Very scenic."
+        "clue": "A fella called Ben has taken up residence in a dormitory. Properly moved in. Ben. In the dorm. Not moving out either."
       },
       {
         "number": 2,
         "initials": "M",
-        "clue": "A very large group of enthusiastic followers who've gone on holiday and things haven't gone well for any of them."
+        "clue": "Something's gone and ruined something beautiful. That's all. Ruined it completely. Mar. Bella. Spanish resort, that."
       },
       {
         "number": 3,
@@ -17882,13 +17882,13 @@
     "clues": [
       {
         "number": 1,
-        "initials": "C",
+        "initials": "G C",
         "clue": "That couple, right, they've gone and bought loads of tins of stuff. Really stocked up the cupboards. Can-area. Canned loads of it."
       },
       {
         "number": 2,
         "initials": "R",
-        "clue": "A javelin, properly thrown, good technique, and someone doing repetitive learning. The javelin is very committed to its revision."
+        "clue": "All those tarmac paths you drive your car along. The whole network of them out there. Roads. Greek island, that is."
       },
       {
         "number": 3,
@@ -17923,7 +17923,7 @@
       {
         "number": 3,
         "initials": "A",
-        "clue": "A bloke called Al has done some very committed carving."
+        "clue": "Everyone's gone and done some carving. The whole lot of them. All of them, carving away."
       }
     ]
   },
@@ -17943,7 +17943,7 @@
       {
         "number": 1,
         "initials": "T",
-        "clue": "That bloke with the tusk - like an elephant's tooth - he's met a woman called Canny. Tusk and Canny. Tusk-can-ee. Lovely couple."
+        "clue": "An elephant's tooth has gone and found itself a tin can, and they're making a bit of a noise about it. Tusk. Can. Ee."
       },
       {
         "number": 2,
@@ -17953,7 +17953,7 @@
       {
         "number": 3,
         "initials": "M",
-        "clue": "Right, that woman Minnie - well, they're calling her Men now. And she's got an orca. A whale. Men or ca. Men-or-ca. Right."
+        "clue": "A load of blokes can't agree. It's either the blokes causing the problem, or it was the car. Men. Or. Car. That's your Spanish island."
       }
     ]
   },
@@ -17978,7 +17978,7 @@
       {
         "number": 2,
         "initials": "C",
-        "clue": "That centre of the apple again. The core bit. He's pressing it. Pressing the core. Core-press. Say it faster. Go on."
+        "clue": "Someone's let out a massive sigh, right, and then immediately pressed something heavy. A proper press. Sigh. Press. That's an island, that."
       },
       {
         "number": 3,
@@ -18008,7 +18008,7 @@
       {
         "number": 2,
         "initials": "B",
-        "clue": "That fella with the balls again. He's on the island. Ball-ee. Everything on the island is ball-shaped. The trees. The shops. The lot."
+        "clue": "That fella with the round things again. He's on the island. Everything there is ball-shaped. The trees. The shops. The lot."
       },
       {
         "number": 3,
@@ -18162,7 +18162,7 @@
     "clues": [
       {
         "number": 1,
-        "initials": "T",
+        "initials": "B",
         "clue": "There's been a very loud noise and then a male chicken is just standing there looking confused."
       },
       {
@@ -18423,7 +18423,7 @@
       },
       {
         "number": 2,
-        "initials": "C",
+        "initials": "B",
         "clue": "There's been an explosion, and now a male chicken is just standing there in the middle of it all."
       },
       {
@@ -18647,7 +18647,7 @@
       },
       {
         "number": 2,
-        "initials": "C",
+        "initials": "C T",
         "clue": "A superhero's flowing cloak landed in a market town. Wafted right down into the village. Bit theatrical."
       },
       {
@@ -18762,7 +18762,7 @@
     "clues": [
       {
         "number": 1,
-        "initials": "S C 7",
+        "initials": "S C",
         "clue": "Right, there's the letter at the end of the alphabet before T, then there's a place you go for a drink, then it's the number between six and eight. Sort of works."
       },
       {
@@ -18772,8 +18772,8 @@
       },
       {
         "number": 3,
-        "initials": "B W",
-        "clue": "[CLUE NEEDS REWRITE] She's gone and put a spell on something. Got her pointed hat on. The whole business."
+        "initials": "G A",
+        "clue": "A load of lasses, right, and they're not being quiet about it. Saying it out loud. Not whispering. Very much out loud, the lot of them."
       }
     ]
   },
@@ -18827,13 +18827,13 @@
       },
       {
         "number": 2,
-        "initials": "E 17",
+        "initials": "E",
         "clue": "The direction the sun comes up, and a number that's a teenager. That's your lot."
       },
       {
         "number": 3,
-        "initials": "L L",
-        "clue": "[CLUE NEEDS REWRITE] You've opened the cage, haven't you. And now whatever was in there has gone off running. Couldn't stop it."
+        "initials": "F",
+        "clue": "Right, it's the number. The one where you've used up all the digits on one hand and nothing's left. That's how many are in this group."
       }
     ]
   },
@@ -18857,8 +18857,8 @@
       },
       {
         "number": 2,
-        "initials": "H S",
-        "clue": "[CLUE NEEDS REWRITE] You listen to a thing, then you say a thing about it. Word gets around. That's gossip, that is."
+        "initials": "A S",
+        "clue": "Every single one of them's gone holy. The whole lot. Not a sinner among them. Properly devoted, every last one."
       },
       {
         "number": 3,
@@ -18912,7 +18912,7 @@
     "clues": [
       {
         "number": 1,
-        "initials": "B Z",
+        "initials": "B",
         "clue": "He's a lad, right, and he's standing in one of them restricted areas. The ones with the cones."
       },
       {
@@ -18947,7 +18947,7 @@
       },
       {
         "number": 2,
-        "initials": "E 17",
+        "initials": "E",
         "clue": "That way, towards where it gets light in the morning. And the age you are just before you turn eighteen."
       },
       {
@@ -19042,8 +19042,8 @@
       },
       {
         "number": 3,
-        "initials": "H S",
-        "clue": "[CLUE NEEDS REWRITE] Someone's listened to a bit of news, then they've passed it on. It's going round. That's how these things spread."
+        "initials": "S",
+        "clue": "Right, there's that sweet stuff you put in your tea. And then there's some attractive young women stood nearby. Nobody's questioning it."
       }
     ]
   },
@@ -19072,8 +19072,8 @@
       },
       {
         "number": 3,
-        "initials": "L L",
-        "clue": "[CLUE NEEDS REWRITE] Someone's undone the latch on the pen, and now that animal has gone running off into the field. Couldn't stop it."
+        "initials": "F",
+        "clue": "One, two, three, four, and then one more turns up. The next one in that sequence. That's how many are in this group."
       }
     ]
   },
@@ -19097,13 +19097,13 @@
       },
       {
         "number": 2,
-        "initials": "B Z",
+        "initials": "B",
         "clue": "There's a young fella stood in one of them marked-off sections. The sort with the lines on the ground. Security's watching."
       },
       {
         "number": 3,
-        "initials": "B W",
-        "clue": "[CLUE NEEDS REWRITE] Something's had a hex put on it. Proper bewitched. Someone in a pointy hat's had a go at it."
+        "initials": "A S",
+        "clue": "The whole collection of them, every last one, has gone and made themselves holy. All of them canonised. Not one bad egg."
       }
     ]
   },
@@ -19122,7 +19122,7 @@
     "clues": [
       {
         "number": 1,
-        "initials": "S C 7",
+        "initials": "S C",
         "clue": "There's a letter, the one that looks like a curly snake. Then a place where you go for a drink with a jukebox. Then count up from six."
       },
       {
@@ -19192,7 +19192,7 @@
       },
       {
         "number": 3,
-        "initials": "E 17",
+        "initials": "E",
         "clue": "Go that way, towards the morning. And how old you are when you're nearly old enough to vote."
       }
     ]
@@ -19247,13 +19247,13 @@
       },
       {
         "number": 2,
-        "initials": "L L",
-        "clue": "[CLUE NEEDS REWRITE] They've opened the gate, haven't they, and now whatever was penned in there is off across the field. Gone."
+        "initials": "G A",
+        "clue": "A group of young women, right, and they are not keeping it down. Very vocal. Saying it out loud, every last word."
       },
       {
         "number": 3,
-        "initials": "H S",
-        "clue": "[CLUE NEEDS REWRITE] You've overheard something and now you're telling everyone about it. It's going round. That's what people do."
+        "initials": "A K",
+        "clue": "There's a tiny young cat, right, the small fluffy sort. And it's gone completely nuclear. Nobody saw that coming from something that size."
       }
     ]
   },
@@ -19275,7 +19275,7 @@
       {
         "number": 1,
         "initials": "B W",
-        "clue": "Right, there's a bloke called Will, and he's covered head to toe in blue paint. Don't know why. That's him."
+        "clue": "There's that colour, right, the one you see in a clear sky or when someone's feeling low. And something's making an enormous mournful cry in the ocean. Very dramatic."
       },
       {
         "number": 2,
@@ -19311,7 +19311,7 @@
       },
       {
         "number": 2,
-        "initials": "K F",
+        "initials": "K",
         "clue": "That king - right proper monarch - he's gone fishing. Caught something too. Sat there on a branch looking well chuffed."
       },
       {
@@ -19338,7 +19338,7 @@
     "clues": [
       {
         "number": 1,
-        "initials": "H H S",
+        "initials": "H S",
         "clue": "A bloke's gone and balanced a tool for hitting nails on top of his head. Like a hat, but for DIY. Bit impractical."
       },
       {
@@ -19348,8 +19348,8 @@
       },
       {
         "number": 3,
-        "initials": "C",
-        "clue": "[CLUE NEEDS REWRITE] Right, you know that sound a crow makes? That bird's been at the beach all day picking at things. Near enough."
+        "initials": "S",
+        "clue": "A bee's had a right go at someone's arm. Proper angry about something. And then there's a beam of sunlight coming down from above."
       }
     ]
   },
@@ -19369,8 +19369,8 @@
     "clues": [
       {
         "number": 1,
-        "initials": "M R",
-        "clue": "[CLUE NEEDS REWRITE] There's a bloke called Ray, right, and he's doing something incredible with his hands. Magical, like a proper showman. Bit flashy."
+        "initials": "S",
+        "clue": "Right, the letter that comes after R in the alphabet, and then the British slang for a pound coin. Stick them together and you've got eight arms and a load of ink."
       },
       {
         "number": 2,
@@ -19379,8 +19379,8 @@
       },
       {
         "number": 3,
-        "initials": "G",
-        "clue": "[CLUE NEEDS REWRITE] Me nan's got a new candle. She says it smells lovely. Flowers and that. I dunno. It's just a bird in the end."
+        "initials": "S",
+        "clue": "You've got the big salty body of water no one can actually drink, and then there's a bird sitting above it waiting. That'll be your chips gone, then."
       }
     ]
   },
@@ -19411,7 +19411,7 @@
       },
       {
         "number": 3,
-        "initials": "J F",
+        "initials": "J",
         "clue": "That jelly stuff from a jar, right, and a load of fish swimming about near it. Doesn't quite make sense but the sound does."
       }
     ]
@@ -19438,7 +19438,7 @@
       },
       {
         "number": 2,
-        "initials": "H B",
+        "initials": "H",
         "clue": "That tiny little bird, right, it hums. Not singing, just humming. Like it's heard a tune and can't quite remember the words."
       },
       {
@@ -19466,7 +19466,7 @@
       {
         "number": 1,
         "initials": "S",
-        "clue": "That bloke who went squidging everything at the market - all soft and wobbly. Left ink everywhere. Nobody liked him."
+        "clue": "There's your British slang for a pound, right, with a letter stuck in front of it. That letter looks like a wriggly snake when you write it. Now you've got eight arms and you're in the sea."
       },
       {
         "number": 2,
@@ -19562,7 +19562,7 @@
       {
         "number": 1,
         "initials": "S",
-        "clue": "Right, something's been squeezed - all the ink's come out and it's made a right mess. Eight arms, probably."
+        "clue": "Right, the 19th letter of the alphabet, and then the British slang your nan uses for a pound note. That's your thing. Eight arms, jet of ink, lives in the sea."
       },
       {
         "number": 2,
@@ -19571,7 +19571,7 @@
       },
       {
         "number": 3,
-        "initials": "K F",
+        "initials": "K",
         "clue": "Alright, the king of this establishment has gone fishing. Caught one an' all. Sitting by the river looking very pleased."
       }
     ]
@@ -19593,8 +19593,8 @@
     "clues": [
       {
         "number": 1,
-        "initials": "M R",
-        "clue": "[CLUE NEEDS REWRITE] Some magician fella called Ray is doing tricks under the sea. Big flat hands, very dramatic about it all."
+        "initials": "S",
+        "clue": "There's this long sharp thing a knight carries into battle. The proper medieval weapon. And it's gone and become a fish somehow."
       },
       {
         "number": 2,
@@ -19625,18 +19625,18 @@
     "clues": [
       {
         "number": 1,
-        "initials": "H B",
+        "initials": "H",
         "clue": "Tiny little thing, it's making a noise but not a proper tune. Just a sort of vibrating hum while it works. Never stops."
       },
       {
         "number": 2,
-        "initials": "J F",
+        "initials": "J",
         "clue": "That wobbly transparent thing in the water, right, it drifts. Doesn't go anywhere in particular. Just floating about. Good for nothing."
       },
       {
         "number": 3,
-        "initials": "C",
-        "clue": "[CLUE NEEDS REWRITE] Right, some bloke's been well grumpy all day - couldn't find his keys, train was late, all of that. Sideways personality on him."
+        "initials": "P",
+        "clue": "There's a writing instrument, the sort you use to put ink on paper. And inside it is a bloke called Quinn. He's waddling about in there. Black and white outfit."
       }
     ]
   },
@@ -19667,8 +19667,8 @@
       },
       {
         "number": 3,
-        "initials": "G",
-        "clue": "[CLUE NEEDS REWRITE] That seabird at the coast, mate - it'll eat your chips if you're not quick. Absolute gannet. There's a clue in that somewhere."
+        "initials": "S",
+        "clue": "That enormous body of salty water you can't drink. Right. And a bird sat above it just waiting. Your chips are not safe."
       }
     ]
   },
@@ -19721,7 +19721,7 @@
     "clues": [
       {
         "number": 1,
-        "initials": "H H S",
+        "initials": "H S",
         "clue": "That DIY tool for bashing nails - it's got a giant version of itself on top of its own head. Bit weird, but there it is."
       },
       {
@@ -19791,7 +19791,7 @@
       {
         "number": 2,
         "initials": "S",
-        "clue": "Someone at the fishmonger's squashed everything in that tray. Ink everywhere. Eight arms worth. Took ages to clean up."
+        "clue": "It's the letter between R and T, the curvy one, and then the British money slang that everyone uses down the market. That's your eight-armed creature."
       },
       {
         "number": 3,
@@ -19822,7 +19822,7 @@
       },
       {
         "number": 2,
-        "initials": "H B",
+        "initials": "H",
         "clue": "Smallest bird you'll find, right, and it's just vibrating. Wings going so fast you can't see them. Makes a noise like an engine warming up."
       },
       {
@@ -19860,7 +19860,7 @@
       {
         "number": 3,
         "initials": "C",
-        "clue": "[CLUE NEEDS REWRITE] There's a bird that dives into the sea and comes up with fish. Goes all black and sleek. Spreads its wings out to dry after. Fair enough."
+        "clue": "Right, this big black bird dives into the sea and you go 'cor'. And you'd want more of them, they're so good at it. Like little ants of the bird world. Cor. More. Ant."
       }
     ]
   },
@@ -19886,7 +19886,7 @@
       },
       {
         "number": 2,
-        "initials": "J F",
+        "initials": "J",
         "clue": "Wobbly. Transparent. Drifting. Stings you if you're unlucky. Not quite a fish, not quite anything. Just sort of there in the water."
       },
       {
@@ -20818,7 +20818,7 @@
     "clues": [
       {
         "number": 1,
-        "initials": "G W C",
+        "initials": "G W O C",
         "clue": "Brilliant fence, this one. Massive. And it's made entirely out of crockery. Plates, cups, the lot. Very impractical."
       },
       {
@@ -20828,7 +20828,7 @@
       },
       {
         "number": 3,
-        "initials": "M T",
+        "initials": "M",
         "clue": "The man's on his own, just standing there. Being a mountain. That's it. He's just there."
       }
     ]
@@ -20855,8 +20855,8 @@
       },
       {
         "number": 2,
-        "initials": "V L",
-        "clue": "It's the biggest lake in Russia. Say it slowly. There's a lad there and he's feeling... quite well, actually."
+        "initials": "L B",
+        "clue": "It's the deepest lake in the world, this. You wave goodbye to someone, then you give them a shout. Lake. Bye. Call."
       },
       {
         "number": 3,
@@ -20882,7 +20882,7 @@
     "clues": [
       {
         "number": 1,
-        "initials": "M T",
+        "initials": "M S",
         "clue": "The man's gone and married the sea. Just walked straight in. Very committed. Bit odd."
       },
       {
@@ -20915,11 +20915,11 @@
       {
         "number": 1,
         "initials": "M F",
-        "clue": "Right, the volcano in Japan. The foot of it is very beautiful, apparently. Say it out loud - the foot + the beauty."
+        "clue": "There's a massive volcano in Japan. Not many can climb it, just a few. And when they get to the top they go gee. Mount. Few. Gee."
       },
       {
         "number": 2,
-        "initials": "V S",
+        "initials": "V",
         "clue": "The old fella's gone absolutely volcanic about something. Erupted completely. And he's Italian, somehow."
       },
       {
@@ -21015,12 +21015,12 @@
       },
       {
         "number": 2,
-        "initials": "Y S",
+        "initials": "Y",
         "clue": "The national park, right. It's yellow. Or at least it sounds like it should be. And there's a stone involved."
       },
       {
         "number": 3,
-        "initials": "O C",
+        "initials": "O R",
         "clue": "The big river. It's a grey colour, kind of. Run-down looking. Like it needs a bit of maintenance."
       }
     ]
@@ -21042,7 +21042,7 @@
     "clues": [
       {
         "number": 1,
-        "initials": "K R",
+        "initials": "C R",
         "clue": "The monkey's gone all dramatic and it's dropped down into the water. Made a right splash. Kongo-style."
       },
       {
@@ -21079,12 +21079,12 @@
       },
       {
         "number": 2,
-        "initials": "F J",
-        "clue": "The Norwegian inlets, right. They go all the way in, very long and thin. Like the water's being nosy."
+        "initials": "F",
+        "clue": "Someone's driven their car through every shallow river crossing in Norway. All the fords, done. One after another. Into the sea."
       },
       {
         "number": 3,
-        "initials": "G R",
+        "initials": "G R V",
         "clue": "It's a rift. A proper gap in the land. Goes on for miles and miles down through Africa. Great big one."
       }
     ]
@@ -21106,17 +21106,17 @@
     "clues": [
       {
         "number": 1,
-        "initials": "I F",
+        "initials": "I",
         "clue": "The island's on fire. Well, it's volcanic, like. There's loads of geysers and that. Hot water everywhere."
       },
       {
         "number": 2,
-        "initials": "K V",
+        "initials": "D V",
         "clue": "The valley in California, right. Very dry. Below sea level. Death is in the name for a reason."
       },
       {
         "number": 3,
-        "initials": "S S",
+        "initials": "S",
         "clue": "The stone circle, yeah. Very old. In a field in Wiltshire. Been there ages. Nobody really knows why."
       }
     ]
@@ -21170,12 +21170,12 @@
     "clues": [
       {
         "number": 1,
-        "initials": "M R",
+        "initials": "M V",
         "clue": "The man says he's going. He's leaving. Off to find something massive and orange in the American south-west."
       },
       {
         "number": 2,
-        "initials": "B G",
+        "initials": "G",
         "clue": "The big green one. Enormous. Covered in ice, mostly. In the North Atlantic. People always mix it up with the cold island."
       },
       {
@@ -21208,11 +21208,11 @@
       {
         "number": 2,
         "initials": "L T",
-        "clue": "The great African lake. Very long. Very thin. Like someone stretched it out. Looks like a swimming pool on the map."
+        "clue": "There's a huge African lake. Imagine something very tangy, like the drink, then anything you like, then a car. Tang. Any. Car."
       },
       {
         "number": 3,
-        "initials": "M H",
+        "initials": "M",
         "clue": "The Horn, right, not of Africa, but the bit of Africa that is actually Africa. The east coast pointy bit. Sticking out."
       }
     ]
@@ -21234,8 +21234,8 @@
     "clues": [
       {
         "number": 1,
-        "initials": "L S",
-        "clue": "The big pink one in East Africa. It goes very pink when the flamingos turn up. Named after a soft thing and a rock."
+        "initials": "L N",
+        "clue": "Right, it's a lake in Kenya full of flamingos. Someone says no, a pigeon comes over and coos, and a kangaroo's hopping about. Nah. Coo. Roo."
       },
       {
         "number": 2,
@@ -21244,7 +21244,7 @@
       },
       {
         "number": 3,
-        "initials": "B D",
+        "initials": "B S F",
         "clue": "Very flat. Very white. Used to be a lake but dried up and left all the salt behind. In America, Utah sort of area."
       }
     ]
@@ -21295,7 +21295,7 @@
       {
         "number": 1,
         "initials": "V R",
-        "clue": "That fella called Victor's gone and entered a competition. He's very confident about it. Hasn't practised. Hasn't prepared. Still confident."
+        "clue": "There's a vicar who's gone and measured every single roof overhang on his church. All the eaves, measured. Very particular about them. Vic's eaves."
       },
       {
         "number": 2,
@@ -21335,7 +21335,7 @@
       {
         "number": 3,
         "initials": "T T",
-        "clue": "[CLUE NEEDS REWRITE] Right, this fella from Tipperary's gone and tied himself to a gate with some old twine. Won't say why. Very calm about it."
+        "clue": "Right, there's a bread roll sitting in the tiered seats at the stadium with his nan. Just the two of them up in the tiers. Tommy. Tier. Nan."
       }
     ]
   },
@@ -21355,7 +21355,7 @@
       {
         "number": 1,
         "initials": "R B",
-        "clue": "That fella's gone and put a load of buckets on his back. Right, they're tied on with rope. He's staggering about. Says it's fine."
+        "clue": "Someone's gone round the marina robbing all the rope rings off every boat. Every becket nicked. Very thorough. Never found out why."
       },
       {
         "number": 2,
@@ -21385,17 +21385,17 @@
       {
         "number": 1,
         "initials": "A B",
-        "clue": "[CLUE NEEDS REWRITE] Some Irish woman's gone and started a fire on a beach. Just there in the evening. She's lit it and she's sitting by it reading a magazine. Lovely, really."
+        "clue": "Someone's had a bonfire and the ash has blown all over the heather. The ling's covered in it. And a bee's landed right in the middle. Ash. Ling. Bee."
       },
       {
         "number": 2,
         "initials": "L M",
-        "clue": "Right, there's a big mechanical thing in a field that chews up corn and it's making a terrible racket. The cows are unhappy about it."
+        "clue": "Someone's left their mac in the middle of a field. Just there in the lea. A mac in a lea. Nobody's claimed it."
       },
       {
         "number": 3,
         "initials": "T V",
-        "clue": "That bloke's climbed up the side of the church and he's sitting at the very top. Says he likes it up there. He's been there since Tuesday."
+        "clue": "There's a little metal sewing cap, a thimble, and someone's planted a vine right next to it. The two of them, side by side. A thimble and a vine."
       }
     ]
   },
@@ -21415,7 +21415,7 @@
       {
         "number": 1,
         "initials": "J C",
-        "clue": "Some fella's leaning on a car outside a nightclub and he's charging people to look at it. Fifty pence a look. There's actually a queue."
+        "clue": "Someone's used a crowbar to jimmy open a car. Just walked up and had a go. Didn't take anything, just wanted it open, apparently."
       },
       {
         "number": 2,
@@ -21445,17 +21445,17 @@
       {
         "number": 1,
         "initials": "P K",
-        "clue": "There's a parking meter but someone's replaced the money slot with a door knocker. A proper brass one. You have to knock to get a ticket."
+        "clue": "Something's slowly fizzling out, petering away, right there on a tiny tropical island. A cay, one of those little sandy ones in the Caribbean. Petering out on a cay."
       },
       {
         "number": 2,
         "initials": "B B",
-        "clue": "That fella called Bill is standing at the bottom of a very long road and he's waiting. He's been there since dawn. The road curves round a field."
+        "clue": "Right, there's a bird with a massive beak and it's moved into a castle. Set up home in the bailey, the inner courtyard. Great big bill, sitting in the bailey."
       },
       {
         "number": 3,
         "initials": "R H",
-        "clue": "[CLUE NEEDS REWRITE] Someone's built an enormous hall out of gold. Right in the middle of the countryside. It's gleaming. Nobody asked for it. It's there now."
+        "clue": "Someone very wealthy has gone and bought themselves an enormous room. Not a house, not a castle, just a hall. All that money and they got a hall."
       }
     ]
   },
@@ -21480,7 +21480,7 @@
       {
         "number": 2,
         "initials": "T T",
-        "clue": "[CLUE NEEDS REWRITE] Some fella's gone and torn a thin piece of material right down the middle. Very deliberately. He seems satisfied. That's all."
+        "clue": "A British soldier's gone to the stadium and sat in the tiered seating with his nan. Tommy, up in the tiers with his nan. She's not sure why she's there."
       },
       {
         "number": 3,
@@ -21505,7 +21505,7 @@
       {
         "number": 1,
         "initials": "R B",
-        "clue": "That fella's gone and robbed a load of baskets from a market and he's arranged them in his garden. He's very pleased. Says it's art."
+        "clue": "There's been a crime at the marina. Someone's gone round nicking all the rope rings off the boats. Every becket gone. Rob job."
       },
       {
         "number": 2,
@@ -21515,7 +21515,7 @@
       {
         "number": 3,
         "initials": "S P",
-        "clue": "Someone's covered the whole patio in grass seed. It's already growing. There are blades coming through the paving. The patio is slowly becoming a meadow."
+        "clue": "Someone's stood up and said something, then the crowd went and gave a big cheer. Then they all walked straight past the local company offices on the way out. Very orderly."
       }
     ]
   },
@@ -21534,13 +21534,13 @@
     "clues": [
       {
         "number": 1,
-        "initials": "A B",
-        "clue": "[CLUE NEEDS REWRITE] There's a fire made of ash and it's on a beach and a woman called Bea is sitting next to it with a magazine. It's a very calm evening. Nice, really."
+        "initials": "J W",
+        "clue": "Some fella's having a right wind-up, pulling everyone's leg, then he's made himself a comb out of willow twigs. Sat there combing his hair with a bit of tree. Very pleased with himself."
       },
       {
         "number": 2,
         "initials": "N K",
-        "clue": "Someone called Nish is kneeling down and going through a big keyring looking for the right one. He's been going for twenty minutes. There are loads of keys."
+        "clue": "There's a little recess in the wall, right, and a pigeon's flown in there and gone and ruined the plasterwork. Proper mess. Very disappointing for the builder."
       },
       {
         "number": 3,
@@ -21565,7 +21565,7 @@
       {
         "number": 1,
         "initials": "M J",
-        "clue": "That fella Milton's gone to work and he put a big pot of marmalade on his desk. He's handing it out to colleagues one spoonful at a time. Very systematic."
+        "clue": "Right, there's a massive grinding wheel down by the river and it weighs about a thousand kilos. Everyone in the village has gone and developed a desperate craving for it. Won't leave it alone."
       },
       {
         "number": 2,
@@ -21604,8 +21604,8 @@
       },
       {
         "number": 3,
-        "initials": "A B",
-        "clue": "[CLUE NEEDS REWRITE] Right, there's an Irish woman sitting on a pile of ash next to the sea and she's reading a book and she won't be disturbed. Very settled."
+        "initials": "V R",
+        "clue": "Someone's gone and rubbed chest cold remedy all over a load of medieval land managers. Right across the chest. All of them. Very thorough."
       }
     ]
   },
@@ -21625,12 +21625,12 @@
       {
         "number": 1,
         "initials": "D M",
-        "clue": "Right, Dylan's gone and set himself up in a big dark flat with no light and he's got loads of old furniture and he's moaning about everything. He's actually fine. He's just Dylan."
+        "clue": "There's a jar of that feathery green herb on the shelf, and an Irish fella standing next to it who just wants more of everything. Won't stop. Just more. More of it all."
       },
       {
         "number": 2,
-        "initials": "R D H",
-        "clue": "[CLUE NEEDS REWRITE] Reginald's gone hunting but he's brought a dictionary. He's consulting it every time he sees an animal. The animals have all left. He doesn't seem concerned."
+        "initials": "H H",
+        "clue": "Someone's been harassed and pestered all day long, right, and they've ended up at the top of a big grassy mound. Sitting there. Won't come down. Very put out."
       },
       {
         "number": 3,
@@ -22254,7 +22254,7 @@
       },
       {
         "number": 3,
-        "initials": "S",
+        "initials": "B",
         "clue": "The dairy spread has gone and taken flight. Out the window, into the garden, won't come back. It was needed for toast."
       }
     ]
@@ -22316,7 +22316,7 @@
       },
       {
         "number": 3,
-        "initials": "M S",
+        "initials": "M A S",
         "clue": "That fella Spencer, right, he's been scribbling all over the walls. Left his marks everywhere. Landlord's going to be furious."
       }
     ]
@@ -22402,7 +22402,7 @@
       },
       {
         "number": 2,
-        "initials": "I T V",
+        "initials": "I",
         "clue": "Me and that telly over there. We've had a good long look at each other. Say it out loud."
       },
       {
@@ -22432,7 +22432,7 @@
       },
       {
         "number": 2,
-        "initials": "C F M",
+        "initials": "C F",
         "clue": "The capital of somewhere rang up and the connection was brilliant. Very clear."
       },
       {
@@ -22457,7 +22457,7 @@
     "clues": [
       {
         "number": 1,
-        "initials": "C 4",
+        "initials": "C",
         "clue": "That bloke's counting. He's got to four. Stopped there for some reason."
       },
       {
@@ -22467,7 +22467,7 @@
       },
       {
         "number": 3,
-        "initials": "O K",
+        "initials": "O M",
         "clue": "Someone asked if everything was fine, and yeah, it was. All good. Sort of works."
       }
     ]
@@ -22522,12 +22522,12 @@
       },
       {
         "number": 2,
-        "initials": "M F M",
+        "initials": "M F",
         "clue": "Some bloke did a conjuring trick, right, and it went brilliant. Very mysterious. On the radio."
       },
       {
         "number": 3,
-        "initials": "C 5",
+        "initials": "C",
         "clue": "He counted to five this time. Went all the way. Committed to it."
       }
     ]
@@ -22547,7 +22547,7 @@
     "clues": [
       {
         "number": 1,
-        "initials": "H F M",
+        "initials": "H F",
         "clue": "That organ in your chest, it's going nicely. Really putting in the work. Pumping away on the FM."
       },
       {
@@ -22577,7 +22577,7 @@
     "clues": [
       {
         "number": 1,
-        "initials": "B B C R 2",
+        "initials": "B R",
         "clue": "The British broadcasting lot have done a second wireless programme. Made another one. That's all."
       },
       {
@@ -22612,7 +22612,7 @@
       },
       {
         "number": 2,
-        "initials": "B B C O",
+        "initials": "B O",
         "clue": "The national broadcasting lot put out their flagship programme. Top of the pile. First one."
       },
       {
@@ -22642,7 +22642,7 @@
       },
       {
         "number": 2,
-        "initials": "C F M",
+        "initials": "C F",
         "clue": "The main city called in a request, and they played it loud and clear. Brilliant reception."
       },
       {
@@ -22667,7 +22667,7 @@
     "clues": [
       {
         "number": 1,
-        "initials": "H F M",
+        "initials": "H F",
         "clue": "That pumping thing in your chest is on the radio. Going all day. Very committed."
       },
       {
@@ -22702,12 +22702,12 @@
       },
       {
         "number": 2,
-        "initials": "T E",
+        "initials": "T T",
         "clue": "The message came through on the wire and they printed it straight away. Very fast, very direct."
       },
       {
         "number": 3,
-        "initials": "B B C R 2",
+        "initials": "B R",
         "clue": "The big broadcasting corporation have gone and made a second wireless station. Bit ambitious."
       }
     ]
@@ -22732,7 +22732,7 @@
       },
       {
         "number": 2,
-        "initials": "O K",
+        "initials": "O M",
         "clue": "They asked if everything was alright. It was. So they published it."
       },
       {
@@ -22762,7 +22762,7 @@
       },
       {
         "number": 2,
-        "initials": "C 4",
+        "initials": "C",
         "clue": "That bloke counted along slowly and stopped when he got to four. Said that'd do."
       },
       {
@@ -22787,7 +22787,7 @@
     "clues": [
       {
         "number": 1,
-        "initials": "C 5",
+        "initials": "C",
         "clue": "Right, he went all the way. Counted up to five out loud. Didn't stop at four this time."
       },
       {
@@ -23004,13 +23004,13 @@
     "clues": [
       {
         "number": 1,
-        "initials": "P",
-        "clue": "[CLUE NEEDS REWRITE] Right, this fella - French mathematician - invented a triangle made of numbers. Also a pressure law. Did a lot, Pascal."
+        "initials": "E",
+        "clue": "Someone's got the fifth letter of the alphabet on a badge and they're at the company headquarters. Then their sister turns up holding a plant cutting. All part of one big connected thing, apparently."
       },
       {
         "number": 2,
-        "initials": "B",
-        "clue": "[CLUE NEEDS REWRITE] That Irish fella who worked out what gas does under pressure. Squash it and it gets smaller. Obvious when you think about it."
+        "initials": "L",
+        "clue": "Right, someone's gone and put a handwritten note on the toilet door. Just the one letter. A. That's it. Very cryptic for a lavatory."
       },
       {
         "number": 3,
@@ -23066,8 +23066,8 @@
     "clues": [
       {
         "number": 1,
-        "initials": "P",
-        "clue": "[CLUE NEEDS REWRITE] Right, Archimedes is running down the street again. Wet. No clothes on. Shouting something about finding things out. Very excited."
+        "initials": "E",
+        "clue": "It's the night before something big, and someone's completely refusing to go near the toilet. Just walking round it. Giving it a wide berth. Won't acknowledge it at all."
       },
       {
         "number": 2,
@@ -23129,7 +23129,7 @@
       {
         "number": 1,
         "initials": "A",
-        "clue": "[CLUE NEEDS REWRITE] Right, that Greek fella's been doing more maths. This time it's about circles. And he's worked out the volume of a sphere. In a bath. Of course."
+        "clue": "Some fella's sat down exactly on top of a meditating monk who's doing his chanting. Right on top of him. No warning. The monk carried on regardless."
       },
       {
         "number": 2,
@@ -23169,8 +23169,8 @@
       },
       {
         "number": 3,
-        "initials": "F",
-        "clue": "[CLUE NEEDS REWRITE] This Italian fella's sequence starts with rabbits. One rabbit, then two, then three, then five, then eight. The numbers add up. Goes on forever."
+        "initials": "M",
+        "clue": "Some philosopher's been pondering very hard on a golf tee, and then he's written a stanza about it. Loads of parallel versions of that stanza apparently. Goes on forever."
       }
     ]
   },
@@ -23262,8 +23262,8 @@
       },
       {
         "number": 3,
-        "initials": "B",
-        "clue": "[CLUE NEEDS REWRITE] That Irish scientist put a lid on his gas and squeezed it. Noted what happened. Pressure went up, volume went down. Basic, but important."
+        "initials": "C",
+        "clue": "There's a big cos lettuce out in the garden and it's got a load of green moss growing all over it. Very damp. Not ideal for a salad. But there it is, out in the universe."
       }
     ]
   },
@@ -23283,8 +23283,8 @@
     "clues": [
       {
         "number": 1,
-        "initials": "P",
-        "clue": "[CLUE NEEDS REWRITE] That French mathematician did a triangle of numbers. Each row adds up from the two above. Very neat little grid. Useful for probability and that."
+        "initials": "S W",
+        "clue": "Someone's gone and planted seeds right outside an animal's underground den. And there's a proper draught blowing straight through. Seeds all over the place."
       },
       {
         "number": 2,
@@ -23324,8 +23324,8 @@
       },
       {
         "number": 3,
-        "initials": "F",
-        "clue": "[CLUE NEEDS REWRITE] That number sequence - one, one, two, three, five, eight, thirteen - keeps showing up in sunflowers and shells. Very smug about it."
+        "initials": "W C",
+        "clue": "Someone's measured the power output of a big tired sigh and then gone and removed all the weakest ones from the herd. It all goes round and round apparently. Endlessly."
       }
     ]
   },
@@ -23345,8 +23345,8 @@
     "clues": [
       {
         "number": 1,
-        "initials": "P",
-        "clue": "[CLUE NEEDS REWRITE] That Greek triangle fella - he worked it out in a right angle - the square of the long side equals the squares of the other two. Wrote it down. Very helpful."
+        "initials": "O",
+        "clue": "Someone's let out a big exclamation of surprise and they're standing in a designated area up in the atmosphere. That's your lot. Oh. Zone."
       },
       {
         "number": 2,
@@ -23412,7 +23412,7 @@
       {
         "number": 2,
         "initials": "F",
-        "clue": "Dead easy this. Some bloke called Frank has gone and disappeared. Can't see him. He's there but you can't make him out at all."
+        "clue": "Someone's got an enemy outside and they've written the seventh letter of the alphabet right next to them on a piece of paper. That's your answer. Say it quick."
       },
       {
         "number": 3,
@@ -23472,7 +23472,7 @@
       {
         "number": 2,
         "initials": "H",
-        "clue": "It's dead hot, right, and someone called Wayne's turning up like a microwave. Everyone's sweating. Wave after wave of it."
+        "clue": "Someone's turned the central heating right up to full and then gone and waved at everyone walking past the window. Cheerful as anything despite the warmth. Very happy about it."
       },
       {
         "number": 3,
@@ -23557,7 +23557,7 @@
       {
         "number": 1,
         "initials": "T",
-        "clue": "That bloke Ty is blowing a gale again. Always doing it. Won't stop. Causing chaos. Big one, mind. Proper dangerous."
+        "clue": "There is a bloke, right, and he ties everything. Professional tier, he is. Knots for a living. And he has just landed somewhere warm."
       },
       {
         "number": 2,
@@ -23566,8 +23566,8 @@
       },
       {
         "number": 3,
-        "initials": "E",
-        "clue": "There's a little boy called El and he's gone warm again. Everything's heating up around him. He does it every few years."
+        "initials": "E N",
+        "clue": "There is a little boy called El and he has gone warm again. Everything is heating up around him. He does it every few years."
       }
     ]
   },
@@ -23586,7 +23586,7 @@
     "clues": [
       {
         "number": 1,
-        "initials": "J",
+        "initials": "J S",
         "clue": "Right, there's a stream of jets up high in the sky, going dead fast. Like a river but it's not water, it's wind. Up there. That's all."
       },
       {
@@ -23617,7 +23617,7 @@
       {
         "number": 1,
         "initials": "C",
-        "clue": "Right, a few of those thin wispy clouds up high, like somebody's dragged a comb through the sky. Very high up. Bit airy."
+        "clue": "Right, a few of those thin wispy clouds up high, like somebody has dragged a comb through the sky. Very high up. Bit airy."
       },
       {
         "number": 2,
@@ -23656,7 +23656,7 @@
       },
       {
         "number": 3,
-        "initials": "C",
+        "initials": "C F",
         "clue": "Right, this fella Colin's gone cold. Really cold. He's moved to the front of the queue and he's brought all his cold weather with him."
       }
     ]
@@ -23677,12 +23677,12 @@
       {
         "number": 1,
         "initials": "S",
-        "clue": "[CLUE NEEDS REWRITE] There's a cell, right, and it's gone proper super. Not a regular cell, a super one. Big, spinning, dangerous. Bit show-offy."
+        "clue": "Something has gone well above average, this thing. More than just normal. And it is all happening inside one of those small sealed-off units. Like in a battery or a beehive. Proper dangerous spinning storm."
       },
       {
         "number": 2,
         "initials": "H",
-        "clue": "[CLUE NEEDS REWRITE] Right, there's a fella called Bobby who lives in a sandstorm. He goes out in them on purpose. Bob's your uncle and all that."
+        "clue": "Someone has had a little laugh right there, just a short ha, and then they have noticed something a bit rude and round. Together that is a massive wall of dust rolling across the desert."
       },
       {
         "number": 3,
@@ -23742,7 +23742,7 @@
       {
         "number": 2,
         "initials": "T",
-        "clue": "There's a bloke called Tom who's spinning round and round in a funnel going downward. He's making a right mess. Round and round."
+        "clue": "Something got ripped right apart in a violent way, and there is a big fuss about it. Going round and round in a funnel. Making a right mess."
       },
       {
         "number": 3,
@@ -23801,7 +23801,7 @@
       },
       {
         "number": 2,
-        "initials": "J",
+        "initials": "J S",
         "clue": "Fast river of air, up high. Goes from west to east mostly over here. Planes use it to go quicker. It's a stream but for jets."
       },
       {
@@ -23832,7 +23832,7 @@
       {
         "number": 2,
         "initials": "H",
-        "clue": "Massive wave of heat just arrived. Nobody asked for it. Wayne brought it. He does this every summer. Everyone's complaining."
+        "clue": "Massive wave of heat just arrived. Nobody asked for it. Does this every summer. Everyone is complaining."
       },
       {
         "number": 3,
@@ -23897,7 +23897,7 @@
       {
         "number": 3,
         "initials": "S",
-        "clue": "[CLUE NEEDS REWRITE] That cell again. The super one. It's spinning and it won't stop. Bigger than a normal cell. Think it wants to show off."
+        "clue": "Something has gone well beyond normal, this thing. And it is all contained in one of those small units. Like in a battery or a prison. Very angry storm."
       }
     ]
   },
@@ -23916,13 +23916,13 @@
     "clues": [
       {
         "number": 1,
-        "initials": "E",
-        "clue": "Little El's gone and warmed the ocean up again. He does it on a cycle. A few years pass and there he is. Warm water. Palm trees."
+        "initials": "E N",
+        "clue": "Little El has gone and warmed the ocean up again. He does it on a cycle. A few years pass and there he is. Warm water. Palm trees."
       },
       {
         "number": 2,
         "initials": "H",
-        "clue": "[CLUE NEEDS REWRITE] Bob's back in his sandstorm. Ha! There he is. Swirling wall of dust. That's his thing, is Bob. Lives in the desert."
+        "clue": "Someone has let out a short laugh, just ha, right on the spot. And then straight after they have revealed something a bit cheeky and round. Together that is a massive sandstorm rolling across the desert."
       },
       {
         "number": 3,
@@ -23946,7 +23946,7 @@
     "clues": [
       {
         "number": 1,
-        "initials": "C",
+        "initials": "C F",
         "clue": "Right, Colin's gone cold and he's pushed himself to the front. Brought all his grey weather with him. Everyone behind him is freezing."
       },
       {
@@ -23977,7 +23977,7 @@
       {
         "number": 1,
         "initials": "F",
-        "clue": "Right, you can't see a thing. Everything's gone grey and white and murky. Frank's out there somewhere. Can't find him."
+        "clue": "Right, you cannot see a thing. Everything has gone grey and white and murky. Someone is out there somewhere. Cannot find them."
       },
       {
         "number": 2,
@@ -24012,7 +24012,7 @@
       },
       {
         "number": 2,
-        "initials": "T S",
+        "initials": "S N",
         "clue": "That fella up in outer space, he's taken up knitting. Sitting there with his needles. No idea why."
       },
       {
@@ -24039,12 +24039,12 @@
       {
         "number": 1,
         "initials": "G",
-        "clue": "Right, she's pulling the most horrible face you've ever seen. And she's wearing some underwear. Just standing there doing it."
+        "clue": "Right, she is pulling the most horrible face you have ever seen. And she is wearing some underwear. Just standing there doing it."
       },
       {
         "number": 2,
         "initials": "S",
-        "clue": "Your boy's only gone and turned himself into a big yellow plant. Don't know how. Standing in the garden looking at you."
+        "clue": "Your boy has only gone and turned himself into a big yellow plant. Standing in the garden looking at you."
       },
       {
         "number": 3,
@@ -24101,12 +24101,12 @@
       {
         "number": 1,
         "initials": "H",
-        "clue": "There's a woman - she belongs to someone, right - and she's standing in a queue holding a long-term tenancy agreement. Just standing there. In the queue."
+        "clue": "There is a woman, she belongs to someone, right, and she is standing in a queue holding a long-term tenancy agreement. Just standing there. In the queue."
       },
       {
         "number": 2,
         "initials": "P",
-        "clue": "A lad called Percy has only gone and rung someone up on his mobile. Just rang them. That's all he did."
+        "clue": "A lad called Percy has only gone and rung someone up on his mobile. Just rang them. That is all he did."
       },
       {
         "number": 3,
@@ -24132,17 +24132,17 @@
       {
         "number": 1,
         "initials": "O",
-        "clue": "This fella is a bit peculiar. A bit strange, really. And he's a bit dizzy - you know, not quite all there. And then there's this other bloke as well. All of that."
+        "clue": "This fella is a bit peculiar. A bit strange. And he is a bit dizzy, not quite all there. And then there is another bloke as well. All of that."
       },
       {
         "number": 2,
         "initials": "P",
-        "clue": "There's a small pan - one of the little ones - and someone's left a door open, and then there's a vowel at the end. Put it together."
+        "clue": "There is a small pan, one of the little ones, and someone has left a door open, and then there is a vowel at the end. Put it together."
       },
       {
         "number": 3,
         "initials": "B",
-        "clue": "Right, there's a big insect - the black and yellow one that makes honey - and it's done an oh, and then there's a wolf. All three of them. Together."
+        "clue": "Right, there is a big insect, the black and yellow one that makes honey, and it has done an oh, and then there is a wolf. All three of them. Together."
       }
     ]
   },
@@ -24163,12 +24163,12 @@
       {
         "number": 1,
         "initials": "D",
-        "clue": "Something's gone and died - just dropped dead - and then it landed on some frozen water and made a kind of sus sound at the end. Bit dramatic."
+        "clue": "Something has gone and died on the frozen water. Just lay there. And there is all of us watching."
       },
       {
         "number": 2,
         "initials": "I",
-        "clue": "Right, I personally am very concerned about you. I genuinely care. That's all. Just me caring about you. That's it."
+        "clue": "Right, I personally am very concerned about you. I genuinely care. Always have done. That is all this is."
       },
       {
         "number": 3,
@@ -24194,17 +24194,17 @@
       {
         "number": 1,
         "initials": "P",
-        "clue": "There's a fella who's very much in favour of something. He's on the team, sort of. And there's a woman called Ethel right next to him. And then these two other people as well."
+        "clue": "Someone is proper in favour of something, completely pro it. And then it is me. And then someone is addressed in the old fashioned way as thee. And then there is all of us."
       },
       {
         "number": 2,
         "initials": "P",
-        "clue": "Right, there's a peg - one of the ones you hang washing out with - and then there's a donkey at the end. You know what I mean. The back end of a donkey."
+        "clue": "Right, there is a peg - one of the ones you hang washing out with - and then there is a donkey at the end. You know what I mean. The back end of a donkey."
       },
       {
         "number": 3,
         "initials": "M",
-        "clue": "Someone keeps saying that a small freshwater fish belongs to them. It's mine, he says. Mine. And then there's a massive stone cliff at the end."
+        "clue": "There is a small freshwater fish - a minnow, little silvery thing - and at the end there is a big craggy rocky outcrop. Like on Dartmoor. One of those tors."
       }
     ]
   },
@@ -24225,17 +24225,17 @@
       {
         "number": 1,
         "initials": "A",
-        "clue": "Someone's got a big Afro hairstyle - proper rounded, like a bush - and they've gone and dyed something. Colours everywhere. Then there's a cup of tea."
+        "clue": "Someone has got a big Afro hairstyle - proper rounded, like a bush - and they have gone and dyed something. Colours everywhere. Then there is a cup of tea."
       },
       {
         "number": 2,
         "initials": "N",
-        "clue": "Someone's having a proper good look at themselves. Just staring. Won't stop. There's a kind of gnawing feeling and then a sis at the end. Whatever that means."
+        "clue": "Someone has completely dismissed their sister with a firm nah. Would not hear of it. And then there is all of us standing there watching."
       },
       {
         "number": 3,
         "initials": "T",
-        "clue": "Right, a bloke called Theo - or just Thee, the old fashioned way of saying you - he can see something. He sees it. And there's another one of us there."
+        "clue": "Someone is being addressed in the old fashioned way - thee, they say - and then they can see something. And there is all of us about."
       }
     ]
   },
@@ -24256,7 +24256,7 @@
       {
         "number": 1,
         "initials": "J",
-        "clue": "Right, there's a bird - a blue one, the one that looks a bit bossy - and it's got a son. A little bird son. That's all this is."
+        "clue": "Right, there is a bird - a blue one, the one that looks a bit bossy - and it has gone and had a son. A little bird son. That is all this is."
       },
       {
         "number": 2,
@@ -24292,7 +24292,7 @@
       {
         "number": 2,
         "initials": "C",
-        "clue": "Right, someone posted something off - sent it away - and at the end there's this '-or' sound. Like they sent it somewhere foreign. That's it."
+        "clue": "Someone posted something off - sent it away - and at the end there is this or sound. Like they dispatched it somewhere foreign. That is it."
       },
       {
         "number": 3,
@@ -24318,7 +24318,7 @@
       {
         "number": 1,
         "initials": "A",
-        "clue": "Right, someone's got a big Afro. Massive hair. And they've dyed it something mad. And then there's a cup of tea. That's it. Afro, dye, tea."
+        "clue": "Right, someone has got a big Afro. Massive hair. And they have dyed it something mad. And then there is a cup of tea. That is it."
       },
       {
         "number": 2,
@@ -24328,7 +24328,7 @@
       {
         "number": 3,
         "initials": "R H",
-        "clue": "Someone's out there stealing things left, right, and centre - robbing everything in sight - and they've got this fantastic hood on. Great hood."
+        "clue": "Someone is out there stealing things left, right, and centre - robbing everything in sight - and they have got this fantastic hood on. Great hood."
       }
     ]
   },
@@ -24380,12 +24380,12 @@
       {
         "number": 1,
         "initials": "A S",
-        "clue": "Right, there's a fella called Al, and he's only gone and got himself completely covered in sweetener. Head to toe. Not sure how."
+        "clue": "There is the first letter of the alphabet, then a local computer network, and the whole lot is covered in the white granulated sweet stuff."
       },
       {
         "number": 2,
         "initials": "E M",
-        "clue": "There's an eel, right, and it's sitting on a bottle of men's cologne. Just perched there. Smells nice apparently."
+        "clue": "There is an eel, right, and it is sitting on a bottle of men's cologne. Just perched there. Smells nice apparently."
       },
       {
         "number": 3,
@@ -24442,12 +24442,12 @@
       {
         "number": 1,
         "initials": "E M",
-        "clue": "There's an elongated wriggly fish and it's on top of something that smells very woody and musky. Just sitting on it."
+        "clue": "There is an elongated wriggly fish and it is on top of something that smells very woody and musky. Just sitting on it."
       },
       {
         "number": 2,
         "initials": "A S",
-        "clue": "A fella called Al has got his name down for something, and then he's fallen headfirst into a bowl of the sweet white stuff."
+        "clue": "There is the first letter of the alphabet, then a local computer network, and a fella has fallen face-first into a bowl of the sweet granulated stuff."
       },
       {
         "number": 3,
@@ -24478,7 +24478,7 @@
       {
         "number": 2,
         "initials": "O W",
-        "clue": "Someone's gone oh, and then they've done a sort of prayer sound, and then they've had a massive win and walked out the door without paying for anything."
+        "clue": "Someone has just had a surgical operation, and the crowd is going absolutely mad with rahs and cheering, and then they win something and walk out without paying a single penny for it."
       },
       {
         "number": 3,
@@ -25548,7 +25548,7 @@
       },
       {
         "number": 3,
-        "initials": "A T J",
+        "initials": "A T",
         "clue": "Any female deer, gone all otherworldly and started playing chess in a period drama."
       }
     ]
@@ -25606,7 +25606,7 @@
       {
         "number": 2,
         "initials": "L N",
-        "clue": "A small wolf pup, gone all Kenyan and started winning Oscars."
+        "clue": "There is a toilet, there is a flatbread, then there is something new, something young, and someone going oh at the end."
       },
       {
         "number": 3,
@@ -25632,7 +25632,7 @@
       {
         "number": 1,
         "initials": "C B",
-        "clue": "A white cliff, gone all elegant and started winning every award going."
+        "clue": "There is a garden gate, someone has blanched some vegetables in it, and that is your lot."
       },
       {
         "number": 2,
@@ -25995,12 +25995,12 @@
     "clues": [
       {
         "number": 1,
-        "initials": "G O A T",
+        "initials": "G",
         "clue": "A farmyard animal, gone all internet and decided it's the best there's ever been."
       },
       {
         "number": 2,
-        "initials": "F O M O",
+        "initials": "F",
         "clue": "That feeling when everyone else is out having fun and you're at home knowing about it."
       },
       {
@@ -26031,7 +26031,7 @@
       },
       {
         "number": 2,
-        "initials": "C B",
+        "initials": "C",
         "clue": "Something that gets you to look at it under false pretences, a misleading title on the internet."
       },
       {
@@ -26088,7 +26088,7 @@
     "clues": [
       {
         "number": 1,
-        "initials": "M B",
+        "initials": "M",
         "clue": "A large carnivorous creature, gone all generous and started giving things away to random strangers."
       },
       {
@@ -26181,7 +26181,7 @@
     "clues": [
       {
         "number": 1,
-        "initials": "S M",
+        "initials": "S",
         "clue": "A small creepy creature, gone all heroic and started climbing up buildings."
       },
       {
@@ -26279,7 +26279,7 @@
       },
       {
         "number": 2,
-        "initials": "A M",
+        "initials": "A",
         "clue": "A tiny insect, gone all tiny and started shrinking to solve crimes."
       },
       {
@@ -26398,12 +26398,12 @@
     "clues": [
       {
         "number": 1,
-        "initials": "C W",
+        "initials": "C",
         "clue": "A female feline burglar, gone all leather-suited and started robbing Gotham."
       },
       {
         "number": 2,
-        "initials": "S G",
+        "initials": "S",
         "clue": "A female version of a bloke who flies around in a cape, also flies around in a cape."
       },
       {
@@ -26461,7 +26461,7 @@
       {
         "number": 1,
         "initials": "R",
-        "clue": "A male Robin, gone all tights-wearing and started helping a man in a bat costume."
+        "clue": "Someone's gone and robbed a place from the inside. Helped a bloke in a bat suit out after that."
       },
       {
         "number": 2,
@@ -26491,7 +26491,7 @@
     "clues": [
       {
         "number": 1,
-        "initials": "B G",
+        "initials": "B",
         "clue": "A female version of a nocturnal flying mammal, gone all heroic and started fighting in Gotham."
       },
       {
@@ -26532,7 +26532,7 @@
       },
       {
         "number": 3,
-        "initials": "T F",
+        "initials": "T",
         "clue": "A double-sided coin, gone all split personality and started terrorising Gotham."
       }
     ]
@@ -26615,12 +26615,12 @@
     "clues": [
       {
         "number": 1,
-        "initials": "O Z",
+        "initials": "O",
         "clue": "A wonderful place, gone all criminal and started showing what happens when drug money piles up."
       },
       {
         "number": 2,
-        "initials": "T B B",
+        "initials": "T B",
         "clue": "A group of young men, gone all chemistry teacher and started making methamphetamine."
       },
       {
@@ -26873,7 +26873,7 @@
       },
       {
         "number": 3,
-        "initials": "B T F",
+        "initials": "B T T F",
         "clue": "Returning to a time before now, gone all DeLorean and started involving a scientist."
       }
     ]
@@ -26894,7 +26894,7 @@
     "clues": [
       {
         "number": 1,
-        "initials": "E T",
+        "initials": "E",
         "clue": "Someone who doesn't live on this planet, gone all friendly and started eating sweets with a boy."
       },
       {
@@ -26997,7 +26997,7 @@
       },
       {
         "number": 3,
-        "initials": "N T D",
+        "initials": "N B C",
         "clue": "Something that happens after midnight, gone all animated and started involving a man called Jack."
       }
     ]
@@ -27049,12 +27049,12 @@
     "clues": [
       {
         "number": 1,
-        "initials": "T G B",
+        "initials": "T G T B A T U",
         "clue": "How good something is, gone all spaghetti western and started involving three armed men."
       },
       {
         "number": 2,
-        "initials": "N T D",
+        "initials": "S",
         "clue": "A timetable for something that hasn't happened yet, gone all Keanu Reeves and started on a bus."
       },
       {
@@ -27080,7 +27080,7 @@
     "clues": [
       {
         "number": 1,
-        "initials": "S",
+        "initials": "W",
         "clue": "A bloke in a top hat who lives in a stripy tower and makes chocolate."
       },
       {
@@ -27090,7 +27090,7 @@
       },
       {
         "number": 3,
-        "initials": "B",
+        "initials": "P",
         "clue": "A large bear from Peru, gone all British and started making marmalade sandwiches."
       }
     ]
@@ -27111,7 +27111,7 @@
     "clues": [
       {
         "number": 1,
-        "initials": "F F",
+        "initials": "F G",
         "clue": "A quick walker, gone all Southern American and started running across the country with a box of chocolates."
       },
       {
@@ -27174,7 +27174,7 @@
       {
         "number": 1,
         "initials": "B",
-        "clue": "A young female who is very brave, goes off into the Scottish highlands and causes a lot of trouble."
+        "clue": "A woman's undergarment has turned up with the letter V on it. Pixar film, Scottish girl with a bow and arrow."
       },
       {
         "number": 2,
@@ -27266,12 +27266,12 @@
     "clues": [
       {
         "number": 1,
-        "initials": "T S 2",
+        "initials": "T S",
         "clue": "Children's playthings, gone all cinematic and started having adventures without the boy."
       },
       {
         "number": 2,
-        "initials": "T S 3",
+        "initials": "T S",
         "clue": "Children's playthings, gone all emotional and started going to university."
       },
       {
@@ -27328,7 +27328,7 @@
     "clues": [
       {
         "number": 1,
-        "initials": "T I 2",
+        "initials": "T I",
         "clue": "A group of exceptional people, gone all retired and started fighting again."
       },
       {
@@ -27359,7 +27359,7 @@
     "clues": [
       {
         "number": 1,
-        "initials": "W W",
+        "initials": "W",
         "clue": "A small cylindrical robot, gone all lonely and started collecting rubbish on an abandoned Earth."
       },
       {
@@ -27452,7 +27452,7 @@
     "clues": [
       {
         "number": 1,
-        "initials": "R A T D",
+        "initials": "M",
         "clue": "A young island girl, goes off to sea and has to find a demigod to save everyone."
       },
       {
@@ -27636,7 +27636,7 @@
     "clues": [
       {
         "number": 1,
-        "initials": "H V I I I",
+        "initials": "H V",
         "clue": "A Tudor monarch, had six wives and kept losing patience with them. Very fond of his dinner."
       },
       {
@@ -27728,7 +27728,7 @@
     "clues": [
       {
         "number": 1,
-        "initials": "R T L H",
+        "initials": "R T L",
         "clue": "A crusading king, went all lion-hearted and spent most of his reign abroad."
       },
       {
@@ -28214,7 +28214,7 @@
     "clues": [
       {
         "number": 1,
-        "initials": "C 2",
+        "initials": "C",
         "clue": "A futuristic city, gone all dystopian and a bloke with implants drives around causing chaos."
       },
       {
@@ -28374,7 +28374,7 @@
       },
       {
         "number": 2,
-        "initials": "P M",
+        "initials": "P",
         "clue": "A circular yellow creature, eats dots, avoids ghosts, been doing it since 1980."
       },
       {
@@ -28552,7 +28552,7 @@
     "clues": [
       {
         "number": 1,
-        "initials": "S B",
+        "initials": "S",
         "clue": "A Japanese dish, raw fish on rice, beautiful presentation, someone spent years training for this."
       },
       {
@@ -28614,7 +28614,7 @@
     "clues": [
       {
         "number": 1,
-        "initials": "P A",
+        "initials": "P",
         "clue": "A Spanish rice dish, cooked in a big flat pan with seafood or chicken, very yellow."
       },
       {
